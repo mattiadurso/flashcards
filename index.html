@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#F5F7FB" />
+  <meta name="color-scheme" content="light" />
+  <meta name="supported-color-schemes" content="light" />
+  <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
+  <meta name="darkreader-lock" />
+  <title>Giud Studia — Quiz</title>
+  <link rel="stylesheet" href="styles.css?v=8" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-row">
+      <h1 class="title">Giud Studia</h1>
+      <div class="top-actions">
+        <button id="restore-flagged-btn" class="ghost-btn ghost-btn--warn"
+                title="Ripristina le domande segnalate come errate" hidden>
+          Ripristina segnalate <span id="flagged-count" class="badge"></span>
+        </button>
+        <button id="reset-btn" class="ghost-btn" title="Reset progress">Reset progress</button>
+      </div>
+    </div>
+    <div class="filters">
+      <label class="field">
+        <span>Topic</span>
+        <select id="topic-select">
+          <option value="__all__">All</option>
+        </select>
+      </label>
+      <label class="field" id="difficulty-field" hidden>
+        <span>Difficulty</span>
+        <select id="difficulty-select">
+          <option value="__all__">All</option>
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+      </label>
+    </div>
+    <div class="progress">
+      <div class="progress-meta">
+        <span id="counter">0 / 0</span>
+        <span id="score">Score: 0</span>
+      </div>
+      <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+    </div>
+  </header>
+
+  <main id="main" class="main">
+    <section id="card-container" class="card-container">
+      <article id="card" class="card" aria-live="polite">
+        <div id="image-wrap" class="image-wrap" hidden>
+          <img id="card-image" alt="" />
+        </div>
+        <div class="meta-bar">
+          <div id="meta-row" class="meta-row"></div>
+          <button id="flag-btn" class="flag-btn" type="button"
+                  title="Segnala domanda errata — non verrà più mostrata">
+            <span aria-hidden="true">⚑</span> Segnala
+          </button>
+        </div>
+        <h2 id="question-text" class="question-text">Loading…</h2>
+        <div id="options" class="options"></div>
+        <div id="feedback" class="feedback" hidden>
+          <details id="explanation-box" class="explanation-box">
+            <summary class="explanation-summary">
+              <span class="explanation-summary-label">Spiegazione</span>
+              <span class="explanation-chevron" aria-hidden="true"></span>
+            </summary>
+            <p id="explanation" class="explanation"></p>
+          </details>
+          <button id="next-btn" class="primary-btn">Next</button>
+        </div>
+      </article>
+    </section>
+
+    <section id="end-screen" class="end-screen" hidden>
+      <article class="card">
+        <h2>Session complete</h2>
+        <p id="end-summary" class="end-summary"></p>
+        <div id="praise" class="praise" hidden>
+          <div id="praise-emojis" class="praise-emojis"></div>
+          <p id="praise-msg" class="praise-msg"></p>
+          <div id="praise-score" class="praise-score"></div>
+        </div>
+        <button id="restart-btn" class="primary-btn">Restart</button>
+      </article>
+    </section>
+
+    <section id="empty-screen" class="end-screen" hidden>
+      <article class="card">
+        <h2>No questions to show</h2>
+        <p id="empty-summary" class="end-summary">
+          Add a topic file under <code>questions/</code> and list it in
+          <code>questions/index.json</code>.
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <img id="lightbox-img" alt="" />
+  </div>
+
+  <script src="praise.js?v=2"></script>
+  <script src="app.js?v=6"></script>
+</body>
+</html>
