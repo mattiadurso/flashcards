@@ -493,6 +493,7 @@ function updateAvailableCount() {
 
 function showSetupScreen() {
   state.current = null;            // keyboard handlers ignore input while on setup
+  document.body.classList.remove('session-active');
   els.setupScreen.hidden = false;
   els.cardContainer.hidden = true;
   els.endScreen.hidden = true;
@@ -738,6 +739,11 @@ function handleAnswer(chosenIdx) {
   els.explanationBox.open = false;   // start folded; user clicks to reveal
   els.feedback.hidden = false;
   updateProgress();
+
+  // Bring the Next button into view if it landed below the fold (mobile),
+  // so the user can tap it without an extra scroll. 'nearest' = no-op when
+  // it's already fully visible (desktop).
+  requestAnimationFrame(() => els.nextBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest' }));
 }
 
 // Emoji picked at random for the end screen so it feels a little different each
@@ -822,6 +828,7 @@ function renderBreakdown() {
 
 function showEndScreen() {
   state.current = null;              // no live question: ignore answer/next keys
+  document.body.classList.remove('session-active');
   els.cardContainer.hidden = true;
   els.emptyScreen.hidden = true;
   els.endScreen.hidden = false;
@@ -855,6 +862,7 @@ function showEndScreen() {
 
 function showEmptyScreen() {
   state.current = null;
+  document.body.classList.remove('session-active');
   els.cardContainer.hidden = true;
   els.endScreen.hidden = true;
   els.emptyScreen.hidden = false;
@@ -883,6 +891,9 @@ function startSession() {
   els.progress.hidden = false;
   els.newSessionBtn.hidden = false;
   els.streak.hidden = true;        // fresh session starts with no streak
+  // On mobile this folds the top bar down to just the progress bar, freeing
+  // vertical space so the card (and its Next button) fits without scrolling.
+  document.body.classList.add('session-active');
   updateProgress();
   if (state.filtered.length === 0) {
     showEmptyScreen();

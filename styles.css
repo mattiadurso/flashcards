@@ -862,6 +862,13 @@ code {
   .main { padding: 14px 12px 60px; }
   .card { padding: 20px 18px; border-radius: 20px; }
   .question-text { font-size: 19px; }
+
+  /* During a quiz, fold the title + action buttons away so the sticky top bar
+     shrinks to just the progress bar — frees vertical space so the card and
+     its Next button fit on screen without scrolling. */
+  body.session-active .topbar-row { display: none; }
+  body.session-active .topbar { padding-top: 8px; padding-bottom: 8px; }
+  body.session-active .main { padding-top: 10px; }
 }
 
 .site-footer {
