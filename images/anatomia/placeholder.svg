@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="Placeholder image">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#5E5CE6"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#g)" opacity="0.12"/>
+  <rect x="0.5" y="0.5" width="599" height="359" fill="none" stroke="#0A84FF" stroke-opacity="0.35" stroke-dasharray="6 6"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', Segoe UI, sans-serif" text-anchor="middle">
+    <text x="300" y="170" font-size="28" font-weight="700" fill="#1C1C1E">Placeholder image</text>
+    <text x="300" y="205" font-size="15" fill="#6E6E73">Drop a real image at images/&lt;topic&gt;/… and reference it</text>
+    <text x="300" y="225" font-size="15" fill="#6E6E73">from the question via the "image" field.</text>
+  </g>
+</svg>

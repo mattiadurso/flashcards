@@ -1,0 +1,862 @@
+[
+  {
+    "id": "anatomia-daino-001",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "A quale famiglia appartiene il daino (Dama dama)?",
+    "options": ["Bovidi", "Cervidi", "Suidi", "Mustelidi"],
+    "correctIndex": 1,
+    "explanation": "Il daino appartiene alla famiglia dei Cervidi, sottofamiglia Cervini, ordine Artiodattili, sottordine Ruminanti.",
+    "difficulty": "easy",
+    "source": "DAINO.pdf p.1"
+  },
+  {
+    "id": "anatomia-daino-002",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Dove si trova l'unica popolazione residua originaria di Dama dama, sopravvissuta dopo l'ultima glaciazione?",
+    "options": ["Spagna meridionale", "Turchia (Parco Nazionale di Termessos)", "Sardegna", "Grecia continentale"],
+    "correctIndex": 1,
+    "explanation": "Dopo l'ultima glaciazione il daino si è estinto in quasi tutta Europa; l'unica popolazione originaria residua è quella di Dùzler in Turchia, nel Parco Nazionale di Termessos vicino ad Antalya.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.2"
+  },
+  {
+    "id": "anatomia-daino-003",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "In quale area dell'arco alpino italiano è presente una popolazione di daino?",
+    "options": ["Val d'Aosta", "Foresta del Cansiglio", "Dolomiti di Sesto", "Alpi Apuane"],
+    "correctIndex": 1,
+    "explanation": "Il daino è sostanzialmente assente dall'arco alpino, con l'unica eccezione della popolazione della Foresta del Cansiglio. È invece ben distribuito in Toscana, Umbria e Appennino tosco-romagnolo.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.3"
+  },
+  {
+    "id": "anatomia-daino-004",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale carattere morfologico distingue tipicamente il daino dagli altri cervidi italiani?",
+    "options": [
+      "I palchi maschili appiattiti a formare una 'pala'",
+      "L'assenza completa di palchi nei maschi",
+      "I palchi sempre a tre punte verticali",
+      "I palchi presenti anche nelle femmine"
+    ],
+    "correctIndex": 0,
+    "explanation": "I maschi di daino portano palchi ramificati la cui parte superiore si allarga a formare una pala — una caratteristica unica fra i cervidi italiani, che li distingue da capriolo e cervo.",
+    "difficulty": "easy",
+    "source": "DAINO.pdf p.22"
+  },
+  {
+    "id": "anatomia-daino-005",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quali sono le quattro colorazioni principali del mantello del daino?",
+    "options": [
+      "Pomellato, isabellino, melanico, bianco",
+      "Fulvo, grigio, nero, albino",
+      "Rossiccio, marrone, nero, pezzato",
+      "Estivo, invernale, giovanile, senile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le quattro colorazioni principali del mantello sono pomellato (la più comune), isabellino (nocciola chiaro), melanico (nero) e bianco (non albino). La pomellatura è la macchiettatura bianca su dorso e fianchi tipica della forma più diffusa.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.6, p.10"
+  },
+  {
+    "id": "anatomia-daino-006",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Qual è la forma tipica dello specchio anale del daino pomellato o isabellino?",
+    "options": [
+      "Un cerchio uniforme bianco",
+      "Un'àncora capovolta (bianco bordato di nero con coda nera centrale)",
+      "Un cuore rosso",
+      "Una mezzaluna gialla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo specchio anale del daino pomellato/isabellino è bianco candido bordato da strisce nere, e la coda lunga e scura al centro gli conferisce la tipica forma di 'àncora capovolta'. Nei melanici il bianco è assente.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.7"
+  },
+  {
+    "id": "anatomia-daino-007",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Cosa segnala un daino che tiene la coda dritta, parallela al suolo?",
+    "options": [
+      "Situazione tranquilla",
+      "Allarme di moderata intensità",
+      "Pericolo imminente",
+      "Inizio della fase riproduttiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "La coda mossa lateralmente segnala tranquillità; immobile, un allarme moderato; dritta e parallela al suolo segnala un pericolo imminente (es. avvicinamento di predatori). Appena la coda viene alzata, tutto il branco fugge anche senza aver visto direttamente la minaccia.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.8"
+  },
+  {
+    "id": "anatomia-daino-008",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Qual è il peso indicativo di un maschio adulto di daino (peso pieno)?",
+    "options": ["20–40 kg", "40–65 kg", "60–110 kg", "150–200 kg"],
+    "correctIndex": 2,
+    "explanation": "I maschi adulti pesano 60–110 kg (peso pieno) con altezza al garrese di 80–90 cm. Le femmine sono notevolmente più piccole (40–65 kg), a testimonianza di un dimorfismo sessuale molto accentuato.",
+    "difficulty": "easy",
+    "source": "DAINO.pdf p.14"
+  },
+  {
+    "id": "anatomia-daino-009",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Come si chiama il maschio di daino di classe 3, con palco a pala pienamente formata (oltre 4–5 anni)?",
+    "options": ["Fusone", "Balestrone", "Palancone", "Sottile"],
+    "correctIndex": 2,
+    "explanation": "Le classi maschili sono: piccolo (classe 0), fusone (classe 1, palco a fuso non ramificato), balestrone (classe 2, palco con abbozzo di pala fino a 10 cm), palancone (classe 3, pala oltre 10 cm e corporatura massiccia). 'Sottile' è invece la femmina di classe 1.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.19, p.48"
+  },
+  {
+    "id": "anatomia-daino-010",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Perché il maschio di daino chiamato 'fusone' porta questo nome?",
+    "options": [
+      "Perché ha un mantello di colore fuso/grigio",
+      "Perché ha il primo palco a forma di fuso, costituito da stanghe corte e non ramificate",
+      "Perché è il risultato della fusione di due popolazioni",
+      "Perché vive isolato dal gruppo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il primo palco è sempre a fuso: due stanghe piuttosto corte, prive di rose e non ramificate. Da questa forma deriva il nome 'fusone'. Compare a 9–10 mesi e viene gettato a fine maggio–giugno dell'anno successivo.",
+    "difficulty": "easy",
+    "source": "DAINO.pdf p.25"
+  },
+  {
+    "id": "anatomia-daino-011",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "In quale periodo dell'anno avviene la caduta dei palchi nei maschi adulti di daino?",
+    "options": [
+      "Da gennaio a febbraio",
+      "Da metà aprile a inizio giugno",
+      "Da agosto a settembre",
+      "Da novembre a dicembre"
+    ],
+    "correctIndex": 1,
+    "explanation": "La caduta avviene da metà aprile a tutto maggio e fino a inizio giugno. La pulitura del trofeo nuovo avviene poi ad agosto–inizio settembre. Gettano prima gli individui anziani e sani.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.27, p.29"
+  },
+  {
+    "id": "anatomia-daino-012",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale ormone, diminuendo nel sangue, provoca il distacco del palco dal cranio?",
+    "options": ["Cortisolo", "Adrenalina", "Testosterone", "Melatonina"],
+    "correctIndex": 2,
+    "explanation": "A fine aprile–maggio la diminuzione del testosterone provoca la resezione del punto d'attacco del palco, che si distacca dal cranio. Restano gli steli, da cui pochi giorni dopo inizia la ricrescita.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.28"
+  },
+  {
+    "id": "anatomia-daino-013",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Dove si trova la ghiandola preorbitale del daino?",
+    "options": [
+      "Davanti all'angolo nasale dell'occhio (seno infraorbitale)",
+      "Tra il 3° e il 4° dito delle zampe",
+      "Sotto il tallone delle zampe posteriori",
+      "Alla base della coda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ghiandola preorbitale è situata davanti all'angolo nasale dell'occhio (seno infraorbitale). È importante nei maschi per il marcamento territoriale durante gli amori e nelle femmine per le cure parentali. Le metatarsali stanno sotto il tallone; le interdigitali tra 3° e 4° dito.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.20-21"
+  },
+  {
+    "id": "anatomia-daino-014",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Come si distinguono le ghiandole metatarsali del daino da quelle del capriolo?",
+    "options": [
+      "Sono assenti nel daino",
+      "Nel daino sono ricoperte da pelame più chiaro e difficilmente individuabili a distanza",
+      "Nel daino producono un secreto rosso",
+      "Nel daino sono posizionate sulle zampe anteriori"
+    ],
+    "correctIndex": 1,
+    "explanation": "A differenza del capriolo, nel daino le ghiandole metatarsali sono ricoperte da pelame più chiaro, quindi difficilmente individuabili a distanza. La loro funzione principale sembra essere il riconoscimento individuale.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.21"
+  },
+  {
+    "id": "anatomia-daino-015",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Da quanti denti è costituita la dentatura completa del daino adulto?",
+    "options": ["20", "28", "32", "44"],
+    "correctIndex": 2,
+    "explanation": "La dentatura del daino adulto è di 32 denti: 12 molari, 12 premolari, 2 canini 'incisivizzati' e 6 incisivi. Canini e incisivi sono presenti solo nelle mandibole. Formula dentaria: 0/3 0/1 3/3 3/3.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.68"
+  },
+  {
+    "id": "anatomia-daino-016",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "A che età i maschi di daino riescono effettivamente a riprodursi, e perché?",
+    "options": [
+      "A 6 mesi, perché la maturità sessuale è precocissima",
+      "A 14 mesi, perché coincide con la maturità sessuale",
+      "Dal quarto anno, perché vengono esclusi prima per competizione intrasessuale",
+      "Mai prima dei 10 anni"
+    ],
+    "correctIndex": 2,
+    "explanation": "La maturità sessuale è raggiunta a 14 mesi in entrambi i sessi, ma i maschi restano esclusi dalla riproduzione fino al quarto anno a causa della competizione intrasessuale (i palanconi monopolizzano gli accoppiamenti). Le femmine invece si riproducono dal secondo anno con fecondità 88–100%.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.57"
+  },
+  {
+    "id": "anatomia-daino-017",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quanto dura la gestazione nel daino?",
+    "options": ["Circa 150 giorni", "Circa 200 giorni", "Circa 230 giorni", "Circa 300 giorni"],
+    "correctIndex": 2,
+    "explanation": "La gestazione dura circa 230 giorni. Il periodo di calore di una femmina dura pochi giorni e si può ripetere dopo circa 20 giorni se non avviene la fecondazione (poliestrale stagionale). Il picco delle nascite si verifica a inizio giugno.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.65"
+  },
+  {
+    "id": "anatomia-daino-018",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale sistema riproduttivo del daino è caratteristico di popolazioni ad alta densità?",
+    "options": [
+      "Territorio singolo",
+      "Following (un maschio segue un gruppo di femmine)",
+      "Lek (territori multipli contigui difesi da più maschi)",
+      "Monogamia di coppia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il lek è tipico delle alte densità: più maschi adulti operano insieme in un'area pianeggiante ed attraente, regolati da una precisa gerarchia. A basse densità si preferiscono il following o i territori singoli. L'harem è poco usato dal daino.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.63, p.67"
+  },
+  {
+    "id": "anatomia-daino-019",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Perché nei palanconi un 'pomo d'Adamo' molto evidente è un indicatore di buona condizione fisica?",
+    "options": [
+      "Perché riflette una maggiore massa muscolare delle zampe",
+      "Perché è responsabile dell'abbassamento della frequenza del bramito, indice di migliori condizioni",
+      "Perché segnala la presenza di parassiti, che il maschio sano riesce a tollerare",
+      "Perché aumenta la capacità olfattiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il pomo d'Adamo molto sviluppato nei palanconi è responsabile dell'abbassamento della frequenza del bramito, che a sua volta sembra essere un indice di migliori condizioni fisiche del maschio — un segnale onesto verso femmine e rivali.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.46"
+  },
+  {
+    "id": "anatomia-daino-020",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Che tipo di strategia alimentare adotta il daino?",
+    "options": [
+      "Brucatore puro (solo foglie e germogli)",
+      "Ruminante pascolatore di tipo intermedio, tendente al pascolatore puro",
+      "Carnivoro opportunista",
+      "Granivoro specializzato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il daino è un ruminante pascolatore di tipo intermedio (alterna brucatura e pascolo) ma tende decisamente al pascolatore puro, come confermato dal scarso consumo di cespugli. Ha rumine grande, attività ghiandole salivari bassa e ritmi di frequenza ruminale alti.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.88-89"
+  },
+  {
+    "id": "anatomia-daino-021",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Qual è il principale predatore del daino in Italia, in grado di predare tutte le classi di sesso ed età?",
+    "options": ["Volpe", "Cinghiale", "Lupo", "Aquila reale"],
+    "correctIndex": 2,
+    "explanation": "Il lupo è il predatore più limitante, in grado di predare praticamente tutte le classi sociali (privilegiando femmine e giovani). La volpe e occasionalmente il cinghiale predano i piccoli nei primi giorni di vita. La lince, dove presente, preda solo femmine e piccoli.",
+    "difficulty": "easy",
+    "source": "DAINO.pdf p.92, p.94"
+  },
+  {
+    "id": "anatomia-daino-022",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Nei confronti di quale altro cervide il daino si rivela competitivamente superiore, fino a danneggiarne le popolazioni?",
+    "options": ["Cervo", "Capriolo", "Muflone", "Camoscio"],
+    "correctIndex": 1,
+    "explanation": "Il daino prevale nei confronti del capriolo, che risulta decisamente danneggiato dalla sua presenza, soprattutto a densità medio-alte. Verso il cervo l'impatto è grave nei contesti recintati (es. Bosco della Mesola, FE). Con cinghiale non sono noti casi di interferenza negativa.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.92-93"
+  },
+  {
+    "id": "anatomia-daino-023",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Perché l'impronta dello zoccolo del daino è facilmente distinguibile da quella di altri ungulati?",
+    "options": [
+      "Perché è asimmetrica, con un dito molto più lungo dell'altro",
+      "Perché lascia sempre l'impronta dei fettoni, mentre gli speroni raramente toccano il terreno",
+      "Perché ha cinque dita anziché quattro",
+      "Perché l'impronta è circolare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli zoccoli del daino hanno fettoni molto voluminosi e speroni distanti dalle suole: per questo nell'impronta è quasi sempre visibile il segno dei fettoni, mentre gli speroni si imprimono solo in situazioni particolari (forti pendenze con fango).",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.82"
+  },
+  {
+    "id": "anatomia-daino-024",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Che cos'è una 'piazzola' di bramito nel comportamento riproduttivo dei maschi di daino?",
+    "options": [
+      "Un rifugio sotterraneo per il riposo",
+      "Un'area rotondeggiante prodotta da frenetiche raspate, con segni evidenti degli zoccoli",
+      "Un punto di abbeverata condiviso",
+      "Un nido costruito con rami per la femmina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le piazzole di bramito sono aree rotondeggianti prodotte da raspate frenetiche e numerosissime, in cui restano spesso visibili i segni degli zoccoli. Sono uno dei segni di presenza più tipici nel periodo riproduttivo, insieme ai 'fregoni' (marcamenti dei palchi contro piccole piante).",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.84-85"
+  },
+  {
+    "id": "anatomia-daino-025",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale tipo di home-range caratterizza il comportamento sedentario del daino?",
+    "options": [
+      "Meno di 10 ettari",
+      "Generalmente non supera i 200–300 ettari",
+      "Oltre 5.000 ettari",
+      "Variabile da 10.000 a 50.000 ettari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il daino ha un comportamento alquanto sedentario: in genere l'home-range non supera i 200–300 ettari. Predilige boschi misti di latifoglie ad alto fusto alternati a radure, con scarsa pendenza e scarso innevamento.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.87"
+  },
+  {
+    "id": "anatomia-daino-026",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale particolarità della struttura corporea conferisce al daino il suo aspetto agile?",
+    "options": [
+      "Le zampe anteriori sono nettamente più lunghe delle posteriori",
+      "L'altezza al groppone è leggermente superiore rispetto al garrese",
+      "Il torace è cilindrico e privo di sterno",
+      "La colonna vertebrale presenta una gobba dorsale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel daino l'altezza al groppone è leggermente superiore a quella al garrese, conferendo l'aspetto agile tipico. Solo a volte nei maschi le due altezze si equivalgono o il garrese è di poco superiore.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.6"
+  },
+  {
+    "id": "anatomia-daino-027",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quante 'bande di colore' presenta in senso dorso-ventrale il mantello di un daino pomellato o isabellino?",
+    "options": ["Una sola, uniforme", "Due bande", "Tre bande", "Cinque bande"],
+    "correctIndex": 2,
+    "explanation": "Negli individui pomellati e isabellini le bande di colore (tonalità in senso dorso-ventrale, dal più scuro al più chiaro) sono tre. Sono assenti nei bianchi e ridotte a due nei melanici, dove mancano anche le parti bianche dello specchio anale e del sottopancia.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.11"
+  },
+  {
+    "id": "anatomia-daino-028",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Cosa comunica il comportamento di fuga a 'balzi verticali con zampe unite' (stotting) del daino?",
+    "options": [
+      "Una richiesta di accoppiamento da parte del maschio",
+      "Una situazione di rischio ai conspecifici, enfatizzata dallo specchio anale bianco sollevato",
+      "Il riconoscimento del territorio paterno",
+      "L'arrivo della stagione delle mute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo 'stotting' (balzi verticali a zampe unite) accompagna la fuga in condizioni di allarme e, insieme alla coda sollevata che mette in evidenza lo specchio anale bianco, comunica ai conspecifici una possibile situazione di rischio.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.8"
+  },
+  {
+    "id": "anatomia-daino-029",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quando avviene di norma la muta estiva del daino in Emilia-Romagna?",
+    "options": ["Gennaio", "Aprile", "Luglio", "Fine ottobre"],
+    "correctIndex": 1,
+    "explanation": "In Emilia-Romagna la muta estiva avviene di norma ad aprile, quella invernale a fine ottobre. I tempi variano in funzione di clima, altitudine e latitudine. La muta viene effettuata prima dai giovani, poi sub-adulti e adulti, infine animali vecchi o defedati.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.13"
+  },
+  {
+    "id": "anatomia-daino-030",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Approssimativamente, quanto pesa una femmina adulta di daino rispetto a un maschio adulto?",
+    "options": [
+      "Circa il 20% del peso del maschio",
+      "Circa il 55% del peso del maschio",
+      "Pesi sostanzialmente identici",
+      "Le femmine pesano in media più dei maschi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il peso di una femmina adulta oscilla attorno al 55% del peso di un maschio adulto: per questo l'incremento ponderale dei maschi appare più lento, dovendo raggiungere uno sviluppo corporeo molto superiore.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.17"
+  },
+  {
+    "id": "anatomia-daino-031",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "A che età il palco del daino raggiunge il massimo sviluppo, e quando inizia il regresso?",
+    "options": [
+      "Massimo a 2–3 anni, regresso a 6",
+      "Massimo a 5 anni, regresso a 8",
+      "Massimo a 9–10 anni, regresso intorno ai 13",
+      "Massimo a 15 anni, regresso a 20"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il palco è completamente formato quando la larghezza della pala supera i 10 cm; il massimo sviluppo si ha a 9–10 anni, mentre il regresso (riduzione di dimensione e complessità) subentra intorno ai 13 anni.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.32"
+  },
+  {
+    "id": "anatomia-daino-032",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Da chi sono composti tipicamente i gruppi invernali femminili del daino?",
+    "options": [
+      "100% da femmine adulte",
+      "Circa 55% femmine, 36% piccoli, 9% giovani maschi",
+      "Solo coppie monogamiche stabili",
+      "Femmine e palanconi in parti uguali"
+    ],
+    "correctIndex": 1,
+    "explanation": "I gruppi invernali femminili sono composti per circa il 55% da femmine, 36% da piccoli e 9% da giovani maschi. Si formano da fine ottobre a metà marzo. I gruppi maschili invernali sono invece unisessuali e includono tutte le classi di età tranne la classe 0.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.53"
+  },
+  {
+    "id": "anatomia-daino-033",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale caratteristica del mantello accomuna i piccoli di daino, capriolo e cervo nei primi mesi di vita?",
+    "options": [
+      "Sono tutti completamente bianchi",
+      "Sono tutti melanici (neri)",
+      "Sono tutti pomellati (macchiettati di bianco)",
+      "Non hanno mantello visibile prima delle 6 settimane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tutti i Cervidi alla nascita sono pomellati: per distinguere i piccoli di daino da quelli di cervo e capriolo si devono considerare dimensioni e specchio anale, non la sola pomellatura. Nel daino il mantello pomellato resta evidente fino a circa due mesi di età.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.41"
+  },
+  {
+    "id": "anatomia-daino-034",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Come si chiama la femmina di daino di classe 1 (nata l'anno precedente)?",
+    "options": ["Fusona", "Sottile", "Balestrona", "Adulta"],
+    "correctIndex": 1,
+    "explanation": "La femmina di classe 1 si chiama 'sottile' (forme esili e snelle, testa sottile, dimensioni ridotte, in genere al seguito della madre). Dalla classe 2 in poi è semplicemente 'adulta'. Il termine 'fusona' non esiste — 'fusone' indica il maschio di classe 1.",
+    "difficulty": "easy",
+    "source": "DAINO.pdf p.19, p.52"
+  },
+  {
+    "id": "anatomia-daino-035",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Nel ciclo biologico annuale dei maschi, cosa caratterizza la 'fase indifferente' (novembre–inizio dicembre)?",
+    "options": [
+      "Combattimenti intensi per la difesa del territorio",
+      "Assenza di fenomeni aggregativi e di aggressività: riposo e recupero della forma fisica",
+      "Migrazione verso quote più basse",
+      "Pulitura dei palchi nuovi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La 'fase indifferente' che segue gli amori (novembre–inizio dicembre) è un momento di tranquillità senza aggregazioni né aggressività, finalizzato all'alimentazione e al recupero della forma fisica dopo lo sforzo riproduttivo.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.54"
+  },
+  {
+    "id": "anatomia-daino-036",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Come è strutturata la copula nel daino?",
+    "options": [
+      "Una copula prolungata di diversi minuti senza tentativi preliminari",
+      "Brevissima (un unico salto rapido) ma ripetuta più volte, preceduta da numerosi salti di finta",
+      "Più maschi montano la stessa femmina contemporaneamente",
+      "La femmina monta il maschio per stimolare l'eiaculazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La copula è brevissima (un unico salto rapido), ripetuta più volte e sempre preceduta da numerosi 'tentativi' (rapidi salti di finta copulazione). La brevità è probabilmente legata ai rischi di predazione e ad attacchi di altri maschi nel momento delicato della monta.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.65"
+  },
+  {
+    "id": "anatomia-daino-037",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Con quanti denti da latte nasce un piccolo di daino?",
+    "options": ["12", "20", "28", "32"],
+    "correctIndex": 1,
+    "explanation": "I piccoli nascono con 20 denti da latte (6 incisivi, 2 canini, 12 premolari). I molari definitivi erompono in sequenza antero-posteriore; i premolari definitivi sostituiscono quelli da latte dopo i molari, in sequenza invertita.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.71"
+  },
+  {
+    "id": "anatomia-daino-038",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Una mandibola di daino presenta il terzo premolare ancora tricuspidato (da latte) e l'inizio dell'eruzione del terzo molare. Quale età è compatibile con questo quadro dentario?",
+    "options": [
+      "6 mesi (piccolo)",
+      "Circa 19 mesi (fusone)",
+      "Oltre 30 mesi (dentatura definitiva)",
+      "Oltre 10 anni (forte usura)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il terzo premolare tricuspidato (deciduo) ancora in posto, associato all'inizio dell'eruzione del terzo molare, è tipico di un fusone di circa 19 mesi. Il terzo premolare bicuspidato (definitivo) compare oltre i 30 mesi, quando la dentatura è completa.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.73-74"
+  },
+  {
+    "id": "anatomia-daino-039",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Una volta completata l'eruzione di tutti i denti definitivi, su quale elemento si basa la stima dell'età del daino?",
+    "options": [
+      "Il colore dello smalto",
+      "Il numero di canini",
+      "Il grado di usura dei denti (cuspidi consumate, dentina esposta, fessure assottigliate)",
+      "La presenza di tartaro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una volta terminata la sostituzione-eruzione, l'unico elemento di valutazione dell'età è il grado di usura: le cuspidi si consumano mettendo in evidenza strisce di dentina sempre più spesse, il dente si appiattisce e la fessura tra cuspidi linguali e guanciali si assottiglia fino quasi a scomparire.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.75"
+  },
+  {
+    "id": "anatomia-daino-040",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quali sono le dimensioni tipiche di una fatta (escremento) di daino?",
+    "options": [
+      "1–3 mm di lunghezza",
+      "10–15 mm di lunghezza, 8–12 mm di larghezza",
+      "30–50 mm di lunghezza",
+      "Oltre 10 cm di lunghezza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le fatte di daino sono lunghe 10–15 mm e larghe 8–12 mm, di colore nero, espulse aggregate (con leggere schiacciature sui fianchi) che si separano al suolo. Le fatte delle femmine sono più piccole e di forma più arrotondata.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.83"
+  },
+  {
+    "id": "anatomia-daino-041",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Oltre alla funzione visiva e olfattiva, quale altra modalità di marcamento svolgono talvolta i 'fregoni' del daino?",
+    "options": [
+      "Marcamento tattile per contatto diretto con i conspecifici",
+      "Marcamento acustico, per il rumore delle pale che colpiscono il legno",
+      "Marcamento luminoso, grazie a peli fosforescenti",
+      "Marcamento gustativo, lasciando saliva mirata"
+    ],
+    "correctIndex": 1,
+    "explanation": "I fregoni sono marcamenti visivi e olfattivi ottenuti sfregando palchi e capo contro piccole piante e cespugli, ma a volte svolgono anche funzione di marcamento acustico per il forte rumore prodotto dalle pale che colpiscono violentemente il legno.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.85"
+  },
+  {
+    "id": "anatomia-daino-042",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Cos'è la 'marcia parallela' nel comportamento riproduttivo dei maschi di daino?",
+    "options": [
+      "Una migrazione coordinata verso i quartieri estivi",
+      "Un confronto ritualizzato fra due maschi che può preludere allo scontro diretto",
+      "Una danza di corteggiamento davanti alla femmina",
+      "Una fuga sincronizzata davanti a un predatore"
+    ],
+    "correctIndex": 1,
+    "explanation": "La marcia parallela è un confronto ritualizzato in cui due maschi camminano fianco a fianco valutando la forza dell'avversario; può preludere al combattimento vero e proprio (scontro e incrocio dei palchi, con rumore udibile a distanza), oppure risolvere la disputa senza contatto.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.67"
+  },
+  {
+    "id": "anatomia-daino-043",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "L'acqua è un fattore limitante particolarmente rilevante per il daino?",
+    "options": [
+      "Sì, il daino richiede grandi pozze d'acqua giornaliere",
+      "No, il daino tollera bene una moderata aridità",
+      "Sì, ma solo durante la stagione riproduttiva",
+      "Solo per le femmine in lattazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'acqua non è un fattore limitante di particolare rilevanza: il daino tollera bene una moderata aridità, coerentemente con la sua origine in climi mediterranei. Sono invece limitanti i versanti ripidi e l'innevamento abbondante e prolungato.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.87"
+  },
+  {
+    "id": "anatomia-daino-044",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Qual è il fabbisogno calorico giornaliero medio di un daino?",
+    "options": ["Circa 500 kcal", "Circa 2.170 kcal", "Circa 8.000 kcal", "Circa 15.000 kcal"],
+    "correctIndex": 1,
+    "explanation": "Il fabbisogno calorico giornaliero è di circa 2.170 kcal. L'attività alimentare si concentra in due periodi principali (alba e tramonto), con pochi altri momenti brevi durante la giornata.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.88"
+  },
+  {
+    "id": "anatomia-daino-045",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale vegetali consumano prevalentemente i daini in inverno?",
+    "options": [
+      "Solo erba fresca dei prati",
+      "Pesci e piccoli invertebrati",
+      "Corteccia, apici, germogli, foglie e frutti di alberi (querce, aceri, faggio, castagno)",
+      "Leguminose e graminacee dei prati"
+    ],
+    "correctIndex": 2,
+    "explanation": "In inverno il daino consuma prevalentemente vegetali legnosi: corteccia, apici, germogli, foglie e frutti di querce, aceri, faggio, castagno. I vegetali erbacei (leguminose, graminacee) sono invece consumati prevalentemente in primavera-estate.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.89"
+  },
+  {
+    "id": "anatomia-daino-046",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale fattore antropico rappresenta un problema particolarmente grave per il daino a causa del suo elevato grado di 'confidenza' rispetto agli altri ungulati?",
+    "options": [
+      "L'inquinamento acustico delle strade",
+      "Il bracconaggio",
+      "L'illuminazione notturna",
+      "La pesca sportiva nei fiumi"
+    ],
+    "correctIndex": 1,
+    "explanation": "A causa del suo grado di confidenza mediamente più elevato rispetto agli altri ungulati, il bracconaggio può rappresentare un grave problema. Anche il randagismo canino e gli incidenti con automezzi sono fattori limitanti di origine antropica.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.90-91"
+  },
+  {
+    "id": "anatomia-daino-047",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quanta parte della giornata dedica mediamente un daino al pascolo?",
+    "options": ["1–5%", "10–15%", "27–50%", "70–90%"],
+    "correctIndex": 2,
+    "explanation": "Il pascolo occupa il 27–50% del tempo (la quota maggiore). Altre attività: a covo ruminando 7–21%, a covo senza ruminare 5–31%, in piedi e in movimento 14–40%, altre attività 2–20%.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.95"
+  },
+  {
+    "id": "anatomia-daino-048",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "A quali patologie il daino risulta relativamente sensibile, soprattutto in determinati ambienti?",
+    "options": [
+      "Malattie da raffreddamento, soprattutto in ambienti umidi",
+      "Insolazione e colpi di calore in pianura",
+      "Patologie cardiocircolatorie da alta quota",
+      "Infezioni parassitarie esclusive degli ambienti aridi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il daino è relativamente sensibile alle malattie da raffreddamento, soprattutto in ambienti umidi. Tra i fattori limitanti naturali rientrano anche le abbondanti nevicate (causa di elevata mortalità) e la predazione, attualmente di scarsa rilevanza.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.94"
+  },
+  {
+    "id": "anatomia-daino-049",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "In quale fascia altitudinale si distribuisce prevalentemente il daino in Italia?",
+    "options": [
+      "Esclusivamente sopra i 2.000 metri",
+      "Dal livello del mare fino a 800–1.000 metri, in boschi di latifoglie e macchia mediterranea",
+      "Solo nei fondovalle alluvionali sotto i 100 metri",
+      "Esclusivamente in alta montagna sopra i 1.800 metri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il daino occupa prevalentemente boschi costieri e macchie mediterranee o fasce collinari fino a 800–1.000 metri di altitudine, in boschi di latifoglie. È sfavorito da eccessi climatici freddi, versanti ripidi con rocce esposte e innevamento abbondante.",
+    "difficulty": "medium",
+    "source": "DAINO.pdf p.86-87"
+  },
+  {
+    "id": "anatomia-daino-050",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale altro ungulato selvatico potrebbe competere con il daino solo in condizioni di densità elevate?",
+    "options": ["Capriolo", "Cinghiale", "Muflone", "Camoscio"],
+    "correctIndex": 2,
+    "explanation": "Il daino prevale sul capriolo e impatta gravemente il cervo (in ambiti recintati). Con il cinghiale non sono noti casi di interferenza negativa. Si ritiene invece che il muflone, ad alte densità, possa diventare un competitore del daino.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.93"
+  },
+  {
+    "id": "anatomia-daino-051",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "A quale età il daino raggiunge la maturità sessuale?",
+    "options": ["12 mesi", "16 mesi", "18 mesi", "Nessuna delle precedenti"],
+    "correctIndex": 3,
+    "explanation": "Trabocchetto: la maturità sessuale viene raggiunta a 14 mesi in entrambi i sessi, valore non presente tra le opzioni. Attenzione: i maschi pur essendo sessualmente maturi a 14 mesi restano esclusi dalla riproduzione fino al quarto anno per competizione intrasessuale.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.57"
+  },
+  {
+    "id": "anatomia-daino-052",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quanto dura la gestazione del daino?",
+    "options": ["Circa 180 giorni", "Circa 210 giorni", "Circa 250 giorni", "Nessuna delle precedenti"],
+    "correctIndex": 3,
+    "explanation": "Trabocchetto: la gestazione dura circa 230 giorni, valore non presente tra le opzioni. 180–210 sono valori più tipici del capriolo (con diapausa) o di cervidi più piccoli; 250 si avvicina al cervo nobile.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.65"
+  },
+  {
+    "id": "anatomia-daino-053",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Con quanti denti da latte nasce un piccolo di daino?",
+    "options": ["6", "12", "24", "Nessuna delle precedenti"],
+    "correctIndex": 3,
+    "explanation": "Trabocchetto: i piccoli nascono con 20 denti da latte (6 incisivi, 2 canini, 12 premolari), valore non presente tra le opzioni. La dentatura adulta sale poi a 32 denti, con i molari definitivi che erompono in sequenza antero-posteriore.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.71"
+  },
+  {
+    "id": "anatomia-daino-054",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Tra le seguenti, quale caratteristica distingue meglio l'impronta dello zoccolo del daino da quella di altri ungulati?",
+    "options": [
+      "Le dimensioni lievemente inferiori rispetto al cervo",
+      "L'evidenza costante dell'impronta dei fettoni, mentre gli speroni raramente toccano il terreno",
+      "La forma marcatamente asimmetrica delle due dita principali",
+      "La presenza di un quinto dito vestigiale al centro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Borderline: anche le dimensioni minori del cervo aiutano nel confronto, ma il carattere realmente distintivo (e citato dal testo) è la combinazione di fettoni voluminosi che lasciano sempre segno e speroni distanti dalle suole che raramente si imprimono. L'asimmetria marcata e il quinto dito sono falsi.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.82"
+  },
+  {
+    "id": "anatomia-daino-055",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale di queste caratteristiche è propria del daino e NON del capriolo?",
+    "options": [
+      "Presenza delle ghiandole metatarsali",
+      "Pomellatura del mantello nei piccoli alla nascita",
+      "Ghiandole metatarsali ricoperte da pelame più chiaro, difficilmente individuabili a distanza",
+      "Presenza di palchi nei maschi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tutte e quattro le affermazioni hanno una base vera in qualche cervide: ghiandole metatarsali, pomellatura neonatale e palchi maschili sono presenti in molti cervidi (capriolo incluso). L'unica peculiarità del daino rispetto al capriolo citata nel testo è che le sue metatarsali sono ricoperte da pelame più chiaro, quindi poco visibili a distanza.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.21"
+  },
+  {
+    "id": "anatomia-daino-056",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "In un censimento primaverile, vedi un giovane maschio con i 'fusi' (palco a fuso). A quale classe va ascritto?",
+    "options": [
+      "Classe 0 (piccolo), perché ha ancora un palco molto semplice",
+      "Classe 1 (fusone), se i fusi sono in velluto",
+      "Classe 2 (balestrone), se i fusi sono già puliti",
+      "Nessuna delle precedenti: i fusi escludono qualunque classificazione certa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Borderline a 'doppia risposta apparente': la regola dei censimenti primaverili dice che gli individui con i fusi in velluto hanno circa 1 anno (fusone, classe 1), mentre quelli con i fusi puliti hanno circa 2 anni e vanno in classe 2. La domanda specifica solo 'fusi' generici, ma il testo associa il termine 'fusone' alla classe 1 — quindi la risposta più diretta è B. La classe 2 vale solo se sono esplicitamente puliti.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.19, p.43"
+  },
+  {
+    "id": "anatomia-daino-057",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Osservi un palancone in autunno: collo molto grosso, vistoso pomo d'Adamo e pala dei palchi larga oltre 10 cm. Cosa segnala la presenza di un pomo d'Adamo così sviluppato?",
+    "options": [
+      "Una maggiore forza fisica grezza nei combattimenti",
+      "L'avvenuta caduta del palco precedente",
+      "L'abbassamento della frequenza del bramito, indice di migliori condizioni fisiche",
+      "Una maggiore aggressività verso le femmine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Borderline: A è plausibile (il palancone è effettivamente più forte) ma il testo non collega il pomo d'Adamo direttamente alla forza muscolare; B è falso (la caduta è regolata dal testosterone, non dal pomo); D è interpretativo. Il dato esplicito del testo è che il pomo d'Adamo abbassa la frequenza del bramito, segnale onesto di buone condizioni fisiche.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.46"
+  },
+  {
+    "id": "anatomia-daino-058",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale di queste affermazioni sui sistemi riproduttivi del daino è interamente corretta?",
+    "options": [
+      "L'harem è la strategia più frequente nel daino",
+      "Il lek prevede un solo maschio che difende un'unica grande arena contro tutti gli altri",
+      "Il sistema a territori singoli è frequente a densità medio-basse e simile alla strategia del capriolo",
+      "Il following è esclusivo dei climi mediterranei"
+    ],
+    "correctIndex": 2,
+    "explanation": "Borderline con tre quasi-vere: A è falso (l'harem è uno dei meno usati dal daino); B è falso (nel lek più maschi adulti operano insieme regolati da gerarchia); D non è citato come limitazione climatica (il following è invece tipico delle basse densità). Solo C corrisponde esattamente a quanto descritto: territori singoli a densità medio-basse, simile al capriolo.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.61, p.63, p.67"
+  },
+  {
+    "id": "anatomia-daino-059",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Quale carattere è valido per discriminare con certezza un piccolo di daino da un piccolo di cervo o capriolo nei primi mesi di vita?",
+    "options": [
+      "La presenza della pomellatura nel mantello",
+      "Le dimensioni e lo specchio anale",
+      "La presenza di palchi",
+      "Nessuna delle precedenti: a quell'età i tre cervidi sono indistinguibili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trabocchetto sulle alternative: A è falso (tutti i Cervidi sono pomellati alla nascita); C è falso (nessun cervide ha palchi nei primi mesi e le femmine non li sviluppano mai); D è falso. Il testo indica esplicitamente dimensioni e specchio anale come criteri discriminanti.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.41"
+  },
+  {
+    "id": "anatomia-daino-060",
+    "topic": "anatomia",
+    "species": "Daino (Dama dama)",
+    "question": "Una piazzola circolare con segni evidenti di zoccoli al centro, vicino a un cespuglio mostrante scortecciamenti dai palchi: di cosa si tratta più probabilmente?",
+    "options": [
+      "Un'area di riposo notturno",
+      "Una piazzola di bramito accompagnata da fregoni",
+      "Una pozza di abbeverata abbandonata",
+      "Una traccia di combattimento fra due palanconi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Borderline applicativa: A non spiega gli scortecciamenti; D è plausibile (i combattimenti producono rumore) ma il testo associa gli scortecciamenti al fregone (sfregamento dei palchi contro piante) e la piazzola circolare con segni di zoccoli al bramito/raspata. Sono spesso adiacenti perché entrambi sono parte del marcamento riproduttivo maschile.",
+    "difficulty": "hard",
+    "source": "DAINO.pdf p.84-85"
+  }
+]

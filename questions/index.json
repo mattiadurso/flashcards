@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "anatomia",
+      "label": "Anatomia e biologia",
+      "files": [
+        {
+          "species": "Daino (Dama dama)",
+          "file": "anatomia/daino.json",
+          "source": "docs/anatomia/DAINO.pdf",
+          "count": 60
+        }
+      ]
+    }
+  ]
+}
