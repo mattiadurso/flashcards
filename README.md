@@ -1,4 +1,4 @@
-# Giud Studia
+# Flashcard 
 
 A static website that turns study material into flashcard quizzes.
 
@@ -10,15 +10,19 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 
 ## What it does
 
-- Shows one flashcard at a time: a question with 2–4 tappable options.
-- On answer: highlights correct (green) / wrong (red) and reveals a foldable **Spiegazione** (explanation) box.
+- **Setup screen first** — every session starts on *Imposta la sessione*, where you choose **Argomenti** (topics), **Difficoltà**, and **how many questions**, then tap **Inizia**.
+- **Topics multi-select** — take a whole subject group or just specific species, with *Tutti / Nessuno* shortcuts and a live *"N disponibili"* count.
+- **Session length** — quick chips (10 / 20 / 30 / 50 / *Tutte*); your choice is remembered.
+- One flashcard at a time: a question with 2–4 tappable options.
+- Optional foldable **Suggerimento** (hint) per question, before you commit.
+- On answer: highlights correct (green) / wrong (red) and reveals a foldable **Spiegazione** (explanation).
 - **No repeats** — within a session, and across sessions (seen questions are remembered in `localStorage`) until the whole bank is exhausted.
-- **Filter bar**: pick a topic (or *All*), a difficulty if the questions define it, and how many questions to do **per session** (10 / 20 / 30 / 50 / All). The choice is remembered.
 - **Progress bar + running score**, e.g. `12 / 87`.
+- **Per-argument results** at the end — accuracy per species, weakest first, with colored bars.
+- **Reward screen** — score above **90%** shows a random encouraging message; a perfect **100%** gets its own lines and a golden card (see [Praise messages](#praise-messages)).
 - **Flag a bad question** to hide it; restore all flagged questions later from the header.
 - Optional **image** per question (anatomy / ID), tap to open full-size in a lightbox.
-- End-of-session reward: score above **90%** shows a random encouraging message; a perfect **100%** gets its own special lines and a golden card (see [Praise messages](#praise-messages)).
-- iPhone-quiz look: big rounded card, soft shadows, accent blue, mobile-responsive.
+- iPhone-quiz look: big rounded card, soft shadows, accent blue, light theme, mobile-responsive.
 
 ---
 
@@ -71,11 +75,13 @@ giud_studia/
     Anatomia e biologia/
     ...
   questions/
-    index.json           ← manifest: lists every topic file
-    anatomia/daino.json  ← a per-topic question bank
-    ...
+    index.json                  ← manifest: every topic file, with species + counts
+    Anatomia_e_Biologia/        ← one folder per subject; one JSON per species
+      daino.json
+      cervo.json
+      ...
   images/                ← images referenced from questions (jpg/png/webp/svg)
-    anatomia/
+    Anatomia_e_Biologia/
   QUESTION_FORMAT.md     ← full spec + rules for writing questions
   README.md
   start-mac.command
@@ -108,7 +114,7 @@ The whole point of the project: you add PDFs and Claude writes the question file
 
    Tips: point at a whole folder or a single PDF; say how many questions and what difficulty you want; ask Claude to run the pre-flight checklist in `QUESTION_FORMAT.md` before finishing; and remind it not to invent facts (mark anything uncertain as `PLACEHOLDER`).
 
-3. **Reload the page.** The topic dropdown picks up the new topic automatically — selecting it loads just that topic, *All* merges everything. No edits to `index.html` / `app.js` needed.
+3. **Reload the page.** The new species/topic shows up automatically in the **Argomenti** list on the setup screen — tick it (or *Tutti*) and tap **Inizia**. No edits to `index.html` / `app.js` needed.
 
 The website reads `questions/index.json` first, then fetches every file it lists and merges them into one in-memory bank. Per-topic progress is keyed by question `id`, so adding a topic never resets progress on the others.
 
@@ -119,10 +125,12 @@ See **`QUESTION_FORMAT.md`** for the exact JSON schema, writing rules, a worked 
 ## Controls
 
 - **1 – 4** — select an option
-- **Enter / Space** — go to next question
-- **Esc** — close the image lightbox
-- **Reset progress** (top-right) — clear the "already seen" set
-- **Ripristina segnalate** (top-right, when present) — un-hide flagged questions
+- **Enter / Space** — go to the next question
+- **h** — toggle the hint (*Suggerimento*) when the question has one
+- **Esc** — close the image lightbox or the topics menu
+- **‹ Nuova sessione** (header, during a session) — back to the setup screen
+- **Reset progress** (header) — clear the "already seen" set
+- **Ripristina segnalate** (header, when present) — un-hide flagged questions
 
 ---
 

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "palco-2-001",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Da quale arteria deriva principalmente la vascolarizzazione del palco in crescita?",
+    "suggestion": "Decorre sopra la parte orbitale dell'osso frontale e proviene direttamente dalla carotide.",
+    "options": [
+      "Arteria temporale superficiale",
+      "Arteria facciale",
+      "Arteria mascellare interna",
+      "Arteria occipitale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vascolarizzazione del palco deriva dall'arteria temporale superficiale, che proviene direttamente dalla carotide passando sopra la parte orbitale dell'osso frontale. Da essa originano i rami laterale, medio e mediale. Le altre arterie non sono indicate nel testo come fonte della vascolarizzazione del palco.",
+    "difficulty": "easy",
+    "source": "7 PALCO II parte.pdf p.1"
+  },
+  {
+    "id": "palco-2-002",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "In prossimità della rosa, in quante arteriole si suddividono i rami arteriosi che decorrono lungo lo stelo?",
+    "suggestion": "Si tratta di una decina abbondante di vasi sottili che corrono sotto il velluto.",
+    "options": [
+      "2-3 arteriole",
+      "10-12 arteriole",
+      "30-40 arteriole",
+      "Un solo grande vaso terminale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Giunti in prossimità della rosa, i rami si dividono in 10-12 arteriole che decorrono sotto il velluto. Le altre cifre non corrispondono al dato del testo.",
+    "difficulty": "easy",
+    "source": "7 PALCO II parte.pdf p.1"
+  },
+  {
+    "id": "palco-2-003",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Secondo gli studi radiografici di Suttie et al. (1985), quale branca dell'arteria temporale superficiale vascolarizza effettivamente il palco in sviluppo?",
+    "suggestion": "Non è il ramo che alimenta solo il supporto, né quello più sottile e di scarsa portata.",
+    "options": [
+      "La branca mediale",
+      "La branca media",
+      "La branca laterale",
+      "Tutte e tre in egual misura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Suttie et al. (1985) hanno mostrato che la branca mediale alimenta solo il supporto, il ramo medio è sottile e di scarsa portata, mentre è la branca laterale a vascolarizzare il palco, dividendosi alla giunzione tra supporto e palco.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.2"
+  },
+  {
+    "id": "palco-2-004",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "A cosa serve la ricca innervazione sensitiva del palco in renne e caribù?",
+    "suggestion": "Riguarda la consapevolezza della posizione delle punte anche quando non sono visibili.",
+    "options": [
+      "A percepire la temperatura esterna del velluto",
+      "A sviluppare il senso cinestetico (propriocettivo) della posizione delle punte",
+      "A regolare il flusso sanguigno nelle arteriole",
+      "A stimolare direttamente la mineralizzazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'innervazione consente il senso cinestetico (propriocettivo): l'animale è consapevole della posizione e dell'orientamento delle punte anche se non visibili, peculiarità che permette alle specie più palcute di correre nelle foreste nordiche senza urtare i rami. Non riguarda termoregolazione, controllo vascolare diretto, né stimolo diretto della mineralizzazione.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.3"
+  },
+  {
+    "id": "palco-2-005",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Cosa rende peculiare il comportamento dei nervi del supporto rispetto ai nervi delle appendici degli altri mammiferi?",
+    "suggestion": "Restano inattivi per gran parte dell'anno e poi si rigenerano molto rapidamente.",
+    "options": [
+      "Sono privi di epinevrio",
+      "Rimangono quiescenti per i 2/3 dell'anno e poi si rigenerano fino a 20 mm al giorno",
+      "Non si rigenerano mai dopo la caduta del velluto",
+      "Conducono solo impulsi motori e non sensitivi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I nervi del supporto, distinguibili per lo spesso epinevrio, restano quiescenti per i 2/3 dell'anno (tra caduta del velluto e rinnovo) e poi si rigenerano alla velocità di 20 mm al giorno, suggerendo una partecipazione attiva dei nervi alla rigenerazione. Hanno epinevrio spesso e portano fibre sensitive, quindi le altre opzioni sono errate.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.3"
+  },
+  {
+    "id": "palco-2-006",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Da quali nervi cranici deriva l'innervazione del palco in crescita?",
+    "suggestion": "Coinvolge il V paio (sopraottico e zigomatico-temporale) e il VII paio.",
+    "options": [
+      "Olfattivo (I) e ottico (II)",
+      "Solo il nervo facciale (VII)",
+      "Vago (X) e ipoglosso (XII)",
+      "Trigemino (V) e facciale (VII)"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'innervazione del palco in crescita deriva dalle branche del trigemino (V paio, con nervo sopraottico e zigomatico-temporale) e dal nervo facciale (VII paio). Le altre combinazioni di nervi cranici non sono indicate nel testo.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.4"
+  },
+  {
+    "id": "palco-2-007",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Qual è il bersaglio finale della cascata endocrina che regola il ciclo del palco?",
+    "suggestion": "È l'ormone sessuale maschile, regolatore diretto del ciclo.",
+    "options": [
+      "La melatonina",
+      "Il testosterone",
+      "Il GnRH",
+      "La calcitonina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il bersaglio finale della cascata che parte dall'ipotalamo è il testosterone, regolatore diretto del ciclo del palco. Melatonina, GnRH e calcitonina sono tappe o modulatori della cascata, non il regolatore finale.",
+    "difficulty": "easy",
+    "source": "7 PALCO II parte.pdf p.5"
+  },
+  {
+    "id": "palco-2-008",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Nella regolazione del ciclo del palco, quale effetto è associato a livelli alti di testosterone?",
+    "suggestion": "Pensa alla fase in cui il palco indurisce e perde il velluto, non a quella della crescita.",
+    "options": [
+      "Stimola la proliferazione cartilaginea",
+      "Induce ossificazione e mineralizzazione",
+      "Mantiene il palco in velluto",
+      "Aumenta la produzione di GnRH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testosterone alto blocca la proliferazione cartilaginea, induce mineralizzazione/ossificazione e determina la perdita del velluto; il testosterone basso permette invece la crescita. Inoltre, per feedback negativo, il testosterone inibisce la produzione di GnRH e LH.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.7"
+  },
+  {
+    "id": "palco-2-009",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Quale catena di mediatori collega la luce ambientale al testosterone nella regolazione del palco?",
+    "suggestion": "Parte dalla pineale e dal suo ormone notturno, passa per un neuropeptide ipotalamico e per la gonadotropina.",
+    "options": [
+      "Melatonina → Kisspeptina → LH → Testosterone",
+      "Cortisolo → Aldosterone → LH → Testosterone",
+      "Calcitonina → GH → IGF-1 → Testosterone",
+      "Prolattina → GnRH → Calcitonina → Testosterone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo riassume la relazione: Melatonina → Kisspeptina → LH → Testosterone → Palco. La pineale traduce il segnale luminoso in melatonina, che stimola i neuroni Kiss1; la kisspeptina attiva GnRH e LH, che inducono il testosterone. Le altre catene mescolano ormoni con ruoli diversi (modulatori del calcio, della crescita o dello stress).",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.8"
+  },
+  {
+    "id": "palco-2-010",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Come agisce la ghiandola pineale nel tradurre l'informazione luminosa per il ciclo del palco?",
+    "suggestion": "Trasforma un segnale fisico in uno chimico, fungendo da orologio e calendario stagionale.",
+    "options": [
+      "Come trasduttore neuroendocrino che converte il segnale luminoso in melatonina",
+      "Producendo direttamente testosterone in risposta alla luce",
+      "Inibendo i fotorecettori retinici al buio",
+      "Sintetizzando IGF-1 durante la notte"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pineale agisce come trasduttore neuroendocrino, convertendo il segnale luminoso registrato sulla retina in segnale chimico, cioè melatonina (alta al buio). Variando con le ore di buio stagionali, funge da orologio e calendario. Non produce testosterone né IGF-1, e non inibisce i fotorecettori.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.8"
+  },
+  {
+    "id": "palco-2-011",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Perché nel cervo (short-day breeder) il rut e il palco ossificato cadono in autunno?",
+    "suggestion": "Le notti più lunghe prolungano un ormone pineale che a cascata fa salire il testosterone.",
+    "options": [
+      "Perché in autunno i giorni si allungano e la melatonina diminuisce",
+      "Perché le notti lunghe aumentano la melatonina, che innalza kisspeptina, LH e testosterone",
+      "Perché il testosterone crolla bruscamente già in estate",
+      "Perché l'IGF-1 raggiunge il picco in autunno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cervo, in autunno i giorni si accorciano e le notti si allungano: la melatonina prolungata stimola i neuroni Kiss1, e la kisspeptina attiva GnRH, LH e testosterone, che porta al palco ossificato pronto per il combattimento. I giorni non si allungano in autunno, il testosterone non crolla in estate e l'IGF-1 ha il picco in primavera-inizio estate (fase di crescita).",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.9"
+  },
+  {
+    "id": "palco-2-012",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Da cosa dipende, sul piano ormonale, la caduta del palco nel post-rut?",
+    "suggestion": "È legata al calo dell'ormone sessuale maschile, che attiva cellule che riassorbono osso alla base.",
+    "options": [
+      "Dall'aumento di calcitonina",
+      "Dal calo del testosterone, che attiva gli osteoclasti alla base del peduncolo",
+      "Dall'aumento di IGF-1 epatico",
+      "Dalla diminuzione della melatonina invernale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dopo la stagione degli amori il testosterone cala, si attivano gli osteoclasti alla base del peduncolo e avviene il distacco del palco: la caduta è androgeno-dipendente. Non dipende da calcitonina (modulatore del calcio) né dall'IGF-1 o dalla melatonina come cause dirette del distacco.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.9"
+  },
+  {
+    "id": "palco-2-013",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Qual è la particolarità del ciclo del palco nel capriolo rispetto al cervo?",
+    "suggestion": "Pensa a quando il capriolo ricresce il palco rispetto a quando il cervo lo sta ancora portando.",
+    "options": [
+      "Ricresce il palco in pieno inverno, quando il cervo lo porta ancora",
+      "Ricresce il palco solo in autunno, dopo il cervo",
+      "Non perde mai il velluto",
+      "Ha il picco di testosterone in novembre come il cervo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ciclo del capriolo è anticipato: con rut estivo (picco di testosterone a luglio) e caduta del palco in autunno (ottobre-novembre), il capriolo ricresce il palco in velluto in pieno inverno, quando il cervo lo sta ancora portando, per averlo già ossificato in maggio-giugno. Il picco di testosterone è a luglio, non novembre.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.11"
+  },
+  {
+    "id": "palco-2-014",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Nel capriolo, quale variazione del fotoperiodo innesca l'attivazione dell'asse riproduttivo per il rut estivo?",
+    "suggestion": "Non è l'allungamento dei giorni, ma ciò che accade subito dopo il solstizio.",
+    "options": [
+      "L'allungamento dei giorni in primavera",
+      "L'inizio dell'accorciamento del fotoperiodo dopo il solstizio",
+      "La massima durata del giorno a giugno",
+      "L'arrivo delle notti lunghe autunnali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel capriolo l'attività riproduttiva estiva è innescata dall'inizio dell'accorciamento del fotoperiodo dopo il solstizio: la riduzione del giorno aumenta la melatonina notturna, che stimola la kisspeptina e porta al picco di testosterone in luglio. Le ore di luce primaverili non attivano direttamente la riproduzione.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.16"
+  },
+  {
+    "id": "palco-2-015",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Quale fattore endocrino è il principale responsabile della velocità di crescita del palco in velluto?",
+    "suggestion": "È un mediatore dell'asse somatotropo, prodotto dal fegato sotto stimolo del GH.",
+    "options": [
+      "Il testosterone",
+      "L'IGF-1",
+      "La calcitonina",
+      "L'aldosterone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il timing del ciclo è regolato dagli androgeni (testosterone), mentre la velocità di crescita è principalmente IGF-1-dipendente. L'IGF-1, prodotto dal fegato sotto stimolo del GH, ha picco a metà primavera-inizio estate nel cervo. Calcitonina e aldosterone sono modulatori del metabolismo minerale, non motori della velocità di crescita.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.13"
+  },
+  {
+    "id": "palco-2-016",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Perché si afferma che l'azione del GH sulla crescita del palco è indiretta?",
+    "suggestion": "Pensa a quali recettori sono espressi (e quali no) nella cartilagine apicale del palco.",
+    "options": [
+      "Perché il GH non viene mai prodotto durante la crescita del palco",
+      "Perché la cartilagine apicale esprime recettori per l'IGF-1 ma non per il GH",
+      "Perché il GH agisce solo sul testosterone",
+      "Perché il GH è prodotto dalle surrenali e non dall'ipofisi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studi istologici mostrano che la cartilagine apicale del palco esprime un'elevata densità di recettori per l'IGF-1 ma non per il GH: l'azione del GH è quindi indiretta e passa per l'IGF-1 epatico, che promuove la proliferazione dei condroprogenitori. Il GH è prodotto dall'ipofisi durante la fase di crescita, quindi le altre opzioni sono errate.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.13"
+  },
+  {
+    "id": "palco-2-017",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Perché nel cervo, in primavera e inizio estate, alti livelli di LH si accompagnano a basso testosterone?",
+    "suggestion": "Un altro ormone, in aumento in primavera col calo della melatonina, blocca i recettori delle cellule di Leydig.",
+    "options": [
+      "Perché la prolattina blocca i recettori per l'LH nelle cellule di Leydig",
+      "Perché l'LH primaverile è biologicamente inattivo",
+      "Perché il testicolo non produce mai testosterone in primavera",
+      "Perché il GnRH è assente in primavera"
+    ],
+    "correctIndex": 0,
+    "explanation": "In primavera il calo della melatonina favorisce l'aumento della prolattina (PRL), che blocca i recettori per l'LH nelle cellule di Leydig: così l'LH sale senza un corrispondente aumento di testosterone. La sensibilità testicolare all'LH cambia stagionalmente, quindi non conta solo il livello di LH. L'LH è attivo e il GnRH non è assente.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.14"
+  },
+  {
+    "id": "palco-2-018",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Qual è il ruolo della calcitonina durante la fase di intensa crescita del palco?",
+    "suggestion": "Riduce il calcio ematico e fissa il calcio nell'osso, ma non è il regolatore principale del ciclo.",
+    "options": [
+      "È il regolatore principale del ciclo del palco",
+      "Stimola direttamente la proliferazione cartilaginea",
+      "È un modulatore che inibisce il riassorbimento osseo e favorisce la fissazione del calcio",
+      "Determina la caduta del palco"
+    ],
+    "correctIndex": 2,
+    "explanation": "La calcitonina riduce il calcio ematico inibendo il riassorbimento osseo e favorendo la fissazione del calcio nel tessuto osseo; in primavera-inizio estate contribuisce all'equilibrio minerale e alla mineralizzazione. È esplicitamente definita un modulatore, non il regolatore principale (che è il testosterone), e non causa la caduta del palco.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.18"
+  },
+  {
+    "id": "palco-2-019",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Qual è il significato dell'aumentata attività corticosurrenalica durante il periodo del rut?",
+    "suggestion": "Non costruisce il palco: riflette piuttosto il carico metabolico e lo stress della competizione.",
+    "options": [
+      "Far crescere direttamente il palco",
+      "Sostenere lo stress metabolico e sociale del periodo riproduttivo",
+      "Sostituire il testosterone come regolatore del ciclo",
+      "Avviare la caduta del velluto"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'aumento dell'attività corticosurrenalica nel rut non serve a far crescere il palco, ma a sostenere lo stress metabolico e sociale della competizione riproduttiva. I mineralcorticoidi modulano l'equilibrio elettrolitico (azione indiretta sul calcio), non costruiscono l'osso, e il regolatore del ciclo resta il testosterone.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.19"
+  },
+  {
+    "id": "palco-2-020",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Come può il testosterone contribuire alla fase finale di ossificazione del palco tramite gli estrogeni?",
+    "suggestion": "Le cellule del palco esprimono un enzima che converte il testosterone in estradiolo.",
+    "options": [
+      "L'aromatasi converte il testosterone in estradiolo, che promuove la differenziazione osteoblastica",
+      "Il testosterone si trasforma in cortisolo, che mineralizza il palco",
+      "Gli estrogeni bloccano completamente l'ossificazione",
+      "L'estradiolo aumenta la proliferazione dei condroprogenitori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Osteoblasti e cellule cartilaginee del palco esprimono l'aromatasi, che converte il testosterone in estradiolo (E2). L'E2 riduce la proliferazione dei condroprogenitori e ne promuove la differenziazione osteoblastica, favorendo la mineralizzazione: la fase finale di ossificazione è in parte estrogeno-mediata. L'E2 quindi non aumenta la proliferazione né blocca l'ossificazione, e non si forma cortisolo.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.21"
+  },
+  {
+    "id": "palco-2-021",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "A cosa è attribuita la caduta del palco nelle femmine di renna e caribù subito dopo il parto?",
+    "suggestion": "È legata a un ormone femminile che sale in gravidanza e crolla bruscamente col parto.",
+    "options": [
+      "Al rapido calo degli estrogeni dopo il parto",
+      "All'aumento del testosterone post-parto",
+      "Alla caduta della melatonina estiva",
+      "All'aumento della calcitonina in gravidanza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle femmine gravide di renna e caribù gli estrogeni sierici salgono nelle ultime settimane di gestazione e crollano bruscamente dopo il parto: si ritiene che la caduta del palco subito dopo il parto sia conseguente a questo rapido calo degli estrogeni. Non è attribuita a testosterone, melatonina o calcitonina.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.21"
+  },
+  {
+    "id": "palco-2-022",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Cosa rivelò la necroscopia di una femmina adulta di cervo dalla coda bianca dotata di corna ossificate?",
+    "suggestion": "L'aspetto esterno era femminile, ma all'interno c'era qualcosa che spiega le corna ossificate.",
+    "options": [
+      "Era una femmina normale con un eccesso di estrogeni",
+      "Era un maschio pseudo-ermafrodita con testicoli addominali ma senza utero né ovaie",
+      "Aveva ovaie iperfunzionanti che producevano testosterone",
+      "Presentava una parrucca da castrazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La necroscopia rivelò un maschio pseudo-ermafrodita: aveva genitali femminili esterni ma nessun utero né ovaie, e i testicoli erano situati tra cavità addominale e mammelle. Le corna ossificate sono coerenti con la presenza di tessuto testicolare. Non era quindi una femmina normale né un caso di parrucca da castrazione.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.26"
+  },
+  {
+    "id": "palco-2-023",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Quale anomalia produce tipicamente la castrazione del capriolo in età adulta?",
+    "suggestion": "Si forma una massa di osso spugnoso poco calcificato in continua proliferazione.",
+    "options": [
+      "Un palco regolare ma più grande del normale",
+      "Una parrucca di tessuto osseo spugnoso poco calcificato, che prolifera e si rinnova",
+      "La completa assenza di qualunque ricrescita",
+      "Un palco ossificato e privo di velluto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La castrazione del capriolo adulto favorisce la formazione di una parrucca fatta di tessuto osseo spugnoso poco calcificato che prolifera soprattutto in larghezza; entro poche settimane cade e se ne riforma una nuova permanente. Non produce un palco regolare né ossificato senza velluto, e non comporta assenza di ricrescita.",
+    "difficulty": "easy",
+    "source": "7 PALCO II parte.pdf p.27"
+  },
+  {
+    "id": "palco-2-024",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Perché la parrucca a elmo nel capriolo è particolarmente pericolosa per l'animale?",
+    "suggestion": "Pensa a dove cresce questa massa rispetto agli occhi e alle rose.",
+    "options": [
+      "Cresce verso l'alto irrigidendo il collo",
+      "Cresce verso il basso attorno alle rose, impedendo la visione e creando focolai d'infezione",
+      "Provoca solo un lieve ispessimento del velluto",
+      "Riduce il peso della testa rendendo l'animale instabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "La parrucca a elmo cresce soprattutto verso il basso attorno alle rose, impedendo la corretta visione e trasformandosi in focolai d'infezione; la grande massa neoformata può portare l'animale a cecità e morte precoce, aumentando fino a 5 volte il peso della testa. La parrucca a mitra origina invece da un generale ispessimento del palco ricoperto di velluto.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.30"
+  },
+  {
+    "id": "palco-2-025",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Nel cervo, quale effetto produce la castrazione effettuata in autunno o inverno, quando i palchi sono completi e calcificati?",
+    "suggestion": "Accelera un fenomeno naturale legato al calo degli androgeni; osserva la superficie di distacco.",
+    "options": [
+      "La precoce caduta dei palchi, con superficie di distacco piana o concava",
+      "Un immediato ispessimento dei palchi",
+      "La trasformazione dei palchi in parrucca",
+      "Nessun cambiamento fino alla primavera successiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cervo la castrazione in autunno-inverno, con palchi calcificati, ne provoca la precoce caduta: queste corna hanno una superficie di distacco piana o concava, diversa da quella basale convessa delle corna normali. La castrazione accelera il declino naturale degli androgeni. La parrucca è invece tipica del capriolo, non del cervo in questa condizione.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.28"
+  },
+  {
+    "id": "palco-2-026",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "I cervidi maschi privi di palchi (gli individui detti 'monaci' o 'teste piatte') sono di norma sterili?",
+    "suggestion": "Attenzione a non confondere assenza di palco con assenza di funzione riproduttiva: verifica cosa dice il testo sugli organi sessuali.",
+    "options": [
+      "Sì, sono sempre sterili per atrofia testicolare",
+      "No, hanno organi sessuali sviluppati e sono fertili",
+      "Sì, perché privi di testosterone",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fenomeno (congenito, probabilmente ereditario) riguarda l'assenza di steli o steli rudimentali, ma questi individui hanno organi sessuali sviluppati e sono fertili. Non si tratta quindi di sterilità né di assenza di testosterone: l'assenza di palco non implica disfunzione riproduttiva.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.32"
+  },
+  {
+    "id": "palco-2-027",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Qual è l'unica 'cura' descritta per le corna da castrazione (parrucca) e quale è il suo esito a lungo termine?",
+    "suggestion": "Si basa sulla somministrazione di ormoni sessuali; attenzione a cosa succede dopo la prima caduta indotta.",
+    "options": [
+      "La somministrazione di testosterone ed estrogeni, che però conduce inevitabilmente a nuovi palchi anomali",
+      "L'asportazione chirurgica definitiva senza recidive",
+      "La somministrazione di calcitonina, che normalizza la mineralizzazione",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'unica cura descritta è il trattamento con testosterone ed estrogeni, che inducono ossificazione e perdita del velluto e fanno cadere il palco al declinare dell'ormone; tuttavia le ricrescite successive portano inevitabilmente a palchi anomali. In un capriolo con parrucca, gli ormoni ne arrestano l'accrescimento e la fanno cadere, ma pochi giorni dopo si sviluppa una nuova parrucca che cresce indefinitamente. Non è quindi una soluzione definitiva, e non si usa la calcitonina.",
+    "difficulty": "hard",
+    "source": "7 PALCO II parte.pdf p.32"
+  }
+]

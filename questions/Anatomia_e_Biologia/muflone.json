@@ -1,0 +1,546 @@
+[
+  {
+    "id": "muflone-001",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "A quale famiglia di ungulati appartiene il muflone, e quale caratteristica delle sue corna lo distingue nettamente dai Cervidi?",
+    "suggestion": "Pensa alla differenza fondamentale tra una struttura ossea che cade ogni anno e un astuccio corneo che resta tutta la vita.",
+    "options": [
+      "Suidi, con difese a crescita continua",
+      "Bovidi, con corna perenni a crescita continua",
+      "Bovidi, con palchi caduchi",
+      "Cervidi, con palchi caduchi rinnovati ogni anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il muflone è un Bovide di taglia medio-piccola; le sue corna sono perenni e a crescita continua, non vengono perse e ricresciute ogni anno come i palchi ossei caduchi dei Cervidi. Non è un Suide e i Bovidi non hanno palchi caduchi.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.6"
+  },
+  {
+    "id": "muflone-002",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché la presenza del muflone sulle isole mediterranee come Sardegna e Corsica viene considerata frutto di introduzione antropica e non di colonizzazione naturale?",
+    "suggestion": "Considera cosa manca nel registro geologico di quelle isole per documentare una presenza antica.",
+    "options": [
+      "Perché la specie è comparsa solo dopo l'ultima glaciazione",
+      "Perché le isole sono troppo piccole per ospitarlo",
+      "Perché su quelle isole mancano reperti fossili della specie",
+      "Perché il muflone non sa nuotare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Su Sardegna, Corsica, Cipro e Rodi mancano reperti fossili del muflone: per questo si ritiene che gli animali siano stati introdotti in epoca storica dall'uomo a partire da forme semidomestiche di pecora poi rinselvatichitesi. Le altre spiegazioni non sono supportate dal testo.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.4"
+  },
+  {
+    "id": "muflone-003",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Da quale forma animale si ritiene derivino le popolazioni di muflone presenti sulle isole mediterranee?",
+    "suggestion": "Si tratta di un animale domestico molto comune nelle isole, sfuggito poi al controllo dell'uomo.",
+    "options": [
+      "Capre selvatiche autoctone",
+      "Camosci di origine appenninica",
+      "Stambecchi importati dalle Alpi",
+      "Forme semidomestiche di pecora rinselvatichite"
+    ],
+    "correctIndex": 3,
+    "explanation": "Si pensa che il muflone insulare derivi da forme semidomestiche di pecora introdotte dall'uomo e poi rinselvatichitesi, coerentemente con la sua somiglianza strutturale con pecore e capre domestiche. Capre, stambecchi e camosci non sono indicati come progenitori.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.4"
+  },
+  {
+    "id": "muflone-004",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "In quali aree dell'Italia peninsulare il muflone risulta presente, sebbene in modo frammentato?",
+    "suggestion": "Ricorda i due grandi sistemi montuosi citati per il nord e il centro-nord del Paese.",
+    "options": [
+      "Solo sulle Alpi orientali",
+      "Esclusivamente sull'Appennino meridionale",
+      "Lungo l'arco alpino e sull'Appennino centro-settentrionale",
+      "Solo nelle pianure del nord-est"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'Italia peninsulare il muflone è presente, in modo frammentato, lungo l'arco alpino e sull'Appennino centro-settentrionale, con un areale ancora più frammentato al sud (Gargano). Le altre opzioni non corrispondono alla distribuzione descritta.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.4"
+  },
+  {
+    "id": "muflone-005",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Quanti capezzoli possiede il muflone?",
+    "suggestion": "È un numero tipico degli ovini, molto basso rispetto ad altri mammiferi.",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "2"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il numero dei capezzoli nel muflone è 2, coerentemente con la sua affinità con gli ovini domestici. Gli altri valori non corrispondono al dato riportato.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.6"
+  },
+  {
+    "id": "muflone-006",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Quale percentuale del peso definitivo degli adulti possono raggiungere i piccoli di muflone nei primi 5-6 mesi di vita?",
+    "suggestion": "L'accrescimento iniziale è molto rapido ma riguarda meno della metà del peso finale.",
+    "options": [
+      "Circa il 70%",
+      "Circa il 10%",
+      "Circa il 40%",
+      "Circa il 90%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei primi 5-6 mesi i piccoli possono aumentare di peso fino a raggiungere circa il 40% di quello definitivo degli adulti, segno di un accrescimento iniziale molto rapido. Le altre percentuali sono troppo basse o troppo alte rispetto al dato.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.9"
+  },
+  {
+    "id": "muflone-007",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "In quale momento dell'anno diventa possibile distinguere con sicurezza il sesso degli agnelli di muflone?",
+    "suggestion": "Il segnale visibile è la comparsa di una struttura cefalica nei soli maschi.",
+    "options": [
+      "Subito alla nascita, dal colore del mantello",
+      "Solo dall'analisi della dentatura",
+      "Nell'autunno successivo alla nascita, quando nei maschi compaiono gli abbozzi delle corna",
+      "Dopo i due anni di vita"
+    ],
+    "correctIndex": 2,
+    "explanation": "La distinzione del sesso degli agnelli è sicura solo nell'autunno successivo alla nascita, quando nei maschi diventano visibili gli abbozzi delle corna. Alla nascita non è possibile, e non occorre attendere due anni né ricorrere alla dentatura.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.10"
+  },
+  {
+    "id": "muflone-008",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Quale colorazione assume il mantello del muflone sul dorso durante l'estate?",
+    "suggestion": "È una tonalità calda, ben diversa dal bruno scuro invernale.",
+    "options": [
+      "Marrone-rossiccio",
+      "Nerastro con parti grigie",
+      "Bianco uniforme",
+      "Grigio-azzurro"
+    ],
+    "correctIndex": 0,
+    "explanation": "In estate il muflone presenta un mantello corto ma folto marrone-rossiccio sul dorso e biancastro sul ventre, muso e zampe; in inverno diventa bruno-scuro con parti nerastre e grigie. Il nerastro-grigio è la livrea invernale, non quella estiva.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.25"
+  },
+  {
+    "id": "muflone-009",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Che cos'è la cosiddetta \"sella\" nel mantello del muflone maschio?",
+    "suggestion": "È una zona chiara che compare sui fianchi a partire dal secondo anno, ben visibile d'inverno.",
+    "options": [
+      "Una macchia scura tipica delle femmine",
+      "Una struttura ghiandolare odorosa",
+      "Un'area di peli molto chiari sui fianchi visibile soprattutto in inverno",
+      "Una zona priva di pelo sul dorso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei maschi, a partire dal 2° anno di vita, può comparire sui fianchi un'area di peli molto chiari detta \"sella\", evidente soprattutto in inverno quando il resto del pelame è più scuro. Non è una zona glabra, non è tipica delle femmine né una ghiandola.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.27"
+  },
+  {
+    "id": "muflone-010",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché nel mantello del muflone sono presenti due mute annuali distinte, una primaverile e una autunnale?",
+    "suggestion": "Pensa alla diversa funzione termica del pelo nelle due stagioni opposte.",
+    "options": [
+      "Servono a perdere peso prima dell'inverno",
+      "Servono entrambe a schiarire il mantello per il mimetismo",
+      "Sono legate alla crescita delle corna",
+      "Quella autunnale fornisce un pelo più folto e scuro adatto al freddo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sono presenti due mute annuali: la primaverile, più vistosa, e l'autunnale, che fornisce un pelo più folto e più scuro, adatto ad affrontare il freddo. Non hanno la funzione di schiarire il pelo, far perdere peso o regolare la crescita delle corna.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.29"
+  },
+  {
+    "id": "muflone-011",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Su quale struttura ossea si inseriscono gli astucci cornei del muflone, e come si chiama tale struttura?",
+    "suggestion": "Sono protuberanze coniche dell'osso frontale che escono in continuità dalla scatola cranica.",
+    "options": [
+      "Sui condili occipitali",
+      "Sui palchi caduchi delle ossa nasali",
+      "Sugli zaffi, protuberanze coniche delle ossa frontali",
+      "Sulle rose, alla base del cranio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il trofeo è formato da due astucci di sostanza cornea inseriti su zaffi, protuberanze coniche delle ossa frontali che si sviluppano in continuità dalla scatola cranica. Non si tratta di palchi caduchi, di rose (tipiche dei Cervidi) né dei condili occipitali.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.33"
+  },
+  {
+    "id": "muflone-012",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "In che modo la lunghezza degli zaffi delle ossa frontali influenza le corna del muflone?",
+    "suggestion": "Questa struttura ossea determina sia di quanto cresce il corno sia quanto si incurva.",
+    "options": [
+      "Impedisce la crescita delle corna nelle femmine",
+      "Provoca la caduta annuale delle corna",
+      "Determina solo il colore delle corna",
+      "Determina l'accrescimento e il grado di curvatura delle corna"
+    ],
+    "correctIndex": 3,
+    "explanation": "La lunghezza degli zaffi delle ossa frontali, su cui si inseriscono gli astucci cornei, determina l'accrescimento e il grado di curvatura delle corna. Non riguarda il colore, non impedisce la crescita nelle femmine e non provoca cadute annuali, perché le corna sono perenni.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.33"
+  },
+  {
+    "id": "muflone-013",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Quale lunghezza possono raggiungere le corna del muflone maschio nei casi più sviluppati?",
+    "suggestion": "Il valore massimo arriva fino a circa un metro, anche se di norma è inferiore.",
+    "options": [
+      "Fino a 1 metro (normalmente 80-90 cm)",
+      "Fino a 2 metri",
+      "Fino a 1,5 metri",
+      "Al massimo 30 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le corna del muflone, perenni e a crescita continua, possono raggiungere la lunghezza di 1 metro (normalmente 80-90 cm). I 30 cm sono troppo pochi, mentre 1,5 e 2 metri superano i valori riportati.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.34"
+  },
+  {
+    "id": "muflone-014",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché il solco scuro e profondo presente sulle corna del muflone è più correttamente chiamato \"anello di pausa della crescita\" anziché \"anello di crescita\"?",
+    "suggestion": "Pensa a cosa rappresenta esattamente quel solco: un periodo di attività o di arresto?",
+    "options": [
+      "Perché indica l'inizio della spermatogenesi",
+      "Perché indica il periodo invernale in cui la crescita si arresta o rallenta",
+      "Perché corrisponde alla caduta annuale del corno",
+      "Perché segna il momento di massima crescita estiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'anello, marcatamente più scuro e profondo, indica proprio il periodo (da novembre a fine gennaio) in cui la crescita si arresta o rallenta notevolmente; per questo è più corretto chiamarlo \"anello di pausa della crescita\". Non segna la massima crescita, non vi è caduta del corno e non è legato alla spermatogenesi.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.34"
+  },
+  {
+    "id": "muflone-015",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Come si valuta l'età di un muflone maschio abbattuto a partire dal suo trofeo?",
+    "suggestion": "Il numero di anni compiuti corrisponde al conteggio di una particolare struttura sulle corna.",
+    "options": [
+      "Misurando la sola lunghezza totale del corno",
+      "Contando i denti da latte residui",
+      "Pesando il trofeo",
+      "Contando il numero di anelli di pausa della crescita sul trofeo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il numero di anni compiuti è pari al numero di anelli di pausa conteggiati sul trofeo: se si contano 3 anelli (4 segmenti) il muflone avrà 3 anni compiuti, cioè sarà al suo 4° anno di vita. La sola lunghezza o il peso del trofeo non danno l'età precisa, e i denti da latte riguardano i giovani.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.47"
+  },
+  {
+    "id": "muflone-016",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché nel muflone molto anziano l'accrescimento delle corna diventa quasi impercettibile a distanza?",
+    "suggestion": "Considera cosa succede agli apici delle corna con il passare degli anni.",
+    "options": [
+      "Perché il modesto accrescimento è compensato dall'usura degli apici consumati",
+      "Perché le corna cadono e ricrescono più corte",
+      "Perché il corno si accorcia attivamente ogni inverno",
+      "Perché la base del corno cessa del tutto la crescita a 4 anni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dal settimo anno in poi l'accrescimento è molto limitato e quasi mai rilevabile, perché viene compensato dalla contemporanea usura degli apici, che appaiono consumati e smussati. Le corna non cadono né si accorciano attivamente, e la crescita rallenta ma non cessa del tutto a 4 anni.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.45"
+  },
+  {
+    "id": "muflone-017",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché uno sviluppo delle corna con cime molto convergenti può risultare fatale per il muflone?",
+    "suggestion": "Pensa a come la forma del trofeo può ostacolare un movimento necessario all'alimentazione.",
+    "options": [
+      "Perché impedisce all'animale di abbassare la mandibola per alimentarsi",
+      "Perché blocca la crescita dei denti",
+      "Perché provoca la rottura del cranio",
+      "Perché rende l'animale più visibile ai predatori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le cime molto convergenti possono provocare la morte dell'animale perché esso non riesce ad abbassare la mandibola per alimentarsi. Non si tratta di maggiore visibilità ai predatori, di fratture craniche né di blocco dentario.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.53"
+  },
+  {
+    "id": "muflone-018",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Quale tipo di strategia alimentare caratterizza il muflone come ruminante?",
+    "suggestion": "È legato soprattutto alla componente erbacea, pur con qualche comportamento di scelta.",
+    "options": [
+      "Brucatore esclusivo di rami e cortecce",
+      "Granivoro specializzato",
+      "Onnivoro opportunista",
+      "Pascolatore puro, con alcuni comportamenti selettivi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il muflone è un ruminante pascolatore puro, con alcuni comportamenti di tipo selettivo, molto legato alla componente erbacea della vegetazione. Non è un brucatore esclusivo, né onnivoro o granivoro.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.62"
+  },
+  {
+    "id": "muflone-019",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché gli innevamenti consistenti e/o prolungati rappresentano uno dei principali fattori limitanti per il muflone?",
+    "suggestion": "Collega la neve alta alle caratteristiche fisiche degli arti e degli zoccoli di questa specie.",
+    "options": [
+      "Perché il freddo blocca la digestione",
+      "Perché la neve copre l'olfatto dei predatori",
+      "Per la scarsa lunghezza degli arti e la conformazione degli zoccoli",
+      "Perché la neve riflette troppa luce per i suoi occhi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli innevamenti consistenti e/o prolungati sono un fattore limitante per il muflone a causa della scarsa lunghezza dei suoi arti e della conformazione degli zoccoli, poco adatti alla neve alta. Le altre spiegazioni non sono supportate dal testo.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.61"
+  },
+  {
+    "id": "muflone-020",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Tra gli ungulati selvatici, con quale specie il muflone mostra le interazioni negative più rilevanti, con effetti a carico di quest'ultima?",
+    "suggestion": "Si tratta di un altro Bovide di ambiente montano, non del cinghiale.",
+    "options": [
+      "Il capriolo",
+      "Il camoscio",
+      "Il cinghiale",
+      "Il cervo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le interazioni negative sono segnalate soprattutto con il camoscio, con intolleranza spaziale e competizione alimentare che danneggiano il camoscio (decrementi numerici e spostamenti). Con il cinghiale la competizione è scarsa perché occupano nicchie diverse; capriolo e cervo non sono indicati come competitori principali.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.66"
+  },
+  {
+    "id": "muflone-021",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Nell'Appennino settentrionale, quale predatore naturale del muflone è in grado di attaccare tutte le classi sociali?",
+    "suggestion": "È il grande carnivoro sociale tornato a ricolonizzare l'Appennino.",
+    "options": [
+      "La lince",
+      "La volpe",
+      "L'aquila",
+      "Il lupo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il lupo è in grado di attaccare tutte le classi sociali del muflone; l'aquila preda prevalentemente i piccoli e la volpe esclusivamente agnelli di pochi giorni. La lince è citata solo come potenziale predatore generico, non come principale predatore di tutte le classi nell'Appennino settentrionale.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.67"
+  },
+  {
+    "id": "muflone-022",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Da chi è generalmente guidato un branco di femmine e giovani di muflone?",
+    "suggestion": "Alla guida c'è un individuo femminile esperto, accompagnato dalla sua prole.",
+    "options": [
+      "Dal maschio adulto dominante",
+      "Da due maschi anziani solitari",
+      "Da una femmina anziana con prole",
+      "Da un giovane maschio di un anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "I branchi sono di norma guidati da una femmina anziana con prole e composti da altre femmine di tutte le età e da giovanissimi maschi. I maschi adulti tendono a vivere isolati e abbandonano i branchi femminili, quindi non li guidano.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.68"
+  },
+  {
+    "id": "muflone-023",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Da quanti denti è costituita la dentatura definitiva del muflone, ed entro quale età viene completata?",
+    "suggestion": "Il totale è quello tipico di molti ruminanti, raggiunto verso i 3,5-4 anni.",
+    "options": [
+      "32 denti, completati tra il 43° e il 46° mese (3,5-4 anni)",
+      "20 denti, completati a 6 mesi",
+      "44 denti, completati a 2 anni",
+      "28 denti, completati a 7 anni"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dentatura definitiva del muflone è di 32 denti (6 incisivi, 2 canini, 12 premolari e 12 molari) e viene raggiunta tra il 43° e il 46° mese di vita (3,5-4 anni). I 20 denti corrispondono alla dentatura da latte, priva di molari. Gli altri valori non corrispondono al dato.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.82"
+  },
+  {
+    "id": "muflone-024",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Per quale categoria di mufloni l'analisi della dentatura è particolarmente importante nella stima dell'età?",
+    "suggestion": "Riguarda gli individui privi del trofeo, su cui non si possono contare gli anelli.",
+    "options": [
+      "Solo per i piccoli appena nati",
+      "Per le femmine, prive di trofeo",
+      "Per i maschi vecchi con corna usurate",
+      "Per i maschi adulti con grandi corna"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'analisi della dentatura è importante soprattutto per le femmine (senza trofeo), mentre nei maschi si preferisce la valutazione degli anelli annuali di pausa della crescita delle corna. Per questo la dentatura non è la via principale nei maschi adulti o vecchi.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.83"
+  },
+  {
+    "id": "muflone-025",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "In che modo il sistema riproduttivo del muflone si differenzia da quello del cervo?",
+    "suggestion": "Entrambi sono poliginici, ma il muflone non si comporta nello stesso modo del cervo riguardo alla gestione delle femmine.",
+    "options": [
+      "Il muflone non forma un harem stabile, ma isola e copre le singole femmine in estro",
+      "Il muflone non difende affatto le femmine",
+      "Il muflone forma un harem più numeroso di quello del cervo",
+      "Il muflone è monogamo, a differenza del cervo poligamo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il sistema riproduttivo del muflone è poliginico con difesa delle femmine; a differenza del cervo, però, il maschio non forma un harem stabile, ma tende a isolare e coprire le singole femmine in estro. Non è monogamo, non forma harem più grandi e difende comunque le femmine recettive.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.75"
+  },
+  {
+    "id": "muflone-026",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "In quale periodo dell'anno avvengono gli accoppiamenti nel muflone?",
+    "suggestion": "Coincide con l'autunno inoltrato, quando i maschi convergono verso i branchi femminili.",
+    "options": [
+      "Ottobre - novembre",
+      "Marzo - aprile",
+      "Giugno - luglio",
+      "Gennaio - febbraio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli accoppiamenti hanno luogo nel periodo ottobre-novembre, quando maschi adulti e vecchi convergono verso i branchi femminili. Marzo-aprile è invece il periodo dei parti, non degli accoppiamenti.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.75"
+  },
+  {
+    "id": "muflone-027",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Quanto dura mediamente la gestazione nel muflone?",
+    "suggestion": "Si aggira intorno ai cinque mesi, ovvero circa 22 settimane.",
+    "options": [
+      "Circa 90 giorni",
+      "Circa 30 giorni",
+      "Circa 150-160 giorni",
+      "Circa 8 mesi"
+    ],
+    "correctIndex": 2,
+    "explanation": "La durata della gestazione nel muflone è di circa 150-160 giorni (poco più di cinque mesi, pari a circa 22 settimane). Gli altri valori sono troppo brevi o troppo lunghi.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.71"
+  },
+  {
+    "id": "muflone-028",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Qual è il numero tipico di nati per parto nella femmina di muflone?",
+    "suggestion": "La norma è un solo piccolo; i parti gemellari sono un'eccezione poco frequente.",
+    "options": [
+      "Sempre 2 nati",
+      "Da 3 a 4 nati",
+      "1 nato (parti gemellari nel 5-10% dei casi)",
+      "Mediamente 5 nati"
+    ],
+    "correctIndex": 2,
+    "explanation": "La femmina di muflone partorisce di norma 1 solo nato, con parti gemellari nel 5-10% dei casi. Non sono normali parti di 2, 3-4 o 5 piccoli.",
+    "difficulty": "easy",
+    "source": "10 muflone.pdf p.71"
+  },
+  {
+    "id": "muflone-029",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Perché, pur essendo già fertili a un anno e mezzo, i maschi di muflone non riescono normalmente ad avere un ruolo attivo negli accoppiamenti prima del 4°-5° anno di vita?",
+    "suggestion": "Distingui tra la semplice capacità fisiologica di riprodursi e il raggiungimento del rango sociale necessario.",
+    "options": [
+      "Perché la spermatogenesi inizia solo a 4 anni",
+      "Perché le corna non sono ancora sviluppate fino a 5 anni",
+      "Perché prima di 4 anni vivono lontani dalle aree riproduttive",
+      "Perché devono prima conquistare il rango sociale nelle gerarchie tra maschi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sebbene la spermatogenesi possa avvenire già a 6-7 mesi e i maschi siano potenzialmente attivi a un anno e mezzo, essi non hanno parte attiva negli amori fino al 4°-5° anno perché devono affermarsi nelle gerarchie sociali definite tramite confronti e combattimenti. La fertilità fisiologica è dunque precoce, ma è il rango sociale a determinare l'accesso effettivo alla riproduzione.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.72"
+  },
+  {
+    "id": "muflone-030",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "A che cosa serve il comportamento di flehmen osservato nel maschio di muflone durante il periodo degli accoppiamenti?",
+    "suggestion": "Arricciando il labbro, il maschio potenzia un senso utile a valutare lo stato delle femmine.",
+    "options": [
+      "A intimidire i maschi rivali",
+      "Ad acuire le percezioni odorose per controllare lo stato di estro delle femmine",
+      "A regolare la temperatura corporea",
+      "A marcare il territorio con la saliva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con il flehmen il maschio arriccia il labbro per acuire le proprie percezioni odorose e controllare lo stato di estro delle femmine; è un comportamento innato, presente anche negli immaturi. Non serve a intimidire rivali, regolare la temperatura o marcare il territorio.",
+    "difficulty": "medium",
+    "source": "10 muflone.pdf p.81"
+  },
+  {
+    "id": "muflone-031",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Una femmina di muflone con corna lunghe circa 10 cm, sottili e poco arcuate viene osservata sul campo. Quale conclusione è corretta?",
+    "suggestion": "In alcune popolazioni anche le femmine hanno corna; valuta con quale classe di età maschile potrebbero essere confuse.",
+    "options": [
+      "In alcune popolazioni le femmine hanno corna fino a 12 cm e possono essere confuse con maschi di un anno",
+      "Le femmine non hanno mai corna, quindi è certamente un maschio",
+      "Corna così corte indicano sempre un maschio di sette anni",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "In determinate popolazioni anche alcune femmine sono provviste di corna, lunghe al massimo 12 cm, molto più sottili e meno arcuate di quelle dei maschi; possono però indurre a confondere le femmine con i maschi di un anno. È quindi falso che le femmine non abbiano mai corna, e corna corte non indicano un maschio di sette anni.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.49"
+  },
+  {
+    "id": "muflone-032",
+    "topic": "muflone",
+    "species": "Muflone (Ovis aries musimon)",
+    "question": "Riguardo alla capacità del muflone di muoversi su terreni difficili, quale descrizione corrisponde meglio alle sue attitudini?",
+    "suggestion": "Fai attenzione: pur trovandosi a suo agio sui terreni rocciosi, non è propriamente uno specialista dell'arrampicata come altri caprini.",
+    "options": [
+      "È un arrampicatore specializzato superiore allo stambecco",
+      "È più corridore che arrampicatore, pur a suo agio su terreni ripidi e rocciosi",
+      "Evita del tutto i terreni rocciosi",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il muflone è più corridore che arrampicatore, pur trovandosi a suo agio su terreni ripidi e rocciosi, ed è una specie molto adattabile. Non è quindi un arrampicatore specializzato superiore allo stambecco, né evita i terreni rocciosi.",
+    "difficulty": "hard",
+    "source": "10 muflone.pdf p.60"
+  }
+]

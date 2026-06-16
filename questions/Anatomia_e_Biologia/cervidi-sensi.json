@@ -1,0 +1,427 @@
+[
+  {
+    "id": "cervidi-sensi-001",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché nei cervidi l'olfatto risulta il senso più sviluppato anche in funzione dell'ambiente in cui vivono?",
+    "suggestion": "Pensa a cosa succede alla vista quando ci sono nebbia, maltempo o vegetazione fitta, e a quale senso resta comunque efficace.",
+    "options": [
+      "Perché vivono in ambienti aperti dove la vista non serve",
+      "Perché in condizioni di scarsa visibilità (nebbia, maltempo, fitta vegetazione) l'olfatto resta comunque efficace",
+      "Perché l'olfatto consuma meno energia della vista",
+      "Perché non possiedono fotorecettori funzionali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo indica che in situazioni sfavorevoli come nebbia, maltempo o fitta vegetazione le capacità visive sono limitate, mentre l'olfatto consente comunque un'efficace percezione dell'ambiente: sono quindi motivazioni ambientali e adattative a favorire questo senso. Non vivono solo in ambienti aperti, il punto non è il risparmio energetico e i fotorecettori esistono e funzionano.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.1"
+  },
+  {
+    "id": "cervidi-sensi-002",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Da quali fattori anatomici dipende principalmente l'efficienza dell'olfatto nei cervidi?",
+    "suggestion": "Più 'tappeto' recettivo e più 'sensori' su di esso: pensa alla superficie disponibile e a quante cellule la rivestono.",
+    "options": [
+      "Dall'estensione della mucosa olfattoria e dal numero di cellule olfattive",
+      "Dalla lunghezza delle vibrisse e dal numero di follicoli",
+      "Dal diametro del meato acustico esterno",
+      "Dalla curvatura della cornea e dal numero di coni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo afferma esplicitamente che l'efficienza dell'olfatto dipende sia dall'estensione della mucosa olfattoria sia dal numero di cellule olfattive presenti, e che nei crani allungati la superficie di questa mucosa aumenta. Le vibrisse riguardano il tatto, il meato acustico l'udito e cornea/coni la vista.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.1"
+  },
+  {
+    "id": "cervidi-sensi-003",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché negli animali con cranio allungato si osserva un aumento della superficie della mucosa olfattoria?",
+    "suggestion": "Le porzioni viscerali del cranio si allungano: che effetto ha questo sullo spazio disponibile per la mucosa?",
+    "options": [
+      "Perché il cranio allungato lascia più spazio nelle porzioni viscerali alla mucosa olfattoria",
+      "Perché un cranio lungo riduce il numero di cellule olfattive ma le ingrandisce",
+      "Perché allontana gli occhi e quindi disattiva la vista",
+      "Perché aumenta la pressione dell'aria nelle cavità nasali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Secondo il testo, negli animali con cranio allungato, in particolare nelle porzioni viscerali, si osserva un aumento della superficie della mucosa olfattoria: più superficie disponibile significa più mucosa e quindi un olfatto più efficiente. Le altre opzioni non corrispondono al meccanismo descritto.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.1"
+  },
+  {
+    "id": "cervidi-sensi-004",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Qual è la funzione principale dell'organo di Jacobson (vomeronasale) nei cervidi?",
+    "suggestion": "Non capta gli odori generici dell'ambiente, ma messaggeri chimici scambiati tra individui della stessa specie.",
+    "options": [
+      "Amplificare le vibrazioni sonore dirette al timpano",
+      "Produrre l'umor acqueo dell'occhio",
+      "Captare i feromoni, messaggeri chimici tra individui della stessa specie",
+      "Percepire le basse temperature sulla cute"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'organo di Jacobson (vomeronasale) costituisce il sistema olfattorio accessorio ed è principalmente utilizzato per captare i feromoni, messaggeri chimici che trasmettono informazioni tra individui della stessa specie. L'amplificazione del suono è dell'orecchio medio, l'umor acqueo è del corpo ciliare e le basse temperature competono ai corpuscoli di Krause.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.2"
+  },
+  {
+    "id": "cervidi-sensi-005",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Dove è localizzato l'organo di Jacobson nei cervidi?",
+    "suggestion": "Cerca nel palato, in una posizione ben precisa rispetto agli incisivi superiori e alla cavità nasale.",
+    "options": [
+      "Nella parte dorso-caudale della cavità nasale",
+      "Nella rocca petrosa dell'osso temporale",
+      "Nelle papille vallate della lingua",
+      "Nel palato, dietro agli incisivi superiori e sotto la cavità nasale"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo colloca l'organo di Jacobson nel palato, dietro agli incisivi superiori e sotto la cavità nasale, collegato al palato tramite le fossette vomerali. La parte dorso-caudale della cavità nasale ospita invece i recettori del sistema olfattorio principale; la rocca petrosa riguarda l'orecchio e le papille vallate il gusto.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.2"
+  },
+  {
+    "id": "cervidi-sensi-006",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché il cervo tende a cercare luoghi umidi e ombrosi in relazione al suo olfatto?",
+    "suggestion": "Il testo lega la ricezione degli odori al grado di umidità dell'aria: in quale condizione gli odori si percepiscono meglio?",
+    "options": [
+      "Perché l'aria secca favorisce la ricezione degli odori",
+      "Perché l'umidità favorisce la ricezione degli odori, mentre l'aria secca la deprime",
+      "Perché al buio l'olfatto sostituisce completamente la vista",
+      "Perché l'ombra riduce l'adattamento olfattivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo afferma che l'umidità favorisce la ricezione degli odori mentre l'aria secca la deprime; per questo il cervo cerca luoghi umidi e ombrosi, essendo l'olfatto una delle sue migliori armi di difesa. L'aria secca quindi deprime, non favorisce, la percezione olfattiva.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.4"
+  },
+  {
+    "id": "cervidi-sensi-007",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Secondo la teoria stereochimica esposta, come spiega il fenomeno dell'adattamento olfattivo (gli odori che si attenuano restando in un ambiente)?",
+    "suggestion": "Pensa all'interazione tra molecola odorosa e siti recettivi della membrana e alla permeabilità agli ioni che ne deriva.",
+    "options": [
+      "Con la rottura definitiva delle cellule olfattive a contatto con l'odore",
+      "Con l'adattamento selettivo delle molecole odorose ai siti recettivi della membrana, che ne modifica la permeabilità ionica",
+      "Con la chiusura delle coane durante la masticazione",
+      "Con l'aumento dell'umidità ambientale che dilava gli odori"
+    ],
+    "correctIndex": 1,
+    "explanation": "La teoria descritta prevede che le molecole odorose si adattino selettivamente a particolari siti recettivi della membrana plasmatica in base alle loro caratteristiche stereochimiche, rendendola permeabile agli ioni; questo stesso meccanismo spiegherebbe l'adattamento olfattivo, per cui un odore percepito all'ingresso in un ambiente presto si attenua. Non si parla di distruzione cellulare né delle coane o del dilavamento per umidità.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.4"
+  },
+  {
+    "id": "cervidi-sensi-008",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché rumori improvvisi, in particolare quelli metallici, sono importanti nel comportamento di fuga del cervo?",
+    "suggestion": "L'udito è il secondo senso per importanza: pensa a quali rumori il cervo distingue come 'sospetti' rispetto a quelli abituali.",
+    "options": [
+      "Perché sono percepiti come sospetti e provocano una rapida reazione di fuga",
+      "Perché vengono ignorati in quanto abituali",
+      "Perché stimolano il padiglione a posizionarsi verso la nuca per il pascolo",
+      "Perché attivano l'organo di Jacobson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cervo distingue chiaramente, anche a distanza, sia i rumori abituali sia quelli sospetti; i rumori improvvisi, in particolare quelli metallici, provocano una rapida reazione di fuga. Non vengono quindi ignorati, non sono legati alla posizione dell'orecchio durante il pascolo e non coinvolgono l'organo di Jacobson, che è olfattivo.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.5"
+  },
+  {
+    "id": "cervidi-sensi-009",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Oltre alla percezione dei suoni, quale ulteriore funzione svolge il padiglione auricolare molto mobile del cervo?",
+    "suggestion": "La sua posizione può dire qualcosa agli altri membri del branco: pensa a un ruolo nei rapporti sociali.",
+    "options": [
+      "Una funzione di produzione di feromoni",
+      "Una funzione di messa a fuoco delle immagini",
+      "Una funzione comunicativa, perché la sua posizione indica stato emotivo e intenzioni",
+      "Una funzione di termoregolazione del cervello"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il testo sottolinea che il padiglione auricolare, molto mobile, svolge anche un'importante funzione comunicativa: la sua posizione fornisce indicazioni sullo stato emotivo e sulle intenzioni dell'animale. Non produce feromoni, non mette a fuoco immagini né svolge una funzione termoregolatrice descritta nel testo.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.5"
+  },
+  {
+    "id": "cervidi-sensi-010",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Cosa segnala, nei rapporti sociali del branco, la posizione dell'orecchio 'posato' orientato verso la nuca?",
+    "suggestion": "Si osserva soprattutto durante il pascolo ed esprime un'emozione negativa verso un altro individuo.",
+    "options": [
+      "Disponibilità all'accoppiamento",
+      "Un segnale di fastidio o risentimento",
+      "Sottomissione totale al maschio dominante",
+      "Allarme per un predatore in avvicinamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo il testo, la posizione dell'orecchio 'posato', orientato verso la nuca, rappresenta un segnale di fastidio o risentimento, osservabile nei rapporti sociali all'interno del branco, soprattutto durante il pascolo. Non indica disponibilità riproduttiva, sottomissione o allarme da predatore.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.5"
+  },
+  {
+    "id": "cervidi-sensi-011",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Qual è la funzione specifica dell'orecchio medio nel sistema uditivo dei cervidi?",
+    "suggestion": "Tre porzioni dell'orecchio fanno tre cose diverse: una raccoglie, una amplifica e una percepisce; concentrati su quella centrale.",
+    "options": [
+      "Raccoglie le onde sonore dall'ambiente",
+      "Contiene gli organi di senso per la percezione dei suoni",
+      "Regola la quantità di luce in ingresso",
+      "Amplifica le onde sonore tramite gli ossicini"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo distingue orecchio esterno (raccoglie le onde sonore), medio (le amplifica grazie a martello, incudine e staffa) e interno (contiene gli organi di senso per suoni ed equilibrio). La regolazione della luce è compito dell'iride, non dell'orecchio.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.6"
+  },
+  {
+    "id": "cervidi-sensi-012",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Quale funzione svolgono i piccoli muscoli (tensore del timpano e stapedio) presenti nell'orecchio medio?",
+    "suggestion": "Regolando la tensione di timpano e ossicini, cosa cambia nella trasmissione delle vibrazioni?",
+    "options": [
+      "Producono l'endolinfa del labirinto membranoso",
+      "Regolano la tensione del timpano e degli ossicini, variando la sensibilità di trasmissione delle vibrazioni",
+      "Orientano il padiglione auricolare verso la fonte del suono",
+      "Generano i segnali nervosi inviati al cervello"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo indica che il tensore del timpano e lo stapedio concorrono a regolare la tensione del timpano e degli ossicini, determinando una variazione nella sensibilità del sistema di trasmissione delle vibrazioni. Non producono endolinfa, non muovono il padiglione né generano i segnali nervosi, compito delle cellule ciliate dell'organo del Corti.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.6"
+  },
+  {
+    "id": "cervidi-sensi-013",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché l'orecchio interno è coinvolto sia nell'udito sia nell'equilibrio nei cervidi?",
+    "suggestion": "I suoi recettori sono collegati a un unico nervo che porta a entrambe le funzioni: come si chiama?",
+    "options": [
+      "Perché il timpano percepisce anche la posizione della testa",
+      "Perché la coclea regola la produzione di perilinfa per l'equilibrio",
+      "Perché il martello trasmette informazioni gustative",
+      "Perché i suoi recettori sono collegati al nervo vestibolococleare, responsabile di equilibrio e udito"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nell'orecchio interno sono localizzati i recettori sensoriali collegati alle terminazioni del nervo vestibolococleare, responsabili dell'equilibrio e dell'udito; lì si trovano sia i canali semicircolari (equilibrio) sia il dotto cocleare con l'organo del Corti (udito). Il timpano non percepisce la posizione della testa e il martello non trasmette il gusto.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf pp.7-8"
+  },
+  {
+    "id": "cervidi-sensi-014",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Come l'organo del Corti trasforma le vibrazioni sonore in segnali nervosi nei cervidi?",
+    "suggestion": "Pensa a cosa accade alle ciglia delle cellule ciliate quando arriva una vibrazione, e a quale nervo porta il segnale.",
+    "options": [
+      "Le vibrazioni modificano la curvatura del cristallino",
+      "Le vibrazioni stimolano l'organo di Jacobson nel palato",
+      "Le vibrazioni spostano le ciglia delle cellule ciliate, generando segnali inviati al cervello tramite il nervo vestibolococleare",
+      "Le vibrazioni vengono convertite in feromoni dalla coroide"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'organo del Corti, nel dotto cocleare, è formato da cellule ciliate interne ed esterne; le vibrazioni sonore spostano le loro ciglia generando segnali nervosi trasmessi al cervello tramite il nervo vestibolococleare. Cristallino, organo di Jacobson e coroide appartengono ad altri apparati.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.8"
+  },
+  {
+    "id": "cervidi-sensi-015",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché la posizione molto laterale degli occhi nei ruminanti come il cervo amplia il campo visivo a scapito dell'acuità?",
+    "suggestion": "Più grande è l'angolo tra gli assi dei due occhi, più largo è il campo generale: cosa succede però alla zona vista da entrambi gli occhi insieme?",
+    "options": [
+      "Perché aumenta la zona vista da entrambi gli occhi insieme",
+      "Perché un angolo ampio tra gli assi oculari allarga il campo generale ma riduce quello binoculare, sede della visione più acuta",
+      "Perché gli occhi laterali eliminano del tutto i coni",
+      "Perché la posizione laterale impedisce la messa a fuoco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo spiega che tanto più grande è l'angolo formato dagli assi anatomici dei due occhi, tanto più si allarga il campo visivo, ma contemporaneamente diminuisce la parte di campo vista all'unisono dai due occhi (campo binoculare), che consente una visione più acuta. La posizione laterale quindi riduce, non aumenta, il campo binoculare.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.12"
+  },
+  {
+    "id": "cervidi-sensi-016",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché gli animali predatori, a differenza delle prede, dispongono in genere di un campo visivo binoculare più ampio?",
+    "suggestion": "La visione binoculare serve a collocare con precisione un oggetto nello spazio: a cosa è utile questo per chi caccia?",
+    "options": [
+      "Perché devono individuare movimenti su un campo amplissimo",
+      "Perché hanno occhi in posizione laterale",
+      "Perché non possiedono visione binoculare",
+      "Perché un ampio campo binoculare aumenta l'acuità visiva e permette di stabilire con accuratezza le distanze"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo afferma che la visione binoculare è essenziale per collocare esattamente un oggetto nello spazio e quindi per determinarne la distanza; i predatori hanno un campo binoculare maggiore che aumenta l'acuità, restringendo il campo generale. Nelle prede avviene l'inverso: ampio campo generale per cogliere il movimento, ma campo binoculare stretto e scarsa stima delle distanze.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.14"
+  },
+  {
+    "id": "cervidi-sensi-017",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché si dice che, quanto a campo visivo, il cervo si collochi 'a metà' tra predatori come la volpe e prede estreme come la lepre?",
+    "suggestion": "Gli assi dei suoi bulbi oculari formano un angolo aperto in avanti di un valore intermedio: pensa a cosa gli consente di controllare.",
+    "options": [
+      "Perché ha gli occhi totalmente frontali come la volpe",
+      "Perché gli assi dei suoi bulbi formano un angolo aperto in avanti di 100°, controllando un'ampia porzione di territorio senza muovere troppo testa e collo",
+      "Perché ha un campo binoculare nullo come la lepre",
+      "Perché alterna campo predatorio e campo da preda secondo la stagione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo colloca il cervo a metà perché gli assi anatomici dei suoi bulbi oculari formano un angolo aperto in avanti di 100°, caratteristica che gli permette di controllare una porzione piuttosto estesa di territorio senza eccessivi movimenti di testa e collo. Non ha occhi frontali come i predatori né campo binoculare nullo come la lepre.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.14"
+  },
+  {
+    "id": "cervidi-sensi-018",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché l'astigmatismo, pur essendo un difetto visivo, risulta vantaggioso per cervo e capriolo nel percepire il movimento?",
+    "suggestion": "Se l'immagine non si concentra su un solo fuoco ma si distribuisce su una superficie ampia, cosa accade al numero di fotorecettori coinvolti?",
+    "options": [
+      "Perché l'immagine si estende su un'ampia superficie retinica, coinvolgendo più coni e bastoncelli e rendendo percepibile anche un movimento minimo",
+      "Perché concentra l'immagine su un unico punto della fovea",
+      "Perché elimina del tutto i punti ciechi",
+      "Perché aumenta la produzione di umor acqueo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negli occhi astigmatici l'immagine non è concentrata su un unico fuoco ma si estende su una larga superficie retinica: aumenta così il numero di coni e bastoncelli interessati, rendendo l'occhio capace di avvertire anche un movimento molto piccolo, ad esempio di un cacciatore celato nella macchia. L'astigmatismo non concentra l'immagine in un punto né riguarda l'umor acqueo.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.16"
+  },
+  {
+    "id": "cervidi-sensi-019",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché le specie preda con pupille allungate orizzontalmente traggono vantaggio da questa forma pupillare?",
+    "suggestion": "Pensa a cosa devono individuare per primo questi animali e a quale visione lungo l'orizzonte serve per riuscirci.",
+    "options": [
+      "Perché consente una visione panoramica lungo l'asse orizzontale, utile a individuare predatori che si muovono al livello del suolo",
+      "Perché favorisce la stereopsi per focalizzare meglio la preda",
+      "Perché aumenta l'acuità solo in posizione frontale",
+      "Perché serve a cacciare di notte con imboscate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le specie con pupille orizzontali sono generalmente prede con occhi laterali: questa forma offre una visione panoramica lungo l'orizzonte, migliora la percezione dei contorni e facilita l'individuazione di predatori provenienti da varie direzioni, che si muovono a livello del suolo. La stereopsi e le imboscate notturne sono invece tipiche dei predatori con pupille verticali.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf pp.17-18"
+  },
+  {
+    "id": "cervidi-sensi-020",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché il gusto e l'olfatto sono considerati sensi strettamente complementari nei cervidi?",
+    "suggestion": "Le sfumature di un sapore non dipendono dai soli recettori gustativi: pensa a cosa raggiunge l'odore del cibo attraverso le coane.",
+    "options": [
+      "Perché entrambi usano l'organo del Corti",
+      "Perché i calici gustativi si trovano nella cavità nasale",
+      "Perché il gusto sostituisce l'olfatto in aria secca",
+      "Perché l'olfatto, tramite le coane, contribuisce a percepire le sfumature del sapore valutando l'odore del cibo, favorito dalla masticazione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo spiega che le percezioni delle sfumature di un sapore non dipendono dai soli recettori gustativi, ma anche dall'olfatto, che attraverso le coane accerta gradibilità e gustosità del cibo analizzandone l'odore, favorito dalla masticazione: gusto e olfatto si completano a vicenda. L'organo del Corti è uditivo e i calici gustativi stanno nel cavo orale, non nel naso.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.20"
+  },
+  {
+    "id": "cervidi-sensi-021",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché nei cervidi le vibrisse del muso e delle labbra sono particolarmente importanti dal punto di vista funzionale?",
+    "suggestion": "Sono peli specializzati con molte terminazioni nervose alla base: a cosa servono quando la vista 'da vicino' non basta?",
+    "options": [
+      "A migliorare la visione binoculare frontale",
+      "A captare i feromoni come l'organo di Jacobson",
+      "A compensare la minore importanza della vista nei dettagli ravvicinati, esplorando l'ambiente e selezionando il cibo anche con scarsa visibilità",
+      "A regolare la tensione del timpano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le vibrisse sono peli specializzati riccamente innervati che fungono da organi di esplorazione tattile; nei cervidi, sviluppate su muso e labbra, sono fondamentali per esplorare l'ambiente in condizioni di scarsa visibilità, selezionare il cibo durante la brucatura e percepire ostacoli ravvicinati, compensando così la minore importanza della vista nei dettagli vicini. Non riguardano vista binoculare, feromoni o timpano.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf pp.24-25"
+  },
+  {
+    "id": "cervidi-sensi-022",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Quale tipo di corpuscolo sensoriale cutaneo è responsabile della percezione delle basse temperature (freddo) ed è localizzato anche nella cornea?",
+    "suggestion": "Tra i corpuscoli del derma, distingui i meccanorecettori dai termorecettori, e tra questi quello sensibile al freddo.",
+    "options": [
+      "Corpuscoli di Pacini",
+      "Corpuscoli di Krause",
+      "Corpuscoli di Meissner",
+      "Corpuscoli di Ruffini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo indica i corpuscoli di Krause come termorecettori sensibili alle basse temperature (freddo), localizzati principalmente nella cavità orale e nella cornea. I Pacini sono pressocettori sensibili a pressione e vibrazioni, i Meissner meccanorecettori del tatto fine e i Ruffini sensibili alle alte temperature e allo stiramento.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.23"
+  },
+  {
+    "id": "cervidi-sensi-023",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Considerando la funzione sensoriale della vista, quale affermazione è corretta confrontando cervo e capriolo?",
+    "suggestion": "Il testo non li mette sullo stesso piano: presta attenzione a quale dei due ha una vista buona e quale solo mediocre e frontale.",
+    "options": [
+      "La vista è ugualmente acuta in entrambe le specie",
+      "La vista è mediocre nel cervo e ottima nel capriolo",
+      "Solo il capriolo distingue con certezza i colori",
+      "La vista è buona nel cervo, mentre nel capriolo è mediocre e offre la migliore acuità solo in posizione frontale"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo afferma che la funzione visiva è buona nel cervo e meno acuta nel capriolo; nel capriolo la vista è mediocre e dà la migliore acuità solo in posizione osservativa frontale, e la sua capacità di distinguere i colori è in dubbio. Le altre opzioni invertono o appiattiscono questa distinzione.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf pp.9,19"
+  },
+  {
+    "id": "cervidi-sensi-024",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Riguardo alla percezione dei colori nei cervidi descritta nel testo, quale affermazione è corretta?",
+    "suggestion": "Attenzione alla precisione: il testo dà informazioni diverse per cervo e capriolo e usa cautele ('scarsamente studiato', 'in dubbio').",
+    "options": [
+      "Sia cervo sia capriolo distinguono con certezza gli stessi sei colori",
+      "Nel cervo il senso del colore è scarsamente studiato e alcune ricerche suggeriscono la distinzione di alcuni colori, mentre nel capriolo la capacità è in dubbio",
+      "Il capriolo distingue più colori del cervo",
+      "Nessuno dei due possiede coni nella retina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo è cauto: nel cervo il senso del colore è scarsamente studiato e alcune ricerche fanno ritenere che riesca a distinguere alcuni colori (rosso, nero-viola, arancione, giallo-verde, blu), mentre nel capriolo la capacità di distinguere i colori è in dubbio. Non si afferma una certezza condivisa né un primato del capriolo; inoltre la retina possiede coni (visione diurna), quindi l'ultima opzione è errata.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.19"
+  },
+  {
+    "id": "cervidi-sensi-025",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Quale tra queste è una conseguenza diretta della miosi pupillare descritta come riflesso oculare nei cervidi?",
+    "suggestion": "Distingui la costrizione dalla dilatazione e ricorda quale ramo del sistema nervoso autonomo media ciascuna; serve precisione.",
+    "options": [
+      "La dilatazione della pupilla mediata dal simpatico",
+      "La costrizione della pupilla mediata dal parasimpatico",
+      "La produzione di umor acqueo da parte dell'iride",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo definisce la miosi come costrizione mediata da fibre del parasimpatico, contrapposta alla midriasi (dilatazione) mediata dal simpatico. La prima opzione descrive la midriasi, non la miosi; l'umor acqueo è prodotto dal corpo ciliare, non dall'iride. La risposta corretta è dunque presente, quindi 'nessuna delle precedenti' è errata.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.11"
+  }
+]

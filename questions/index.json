@@ -11,10 +11,52 @@
           "count": 56
         },
         {
+          "species": "Capriolo (Capreolus capreolus)",
+          "file": "Anatomia_e_Biologia/capriolo.json",
+          "source": "docs/Anatomia_e_Biologia/3. CAPRIOLO GEN FATTO.pdf",
+          "count": 32
+        },
+        {
+          "species": "Cervidi — scheletro, muscoli, denti",
+          "file": "Anatomia_e_Biologia/cervidi-scheletro.json",
+          "source": "docs/Anatomia_e_Biologia/4. schelmuscdenticervidi FATTO.pdf",
+          "count": 51
+        },
+        {
+          "species": "Cervidi — visceri",
+          "file": "Anatomia_e_Biologia/cervidi-visceri.json",
+          "source": "docs/Anatomia_e_Biologia/5. cervidiVISCERI.pdf",
+          "count": 49
+        },
+        {
+          "species": "Cervidi — palco (I)",
+          "file": "Anatomia_e_Biologia/palco-cervidi.json",
+          "source": "docs/Anatomia_e_Biologia/6 PALCO CERVIDI.pdf",
+          "count": 40
+        },
+        {
+          "species": "Cervidi — palco (II)",
+          "file": "Anatomia_e_Biologia/palco-2.json",
+          "source": "docs/Anatomia_e_Biologia/7 PALCO II parte.pdf",
+          "count": 27
+        },
+        {
+          "species": "Cervidi — sensi",
+          "file": "Anatomia_e_Biologia/cervidi-sensi.json",
+          "source": "docs/Anatomia_e_Biologia/8 cervidi SENSI.pdf",
+          "count": 25
+        },
+        {
           "species": "Daino (Dama dama)",
           "file": "Anatomia_e_Biologia/daino.json",
           "source": "docs/Anatomia_e_Biologia/9 DAINO.pdf",
           "count": 60
+        },
+        {
+          "species": "Muflone (Ovis aries musimon)",
+          "file": "Anatomia_e_Biologia/muflone.json",
+          "source": "docs/Anatomia_e_Biologia/10 muflone.pdf",
+          "count": 32
         },
         {
           "species": "Stambecco (Capra ibex)",
@@ -33,18 +75,6 @@
           "file": "Anatomia_e_Biologia/volpe.json",
           "source": "docs/Anatomia_e_Biologia/20 volpe rossa.pdf",
           "count": 24
-        },
-        {
-          "species": "Cervidi — palco (I)",
-          "file": "Anatomia_e_Biologia/palco-cervidi.json",
-          "source": "docs/Anatomia_e_Biologia/6 PALCO CERVIDI.pdf",
-          "count": 40
-        },
-        {
-          "species": "Cervidi — scheletro, muscoli, denti",
-          "file": "Anatomia_e_Biologia/cervidi-scheletro.json",
-          "source": "docs/Anatomia_e_Biologia/4. schelmuscdenticervidi FATTO.pdf",
-          "count": 51
         }
       ]
     }

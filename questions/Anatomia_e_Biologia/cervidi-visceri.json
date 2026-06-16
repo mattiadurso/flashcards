@@ -1,0 +1,806 @@
+[
+  {
+    "id": "cervidi-visceri-001",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché gli erbivori ruminanti possono iniziare la digestione prima rispetto a erbivori come il cavallo e la lepre?",
+    "suggestion": "Pensa a quale serbatoio aggiuntivo i ruminanti possiedono e che gli altri due animali non hanno.",
+    "options": [
+      "Perché hanno denti più affilati che triturano subito il cibo",
+      "Perché il loro intestino è proporzionalmente più lungo",
+      "Perché secernono più acido cloridrico nello stomaco",
+      "Perché possiedono il rumine, dove accumulano l'alimento e avviano una prima fase di digestione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nei ruminanti il rumine funge da serbatoio aggiuntivo dove il cibo viene accumulato e parzialmente predigerito prima di proseguire. Cavallo e lepre, privi di rumine, fermentano nell'intestino, che infatti risulta proporzionalmente più lungo: l'intestino lungo è la loro soluzione, non quella dei ruminanti.",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.1"
+  },
+  {
+    "id": "cervidi-visceri-002",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché gli erbivori devono alimentarsi frequentemente e in piccole quantità per volta?",
+    "suggestion": "Collega la qualità nutritiva del cibo vegetale al fabbisogno proteico ed energetico dell'animale.",
+    "options": [
+      "Perché il cibo vegetale è generalmente povero di proteine",
+      "Perché il loro stomaco è troppo piccolo per grandi pasti",
+      "Perché non riescono a immagazzinare riserve di grasso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cibo vegetale è quasi sempre disponibile ma povero di proteine, quindi gli erbivori assumono poco per volta ma si alimentano spesso per coprire il fabbisogno energetico e proteico. I carnivori, al contrario, con un solo pasto ricco di proteine accumulano scorte che permettono lunghi digiuni.",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.1"
+  },
+  {
+    "id": "cervidi-visceri-003",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Nei bovidi e cervidi, quale struttura ha il ruolo principale nella prensione del cibo solido durante il pascolo?",
+    "suggestion": "Considera l'organo rugoso e molto prensile che avvolge il foraggio contro gli incisivi inferiori.",
+    "options": [
+      "Il labbro superiore, molto mobile",
+      "I denti incisivi superiori",
+      "La lingua, rugosa e molto prensile",
+      "Il grugno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei bovidi e cervidi la raccolta del cibo avviene grazie alla lingua, rugosa e prensile, che avvolge il foraggio e lo comprime contro gli incisivi inferiori e il cuscinetto dentale superiore; le labbra, poco mobili, hanno ruolo secondario. Il labbro superiore mobile è tipico degli ovini, il grugno dei suini.",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.4"
+  },
+  {
+    "id": "cervidi-visceri-004",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché nei cervidi il labbro superiore non interviene attivamente nella prensione dell'alimento?",
+    "suggestion": "Pensa alla mobilità delle labbra rispetto a quella della lingua in queste specie.",
+    "options": [
+      "Perché le labbra sono poco mobili e hanno un ruolo secondario",
+      "Perché il labbro superiore è glabro e privo di sensibilità",
+      "Perché il labbro è fuso con le narici a formare un grugno scavatorio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei bovidi e cervidi le labbra sono poco mobili e svolgono un ruolo secondario, mentre la lingua è l'organo prensile principale. La fusione labbro-narici a formare il grugno scavatorio è caratteristica dei suini, non dei cervidi.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.4"
+  },
+  {
+    "id": "cervidi-visceri-005",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché la masticazione è importante per la successiva azione degli enzimi digestivi?",
+    "suggestion": "Rifletti su come la dimensione delle particelle alimentari influisce sull'attacco enzimatico.",
+    "options": [
+      "Perché sterilizza l'alimento eliminando i microrganismi",
+      "Perché riscalda il bolo facilitando le reazioni chimiche",
+      "Perché neutralizza l'acidità del cibo ingerito",
+      "Perché sminuzza l'alimento aumentando la superficie di contatto per l'idrolisi enzimatica"
+    ],
+    "correctIndex": 3,
+    "explanation": "La masticazione tritura l'alimento aumentandone la superficie di contatto, facilitando così l'azione idrolitica degli enzimi. Non ha funzione di sterilizzazione né di neutralizzazione: anzi, nei ruminanti la flora microbica è essenziale e la saliva interviene poi nel mantenere il pH ruminale.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.5"
+  },
+  {
+    "id": "cervidi-visceri-006",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quando avviene la masticazione vera, lenta e accurata, nei ruminanti?",
+    "suggestion": "Collega la masticazione fine al momento in cui il bolo viene rigurgitato dal rumine alla bocca.",
+    "options": [
+      "Durante la ruminazione, sul bolo rigurgitato dal rumine",
+      "Durante la prima ingestione del cibo",
+      "Solo quando il cibo è già nell'abomaso",
+      "Durante l'assorbimento intestinale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Durante l'ingestione il cibo viene raccolto e deglutito con triturazione sommaria; la vera masticazione, lenta e accurata, avviene durante la ruminazione, quando il bolo ruminale viene rigurgitato in bocca. Abomaso e intestino sono sedi di digestione e assorbimento, non di masticazione.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.5"
+  },
+  {
+    "id": "cervidi-visceri-007",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché i movimenti mandibolari latero-laterali sono adatti alla dieta dei ruminanti?",
+    "suggestion": "Pensa a come le superfici occlusali larghe dei molari trattano il materiale fibroso.",
+    "options": [
+      "Perché favoriscono lo sfregamento delle superfici occlusali dei molari, triturando il materiale fibroso",
+      "Perché permettono di strappare brandelli di carne",
+      "Perché aumentano la velocità di deglutizione"
+    ],
+    "correctIndex": 0,
+    "explanation": "I movimenti ampi e latero-laterali favoriscono lo sfregamento delle superfici occlusali dei molari, larghi e adatti a triturare il materiale fibroso. Lo strappo di brandelli di carne con incisivi e canini è proprio dei carnivori, non dei ruminanti erbivori.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.5"
+  },
+  {
+    "id": "cervidi-visceri-008",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Oltre a lubrificare il bolo, quale funzione fondamentale svolge l'abbondante saliva dei ruminanti?",
+    "suggestion": "Considera l'effetto della saliva sull'ambiente chimico in cui lavora la flora del rumine.",
+    "options": [
+      "Digerisce le proteine grazie alla pepsina",
+      "Assorbe gli acidi grassi volatili",
+      "Inattiva la flora microbica in eccesso",
+      "Mantiene il pH ruminale grazie alla sua azione tampone"
+    ],
+    "correctIndex": 3,
+    "explanation": "La saliva, prodotta in grandi quantità, lubrifica il bolo e soprattutto mantiene il pH ruminale grazie alla sua azione tampone, ottimizzando la fermentazione microbica. La pepsina agisce nell'abomaso, l'assorbimento degli AGV avviene attraverso la parete ruminale e la flora va sostenuta, non inattivata.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.5"
+  },
+  {
+    "id": "cervidi-visceri-009",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Nei ruminanti, dove si trova la regione cardiale che segna il passaggio tra esofago e rumine?",
+    "suggestion": "Localizzala nella parte cranio-dorsale di una specifica regione del rumine.",
+    "options": [
+      "Cranio-dorsalmente nell'atrio del rumine",
+      "Nella parte ventrale dell'omaso",
+      "Al centro del reticolo",
+      "All'apertura dell'abomaso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La regione cardiale è situata cranio-dorsalmente nell'atrio del rumine e rappresenta il punto di passaggio tra esofago e rumine; da qui origina la doccia esofagea. Omaso, reticolo e abomaso sono compartimenti successivi e non ospitano il cardia.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.7"
+  },
+  {
+    "id": "cervidi-visceri-010",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Qual è la funzione della doccia esofagea nel neonato ruminante quando è chiusa?",
+    "suggestion": "Pensa a come il latte può evitare il grande serbatoio fermentativo non ancora funzionante.",
+    "options": [
+      "Convoglia il latte direttamente all'omaso, bypassando il rumine",
+      "Trattiene il latte nel rumine per farlo fermentare",
+      "Dirige il latte nel reticolo per la selezione",
+      "Apre il passaggio verso l'intestino tenue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando la doccia esofagea è chiusa, come nel neonato, convoglia il materiale liquido direttamente dall'esofago all'omaso bypassando il rumine; quando è aperta, il materiale entra invece nel rumine. Far fermentare il latte nel rumine sarebbe controproducente nel lattante.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.7"
+  },
+  {
+    "id": "cervidi-visceri-011",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale compartimento gastrico rappresenta circa l'80% del volume totale dello stomaco dei ruminanti?",
+    "suggestion": "È la camera più ampia, dove il contenuto fermenta grazie alla flora microbica.",
+    "options": [
+      "Il reticolo",
+      "L'omaso",
+      "Il rumine",
+      "L'abomaso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il rumine è la camera più ampia, circa l'80% del volume totale, dove il contenuto viene mescolato, idratato e fermentato dalla flora microbica. Il reticolo è la più piccola camera, l'omaso comprime e spreme l'alimento e l'abomaso è il vero stomaco ghiandolare.",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.9"
+  },
+  {
+    "id": "cervidi-visceri-012",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché si dice che le pareti del rumine non svolgono una digestione enzimatica vera e propria?",
+    "suggestion": "Distingui tra assorbire prodotti della fermentazione e produrre enzimi digestivi.",
+    "options": [
+      "Perché secernono solo muco protettivo",
+      "Perché si limitano ad assorbire alcuni prodotti della fermentazione, come gli acidi grassi volatili",
+      "Perché producono acido cloridrico ma non enzimi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le pareti ruminali possono assorbire alcuni prodotti della fermentazione, come gli acidi grassi volatili, ma non producono enzimi digestivi: la digestione enzimatica ghiandolare, con acido cloridrico e pepsina, avviene nell'abomaso. Quindi il rumine non secerne acido cloridrico né enzimi.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.9"
+  },
+  {
+    "id": "cervidi-visceri-013",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché all'interno del rumine si crea una stratificazione del contenuto?",
+    "suggestion": "Collega la dimensione e il peso delle particelle alla loro posizione nella massa.",
+    "options": [
+      "Le particelle grossolane stanno in alto, quelle fini e pesanti si depositano in basso",
+      "Le particelle liquide galleggiano sopra quelle solide indistintamente",
+      "Le particelle ricche di grasso affondano, le proteiche risalgono"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel rumine si crea una stratificazione: le particelle più grossolane si dispongono negli strati superiori, mentre quelle più fini e pesanti si depositano in basso. La distinzione non è tra grassi e proteine, ma è basata su dimensione e peso delle particelle.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.9"
+  },
+  {
+    "id": "cervidi-visceri-014",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Qual è la funzione principale del reticolo nel passaggio dell'alimento tra i prestomaci?",
+    "suggestion": "Pensa a chi seleziona cosa prosegue verso l'omaso e cosa torna indietro per essere rimasticato.",
+    "options": [
+      "Secernere enzimi gastrici sul materiale in arrivo",
+      "Assorbire la maggior parte dell'acqua del contenuto",
+      "Accumulare e immagazzinare grandi quantità di cibo",
+      "Selezionare il materiale: il fine prosegue verso l'omaso, il grossolano viene rinviato per la ruminazione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nel reticolo avviene la selezione del materiale: la frazione liquida e le particelle piccole proseguono verso l'omaso, mentre il materiale grossolano viene rinviato al rumine e poi alla bocca per la masticazione mericica. L'assorbimento dell'acqua è soprattutto dell'omaso, lo stoccaggio è del rumine.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.9"
+  },
+  {
+    "id": "cervidi-visceri-015",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché il reticolo presenta un tipico aspetto a celle?",
+    "suggestion": "Osserva la conformazione della mucosa interna di questa camera.",
+    "options": [
+      "Per le numerose lamine che lo attraversano",
+      "Per le pieghe mucose che gli conferiscono l'aspetto a celle",
+      "Per le papille coniche allungate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il reticolo è caratterizzato da pieghe mucose che gli conferiscono il tipico aspetto a celle. Le numerose lamine sono invece la caratteristica dell'omaso, mentre le papille servono ad aumentare la superficie del rumine.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.9"
+  },
+  {
+    "id": "cervidi-visceri-016",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché l'alimento che giunge all'omaso viene compresso e spremuto dalle sue numerose lamine?",
+    "suggestion": "Collega la spremitura all'assorbimento di acqua e prodotti della fermentazione.",
+    "options": [
+      "Per avviare la fermentazione microbica vera e propria",
+      "Per neutralizzare l'acidità prima dell'abomaso",
+      "Per consentire l'assorbimento di parte dell'acqua e dei prodotti della fermentazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le lamine omasali comprimono e spremono l'alimento imbibito di liquido ruminale, permettendo l'assorbimento di parte dell'acqua e dei prodotti della fermentazione, mentre la frazione liquida più fine raggiunge l'abomaso. La fermentazione vera avviene nel rumine, non nell'omaso.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.10"
+  },
+  {
+    "id": "cervidi-visceri-017",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché l'abomaso è definito il vero stomaco ghiandolare dei ruminanti?",
+    "suggestion": "Pensa a dove agiscono acido cloridrico ed enzimi come la pepsina.",
+    "options": [
+      "Perché è il più voluminoso dei compartimenti",
+      "Perché ospita la flora microbica fermentativa",
+      "Perché seleziona le particelle grossolane",
+      "Perché vi avviene la digestione enzimatica grazie ad acido cloridrico ed enzimi come la pepsina"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nell'abomaso, vero stomaco ghiandolare, agiscono i succhi gastrici con acido cloridrico ed enzimi come la pepsina: qui avviene la digestione enzimatica e il materiale diventa chimo. Non è il più voluminoso (lo è il rumine), non ospita la fermentazione microbica e non fa selezione (compito del reticolo).",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.10"
+  },
+  {
+    "id": "cervidi-visceri-018",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Dopo l'abomaso, dove passa il chimo per completare la digestione e l'assorbimento dei nutrienti?",
+    "suggestion": "Segui il percorso dell'alimento subito dopo lo stomaco ghiandolare.",
+    "options": [
+      "Nell'omaso",
+      "Nell'intestino tenue",
+      "Nel reticolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trasformato in chimo nell'abomaso, il materiale passa nell'intestino tenue, dove si completa la digestione e avviene l'assorbimento delle sostanze nutrienti. Omaso e reticolo sono prestomaci che precedono l'abomaso, non lo seguono.",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.10"
+  },
+  {
+    "id": "cervidi-visceri-019",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché il rumine del cervo è più voluminoso (circa 34 litri nel maschio adulto) rispetto a quello del capriolo?",
+    "suggestion": "Collega il volume fermentativo al tipo di vegetazione e alla quantità di fibra che la specie deve digerire.",
+    "options": [
+      "Perché il cervo è una specie evolutivamente più antica",
+      "Perché il capriolo non possiede un vero rumine",
+      "Perché il cervo vive a quote più elevate",
+      "Perché il cervo utilizza alimenti più fibrosi e necessita di maggiore capacità fermentativa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le differenze morfo-funzionali riflettono strategie alimentari diverse: il cervo, pascolatore intermedio che sfrutta anche vegetali fibrosi, necessita di un rumine voluminoso per fermentarli, mentre il capriolo, selettore di alimenti digeribili, ha un rumine piccolo. Il capriolo possiede comunque un rumine, solo più ridotto.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.10"
+  },
+  {
+    "id": "cervidi-visceri-020",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale funzione svolge la mobilizzazione e il rimescolamento operati dai prestomaci sugli acidi grassi volatili (AGV)?",
+    "suggestion": "Pensa a cosa succede agli AGV portati nelle zone dove la parete del rumine può riassorbirli.",
+    "options": [
+      "Ne favoriscono il riassorbimento attraverso la parete del rumine",
+      "Li trasformano direttamente in proteine",
+      "Li espellono con l'eruttazione insieme ai gas"
+    ],
+    "correctIndex": 0,
+    "explanation": "I prestomaci mobilizzano gli AGV dalle zone di maggiore produzione verso la parete del rumine, favorendone il riassorbimento. Gli AGV non vengono trasformati in proteine né eliminati con l'eruttazione: con l'eruttazione si rimuovono i gas CO₂ e CH₄.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.11"
+  },
+  {
+    "id": "cervidi-visceri-021",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché è importante che i prestomaci permettano una distribuzione uniforme dei microrganismi nel contenuto ruminale?",
+    "suggestion": "Rifletti su come una flora ben distribuita influisce sulla degradazione dell'alimento.",
+    "options": [
+      "Per riscaldare in modo uniforme il bolo",
+      "Per garantire una fermentazione microbica efficace su tutto il materiale alimentare",
+      "Per impedire la produzione di gas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La distribuzione uniforme dei microrganismi, ottenuta col continuo rimescolamento, assicura che la fermentazione microbica agisca efficacemente su tutto il contenuto. La produzione di gas è una conseguenza inevitabile della fermentazione, che i prestomaci poi rimuovono, non impediscono.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.11"
+  },
+  {
+    "id": "cervidi-visceri-022",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quali compartimenti coinvolge il ciclo primario (ciclo A) della motilità gastrica dei ruminanti?",
+    "suggestion": "Si tratta del ciclo che serve a selezionare e smistare le ingesta tra le due camere più grandi.",
+    "options": [
+      "Solo il rumine",
+      "Omaso e abomaso",
+      "Esofago e abomaso",
+      "Reticolo e rumine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il ciclo primario (ciclo A) coinvolge reticolo e rumine e serve a selezionare, smistare e rimescolare le ingesta, che tornano alla bocca o al reticolo. Il ciclo secondario (B) interessa invece esclusivamente le pareti del rumine.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.12"
+  },
+  {
+    "id": "cervidi-visceri-023",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Come inizia il ciclo A della motilità ruminale?",
+    "suggestion": "Pensa a quale prestomaco si contrae per primo e in quante fasi.",
+    "options": [
+      "Con una contrazione bifasica del reticolo",
+      "Con la contrazione unica del sacco dorsale del rumine",
+      "Con la chiusura della doccia esofagea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ciclo A inizia con una contrazione bifasica del reticolo: una prima riduce parzialmente il volume, la seconda ne completa lo svuotamento; solo dopo si contrae il sacco dorsale del rumine. La chiusura della doccia esofagea riguarda invece l'instradamento del latte nel neonato.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.12"
+  },
+  {
+    "id": "cervidi-visceri-024",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Qual è la funzione principale del ciclo secondario (ciclo B) della motilità ruminale?",
+    "suggestion": "Pensa a dove si accumula la massa gassosa e a come viene eliminata.",
+    "options": [
+      "Convogliare i gas accumulati verso il cardia per l'eruttazione",
+      "Riportare il bolo alla bocca per la ruminazione",
+      "Selezionare le particelle dirette all'omaso",
+      "Spremere l'alimento per assorbire acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ciclo B coinvolge solo le pareti del rumine e ha la funzione principale di convogliare la massa gassosa accumulata nella cupola verso la regione cardiale, consentendone l'eliminazione con l'eruttazione (oltre a un certo rimescolamento). Il ritorno del bolo alla bocca è proprio della ruminazione, la selezione del reticolo e la spremitura dell'omaso.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.13"
+  },
+  {
+    "id": "cervidi-visceri-025",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Oltre al rumine e alla bocca, quali apparati e strutture coinvolge la ruminazione?",
+    "suggestion": "Ricorda che il bolo deve risalire e che serve anche il controllo della respirazione.",
+    "options": [
+      "Solo l'omaso e l'abomaso",
+      "L'esofago e l'apparato respiratorio",
+      "L'intestino tenue e il fegato"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ruminazione coinvolge il rumine, l'esofago, l'apparato respiratorio e la cavità orale, riportando il bolo dalla cavità ruminale alla bocca per la masticazione mericica. Omaso, abomaso, intestino e fegato non partecipano a questo specifico atto.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.14"
+  },
+  {
+    "id": "cervidi-visceri-026",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "In quali condizioni di pH e ossigeno vivono i batteri del rumine?",
+    "suggestion": "Pensa a un ambiente da leggermente acido a neutro e privo di ossigeno.",
+    "options": [
+      "pH 5,5-7,0 in ambiente privo di ossigeno",
+      "pH 1,5-3,0 in ambiente ricco di ossigeno",
+      "pH 8,0-9,0 in ambiente anaerobio"
+    ],
+    "correctIndex": 0,
+    "explanation": "I batteri ruminali vivono a pH 5,5-7,0, in ambiente privo di ossigeno (anaerobio) e a 39-40°C. Un pH molto acido (1,5-3,0) è tipico dello stomaco ghiandolare, mentre l'ambiente del rumine non è alcalino né ossigenato.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.14"
+  },
+  {
+    "id": "cervidi-visceri-027",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché il capriolo, pur essendo un brucatore selettivo di alimenti concentrati, necessita comunque di una quota consistente di fibra grezza (almeno 20%), soprattutto in inverno?",
+    "suggestion": "Considera che anche un selettore di concentrati ha un rumine che deve funzionare correttamente.",
+    "options": [
+      "Perché un minimo di fibra grezza è necessario al corretto funzionamento del rumine",
+      "Perché la fibra è la sua principale fonte di proteine",
+      "Perché la fibra sostituisce completamente gli alimenti concentrati in inverno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il capriolo è un selettore di concentrati ma necessita comunque di almeno il 20% di fibra grezza, soprattutto in inverno, per il corretto funzionamento del rumine. La fibra non è la sua fonte proteica principale (cerca alimenti ricchi di proteine) e non sostituisce del tutto i concentrati.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.15"
+  },
+  {
+    "id": "cervidi-visceri-028",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché il cervo manifesta cicli di alimentazione e ruminazione più lunghi e meno numerosi rispetto a un ruminante selettore come il capriolo?",
+    "suggestion": "Collega la durata dei cicli al tempo di transito dell'alimento fibroso nell'intestino.",
+    "options": [
+      "Perché ha un rumine più piccolo che si svuota in fretta",
+      "Perché il transito dell'alimento fibroso è relativamente lungo, richiedendo cicli più lunghi",
+      "Perché vive in branchi più numerosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cervo il tempo di transito dell'alimento fibroso è relativamente lungo, quindi i cicli di alimentazione e ruminazione sono più lunghi e meno numerosi nell'arco della giornata. Il cervo ha un rumine voluminoso, non piccolo, e la vita sociale non spiega la durata dei cicli digestivi.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.15"
+  },
+  {
+    "id": "cervidi-visceri-029",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Dove sono alloggiati i testicoli dei Cervidi rispetto alla cavità addominale?",
+    "suggestion": "Pensa alla sacca cutanea esterna situata in regione prepubica.",
+    "options": [
+      "All'interno della cavità addominale, in posizione retroperitoneale",
+      "Nel canale inguinale in modo permanente",
+      "Fuori della cavità addominale, nello scroto in regione prepubica"
+    ],
+    "correctIndex": 2,
+    "explanation": "I testicoli sono alloggiati fuori della cavità addominale, nello scroto, sacca cutanea posta in regione prepubica, rivestiti da un'espansione del peritoneo e dalla tonaca albuginea. La permanenza in addome o nel canale inguinale è invece una condizione patologica, il criptorchidismo.",
+    "difficulty": "easy",
+    "source": "5. cervidiVISCERI.pdf p.30"
+  },
+  {
+    "id": "cervidi-visceri-030",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale funzione svolgono le cellule del Sertoli all'interno dei tubuli seminiferi?",
+    "suggestion": "Pensa al nutrimento delle cellule germinali e alla separazione tra compartimenti.",
+    "options": [
+      "Elaborano il testosterone",
+      "Producono direttamente FSH e LH",
+      "Maturano gli spermatozoi rendendoli mobili",
+      "Nutrono le cellule germinali e separano il compartimento diploide da quello aploide"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le cellule del Sertoli nutrono le cellule germinali in maturazione e separano il compartimento diploide da quello aploide. Il testosterone è prodotto dalle cellule di Leydig, FSH e LH sono ipofisari e la maturazione finale degli spermatozoi avviene nell'epididimo.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.31"
+  },
+  {
+    "id": "cervidi-visceri-031",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale ormone stimola le cellule di Leydig a elaborare il testosterone?",
+    "suggestion": "Distingui tra l'ormone che regola la spermatogenesi e quello che agisce sulle cellule di Leydig.",
+    "options": [
+      "L'FSH",
+      "L'LH",
+      "Il progesterone"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'LH stimola le cellule di Leydig a produrre testosterone, mentre l'FSH regola l'attività spermatogenetica. Il progesterone è un ormone femminile legato al corpo luteo e alla gravidanza.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.31"
+  },
+  {
+    "id": "cervidi-visceri-032",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Dove gli spermatozoi dei Cervidi completano la loro maturazione e acquisiscono la motilità?",
+    "suggestion": "Pensa alla struttura che fa seguito al testicolo nel percorso degli spermatozoi.",
+    "options": [
+      "Nei tubuli seminiferi contorti",
+      "Nella rete testis",
+      "Nell'epididimo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le cellule dell'epididimo operano una completa maturazione degli spermatozoi, che fino a quel momento non sono ancora mobili. I tubuli seminiferi contorti sono sede della spermatogenesi iniziale e la rete testis è solo un punto di confluenza al centro della gonade.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.31"
+  },
+  {
+    "id": "cervidi-visceri-033",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Nel criptorchidismo bilaterale dei cervidi, cosa accade alla produzione ormonale e a quella spermatica?",
+    "suggestion": "Considera che gli ormoni e gli spermatozoi non dipendono nello stesso modo dalla posizione del testicolo.",
+    "options": [
+      "Si annullano entrambe",
+      "La produzione ormonale permane, mentre quella spermatica è annullata",
+      "La produzione spermatica permane, mentre quella ormonale è annullata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel criptorchidismo bilaterale la produzione ormonale permane, mentre quella spermatica è annullata; se il difetto è monolaterale non vi sono conseguenze sulla fecondità. La produzione di testosterone resta quindi attiva, motivo per cui il ciclo cornuale di norma non si altera subito.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.33"
+  },
+  {
+    "id": "cervidi-visceri-034",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché nel maschio l'azione di FSH e LH è continua e non ciclica come nella femmina?",
+    "suggestion": "Pensa a un'inibizione definitiva avvenuta durante la vita fetale per opera del testosterone.",
+    "options": [
+      "Perché il maschio non possiede l'ipotalamo",
+      "Perché il centro ipotalamico anteriore è stato inibito in modo definitivo dal testosterone fetale",
+      "Perché FSH e LH nel maschio sono prodotti dai testicoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel maschio l'azione di FSH e LH è continua perché il centro ipotalamico anteriore è stato inibito definitivamente dal testosterone prodotto durante la vita fetale. Il maschio possiede l'ipotalamo, e FSH e LH restano di origine ipofisaria.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.31"
+  },
+  {
+    "id": "cervidi-visceri-035",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Cosa avviene al corpo luteo se, dopo l'ovulazione, non si instaura una gravidanza?",
+    "suggestion": "Pensa a una regressione che libera la strada a un nuovo follicolo.",
+    "options": [
+      "Continua a funzionare per tutta la stagione",
+      "Si trasforma in un nuovo follicolo ovulatorio",
+      "Regredisce entro 15 giorni (corpo albicante), permettendo a un nuovo follicolo di maturare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Senza gravidanza la produzione ormonale del corpo luteo è breve ed esso regredisce entro 15 giorni dall'ovulazione, diventando corpo albicante e permettendo a un nuovo follicolo di maturare. In gravidanza, invece, continuerebbe a funzionare fino agli ultimi stadi prima del parto.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.36"
+  },
+  {
+    "id": "cervidi-visceri-036",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale tipo di placenta caratterizza i Cervidi?",
+    "suggestion": "Pensa a una placenta formata da più aree distinte (placentomi) anziché diffusa.",
+    "options": [
+      "Placenta diffusa",
+      "Placenta discoidale",
+      "Placenta cotiledonata multipla"
+    ],
+    "correctIndex": 2,
+    "explanation": "I Cervidi possiedono una placenta cotiledonata multipla, con un numero di placentomi variabile (3-5 nel capriolo, 5-15 nel cervo), formati dall'incontro dei villi coriali con le caruncole uterine. La placenta diffusa e quella discoidale sono tipiche di altri gruppi di mammiferi.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.44"
+  },
+  {
+    "id": "cervidi-visceri-037",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché nei Cervidi l'utero gravido si sposta verso destra occupando il recesso sopraomentale?",
+    "suggestion": "Pensa a quale grande organo digerente ingombra il lato sinistro dell'addome.",
+    "options": [
+      "Perché il fegato occupa il lato sinistro",
+      "Perché il rumine occupa il versante sinistro dell'addome",
+      "Perché l'abomaso si dilata a sinistra"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei Cervidi il rumine occupa il versante sinistro dell'addome, quindi l'utero gravido si sposta a destra occupando il recesso sopraomentale; a termine arriva a contatto con le pareti ventrali dell'addome. Il fegato e l'abomaso non sono la causa di questo spostamento.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.44"
+  },
+  {
+    "id": "cervidi-visceri-038",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Qual è lo scopo della diapausa embrionale (embriostasi) di circa 5 mesi nel capriolo?",
+    "suggestion": "Collega il ritardo nello sviluppo dell'embrione al momento più favorevole per la nascita.",
+    "options": [
+      "Permettere alla femmina di accoppiarsi più volte",
+      "Ridurre il peso dell'utero durante l'inverno",
+      "Permettere ai piccoli di nascere nella buona stagione"
+    ],
+    "correctIndex": 2,
+    "explanation": "La diapausa embrionale tra fecondazione (luglio-agosto) e impianto (dicembre) ha lo scopo di permettere ai piccoli di nascere nella buona stagione, a fine maggio-giugno. Non serve a consentire altri accoppiamenti né ad alleggerire l'utero.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.55"
+  },
+  {
+    "id": "cervidi-visceri-039",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Cosa permette la ripresa dello sviluppo embrionale del capriolo dopo l'embriostasi, a dicembre-gennaio?",
+    "suggestion": "Pensa all'ormone luteale che stimola le ghiandole uterine e rende possibile l'impianto.",
+    "options": [
+      "L'aumento del progesterone luteale, che stimola le ghiandole uterine e consente l'impianto",
+      "Il calo del testosterone materno",
+      "L'aumento della melatonina notturna",
+      "La diminuzione del progesterone"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ripresa dello sviluppo embrionale è correlata all'aumento del progesterone luteale, che stimola le ghiandole uterine e rende possibile l'impianto della blastocisti. Il progesterone aumenta, non diminuisce, e non è la melatonina a guidare direttamente l'impianto.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.57"
+  },
+  {
+    "id": "cervidi-visceri-040",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Da quale ghiandola è secreta la melatonina e in quale fase della giornata?",
+    "suggestion": "Pensa all'epifisi e al fatto che l'ormone è prodotto nell'oscurità.",
+    "options": [
+      "Dall'ipofisi, durante il giorno",
+      "Dalla ghiandola pineale (epifisi), durante la fase buia",
+      "Dalle gonadi, durante il crepuscolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La melatonina è secreta dalla ghiandola pineale (epifisi) durante la fase buia, in tutte le specie, fungendo da trasduttore neuroendocrino del segnale luminoso. Non è prodotta dall'ipofisi né dalle gonadi, e la secrezione è notturna, non diurna.",
+    "difficulty": "medium",
+    "source": "5. cervidiVISCERI.pdf p.59"
+  },
+  {
+    "id": "cervidi-visceri-041",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale neuropeptide ipotalamico funziona come principale stimolatore dei neuroni GnRH, agendo da interruttore dell'asse riproduttivo?",
+    "suggestion": "È il segnale che traduce a livello ipotalamico l'informazione veicolata dalla melatonina.",
+    "options": [
+      "La prolattina",
+      "L'ossitocina",
+      "L'estradiolo",
+      "La kisspeptina"
+    ],
+    "correctIndex": 3,
+    "explanation": "La kisspeptina è il principale stimolatore dei neuroni GnRH e funziona da interruttore dell'asse riproduttivo: kisspeptina ↑ → GnRH ↑ → LH/FSH ↑ → gonadi attive. Prolattina, ossitocina ed estradiolo hanno altri ruoli e non sono il commutatore di GnRH.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.61"
+  },
+  {
+    "id": "cervidi-visceri-042",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché il cervo è definito uno short-day breeder con riproduzione attivata in autunno?",
+    "suggestion": "Collega l'allungarsi delle notti alla durata della secrezione di melatonina e alla risposta dell'asse riproduttivo.",
+    "options": [
+      "Perché le notti lunghe prolungano la melatonina, che fa aumentare la kisspeptina e attiva l'asse riproduttivo",
+      "Perché i giorni lunghi abbassano la melatonina attivando le gonadi",
+      "Perché l'aumento di temperatura autunnale stimola le gonadi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cervo, short-day breeder, le notti più lunghe dell'autunno prolungano la secrezione di melatonina, che fa aumentare la kisspeptina; questa attiva l'asse ipotalamo-ipofisi-gonadi con il picco di testosterone in settembre-ottobre. Sono i giorni corti (non lunghi) e la melatonina prolungata, non la temperatura, a guidare la riproduzione.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.62"
+  },
+  {
+    "id": "cervidi-visceri-043",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Qual è il punto chiave del segnale fotoperiodico che attiva la riproduzione estiva del capriolo?",
+    "suggestion": "Non è il giorno più lungo in assoluto, ma un cambiamento che inizia dopo il solstizio di giugno.",
+    "options": [
+      "L'inizio dell'accorciamento del giorno dopo il solstizio di giugno",
+      "Il giorno più lungo dell'anno, come nel cavallo",
+      "L'allungamento delle notti autunnali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel capriolo il punto chiave non è il massimo giorno lungo, ma l'inizio dell'accorciamento del giorno dopo il solstizio di giugno: la melatonina comincia gradualmente ad aumentare, la kisspeptina sale in luglio e il testosterone ha il picco estivo. Il cavallo, long-day breeder, risponde invece ai giorni lunghi in sé.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.63"
+  },
+  {
+    "id": "cervidi-visceri-044",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché lo stesso aumento di melatonina indotto dal fotoperiodo può attivare la riproduzione in una specie e inibirla in un'altra?",
+    "suggestion": "Pensa a come due specie con stagionalità opposta interpretano il medesimo segnale ormonale.",
+    "options": [
+      "Perché lo stesso segnale di melatonina è letto in senso opposto dai sistemi riproduttivi di specie con stagionalità opposta",
+      "Perché la melatonina cambia struttura chimica da specie a specie",
+      "Perché solo alcune specie producono melatonina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le modificazioni del fotoperiodo inducono variazioni di melatonina simili in tutte le specie, ma l'effetto è letto in senso opposto dal sistema riproduttivo di specie con stagionalità opposta: un aumento di melatonina inibisce specie a riproduzione estiva e attiva specie a riproduzione invernale come il cervo. La risposta dei neuroni Kiss1 è specie-specifica.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.66"
+  },
+  {
+    "id": "cervidi-visceri-045",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Perché un aumento della frequenza delle poppate tende a ritardare la comparsa dei calori nella cerva?",
+    "suggestion": "Pensa a un ormone legato all'allattamento che inibisce gli estrogeni.",
+    "options": [
+      "Perché aumenta la prolattina, che inibisce la produzione di estrogeni e la comparsa dei calori",
+      "Perché aumenta la melatonina diurna",
+      "Perché aumenta il progesterone placentare"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'aumento della frequenza di poppata provoca un aumento di prolattina, che inibisce la produzione di estrogeni e quindi la comparsa dei calori. Non sono in gioco la melatonina diurna né il progesterone placentare in questo meccanismo legato all'allattamento.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.67"
+  },
+  {
+    "id": "cervidi-visceri-046",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Riguardo al ciclo estrale della femmina di cervo e di capriolo, quale affermazione è corretta?",
+    "suggestion": "Attenzione alla differenza: una specie può ripetere l'estro più volte, l'altra è monoestrale.",
+    "options": [
+      "Entrambe sono monoestrali con un solo estro per stagione",
+      "La cerva è monoestrale, la femmina di capriolo è poliestrale",
+      "Entrambe sono poliestrali con estri ravvicinati",
+      "La cerva è poliestrale (estro ripetibile fino a 8 volte), la femmina di capriolo è monoestrale"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cerva è poliestrale stagionale con estro di 18 giorni, ripetibile fino a 8 volte se non fecondata, mentre la femmina di capriolo è monoestrale e l'estro (4 giorni) non si ripete nella stagione. È quindi errato definire entrambe monoestrali o invertire le due specie.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.39"
+  },
+  {
+    "id": "cervidi-visceri-047",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Riguardo all'assorbimento degli acidi grassi volatili e dell'acqua nei prestomaci, quale affermazione è corretta?",
+    "suggestion": "Distingui con precisione quale parete assorbe gli AGV e quale camera assorbe gran parte dell'acqua; non confondere i ruoli.",
+    "options": [
+      "Gli AGV sono assorbiti soprattutto dall'abomaso",
+      "Gli AGV sono assorbiti dalla parete del rumine, mentre l'omaso assorbe parte dell'acqua",
+      "L'acqua è assorbita principalmente dal reticolo",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli acidi grassi volatili vengono riassorbiti attraverso la parete del rumine, mentre la spremitura nell'omaso consente l'assorbimento di parte dell'acqua e dei prodotti della fermentazione. L'abomaso è sede di digestione enzimatica e il reticolo opera la selezione del materiale, non l'assorbimento principale dell'acqua.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.10"
+  },
+  {
+    "id": "cervidi-visceri-048",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale tra le seguenti descrive correttamente la durata della gestazione nel cervo e nel capriolo?",
+    "suggestion": "Attenzione: la gestazione più lunga non corrisponde necessariamente all'embrione che si sviluppa più a lungo.",
+    "options": [
+      "Cervo circa 235 giorni; capriolo 270-300 giorni per la pausa di 5 mesi nello sviluppo embrionale",
+      "Cervo 270-300 giorni; capriolo circa 235 giorni",
+      "Entrambi circa 235 giorni senza differenze",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cervo la gravidanza dura circa 235 giorni, nel capriolo tra 270 e 300 giorni; la maggiore durata nel capriolo non deriva da uno sviluppo embrionale più lungo ma dalla pausa (diapausa) di circa 5 mesi nello sviluppo dell'embrione. Invertire i due valori o negare la differenza è errato.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.40"
+  },
+  {
+    "id": "cervidi-visceri-049",
+    "topic": "cervidi-visceri",
+    "species": "Cervidi — visceri",
+    "question": "Quale affermazione sul numero di placentomi nei Cervidi è corretta?",
+    "suggestion": "Ricorda i valori distinti per capriolo e cervo e confrontali con quelli, molto più alti, dei bovini.",
+    "options": [
+      "Capriolo 80-100 placentomi, come nei bovini",
+      "Capriolo da 2-6 placentomi, cervo 5-15, molto meno dei bovini (80-100)",
+      "Cervo e capriolo hanno lo stesso numero dei bovini",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La placenta cotiledonata multipla del capriolo possiede da 2 a 6 placentomi e quella del cervo 5-15 (3-5 nel capriolo secondo p.44), valori molto inferiori agli 80-100 dei bovini. Attribuire al capriolo gli 80-100 dei bovini o equiparare le specie è scorretto.",
+    "difficulty": "hard",
+    "source": "5. cervidiVISCERI.pdf p.57"
+  }
+]
