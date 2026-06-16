@@ -9,7 +9,7 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=14" />
+  <link rel="stylesheet" href="styles.css?v=20" />
 </head>
 <body>
   <header class="topbar">
@@ -29,9 +29,13 @@
     <div class="progress" id="progress" hidden>
       <div class="progress-meta">
         <span id="counter">0 / 0</span>
+        <span id="streak" class="streak" hidden></span>
         <span id="score">Score: 0</span>
       </div>
-      <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+      <div class="progress-bar">
+        <div id="progress-fill" class="progress-fill"></div>
+        <span id="progress-heart" class="progress-heart" aria-hidden="true">💙</span>
+      </div>
     </div>
   </header>
 
@@ -78,7 +82,7 @@
           <p class="count-hint" id="count-hint"></p>
         </div>
 
-        <button id="start-btn" class="primary-btn setup-start">Inizia</button>
+        <button id="start-btn" class="primary-btn setup-start">Inizia 🍀</button>
       </article>
     </section>
 
@@ -153,7 +157,13 @@
     <img id="lightbox-img" alt="" />
   </div>
 
-  <script src="praise.js?v=3"></script>
-  <script src="app.js?v=16"></script>
+  <!-- transient affectionate nudge shown mid-quiz (streaks, milestones) -->
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <!-- big emoji that pops over the card on a correct answer -->
+  <div id="emoji-pop" class="emoji-pop" aria-hidden="true" hidden></div>
+
+  <script src="praise.js?v=4"></script>
+  <script src="app.js?v=19"></script>
 </body>
 </html>

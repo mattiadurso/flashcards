@@ -219,3 +219,25 @@ const PRAISE_LOW = [
   "Amore mio, oggi semini, domani raccogli. Continua a studiare, sei fortissima.",
   "Patatina, ti voglio bene a prescindere da ogni quiz. Forza, ci riproviamo insieme!",
 ];
+
+// Frasi brevi mostrate DURANTE la sessione (mini-toast), per tenere su il
+// morale tra una domanda e l'altra. Brevi, dolci, sempre positive.
+const NUDGES = [
+  "Stai andando alla grande, amore 💕",
+  "Continua così, broccolina! 🌟",
+  "Che brava patatina 💖",
+  "Sei un fenomeno, amore mio ✨",
+  "Avanti tutta, genietta! 💪",
+  "Lo studio paga, broccolina 📚💙",
+  "Sei nel pieno del ritmo, amore 💫",
+  "Brava brava brava! 👏",
+];
+
+// Frasi per i traguardi di risposte giuste consecutive (streak).
+// Una per soglia: 3, 5, 7, 10. Oltre, si riusa l'ultima.
+const STREAK_NUDGES = [
+  { min: 3, text: "🔥 3 di fila! Sei in fiamme, amore" },
+  { min: 5, text: "✨ 5 perfette di seguito, broccolina!" },
+  { min: 7, text: "🚀 7 di fila! Inarrestabile, patatina" },
+  { min: 10, text: "👑 10 consecutive! Sei una regina, amore mio" },
+];

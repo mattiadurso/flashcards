@@ -1,0 +1,53 @@
+{
+  "questions": [
+    {
+      "id": "egg-001",
+      "question": "Qual è stata la più grande fortuna nella vita di Mattia?",
+      "options": ["Trovare un quadrifoglio", "Aver conosciuto te ❤️", "Vincere a carte"],
+      "correctIndex": 1,
+      "explanation": "Tutta la fortuna del mondo è averti incontrata."
+    },
+    {
+      "id": "egg-002",
+      "question": "Chi è la ragazza più bella del mondo?",
+      "options": ["Una famosa attrice", "Non si può sapere", "Tu, ovviamente ❤️"],
+      "correctIndex": 2,
+      "explanation": "Domanda trabocchetto: la risposta sei sempre tu."
+    },
+    {
+      "id": "egg-003",
+      "question": "Quanto è fortunato Mattia ad averti accanto?",
+      "options": ["Abbastanza", "Tantissimo", "Più di quanto le parole possano dire"],
+      "correctIndex": 2,
+      "explanation": "Ogni giorno con te è un regalo."
+    },
+    {
+      "id": "egg-004",
+      "question": "Qual è il posto preferito di Mattia?",
+      "options": ["La montagna", "Il bosco", "Ovunque, purché ci sia tu"],
+      "correctIndex": 2,
+      "explanation": "Casa è dove ci sei tu."
+    },
+    {
+      "id": "egg-005",
+      "question": "Se Mattia potesse rifare tutto da capo, cosa rifarebbe identico?",
+      "options": ["Un altro corso di laurea", "Innamorarsi di te", "Studiare di più"],
+      "correctIndex": 1,
+      "explanation": "Rifarebbe mille volte la scelta di amarti."
+    },
+    {
+      "id": "egg-006",
+      "question": "Qual è la migliore fidanzata del mondo?",
+      "options": ["Difficile dirlo", "Sei tu, senza alcun dubbio ❤️", "Dipende dai gusti"],
+      "correctIndex": 1,
+      "explanation": "Su questo la scienza è concorde: sei tu."
+    },
+    {
+      "id": "egg-007",
+      "question": "Cosa pensa Mattia ogni volta che ti guarda?",
+      "options": ["\"Che fortuna averti\"", "\"Che fame\"", "\"Devo studiare\""],
+      "correctIndex": 0,
+      "explanation": "Pensa sempre a quanto è fortunato."
+    }
+  ]
+}

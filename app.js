@@ -10,12 +10,14 @@ const SELECTION_KEY = 'giud_studia.topics.v1';
 
 const state = {
   bank: [],              // all loaded questions
+  eggs: [],              // hidden easter-egg "bonus" questions (not in the bank/score)
   byTopic: new Map(),    // topic -> question[]
   filtered: [],          // questions matching current filters
   queue: [],             // shuffled, not-yet-shown question ids for this session
   current: null,         // current question object
   answered: false,
   score: { correct: 0, total: 0 },
+  streak: 0,                // consecutive correct answers this session
   argStats: {},             // per-argument tally this session: species -> { correct, total }
   entries: [],              // flattened manifest entries: {topic, label, file, species, source}
   selectedFiles: new Set(), // which topic files are active, keyed by file path
@@ -143,6 +145,34 @@ async function loadBank() {
     state.byTopic.get(q.topic).push(q);
   }
   state.hasDifficulty = all.some(q => q.difficulty);
+
+  // Hidden easter-egg "bonus" questions. Kept out of index.json on purpose, so
+  // they never appear in the topic list, filters, counts or score — they just
+  // surface, rarely, as a sweet surprise. Missing file is fine.
+  try {
+    const eggData = await fetch('questions/easter-eggs.json', { cache: 'no-store' })
+      .then(r => (r.ok ? r.json() : null));
+    const eggs = eggData && (Array.isArray(eggData) ? eggData : eggData.questions || []);
+    if (eggs) for (const q of eggs) { q._bonus = true; state.eggs.push(q); }
+  } catch (_) { /* no easter eggs — no problem */ }
+}
+
+const BONUS_CHANCE = 0.05;   // 5% of sessions get one bonus card
+
+// With BONUS_CHANCE probability, splice one random egg into the queue at a
+// random position. sessionTotal is left untouched so the bonus doesn't count
+// toward the score or the "X / N" progress denominator.
+function maybeInsertBonus() {
+  if (state.eggs.length === 0 || state.queue.length === 0) return;
+  if (Math.random() >= BONUS_CHANCE) return;
+  const egg = state.eggs[Math.floor(Math.random() * state.eggs.length)];
+  const pos = Math.floor(Math.random() * (state.queue.length + 1));
+  state.queue.splice(pos, 0, egg.id);
+}
+
+// Look a question up by id in the normal bank or the hidden egg list.
+function findQuestion(id) {
+  return state.bank.find(q => q.id === id) || state.eggs.find(q => q.id === id);
 }
 
 // ---------- filters & queue ----------
@@ -184,8 +214,10 @@ function applyFilters() {
   if (!Number.isNaN(limit) && limit > 0) pool = pool.slice(0, limit);
 
   state.queue = pool.map(q => q.id);
-  state.sessionTotal = state.queue.length;
+  state.sessionTotal = state.queue.length;   // bonus cards don't count toward this
+  maybeInsertBonus();
   state.score = { correct: 0, total: 0 };
+  state.streak = 0;
   state.argStats = {};
 }
 
@@ -217,7 +249,11 @@ const els = {
   flaggedCount: document.getElementById('flagged-count'),
   counter: document.getElementById('counter'),
   score: document.getElementById('score'),
+  streak: document.getElementById('streak'),
   progressFill: document.getElementById('progress-fill'),
+  progressHeart: document.getElementById('progress-heart'),
+  toast: document.getElementById('toast'),
+  emojiPop: document.getElementById('emoji-pop'),
   card: document.getElementById('card'),
   cardContainer: document.getElementById('card-container'),
   questionText: document.getElementById('question-text'),
@@ -477,6 +513,86 @@ function updateProgress() {
   els.score.textContent = `Score: ${state.score.correct}`;
   const pct = total === 0 ? 0 : (shown / total) * 100;
   els.progressFill.style.width = `${pct}%`;
+  els.progressHeart.style.left = `${pct}%`;   // heart rides the leading edge
+}
+
+// Streak chip: a little fire + count, shown once two-in-a-row builds up.
+function updateStreakChip() {
+  if (state.streak >= 2) {
+    els.streak.textContent = `🔥 ${state.streak}`;
+    els.streak.hidden = false;
+    // retrigger the pop animation
+    els.streak.classList.remove('streak');
+    void els.streak.offsetWidth;
+    els.streak.classList.add('streak');
+  } else {
+    els.streak.hidden = true;
+  }
+}
+
+// ---------- celebratory feedback ----------
+
+const POP_EMOJIS = ['💙', '✨', '🌟', '🎉', '💯', '👏', '💪', '🦌'];
+let toastTimer = null;
+
+// Bounce the card briefly when an option is tapped.
+function bounceCard() {
+  els.card.classList.remove('bounce');
+  void els.card.offsetWidth;               // restart the animation
+  els.card.classList.add('bounce');
+  els.card.addEventListener('animationend', function done() {
+    els.card.classList.remove('bounce');
+    els.card.removeEventListener('animationend', done);
+  });
+}
+
+// Pop a big emoji over the card on a correct answer.
+function popEmoji() {
+  const emoji = POP_EMOJIS[Math.floor(Math.random() * POP_EMOJIS.length)];
+  els.emojiPop.textContent = emoji;
+  els.emojiPop.hidden = false;
+  els.emojiPop.classList.remove('pop');
+  void els.emojiPop.offsetWidth;
+  els.emojiPop.classList.add('pop');
+  els.emojiPop.addEventListener('animationend', function done() {
+    els.emojiPop.classList.remove('pop');
+    els.emojiPop.hidden = true;
+    els.emojiPop.removeEventListener('animationend', done);
+  });
+}
+
+// Show a short affectionate toast, auto-hiding after a couple seconds.
+function showToast(text) {
+  if (!text) return;
+  els.toast.textContent = text;
+  els.toast.hidden = false;
+  void els.toast.offsetWidth;
+  els.toast.classList.add('show');
+  if (toastTimer) clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => {
+    els.toast.classList.remove('show');
+    setTimeout(() => { els.toast.hidden = true; }, 300);
+  }, 2200);
+}
+
+let lastNudgeIdx = -1;   // remembered so a general nudge never repeats back-to-back
+
+// Pick a mid-quiz nudge: prefer a streak-milestone line, else an occasional
+// general encouragement. Returns null when there's nothing to say right now.
+function pickNudge() {
+  if (typeof STREAK_NUDGES !== 'undefined' && Array.isArray(STREAK_NUDGES)) {
+    const hit = [...STREAK_NUDGES].reverse().find(s => state.streak === s.min);
+    if (hit) return hit.text;
+  }
+  // every 3rd correct in a row, a 1-in-3 chance of a varied general nudge
+  if (typeof NUDGES !== 'undefined' && Array.isArray(NUDGES) && NUDGES.length &&
+      state.streak > 0 && state.streak % 3 === 0 && Math.random() < 1 / 3) {
+    let idx = Math.floor(Math.random() * NUDGES.length);
+    if (NUDGES.length > 1 && idx === lastNudgeIdx) idx = (idx + 1) % NUDGES.length;
+    lastNudgeIdx = idx;
+    return NUDGES[idx];
+  }
+  return null;
 }
 
 function nextQuestion() {
@@ -485,7 +601,7 @@ function nextQuestion() {
     return;
   }
   const id = state.queue.shift();
-  const q = state.bank.find(x => x.id === id);
+  const q = findQuestion(id);
   if (!q) { nextQuestion(); return; }
   state.current = q;
   state.answered = false;
@@ -508,9 +624,19 @@ function renderQuestion(q) {
 
     // meta tags
     els.metaRow.innerHTML = '';
+    if (q._bonus) {
+      const b = document.createElement('span');
+      b.className = 'tag tag--bonus';
+      b.textContent = 'Bonus ❤️';
+      els.metaRow.appendChild(b);
+    }
     if (q.topic) addTag(q.topic);
     if (q.species) addTag(q.species);
     if (q.difficulty) addTag(q.difficulty);
+
+    // bonus cards get a warm golden treatment; the flag button makes no sense
+    els.card.classList.toggle('card--bonus', !!q._bonus);
+    els.flagBtn.hidden = !!q._bonus;
 
     els.questionText.textContent = q.question;
 
@@ -572,19 +698,35 @@ function handleAnswer(chosenIdx) {
   });
 
   const isCorrect = chosenIdx === q.correctIndex;
-  state.score.total += 1;
-  if (isCorrect) state.score.correct += 1;
 
-  // per-argument tally (by species, falling back to topic / file)
-  const argKey = q.species || q.topic || q._file || 'Altro';
-  const a = state.argStats[argKey] || (state.argStats[argKey] = { correct: 0, total: 0 });
-  a.total += 1;
-  if (isCorrect) a.correct += 1;
+  bounceCard();                 // playful wiggle on every tap
+  if (isCorrect) popEmoji();    // celebratory emoji pop on correct
 
-  // mark seen
-  const seen = loadSeen();
-  seen.add(q.id);
-  saveSeen(seen);
+  // Bonus cards are pure surprise: they don't touch the score, the per-argument
+  // stats, or the "seen" set (so they can resurface another day).
+  if (!q._bonus) {
+    state.score.total += 1;
+    if (isCorrect) state.score.correct += 1;
+
+    // running streak of consecutive correct answers
+    state.streak = isCorrect ? state.streak + 1 : 0;
+    updateStreakChip();
+
+    // per-argument tally (by species, falling back to topic / file)
+    const argKey = q.species || q.topic || q._file || 'Altro';
+    const a = state.argStats[argKey] || (state.argStats[argKey] = { correct: 0, total: 0 });
+    a.total += 1;
+    if (isCorrect) a.correct += 1;
+
+    // mark seen
+    const seen = loadSeen();
+    seen.add(q.id);
+    saveSeen(seen);
+
+    // affectionate mid-quiz nudge (streak milestone or periodic encouragement)
+    const nudge = pickNudge();
+    if (nudge) showToast(nudge);
+  }
 
   if (q.explanation) {
     els.explanation.textContent = q.explanation;
@@ -740,6 +882,7 @@ function startSession() {
   els.cardContainer.hidden = false;
   els.progress.hidden = false;
   els.newSessionBtn.hidden = false;
+  els.streak.hidden = true;        // fresh session starts with no streak
   updateProgress();
   if (state.filtered.length === 0) {
     showEmptyScreen();
