@@ -5,6 +5,8 @@
 
 const SEEN_KEY = 'giud_studia.seen.v1';
 const FLAGGED_KEY = 'giud_studia.flagged.v1';
+const LENGTH_KEY = 'giud_studia.length.v1';
+const SELECTION_KEY = 'giud_studia.topics.v1';
 
 const state = {
   bank: [],              // all loaded questions
@@ -14,9 +16,13 @@ const state = {
   current: null,         // current question object
   answered: false,
   score: { correct: 0, total: 0 },
-  topic: '__all__',
+  argStats: {},             // per-argument tally this session: species -> { correct, total }
+  entries: [],              // flattened manifest entries: {topic, label, file, species, source}
+  selectedFiles: new Set(), // which topic files are active, keyed by file path
   difficulty: '__all__',
   hasDifficulty: false,
+  sessionLength: 'all',  // 'all', or a positive integer (as a string from the dropdown)
+  sessionTotal: 0,       // how many questions this session actually has
 };
 
 // ---------- storage ----------
@@ -57,6 +63,25 @@ function saveFlagged(set) {
 
 function clearFlagged() {
   try { localStorage.removeItem(FLAGGED_KEY); } catch {}
+}
+
+function loadLength() {
+  try { return localStorage.getItem(LENGTH_KEY) || 'all'; } catch { return 'all'; }
+}
+
+function saveLength(value) {
+  try { localStorage.setItem(LENGTH_KEY, value); } catch {}
+}
+
+function loadSelection() {
+  try {
+    const raw = localStorage.getItem(SELECTION_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch { return null; }
+}
+
+function saveSelection(files) {
+  try { localStorage.setItem(SELECTION_KEY, JSON.stringify([...files])); } catch {}
 }
 
 // ---------- loading ----------
@@ -102,6 +127,7 @@ async function loadBank() {
         if (!q.topic) q.topic = entry.topic;
         if (!q.species && entry.species) q.species = entry.species;
         if (!q.source && entry.source) q.source = entry.source;
+        q._file = entry.file;   // which manifest file this question came from
         all.push(q);
       }
     } catch (err) {
@@ -110,6 +136,7 @@ async function loadBank() {
   }
 
   state.bank = all;
+  state.entries = entries.filter(e => all.some(q => q._file === e.file));  // only files that loaded
   state.byTopic = new Map();
   for (const q of all) {
     if (!state.byTopic.has(q.topic)) state.byTopic.set(q.topic, []);
@@ -125,7 +152,7 @@ function applyFilters() {
   const flagged = loadFlagged();
   state.filtered = state.bank.filter(q => {
     if (flagged.has(q.id)) return false;
-    if (state.topic !== '__all__' && q.topic !== state.topic) return false;
+    if (!state.selectedFiles.has(q._file)) return false;
     if (state.hasDifficulty && state.difficulty !== '__all__'
         && q.difficulty !== state.difficulty) return false;
     return true;
@@ -145,8 +172,15 @@ function applyFilters() {
   }
 
   shuffle(pool);
+
+  // Cap the session to the chosen length ('all' leaves the whole pool).
+  const limit = parseInt(state.sessionLength, 10);
+  if (!Number.isNaN(limit) && limit > 0) pool = pool.slice(0, limit);
+
   state.queue = pool.map(q => q.id);
+  state.sessionTotal = state.queue.length;
   state.score = { correct: 0, total: 0 };
+  state.argStats = {};
 }
 
 function shuffle(arr) {
@@ -160,9 +194,17 @@ function shuffle(arr) {
 // ---------- rendering ----------
 
 const els = {
-  topicSelect: document.getElementById('topic-select'),
+  topicsToggle: document.getElementById('topics-toggle'),
+  topicsPanel: document.getElementById('topics-panel'),
+  topicsSummary: document.getElementById('topics-summary'),
   difficultySelect: document.getElementById('difficulty-select'),
   difficultyField: document.getElementById('difficulty-field'),
+  setupScreen: document.getElementById('setup-screen'),
+  startBtn: document.getElementById('start-btn'),
+  newSessionBtn: document.getElementById('new-session-btn'),
+  countPresets: document.getElementById('count-presets'),
+  countHint: document.getElementById('count-hint'),
+  progress: document.getElementById('progress'),
   resetBtn: document.getElementById('reset-btn'),
   restoreFlaggedBtn: document.getElementById('restore-flagged-btn'),
   flaggedCount: document.getElementById('flagged-count'),
@@ -176,6 +218,8 @@ const els = {
   feedback: document.getElementById('feedback'),
   explanationBox: document.getElementById('explanation-box'),
   explanation: document.getElementById('explanation'),
+  suggestionBox: document.getElementById('suggestion-box'),
+  suggestion: document.getElementById('suggestion'),
   nextBtn: document.getElementById('next-btn'),
   imageWrap: document.getElementById('image-wrap'),
   cardImage: document.getElementById('card-image'),
@@ -187,26 +231,238 @@ const els = {
   praiseEmojis: document.getElementById('praise-emojis'),
   praiseMsg: document.getElementById('praise-msg'),
   praiseScore: document.getElementById('praise-score'),
+  breakdown: document.getElementById('breakdown'),
+  breakdownList: document.getElementById('breakdown-list'),
   restartBtn: document.getElementById('restart-btn'),
   emptyScreen: document.getElementById('empty-screen'),
   lightbox: document.getElementById('lightbox'),
   lightboxImg: document.getElementById('lightbox-img'),
 };
 
-function buildTopicDropdown() {
-  els.topicSelect.innerHTML = '<option value="__all__">All</option>';
-  const topics = [...state.byTopic.keys()].sort();
-  for (const t of topics) {
-    const opt = document.createElement('option');
-    opt.value = t;
-    opt.textContent = t;
-    els.topicSelect.appendChild(opt);
+// ---------- topics multi-select ----------
+
+// Group the manifest entries by topic label -> [{ file, species }].
+function groupedEntries() {
+  const groups = new Map();
+  for (const e of state.entries) {
+    const label = e.label || e.topic;
+    if (!groups.has(label)) groups.set(label, []);
+    groups.get(label).push({ file: e.file, species: e.species || e.file });
   }
+  return groups;
+}
+
+// Restore the saved selection (intersected with what actually loaded);
+// default to everything selected.
+function initSelection() {
+  const allFiles = state.entries.map(e => e.file);
+  const saved = loadSelection();
+  let chosen = Array.isArray(saved) ? saved.filter(f => allFiles.includes(f)) : null;
+  if (!chosen || chosen.length === 0) chosen = allFiles;
+  state.selectedFiles = new Set(chosen);
+}
+
+function buildTopicsControl() {
+  const panel = els.topicsPanel;
+  panel.innerHTML = '';
+  const groups = groupedEntries();
+
+  // quick "select all / none"
+  const actions = document.createElement('div');
+  actions.className = 'ms-actions';
+  for (const [text, on] of [['Tutti', true], ['Nessuno', false]]) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'ms-action';
+    b.textContent = text;
+    b.addEventListener('click', () => setAllSelected(on));
+    actions.appendChild(b);
+  }
+  panel.appendChild(actions);
+
+  for (const [label, items] of groups) {
+    const group = document.createElement('div');
+    group.className = 'ms-group';
+
+    // whole-group checkbox (e.g. all of "Anatomia e biologia")
+    const head = document.createElement('label');
+    head.className = 'ms-group-head';
+    const gcb = document.createElement('input');
+    gcb.type = 'checkbox';
+    gcb.dataset.group = label;
+    gcb.addEventListener('change', () => {
+      for (const it of items) {
+        if (gcb.checked) state.selectedFiles.add(it.file);
+        else state.selectedFiles.delete(it.file);
+      }
+      onSelectionChanged();
+    });
+    const gname = document.createElement('span');
+    gname.textContent = label;
+    head.append(gcb, gname);
+    group.appendChild(head);
+
+    // one checkbox per species/file
+    for (const it of items) {
+      const row = document.createElement('label');
+      row.className = 'ms-item';
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      cb.value = it.file;
+      cb.addEventListener('change', () => {
+        if (cb.checked) state.selectedFiles.add(it.file);
+        else state.selectedFiles.delete(it.file);
+        onSelectionChanged();
+      });
+      const nm = document.createElement('span');
+      nm.textContent = it.species;
+      row.append(cb, nm);
+      group.appendChild(row);
+    }
+    panel.appendChild(group);
+  }
+
   els.difficultyField.hidden = !state.hasDifficulty;
+  refreshTopicsChecks();
+}
+
+function setAllSelected(on) {
+  state.selectedFiles = new Set(on ? state.entries.map(e => e.file) : []);
+  onSelectionChanged();
+}
+
+function onSelectionChanged() {
+  saveSelection(state.selectedFiles);
+  refreshTopicsChecks();
+  updateAvailableCount();   // setup screen: refresh preview, don't start the session
+}
+
+// Sync every checkbox (incl. group indeterminate state) and the summary label
+// to the current selection.
+function refreshTopicsChecks() {
+  const groups = groupedEntries();
+  els.topicsPanel.querySelectorAll('.ms-item input').forEach(cb => {
+    cb.checked = state.selectedFiles.has(cb.value);
+  });
+  els.topicsPanel.querySelectorAll('.ms-group-head input').forEach(gcb => {
+    const items = groups.get(gcb.dataset.group) || [];
+    const n = items.filter(i => state.selectedFiles.has(i.file)).length;
+    gcb.checked = n > 0 && n === items.length;
+    gcb.indeterminate = n > 0 && n < items.length;
+  });
+  updateTopicsSummary(groups);
+}
+
+function updateTopicsSummary(groups) {
+  groups = groups || groupedEntries();
+  const sel = state.selectedFiles;
+  const allCount = state.entries.length;
+  let text;
+  if (sel.size === 0) {
+    text = 'Nessuno';
+  } else if (sel.size === allCount) {
+    text = 'Tutti';
+  } else {
+    const fullGroups = [...groups].filter(([, items]) =>
+      items.length && items.every(i => sel.has(i.file)));
+    if (fullGroups.length === 1 && fullGroups[0][1].length === sel.size) {
+      text = fullGroups[0][0];                       // exactly one whole group
+    } else if (sel.size === 1) {
+      const e = state.entries.find(x => x.file === [...sel][0]);
+      text = e ? (e.species || e.label || e.file) : '1 selezionato';
+    } else {
+      text = `${sel.size} selezionati`;
+    }
+  }
+  els.topicsSummary.textContent = text;
+}
+
+// ---------- question-count control (setup screen) ----------
+
+const COUNT_PRESETS = [10, 20, 30, 50];
+
+function buildCountPresets() {
+  els.countPresets.innerHTML = '';
+  for (const c of COUNT_PRESETS) {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'count-chip';
+    b.dataset.count = String(c);
+    b.textContent = String(c);
+    b.addEventListener('click', () => applyCount(String(c)));
+    els.countPresets.appendChild(b);
+  }
+  const all = document.createElement('button');
+  all.type = 'button';
+  all.className = 'count-chip';
+  all.dataset.count = 'all';
+  all.textContent = 'Tutte';
+  all.addEventListener('click', () => applyCount('all'));
+  els.countPresets.appendChild(all);
+}
+
+// How many questions a session would actually contain right now — i.e. the
+// size of the pool applyFilters() will build: unseen questions matching the
+// topic + difficulty selection (flagged excluded). When everything has been
+// seen, applyFilters auto-resets to the full set, so report that here too.
+function availableCount() {
+  const flagged = loadFlagged();
+  const seen = loadSeen();
+  const byDiff = state.hasDifficulty && state.difficulty !== '__all__';
+  const filtered = state.bank.filter(q =>
+    !flagged.has(q.id) &&
+    state.selectedFiles.has(q._file) &&
+    (!byDiff || q.difficulty === state.difficulty)
+  );
+  const unseen = filtered.filter(q => !seen.has(q.id));
+  return unseen.length === 0 ? filtered.length : unseen.length;
+}
+
+// Set the session length from a preset chip; persist and re-highlight.
+function applyCount(value) {
+  state.sessionLength = value;
+  saveLength(value);
+  refreshCountActive();
+}
+
+function refreshCountActive() {
+  els.countPresets.querySelectorAll('.count-chip').forEach(chip => {
+    chip.classList.toggle('active', chip.dataset.count === String(state.sessionLength));
+  });
+}
+
+// Refresh the "N disponibili" hint, the visible presets, and whether "Inizia"
+// is enabled, from the real pool size.
+function updateAvailableCount() {
+  const n = availableCount();
+  els.countHint.textContent = n
+    ? `${n} domande disponibili`
+    : 'Nessuna domanda per questa selezione';
+  els.startBtn.disabled = n === 0;
+  // hide presets that meet or exceed the pool (they'd behave like "Tutte"),
+  // but never hide the currently-selected chip — it must stay highlighted.
+  els.countPresets.querySelectorAll('.count-chip').forEach(chip => {
+    const c = parseInt(chip.dataset.count, 10);
+    const active = chip.dataset.count === String(state.sessionLength);
+    chip.hidden = !Number.isNaN(c) && n > 0 && c >= n && !active;
+  });
+  refreshCountActive();
+}
+
+function showSetupScreen() {
+  state.current = null;            // keyboard handlers ignore input while on setup
+  els.setupScreen.hidden = false;
+  els.cardContainer.hidden = true;
+  els.endScreen.hidden = true;
+  els.emptyScreen.hidden = true;
+  els.progress.hidden = true;
+  els.newSessionBtn.hidden = true;
+  els.difficultySelect.value = state.difficulty;   // reflect current state in the control
+  updateAvailableCount();
 }
 
 function updateProgress() {
-  const total = state.filtered.length;
+  const total = state.sessionTotal;
   const shown = state.score.total;
   els.counter.textContent = `${shown} / ${total}`;
   els.score.textContent = `Score: ${state.score.correct}`;
@@ -248,6 +504,16 @@ function renderQuestion(q) {
     if (q.difficulty) addTag(q.difficulty);
 
     els.questionText.textContent = q.question;
+
+    // foldable hint — shown (collapsed) only when the question has one
+    if (q.suggestion) {
+      els.suggestion.textContent = q.suggestion;
+      els.suggestionBox.open = false;     // start folded each question
+      els.suggestionBox.hidden = false;
+    } else {
+      els.suggestionBox.hidden = true;
+      els.suggestion.textContent = '';
+    }
 
     els.options.innerHTML = '';
     q.options.forEach((opt, idx) => {
@@ -300,6 +566,12 @@ function handleAnswer(chosenIdx) {
   state.score.total += 1;
   if (isCorrect) state.score.correct += 1;
 
+  // per-argument tally (by species, falling back to topic / file)
+  const argKey = q.species || q.topic || q._file || 'Altro';
+  const a = state.argStats[argKey] || (state.argStats[argKey] = { correct: 0, total: 0 });
+  a.total += 1;
+  if (isCorrect) a.correct += 1;
+
   // mark seen
   const seen = loadSeen();
   seen.add(q.id);
@@ -327,7 +599,48 @@ function randomEmojis(n) {
   return pool.slice(0, n).join(' ');
 }
 
+// Per-argument performance for the end screen: one row per species answered,
+// weakest first, each with a colored accuracy bar.
+function renderBreakdown() {
+  const rows = Object.entries(state.argStats);
+  els.breakdownList.innerHTML = '';
+  if (rows.length === 0) {
+    els.breakdown.hidden = true;
+    return;
+  }
+  rows.sort((a, b) => (a[1].correct / a[1].total) - (b[1].correct / b[1].total));
+  for (const [name, s] of rows) {
+    const pct = Math.round((s.correct / s.total) * 100);
+    const tier = pct >= 80 ? 'good' : pct >= 50 ? 'ok' : 'bad';
+
+    const row = document.createElement('div');
+    row.className = 'arg-row';
+
+    const head = document.createElement('div');
+    head.className = 'arg-head';
+    const nm = document.createElement('span');
+    nm.className = 'arg-name';
+    nm.textContent = name;
+    const sc = document.createElement('span');
+    sc.className = 'arg-score';
+    sc.textContent = `${s.correct}/${s.total} · ${pct}%`;
+    head.append(nm, sc);
+
+    const bar = document.createElement('div');
+    bar.className = 'arg-bar';
+    const fill = document.createElement('div');
+    fill.className = `arg-fill ${tier}`;
+    fill.style.width = `${pct}%`;
+    bar.appendChild(fill);
+
+    row.append(head, bar);
+    els.breakdownList.appendChild(row);
+  }
+  els.breakdown.hidden = false;
+}
+
 function showEndScreen() {
+  state.current = null;              // no live question: ignore answer/next keys
   els.cardContainer.hidden = true;
   els.emptyScreen.hidden = true;
   els.endScreen.hidden = false;
@@ -356,12 +669,17 @@ function showEndScreen() {
       ? 'No questions matched the current filters.'
       : `You answered ${correct} of ${total} (${pct}%).`;
   }
+
+  renderBreakdown();
 }
 
 function showEmptyScreen() {
+  state.current = null;
   els.cardContainer.hidden = true;
   els.endScreen.hidden = true;
   els.emptyScreen.hidden = false;
+  els.progress.hidden = true;        // no session running — drop the 0/0 bar
+  // keep #new-session-btn visible so the empty-screen copy's "Nuova sessione" works
 }
 
 function updateFlaggedBadge() {
@@ -378,9 +696,12 @@ function updateFlaggedBadge() {
 function startSession() {
   applyFilters();
   updateFlaggedBadge();
+  els.setupScreen.hidden = true;
   els.endScreen.hidden = true;
   els.emptyScreen.hidden = true;
   els.cardContainer.hidden = false;
+  els.progress.hidden = false;
+  els.newSessionBtn.hidden = false;
   updateProgress();
   if (state.filtered.length === 0) {
     showEmptyScreen();
@@ -389,21 +710,49 @@ function startSession() {
   nextQuestion();
 }
 
+// After clearing seen/flagged: if we're still on the setup screen just refresh
+// its preview (don't yank the user into a session); otherwise restart.
+function refreshAfterDataChange() {
+  if (!els.setupScreen.hidden) {
+    updateFlaggedBadge();
+    updateAvailableCount();
+  } else {
+    startSession();
+  }
+}
+
 // ---------- events ----------
 
 function bindEvents() {
-  els.topicSelect.addEventListener('change', () => {
-    state.topic = els.topicSelect.value;
-    startSession();
+  // open/close the topics checklist
+  els.topicsToggle.addEventListener('click', (e) => {
+    const willOpen = els.topicsPanel.hidden;
+    els.topicsPanel.hidden = !willOpen;
+    els.topicsToggle.setAttribute('aria-expanded', String(willOpen));
+    e.stopPropagation();
   });
+  els.topicsPanel.addEventListener('click', (e) => e.stopPropagation());  // keep panel open while picking
+  document.addEventListener('click', () => {
+    if (!els.topicsPanel.hidden) {
+      els.topicsPanel.hidden = true;
+      els.topicsToggle.setAttribute('aria-expanded', 'false');
+    }
+  });
+
   els.difficultySelect.addEventListener('change', () => {
     state.difficulty = els.difficultySelect.value;
-    startSession();
+    updateAvailableCount();        // setup screen: refresh preview, don't start
   });
+
+  els.startBtn.addEventListener('click', () => {
+    if (!els.startBtn.disabled) startSession();
+  });
+  els.newSessionBtn.addEventListener('click', () => showSetupScreen());
+
   els.resetBtn.addEventListener('click', () => {
     if (!confirm('Reset "già viste"?\n\nLe domande segnalate come errate restano nascoste — usa "Ripristina segnalate" per riaverle.')) return;
     clearSeen();
-    startSession();
+    refreshAfterDataChange();
   });
 
   els.flagBtn.addEventListener('click', () => {
@@ -434,7 +783,7 @@ function bindEvents() {
       }
       if (!confirm(`Ripristinare ${flagged.size} domande segnalate?`)) return;
       clearFlagged();
-      startSession();
+      refreshAfterDataChange();
     });
   }
   els.nextBtn.addEventListener('click', () => nextQuestion());
@@ -454,7 +803,17 @@ function bindEvents() {
       els.lightbox.hidden = true;
       return;
     }
+    if (!els.topicsPanel.hidden && e.key === 'Escape') {
+      els.topicsPanel.hidden = true;
+      els.topicsToggle.setAttribute('aria-expanded', 'false');
+      return;
+    }
     if (!state.current) return;
+    if ((e.key === 'h' || e.key === 'H') && !els.suggestionBox.hidden) {
+      els.suggestionBox.open = !els.suggestionBox.open;   // toggle the hint
+      e.preventDefault();
+      return;
+    }
     if (!state.answered && /^[1-4]$/.test(e.key)) {
       const idx = parseInt(e.key, 10) - 1;
       if (idx < state.current.options.length) {
@@ -475,6 +834,9 @@ function bindEvents() {
   try {
     await loadBank();
   } catch (err) {
+    // show only the error card (otherwise the setup screen stays stacked on top)
+    els.setupScreen.hidden = true;
+    els.cardContainer.hidden = false;
     els.questionText.textContent =
       'Could not load questions. Run the app via the start script ' +
       '(file:// fetch is blocked by browsers). See README.md.';
@@ -482,6 +844,10 @@ function bindEvents() {
     console.error(err);
     return;
   }
-  buildTopicDropdown();
-  startSession();
+  initSelection();
+  buildTopicsControl();
+  buildCountPresets();
+  const savedLen = loadLength();   // normalize to a known chip ('all' or a preset)
+  applyCount(savedLen === 'all' || COUNT_PRESETS.includes(parseInt(savedLen, 10)) ? savedLen : 'all');
+  showSetupScreen();          // land on the setup screen; the user taps "Inizia" to begin
 })();

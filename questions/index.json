@@ -5,10 +5,46 @@
       "label": "Anatomia e biologia",
       "files": [
         {
+          "species": "Cervo (Cervus elaphus)",
+          "file": "Anatomia_e_Biologia/cervo.json",
+          "source": "docs/Anatomia_e_Biologia/2. cervo gen FATTO.pdf",
+          "count": 56
+        },
+        {
           "species": "Daino (Dama dama)",
-          "file": "anatomia/daino.json",
-          "source": "docs/anatomia/DAINO.pdf",
+          "file": "Anatomia_e_Biologia/daino.json",
+          "source": "docs/Anatomia_e_Biologia/9 DAINO.pdf",
           "count": 60
+        },
+        {
+          "species": "Stambecco (Capra ibex)",
+          "file": "Anatomia_e_Biologia/stambecco.json",
+          "source": "docs/Anatomia_e_Biologia/12 stambecco.pdf",
+          "count": 22
+        },
+        {
+          "species": "Lepre (Lepus europaeus)",
+          "file": "Anatomia_e_Biologia/lepre.json",
+          "source": "docs/Anatomia_e_Biologia/14 Lepre.pdf",
+          "count": 38
+        },
+        {
+          "species": "Volpe rossa (Vulpes vulpes)",
+          "file": "Anatomia_e_Biologia/volpe.json",
+          "source": "docs/Anatomia_e_Biologia/20 volpe rossa.pdf",
+          "count": 24
+        },
+        {
+          "species": "Cervidi — palco (I)",
+          "file": "Anatomia_e_Biologia/palco-cervidi.json",
+          "source": "docs/Anatomia_e_Biologia/6 PALCO CERVIDI.pdf",
+          "count": 40
+        },
+        {
+          "species": "Cervidi — scheletro, muscoli, denti",
+          "file": "Anatomia_e_Biologia/cervidi-scheletro.json",
+          "source": "docs/Anatomia_e_Biologia/4. schelmuscdenticervidi FATTO.pdf",
+          "count": 51
         }
       ]
     }

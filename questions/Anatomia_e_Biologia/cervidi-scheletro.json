@@ -1,0 +1,779 @@
+[
+  {
+    "id": "cervidi-scheletro-001",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quale osso del cranio dei cervidi sostiene i palchi attraverso il peduncolo (processo del corno)?",
+    "suggestion": "Pensa all'osso che forma la fronte dell'animale, dove i trofei si innestano sopra gli occhi.",
+    "options": ["Osso occipitale", "Osso frontale", "Ossa parietali", "Osso sfenoide"],
+    "correctIndex": 1,
+    "explanation": "L'osso frontale forma la parte anteriore del cranio e sostiene corna o palchi tramite il processo del corno (peduncolo). Le parietali coprono la parte superiore del cervello, l'occipitale sta posteriormente e lo sfenoide è alla base del cranio: nessuno di questi porta i palchi.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.2"
+  },
+  {
+    "id": "cervidi-scheletro-002",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché l'osso etmoide ha un ruolo fondamentale per l'olfatto?",
+    "suggestion": "Considera quale struttura forata permette il passaggio dei prolungamenti nervosi delle cellule olfattive verso il cervello.",
+    "options": [
+      "Perché ospita l'orecchio interno deputato anche all'olfatto",
+      "Perché attraverso la lamina cribrosa passano gli assoni delle cellule olfattive primarie",
+      "Perché forma il palato duro che separa naso e bocca",
+      "Perché sostiene i muscoli masticatori vicino alla narice"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'etmoide separa il cervello dalla cavità nasale e, attraverso la lamina cribrosa, lascia passare gli assoni delle cellule olfattive primarie; forma inoltre le conche nasali superiori e medie. L'orecchio interno è nel temporale, il palato duro è formato dal palatino, e i muscoli masticatori si inseriscono su temporale/zigomatico.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.3"
+  },
+  {
+    "id": "cervidi-scheletro-003",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Grazie a quale particolarità anatomica del palato e dell'epiglottide i ruminanti possono respirare mentre masticano?",
+    "suggestion": "Ragiona su come una grande epiglottide possa scavalcare il palato molle e raggiungere la zona retronasale.",
+    "options": [
+      "L'epiglottide è grande e si estende dorsalmente sopra il palato molle, penetrando nella rinofaringe",
+      "Il palato duro è completamente assente nei ruminanti",
+      "La mandibola resta immobile durante la respirazione",
+      "Le coane nasali si chiudono ermeticamente durante la masticazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'osso palatino forma il palato duro che separa bocca e cavità nasale; la respirazione durante la masticazione è possibile perché l'epiglottide è grande e si estende dorsalmente sopra il palato molle, penetrando nella rinofaringe. Il palato duro è invece presente, e la mandibola si muove proprio durante la masticazione.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.3"
+  },
+  {
+    "id": "cervidi-scheletro-004",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quale osso è descritto come l'unico osso mobile del cranio?",
+    "suggestion": "È la struttura che porta i denti inferiori e che si abbassa e si alza per afferrare e masticare il cibo.",
+    "options": ["L'osso mascellare", "La mandibola", "L'osso temporale", "L'osso zigomatico"],
+    "correctIndex": 1,
+    "explanation": "La mandibola è l'unico osso mobile del cranio e permette di masticare e afferrare il cibo. Il mascellare alloggia i denti superiori ma è fisso; temporale e zigomatico fanno parte della scatola cranica e servono per inserzione muscolare e protezione, senza muoversi.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.3"
+  },
+  {
+    "id": "cervidi-scheletro-005",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quali strutture compongono la parte assile dello scheletro?",
+    "suggestion": "La parte assile è l'asse centrale del corpo: distinguila dagli arti, che costituiscono la parte appendicolare.",
+    "options": [
+      "Cranio e colonna vertebrale",
+      "Arti toracici e arti pelvici",
+      "Bacino e scapole",
+      "Coste e arti anteriori"
+    ],
+    "correctIndex": 0,
+    "explanation": "La parte assile comprende cranio e colonna vertebrale, mentre la parte appendicolare è formata dagli arti toracici e pelvici. Bacino, scapole e arti appartengono allo scheletro appendicolare, non a quello assile.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.4"
+  },
+  {
+    "id": "cervidi-scheletro-006",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Che tipo di articolazione sono le suture che collegano rigidamente le ossa craniche?",
+    "suggestion": "Cerca il tipo di articolazione per continuità, dove fra le ossa resta interposto tessuto connettivo che poi ossifica.",
+    "options": ["Diartrosi", "Sinartrosi", "Anfiartrosi", "Sinfisi del bacino"],
+    "correctIndex": 1,
+    "explanation": "Le suture craniche sono sinartrosi (articolazioni per continuità) con tessuto connettivo fibroso interposto che poi ossifica. Le diartrosi sono le articolazioni mobili degli arti, mentre le anfiartrosi/sinfisi riguardano le ossa del bacino.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.5"
+  },
+  {
+    "id": "cervidi-scheletro-007",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quale caratteristica strutturale distingue una diartrosi, tipica delle articolazioni degli arti?",
+    "suggestion": "Pensa a un'articolazione mobile in cui i capi ossei scorrono l'uno sull'altro entro una cavità chiusa e lubrificata.",
+    "options": [
+      "I capi ossei sono saldati da tessuto osseo continuo",
+      "I capi ossei contigui sono rivestiti di cartilagine ialina e racchiusi in una capsula con liquido sinoviale",
+      "Fra le ossa è sempre interposto tessuto connettivo fibroso che ossifica",
+      "Presenta cartilagine fibrosa al centro e ialina ai margini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella diartrosi i capi ossei contigui sono rivestiti di cartilagine ialina (priva di pericondrio), avvolti da una capsula articolare fibrosa che delimita una cavità chiusa ripiena di liquido sinoviale. La saldatura ossea o il connettivo fibroso interposto descrivono le sinartrosi; la combinazione cartilagine ialina ai margini/fibrosa al centro descrive le anfiartrosi del bacino.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.5"
+  },
+  {
+    "id": "cervidi-scheletro-008",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quante vertebre toraciche presenta la colonna vertebrale descritta per i cervidi?",
+    "suggestion": "È il settore a cui corrispondono le paia di coste; il numero coincide con quello delle coste per lato.",
+    "options": ["7", "13", "6", "4"],
+    "correctIndex": 1,
+    "explanation": "Le vertebre toraciche sono 13, a cui corrispondono 13 paia di coste. Il 7 è il numero delle cervicali, il 6 delle lombari e il 4 delle sacrali nel cervo.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.6"
+  },
+  {
+    "id": "cervidi-scheletro-009",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel numero di vertebre sacrali, in cosa differiscono cervo e capriolo?",
+    "suggestion": "Una delle due specie ne ha una in più; ricorda che il capriolo è la specie con il valore maggiore.",
+    "options": [
+      "Il cervo ne ha 4 e il capriolo 5",
+      "Il cervo ne ha 5 e il capriolo 4",
+      "Entrambi ne hanno 4",
+      "Entrambi ne hanno 7"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le vertebre sacrali sono 4 nel cervo e 5 nel capriolo. Il valore 7 corrisponde invece alle vertebre cervicali, comuni ai mammiferi.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.6"
+  },
+  {
+    "id": "cervidi-scheletro-010",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Delle 13 paia di coste, quante raggiungono direttamente lo sterno (coste sternali)?",
+    "suggestion": "Solo una parte arriva allo sterno; le restanti si uniscono tramite cartilagine costale formando l'arco costale.",
+    "options": ["5", "8", "13", "6"],
+    "correctIndex": 1,
+    "explanation": "Solo 8 coste raggiungono direttamente lo sterno (sternali), mentre le altre 5 (asternali) si uniscono alle coste precedenti tramite cartilagine costale, formando l'arco costale cartilagineo. Il 13 è il totale delle paia, il 5 sono le asternali.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.6"
+  },
+  {
+    "id": "cervidi-scheletro-011",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Negli ungulati, in cui l'arto è specializzato solo per la locomozione, cosa accade a ulna e fibula rispetto a radio e tibia?",
+    "suggestion": "Quando la mano perde ogni mobilità e resta in pronazione fissa, le ossa accessorie dell'avambraccio e della gamba subiscono una sorte particolare.",
+    "options": [
+      "Aumentano di lunghezza per dare maggiore spinta",
+      "Si fissano saldamente a radio e tibia e tendono a ridursi in lunghezza",
+      "Acquistano la massima mobilità rotatoria di 180°",
+      "Si separano completamente per consentire la supinazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei grossi ungulati la mano e il piede sono fissi in pronazione (faccia palmare rivolta posteriormente): ulna e fibula si fissano saldamente rispettivamente a radio e tibia e tendono a ridursi in lunghezza. La rotazione di 180° è invece tipica della mano dell'uomo, dove le ossa hanno massima mobilità.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.8"
+  },
+  {
+    "id": "cervidi-scheletro-012",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché nell'uomo le ossa dell'avambraccio (radio e ulna) raggiungono il massimo grado di mobilità rotatoria?",
+    "suggestion": "Collega il grado di mobilità delle due ossa al fatto che la mano sia o meno impegnata nella locomozione.",
+    "options": [
+      "Perché la mano ha perso la funzione locomotoria",
+      "Perché la mano è specializzata solo per la locomozione",
+      "Perché radio e ulna sono saldati tra loro",
+      "Perché la mano resta sempre in pronazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando la mano perde la funzione locomotoria, come nell'uomo, le due ossa possiedono il massimo di mobilità con un'ampiezza di rotazione di 180°. La saldatura delle ossa e la pronazione fissa caratterizzano invece gli arti specializzati per la sola locomozione, dove la mobilità è azzerata.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.7"
+  },
+  {
+    "id": "cervidi-scheletro-013",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel capriolo, come si presenta l'angolo posteriore della mandibola nel maschio rispetto alla femmina?",
+    "suggestion": "Si tratta di un carattere sessuale osseo: nel maschio questo angolo è più accentuato e l'incisura dei vasi più profonda.",
+    "options": [
+      "Più pronunciato e rivolto verso il basso, con incisura dei vasi più marcata e profonda",
+      "Meno pronunciato e con incisura dei vasi appena accennata",
+      "Identico a quello della femmina",
+      "Completamente assente nel maschio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel maschio di capriolo l'angolo posteriore della mandibola è più chiaramente pronunciato e più rivolto verso il basso, con un'incisura dei vasi ben marcata e più profonda di quella della femmina: per questo è un parametro osseo utile a distinguere i sessi.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.9"
+  },
+  {
+    "id": "cervidi-scheletro-014",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Confrontando il bacino di maschio e femmina di capriolo, quale affermazione è corretta?",
+    "suggestion": "Pensa a quale sesso deve ospitare la gravidanza e il parto, e a come questo si riflette sulla larghezza del bacino.",
+    "options": [
+      "Il bacino della femmina è più largo di quello del maschio",
+      "Il bacino del maschio è più largo di quello della femmina",
+      "Il pube del maschio appare più appiattito e allungato in senso cranio-caudale",
+      "Il bacino ha identica forma nei due sessi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il bacino della femmina di capriolo è più largo di quello del maschio, e la parte anteriore del pube femminile appare in sezione più appiattita e allungata in senso cranio-caudale rispetto al maschio. È quindi la femmina, non il maschio, a presentare il pube appiattito.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.9"
+  },
+  {
+    "id": "cervidi-scheletro-015",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Da quali due componenti è costituito un muscolo scheletrico secondo la descrizione del testo?",
+    "suggestion": "Distingui la parte attiva e contrattile da quella che lo ancora all'osso ed è fatta di connettivo.",
+    "options": [
+      "Una parte carnosa di fibre muscolari striate e una parte tendinea di connettivo fibroso",
+      "Una parte cartilaginea e una parte ossea",
+      "Solo fibre muscolari lisce prive di tendini",
+      "Una parte adiposa e una parte nervosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "I muscoli sono costituiti da una parte carnosa, formata da fibre muscolari striate, e da una parte tendinea, formata da connettivo fibroso. Le componenti cartilaginee, adipose o lisce non rientrano nella definizione data per il muscolo scheletrico.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.10"
+  },
+  {
+    "id": "cervidi-scheletro-016",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché l'arto anteriore è considerato prevalentemente di sostegno e quello posteriore di propulsione?",
+    "suggestion": "Collega la posizione del centro di gravità (più vicino all'avantreno) e lo sviluppo delle masse muscolari ai due ruoli.",
+    "options": [
+      "Perché il centro di gravità è più vicino all'arto anteriore, mentre il posteriore ha masse muscolari più sviluppate e potenti",
+      "Perché l'arto anteriore ha muscoli più potenti e il posteriore regge tutto il peso",
+      "Perché il centro di gravità è più vicino all'arto posteriore",
+      "Perché l'arto posteriore è privo di masse muscolari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il centro di gravità si mantiene sempre più vicino all'arto anteriore, che quindi sopporta una quota maggiore del peso (ruolo di sostegno); l'arto posteriore, dotato di masse muscolari più sviluppate e potenti, svolge invece la funzione di propulsione. Le alternative invertono i ruoli o negano la muscolatura del posteriore.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.10"
+  },
+  {
+    "id": "cervidi-scheletro-017",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nella valutazione dell'età dei cervidi, quale parte della mandibola porta i denti e si unisce all'emimandibola opposta nella sinfisi?",
+    "suggestion": "Distingui la parte orizzontale, che alloggia i denti, dalla parte verticale su cui si inseriscono i muscoli masticatori.",
+    "options": [
+      "La branca",
+      "Il corpo",
+      "Il processo coronoideo",
+      "Il processo condiloideo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il corpo è la parte orizzontale della mandibola, su cui si impiantano i denti e che rostralmente si unisce all'emimandibola opposta formando la sinfisi mandibolare. La branca è la parte verticale per i muscoli masticatori, mentre coronoideo e condiloideo sono i due processi della branca.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.11"
+  },
+  {
+    "id": "cervidi-scheletro-018",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Cosa significa che la dentatura dei Mammiferi è di tipo eterodonte?",
+    "suggestion": "Pensa alla parola 'etero': i denti non sono tutti uguali, ma differiscono per forma e per il compito che svolgono.",
+    "options": [
+      "I denti hanno tutti la stessa forma e funzione",
+      "Si osservano denti di forma diversa con funzione diversa: incisivi, canini e molari",
+      "I denti crescono in modo continuo per tutta la vita",
+      "I denti sono privi di radice e di corona distinte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eterodonte significa che si osservano denti di forma diversa con funzione diversa — incisivi, canini e molari — variabili a seconda del tipo di alimentazione. La forma uguale per tutti i denti è invece la condizione omodonte; crescita continua e assenza di corona/radice descrivono altri caratteri non legati all'eterodontia.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.14"
+  },
+  {
+    "id": "cervidi-scheletro-019",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Tramite quale tipo di articolazione il dente è legato al proprio alveolo?",
+    "suggestion": "Si tratta di un'articolazione fibrosa in cui legamenti o una robusta membrana uniscono saldamente le strutture.",
+    "options": ["Diartrosi", "Sindesmosi", "Sinfisi", "Anfiartrosi"],
+    "correctIndex": 1,
+    "explanation": "Ciascun dente è legato al proprio alveolo per sindesmosi, cioè un'articolazione fibrosa in cui le strutture sono unite fortemente da legamenti o da una robusta membrana. La diartrosi è un'articolazione mobile sinoviale, mentre sinfisi e anfiartrosi riguardano per esempio le ossa del bacino.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.14"
+  },
+  {
+    "id": "cervidi-scheletro-020",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché lo smalto dentale, una volta eruttato il dente, non è in grado di rigenerarsi?",
+    "suggestion": "Pensa alle cellule che lo producono durante la vita embrionale e a cosa accade loro dopo l'eruzione.",
+    "options": [
+      "Perché gli ameloblasti che lo producono scompaiono dopo l'eruzione del dente",
+      "Perché lo smalto è formato da cellule vive che muoiono con l'età",
+      "Perché lo smalto è prodotto in continuazione dagli odontoblasti",
+      "Perché lo smalto viene riassorbito dal cemento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo smalto è formato da prismi prodotti dagli ameloblasti, cellule che si sviluppano nell'abbozzo dentale durante la vita embrionale; poiché gli ameloblasti scompaiono dopo l'eruzione, lo smalto non può rigenerarsi. Gli odontoblasti producono invece la dentina, non lo smalto, che peraltro è un tessuto acellulare.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.15"
+  },
+  {
+    "id": "cervidi-scheletro-021",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quale tessuto dentale viene prodotto dagli odontoblasti, cellule disposte lungo il margine della polpa?",
+    "suggestion": "È il tessuto duro acellulare, di natura simile a quella ossea, che affiora scuro sulla superficie masticatoria consumata.",
+    "options": ["Lo smalto", "La dentina (avorio)", "Il cemento", "La polpa"],
+    "correctIndex": 1,
+    "explanation": "La dentina (o avorio) è prodotta dagli odontoblasti, disposti lungo il margine della polpa dentale; è un tessuto duro acellulare di natura simile a quella ossea. Lo smalto è prodotto dagli ameloblasti, il cemento dai cementoblasti, mentre la polpa è il tessuto molle ricco di vasi e nervi.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.15"
+  },
+  {
+    "id": "cervidi-scheletro-022",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché gli erbivori come i ruminanti hanno evoluto denti ipsodonti a corona molto alta?",
+    "suggestion": "Collega l'altezza della corona al tipo di alimento abrasivo (erba, radici, semi) e alla necessità di compensare il consumo.",
+    "options": [
+      "Per contrastare la rapida usura causata da un'alimentazione con sostanze abrasive",
+      "Perché si nutrono di alimenti morbidi che non consumano i denti",
+      "Per aumentare la presa sulla preda durante la caccia",
+      "Perché i denti a corona bassa crescono in modo continuo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I mammiferi che si alimentano con sostanze abrasive (radici, semi, erba) vanno incontro a una rapida usura dei denti e hanno evoluto denti ipsodonti, a corona molto alta. La corona bassa (brachiodonte) è invece tipica di chi non subisce forte usura, come il cinghiale; il riferimento alla caccia è estraneo agli erbivori.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.16"
+  },
+  {
+    "id": "cervidi-scheletro-023",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nei denti ipsodonti, perché uno strato di cemento può rivestire anche la parte coronale e non solo la radice?",
+    "suggestion": "Pensa a cosa serve un rivestimento aggiuntivo man mano che la corona alta si consuma durante la vita.",
+    "options": [
+      "Per aumentare la resistenza all'usura e mantenere una superficie masticatoria funzionale",
+      "Per consentire al dente di crescere in modo continuo",
+      "Per sostituire lo smalto assente in questi denti",
+      "Per ridurre la corona e abbassarne l'altezza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei denti ipsodonti il cemento può rivestire anche la parte coronale (non solo la radice) per aumentare la resistenza all'usura e mantenere una superficie masticatoria funzionale man mano che il dente si consuma. Non serve a far crescere il dente né a sostituire lo smalto, che è comunque presente.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.16"
+  },
+  {
+    "id": "cervidi-scheletro-024",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quale caratteristica contraddistingue un dente a crescita continua, come il canino del cinghiale?",
+    "suggestion": "In questi denti manca un confine netto fra due porzioni, e la papilla continua a depositare tessuto per compensare il consumo.",
+    "options": [
+      "Non vi è distinzione tra corona e radice e la papilla produce continuamente dentina, con radice sempre aperta",
+      "La radice si restringe fino a un piccolo foro e poi il dente smette di crescere",
+      "Una volta caduto viene subito sostituito da un dente definitivo",
+      "Cresce solo durante la vita embrionale e poi si arresta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei denti a crescita continua non c'è distinzione tra corona e radice; la papilla dentaria produce continuamente dentina che compensa l'usura e la parte terminale della radice rimane sempre aperta. Il restringimento della radice fino a un piccolo foro descrive invece i denti a crescita definita.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.17"
+  },
+  {
+    "id": "cervidi-scheletro-025",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "A quale categoria appartengono i molari dei Cervidi, caratterizzati da corone basse e cuspidi a forma di mezzaluna?",
+    "suggestion": "Il nome richiama la forma a semiluna delle cuspidi; distinguilo dai denti con cuspidi tondeggianti degli onnivori e da quelli taglienti dei carnivori.",
+    "options": ["Bunodonti", "Selenodonti", "Secodonti", "Brachiodonti"],
+    "correctIndex": 1,
+    "explanation": "I molari dei Cervidi (e Bovidi) sono selenodonti, con corone basse e cuspidi a forma di mezzaluna. I bunodonti, con cuspidi isolate e tondeggianti, sono tipici dei Suidi; i secodonti, con alte cuspidi taglienti, dei carnivori; brachiodonte si riferisce invece all'altezza della corona, non alla forma delle cuspidi.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.18"
+  },
+  {
+    "id": "cervidi-scheletro-026",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nella corona di un dente, quale faccia è quella rivolta verso la guancia?",
+    "suggestion": "Per premolari e molari questa stessa faccia viene chiamata anche buccale; non confonderla con quella rivolta verso la lingua.",
+    "options": ["Faccia linguale", "Faccia vestibolare", "Faccia mesiale", "Faccia di occlusione"],
+    "correctIndex": 1,
+    "explanation": "La faccia vestibolare è rivolta verso la guancia (buccale per premolari e molari, labiale per incisivi e canini). La linguale guarda verso la lingua, la mesiale è quella tra denti adiacenti più vicina alla sinfisi, e l'occlusale è in contatto con il dente antagonista.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.19"
+  },
+  {
+    "id": "cervidi-scheletro-027",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Negli Ungulati, a quale funzione sono deputati i canini secondo la classificazione funzionale dei denti?",
+    "suggestion": "Collega ciascun tipo di dente a un'azione: taglio, strappo o masticazione; il canino non taglia né mastica.",
+    "options": ["Taglio", "Strappo", "Masticazione", "Triturazione fine"],
+    "correctIndex": 1,
+    "explanation": "Negli Ungulati i denti eterodonti hanno funzioni distinte: gli incisivi servono al taglio, i canini allo strappo e i molari alla masticazione. La triturazione fine non è la voce indicata per i canini, che svolgono l'azione di strappo.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.23"
+  },
+  {
+    "id": "cervidi-scheletro-028",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché nella valutazione dell'età di un Cervide si esamina l'arcata dentale inferiore e non quella della mascella?",
+    "suggestion": "Pensa a quali fasi (eruzione e cambio degli incisivi) sono leggibili solo in basso e non in alto.",
+    "options": [
+      "Perché in base all'arcata superiore non si potrebbero rilevare le fasi di eruzione e cambio degli incisivi",
+      "Perché la mascella è priva di qualsiasi dente nei cervidi",
+      "Perché i denti superiori si consumano molto più lentamente",
+      "Perché la mascella è un osso mobile difficile da esaminare"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dentatura della mascella non viene considerata perché in base ad essa non si potrebbero rilevare le fasi di eruzione e cambio degli incisivi; per questo si esamina l'arcata inferiore. La mascella non è priva di tutti i denti (porta molari e premolari superiori) ed è un osso fisso, non mobile.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.23"
+  },
+  {
+    "id": "cervidi-scheletro-029",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nella terminologia degli incisivi inferiori usata per la valutazione dell'età, come vengono chiamati i due primi incisivi frontali?",
+    "suggestion": "Ricorda l'ordine dei nomi: i frontali, poi i mediani interni ed esterni, infine i canini.",
+    "options": ["Cantoni", "Picozzi", "Mediani interni", "Mediani esterni"],
+    "correctIndex": 1,
+    "explanation": "Agli incisivi inferiori si applica la denominazione: picozzi i primi due incisivi frontali, mediani interni i secondi, mediani esterni i terzi e cantoni i due canini. I cantoni sono quindi i canini, non i primi incisivi.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.24"
+  },
+  {
+    "id": "cervidi-scheletro-030",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nella terminologia degli operatori, cosa indica il termine 'pareggia' riferito a un dente?",
+    "suggestion": "Pensa al confronto fra l'apice di un dente e quello del suo omologo controlaterale, e a quando i due si allineano.",
+    "options": [
+      "Il dente emerge dalla gengiva per la prima volta",
+      "L'apice della corona di un dente e quello del suo omologo controlaterale si trovano sulla stessa linea",
+      "Il dente da latte viene sostituito da quello definitivo",
+      "Il dente fende l'osso mandibolare senza uscire dalla gengiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Pareggia' indica che il margine superiore (apice della corona) di un dente e quello del suo omologo controlaterale si trovano sulla stessa linea. L'emergere dalla gengiva è 'spunta', la sostituzione del dente da latte è 'cambia' e il fendere l'osso senza uscire dalla gengiva è 'apre'.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.25"
+  },
+  {
+    "id": "cervidi-scheletro-031",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Come viene definita la porzione del corpo mandibolare priva di denti, compresa tra i denti anteriori (incisivi e canini) e i premolari?",
+    "suggestion": "È lo spazio vuoto che separa la 'forbice anteriore' dalla 'forbice triturante' nella mandibola del capriolo.",
+    "options": ["Sinfisi", "Diastema", "Infundibolo", "Alveolo"],
+    "correctIndex": 1,
+    "explanation": "Il diastema è la porzione più o meno ampia del corpo mandibolare priva di denti, situata tra la forbice anteriore (incisivi e canini) e i premolari. La sinfisi è la giunzione delle due emimandibole, l'infundibolo è una struttura sulla superficie occlusale e l'alveolo è la cavità che ospita la radice del dente.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.26"
+  },
+  {
+    "id": "cervidi-scheletro-032",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché in Friuli Venezia Giulia la verifica dell'età tramite dentatura riguarda i capi della caccia di selezione e non la caccia programmata ordinaria?",
+    "suggestion": "Collega il tipo di prelievo (strutturato per classi di sesso ed età oppure no) alla necessità di un controllo individuale del capo.",
+    "options": [
+      "Perché nella caccia di selezione il prelievo è strutturato per classi di età e sesso e va verificata l'attribuzione del capo",
+      "Perché nella caccia programmata gli animali sono più anziani e difficili da invecchiare",
+      "Perché solo gli uccelli della caccia programmata possiedono incisivi inferiori",
+      "Perché la dentatura non cambia mai con l'età negli ungulati"
+    ],
+    "correctIndex": 0,
+    "explanation": "La caccia di selezione agli ungulati struttura il prelievo per classi di età e sesso, quindi serve verificare con la dentatura che il capo abbattuto corrisponda alla classe assegnata e aggiornare le serie storiche. Nella caccia programmata (avifauna, piccola selvaggina) il prelievo non è organizzato su base qualitativa individuale, perciò non è prevista la verifica.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.28"
+  },
+  {
+    "id": "cervidi-scheletro-033",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Qual è il carattere peculiare della dentatura del cervo rispetto agli altri ruminanti domestici?",
+    "suggestion": "Cerca un dente superiore presente in forma sviluppata nel maschio e ridotto-vestigiale nella femmina.",
+    "options": [
+      "La presenza di un canino superiore più grande nel maschio e vestigiale nella femmina",
+      "La presenza di incisivi superiori ben sviluppati in entrambi i sessi",
+      "L'assenza totale di molari superiori",
+      "La presenza di denti a crescita continua come nel cinghiale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dentatura del cervo presenta come carattere peculiare un canino superiore più grande nel maschio e ridotto-vestigiale nella femmina. Gli incisivi superiori mancano (sostituiti dalla placca dentale), i molari superiori sono presenti e i denti non sono a crescita continua.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.30"
+  },
+  {
+    "id": "cervidi-scheletro-034",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Cosa sostituisce gli incisivi superiori assenti nel cervo e negli altri ruminanti?",
+    "suggestion": "Si tratta di un ispessimento della mucosa contro cui gli incisivi inferiori tranciano l'erba.",
+    "options": [
+      "Un canino superiore ipertrofico",
+      "Un ispessimento della mucosa detto placca dentale",
+      "Una seconda fila di molari superiori",
+      "Gli incisivi inferiori che migrano in alto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cervo mancano gli incisivi superiori, ma sono sostituiti da un ispessimento della mucosa detto placca dentale, tipico di tutti i ruminanti. Non si tratta di un canino, né di molari aggiuntivi, e gli incisivi inferiori restano nella mandibola.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.30"
+  },
+  {
+    "id": "cervidi-scheletro-035",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel cervo, quali sono gli unici denti che non vengono mai sostituiti nel corso della crescita?",
+    "suggestion": "Sono i denti che spuntano già definitivi a partire dal 4° mese di vita, mentre tutti gli altri hanno una versione da latte.",
+    "options": ["Gli incisivi", "I molari", "I premolari", "I canini"],
+    "correctIndex": 1,
+    "explanation": "Nel cervo i molari spuntano a partire dal 4° mese di vita e sono gli unici denti a non venire mai sostituiti; tutti gli altri (incisivi, canini, premolari) vengono rimpiazzati da denti definitivi nel corso della crescita.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.30"
+  },
+  {
+    "id": "cervidi-scheletro-036",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Come cambia il 3° premolare del cervo passando dalla dentizione da latte a quella definitiva?",
+    "suggestion": "Conta le punte: una in più nel dente da latte rispetto al definitivo, carattere utile per distinguere i giovani.",
+    "options": [
+      "Possiede 3 punte nella prima dentizione e solo 2 in quella definitiva",
+      "Possiede 2 punte da latte e 3 da definitivo",
+      "Mantiene sempre 3 punte per tutta la vita",
+      "È privo di punte in entrambe le dentizioni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cervo il 3° premolare possiede 3 punte nella prima dentizione e solo 2 in quella definitiva (dai 2 anni in poi): per questo la presenza di un 3° premolare tricuspidato indica un animale ancora giovane. Il numero di punte non aumenta con la dentizione definitiva.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.31"
+  },
+  {
+    "id": "cervidi-scheletro-037",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel cervo, a quale età compare il terzo molare (M3)?",
+    "suggestion": "È l'ultimo dei tre molari a comparire; ricorda la sequenza 4 mesi, 12 mesi e poi questo.",
+    "options": ["4 mesi", "12 mesi", "21 mesi", "27 mesi"],
+    "correctIndex": 2,
+    "explanation": "Nel cervo M1 compare a 4 mesi, M2 a 12 mesi e M3 a 21 mesi. Il valore di 27 mesi non corrisponde alla comparsa di M3, che si colloca a 21 mesi.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.33"
+  },
+  {
+    "id": "cervidi-scheletro-038",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Una volta terminata l'eruzione e la sostituzione di tutti i denti, su quale elemento si basa la valutazione dell'età del cervide?",
+    "suggestion": "Non potendo più osservare cambi o eruzioni, resta solo un parametro che progredisce consumando le cuspidi.",
+    "options": [
+      "Sul grado di usura dei denti",
+      "Sul numero totale di denti presenti",
+      "Sull'ordine di eruzione dei molari",
+      "Sulla comparsa del canino superiore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Terminata la sostituzione-eruzione di tutti i denti, l'unico elemento di valutazione dell'età è il grado di usura: le cuspidi si consumano mettendo in evidenza strisce di dentina sempre più spesse e il dente si appiattisce. Il numero di denti e l'ordine di eruzione non sono più utili una volta completata la dentatura definitiva.",
+    "difficulty": "easy",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.34"
+  },
+  {
+    "id": "cervidi-scheletro-039",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Con l'avanzare dell'età del cervide, come variano la dentina esposta e l'infundibolo sulla superficie occlusale dei denti?",
+    "suggestion": "Uno dei due tende ad allargarsi con il consumo, l'altro a restringersi fino a scomparire.",
+    "options": [
+      "La dentina aumenta e l'infundibolo diminuisce con l'età",
+      "La dentina diminuisce e l'infundibolo aumenta con l'età",
+      "Entrambi aumentano in egual misura",
+      "Entrambi scompaiono già nei primi mesi di vita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con l'età la dentina esposta aumenta (le strisce si fanno più spesse man mano che le cuspidi si consumano), mentre l'infundibolo diminuisce restringendosi fino a scomparire. Le due tendenze sono opposte, non concordi.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.34"
+  },
+  {
+    "id": "cervidi-scheletro-040",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel cervo, intorno a quale età l'infundibolo del primo molare risulta del tutto assente?",
+    "suggestion": "Compare in rare tracce intorno ai 10 anni; l'assenza completa si raggiunge l'anno successivo.",
+    "options": ["A 8 anni", "A 11 anni", "Dopo i 14-16 anni", "A 5 anni"],
+    "correctIndex": 1,
+    "explanation": "Nel cervo a 10 anni l'infundibolo del primo molare è presente in rare tracce o tende a scomparire, mentre a 11 anni è assente. Dopo i 14-16 anni scompaiono progressivamente gli infundiboli su M2, non su M1.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.49"
+  },
+  {
+    "id": "cervidi-scheletro-041",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Da quanti denti è costituita la dentatura definitiva del capriolo adulto?",
+    "suggestion": "Parti dalla formula dentaria e ricorda che canini incisivizzati e incisivi stanno solo in basso.",
+    "options": ["20", "28", "32", "44"],
+    "correctIndex": 2,
+    "explanation": "La dentatura del capriolo adulto è costituita da 32 denti: 12 molari, 12 premolari, 2 canini 'incisivizzati' e 6 incisivi (canini e incisivi presenti solo nelle mandibole). Il 20 è il numero dei denti da latte, mentre il 44 corrisponde alla dentatura del cinghiale.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.55"
+  },
+  {
+    "id": "cervidi-scheletro-042",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel capriolo, fino a circa quale età si può stabilire l'età dalla fessura del 1° molare, e cosa indica se è scomparsa anche nella seconda parte del dente?",
+    "suggestion": "La fessura del primo molare funge da soglia: una sola parte consumata oppure entrambe spostano l'animale al di sotto o al di sopra di una certa età.",
+    "options": [
+      "Se è scomparsa solo nella prima parte indica < 5 anni; se anche nella seconda parte indica > 5 anni",
+      "Se è scomparsa solo nella prima parte indica > 5 anni; se anche nella seconda parte indica < 5 anni",
+      "La fessura non scompare mai e non serve per l'età",
+      "La fessura indica esclusivamente il sesso dell'animale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per identificare un capriolo di mezza età si guarda la fessura del 1° molare: se è già scomparsa nella prima parte del dente l'animale ha meno di 5 anni, se è scomparsa anche nella seconda parte ha più di 5 anni. L'interpretazione opposta è errata e la fessura non indica il sesso.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.56"
+  },
+  {
+    "id": "cervidi-scheletro-043",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel capriolo, come si presenta il 3° premolare deciduo rispetto a quello definitivo, e a cosa è utile questa differenza?",
+    "suggestion": "Conta i lobi/punte: il dente da latte ne ha uno in più del definitivo, e questo permette di collocare l'animale rispetto alla soglia dei 13-14 mesi.",
+    "options": [
+      "Da latte è trilobato (3 punte), definitivo è bilobato (2 punte): distingue se l'età è inferiore o superiore ai 13-14 mesi",
+      "Da latte è bilobato, definitivo è trilobato: indica animali oltre i 5 anni",
+      "Mantiene sempre lo stesso numero di lobi e non è utile per l'età",
+      "Da latte è privo di lobi, definitivo ne ha quattro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il 3° premolare del capriolo è trilobato/tricuspidato quando è da latte e bilobato/bicuspidato quando è definitivo (come nel cervo): permette quindi di valutare facilmente se l'individuo ha un'età inferiore o superiore ai 13-14 mesi. L'inversione del numero di lobi è errata.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.63"
+  },
+  {
+    "id": "cervidi-scheletro-044",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel capriolo, entro quale età la dentatura diventa definitiva, dopo di che l'età si valuta solo in base all'usura?",
+    "suggestion": "Coincide con il completamento del cambio dei premolari, poco oltre l'anno di vita.",
+    "options": ["3-4 mesi", "13-14 mesi", "21-25 mesi", "5 anni"],
+    "correctIndex": 1,
+    "explanation": "Nel capriolo a 13-14 mesi la dentatura è definitiva; dopo i 13-14 mesi l'età viene valutata solo in base all'usura dei denti. I 21-25 mesi corrispondono al completamento della dentizione definitiva nel cervo, non nel capriolo.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.60"
+  },
+  {
+    "id": "cervidi-scheletro-045",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Perché i premolari decidui molto consumati (al 10°-11° mese) possono trarre in inganno nella valutazione dell'età del capriolo?",
+    "suggestion": "Un dente da latte fortemente usurato può sembrare quello di un animale più vecchio di quanto sia in realtà.",
+    "options": [
+      "Perché, essendo molto consumati, fanno apparire l'animale più vecchio di quanto sia",
+      "Perché crescono in modo continuo come i canini del cinghiale",
+      "Perché sono più grandi dei denti definitivi",
+      "Perché non si consumano affatto a quell'età"
+    ],
+    "correctIndex": 0,
+    "explanation": "I premolari decidui al 10°-11° mese sono molto consumati e possono trarre in inganno nella valutazione dell'età, facendo sembrare l'animale più vecchio: il forte consumo del dente da latte non va confuso con l'usura di un dente definitivo. Non hanno crescita continua e a quell'età sono proprio molto usurati.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.58"
+  },
+  {
+    "id": "cervidi-scheletro-046",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Secondo la tabella comparativa, quale specie presenta una dentatura definitiva di 44 denti, completa solo intorno ai 32-36 mesi?",
+    "suggestion": "È l'unica specie della tabella con più di 32 denti definitivi e con incisivi superiori, non un cervide.",
+    "options": ["Capriolo", "Cinghiale", "Daino", "Muflone"],
+    "correctIndex": 1,
+    "explanation": "Il cinghiale presenta 44 denti definitivi, completi a 32-36 mesi. Capriolo, daino e muflone hanno 32 denti definitivi (il cervo 32-34); il cinghiale è inoltre l'unico citato a possedere incisivi superiori.",
+    "difficulty": "medium",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.79"
+  },
+  {
+    "id": "cervidi-scheletro-047",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Confrontando capriolo e daino nella tabella, quale differenza emerge nel completamento della dentatura definitiva pur partendo dallo stesso numero di denti da latte?",
+    "suggestion": "Entrambi nascono con 20 denti da latte, ma uno dei due completa la dentatura definitiva nettamente più tardi.",
+    "options": [
+      "Il capriolo la completa a 12-14 mesi, il daino a 24-26 mesi",
+      "Il capriolo la completa a 24-26 mesi, il daino a 12-14 mesi",
+      "Entrambi la completano alla nascita",
+      "Il daino la completa prima del cinghiale, a 12 mesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sia capriolo sia daino nascono con 20 denti da latte e arrivano a 32 denti definitivi, ma il capriolo completa la dentatura a 12-14 mesi mentre il daino molto più tardi, a 24-26 mesi. L'inversione delle età è errata e in nessun caso la dentatura definitiva è presente alla nascita.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.79"
+  },
+  {
+    "id": "cervidi-scheletro-048",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel capriolo, perché un colore chiaro della dentina può portare a sottostimare l'età di un animale?",
+    "suggestion": "Attenzione: il colore non misura gli anni ma la durezza/friabilità del dente; una dentina tenera si consuma in fretta. Valuta con precisione cosa indica davvero il colore.",
+    "options": [
+      "Perché la dentina chiara è più tenera e si consuma rapidamente, facendo apparire più vecchio un animale in realtà giovane",
+      "Perché la dentina chiara indica con certezza un'età avanzata",
+      "Perché il colore della dentina misura direttamente gli anni di vita",
+      "Perché la dentina chiara impedisce qualsiasi usura del dente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il colore della dentina non è indicativo dell'età ma della friabilità del dente: i caprioli a dentina chiara (più tenera) possono presentare una dentatura molto consumata pur essendo più giovani di quanto sembri. Per questo la dentina chiara, abbinata a forte usura, fa rischiare una sovrastima dell'età; il colore non misura direttamente gli anni.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.59"
+  },
+  {
+    "id": "cervidi-scheletro-049",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Nel cervo, quale di queste affermazioni sulla dentatura e sull'invecchiamento è corretta?",
+    "suggestion": "Verifica con precisione l'età di comparsa dei molari e cosa accade alle asperità dei denti con l'invecchiamento: un solo enunciato rispetta i dati del testo.",
+    "options": [
+      "I molari spuntano dal 4° mese e non vengono mai sostituiti, e con l'invecchiamento le sinuosità del dente tendono ad appianarsi",
+      "I molari vengono sostituiti più volte nel corso della vita",
+      "Con l'invecchiamento le sinuosità e asperità dei denti diventano sempre più marcate",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cervo i molari spuntano dal 4° mese di vita e sono gli unici a non venire mai sostituiti; con l'invecchiamento le numerose sinuosità e asperità dei denti tendono ad appianarsi. È quindi errato dire che i molari si sostituiscono o che le asperità si accentuano; la prima opzione è corretta, perciò 'Nessuna delle precedenti' non si applica.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.31"
+  },
+  {
+    "id": "cervidi-scheletro-050",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Quale di queste affermazioni descrive correttamente la struttura microscopica dei denti dei cervidi?",
+    "suggestion": "Distingui con attenzione quale cellula produce ciascun tessuto: smalto, dentina e cemento hanno ciascuno il proprio produttore. Una sola associazione è esatta.",
+    "options": [
+      "Il cemento è prodotto dagli ameloblasti e riveste la corona",
+      "La dentina è prodotta dai cementoblasti ed è il tessuto più mineralizzato",
+      "Il cemento è prodotto dai cementoblasti e riveste la radice, ancorandola tramite il legamento parodontale",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cemento è prodotto dai cementoblasti e riveste la radice del dente, contribuendo all'ancoraggio all'osso alveolare tramite il legamento parodontale. Lo smalto (il più mineralizzato) è prodotto dagli ameloblasti e la dentina dagli odontoblasti: le altre opzioni scambiano produttori e tessuti, quindi 'Nessuna delle precedenti' non vale.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.15"
+  },
+  {
+    "id": "cervidi-scheletro-051",
+    "topic": "cervidi-scheletro",
+    "species": "Cervidi — scheletro, muscoli, denti",
+    "question": "Riguardo alla classificazione dei denti per forma della corona, quale abbinamento specie-tipo di dente è corretto?",
+    "suggestion": "Attenzione a non confondere le tre categorie: cuspidi a mezzaluna, cuspidi tondeggianti isolate e cuspidi taglienti appartengono a gruppi diversi. Solo un abbinamento rispetta il testo.",
+    "options": [
+      "Suidi → selenodonti",
+      "Cervidi e Bovidi → selenodonti",
+      "Carnivori → bunodonti",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Cervidi e i Bovidi hanno denti selenodonti, con cuspidi a forma di mezzaluna. I Suidi sono bunodonti (cuspidi isolate e tondeggianti) e i carnivori secodonti (cuspidi taglienti): per questo gli abbinamenti 'Suidi→selenodonti' e 'Carnivori→bunodonti' sono errati e 'Nessuna delle precedenti' non si applica.",
+    "difficulty": "hard",
+    "source": "4. schelmuscdenticervidi FATTO.pdf p.18"
+  }
+]

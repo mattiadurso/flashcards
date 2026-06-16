@@ -1,0 +1,376 @@
+[
+  {
+    "id": "stambecco-001",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Da quale unico nucleo superstite derivano gli stambecchi che hanno ripopolato l'intero arco alpino?",
+    "suggestion": "Pensa al parco nazionale italiano storicamente legato alla salvezza della specie all'inizio del XIX secolo.",
+    "options": [
+      "Parco Nazionale del Gran Paradiso",
+      "Pirenei spagnoli",
+      "Caucaso",
+      "Alpi di Carinzia"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'inizio del XIX secolo meno di 100 individui sopravvivevano nelle valli dove ora sorge il Parco Nazionale del Gran Paradiso; da quel piccolo nucleo lo stambecco è stato reintrodotto con successo in tutto l'arco alpino. Pirenei, Caucaso e Alpi di Carinzia non sono il ceppo d'origine delle reintroduzioni alpine.",
+    "difficulty": "easy",
+    "source": "12 stambecco.pdf p.2"
+  },
+  {
+    "id": "stambecco-002",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Grazie a quale figura storica lo stambecco si salvò dall'estinzione definitiva sulle Alpi?",
+    "suggestion": "Fu un sovrano italiano dell'Ottocento a istituire una riserva reale di caccia nel Gran Paradiso.",
+    "options": [
+      "Napoleone Bonaparte",
+      "Carlo Alberto di Savoia",
+      "Umberto I",
+      "Vittorio Emanuele II"
+    ],
+    "correctIndex": 3,
+    "explanation": "La specie si salvò solo grazie alla protezione imposta dal re Vittorio Emanuele II, che istituì la Riserva Reale di caccia del Gran Paradiso impedendone l'estinzione definitiva. Gli altri personaggi non sono associati nel testo a questa misura di tutela.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.2"
+  },
+  {
+    "id": "stambecco-003",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Perché, pur essendo difficilmente raggiungibile dai predatori naturali, lo stambecco fu spinto vicino all'estinzione a partire dal 1600?",
+    "suggestion": "Rifletti su chi, oltre ai predatori, poteva colpirlo: un animale facile da avvicinare diventa una preda comoda per un certo cacciatore.",
+    "options": [
+      "Per la perdita di habitat dovuta al disboscamento delle Prealpi",
+      "Perché, facile da avvicinare, era facilmente abbattibile dall'uomo con frecce e poi proiettili",
+      "Per la competizione alimentare con il camoscio",
+      "Per epidemie diffuse dal bestiame domestico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo sottolinea che lo stambecco è un animale facile da avvicinare e difficilmente raggiungibile dai predatori naturali, ma facilmente abbattibile dall'uomo con frecce (prima) e proiettili (dopo), diventando una risorsa fondamentale per la nostra specie. Le altre cause non sono indicate come motore dell'estinzione iniziata dal 1600.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.2"
+  },
+  {
+    "id": "stambecco-004",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale caratteristica genetica accomuna le popolazioni di stambecco alpino studiate?",
+    "suggestion": "Considera che derivano da un solo ceppo e da reintroduzioni con pochi fondatori: cosa comporta questo per la diversità del DNA?",
+    "options": [
+      "Un'elevata variabilità genetica dovuta agli scambi tra colonie",
+      "Una totale uniformità genetica con assenza di mutazioni",
+      "Una variabilità genetica fra le più basse riscontrate nei mammiferi",
+      "Una variabilità genetica media, tipica degli ungulati alpini"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'origine comune delle colonie e le reintroduzioni effettuate con un numero limitato di fondatori hanno determinato un livello bassissimo di variabilità genetica, fra i più bassi riscontrati nei mammiferi. Non si parla né di elevata variabilità né di totale uniformità.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.3"
+  },
+  {
+    "id": "stambecco-005",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale tra queste popolazioni alpine di stambecco NON è frutto di una reintroduzione o di una nuova introduzione?",
+    "suggestion": "Una sola popolazione è quella storica, mai estinta: ripensa al luogo da cui partirono tutte le altre.",
+    "options": [
+      "La popolazione della Francia",
+      "La popolazione della Slovenia",
+      "La popolazione dell'Austria",
+      "La popolazione del Parco Nazionale del Gran Paradiso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fatta eccezione per quella del Parco Nazionale del Gran Paradiso, tutte le attuali popolazioni sono frutto di reintroduzioni (Francia, Svizzera, Austria, Germania) o di nuova introduzione (Slovenia e Bulgaria). La popolazione del Gran Paradiso è quindi l'unica storica e mai estinta.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.3"
+  },
+  {
+    "id": "stambecco-006",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale di queste è una caratteristica tipica delle specie appartenenti al genere a cui appartiene lo stambecco?",
+    "suggestion": "Confrontalo con un cervide: il genere dello stambecco si distingue proprio per l'assenza di certe ghiandole sul muso.",
+    "options": [
+      "Mancanza di ghiandole preorbitali",
+      "Cranio lungo e affusolato",
+      "Presenza di ampie ghiandole preorbitali",
+      "Coda lunga sempre rivolta verso il basso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra le caratteristiche del genere il testo elenca cranio corto, orecchie corte e appuntite, mancanza di ghiandole preorbitali, collo corto, zampe possenti e corte, coda che può essere sollevata sul dorso e 2 capezzoli. Cranio lungo, ghiandole preorbitali ampie e coda sempre bassa sono quindi errati.",
+    "difficulty": "easy",
+    "source": "12 stambecco.pdf p.6"
+  },
+  {
+    "id": "stambecco-007",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Perché lo stambecco sopporta bene il freddo ma soffre particolarmente le temperature elevate?",
+    "suggestion": "La difficoltà col caldo è legata a un meccanismo di raffreddamento che a questo animale manca del tutto.",
+    "options": [
+      "Perché ha un mantello sottile e privo di borra",
+      "Perché possiede ghiandole preorbitali molto attive",
+      "Perché è privo di ghiandole sudoripare",
+      "Perché ha una superficie corporea ridotta rispetto alla massa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo stambecco sopporta bene le temperature più basse e soffre a quelle elevate anche in relazione alla mancanza di ghiandole sudoripare, che impedisce la dispersione del calore tramite sudorazione. Il suo mantello include anzi una fitta borra invernale, e le ghiandole preorbitali mancano nel genere.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.6"
+  },
+  {
+    "id": "stambecco-008",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale adattamento del corpo dello stambecco riflette la frequentazione di un ambiente aspro e roccioso anche durante l'inverno?",
+    "suggestion": "Per arrampicarsi su pareti ripide servono robustezza e potenza: osserva tronco, collo e muscolatura.",
+    "options": [
+      "Arti lunghi e sottili adatti alla corsa veloce",
+      "Forme pesanti con tronco breve, collo robusto e notevoli masse muscolari",
+      "Corpo affusolato e leggero per il salto in lungo",
+      "Zampe palmate per attraversare i torrenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stambecco è un ungulato di forme pesanti, con tronco breve e collo robusto, dotato di notevoli masse muscolari per l'adattamento all'ambiente aspro e roccioso frequentato anche d'inverno. Non è un animale da corsa veloce né presenta arti sottili o zampe palmate.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.7"
+  },
+  {
+    "id": "stambecco-009",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale conformazione degli zoccoli rende lo stambecco un abile arrampicatore sulle rocce di alta montagna?",
+    "suggestion": "La presa sulla roccia dipende dalla larghezza degli zoccoli e da una particolare consistenza della loro parte inferiore.",
+    "options": [
+      "Larghi zoccoli con \"suole\" elastiche e pinzette divaricabili e indipendenti",
+      "Zoccoli stretti e appuntiti per infilarsi nelle fessure",
+      "Zoccoli piatti e lisci che aumentano l'attrito sul ghiaccio",
+      "Zoccoli con plica interdigitale molto sviluppata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le zampe brevi sono dotate di larghi zoccoli e di \"suole\" elastiche molto adatti a far presa nell'arrampicare, con due pinzette notevolmente divaricabili e indipendenti nel movimento. Anzi, la mancanza della plica interdigitale conferma la scarsa attitudine alla progressione su ghiaccio, quindi quell'opzione è errata.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.18"
+  },
+  {
+    "id": "stambecco-010",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Cosa indica la scarsa attitudine dello stambecco alla progressione su ambienti ghiacciati?",
+    "suggestion": "Non guardare alla forza dell'animale, ma a due dettagli anatomici del piede: una plica e il bordo delle pinzette.",
+    "options": [
+      "La presenza di artigli retrattili sulle dita",
+      "Gli zoccoli ricoperti da peli isolanti",
+      "La presenza di una membrana adesiva tra le dita",
+      "La mancanza della plica interdigitale e il bordo esterno delle pinzette poco tagliente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo afferma che la mancanza della plica interdigitale e il bordo esterno delle pinzette poco tagliente confermano la scarsa attitudine alla progressione su ambienti ghiacciati. Lo stambecco è perciò ottimo sulla roccia ma non sul ghiaccio; le altre opzioni descrivono strutture non presenti.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.18"
+  },
+  {
+    "id": "stambecco-011",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "A cosa corrispondono le nodosità presenti sulla faccia anteriore delle corna del maschio di stambecco?",
+    "suggestion": "Sono ornamenti che si accumulano nel tempo: più ce ne sono, più informazioni danno su una caratteristica dell'individuo.",
+    "options": [
+      "Al numero di accoppiamenti avvenuti",
+      "Sono tanto più numerose quanto maggiore è l'età dell'animale",
+      "Al sesso dell'animale",
+      "Al rango gerarchico nel branco indipendentemente dall'età"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sulla faccia anteriore le corna presentano nodosità piuttosto marcate, tanto più numerose quanto maggiore è l'età dell'animale: sono quindi un indicatore dell'età, non del numero di accoppiamenti né direttamente del rango. Le corna sono presenti in entrambi i sessi, perciò non servono di per sé a determinare il sesso dalle nodosità.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.21"
+  },
+  {
+    "id": "stambecco-012",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Come si formano gli anelli anulari ben visibili sulla faccia posteriore delle corna dello stambecco?",
+    "suggestion": "Pensa a cosa succede alla crescita del corno durante la stagione fredda e alla ripresa in primavera.",
+    "options": [
+      "Da incisioni provocate dallo sfregamento contro le rocce",
+      "Dagli scontri tra maschi durante gli accoppiamenti",
+      "Dall'interruzione invernale della crescita, che lascia un'incisione alla ripresa primaverile",
+      "Da una muta annuale del rivestimento corneo"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'accrescimento del corno procede tra aprile e novembre e si interrompe bruscamente d'inverno; alla ripresa primaverile la pausa invernale lascia sul corno una caratteristica incisione anulare, evidente soprattutto sulla faccia posteriore. Gli anelli derivano quindi dal ciclo stagionale di crescita, non da sfregamenti, scontri o mute.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.21"
+  },
+  {
+    "id": "stambecco-013",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Fino a quale momento della vita continua, seppur rallentando, l'accrescimento delle corna nello stambecco?",
+    "suggestion": "A differenza dei palchi dei cervidi, queste corna sono permanenti: la loro crescita non si ferma del tutto se non con un evento estremo.",
+    "options": [
+      "Si arresta definitivamente al compimento del terzo anno",
+      "Cessa completamente al raggiungimento della maturità sessuale",
+      "Si interrompe ogni anno con la caduta e ricrescita del corno",
+      "Continua fino al nono anno con forti accrescimenti, poi rallenta cessando solo alla morte"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lo sviluppo delle corna inizia poco dopo la nascita e continua con accrescimenti annuali notevoli (7-9 cm) fino al nono anno, per poi rallentare ma cessando solo alla morte dell'individuo. Le corna sono permanenti: non cadono né ricrescono ogni anno come i palchi dei cervidi.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.21"
+  },
+  {
+    "id": "stambecco-014",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale affermazione descrive correttamente il dimorfismo sessuale nello stambecco adulto?",
+    "suggestion": "Confronta peso corporeo e lunghezza delle corna: nel maschio entrambi sono nettamente superiori.",
+    "options": [
+      "Il maschio pesa 1,5-2,0 volte la femmina e ha corna molto più lunghe (85-100 cm contro circa 30 cm)",
+      "Maschio e femmina hanno peso e corna pressoché identici",
+      "Solo il maschio possiede le corna, assenti nella femmina",
+      "La femmina pesa più del maschio ma ha corna più corte"
+    ],
+    "correctIndex": 0,
+    "explanation": "La valutazione del sesso si basa sulla notevole differenza corporea (il maschio pesa 1,5-2,0 volte più della femmina) e sulla forma delle corna, più lunghe e robuste nel maschio (85-100 cm contro circa 30 cm). Le corna sono comunque presenti in entrambi i sessi, quindi non è vero che la femmina ne sia priva.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.30"
+  },
+  {
+    "id": "stambecco-015",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Come si organizza socialmente lo stambecco maschio nelle diverse età?",
+    "suggestion": "Da giovane sta in compagnia di coetanei, ma con la vecchiaia cambia stile di vita: rifletti sui maschi oltre i 12 anni.",
+    "options": [
+      "I maschi vivono sempre solitari a ogni età",
+      "I maschi vivono stabilmente insieme alle femmine tutto l'anno",
+      "I maschi formano branchi di coetanei, mentre i vecchi (>12 anni) conducono vita solitaria",
+      "I maschi formano branchi solo durante l'inverno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo stambecco è gregario e i maschi vivono in branchi costituiti da individui della medesima età, anche di 90 capi nella tarda primavera; i maschi vecchi (oltre i 12 anni) conducono invece vita solitaria. Non vivono stabilmente con le femmine né sono solitari a ogni età.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.8"
+  },
+  {
+    "id": "stambecco-016",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale strategia riproduttiva caratterizza lo stambecco?",
+    "suggestion": "Pochi maschi dominanti ottengono molti accoppiamenti, ma senza presidiare un'area fissa: come si chiama questo sistema?",
+    "options": [
+      "Monogamia con coppie stabili per la stagione",
+      "Poliginia basata sulla competizione e dominanza, senza difesa di un territorio",
+      "Poliandria con femmine che si accoppiano con più maschi subordinati",
+      "Difesa di territori riproduttivi individuali da parte di ogni maschio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stambecco presenta una strategia riproduttiva poliginica basata sulla competizione tra maschi e sulla dominanza: i maschi adulti dominanti ottengono la maggior parte degli accoppiamenti, senza difesa di un territorio e con gruppi di femmine non stabili. Non è quindi monogamo né territoriale, e non vi è poliandria.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.29"
+  },
+  {
+    "id": "stambecco-017",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Nei maschi di stambecco la maturità sessuale e l'effettivo successo riproduttivo coincidono nel tempo?",
+    "suggestion": "Diventare fertili è una cosa, riuscire ad accoppiarsi davvero un'altra: tieni conto della scalata nella gerarchia sociale.",
+    "options": [
+      "No: la maturità è raggiunta verso i 2 anni, ma il successo riproduttivo si realizza tra gli 8 e gli 11 anni",
+      "Sì, entrambi avvengono intorno ai 2 anni",
+      "No: la maturità è raggiunta a 8 anni e il successo riproduttivo subito dopo",
+      "Sì, entrambi si verificano solo dopo i 12 anni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei maschi la maturità sessuale è raggiunta intorno ai 2 anni, ma il successo riproduttivo si realizza generalmente solo tra gli 8 e gli 11 anni, quando gli individui occupano posizioni elevate nella gerarchia sociale. C'è quindi un netto scarto tra capacità fisiologica e reale possibilità di riprodursi.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.28"
+  },
+  {
+    "id": "stambecco-018",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Per il maschio adulto di stambecco la muta primaverile rappresenta una vera e propria muta del mantello. L'affermazione è corretta?",
+    "suggestion": "Attenzione alla precisione: distingui ciò che avviene in primavera da ciò che accade in autunno con la borra.",
+    "options": [
+      "Sì, è l'unica vera muta completa dell'anno",
+      "No, non esiste alcuna muta perché il pelo non viene mai perso",
+      "Sì, ma avviene due volte l'anno, in primavera e in autunno",
+      "No, in autunno non c'è muta ma solo aggiunta della borra, mentre la vera muta è quella primaverile"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lo stambecco presenta un'unica muta annuale completa, in primavera (maggio-giugno), durante la quale perde il pelo strofinandosi sulle rocce; in autunno non avviene una vera muta ma solo l'aggiunta graduale della borra fitta e lanosa che si sovrappone al pelo estivo. L'affermazione del quesito è quindi corretta, perché la sola muta reale è quella primaverile.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.17"
+  },
+  {
+    "id": "stambecco-019",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Per stimare l'età di uno stambecco, su quale metodo conviene basarsi rispetto alla dentatura?",
+    "suggestion": "La dentatura definitiva arriva solo a circa 3 anni e mezzo; un'altra struttura porta invece un \"calendario\" annuale ben leggibile.",
+    "options": [
+      "Sull'usura dei molari, più precisa degli anelli",
+      "Sulla conta degli anelli di crescita delle corna",
+      "Sul colore del mantello, che schiarisce con l'età",
+      "Sulla lunghezza delle orecchie, che cresce ogni anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dentatura definitiva è raggiunta solo verso il 40°-45° mese (circa 3 anni e mezzo) e la determinazione dell'età è comunque più facile se basata sulla conta degli anelli di crescita delle corna, molto visibili sulla faccia posteriore. Mantello e orecchie non sono indicati come criteri di stima dell'età.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.31"
+  },
+  {
+    "id": "stambecco-020",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quante incisioni dei denti incisivi inferiori indica la formula dentaria definitiva dello stambecco (0/3 0/1 3/3 3/3 = 32)?",
+    "suggestion": "Leggi la formula con attenzione: gli incisivi compaiono solo sulla mascella inferiore, e bovidi e cervidi ne hanno tipicamente lo stesso numero per emiarcata.",
+    "options": [
+      "Due incisivi inferiori per lato",
+      "Quattro incisivi inferiori per lato",
+      "Tre incisivi inferiori per lato",
+      "Nessun incisivo inferiore"
+    ],
+    "correctIndex": 2,
+    "explanation": "La formula dentaria definitiva dello stambecco è 0/3 0/1 3/3 3/3 per un totale di 32 denti: gli incisivi sono assenti nell'arcata superiore (0) e presenti in numero di 3 per lato in quella inferiore. Sono quindi tre incisivi inferiori per emiarcata, non due, quattro o zero.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.31"
+  },
+  {
+    "id": "stambecco-021",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quanto dura mediamente la gestazione dello stambecco e quanti piccoli nascono di norma per parto?",
+    "suggestion": "Pensa a una gravidanza di poco superiore ai cinque mesi e ricorda che il parto avviene a giugno.",
+    "options": [
+      "Circa 90 giorni, con 2-3 piccoli",
+      "Circa 230 giorni, con un solo piccolo",
+      "Circa 120 giorni, con gemelli costanti",
+      "Circa 165-170 giorni, con un solo piccolo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gestazione dura circa 165-170 giorni e il parto, generalmente nel mese di giugno, prevede la nascita di un solo piccolo. Le altre durate e numerosità non corrispondono ai dati riportati.",
+    "difficulty": "easy",
+    "source": "12 stambecco.pdf p.29"
+  },
+  {
+    "id": "stambecco-022",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Osservando un branco numeroso di stambecchi a metà estate, quale composizione è coerente con la biologia sociale della specie?",
+    "suggestion": "La precisione conta: distingui i grandi gruppi maschili di tarda primavera dai raggruppamenti femminili estivi formati dopo i parti.",
+    "options": [
+      "Madri con capretti, giovani femmine senza piccolo e giovani maschi fino a 2 anni",
+      "Soli maschi adulti dominanti riuniti per la riproduzione",
+      "Esclusivamente maschi vecchi oltre i 12 anni in gruppo",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle femmine i gruppi più consistenti si formano in estate, dopo i parti, quando alle madri e ai capretti si uniscono le giovani femmine senza piccolo e giovani maschi fino ai 2 anni di età. I grandi branchi di soli maschi coetanei si formano invece in tarda primavera, mentre i maschi vecchi (>12 anni) sono solitari; per questo la composizione corretta è la seconda.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.8"
+  }
+]

@@ -8,21 +8,25 @@ Follow this document end-to-end when generating a new topic. Schema keys are **E
 
 ## 1. File layout
 
-Every topic is one JSON file under `questions/`, plus an entry in `questions/index.json`:
+Every species/source file is one JSON file under `questions/<Topic_Folder>/`, **and must be registered with an entry in `questions/index.json`** (see below — a file the manifest doesn't list is invisible to the website).
+
+The folder under `questions/` mirrors the folder under `docs/` that holds the source PDFs. Use the **same folder name** in both, with no spaces (use underscores), e.g. `Anatomia_e_Biologia`:
 
 ```
 questions/
-  index.json                 ← manifest (list of topics)
-  capriolo.json              ← one file per topic
-  cinghiale.json
-  ...
+  index.json                       ← manifest — MUST list every file below
+  Anatomia_e_Biologia/             ← one folder per macro-topic, mirrors docs/
+    daino.json                     ← one file per species / source PDF
+    capriolo.json
+    cervo.json
+    ...
 images/
-  capriolo/                  ← topic-scoped images
-    skull-side.jpg
-  ...
+  Anatomia_e_Biologia/             ← optional, topic-scoped images
+    capriolo-skull.jpg
 docs/
-  capriolo/                  ← source PDFs (and any extracted images)
-    anatomia.pdf
+  Anatomia_e_Biologia/             ← source PDFs (same folder name as above)
+    9 DAINO.pdf
+    3. CAPRIOLO GEN FATTO.pdf
 ```
 
 ### `questions/index.json`
@@ -38,7 +42,7 @@ The manifest can use one of two shapes. **Pick whichever fits your folder layout
 ]
 ```
 
-**Nested form** — a topic can group several species/source files under a subfolder (e.g. `questions/anatomia/daino.json`, `questions/anatomia/capriolo.json`):
+**Nested form (the one this project uses)** — a `topic` groups several species/source files that live in a subfolder. The website shows one checkbox per `species` under the `label`, so each species is independently selectable:
 
 ```json
 {
@@ -47,15 +51,17 @@ The manifest can use one of two shapes. **Pick whichever fits your folder layout
       "topic": "anatomia",
       "label": "Anatomia e biologia",
       "files": [
-        { "species": "Daino (Dama dama)",      "file": "anatomia/daino.json",      "source": "docs/anatomia/DAINO.pdf" },
-        { "species": "Capriolo (Capreolus c.)", "file": "anatomia/capriolo.json",   "source": "docs/anatomia/CAPRIOLO.pdf" }
+        { "species": "Daino (Dama dama)",       "file": "Anatomia_e_Biologia/daino.json",    "source": "docs/Anatomia_e_Biologia/9 DAINO.pdf",              "count": 60 },
+        { "species": "Capriolo (Capreolus c.)", "file": "Anatomia_e_Biologia/capriolo.json", "source": "docs/Anatomia_e_Biologia/3. CAPRIOLO GEN FATTO.pdf", "count": 30 }
       ]
     }
   ]
 }
 ```
 
-Values declared at the manifest level (`topic`, `species`, `source`) are inherited by every question in that file when not already set on the question itself. The website builds its topic dropdown from the union of all `topic` values — add an entry whenever you introduce a new file.
+Per-file manifest fields: `species` (label shown on the checkbox and tagged on each card), `file` (path **relative to `questions/`**, i.e. `<Topic_Folder>/<species>.json`), `source` (the source PDF path, for your reference), and `count` (how many questions the file holds — keep it in sync). Values declared at the manifest level (`topic`, `species`, `source`) are inherited by a question only when that question doesn't set them itself.
+
+> **⚠️ Always update `index.json`.** Generating a new `questions/<Topic_Folder>/<species>.json` file is **not enough** — the website only loads files listed in `index.json`. For every new file, add one `{ species, file, source, count }` entry to the matching topic's `files` array (create the topic block if it's the first file of a new macro-topic). After adding it, reload `index.html` and confirm the new species appears in the **Argomenti** list.
 
 ### `questions/<topic>.json`
 
@@ -71,6 +77,7 @@ Either a flat array of question objects, or `{ "questions": [...] }`. The flat a
   "topic": "capriolo",                  // OPTIONAL — inferred from index.json if absent
   "species": "Capreolus capreolus",     // OPTIONAL — Latin name or common name
   "question": "Perché …?",              // REQUIRED, Italian
+  "suggestion": "Pensa a …",            // OPTIONAL but encouraged — a foldable hint, Italian
   "options": [                          // REQUIRED, 2 to 4 entries, Italian
     "Opzione A",
     "Opzione B",
@@ -91,6 +98,7 @@ Either a flat array of question objects, or `{ "questions": [...] }`. The flat a
 | `id`           | Globally unique across **all** topic files. Format: `<topic>-<area>-<slug>-<3digit>`, e.g. `capriolo-anat-mandibola-007`. NEVER reuse an id, even after a question is rewritten — bump the trailing number. The site uses `id` to track "already seen". |
 | `topic`        | Lowercase, no spaces, hyphens allowed. Must match the folder name under `docs/` and the `topic` value in `index.json`. |
 | `question`     | Italian, single sentence, ends with `?`. No "as seen above" / "in the previous question". Stand-alone. |
+| `suggestion`   | Italian, one short foldable **hint**. Nudges the student toward the answer **without revealing it** — point at the concept, mechanism, or where to look (e.g. "Pensa alla strategia alimentare da 'concentrate selector'."). NEVER name or quote the correct option, never say "la risposta è…". One sentence. Optional but encouraged on every question. The site shows it as a collapsible "💡 Suggerimento" the student can open before answering. |
 | `options`      | 2–4 plausible answers. Distractors must come from the **same domain**: other huntable species, related anatomical structures, plausible-but-wrong mechanisms. **No** "tutte le precedenti" / "nessuna delle precedenti". |
 | `correctIndex` | Integer in `[0, options.length - 1]`. |
 | `explanation`  | One short paragraph explaining **why** the answer is correct (and ideally why the others are not). Italian. |
@@ -120,6 +128,8 @@ Guidelines:
 - When asking about an image, the question must reference what is visible (`"Quale struttura è indicata dalla freccia?"`) and the `image` field must be set.
 - 2–4 options. Three is the sweet spot — four only when you have four genuinely plausible answers.
 
+**The `suggestion` (hint):** a single Italian sentence that helps a stuck student *reason toward* the answer, never one that hands it over. Good hints point at the underlying concept ("Ricorda la differenza tra corna cave permanenti e palchi ossei caduchi."), the place to look, or the kind of mechanism involved. Bad hints restate the question, name the correct option, or are so vague they help nobody ("Pensaci bene."). For a trabocchetto/borderline question, the hint can flag that a precise value or a subtle distinction is at stake — without saying which option is the trap.
+
 ---
 
 ## 4. Worked example
@@ -137,6 +147,7 @@ Three well-formed questions:
     "topic": "capriolo",
     "species": "Capreolus capreolus",
     "question": "Perché il capriolo è classificato come 'concentrate selector'?",
+    "suggestion": "Pensa alla qualità del cibo che cerca, non alla quantità: cosa hanno in comune germogli, gemme e foglie tenere?",
     "options": [
       "Si nutre di grandi quantità di erbe fibrose come il cervo nobile",
       "Seleziona attivamente germogli e gemme ad alto contenuto proteico",
@@ -152,6 +163,7 @@ Three well-formed questions:
     "topic": "capriolo",
     "species": "Capreolus capreolus",
     "question": "Per quale ragione il rumine del capriolo è più piccolo rispetto a quello del cervo nobile?",
+    "suggestion": "Collega il volume dell'organo fermentativo al tipo di dieta: un alimento molto digeribile richiede meno fermentazione.",
     "options": [
       "Perché il capriolo è una specie più giovane dal punto di vista evolutivo",
       "Perché si alimenta di vegetali altamente digeribili e ricchi di proteine",
@@ -167,6 +179,7 @@ Three well-formed questions:
     "topic": "capriolo",
     "species": "Capreolus capreolus",
     "question": "Quale caratteristica della bocca del capriolo riflette il suo comportamento alimentare?",
+    "suggestion": "Una bocca fatta per selezionare singoli bocconi è diversa da una fatta per strappare grandi ciuffi d'erba.",
     "options": [
       "Bocca larga con lingua prensile, utile a strappare l'erba",
       "Bocca stretta con labbro superiore prensile, utile a selezionare singoli germogli",
@@ -191,11 +204,12 @@ Run through this list before adding a new batch:
 - [ ] Every question has 2–4 options and a valid `correctIndex`.
 - [ ] No "tutte le precedenti" / "nessuna delle precedenti".
 - [ ] Distractors are domain-plausible, not throwaways.
+- [ ] Each `suggestion` (when present) is a real hint and does **not** reveal or name the correct option.
 - [ ] No question depends on another ("come visto sopra").
 - [ ] Every question carries a `source` pointing at the PDF and page.
 - [ ] If `image` is set, the file exists at the given path and is committed to `images/<topic>/`.
 - [ ] No invented biological facts — if a claim is not in the PDF, drop the question or mark `"source": "PLACEHOLDER — replace with real PDF content"`.
-- [ ] `questions/index.json` lists the new topic file.
+- [ ] `questions/index.json` has an entry for the new file — correct `file` path (`<Topic_Folder>/<species>.json`), `species`, `source`, and a `count` matching the number of questions in the file.
 - [ ] Open `index.html`, pick the topic from the dropdown, and walk through every new question once.
 
 ---

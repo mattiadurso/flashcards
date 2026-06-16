@@ -1,0 +1,410 @@
+[
+  {
+    "id": "volpe-001",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "A quale famiglia appartiene la volpe rossa, di cui condivide la parentela con cani e lupi pur essendosene separata precocemente?",
+    "suggestion": "Cane e lupo non sono felini né orsi: pensa al gruppo di carnivori che porta nel nome la radice latina di \"cane\".",
+    "options": [
+      "Felidae",
+      "Mustelidae",
+      "Canidae",
+      "Ursidae"
+    ],
+    "correctIndex": 2,
+    "explanation": "La filogenesi mostra che la volpe è un canide (famiglia Canidae), genere Vulpes, specie Vulpes vulpes, quindi parente di cani e lupi; si è però separata precocemente da queste linee seguendo un'evoluzione propria. Felidae, Mustelidae e Ursidae sono altre famiglie di carnivori non pertinenti.",
+    "difficulty": "easy",
+    "source": "20 volpe rossa.pdf p.1"
+  },
+  {
+    "id": "volpe-002",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale primato ecologico detiene la volpe rossa tra tutti i carnivori?",
+    "suggestion": "Non si parla di forza o velocità, ma di quanto spazio occupa sul pianeta: rifletti su quale primato riguarda la sua diffusione geografica.",
+    "options": [
+      "Il più grande peso corporeo medio",
+      "Il maggior numero di cuccioli per parto",
+      "La maggiore velocità di corsa",
+      "Il più ampio range geografico (circa 70 milioni di km²)"
+    ],
+    "correctIndex": 3,
+    "explanation": "La volpe rossa ha il più ampio range geografico tra tutti i carnivori, coprendo circa 70 milioni di km² e distribuendosi nell'intero emisfero nord, dal Circolo artico al Nord Africa, America centrale e steppe asiatiche. Le altre opzioni non sono primati attribuiti alla volpe nel testo.",
+    "difficulty": "easy",
+    "source": "20 volpe rossa.pdf p.2"
+  },
+  {
+    "id": "volpe-003",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "In quale dei seguenti ambienti la volpe rossa NON è presente?",
+    "suggestion": "Tra le quattro, individua l'unica isola del Nord estremo e ricorda che le terre artiche più isolate le sono precluse.",
+    "options": [
+      "Steppe asiatiche",
+      "Nord Africa",
+      "Islanda",
+      "America centrale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il testo specifica che la volpe non è presente in Islanda e nelle isole artiche, oltre che in qualche parte della Siberia o in zone estremamente desertiche. Steppe asiatiche, Nord Africa e America centrale rientrano invece nella sua vasta distribuzione.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.2"
+  },
+  {
+    "id": "volpe-004",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché le sottospecie meridionali di volpe rossa, diffuse nei deserti dell'Asia e del Medio Oriente, si distinguono da quelle settentrionali?",
+    "suggestion": "Collega il clima caldo e desertico alla taglia: come cambiano in genere le dimensioni corporee verso sud?",
+    "options": [
+      "Hanno dimensioni più piccole",
+      "Hanno la coda priva di estremità bianca",
+      "Sono prive di pelliccia rossiccia",
+      "Hanno orecchie più corte e tozze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Delle circa 45 sottospecie note, le volpi rosse meridionali, diffuse nei deserti dell'Asia e del Medio Oriente, sono più piccole, mentre le settentrionali sono di dimensioni maggiori. Le altre differenze proposte non sono indicate dal testo come criterio di distinzione tra i due gruppi.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.4"
+  },
+  {
+    "id": "volpe-005",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale carenza ne giustifica l'aspetto grigiastro alla base delle orecchie, sulle spalle e sui lati del corpo della volpe rossa?",
+    "suggestion": "Un tono grigio nasce dalla mescolanza ottica di pelo: pensa a quali colori di peli, combinati, danno quella sfumatura.",
+    "options": [
+      "L'usura stagionale del pelo",
+      "La presenza di peli neri e bianchi",
+      "La maggiore esposizione al sole",
+      "Il deposito di carotenoidi nella pelliccia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il tono grigiastro alla base delle orecchie, sulle spalle e sui lati del corpo è dovuto alla presenza di peli neri e bianchi. I carotenoidi sono invece citati nel testo in relazione alla fluorescenza della ghiandola violetta, non alla colorazione grigiastra del mantello.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.4"
+  },
+  {
+    "id": "volpe-006",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché non è possibile asportare la ghiandola violetta (sopracaudale) per «deodorizzare» una volpe?",
+    "suggestion": "Se non la si può togliere, vuol dire che fa qualcosa di vitale oltre all'odore: pensa a un suo ruolo nel metabolismo e negli ormoni.",
+    "options": [
+      "Ha un ruolo nel metabolismo e probabilmente nella produzione di ormoni steroidei",
+      "È troppo profonda per essere raggiunta chirurgicamente",
+      "Si rigenera completamente in pochi giorni",
+      "È collegata direttamente al sistema digerente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ghiandola violetta non può essere asportata per deodorizzare la volpe a causa del suo ruolo nel metabolismo (e probabilmente nella produzione) di ormoni steroidei. Le altre motivazioni non compaiono nel testo.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.7"
+  },
+  {
+    "id": "volpe-007",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "A quale ipotesi viene ricondotta la fluorescenza sotto luce ultravioletta delle secrezioni della ghiandola violetta della volpe?",
+    "suggestion": "Distingui ciò che riguarda il metabolismo della ghiandola da ciò che fa brillare le secrezioni: cerca un pigmento, non un ormone.",
+    "options": [
+      "Alla presenza di carotenoidi",
+      "Alla presenza di ormoni steroidei",
+      "Alla presenza di melanina",
+      "Alla presenza di peli neri e bianchi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le secrezioni della ghiandola violetta risultano fluorescenti sotto luce ultravioletta per cause ancora sconosciute, e si ipotizza che ciò sia dovuto alla presenza di carotenoidi. Gli ormoni steroidei riguardano invece il metabolismo della ghiandola, non la fluorescenza.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.7"
+  },
+  {
+    "id": "volpe-008",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Qual è la funzione principale della ghiandola violetta nella volpe rossa?",
+    "suggestion": "La ghiandola produce il forte odore tipico della volpe: a cosa serve un segnale odoroso tra individui e sul territorio?",
+    "options": [
+      "Regolare la temperatura corporea",
+      "Produrre il latte per i cuccioli",
+      "Facilitare la comunicazione intra-specifica e la marcatura del territorio",
+      "Espellere le tossine assunte con il cibo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La funzione principale della ghiandola violetta è facilitare la comunicazione intra-specifica e la marcatura del territorio, contribuendo in particolare al forte odore tipico delle volpi. Le altre funzioni non sono attribuite a questa ghiandola nel testo.",
+    "difficulty": "easy",
+    "source": "20 volpe rossa.pdf p.7"
+  },
+  {
+    "id": "volpe-009",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Qual è la formula dentaria della volpe rossa, che corrisponde a un totale di 42 denti?",
+    "suggestion": "Parti dal totale di 42 e ricorda che incisivi e canini sono fissi: il dubbio sta nel numero di premolari e molari, che deve far quadrare la somma.",
+    "options": [
+      "I 3/3 C 1/1 Pm 3/3 M 2/2",
+      "I 3/3 C 1/1 Pm 4/4 M 2/3",
+      "I 3/3 C 1/1 Pm 4/4 M 3/3",
+      "I 2/2 C 1/1 Pm 4/4 M 2/2"
+    ],
+    "correctIndex": 1,
+    "explanation": "La formula dentaria della volpe è I 3-3/3-3, C 1-1/1-1, Pm 4-4/4-4, M 2-2/3-3 = 42. I denti sono relativamente piccoli ma acuti, con canini lunghi e snelli. Le altre formule non corrispondono al conteggio totale di 42 denti indicato nel testo.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.8"
+  },
+  {
+    "id": "volpe-010",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale caratteristica del cranio della volpe rossa viene evidenziata come distintiva?",
+    "suggestion": "Pensa al profilo del muso visto di lato: la regione sopra le orbite è bombata o quasi piatta? E ricorda che cresta e bolle ci sono.",
+    "options": [
+      "Una zona sopraorbitale pochissimo sopraelevata rispetto al muso (cranio piatto)",
+      "Una zona sopraorbitale fortemente sopraelevata e bombata",
+      "L'assenza di cresta sagittale",
+      "L'assenza di bolle timpaniche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cranio della volpe la zona sopraorbitale è pochissimo sopraelevata rispetto al muso (cranio piatto); sono inoltre presenti la cresta sagittale e le bolle timpaniche. L'opzione di una zona fortemente sopraelevata e quelle che negano la presenza di cresta sagittale o bolle timpaniche sono errate.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.13"
+  },
+  {
+    "id": "volpe-011",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quante dita possiede la volpe rossa, animale digitigrado, rispettivamente negli arti anteriori e posteriori?",
+    "suggestion": "Negli arti posteriori dei canidi un dito è spesso ridotto o assente: confronta quante dita restano dietro rispetto a quelle davanti.",
+    "options": [
+      "4 anteriori e 4 posteriori",
+      "4 anteriori e 5 posteriori",
+      "5 anteriori e 5 posteriori",
+      "5 anteriori e 4 posteriori"
+    ],
+    "correctIndex": 3,
+    "explanation": "La volpe è digitigrada con 5 dita negli arti anteriori e 4 nei posteriori. La morfologia dei canidi riflette primariamente l'adattamento alla corsa, basata sull'inseguimento della preda. Le altre combinazioni non corrispondono ai valori del testo.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.14"
+  },
+  {
+    "id": "volpe-012",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale criterio permette di distinguere l'impronta della volpe da quella del cane?",
+    "suggestion": "Concentrati sui cuscinetti centrali e laterali: il criterio riguarda una linea ideale tra le punte laterali e se questa tocca o no i mediani.",
+    "options": [
+      "Nella volpe la linea che unisce l'apice dei cuscinetti laterali normalmente non interseca i cuscinetti mediani",
+      "L'impronta della volpe ha cinque cuscinetti digitali ben visibili",
+      "L'impronta della volpe è più arrotondata di quella del cane",
+      "Le tracce della volpe nel movimento sono disordinate e con frequenti deviazioni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le impronte della volpe si distinguono da quelle del cane perché la linea che unisce l'apice dei cuscinetti laterali normalmente non interseca i cuscinetti mediani. È invece l'impronta del cane a essere più arrotondata e con andatura disordinata, mentre le tracce della volpe sono ben allineate.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.14"
+  },
+  {
+    "id": "volpe-013",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché le unghie della volpe rappresentano un compromesso funzionale?",
+    "suggestion": "\"Compromesso\" significa buone per una cosa ma non per un'altra: collega lo scavo della tana al fatto che non può bloccare la preda.",
+    "options": [
+      "Sono robuste da scavare tane ma non abbastanza forti da immobilizzare le prede",
+      "Sono retrattili come nei felidi ma fragili nella corsa",
+      "Sono lunghe per arrampicarsi ma inutili nello scavo",
+      "Sono curve per afferrare la preda ma inadatte alla difesa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le unghie sono abbastanza robuste da permettere di scavare tane o cercare piccoli animali, ma non abbastanza forti da immobilizzare le prede; la loro lunghezza è inoltre tale da non ostacolare un movimento silenzioso ed efficace durante caccia o fuga. La volpe è inoltre poco abile nell'arrampicarsi sugli alberi.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.16"
+  },
+  {
+    "id": "volpe-014",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale caratteristica distingue gli escrementi (\"fatte\") della volpe rossa?",
+    "suggestion": "Pensa a una forma allungata con un'estremità che si assottiglia, e ricorda che vi restano resti di cibo: scarta ciò che nega ogni residuo.",
+    "options": [
+      "Forma sferica e priva di resti animali",
+      "Forma cilindrica, lunghezza 5-10 cm, con un'estremità a punta aguzza",
+      "Colore sempre bianco indipendentemente dalla dieta",
+      "Assenza di resti vegetali in qualsiasi stagione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le fatte hanno colore variabile dal grigio al nero, forma cilindrica, lunghezza 5-10 cm, diametro 2-2,5 cm e terminano a un'estremità con una punta aguzza; vi si riconoscono resti di penne, peli, ossa e, soprattutto in primavera, parti non digerite di frutta, il cui colore può variare a seconda della frutta mangiata.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.17"
+  },
+  {
+    "id": "volpe-015",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché la volpe è definita un predatore opportunista?",
+    "suggestion": "\"Opportunista\" si riferisce alla flessibilità: come si comporta la dieta quando ciò che è disponibile nell'ambiente cambia?",
+    "options": [
+      "Perché caccia esclusivamente in branco come il lupo",
+      "Perché adatta la propria dieta in base alla disponibilità di cibo nell'ambiente",
+      "Perché si nutre solo di carogne già morte",
+      "Perché preda unicamente piccoli mammiferi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La volpe è un predatore opportunista perché adatta la propria dieta in base alla disponibilità di cibo nell'ambiente; ciò le consente di sopravvivere anche quando alcune risorse scarseggiano, sfruttando fonti alternative come rifiuti di discariche e cassonetti. È inoltre un predatore solitario, non di branco.",
+    "difficulty": "easy",
+    "source": "20 volpe rossa.pdf p.18"
+  },
+  {
+    "id": "volpe-016",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "In che modo la disponibilità di cibo influenza l'estensione dell'home range della volpe?",
+    "suggestion": "Ragiona per necessità: se trovare cibo è difficile, deve cercarlo su un'area più grande o più piccola?",
+    "options": [
+      "Se il cibo è abbondante il territorio è più ampio",
+      "Il territorio è sempre di dimensione fissa indipendentemente dal cibo",
+      "L'home range non dipende dalla disponibilità di cibo",
+      "Se il cibo è scarso il territorio è più ampio"
+    ],
+    "correctIndex": 3,
+    "explanation": "La volpe è territoriale e l'estensione dell'home range dipende dalla disponibilità di cibo: se il cibo è scarso il territorio è più ampio, se è abbondante è più ridotto. Situazioni di grande disponibilità (discariche, immissioni di selvaggina) possono portare a elevate concentrazioni di individui.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.18"
+  },
+  {
+    "id": "volpe-017",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale comportamento descrive la tecnica di caccia detta \"balzo del topo\"?",
+    "suggestion": "Il nome evoca un roditore e un salto: immagina la volpe che si ferma, prende la mira e piomba dall'alto sulla preda.",
+    "options": [
+      "La volpe scava velocemente per raggiungere la preda sotto terra",
+      "La volpe insegue la preda in coppia lungo un percorso rettilineo",
+      "La volpe individua la preda, si immobilizza e poi salta in alto per piombarle addosso",
+      "La volpe si finge morta per attirare la preda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel \"balzo del topo\" la volpe individua la preda (es. un roditore), si immobilizza e poi salta in alto per piombarle addosso. Il fingersi morta è invece una tecnica distinta, usata per catturare animali che si nutrono di carogne.",
+    "difficulty": "easy",
+    "source": "20 volpe rossa.pdf p.20"
+  },
+  {
+    "id": "volpe-018",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale senso, particolarmente sviluppato nella volpe, le permette di percepire piccoli animali anche sotto terra o sotto la neve?",
+    "suggestion": "Per percepire qualcosa di nascosto sotto terra o neve servono i suoni che produce: quale senso capta i rumori a distanza?",
+    "options": [
+      "L'udito",
+      "L'olfatto",
+      "La vista",
+      "Il tatto delle vibrisse"
+    ],
+    "correctIndex": 0,
+    "explanation": "La volpe possiede un udito molto sviluppato che le permette di sentire piccoli animali anche sotto terra o sotto la neve. L'olfatto serve a localizzare le prede e la vista è utile soprattutto al crepuscolo e di notte, ma è l'udito a consentire la percezione sotto terra o neve.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.20"
+  },
+  {
+    "id": "volpe-019",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché l'accoppiamento della volpe avviene circa 51-52 giorni prima del periodo più favorevole dell'anno?",
+    "suggestion": "Collega l'anticipo di circa due mesi al momento della nascita: in che stagione conviene che nascano i piccoli rispetto al cibo disponibile?",
+    "options": [
+      "Per evitare la competizione con altri carnivori",
+      "Per ridurre il rischio di trasmissione della rabbia",
+      "Per sincronizzarsi con la muta del mantello",
+      "Affinché i piccoli nascano quando le risorse alimentari sono maggiori e le prede più vulnerabili"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il ciclo riproduttivo è sincronizzato con l'ambiente: l'accoppiamento avviene circa 51-52 giorni prima del periodo più favorevole, così i piccoli nascono quando le risorse alimentari sono maggiori e le prede sono più vulnerabili (meno esperte). Le altre motivazioni non compaiono nel testo.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.26"
+  },
+  {
+    "id": "volpe-020",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Con quale specie la volpe può talvolta condividere la propria tana?",
+    "suggestion": "Cerca un carnivoro scavatore non mustelide che costruisce gallerie sotterranee: con quale grande scavatore potrebbe coabitare?",
+    "options": [
+      "La faina",
+      "La martora",
+      "Il tasso",
+      "La donnola"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tana della volpe è una struttura complessa fatta di numerose gallerie con una camera centrale, può trovarsi fino a 3 metri di profondità ed è talvolta condivisa con il tasso. Faina, martora e donnola sono mustelidi citati altrove nel testo (monitoraggio rabbia), ma non come coinquilini della tana.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.29"
+  },
+  {
+    "id": "volpe-021",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché in passato le campagne di abbattimento (\"sfoltimento\") delle popolazioni di volpi non hanno avuto successo duraturo contro la rabbia silvestre?",
+    "suggestion": "La rabbia silvestre dipende dalla densità di volpi, eppure ridurle non basta: pensa a quanto in fretta la specie ricostituisce i suoi numeri.",
+    "options": [
+      "Perché l'efficienza del ciclo riproduttivo della volpe compensa rapidamente le perdite numeriche",
+      "Perché il virus non si trasmette tramite morsicatura",
+      "Perché la rabbia non è densità-dipendente",
+      "Perché le volpi abbattute erano già immuni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli abbattimenti non hanno ottenuto risultati a lungo termine perché l'efficienza del ciclo riproduttivo della volpe le permette di compensare rapidamente perdite numeriche anche consistenti. La rabbia silvestre è invece proprio densità-dipendente, e questo motiva le campagne di sfoltimento, rivelatesi però inefficaci.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.36"
+  },
+  {
+    "id": "volpe-022",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Una persona afferma che il cimurro, come la rabbia, sia una zoonosi trasmissibile all'uomo dalla volpe. Qual è la risposta corretta secondo il testo?",
+    "suggestion": "Attenzione al tranello: la rabbia colpisce l'uomo, ma chiediti se ciò vale davvero anche per il cimurro o se questo resta tra gli animali.",
+    "options": [
+      "È corretto: entrambe sono zoonosi trasmissibili all'uomo",
+      "È errato: il cimurro non è una zoonosi, a differenza della rabbia",
+      "È errato: nessuna delle due malattie colpisce l'uomo",
+      "È corretto, ma solo la rabbia si trasmette tramite saliva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trabocchetto: la rabbia è mortale per l'uomo e si trasmette tramite morsicatura, leccatura di pelle non integra o contatto della saliva con le mucose. Il cimurro invece NON è una zoonosi, cioè non si trasmette all'uomo, pur colpendo carnivori selvatici e potendo infettare canidi domestici e mustelidi.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf pp.36-39"
+  },
+  {
+    "id": "volpe-023",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale metodo permette di stimare con maggiore precisione l'età della volpe basandosi su una deposizione annuale?",
+    "suggestion": "Cerca un tessuto che si accresce per strati ogni anno, come gli anelli di un tronco: dove si depositano queste linee annuali nel dente?",
+    "options": [
+      "Il peso e il colore del mantello",
+      "La conta degli strati (linee scure) di cemento dentale",
+      "Il peso del cristallino deidratato",
+      "L'esame ai raggi X dei canini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il metodo più preciso si basa sulla conta degli strati (linee scure) di cemento dentale: il cemento si deposita annualmente e ogni linea corrisponde circa a un anno di vita. Il peso e colore del mantello sono poco discriminanti; raggi X dei canini e peso del cristallino deidratato sono affidabili soprattutto per distinguere i giovani (meno di ~15 mesi), ma meno precisi.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.33"
+  },
+  {
+    "id": "volpe-024",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Secondo i dati di sviluppo dei giovani riportati nel testo, a che età i cuccioli di volpe diventano indipendenti?",
+    "suggestion": "Trabocchetto sui valori esatti: l'indipendenza vera è precedente alle tappe di agosto-settembre; controlla con cura se il numero giusto è davvero tra le opzioni elencate.",
+    "options": [
+      "A 2 mesi",
+      "A 30 giorni",
+      "A 5-7 mesi",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trabocchetto: secondo la tabella di sviluppo dei giovani l'indipendenza è raggiunta a 4 mesi, valore non presente tra le opzioni. A 2 mesi (fine svezzamento) e a 30 giorni (inizio alimentazione con cibi solidi) si collocano altre tappe; a 5-7 mesi (agosto-settembre) i giovani hanno già diverse piccole aree di attività, ma l'indipendenza vera e propria è precedente.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.31"
+  }
+]

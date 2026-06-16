@@ -9,13 +9,15 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Giud Studia — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=8" />
+  <link rel="stylesheet" href="styles.css?v=12" />
 </head>
 <body>
   <header class="topbar">
     <div class="topbar-row">
       <h1 class="title">Giud Studia</h1>
       <div class="top-actions">
+        <button id="new-session-btn" class="ghost-btn"
+                title="Cambia argomenti, difficoltà o numero di domande" hidden>‹ Nuova sessione</button>
         <button id="restore-flagged-btn" class="ghost-btn ghost-btn--warn"
                 title="Ripristina le domande segnalate come errate" hidden>
           Ripristina segnalate <span id="flagged-count" class="badge"></span>
@@ -23,24 +25,7 @@
         <button id="reset-btn" class="ghost-btn" title="Reset progress">Reset progress</button>
       </div>
     </div>
-    <div class="filters">
-      <label class="field">
-        <span>Topic</span>
-        <select id="topic-select">
-          <option value="__all__">All</option>
-        </select>
-      </label>
-      <label class="field" id="difficulty-field" hidden>
-        <span>Difficulty</span>
-        <select id="difficulty-select">
-          <option value="__all__">All</option>
-          <option value="easy">Easy</option>
-          <option value="medium">Medium</option>
-          <option value="hard">Hard</option>
-        </select>
-      </label>
-    </div>
-    <div class="progress">
+    <div class="progress" id="progress" hidden>
       <div class="progress-meta">
         <span id="counter">0 / 0</span>
         <span id="score">Score: 0</span>
@@ -50,7 +35,44 @@
   </header>
 
   <main id="main" class="main">
-    <section id="card-container" class="card-container">
+    <section id="setup-screen" class="setup-screen">
+      <article class="card setup-card">
+        <h2 class="setup-title">Imposta la sessione</h2>
+
+        <div class="setup-field">
+          <label class="setup-label">Argomenti</label>
+          <div class="multiselect">
+            <button type="button" id="topics-toggle" class="multiselect-toggle"
+                    aria-haspopup="true" aria-expanded="false">
+              <span id="topics-summary">Tutti</span>
+            </button>
+            <div id="topics-panel" class="multiselect-panel" hidden></div>
+          </div>
+        </div>
+
+        <div class="setup-field" id="difficulty-field" hidden>
+          <label class="setup-label">Difficoltà</label>
+          <select id="difficulty-select">
+            <option value="__all__">Tutte</option>
+            <option value="easy">Facile</option>
+            <option value="medium">Media</option>
+            <option value="hard">Difficile</option>
+          </select>
+        </div>
+
+        <div class="setup-field">
+          <label class="setup-label">Numero di domande</label>
+          <div class="count-control">
+            <div class="count-presets" id="count-presets"></div>
+          </div>
+          <p class="count-hint" id="count-hint"></p>
+        </div>
+
+        <button id="start-btn" class="primary-btn setup-start">Inizia</button>
+      </article>
+    </section>
+
+    <section id="card-container" class="card-container" hidden>
       <article id="card" class="card" aria-live="polite">
         <div id="image-wrap" class="image-wrap" hidden>
           <img id="card-image" alt="" />
@@ -63,6 +85,13 @@
           </button>
         </div>
         <h2 id="question-text" class="question-text">Loading…</h2>
+        <details id="suggestion-box" class="suggestion-box" hidden>
+          <summary class="suggestion-summary">
+            <span class="suggestion-summary-label">💡 Suggerimento</span>
+            <span class="suggestion-chevron" aria-hidden="true"></span>
+          </summary>
+          <p id="suggestion" class="suggestion"></p>
+        </details>
         <div id="options" class="options"></div>
         <div id="feedback" class="feedback" hidden>
           <details id="explanation-box" class="explanation-box">
@@ -86,6 +115,10 @@
           <p id="praise-msg" class="praise-msg"></p>
           <div id="praise-score" class="praise-score"></div>
         </div>
+        <div id="breakdown" class="breakdown" hidden>
+          <h3 class="breakdown-title">Per argomento</h3>
+          <div id="breakdown-list"></div>
+        </div>
         <button id="restart-btn" class="primary-btn">Restart</button>
       </article>
     </section>
@@ -94,8 +127,9 @@
       <article class="card">
         <h2>No questions to show</h2>
         <p id="empty-summary" class="end-summary">
-          Add a topic file under <code>questions/</code> and list it in
-          <code>questions/index.json</code>.
+          Nessuna domanda per questa selezione. Tocca «‹ Nuova sessione» e scegli
+          almeno un argomento — oppure aggiungi un file in <code>questions/</code> e
+          registralo in <code>questions/index.json</code>.
         </p>
       </article>
     </section>
@@ -106,6 +140,6 @@
   </div>
 
   <script src="praise.js?v=2"></script>
-  <script src="app.js?v=6"></script>
+  <script src="app.js?v=13"></script>
 </body>
 </html>

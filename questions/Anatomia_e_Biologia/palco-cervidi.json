@@ -1,0 +1,682 @@
+[
+  {
+    "id": "palco-cervidi-001",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quale caratteristica distingue il palco dei cervidi dalle corna cheratinose dei bovini?",
+    "suggestion": "Pensa a cosa succede al palco ogni anno, a differenza del corno dei bovini che resta sempre sulla testa.",
+    "options": [
+      "È deciduo, cioè cade e si rigenera ogni anno",
+      "È formato di sola cheratina",
+      "Non viene mai vascolarizzato",
+      "È presente solo nelle femmine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il palco dei cervidi è deciduo: presenta cicli annuali di rigenerazione, proliferazione, mineralizzazione e assemblaggio, mentre il corno dei bovini è una struttura cheratinosa permanente. Non è di cheratina (è osso), viene riccamente vascolarizzato durante la crescita ed è di norma presente nei maschi.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.1"
+  },
+  {
+    "id": "palco-cervidi-002",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Da cosa è ricoperto il palco mentre sta crescendo o rigenerando?",
+    "suggestion": "Si tratta di una pelle con sottili peli, il cui nome ricorda un tessuto morbido.",
+    "options": [
+      "Da una guaina di cheratina",
+      "Da osso compatto nudo",
+      "Dal velluto, una pelle con sottili peli",
+      "Da uno strato di muco"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante la crescita il palco è coperto da pelle ricca di sottili peli detta velluto; quando la crescita termina il velluto muore e cade. Il palco non è di cheratina e l'osso resta nudo solo dopo la pulitura.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.1"
+  },
+  {
+    "id": "palco-cervidi-003",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "In quale specie di cervide il palco si sviluppa normalmente anche nelle femmine?",
+    "suggestion": "È un cervide nordico adattato alla tundra, l'unica eccezione alla regola del palco solo maschile.",
+    "options": [
+      "Cervo rosso",
+      "Capriolo",
+      "Renna",
+      "Daino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei cervidi il palco è generalmente presente solo nei maschi; l'unica eccezione è la renna, in cui si sviluppa anche nelle femmine. In cervo, capriolo e daino le femmine ne sono prive, salvo rari casi (~1%) legati ad alterazioni ormonali.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.1"
+  },
+  {
+    "id": "palco-cervidi-004",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Perché in rari casi (circa 1%) il palco può comparire anche in femmine di specie diverse dalla renna?",
+    "suggestion": "L'eccezione dipende da uno squilibrio dell'ormone sessuale che di norma guida lo sviluppo del palco nei maschi.",
+    "options": [
+      "Per carenza di calcio nella dieta",
+      "Per eccesso di melatonina",
+      "Per traumi al cranio",
+      "Per alterazioni ormonali con aumento del testosterone"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nel ~1% dei casi il palco compare in femmine di altre specie a causa di alterazioni ormonali con aumento del testosterone, l'ormone che nei maschi guida la formazione del palco. La carenza di calcio o l'eccesso di melatonina non inducono la comparsa del palco.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.1"
+  },
+  {
+    "id": "palco-cervidi-005",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Secondo una delle ipotesi funzionali, perché il velluto del palco aiuterebbe l'animale a disperdere il calore in eccesso?",
+    "suggestion": "Considera la grande superficie del palco in crescita e i vasi sanguigni periferici che lo percorrono.",
+    "options": [
+      "Perché irradia calore grazie alla notevole superficie e ai vasi sanguigni periferici",
+      "Perché contiene ghiandole sudoripare attive",
+      "Perché riflette i raggi solari",
+      "Perché evapora acqua dalle punte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Secondo questa ipotesi il palco in velluto irradia calore all'aria circostante grazie alla sua notevole superficie e all'estensione dei vasi sanguigni periferici, tanto che la temperatura è maggiore sulla cima delle punte. Non si tratta di sudorazione né di evaporazione.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.2"
+  },
+  {
+    "id": "palco-cervidi-006",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quale ipotesi sulla funzione del palco è coerente con il fatto che esso cresce immediatamente prima della stagione degli amori?",
+    "suggestion": "Pensa a cosa serve ai maschi proprio nel periodo riproduttivo, quando competono fra loro.",
+    "options": [
+      "Disperdere feromoni come proiettori olfattivi",
+      "Servire da arma nei combattimenti tra maschi",
+      "Dissipare il calore estivo",
+      "Attirare i predatori lontano dalle femmine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fatto che il palco cresca subito prima della stagione degli amori supporta l'ipotesi che funzioni come arma nei combattimenti tra maschi. Le ipotesi del proiettore olfattivo o della dispersione del calore non spiegano questa sincronia con il periodo riproduttivo.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.2"
+  },
+  {
+    "id": "palco-cervidi-007",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Come si chiama il supporto osseo permanente dell'osso frontale su cui si fissa il palco?",
+    "suggestion": "È il rilievo che cresce alla sommità del capo tra le due orecchie e da cui ogni anno riparte il nuovo palco.",
+    "options": [
+      "La rosa",
+      "La perla",
+      "Lo stelo (o peduncolo)",
+      "Il mediano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo stelo, o peduncolo o supporto, è la protuberanza permanente dell'osso frontale che cresce tra le orecchie e su cui si impianta il palco. La rosa è il rigonfiamento basale della stanga, le perle sono escrescenze sulla stanga e il mediano è una punta.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.5"
+  },
+  {
+    "id": "palco-cervidi-008",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "A cosa deve il proprio nome la \"rosa\" del palco?",
+    "suggestion": "Il termine richiama un fiore osseo aperto, i cui petali corrispondono a piccole escrescenze calcificate.",
+    "options": [
+      "Al colore rossastro dopo la pulitura",
+      "Al profumo emanato dalle ghiandole",
+      "Alla posizione vicino alle orecchie",
+      "Alla forma di fiore osseo aperto con le perle come petali"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rosa è il rigonfiamento basale della stanga e prende nome dalla sua forma: sembra un fiore osseo aperto i cui petali sono costituiti dalle perle, escrescenze rotondeggianti di tessuto calcificato. Il colore o il profumo non c'entrano con il nome.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.3"
+  },
+  {
+    "id": "palco-cervidi-009",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Cosa sono le \"perle\" del palco?",
+    "suggestion": "Sono piccole protuberanze a forma di goccia, più numerose sulla faccia interna delle stanghe degli adulti.",
+    "options": [
+      "Escrescenze calcificate a forma di goccia sulla superficie della stanga",
+      "Punte terminali della cima",
+      "Fori per il passaggio dei vasi",
+      "I supporti ossei frontali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le perle sono protuberanze ed escrescenze, grosso modo a forma di goccia, di tessuto calcificato, presenti soprattutto sulla faccia interna delle stanghe degli individui adulti. Non sono punte terminali né fori vascolari né i supporti frontali.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.5"
+  },
+  {
+    "id": "palco-cervidi-010",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel palco del cervo, qual è la prima punta a svilupparsi lungo l'asta, sporgente in avanti?",
+    "suggestion": "È la punta più bassa, detta anche pugnale, che si protende orizzontalmente in avanti per poi piegarsi in alto.",
+    "options": [
+      "Il mediano (pila)",
+      "L'oculare (pugnale)",
+      "L'invernino (ago)",
+      "La corona"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'oculare, detto anche pugnale, è la prima punta a svilupparsi: si sporge in avanti orizzontalmente per poi rivolgersi verso l'alto. Il mediano è circa a metà asta, l'invernino è una punta variabile e la corona è la struttura apicale.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.4"
+  },
+  {
+    "id": "palco-cervidi-011",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel palco del cervo, quale punta è descritta come variabile e spesso assente?",
+    "suggestion": "È una punta sottile il cui altro nome ricorda uno strumento appuntito; la sua comparsa fa aumentare il conteggio delle punte.",
+    "options": [
+      "L'oculare",
+      "Il mediano",
+      "L'invernino (ago)",
+      "La forca"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'invernino, detto anche ago, è una punta variabile e spesso assente; la sua comparsa è uno dei modi con cui aumenta il numero delle punte negli anni. L'oculare e il mediano sono invece punte costanti e robuste, la forca è terminale.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.4"
+  },
+  {
+    "id": "palco-cervidi-012",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "All'apice della stanga del cervo, come si chiama l'insieme delle punte terminali quando sono tre o più?",
+    "suggestion": "Se le punte apicali sono solo due si parla di forca; per tre o più il nome richiama un copricapo regale.",
+    "options": [
+      "Mediano",
+      "Forca",
+      "Corona",
+      "Oculare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le punte all'apice della stanga formano la cima: si chiama forca se sono due e corona se sono tre o più. Mediano e oculare sono punte poste lungo l'asta, non all'apice.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.6"
+  },
+  {
+    "id": "palco-cervidi-013",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Perché il primo palco del cervo viene chiamato \"fusone\"?",
+    "suggestion": "Pensa alla forma di questo primo palco: stanghe corte, non ramificate e prive di rose.",
+    "options": [
+      "Perché è costituito da stanghe corte non ramificate a forma di fuso",
+      "Perché è già ricco di corona",
+      "Perché fonde insieme i due steli",
+      "Perché cade fuori stagione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Come in tutti i cervidi, il primo palco del cervo è formato da stanghe corte, non ramificate, prive di rose e a forma di fuso: da qui il termine fusone. Non presenta ancora corona né rose basali.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.7"
+  },
+  {
+    "id": "palco-cervidi-014",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "A che età i maschi di cervo iniziano la costruzione del primo palco?",
+    "suggestion": "Avviene nel marzo-aprile dell'anno successivo alla nascita, quando il giovane ha quasi un anno.",
+    "options": [
+      "A 2-3 mesi",
+      "A 22 mesi",
+      "A 9-10 mesi (marzo-aprile dell'anno dopo la nascita)",
+      "A 3 anni"
+    ],
+    "correctIndex": 2,
+    "explanation": "I maschi di cervo iniziano a costruire il primo palco a partire da 9-10 mesi di età, cioè in marzo-aprile dell'anno successivo alla nascita. I 22 mesi corrispondono invece alla caduta di questo primo palco.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.7"
+  },
+  {
+    "id": "palco-cervidi-015",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel cervo adulto, in quale periodo dell'anno avviene la caduta del palco?",
+    "suggestion": "Coincide con la fine dell'inverno, quando il testosterone è ai minimi stagionali.",
+    "options": [
+      "Luglio-agosto",
+      "Ottobre-novembre",
+      "Fine febbraio - marzo",
+      "Dicembre-gennaio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei maschi adulti di cervo la caduta avviene da fine febbraio a tutto marzo (inizio aprile per i più giovani), quando il testosterone è minimo. Luglio-agosto è invece il periodo della pulitura del velluto, mentre ottobre-novembre è la caduta tipica del capriolo.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.8"
+  },
+  {
+    "id": "palco-cervidi-016",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel cervo, quale ruolo svolge l'aumento del testosterone in estate riguardo alla pulitura del palco?",
+    "suggestion": "L'ormone porta l'osso a completarsi e fa chiudere i condotti che nutrivano il velluto.",
+    "options": [
+      "Mantiene il velluto vitale più a lungo",
+      "Provoca la caduta immediata del palco",
+      "Stimola la crescita longitudinale del palco",
+      "Determina la completa ossificazione e la chiusura dei vasi sanguigni, interrompendo il flusso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Da luglio il testosterone determina la completa ossificazione del palco e la chiusura dei vasi sanguigni del velluto: il flusso si interrompe, il velluto muore e viene rimosso. Il testosterone alto non mantiene il velluto né allunga il palco; al contrario blocca la crescita.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.8"
+  },
+  {
+    "id": "palco-cervidi-017",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel cervo, quali individui adulti tendono a perdere il palco per primi all'inizio della stagione di caduta?",
+    "suggestion": "Non sono i più deboli: la priorità nella caduta segnala buona età e buone condizioni di salute.",
+    "options": [
+      "I giovani malati",
+      "Gli individui anziani e in buona salute",
+      "I subadulti denutriti",
+      "Indistintamente tutti nello stesso giorno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cervo gettano per primi gli individui più anziani e sani; i più giovani perdono il palco più tardi, fino a inizio aprile. La caduta non è simultanea e dipende anche da altitudine, latitudine e condizioni ambientali.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.8"
+  },
+  {
+    "id": "palco-cervidi-018",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Cosa significa che un cervo è \"di prima testa\"?",
+    "suggestion": "La \"testa\" indica il palco portato in un dato anno; la prima volta cade nel secondo anno di vita.",
+    "options": [
+      "Che porta il palco per la prima volta, nel suo secondo anno di vita",
+      "Che ha esattamente una sola punta per stanga",
+      "Che è il maschio dominante del branco",
+      "Che ha già 10-12 punte"
+    ],
+    "correctIndex": 0,
+    "explanation": "La \"testa\" è il palco portato in un determinato anno: un cervo di prima testa è quello che porta il palco per la prima volta, cioè nel suo secondo anno di vita. Non indica il rango sociale né un numero fisso di punte.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.10"
+  },
+  {
+    "id": "palco-cervidi-019",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel descrivere il numero di punte di un palco di cervo, quale convenzione si usa in caso di asimmetria (es. 4 da un lato e 3 dall'altro)?",
+    "suggestion": "Si usa sempre una cifra pari, segnalando con un aggettivo la presenza dell'asimmetria.",
+    "options": [
+      "Si somma e si dichiara \"7 punte\"",
+      "Si conta solo il lato più ricco",
+      "Si parla di \"8 punte irregolare\"",
+      "Si scarta il conteggio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel conteggio si usa sempre un numero pari; con 4 punte da un lato e 3 dall'altro si parla di \"8 punte irregolare\". Non si somma in dispari né si conta un solo lato.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.10"
+  },
+  {
+    "id": "palco-cervidi-020",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "È vero che nel cervo adulto il numero delle punte aumenta di una unità per ogni anno di età?",
+    "suggestion": "È una credenza diffusa ma smentita: nei maschi adulti la forma del palco è molto variabile e dipende da molti fattori.",
+    "options": [
+      "Sì, una punta in più ogni anno",
+      "Sì, ma solo fino al quinto anno",
+      "Sì, e diminuisce di una ogni anno dopo i 10 anni",
+      "No, è una credenza errata: il numero di punte non è in relazione diretta con l'età"
+    ],
+    "correctIndex": 3,
+    "explanation": "Si tratta di una credenza errata: il numero di punte non è in relazione diretta con l'età. Nei maschi adulti si osservano strutture molto diversificate (palchi alti con poche punte, oppure massicci con corona) influenzate da molti fattori, spesso difficili da individuare.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.15"
+  },
+  {
+    "id": "palco-cervidi-021",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quante punte porta ciascuna stanga del palco completo del capriolo adulto?",
+    "suggestion": "Sono poche e disposte su un piano parallelo all'asse del corpo: oculare, stocco e vertice.",
+    "options": [
+      "Tre",
+      "Due",
+      "Cinque",
+      "Sette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel capriolo ogni stanga porta 3 ramificazioni, poste su un piano parallelo all'asse maggiore del corpo: dal basso oculare, stocco e vertice. Il palco completo a tre punte definisce il \"palcuto\".",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.16"
+  },
+  {
+    "id": "palco-cervidi-022",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, come si chiama la punta apicale della stanga?",
+    "suggestion": "Tra oculare (in avanti) e stocco (all'indietro), è la punta che sta in cima.",
+    "options": [
+      "Oculare",
+      "Stocco",
+      "Vertice",
+      "Mediano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel capriolo le tre punte sono oculare (rivolto in avanti), vertice (la punta apicale) e stocco (rivolto all'indietro). Il mediano è una punta del cervo, non del capriolo.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.17"
+  },
+  {
+    "id": "palco-cervidi-023",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, come viene chiamato il maschio di circa un anno con due semplici aste non ramificate?",
+    "suggestion": "Il nome richiama la singola punta appuntita di ciascuna asta semplice.",
+    "options": [
+      "Forcuto",
+      "Palcuto",
+      "Puntuto (o sub-adulto)",
+      "Fusone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il maschietto di un anno è detto sub-adulto o puntuto perché ha due semplici aste a punta singola. Il forcuto ha due punte per stanga, il palcuto tre; \"fusone\" è il termine usato per il cervo.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.23"
+  },
+  {
+    "id": "palco-cervidi-024",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, in quale periodo dell'anno cade il palco?",
+    "suggestion": "Avviene in un periodo opposto a quello del cervo, verso la fine dell'autunno.",
+    "options": [
+      "Fine febbraio - marzo",
+      "Maggio-giugno",
+      "Fine ottobre - novembre/dicembre",
+      "Luglio-agosto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei caprioli la caduta avviene generalmente da fine ottobre fino a novembre-dicembre, in modo opposto rispetto al cervo (che la perde a fine inverno). Maggio-giugno è invece il periodo di pulitura del giovane capriolo.",
+    "difficulty": "easy",
+    "source": "6 PALCO CERVIDI.pdf p.24"
+  },
+  {
+    "id": "palco-cervidi-025",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Perché il capriolo presenta un ciclo del palco così anticipato rispetto al cervo?",
+    "suggestion": "Dipende dalla sua particolare strategia riproduttiva, fatta di amori estivi e di una pausa obbligatoria dello sviluppo embrionale.",
+    "options": [
+      "Perché vive a quote più elevate",
+      "Perché ha accoppiamento estivo e diapausa embrionale, con attivazione precoce dell'asse ipotalamo-ipofisi-gonadi",
+      "Perché è una specie short-day",
+      "Perché ha un palco più piccolo che cresce più in fretta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il capriolo ha accoppiamento estivo e diapausa embrionale obbligatoria: l'attivazione precoce dell'asse ipotalamo-ipofisi-gonadi anticipa l'aumento del testosterone, e quindi ossificazione e pulitura già in primavera. È specie long-day, non short-day; la dimensione del palco non spiega lo sfasamento del ciclo.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.24"
+  },
+  {
+    "id": "palco-cervidi-026",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, cosa innesca da marzo-aprile la completa ossificazione del palco e quindi la pulitura del velluto?",
+    "suggestion": "È l'aumento dell'attività di una ghiandola sessuale e dell'ormone che essa produce.",
+    "options": [
+      "L'aumento dell'attività testicolare e della produzione di testosterone",
+      "Un calo del testosterone",
+      "L'aumento della melatonina",
+      "La diminuzione delle ore di luce"
+    ],
+    "correctIndex": 0,
+    "explanation": "A partire da marzo-aprile l'aumento dell'attività testicolare, e quindi del testosterone, determina la completa ossificazione del palco; la chiusura dei vasi del velluto provoca necrosi e distacco del velluto. Il calo del testosterone provoca invece la caduta del palco, non la pulitura.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.24"
+  },
+  {
+    "id": "palco-cervidi-027",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, qual è la conseguenza diretta della diminuzione dei livelli di testosterone a fine ciclo riproduttivo?",
+    "suggestion": "Il calo dell'ormone attiva un riassorbimento osseo lungo la linea di distacco alla base del palco.",
+    "options": [
+      "L'inizio della crescita del velluto",
+      "Il riassorbimento osseo alla linea di abscissione, con distacco del palco dal peduncolo",
+      "L'ispessimento della rosa",
+      "L'aumento del numero di punte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con la diminuzione del testosterone si attiva un riassorbimento osseo a livello della linea di abscissione, che determina il distacco del palco dal peduncolo; rimangono i peduncoli, da cui dopo pochi giorni ripartono i nuovi palchi. Il calo dell'ormone provoca la caduta, non la crescita del velluto.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.24"
+  },
+  {
+    "id": "palco-cervidi-028",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quale tessuto è responsabile della capacità di formare il supporto (peduncolo) e il primo palco?",
+    "suggestion": "È un periostio specializzato dell'osso frontale, attivato dall'aumento degli androgeni vicino alla pubertà.",
+    "options": [
+      "Il derma del velluto",
+      "La cartilagine ialina",
+      "Il periostio antlerogenico (AP)",
+      "L'epidermide della ferita"
+    ],
+    "correctIndex": 2,
+    "explanation": "La capacità di crescita del supporto e di sviluppo del palco risiede nell'antlerogenic periosteum (AP): la sua resezione impedisce lo sviluppo, mentre il suo trapianto in altre sedi causa crescita ectopica del palco. La rimozione della sola cute non impedisce lo sviluppo.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.47"
+  },
+  {
+    "id": "palco-cervidi-029",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Cosa accade se si trapianta il periostio antlerogenico (AP) dall'osso frontale a un'altra zona del corpo, ad esempio sul metacarpo?",
+    "suggestion": "Il potenziale di formare il palco viaggia con il tessuto trapiantato, non resta legato al cranio.",
+    "options": [
+      "Non accade nulla",
+      "Si forma solo cartilagine permanente",
+      "Il tessuto viene riassorbito subito",
+      "Si forma un piccolo palco ectopico, anch'esso rivestito di velluto e soggetto al ciclo di caduta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nei punti in cui l'AP viene trapiantato si formano piccoli palchi ectopici, rivestiti di velluto e, se l'animale vive a lungo, soggetti al tipico ciclo di caduta e rigenerazione. Questo dimostra che il potenziale antlerogenico risiede nel periostio.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.48"
+  },
+  {
+    "id": "palco-cervidi-030",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quale tipo di ossificazione è responsabile dell'allungamento longitudinale del palco?",
+    "suggestion": "È quella che passa per una fase cartilaginea apicale, poi sostituita da osso, alla punta di ogni ramo.",
+    "options": [
+      "Ossificazione intramembranosa",
+      "Ossificazione periostale diretta",
+      "Cheratinizzazione",
+      "Ossificazione endocondrale"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'allungamento del palco avviene per ossificazione endocondrale all'apice di ciascun ramo: la cartilagine viene erosa e sostituita da osso. L'ossificazione intramembranosa avviene invece alla base dell'asta e contribuisce a spessore e stabilità, senza fase cartilaginea.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.59"
+  },
+  {
+    "id": "palco-cervidi-031",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Da dove mobilizza principalmente calcio e fosforo il cervo per sostenere la rapidissima crescita del palco?",
+    "suggestion": "La riserva minerale viene attinta soprattutto da ossa piatte del torace, usate come deposito metabolico.",
+    "options": [
+      "Dalle ossa piatte come le costole",
+      "Dai denti",
+      "Dal fegato",
+      "Dal velluto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per formare fino a circa 30 kg di tessuto osseo in meno di tre mesi, il cervo mobilizza calcio e fosforo soprattutto dalle ossa piatte, come le costole, che fungono da riserva metabolica. Il fegato produce invece l'IGF-1, non funge da deposito minerale.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.61"
+  },
+  {
+    "id": "palco-cervidi-032",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Dato che il palco si rigenera quando gli organi riproduttori sono inattivi, quale mediatore sistemico è considerato centrale nello stimolare la crescita?",
+    "suggestion": "È un fattore di crescita prodotto soprattutto dal fegato, con recettori nella regione apicale del palco.",
+    "options": [
+      "Il cortisolo",
+      "L'adrenalina",
+      "L'IGF-1",
+      "La melatonina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poiché la rigenerazione avviene mentre gli organi riproduttori sono inattivi, un ruolo centrale è svolto dall'IGF-1, prodotto soprattutto dal fegato e abbondante durante lo sviluppo del palco; la presenza di suoi recettori nella regione apicale ne conferma l'importanza. Sintesi: crescita = testosterone basso + IGF-1 alto.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.60"
+  },
+  {
+    "id": "palco-cervidi-033",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel cervo, perché l'allungamento delle giornate in primavera porta a una riduzione del testosterone?",
+    "suggestion": "Più luce significa meno di un ormone notturno, il cui calo trascina giù anche il testosterone.",
+    "options": [
+      "Perché aumenta l'IGF-1 che lo neutralizza",
+      "Perché aumenta direttamente la melatonina",
+      "Perché le costole liberano calcio inibitorio",
+      "Perché diminuisce la melatonina e con essa il testosterone"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con l'allungarsi delle giornate diminuisce la melatonina e, di conseguenza, diminuisce anche il testosterone; il palco cade quindi in primavera, ai minimi di testosterone. L'IGF-1 sostiene la crescita ma non è la causa del calo del testosterone.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.61"
+  },
+  {
+    "id": "palco-cervidi-034",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quali cellule provocano la caduta del palco riassorbendo l'osso nel punto di giunzione con il peduncolo?",
+    "suggestion": "Sono le cellule che demoliscono l'osso, all'opposto di quelle che lo costruiscono.",
+    "options": [
+      "Gli osteoclasti",
+      "Gli osteoblasti",
+      "I condrociti",
+      "I fibroblasti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La caduta del palco è dovuta agli osteoclasti, che riassorbono l'osso nella zona di giunzione peduncolo-palco causando una decalcificazione progressiva. Gli osteoblasti, al contrario, ricostruiscono l'osso; i condrociti producono cartilagine.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.64"
+  },
+  {
+    "id": "palco-cervidi-035",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Perché con l'avanzare dell'età il peduncolo (stelo) del cervo tende ad accorciarsi?",
+    "suggestion": "Ad ogni caduta una parte del peduncolo viene riassorbita e non viene poi ricostruita per intero.",
+    "options": [
+      "Perché si consuma per sfregamento contro gli alberi",
+      "Perché si scioglie nel sangue",
+      "Perché a ogni caduta la porzione riassorbita dagli osteoclasti non viene completamente ricostituita",
+      "Perché viene assorbito dalla rosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante la caduta annuale la parte superiore del peduncolo viene riassorbita dagli osteoclasti; la porzione riassorbita non viene ricostituita del tutto, perciò il peduncolo si accorcia ogni anno (3-5 mm nei primi anni, 1-2 mm dal 5°-6° anno). Non dipende dallo sfregamento.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.51"
+  },
+  {
+    "id": "palco-cervidi-036",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, quale anomalia del palco è associata a un trauma al bottone iniziale?",
+    "suggestion": "Il danno alla base genera la comparsa di moltissime punte soprannumerarie.",
+    "options": [
+      "Palco a cavatappi",
+      "Pollonaia (punte soprannumerarie)",
+      "Forcuto avanti",
+      "Forcuto indietro"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pollonaia, cioè lo sviluppo di numerose punte soprannumerarie, è dovuta a un trauma al bottone iniziale. Il palco a cavatappi è invece legato a problemi di mineralizzazione; \"forcuto avanti/indietro\" indicano la mancanza, rispettivamente, dello stocco o dell'oculare.",
+    "difficulty": "medium",
+    "source": "6 PALCO CERVIDI.pdf p.32"
+  },
+  {
+    "id": "palco-cervidi-037",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Nel capriolo, un trofeo \"forcuto indietro\" è così definito perché manca una punta precisa: quale?",
+    "suggestion": "La precisione conta: \"avanti\" e \"indietro\" indicano due punte opposte; qui manca quella rivolta in avanti.",
+    "options": [
+      "Manca il vertice",
+      "Manca lo stocco",
+      "Manca l'oculare",
+      "Manca la rosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il \"forcuto indietro\" manca dell'oculare (la punta rivolta in avanti), mentre il \"forcuto avanti\" manca dello stocco (la punta rivolta all'indietro). È un punto da non confondere: il nome indica la direzione della forca residua, non quale punta è presente.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.33"
+  },
+  {
+    "id": "palco-cervidi-038",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Quale fra le seguenti affermazioni sul ruolo del testosterone nello sviluppo del peduncolo e del primo palco del cervo è corretta?",
+    "suggestion": "Attenzione alla precisione: lo stesso ormone ha effetti opposti sul peduncolo e sul palco a seconda della fase.",
+    "options": [
+      "Il testosterone alto stimola la crescita del peduncolo ma inibisce quella del palco, che parte solo quando il testosterone scende",
+      "Il testosterone alto è necessario sia per il peduncolo sia per allungare il palco",
+      "Il testosterone non ha alcun ruolo nello sviluppo del peduncolo",
+      "Il palco cresce solo con testosterone costantemente alto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testosterone alto stimola la proliferazione delle cellule antlerogenetiche e l'ossificazione intramembranosa del peduncolo, ma inibisce la crescita del palco: per questo il palco può iniziare a crescere solo quando il testosterone scende. Le altre opzioni invertono o negano questa relazione.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.42"
+  },
+  {
+    "id": "palco-cervidi-039",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Le evidenze sperimentali indicano che la rigenerazione del palco dopo la caduta è innescata dalla ferita stessa lasciata sul peduncolo. Questa affermazione è corretta?",
+    "suggestion": "Valuta con precisione: la ferita accompagna il processo, ma il vero comando arriva da un asse ormonale centrale.",
+    "options": [
+      "Sì, è la ferita a innescare la rigenerazione",
+      "No: non è la ferita, ma fattori sistemici regolati dall'asse ipotalamo-ipofisi a orchestrare il ciclo",
+      "Sì, ma solo in renna e alce",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le evidenze sperimentali mostrano che non è la ferita in sé a stimolare la rigenerazione, bensì fattori sistemici regolati dall'asse ipotalamo-ipofisi, che orchestrano l'intero ciclo annuale. La prova è che in renna e alce la ferita resta aperta per mesi senza che ciò avvii subito un nuovo palco.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.65"
+  },
+  {
+    "id": "palco-cervidi-040",
+    "topic": "palco-cervidi",
+    "species": "Cervidi — palco (I)",
+    "question": "Riguardo alla relazione tra fotoperiodo, testosterone e ciclo del palco nel cervo, quale affermazione è corretta?",
+    "suggestion": "Tieni insieme la catena completa: luce in aumento, ormone notturno in calo, ormone sessuale al minimo e palco che cade. Una sola opzione rispetta tutti i passaggi.",
+    "options": [
+      "La caduta del palco avviene in autunno, quando il testosterone è al picco",
+      "Le giornate che si allungano riducono la melatonina e il testosterone, e il palco cade in primavera al minimo di testosterone",
+      "Il testosterone è minimo in autunno durante il bramito",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cervo l'allungamento delle giornate riduce la melatonina e di conseguenza il testosterone, che tocca il minimo in primavera, quando il palco cade. Il testosterone raggiunge invece il picco in autunno, in piena stagione del bramito, momento in cui il palco è pulito e ben ancorato, non in caduta.",
+    "difficulty": "hard",
+    "source": "6 PALCO CERVIDI.pdf p.61"
+  }
+]

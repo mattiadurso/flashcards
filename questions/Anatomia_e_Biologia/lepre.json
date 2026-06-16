@@ -1,0 +1,648 @@
+[
+  {
+    "id": "lepre-001",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "A quale ordine di mammiferi appartiene la lepre comune, distinto dai roditori?",
+    "suggestion": "Pensa al gruppo che comprende anche conigli e fischioni di montagna, e il cui nome non è 'Rodentia'.",
+    "options": [
+      "Rodentia",
+      "Lagomorpha",
+      "Insectivora",
+      "Carnivora"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lepre comune appartiene all'ordine Lagomorpha, famiglia Leporidae, genere Lepus. I Lagomorfi sono distinti dai Rodentia (roditori) per caratteri come la doppia fila di incisivi superiori. Insectivora e Carnivora sono ordini del tutto estranei.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.1"
+  },
+  {
+    "id": "lepre-002",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quale carattere del cranio distingue i Lagomorfi come la lepre dai roditori?",
+    "suggestion": "Conta gli incisivi nell'arcata superiore: i roditori ne hanno una sola coppia, i Lagomorfi qualcosa in più.",
+    "options": [
+      "Una sola coppia di incisivi superiori a crescita continua",
+      "Due paia di incisivi superiori",
+      "La presenza di canini molto sviluppati",
+      "L'assenza totale di incisivi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Lagomorfi si distinguono per la presenza di due paia di incisivi superiori: dietro gli incisivi grandi e taglienti si trova un secondo paio nettamente più piccolo. I roditori hanno invece una sola coppia di incisivi superiori. I Lagomorfi sono inoltre privi di canini, non li hanno sviluppati.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.12"
+  },
+  {
+    "id": "lepre-003",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Tra le quattro specie del genere Lepus presenti in Italia, quale ha la distribuzione più vasta sul territorio nazionale?",
+    "suggestion": "È la specie 'comune', presente quasi ovunque tranne che nelle due isole maggiori.",
+    "options": [
+      "La lepre italica (Lepus corsicanus)",
+      "La lepre sarda (Lepus capensis mediterraneus)",
+      "La lepre comune (Lepus europaeus)",
+      "La lepre variabile (Lepus timidus)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lepre comune (Lepus europaeus) è la specie con la più vasta distribuzione, presente in tutto il territorio nazionale tranne Sardegna e Sicilia. La lepre italica ha areale frammentato nella penisola e copre la Sicilia, la lepre sarda è confinata alla Sardegna e isole minori, la lepre variabile è limitata all'Arco Alpino.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.2"
+  },
+  {
+    "id": "lepre-004",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "In quale areale è distribuita la lepre variabile (Lepus timidus) in Italia?",
+    "suggestion": "È legata agli ambienti freddi e d'alta quota: pensa alla catena montuosa che borda il nord del Paese.",
+    "options": [
+      "Tutto l'Arco Alpino",
+      "L'intera Sardegna",
+      "La Sicilia e l'Italia meridionale",
+      "Tutta la pianura padana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lepre variabile (o bianca), Lepus timidus, è distribuita su tutto l'Arco Alpino. La Sardegna è occupata dalla lepre sarda, la Sicilia e il Sud dalla lepre italica, mentre la lepre comune copre gran parte della penisola.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.3"
+  },
+  {
+    "id": "lepre-005",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quale combinazione di caratteri della struttura corporea rende la lepre comune particolarmente adatta alla corsa e al salto?",
+    "suggestion": "Immagina la sagoma di un corridore: corpo affusolato, schiena che fa da molla e bacino non largo.",
+    "options": [
+      "Corpo tozzo e arti corti per scavare",
+      "Struttura slanciata e compressa lateralmente, dorso arcuato ed elastico, bacino ristretto",
+      "Corpo massiccio con ampie riserve di grasso",
+      "Arti anteriori più lunghi dei posteriori per arrampicarsi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lepre ha una struttura generale slanciata e lateralmente compressa, con dorso arcuato ed elastico, ventre retratto e bacino ristretto: tutti caratteri adatti alla corsa e al salto. Un corpo tozzo o massiccio sarebbe l'opposto, e nella lepre sono gli arti posteriori, non gli anteriori, ad essere più lunghi.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.4"
+  },
+  {
+    "id": "lepre-006",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quante dita presentano rispettivamente il piede posteriore e quello anteriore della lepre?",
+    "suggestion": "Il piede che spinge nella corsa ne ha uno in meno rispetto a quello davanti; ricorda che davanti sono cinque.",
+    "options": [
+      "5 dita al posteriore e 4 all'anteriore",
+      "4 dita al posteriore e 5 all'anteriore",
+      "4 dita sia al posteriore sia all'anteriore",
+      "5 dita sia al posteriore sia all'anteriore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il piede posteriore termina con 4 dita, quello anteriore con 5, di cui il terzo è il più lungo e il primo il più breve. Le superfici plantari e palmari sono inoltre prive di callosità e ricoperte di peli che formano un cuscinetto lanoso.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.5"
+  },
+  {
+    "id": "lepre-007",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché nella lepre il riconoscimento del sesso è generalmente difficile?",
+    "suggestion": "Non ci sono dimorfismi vistosi: l'unica differenza di taglia è modesta e l'unica certezza arriva da uno stato fisiologico temporaneo della femmina.",
+    "options": [
+      "Perché maschi e femmine hanno colorazioni del mantello completamente diverse",
+      "Perché i maschi sono molto più grandi e riconoscibili a distanza",
+      "Perché il dimorfismo è scarso: a parità di età le femmine sono solo un po' più grandi, e il sesso è evidente solo se la femmina è gravida o in lattazione",
+      "Perché i genitali esterni sono assenti in entrambi i sessi"
+    ],
+    "correctIndex": 2,
+    "explanation": "A parità di età le femmine raggiungono valori dimensionali solo leggermente superiori, quindi il riconoscimento del sesso è tutt'altro che agevole, tranne quando la femmina è in gravidanza o in lattazione. Non esistono differenze cromatiche legate al sesso, i maschi non sono nettamente più grandi e i genitali esterni sono presenti.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.5"
+  },
+  {
+    "id": "lepre-008",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Qual è la funzione principale dei peli di lanugine (peli della borra) con struttura a squame sovrapposte nella pelliccia della lepre?",
+    "suggestion": "Le squame che si agganciano tra loro intrappolano qualcosa che è un cattivo conduttore di calore.",
+    "options": [
+      "Aumentare la velocità di corsa riducendo l'attrito con l'aria",
+      "Favorire l'isolamento termico trattenendo uno strato d'aria tra i peli",
+      "Rendere il mantello impermeabile all'acqua",
+      "Produrre il secreto usato per marcare il territorio"
+    ],
+    "correctIndex": 1,
+    "explanation": "I peli della borra hanno squame sovrapposte (come tegole) che favoriscono l'agganciamento reciproco dei peli e la formazione di uno strato d'aria trattenuta; essendo l'aria un cattivo conduttore di calore, ciò contribuisce all'isolamento termico dell'animale. Non riguardano la velocità, l'impermeabilità né la marcatura.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.6"
+  },
+  {
+    "id": "lepre-009",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "La lepre presenta una densità di peli di lanugine di circa 175 per mm². Come si colloca questo valore rispetto al capriolo?",
+    "suggestion": "Un piccolo erbivoro che deve isolarsi termicamente ha bisogno di una densità di pelo molto maggiore rispetto a un ungulato.",
+    "options": [
+      "È molto più bassa di quella del capriolo",
+      "È circa uguale a quella del capriolo",
+      "È nettamente più alta di quella del capriolo (circa 36 per mm²)",
+      "Il pelo di lanugine è assente nella lepre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella lepre si contano circa 175 peli di lanugine per mm², a confronto con i 36 del capriolo e i 168 dell'ermellino: la densità è quindi nettamente più alta di quella del capriolo. Tale densità varia in funzione della stagione e delle condizioni ambientali.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.7"
+  },
+  {
+    "id": "lepre-010",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quante volte all'anno la lepre muta il pelo e in quali periodi?",
+    "suggestion": "Avviene due volte, in corrispondenza dei cambi di stagione di fine inverno e di metà autunno.",
+    "options": [
+      "Una sola volta all'anno, in estate",
+      "Due volte all'anno, in febbraio-marzo e in ottobre",
+      "Tre volte all'anno, a ogni cambio stagionale",
+      "Non muta mai, mantenendo lo stesso mantello tutta la vita"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lepre muta il pelo due volte l'anno, di solito in febbraio-marzo e in ottobre. La muta primaverile dura più a lungo, inizia dalla regione dorsale e si estende lungo i fianchi; capo e coda sono le ultime regioni a mutare.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.10"
+  },
+  {
+    "id": "lepre-011",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Cosa si intende per 'palato fenestrato', uno dei caratteri scheletrici tipici dei Lagomorfi?",
+    "suggestion": "Il termine richiama delle aperture o 'finestre': pensa a numerose creste e a un palato osseo molto ridotto.",
+    "options": [
+      "Un palato completamente liscio e privo di rilievi",
+      "Un palato con numerose creste palatine e ridotto a una stretta striscia ossea trasversale",
+      "Un palato fuso con la mandibola",
+      "Un palato dotato di denti supplementari"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Lagomorfi presentano numerose creste palatine (palato fenestrato); nella lepre il palato osseo è stretto, ridotto a una striscia trasversale tra i mascellari, che sono particolarmente fessurati, spongiosi e reticolati. Non è quindi liscio, fuso con la mandibola né dotato di denti.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf pp.12-13"
+  },
+  {
+    "id": "lepre-012",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quale rapporto anatomico esiste tra tibia e perone (fibula) negli arti posteriori della lepre?",
+    "suggestion": "Nei mammiferi corridori le due ossa della gamba tendono a saldarsi: qui ciò avviene nella loro porzione più lontana dal ginocchio.",
+    "options": [
+      "Tibia e perone sono completamente separati per tutta la lunghezza",
+      "Tibia e perone sono fusi distalmente",
+      "Il perone è assente",
+      "Tibia e perone sono fusi solo nella porzione prossimale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei Lagomorfi, e quindi nella lepre, è presente la fusione distale tra tibia e perone (fibula), articolato al calcagno. Questa conformazione, tipica degli arti dei corridori, irrigidisce la gamba a vantaggio della corsa. Il perone non è assente e la fusione è distale, non prossimale.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf pp.12-18"
+  },
+  {
+    "id": "lepre-013",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "In che modo la clavicola della lepre contribuisce alla sua velocità nella corsa?",
+    "suggestion": "Pensa a un osso ridotto e non collegato agli altri: la sua 'mancanza funzionale' libera il movimento dell'arto anteriore.",
+    "options": [
+      "È robusta e fissa saldamente la spalla al tronco",
+      "È rudimentale e non in contatto con altre ossa, permettendo movimenti rapidi lungo l'asse longitudinale del corpo",
+      "È fusa con lo sterno per dare stabilità",
+      "È più lunga del normale per ampliare la falcata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La clavicola della lepre è rudimentale e non in contatto con altre ossa; la mancanza di una clavicola funzionante, unita al cinto elastico di muscoli e tendini tipico dei mammiferi corridori, facilita la velocità della corsa consentendo movimenti molto rapidi lungo l'asse longitudinale del corpo. Una clavicola robusta o fusa limiterebbe questo movimento.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf pp.17-18"
+  },
+  {
+    "id": "lepre-014",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché gli incisivi della lepre crescono in modo continuo per tutta la vita?",
+    "suggestion": "Sono denti privi di radici: la loro crescita non si ferma, ma qualcosa la tiene costantemente sotto controllo.",
+    "options": [
+      "Perché possiedono radici molto profonde",
+      "Perché sono a crescita continua, limitata dall'usura, dato che sono privi di radici",
+      "Perché vengono sostituiti più volte come i denti da latte",
+      "Perché contengono cartilagine che si rigenera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli incisivi della mascella sono assai sviluppati, arcuati, sporgenti, con margine tagliente e privi di radici, a crescita continua limitata dall'usura. La crescita permanente compensa il consumo dovuto al taglio degli alimenti; non dipende da radici profonde né da una sostituzione continua.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.19"
+  },
+  {
+    "id": "lepre-015",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché nella dentatura della lepre gli incisivi risultano separati dai denti molariformi da un ampio diastema?",
+    "suggestion": "Lo spazio vuoto tra i denti anteriori e quelli posteriori esiste perché manca un tipo di dente presente nei carnivori.",
+    "options": [
+      "Per la presenza di canini molto sviluppati",
+      "Per l'assenza dei canini",
+      "Perché gli incisivi sono impiantati nella mandibola e i molari nel palato",
+      "Perché i premolari sono completamente assenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per l'assenza dei canini, gli incisivi risultano separati da ampi diastemi dai denti molari. La formula dentaria è I 2/1, C 0/0, Pm 3/2, M 3/3 = 28: i canini sono assenti, mentre premolari e molari sono presenti.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.19"
+  },
+  {
+    "id": "lepre-016",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "A cosa serve il tubercolo di Stroh nella gestione faunistica della lepre?",
+    "suggestion": "È un rilievo cartilagineo percepibile al tatto sull'arto anteriore dei soggetti dell'anno: pensa a cosa permette di valutare la sua presenza.",
+    "options": [
+      "A determinare il sesso dell'animale",
+      "A stimare approssimativamente l'età, distinguendo i giovani dagli adulti",
+      "A identificare la specie di lepre",
+      "A misurare lo stato di salute del mantello"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei giovani di 8-9 mesi, tra diafisi ed epifisi distale dell'ulna, è presente un rilievo cartilagineo (tubercolo di Stroh) percepibile al tatto. La sua presenza, legata all'incompleta calcificazione dello scheletro dei soggetti nati nell'anno, consente di valutare approssimativamente l'età e distinguere a fini gestionali i giovani dagli adulti. Non serve per sesso, specie o salute del pelo.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.22"
+  },
+  {
+    "id": "lepre-017",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché il cuore della lepre, che rappresenta dall'1 all'1,8% del peso corporeo, è considerato notevole rispetto ad altri animali?",
+    "suggestion": "Un cuore proporzionalmente grande pompa il sangue in modo molto efficace: collega questo alle prestazioni atletiche dell'animale.",
+    "options": [
+      "Perché serve a sopportare lunghi periodi di letargo",
+      "Perché un cuore così grande pompa il sangue efficacemente, spiegando potenza, resistenza e velocità",
+      "Perché compensa la mancanza di polmoni efficienti",
+      "Perché permette di immagazzinare ossigeno per le immersioni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cuore della lepre rappresenta dall'1 all'1,8% del peso del corpo, valore notevole rispetto ad altri animali: il sangue viene pompato e trasportato efficacemente, e ciò spiega la potenza, la resistenza e la velocità dell'animale. La lepre non va in letargo né è un animale acquatico.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.24"
+  },
+  {
+    "id": "lepre-018",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Dal punto di vista della struttura dello stomaco, come è classificata la lepre?",
+    "suggestion": "A differenza dei ruminanti come capriolo o cervo, il suo stomaco è uno solo: pensa al termine che indica un unico compartimento gastrico.",
+    "options": [
+      "Poligastrico, come i ruminanti",
+      "Monogastrico, con stomaco simile a quello di altri mammiferi erbivori",
+      "Privo di stomaco, con digestione solo intestinale",
+      "Dotato di un rumine voluminoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lepre è un animale monogastrico, il cui apparato digerente è molto simile a quello di altri mammiferi erbivori; lo stomaco è una dilatazione sacciforme relativamente piccola (350-400 mL). Non è poligastrica né ruminante: la fermentazione della cellulosa avviene nel cieco, non in un rumine.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.25"
+  },
+  {
+    "id": "lepre-019",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "In quale tratto dell'apparato digerente della lepre avviene la fermentazione della cellulosa ad opera della flora batterica?",
+    "suggestion": "Non essendoci un rumine, il lavoro dei batteri si concentra in un voluminoso tratto del crasso, dotato di un sottile prolungamento vermiforme.",
+    "options": [
+      "Nello stomaco",
+      "Nell'intestino tenue",
+      "Nel cieco, molto sviluppato",
+      "Nell'esofago"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cieco della lepre è molto sviluppato e dotato di un sottile prolungamento detto processo vermiforme; al suo interno la flora batterica realizza la fermentazione della cellulosa, e qui si producono i ciecotrofi. Stomaco, tenue ed esofago non svolgono questa funzione fermentativa.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf pp.26-29"
+  },
+  {
+    "id": "lepre-020",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "In cosa consiste la ciecotrofia (o pseudo-ruminazione) praticata dalla lepre?",
+    "suggestion": "Pensa a un cibo che compie due volte il percorso nel tubo digerente: l'animale reingerisce qualcosa di particolare prodotto nel cieco.",
+    "options": [
+      "Nel rigurgitare il cibo dallo stomaco per rimasticarlo, come i ruminanti",
+      "Nell'ingerire i ciecotrofi (escrementi molli avvolti di muco) prodotti nel cieco, facendo passare il cibo due volte nel canale digerente",
+      "Nel nutrirsi esclusivamente di corteccia in inverno",
+      "Nel digiunare periodicamente per pulire l'intestino"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lepre pratica la ciecotrofia (scatofagia o coprofagia, detta anche pseudo-ruminazione): produce, oltre ai normali escrementi secchi e rotondeggianti, escrementi molli avvolti di muco (i ciecotrofi prodotti nel cieco) che ingerisce senza masticare. Così il cibo passa due volte nel tubo digerente. Non è un rigurgito gastrico come nei ruminanti.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf pp.28-29"
+  },
+  {
+    "id": "lepre-021",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Qual è il vantaggio fisiologico principale della coprofagia (reingestione dei ciecotrofi) nella lepre?",
+    "suggestion": "Il secondo passaggio nell'intestino permette di non sprecare nutrienti preziosi: pensa al recupero di proteine, vitamine e acqua.",
+    "options": [
+      "Aumentare la velocità di transito del cibo per nutrirsi più spesso",
+      "Migliorare l'utilizzazione degli alimenti recuperando proteine, vitamine del gruppo B e acqua",
+      "Eliminare le tossine accumulate nel cieco",
+      "Raffreddare il corpo durante l'estate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il doppio passaggio del cibo nel canale digerente permette una migliore utilizzazione degli alimenti e il recupero di importanti metaboliti, in particolare proteine e vitamine del gruppo B, oltre a una quota significativa di acqua. Ostacolare questo processo comporta una ridotta efficienza alimentare e gravi disordini fisiologici.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.29"
+  },
+  {
+    "id": "lepre-022",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché nella lepre, a differenza di molti altri mammiferi, l'ovulazione non segue un ciclo regolare?",
+    "suggestion": "Pensa a cosa fa scattare il rilascio dell'ovocita: non un orologio interno, ma un evento esterno legato all'accoppiamento.",
+    "options": [
+      "Perché l'ovulazione è spontanea e ciclica come nei primati",
+      "Perché l'ovulazione è indotta dall'accoppiamento e avviene circa 12-15 ore dopo il coito",
+      "Perché le femmine ovulano una sola volta nella vita",
+      "Perché l'ovulazione dipende solo dalla temperatura ambientale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella lepre la femmina è recettiva solo durante l'estro, che non presenta ciclicità regolare; l'ovulazione è indotta dall'accoppiamento e avviene circa 12-15 ore dopo il coito. Non è quindi spontanea né ciclica, e non è regolata dalla sola temperatura.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf p.33"
+  },
+  {
+    "id": "lepre-023",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Cosa caratterizza il fenomeno della superfetazione nella lepre?",
+    "suggestion": "Una femmina già gravida può manifestare un estro e accoppiarsi di nuovo: pensa alla possibilità di portare contemporaneamente due gestazioni di età diversa.",
+    "options": [
+      "Il riassorbimento di tutti gli embrioni in caso di stress",
+      "La capacità di una femmina già gravida di portare contemporaneamente due serie di feti di età diversa, in seguito ad accoppiamenti distinti",
+      "La nascita di gemelli identici dalla stessa cellula uovo",
+      "Il prolungamento della gestazione oltre i 60 giorni"
+    ],
+    "correctIndex": 1,
+    "explanation": "La superfetazione consiste nella possibilità che una femmina già gravida porti contemporaneamente due serie di feti di età diversa, con sovrapposizione di due gestazioni in seguito ad accoppiamenti distinti. È resa possibile dal fatto che la femmina può manifestare un estro durante la gravidanza, pochi giorni prima del parto (1-7 giorni); il nuovo accoppiamento induce l'ovulazione e una seconda gestazione, generalmente nell'altro corno uterino non ancora occupato.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf pp.34-35"
+  },
+  {
+    "id": "lepre-024",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "La superfetazione è più frequente in natura o negli allevamenti in cattività?",
+    "suggestion": "Dove i due sessi convivono stabilmente le occasioni di accoppiamento aumentano: pensa a quale contesto favorisce il fenomeno.",
+    "options": [
+      "È molto più frequente in natura",
+      "È più frequente in cattività (50-60% delle femmine) e meno in natura (13-15%)",
+      "Ha la stessa frequenza nei due contesti",
+      "Si verifica solo in natura"
+    ],
+    "correctIndex": 1,
+    "explanation": "La superfetazione è relativamente frequente in allevamento in cattività (50-60% delle femmine), dove i due sessi convivono stabilmente, e meno frequente in natura (13-15%). La convivenza stabile aumenta le occasioni di accoppiamento durante la gravidanza.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.34"
+  },
+  {
+    "id": "lepre-025",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Cosa succede agli embrioni in caso di mortalità embrionale nella lepre, fenomeno frequente soprattutto in autunno?",
+    "suggestion": "Non si verifica un aborto vero e proprio: pensa a cosa fa l'utero con gli embrioni morti, mentre quelli vivi proseguono lo sviluppo.",
+    "options": [
+      "Vengono espulsi tramite aborto",
+      "Vengono riassorbiti nell'utero senza dar luogo ad aborto",
+      "Vengono mummificati e trattenuti fino al parto",
+      "Bloccano completamente la gravidanza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella lepre la mortalità embrionale è piuttosto elevata, soprattutto nei mesi autunnali, e gli embrioni vengono riassorbiti nell'utero senza dar luogo ad aborto. Il riassorbimento avviene sia con la morte di tutti gli embrioni sia solo di parte di essi: in quest'ultimo caso quelli rimasti vivi continuano a svilupparsi.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.36"
+  },
+  {
+    "id": "lepre-026",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché i leprotti, a differenza dei coniglietti, alla nascita sono già coperti di pelo, con occhi aperti e capaci di muoversi autonomamente?",
+    "suggestion": "Collega la strategia (nidicolo vs nidifugo) al fatto che la lepre non scava una tana profonda né prepara un giaciglio.",
+    "options": [
+      "Perché nascono in tane profonde e protette dove restano a lungo",
+      "Perché la lepre è nidifuga e non prepara un vero giaciglio, quindi i piccoli devono essere precocemente autonomi",
+      "Perché vengono allattati molte volte al giorno per molti mesi",
+      "Perché il coniglio e la lepre hanno la stessa strategia riproduttiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "A differenza dei coniglietti, i leprotti nascono ad occhi aperti, ricoperti di pelo, provvisti di denti e capaci di muoversi autonomamente poco dopo la nascita (nidifughi). La madre non appronta un rifugio né un vero giaciglio e le cure si limitano all'allattamento, per lo più serale, in un'unica poppata di 3-5 minuti. I coniglietti sono invece nidicoli.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.41"
+  },
+  {
+    "id": "lepre-027",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché il peso del cristallino dell'occhio viene utilizzato per stimare l'età della lepre?",
+    "suggestion": "Il cristallino accumula proteine e cresce con il tempo: pensa a come un valore soglia possa separare le classi d'età.",
+    "options": [
+      "Perché il cristallino si consuma e diminuisce di peso con l'età",
+      "Perché il peso del cristallino aumenta con l'età e un valore soglia (circa 250-300 mg) permette di discriminare gli animali di un anno dai più vecchi",
+      "Perché il colore del cristallino cambia ogni stagione",
+      "Perché il cristallino è presente solo negli adulti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per discriminare le lepri di un anno dalle più vecchie è stato definito un valore soglia del peso secco del cristallino pari a circa 250-300 mg (Kauhala e Soveri, 2001). Il cristallino accumula materiale e quindi il suo peso aumenta progressivamente con l'età; non diminuisce né è esclusivo degli adulti.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf p.44"
+  },
+  {
+    "id": "lepre-028",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Qual è il principale mezzo di difesa della lepre nei confronti dei suoi nemici naturali?",
+    "suggestion": "Non combatte né si nasconde in tana: pensa a come sfrutta la sua struttura dinamica e i lunghi arti posteriori.",
+    "options": [
+      "L'aggressività e il combattimento diretto",
+      "La fuga veloce, essendo un corridore agile capace di 60-70 km/h",
+      "Il rifugio in tane profonde scavate nel terreno",
+      "La produzione di un secreto urticante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il comportamento della lepre è di grande prudenza ed è sempre pronta a fuggire: la fuga è il suo migliore mezzo di difesa. La struttura dinamica del corpo, la forte muscolatura e i lunghi arti posteriori ne fanno un corridore agile capace di 60-70 km/h, con salti fino a 2,5 m. Solo quando il nemico la raggiunge si difende colpendolo con gli arti anteriori, per poi fuggire.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.46"
+  },
+  {
+    "id": "lepre-029",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Cosa sono i 'covi' utilizzati dalla lepre durante le ore diurne?",
+    "suggestion": "Non sono gallerie scavate in profondità, ma semplici avvallamenti del terreno modellati dal corpo dell'animale.",
+    "options": [
+      "Tane sotterranee profonde scavate con gli arti anteriori",
+      "Semplici depressioni del terreno, poco profonde, modellate dal corpo dell'animale",
+      "Nidi costruiti sugli alberi",
+      "Cavità naturali nelle rocce"
+    ],
+    "correctIndex": 1,
+    "explanation": "I covi sono siti di riposo costituiti da semplici depressioni del terreno modellate dal corpo dell'animale o, più raramente, scavate con le zampe anteriori; sono poco profondi, asciutti, riparati e protetti alla vista dalla vegetazione. La lepre non scava tane profonde né costruisce nidi: ogni individuo usa più covi nel proprio territorio, scelti per la protezione dal vento e l'ampia visuale.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf pp.45-50"
+  },
+  {
+    "id": "lepre-030",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Perché la lepre, pur disponendo di un campo visivo molto ampio (quasi 320°), ha una visione stereoscopica limitata?",
+    "suggestion": "Gli occhi sono posti ai lati del cranio: rifletti su quanto i due campi visivi possano sovrapporsi davanti all'animale.",
+    "options": [
+      "Perché gli occhi sono molto piccoli e poco sensibili",
+      "Perché gli occhi sono posti ai lati del cranio e la sovrapposizione dei due campi visivi è limitata a una stretta zona anteriore",
+      "Perché la lepre è cieca durante il giorno",
+      "Perché ha un solo occhio funzionante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Avendo gli occhi situati sui lati del cranio, la lepre dispone di un campo visivo molto ampio (quasi 320°) e vede sia davanti sia dietro, ma non immediatamente dietro di sé. La sovrapposizione dei due campi visivi è limitata, perciò la visione stereoscopica è possibile solo in una stretta zona anteriore. La vista è inoltre debole e percepisce meglio gli oggetti in movimento.",
+    "difficulty": "medium",
+    "source": "14 Lepre.pdf p.51"
+  },
+  {
+    "id": "lepre-031",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quale dei seguenti sensi è particolarmente sviluppato nella lepre e le consente di percepire i rumori più leggeri?",
+    "suggestion": "Pensa all'organo collegato al padiglione ampio e mobilissimo delle sue orecchie più lunghe della testa.",
+    "options": [
+      "La vista",
+      "L'udito",
+      "Il gusto",
+      "Il senso dell'equilibrio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella lepre è molto sviluppato il senso dell'udito, che le consente di percepire i rumori più leggeri; anche l'olfatto è ben sviluppato ed essenziale per la ricerca del cibo e l'incontro dei partner. La vista è invece alquanto debole. Coerentemente, le orecchie sono più lunghe della testa, con padiglione ampio e mobilissimo.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf p.51"
+  },
+  {
+    "id": "lepre-032",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Qual è la dieta caratteristica della lepre comune?",
+    "suggestion": "È un erbivoro che predilige soprattutto una famiglia di erbe spontanee e coltivate, integrate da altre piante minori.",
+    "options": [
+      "Onnivora, con largo uso di piccoli vertebrati",
+      "Essenzialmente erbivora, basata principalmente sulle graminacee e secondariamente su leguminose, composite, crucifere",
+      "Esclusivamente a base di cortecce e legno",
+      "Insettivora durante la stagione calda"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dieta della lepre è essenzialmente erbivora, basata principalmente sulle graminacee (spontanee e coltivate) e secondariamente su altre piante come leguminose, composite, crucifere e papilionacee. In primavera-estate predilige parti verdi ad alto contenuto d'acqua, in inverno cereali autunno-invernini, frutti, radici, semi e cortecce. Non è onnivora né insettivora.",
+    "difficulty": "easy",
+    "source": "14 Lepre.pdf pp.25-52"
+  },
+  {
+    "id": "lepre-033",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Le cicatrici uterine, riconoscibili come un cratere centrale circondato da tessuto cicatriziale, a quale scopo gestionale risultano utili nella lepre?",
+    "suggestion": "Sono gli esiti dei precedenti impianti placentari: pensa a cosa permettono di ricostruire contandole e classificandole per stadio.",
+    "options": [
+      "A determinare la specie di appartenenza",
+      "A ricostruire la storia riproduttiva della femmina, stimando prolificità e numero di gravidanze",
+      "A stabilire il sesso dell'animale",
+      "A misurare la velocità di corsa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le cicatrici uterine sono esiti dei precedenti impianti placentari e consentono di ricostruire la storia riproduttiva della femmina: stimare la prolificità (numero di impianti), capire quando sono avvenute le gravidanze, distinguerle (cicatrici uguali = stessa gravidanza; diverse = gravidanze diverse) e valutare la dinamica di popolazione. La classificazione in classi (E1-E5) riflette il tempo trascorso dall'impianto. Non servono per specie, sesso o velocità.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf pp.37-40"
+  },
+  {
+    "id": "lepre-034",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Osservando le orme di una lepre in corsa, in che modo si dispongono le impronte degli arti posteriori rispetto a quelle degli anteriori?",
+    "suggestion": "Attenzione all'ordine: nell'andatura saltellante i piedi più lunghi 'scavalcano' e precedono quelli più corti, che restano dietro in fila.",
+    "options": [
+      "Le impronte anteriori, appaiate, precedono quelle posteriori",
+      "Le impronte posteriori, appaiate, precedono quelle anteriori che sono poste una dietro l'altra",
+      "Anteriori e posteriori si sovrappongono perfettamente",
+      "Le impronte sono disposte in cerchio attorno al covo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le orme degli arti posteriori, più lunghe di quelle degli anteriori, sono appaiate e precedono costantemente queste ultime, che risultano poste una dietro l'altra. È un effetto tipico dell'andatura saltellante: i lunghi piedi posteriori si posano davanti agli anteriori. La distanza tra le tracce aumenta con la velocità.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf pp.47-48"
+  },
+  {
+    "id": "lepre-035",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Una femmina di lepre tenuta in cattività mostra un intervallo di 53-59 giorni tra due nascite successive. Quale fenomeno spiega questo intervallo, più lungo della sola gestazione (circa 41 giorni)?",
+    "suggestion": "La precisione conta: l'intervallo supera la gestazione di un periodo ben preciso, dovuto a un accoppiamento che ha indotto ovulazione ma non fecondazione.",
+    "options": [
+      "La superfetazione",
+      "La pseudo-gravidanza, che si protrae 12-18 giorni e si somma alla gestazione",
+      "La muta primaverile",
+      "Il riassorbimento embrionale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se l'accoppiamento avviene con un maschio sterile o è incompleto, può comunque avviarsi l'ovulazione senza fecondazione: si verifica la pseudo-gravidanza, che dura 12-18 giorni durante i quali la femmina non può essere fecondata. Sommata alla gestazione (circa 41 giorni), spiega gli intervalli di 53-59 giorni osservati in cattività. La superfetazione riguarda invece due gestazioni sovrapposte, il riassorbimento la morte di embrioni già impiantati.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf p.33"
+  },
+  {
+    "id": "lepre-036",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quale di queste affermazioni sul comportamento alimentare e sociale della lepre è corretta?",
+    "suggestion": "Attenzione a non confondere 'solitaria' con 'isolata sul territorio': la prudenza individuale convive con una distribuzione spaziale particolare.",
+    "options": [
+      "È un animale gregario che vive in grandi branchi organizzati tutto l'anno",
+      "È generalmente solitaria e prudente, ma la sua distribuzione sul territorio è di tipo aggregato, con concentrazioni negli ambienti più favorevoli",
+      "È strettamente diurna e si nutre solo a mezzogiorno",
+      "Difende un singolo covo fisso che non abbandona mai"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lepre è generalmente solitaria, prudente, crepuscolare e notturna, fedele al territorio; tuttavia la sua distribuzione sul territorio è di tipo aggregato, con concentrazioni negli ambienti più favorevoli e presso le aree di alimentazione, strategia che riduce il tempo di vigilanza. Non vive in branchi organizzati, non è strettamente diurna e utilizza più covi, non uno fisso.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf p.45"
+  },
+  {
+    "id": "lepre-037",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Riguardo alla durata della gestazione, quale delle seguenti affermazioni è corretta?",
+    "suggestion": "I valori vanno tenuti distinti per specie: confronta il dato della lepre comune con quello, più lungo, della lepre variabile (bianca).",
+    "options": [
+      "La gestazione dura circa 41-42 giorni nella lepre comune e 48-50 giorni nella lepre variabile (bianca)",
+      "La gestazione dura circa 60 giorni in entrambe le specie",
+      "La gestazione è più lunga nella lepre comune che nella lepre variabile",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gestazione dura circa 41-42 giorni nella lepre comune e 48-50 giorni nella lepre bianca (variabile): la lepre variabile ha quindi gestazione più lunga, non più corta. Il valore di 60 giorni si avvicina al periodo di riposo sessuale (circa 60-70 giorni), non alla gestazione. La prima opzione è corretta, quindi non si tratta di 'nessuna delle precedenti'.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf pp.36-39"
+  },
+  {
+    "id": "lepre-038",
+    "topic": "lepre",
+    "species": "Lepre (Lepus europaeus)",
+    "question": "Quale delle seguenti affermazioni sulla riproduzione della lepre comune è corretta?",
+    "suggestion": "Distingui con cura i fenomeni: ovulazione indotta, estro non ciclico e placenta di un tipo ben preciso non vanno confusi tra loro.",
+    "options": [
+      "La femmina ovula spontaneamente con un ciclo regolare di 28 giorni",
+      "L'ovulazione è indotta dall'accoppiamento, l'estro non ha ciclicità regolare e la placenta è di tipo discoidale emo-coriale",
+      "La placenta è di tipo cotiledonario come nei ruminanti",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella lepre l'ovulazione è indotta dall'accoppiamento (avviene 12-15 ore dopo il coito), l'estro non presenta ciclicità regolare e la placenta è di tipo discoidale emo-coriale. Non vi è quindi ovulazione spontanea ciclica, né una placenta cotiledonaria (tipica dei ruminanti). La seconda opzione è corretta, perciò non è 'nessuna delle precedenti'.",
+    "difficulty": "hard",
+    "source": "14 Lepre.pdf p.33"
+  }
+]
