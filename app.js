@@ -19,7 +19,7 @@ const state = {
   argStats: {},             // per-argument tally this session: species -> { correct, total }
   entries: [],              // flattened manifest entries: {topic, label, file, species, source}
   selectedFiles: new Set(), // which topic files are active, keyed by file path
-  difficulty: '__all__',
+  selectedDifficulties: new Set(),  // empty = all difficulties
   hasDifficulty: false,
   sessionLength: 'all',  // 'all', or a positive integer (as a string from the dropdown)
   sessionTotal: 0,       // how many questions this session actually has
@@ -147,14 +147,20 @@ async function loadBank() {
 
 // ---------- filters & queue ----------
 
+// A question matches the difficulty filter when no difficulties are checked
+// (empty selection = all) or its difficulty is among the checked ones.
+function difficultyMatches(q) {
+  if (!state.hasDifficulty || state.selectedDifficulties.size === 0) return true;
+  return state.selectedDifficulties.has(q.difficulty);
+}
+
 function applyFilters() {
   const seen = loadSeen();
   const flagged = loadFlagged();
   state.filtered = state.bank.filter(q => {
     if (flagged.has(q.id)) return false;
     if (!state.selectedFiles.has(q._file)) return false;
-    if (state.hasDifficulty && state.difficulty !== '__all__'
-        && q.difficulty !== state.difficulty) return false;
+    if (!difficultyMatches(q)) return false;
     return true;
   });
 
@@ -197,7 +203,7 @@ const els = {
   topicsToggle: document.getElementById('topics-toggle'),
   topicsPanel: document.getElementById('topics-panel'),
   topicsSummary: document.getElementById('topics-summary'),
-  difficultySelect: document.getElementById('difficulty-select'),
+  difficultyPills: document.getElementById('difficulty-pills'),
   difficultyField: document.getElementById('difficulty-field'),
   title: document.getElementById('title'),
   setupScreen: document.getElementById('setup-screen'),
@@ -409,11 +415,10 @@ function buildCountPresets() {
 function availableCount() {
   const flagged = loadFlagged();
   const seen = loadSeen();
-  const byDiff = state.hasDifficulty && state.difficulty !== '__all__';
   const filtered = state.bank.filter(q =>
     !flagged.has(q.id) &&
     state.selectedFiles.has(q._file) &&
-    (!byDiff || q.difficulty === state.difficulty)
+    difficultyMatches(q)
   );
   const unseen = filtered.filter(q => !seen.has(q.id));
   return unseen.length === 0 ? filtered.length : unseen.length;
@@ -458,7 +463,10 @@ function showSetupScreen() {
   els.emptyScreen.hidden = true;
   els.progress.hidden = true;
   els.newSessionBtn.hidden = true;
-  els.difficultySelect.value = state.difficulty;   // reflect current state in the control
+  // reflect current state in the pills
+  els.difficultyPills.querySelectorAll('input[type=checkbox]').forEach(cb => {
+    cb.checked = state.selectedDifficulties.has(cb.value);
+  });
   updateAvailableCount();
 }
 
@@ -769,8 +777,11 @@ function bindEvents() {
     }
   });
 
-  els.difficultySelect.addEventListener('change', () => {
-    state.difficulty = els.difficultySelect.value;
+  els.difficultyPills.addEventListener('change', (e) => {
+    const cb = e.target;
+    if (!cb.matches('input[type=checkbox]')) return;
+    if (cb.checked) state.selectedDifficulties.add(cb.value);
+    else state.selectedDifficulties.delete(cb.value);
     updateAvailableCount();        // setup screen: refresh preview, don't start
   });
 

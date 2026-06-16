@@ -9,7 +9,7 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=13" />
+  <link rel="stylesheet" href="styles.css?v=14" />
 </head>
 <body>
   <header class="topbar">
@@ -53,12 +53,21 @@
 
         <div class="setup-field" id="difficulty-field" hidden>
           <label class="setup-label">Difficoltà</label>
-          <select id="difficulty-select">
-            <option value="__all__">Tutte</option>
-            <option value="easy">Facile</option>
-            <option value="medium">Media</option>
-            <option value="hard">Difficile</option>
-          </select>
+          <div class="diff-pills" id="difficulty-pills">
+            <label class="diff-pill">
+              <input type="checkbox" value="easy" />
+              <span>Facile</span>
+            </label>
+            <label class="diff-pill">
+              <input type="checkbox" value="medium" />
+              <span>Media</span>
+            </label>
+            <label class="diff-pill">
+              <input type="checkbox" value="hard" />
+              <span>Difficile</span>
+            </label>
+          </div>
+          <p class="count-hint">Nessuna selezione = tutte.</p>
         </div>
 
         <div class="setup-field">
@@ -145,6 +154,6 @@
   </div>
 
   <script src="praise.js?v=3"></script>
-  <script src="app.js?v=15"></script>
+  <script src="app.js?v=16"></script>
 </body>
 </html>
