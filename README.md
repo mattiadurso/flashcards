@@ -1,10 +1,13 @@
-# Flashcard 
+# Flashcard
 
 A static website that turns study material into flashcard quizzes.
 
 Long story short: drop your PDFs into `docs/`, generate question files from them, open the page, and drill the material with multiple-choice flashcards. It was built to study the anatomy and biology of huntable/faunistic species from Italian university PDFs, but the format is generic — any topic works.
 
 No framework, no build step, no npm, no internet — just vanilla HTML + CSS + JavaScript. Everything runs locally from the folder on disk.
+
+<!-- Drop a screenshot/GIF here once you have one (e.g. images/screenshot.png) -->
+<!-- ![Setup screen and a flashcard](images/screenshot.png) -->
 
 ---
 
@@ -149,3 +152,9 @@ The lines are in Italian and written in the feminine. To change the wording or a
 
 - Pure static site: no dependencies, works fully offline once the folder is on disk.
 - If you edit `styles.css` / `app.js` / `praise.js` and don't see changes, hard-reload (`Cmd+Shift+R` / `Ctrl+F5`) — the files are loaded with `?v=` cache-busting query strings that bump on each change.
+
+---
+
+## License & scope
+
+Personal study tool. The code is yours to reuse / modify; PDFs under `docs/` are not redistributed (university material, kept local via `.gitignore`).
