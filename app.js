@@ -610,6 +610,7 @@ function nextQuestion() {
 }
 
 function renderQuestion(q) {
+  document.body.classList.remove('answered');   // drop the post-answer bottom spacer
   // slide/fade transition
   els.card.classList.add('leaving');
   setTimeout(() => {
@@ -740,10 +741,17 @@ function handleAnswer(chosenIdx) {
   els.feedback.hidden = false;
   updateProgress();
 
-  // Bring the Next button into view if it landed below the fold (mobile),
-  // so the user can tap it without an extra scroll. 'nearest' = no-op when
-  // it's already fully visible (desktop).
-  requestAnimationFrame(() => els.nextBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest' }));
+  // Lift the Next button to ~62% of the viewport, leaving empty space below it
+  // (the .answered class adds bottom padding on mobile for the scroll room). The
+  // gap keeps the button clear of iOS Safari's auto-appearing bottom toolbar, so
+  // it's tappable in one touch. Only scrolls down when the button sits too low.
+  document.body.classList.add('answered');
+  requestAnimationFrame(() => {
+    const rect = els.nextBtn.getBoundingClientRect();
+    const target = window.innerHeight * 0.62;
+    const delta = rect.bottom - target;
+    if (delta > 0) window.scrollBy({ top: delta, behavior: 'smooth' });
+  });
 }
 
 // Emoji picked at random for the end screen so it feels a little different each

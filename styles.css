@@ -869,6 +869,11 @@ code {
   body.session-active .topbar-row { display: none; }
   body.session-active .topbar { padding-top: 8px; padding-bottom: 8px; }
   body.session-active .main { padding-top: 10px; }
+
+  /* After answering, add empty space below the card so the page can scroll the
+     Next button up to ~62% of the viewport with room beneath it — keeping it
+     clear of iOS Safari's auto-appearing bottom toolbar. */
+  body.session-active.answered .main { padding-bottom: 45vh; }
 }
 
 .site-footer {
