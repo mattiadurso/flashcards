@@ -1,6 +1,6 @@
 # QUESTION_FORMAT.md
 
-Specification for converting an arbitrary PDF into a question file consumed by the Giud Studia quiz site.
+Specification for converting an arbitrary PDF into a question file consumed by the Flashcards quiz site.
 
 Follow this document end-to-end when generating a new topic. Schema keys are **English**; question text and options are **Italian**.
 

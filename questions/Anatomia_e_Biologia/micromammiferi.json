@@ -1,0 +1,750 @@
+[
+  {
+    "id": "micromammiferi-001",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Il termine \"micromammiferi\" indica un raggruppamento di che tipo?",
+    "suggestion": "Chiediti se topi, toporagni e talpe condividano davvero un antenato comune esclusivo oppure solo la taglia e un ruolo simile.",
+    "options": [
+      "Una vera unità tassonomica (un ordine a sé)",
+      "Una sottoclasse dei Mammiferi",
+      "Una famiglia di soli roditori",
+      "Un raggruppamento ecologico-dimensionale che riunisce specie di ordini diversi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il termine non ha valore tassonomico: riunisce mammiferi di piccole dimensioni (generalmente sotto 1 kg) appartenenti a ordini diversi (soprattutto Roditori ed ex-Insettivori) accomunati da taglia e ruolo ecologico simile. Non è quindi un ordine, una sottoclasse o una famiglia.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.1"
+  },
+  {
+    "id": "micromammiferi-002",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "I due principali ordini cui appartengono i micromammiferi italiani sono i Roditori e quale altro gruppo?",
+    "suggestion": "Pensa al gruppo che la classificazione tradizionale chiamava \"Insettivori\" e che oggi ha un nome diverso.",
+    "options": [
+      "Eulipotyphla (ex-Insettivori)",
+      "Lagomorpha",
+      "Chiroptera",
+      "Carnivora"
+    ],
+    "correctIndex": 0,
+    "explanation": "I micromammiferi fanno riferimento soprattutto a rappresentanti dei Roditori e dell'ordine un tempo chiamato Insettivori, oggi in gran parte ricondotto agli Eulipotyphla (Erinaceidi, Soricidi, Talpidi). Lagomorfi, Chirotteri e Carnivori sono ordini distinti.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.1"
+  },
+  {
+    "id": "micromammiferi-003",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché il vecchio ordine degli \"Insettivori\" è oggi considerato superato?",
+    "suggestion": "Rifletti sul fatto che le specie che vi erano incluse non discendono tutte da un unico antenato comune.",
+    "options": [
+      "Perché si è scoperto che non mangiano insetti",
+      "Perché era un taxon polifiletico e le sue specie sono oggi distribuite in ordini distinti",
+      "Perché tutte le sue specie si sono estinte",
+      "Perché è stato fuso con i Roditori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il taxon Insettivori è considerato superato perché polifiletico: le specie che vi erano incluse sono oggi distribuite in ordini distinti, principalmente Eulipotyphla (Erinaceidi, Soricidi, Talpidi) e Afrosoricida. Non è una questione di dieta né di estinzione né di fusione con i roditori.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.19"
+  },
+  {
+    "id": "micromammiferi-004",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale ruolo ecologico fondamentale svolgono i micromammiferi nelle reti trofiche?",
+    "suggestion": "Pensa a chi mangiano i rapaci notturni e molti carnivori: i micromammiferi stanno alla base o al vertice della piramide?",
+    "options": [
+      "Sono i predatori al vertice della catena alimentare",
+      "Sono prede chiave alla base della piramide trofica di molti carnivori e rapaci",
+      "Sono decompositori che riciclano la materia morta",
+      "Sono produttori primari come le piante"
+    ],
+    "correctIndex": 1,
+    "explanation": "I micromammiferi occupano soprattutto il livello dei consumatori primari e costituiscono una risorsa trofica essenziale per numerosi predatori, fungendo da \"motore energetico\" alla base della piramide. Non sono predatori apicali, decompositori né produttori.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.3"
+  },
+  {
+    "id": "micromammiferi-005",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Oltre a essere prede, quale funzione utile al suolo svolgono molti micromammiferi?",
+    "suggestion": "Pensa agli animali fossori e all'effetto del loro scavare e seppellire semi.",
+    "options": [
+      "Rimescolano, aerano e fertilizzano il suolo e disperdono semi",
+      "Producono ossigeno tramite fotosintesi",
+      "Fissano l'azoto atmosferico nelle radici",
+      "Impermeabilizzano il terreno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Funzionalmente i micromammiferi agiscono anche come attivi rimescolatori, aeratori e fertilizzatori del suolo e come agenti di dispersione e sotterramento dei semi. La fotosintesi e la fissazione dell'azoto non sono attività animali.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.2"
+  },
+  {
+    "id": "micromammiferi-006",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché lo studio dei micromammiferi in campo è particolarmente difficile?",
+    "suggestion": "Considera le loro abitudini e quanto siano facili da vedere a occhio nudo.",
+    "options": [
+      "Perché sono animali molto grandi e pericolosi",
+      "Perché vivono solo in cattività",
+      "Perché sono estremamente rari ovunque",
+      "Perché sono elusivi, prevalentemente notturni e talvolta di difficile determinazione specifica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Si tratta di animali elusivi, prevalentemente notturni e, in alcuni casi, di difficile determinazione specifica per la forte somiglianza tra specie affini. Non sono grandi né pericolosi, e molte specie sono comuni.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.6"
+  },
+  {
+    "id": "micromammiferi-007",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quali sono i due metodi fondamentali impiegati per monitorare i micromammiferi?",
+    "suggestion": "Uno prevede la cattura fisica con trappole, l'altro sfrutta i rigurgiti indigesti dei rapaci notturni.",
+    "options": [
+      "Il radiocollaraggio e il censimento al canto",
+      "Il trappolaggio e l'analisi delle borre dei rapaci notturni",
+      "Il conteggio delle impronte e i droni",
+      "Le fototrappole e l'analisi del DNA fecale soltanto"
+    ],
+    "correctIndex": 1,
+    "explanation": "I due metodi fondamentali sono il trappolaggio (cattura da vivo o da morto) e l'analisi delle borre dei rapaci notturni, cioè i rigurgiti delle parti indigeste dell'ultimo pasto. Radiocollaraggio, censimento al canto e droni non sono i metodi descritti.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.7"
+  },
+  {
+    "id": "micromammiferi-008",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché il trappolaggio da vivo è preferibile quando si studiano specie minacciate o a rischio di estinzione?",
+    "suggestion": "Pensa a cosa succede all'animale dopo la cattura nei due tipi di trappola.",
+    "options": [
+      "Perché non causa la morte dell'animale e consente tecniche di cattura-marcatura-ricattura",
+      "Perché è più economico delle trappole da morto",
+      "Perché cattura solo le specie target",
+      "Perché non richiede alcun permesso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le trappole da vivo intrappolano l'animale senza causarne la morte, caratteristica che le rende preferibili con specie minacciate; permettono inoltre la stima della densità assoluta tramite cattura-marcatura-ricattura. Non sono selettive per le sole specie target né esenti da autorizzazioni.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.8"
+  },
+  {
+    "id": "micromammiferi-009",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Qual è il principale vantaggio del trappolaggio da morto rispetto a quello da vivo?",
+    "suggestion": "Considera cosa permette di fare il disporre dell'animale intero rispetto al rilasciarlo vivo.",
+    "options": [
+      "Non altera mai la struttura della popolazione",
+      "Permette di disporre dell'animale intero per analisi anatomiche complete e determinazione specifica",
+      "È sempre più economico e veloce",
+      "È eticamente più accettabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il vantaggio principale delle trappole da morto è disporre dell'animale intero, permettendo analisi anatomiche e morfologiche complete utili alla determinazione specifica (ed eventuali analisi genetiche nei casi dubbi). È però cruento, eticamente meno accettabile e può essere selettivo, alterando la struttura della popolazione.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.9"
+  },
+  {
+    "id": "micromammiferi-010",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché l'analisi delle borre del barbagianni è considerata un metodo poco selettivo per censire i micromammiferi?",
+    "suggestion": "Rifletti su come il barbagianni sceglie le sue prede: in base alla rarità o all'abbondanza?",
+    "options": [
+      "Perché il barbagianni preda i micromammiferi soprattutto in funzione della loro abbondanza nell'area",
+      "Perché il barbagianni caccia solo una specie alla volta",
+      "Perché digerisce completamente le ossa, eliminando i bias",
+      "Perché preda solo le specie più rare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il metodo è meno selettivo del trappolaggio perché il barbagianni preda i micromammiferi presenti nell'area principalmente in funzione della loro abbondanza, riflettendo quindi la composizione reale della comunità. È inoltre non cruento. Il limite è la mancanza dell'animale intero, che può ostacolare la determinazione di specie.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.10"
+  },
+  {
+    "id": "micromammiferi-011",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "In una borra, quale carattere del cranio permette di riconoscere immediatamente un roditore?",
+    "suggestion": "Pensa ai grandi denti anteriori \"a paletta\" tipici di topi e arvicole.",
+    "options": [
+      "I lunghi canini ricurvi",
+      "L'assenza completa di denti",
+      "I molari a corona piatta e quadrata",
+      "I grandi incisivi a paletta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il cranio di un roditore in una borra è facilmente riconoscibile per i grandi incisivi a paletta. I roditori non hanno canini; i molari servono invece a distinguere i generi (topi con cuspidi arrotondate, arvicole con superficie a zigzag).",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.16"
+  },
+  {
+    "id": "micromammiferi-012",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Esaminando i molari di un cranio di roditore in una borra, come si distingue un'arvicola (Microtus) da un topo (Mus o Apodemus)?",
+    "suggestion": "Confronta una superficie occlusale a zigzag con una a cuspidi arrotondate.",
+    "options": [
+      "Le arvicole hanno molari con superficie a zigzag, i topi con cuspidi arrotondate",
+      "Le arvicole hanno molari con cuspidi arrotondate, i topi a zigzag",
+      "Hanno molari identici, si distinguono solo dagli incisivi",
+      "Le arvicole non possiedono molari"
+    ],
+    "correctIndex": 0,
+    "explanation": "I topi (Mus, Apodemus) possiedono molari con cuspidi arrotondate, mentre le arvicole (Microtus, Pitymis) hanno molari con superficie occlusale a zigzag. Questo carattere dei molari, non degli incisivi, permette la distinzione tra i due gruppi.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.16"
+  },
+  {
+    "id": "micromammiferi-013",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "I predatori specialisti di micromammiferi, rispetto ai generalisti, come reagiscono al calo delle loro prede principali?",
+    "suggestion": "Pensa a chi dipende da poche specie preda e quindi ne segue strettamente le fluttuazioni.",
+    "options": [
+      "Sono indifferenti perché cambiano facilmente preda",
+      "Sono fortemente legati alle fluttuazioni delle prede e possono spostarsi o subire un marcato calo numerico",
+      "Aumentano sempre di numero",
+      "Diventano produttori primari"
+    ],
+    "correctIndex": 1,
+    "explanation": "I predatori specialisti dipendono da una o poche specie preda, quindi sono strettamente legati alle loro fluttuazioni: al calo delle prede principali possono essere costretti a spostarsi o subire un marcato calo numerico. I generalisti, sfruttando un ampio spettro di prede, sono meno influtti dalle variazioni di una singola specie.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.18"
+  },
+  {
+    "id": "micromammiferi-014",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quali tre famiglie sono oggi incluse nell'ordine Eulipotyphla?",
+    "suggestion": "Pensa ai tre gruppi italiani: quello con gli aculei, quello dei piccoli musi appuntiti e quello degli scavatori sotterranei.",
+    "options": [
+      "Muridae, Cricetidae e Sciuridae",
+      "Erinaceidae, Soricidae e Talpidae",
+      "Leporidae, Soricidae e Talpidae",
+      "Vespertilionidae, Erinaceidae e Muridae"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ordine Eulipotyphla comprende gli Erinaceidae (ricci), i Soricidae (toporagni) e i Talpidae (talpe), oltre ai rari Solenodontidae dei Caraibi. Muridae, Cricetidae e Sciuridae sono famiglie di roditori; Vespertilionidae sono pipistrelli; Leporidae sono lagomorfi.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.19"
+  },
+  {
+    "id": "micromammiferi-015",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale carattere dentario distingue un insettivoro come il toporagno da un roditore come l'arvicola?",
+    "suggestion": "Pensa a chi possiede incisivi a crescita continua e diastema, e chi invece ha denti aguzzi e appuntiti.",
+    "options": [
+      "Il toporagno ha incisivi a scalpello e un ampio diastema",
+      "Il toporagno ha dentini aguzzi e appuntiti, senza il diastema dei roditori",
+      "Hanno dentatura identica",
+      "Il toporagno ha molari a zigzag come l'arvicola"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli insettivori come il toporagno hanno denti aguzzi e appuntiti adatti agli invertebrati, senza diastema; i roditori invece hanno incisivi a crescita continua separati dai molari da un diastema. La superficie a zigzag è un carattere dei molari delle arvicole, non dei toporagni.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.20"
+  },
+  {
+    "id": "micromammiferi-016",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale carattere delle zampe permette di distinguere un toporagno da un vero roditore simile a un topo?",
+    "suggestion": "Conta gli artigli: i due gruppi non ne hanno lo stesso numero.",
+    "options": [
+      "Il toporagno ha zampe con cinque artigli, i roditori ne hanno quattro",
+      "Il toporagno ha zampe palmate, i roditori no",
+      "Il toporagno ha quattro artigli, i roditori cinque",
+      "Entrambi hanno lo stesso numero di artigli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nonostante l'aspetto esteriore da \"topo dal naso lungo\", il toporagno non è un roditore: i toporagni hanno zampe con cinque artigli, a differenza dei roditori che ne hanno quattro. Non si tratta di palmatura.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.21"
+  },
+  {
+    "id": "micromammiferi-017",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale toporagno è considerato uno dei mammiferi viventi più piccoli al mondo?",
+    "suggestion": "È una specie del genere Suncus, lunga appena circa 3,5 cm e di pochi grammi.",
+    "options": [
+      "Suncus murinus",
+      "Sorex araneus",
+      "Suncus etruscus",
+      "Crocidura leucodon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Suncus etruscus, lungo circa 3,5 cm e dal peso di circa 2 grammi, è considerato uno dei mammiferi viventi più piccoli. Suncus murinus è invece la specie più grande di toporagno (fino a circa 15 cm e 100 g); Sorex araneus e Crocidura leucodon sono di taglia intermedia.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.22"
+  },
+  {
+    "id": "micromammiferi-018",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Cosa comporta per i toporagni il loro metabolismo estremamente elevato?",
+    "suggestion": "Pensa a quanta parte del proprio peso corporeo devono ingerire ogni giorno e se possano permettersi di digiunare a lungo.",
+    "options": [
+      "Vanno in letargo per risparmiare energia",
+      "Consumano ogni giorno una quantità di cibo pari all'80-90% del proprio peso corporeo e non vanno in letargo",
+      "Mangiano una volta a settimana",
+      "Hanno bisogno di pochissimo cibo"
+    ],
+    "correctIndex": 1,
+    "explanation": "I toporagni hanno un metabolismo molto elevato che li porta a consumare quotidianamente una quantità di cibo pari all'80-90% del proprio peso corporeo; per questo sono attivi tutto l'anno e non vanno in letargo (possono al più entrare in torpore).",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.24"
+  },
+  {
+    "id": "micromammiferi-019",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Diversamente dai roditori, come si comportano i denti dei toporagni nel corso della vita?",
+    "suggestion": "I roditori hanno incisivi a crescita continua: i toporagni hanno lo stesso meccanismo o no?",
+    "options": [
+      "Crescono in continuazione come negli incisivi dei roditori",
+      "Non vengono sostituiti e si consumano progressivamente, con un'unica dentatura definitiva",
+      "Vengono sostituiti più volte ogni anno",
+      "Rimangono identici e non si usurano mai"
+    ],
+    "correctIndex": 1,
+    "explanation": "A differenza dei roditori, che possiedono incisivi a crescita continua, nei toporagni i denti non vengono sostituiti e si consumano progressivamente; perdono la dentizione decidua prima della nascita e dispongono quindi di una sola dentatura definitiva.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.24"
+  },
+  {
+    "id": "micromammiferi-020",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale carattere cranico negativo accomuna Soricidi, Talpidi e pipistrelli insettivori con dente dilambdodonte?",
+    "suggestion": "Pensa a un osso facciale che la maggior parte dei mammiferi possiede e che invece a questi manca, insieme alle bolle timpaniche.",
+    "options": [
+      "Mancano dell'osso zigomatico (arco zigomatico), della bolla timpanica e dei processi postorbitali",
+      "Mancano della mandibola",
+      "Mancano completamente dei denti",
+      "Mancano della scatola cranica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli animali con dente dilambdodonte (Soricidi, Talpidi, pipistrelli insettivori) mancano di archi zigomatici, bolla timpanica e processi postorbitali; contrariamente alla maggior parte dei mammiferi non hanno l'osso zigomatico. Possiedono ovviamente mandibola, denti e scatola cranica.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.26"
+  },
+  {
+    "id": "micromammiferi-021",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale capacità sensoriale peculiare, condivisa con pipistrelli e odontoceti, presentano alcune specie di toporagni?",
+    "suggestion": "Pensa a chi emette suoni e ascolta gli echi di ritorno per orientarsi.",
+    "options": [
+      "La visione a infrarossi",
+      "La magnetorecezione",
+      "La bioluminescenza",
+      "L'ecolocalizzazione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alcuni toporagni sono in grado di orientarsi mediante ecolocalizzazione, emettendo suoni e ascoltando gli echi di ritorno, analogamente a pipistrelli e odontoceti. Alcune specie sono inoltre velenose, ma la visione a infrarossi, la magnetorecezione e la bioluminescenza non sono citate.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.27"
+  },
+  {
+    "id": "micromammiferi-022",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "A quale stile di vita sono adattati gli arti anteriori della talpa?",
+    "suggestion": "Pensa a un animale sotterraneo: le mani sono rivolte all'esterno per spostare cosa?",
+    "options": [
+      "All'arrampicata sugli alberi",
+      "Al nuoto, con palme reticolate",
+      "Allo scavo, con unghie potenti e mani rivolte perennemente all'esterno per spostare la terra",
+      "Al salto, con metatarso allungato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli arti anteriori delle talpe sono estremamente adattati allo scavo grazie alle unghie potenti, e le mani sono rivolte perennemente all'esterno per togliere via la terra. Le palme reticolate per il nuoto sono invece tipiche dei desman; l'arrampicata e il salto non riguardano le talpe.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.33"
+  },
+  {
+    "id": "micromammiferi-023",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Su quale senso fanno principalmente affidamento i Talpidi, data la vista scarsa?",
+    "suggestion": "Pensa alle vibrisse su faccia, zampe e coda e a un muso particolarmente sensibile.",
+    "options": [
+      "Sulla vista, che è acutissima",
+      "Sul tatto, grazie alle vibrisse e al muso flessibile molto sensibile",
+      "Sull'ecolocalizzazione",
+      "Sul gusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "I talpidi hanno occhi piccoli e vista scarsa e fanno affidamento principalmente sul senso del tatto: possiedono vibrisse su faccia, zampe e coda, e un muso flessibile particolarmente sensibile. La vista non è acuta e l'ecolocalizzazione non è loro attribuita.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.36"
+  },
+  {
+    "id": "micromammiferi-024",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché in italiano è improprio chiamare \"porcospino\" il riccio comune?",
+    "suggestion": "Quel termine designa più correttamente un roditore con aculei, non un eulipotifle.",
+    "options": [
+      "Perché \"porcospino\" indica più correttamente l'istrice, che è un roditore",
+      "Perché il riccio non ha aculei",
+      "Perché \"porcospino\" indica la talpa",
+      "Perché il riccio non esiste in Italia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il riccio viene colloquialmente chiamato porcospino, ma l'uso è improprio perché quel termine designa più correttamente l'istrice (Hystrix cristata), che è un roditore. Il riccio è invece un Eulipotifle (Erinaceidae) e possiede aculei.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.41"
+  },
+  {
+    "id": "micromammiferi-025",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "I due lunghi denti frontali del riccio, che sembrano canini, cosa sono in realtà?",
+    "suggestion": "Pensa a denti che a prima vista paiono canini ma anatomicamente appartengono a un'altra categoria anteriore.",
+    "options": [
+      "Veri canini",
+      "Premolari ipertrofici",
+      "Incisivi modificati",
+      "Molari aggiuntivi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I ricci presentano 36 denti; i due lunghi denti frontali, che a prima vista possono sembrare canini, sono in realtà incisivi modificati. Non sono dunque canini, premolari né molari.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.44"
+  },
+  {
+    "id": "micromammiferi-026",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale comportamento difensivo è tipico del riccio comune di fronte a un pericolo?",
+    "suggestion": "Pensa alla sua corazza di peli modificati e a come può chiudersi su se stesso.",
+    "options": [
+      "Spruzza un liquido urticante",
+      "Si immobilizza drizzando gli aculei e, se toccato, si appallottola su se stesso",
+      "Stacca la coda per distrarre il predatore",
+      "Emette ultrasuoni per stordire il predatore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Di fronte a un pericolo il riccio normalmente si immobilizza drizzando gli aculei sul dorso e, se l'intruso lo tocca, si appallottola su se stesso, aiutato da una fascia muscolare dorsale. Gli aculei sono peli modificati; non spruzza liquidi, non stacca la coda né stordisce con ultrasuoni.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.45"
+  },
+  {
+    "id": "micromammiferi-027",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Cosa accade alla fisiologia del riccio durante il letargo invernale?",
+    "suggestion": "Pensa a una marcata riduzione delle funzioni vitali, con temperatura corporea che crolla da circa 35 gradi.",
+    "options": [
+      "La temperatura corporea aumenta e il cuore accelera",
+      "La temperatura corporea scende da circa 35 °C a valori prossimi ai 10 °C e la frequenza cardiaca si riduce sensibilmente",
+      "Il metabolismo resta invariato",
+      "L'animale resta sveglio ma immobile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante il letargo si verifica una marcata riduzione delle funzioni fisiologiche: la temperatura corporea scende da circa 35 °C fino a valori prossimi ai 10 °C, mentre la frequenza cardiaca si riduce sensibilmente. La sopravvivenza dipende dalle riserve di grasso accumulate.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.47"
+  },
+  {
+    "id": "micromammiferi-028",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Qual è la dieta prevalente del riccio comune?",
+    "suggestion": "Pensa a un eulipotifle che si nutre soprattutto di invertebrati, pur potendo integrare con altro.",
+    "options": [
+      "Esclusivamente vegetali e frutta",
+      "Prevalentemente insettivora (insetti, lombrichi, chiocciole), con occasionali piccoli vertebrati e vegetali",
+      "Esclusivamente piccoli mammiferi",
+      "Solo semi e granaglie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il riccio è prevalentemente insettivoro: si nutre soprattutto di invertebrati come insetti, lombrichi, chiocciole e altri artropodi, includendo occasionalmente piccoli vertebrati e, in scarsità, vegetali. Non è né strettamente erbivoro né granivoro.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.48"
+  },
+  {
+    "id": "micromammiferi-029",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale comportamento curioso, dall'utilità ancora sconosciuta, pratica il riccio cospargendosi gli aculei di saliva schiumosa?",
+    "suggestion": "Avviene dopo aver annusato o masticato una sostanza insolita; in inglese si chiama 'self-anointing'.",
+    "options": [
+      "Il termoregolamento sociale",
+      "L'autosputo (self-anointing)",
+      "La marcatura odorosa con ghiandole plantari",
+      "L'ecolocalizzazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il riccio pratica l'autosputo (self-anointing): dopo aver annusato o masticato una sostanza insolita produce saliva schiumosa che distribuisce sugli aculei dei fianchi. L'utilità è ancora sconosciuta (difesa, mascheramento olfattivo, comunicazione, risposta a stimoli nuovi). Non è marcatura plantare né ecolocalizzazione.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.51"
+  },
+  {
+    "id": "micromammiferi-030",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché i Roditori sono considerati l'ordine di mammiferi di maggior successo in termini di numero di specie?",
+    "suggestion": "Pensa alla taglia, alla velocità riproduttiva e alla capacità di sfruttare cibi diversi rosicchiando.",
+    "options": [
+      "Per la grande taglia e la longevità eccezionale",
+      "Perché sono tutti predatori al vertice",
+      "Perché privi di predatori naturali",
+      "Per la piccola taglia, il breve ciclo riproduttivo e l'abilità di rosicchiare e mangiare cibi vari"
+    ],
+    "correctIndex": 3,
+    "explanation": "I roditori comprendono circa il 43% delle specie di mammiferi esistenti; il loro successo è dovuto alla piccola taglia, al breve ciclo riproduttivo e all'abilità di rosicchiare e mangiare un'ampia varietà di cibo. Non sono grandi, longevi in media, né predatori apicali.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.53"
+  },
+  {
+    "id": "micromammiferi-031",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché gli incisivi dei roditori si mantengono affilati con l'uso?",
+    "suggestion": "Pensa a come è distribuito lo smalto sulle due facce del dente e a come si consuma di conseguenza.",
+    "options": [
+      "Perché sono rivestiti di smalto su entrambe le facce in modo uniforme",
+      "Perché lo smalto riveste solo la faccia esterna, mentre la dentina interna si consuma più in fretta dando un taglio obliquo",
+      "Perché non si consumano mai",
+      "Perché sono sostituiti continuamente da nuovi denti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli incisivi dei roditori sono ricoperti di smalto solo sulla faccia esterna, mentre la dentina interna è esposta e si consuma più rapidamente: questa usura differenziale affila il dente conferendogli un taglio obliquo. Sono a radice aperta e a crescita continua, non sostituiti da denti nuovi.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.62"
+  },
+  {
+    "id": "micromammiferi-032",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale muscolo masticatorio è particolarmente sviluppato nei roditori per consentire il movimento di rosura?",
+    "suggestion": "È il muscolo che si estende dallo zigomo alla mandibola e permette anche spostamenti anteriori, più sviluppato del temporale.",
+    "options": [
+      "Il muscolo temporale",
+      "Il muscolo massetere",
+      "Il muscolo pterigoideo soltanto",
+      "Il muscolo digastrico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei roditori il muscolo principale è il massetere, ben sviluppato e suddiviso in più porzioni, che si estende dallo zigomo alla mandibola: oltre alla chiusura, consente i movimenti anteriori fondamentali per la rosura. Il muscolo temporale è presente ma meno sviluppato.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.58"
+  },
+  {
+    "id": "micromammiferi-033",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale struttura dell'apparato digerente è spesso molto sviluppata nei roditori erbivori per fermentare la cellulosa?",
+    "suggestion": "Pensa a un tratto intestinale che ospita batteri simbionti, analogo per funzione a quello di altri erbivori.",
+    "options": [
+      "Lo stomaco, suddiviso in quattro camere",
+      "Il cieco, molto sviluppato e sede di fermentazione grazie a batteri simbionti",
+      "Il fegato, privo di cistifellea",
+      "L'esofago"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei roditori lo stomaco è generalmente semplice, mentre il cieco è spesso molto sviluppato e svolge un ruolo fondamentale nella fermentazione della cellulosa grazie a batteri simbionti. Non hanno stomaco a quattro camere.",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.64"
+  },
+  {
+    "id": "micromammiferi-034",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché molti piccoli roditori, come il topo, sono definiti specie a selezione r?",
+    "suggestion": "Pensa a chi affronta un'alta mortalità producendo molte nidiate numerose di piccoli precoci, contro chi punta su pochi piccoli ben sviluppati.",
+    "options": [
+      "Perché hanno gestazioni molto lunghe e pochi piccoli ben sviluppati",
+      "Perché hanno elevata prolificità, brevi cure parentali e alta mortalità giovanile",
+      "Perché vivono a lungo e si riproducono raramente",
+      "Perché hanno parti singoli con piccoli già autonomi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I piccoli roditori sono r-strateghi: per far fronte all'elevata mortalità producono numerose gravidanze brevi con molti piccoli precoci, con brevi cure parentali e alta mortalità giovanile. Le gestazioni lunghe e i pochi piccoli ben sviluppati caratterizzano invece i K-strateghi (es. caviomorfi).",
+    "difficulty": "medium",
+    "source": "15 MICROMAMMIFERI.pdf p.66"
+  },
+  {
+    "id": "micromammiferi-035",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale adattamento dello scoiattolo comune, condiviso con il criceto, serve a trasportare cibo e materiale per il nido?",
+    "suggestion": "Pensa a estroflessioni della parete interna delle guance che possono espandersi fino alle spalle.",
+    "options": [
+      "Le tasche guanciali",
+      "Le ghiandole odorifere plantari",
+      "Le vibrisse",
+      "Le tasche addominali marsupiali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo scoiattolo, come il criceto, possiede le tasche guanciali, estroflessioni della parete interna delle guance che fungono da vere borse per trasportare cibo e materiale da nido, espandibili fino alle spalle. Le ghiandole plantari servono a marcare, non a trasportare; gli scoiattoli non sono marsupiali.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.73"
+  },
+  {
+    "id": "micromammiferi-036",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale ruolo ecologico positivo svolge lo scoiattolo comune nutrendosi soprattutto di semi e ghiande?",
+    "suggestion": "Pensa a cosa succede ai semi che nasconde o lascia cadere mentre si alimenta.",
+    "options": [
+      "Impollina i fiori",
+      "Decompone la lettiera",
+      "Contribuisce alla dispersione dei semi",
+      "Fissa l'azoto nel suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo scoiattolo, onnivoro a dieta prevalentemente vegetariana che si nutre soprattutto di semi, frutti e ghiande, svolge un importante ruolo ecologico nella dispersione dei semi. Non è impollinatore né decompositore.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.76"
+  },
+  {
+    "id": "micromammiferi-037",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale segnale usa la marmotta delle Alpi per allertare il gruppo all'avvicinarsi di un predatore?",
+    "suggestion": "Pensa a un suono acuto udibile a grande distanza emesso dal primo individuo che avvista il pericolo.",
+    "options": [
+      "Un fischio acuto di allarme",
+      "Una marcatura odorosa sul terreno",
+      "Un battito della coda sul suolo",
+      "Un'emissione di ultrasuoni inudibili"
+    ],
+    "correctIndex": 0,
+    "explanation": "La prima marmotta che percepisce il pericolo emette un fischio acuto, udibile a grande distanza, che induce tutti gli individui del gruppo a rifugiarsi nelle tane. Le ghiandole odorose servono a marcare il territorio, non come allarme acustico.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.81"
+  },
+  {
+    "id": "micromammiferi-038",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Cos'è la \"termoregolazione sociale\" osservata nel letargo di gruppo della marmotta?",
+    "suggestion": "Pensa a perché i giovani sopravvivono meglio se svernano insieme ad adulti più grandi.",
+    "options": [
+      "La capacità dei giovani di produrre calore autonomamente",
+      "La migliore conservazione del calore corporeo grazie alla presenza di più individui nella tana, da cui dipendono i giovani",
+      "L'abbassamento volontario della temperatura per risparmiare energia",
+      "Un sistema di ventilazione delle tane"
+    ],
+    "correctIndex": 1,
+    "explanation": "La termoregolazione sociale è il fenomeno per cui la presenza di più individui nella tana consente una migliore conservazione del calore corporeo: i giovani, troppo piccoli per accumulare riserve sufficienti, dipendono dal calore prodotto dagli adulti e sopravvivono meglio se svernano in gruppo familiare.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.82"
+  },
+  {
+    "id": "micromammiferi-039",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Nonostante le abitudini semiacquatiche, quale carattere delle zampe presenta l'arvicola acquatica (Arvicola amphibius)?",
+    "suggestion": "Attento: una specie semiacquatica non sviluppa necessariamente i piedi palmati come fanno i veri animali natatori.",
+    "options": [
+      "Le dita sono ampiamente palmate per il nuoto",
+      "Le dita non presentano alcun accenno di palmatura",
+      "Le zampe sono trasformate in pinne",
+      "I piedi posteriori sono reticolati come nei desman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nonostante le abitudini semiacquatiche, le dita dell'arvicola acquatica non presentano alcun accenno di palmatura. La palmatura o le palme reticolate caratterizzano altri animali acquatici (come i desman o la nutria), non questa arvicola.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.88"
+  },
+  {
+    "id": "micromammiferi-040",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Per quale ragione storica fu introdotta in molti Paesi la nutria (Myocastor coypus), oggi tra le specie più invasive?",
+    "suggestion": "Pensa a un prodotto commerciale ricavato dal suo corpo che portò alla creazione di allevamenti intensivi.",
+    "options": [
+      "Per la qualità della sua pelliccia, allevata a fini commerciali",
+      "Per il controllo biologico delle zanzare",
+      "Come animale da laboratorio",
+      "Per la produzione di carne pregiata"
+    ],
+    "correctIndex": 0,
+    "explanation": "La nutria divenne nota tra fine Ottocento e inizio Novecento per la qualità della sua pelliccia, il che portò alla creazione di allevamenti intensivi a fini commerciali; individui fuggiti o introdotti si stabilirono poi in numerosi Paesi (in Italia dal 1928). Non fu introdotta per controllo biologico, laboratorio o carne.",
+    "difficulty": "easy",
+    "source": "15 MICROMAMMIFERI.pdf p.95"
+  },
+  {
+    "id": "micromammiferi-041",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Perché in Italia i tentativi locali di eradicazione della nutria si sono finora dimostrati inefficaci?",
+    "suggestion": "Pensa a cosa accade ai vuoti lasciati dal controllo numerico in una rete idrografica fitta e ben collegata.",
+    "options": [
+      "Perché la nutria è protetta da leggi che ne vietano l'abbattimento",
+      "Perché il calo locale viene rapidamente compensato dall'immigrazione di individui dalle zone limitrofe",
+      "Perché la nutria va in letargo e sfugge alle catture",
+      "Perché in Italia non esistono trappole adatte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le campagne locali di controllo riducono le popolazioni nelle aree di intervento, ma tale calo è rapidamente compensato dall'immigrazione dalle zone limitrofe; per questo serve un piano coordinato basato sull'isolamento idrico degli areali. L'unico caso di eradicazione completa è la Gran Bretagna, favorita anche da inverni rigidi.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.99"
+  },
+  {
+    "id": "micromammiferi-042",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Considerando incisivi, canini e crescita dentale, quale affermazione distingue correttamente un roditore da un eulipotifle come il riccio?",
+    "suggestion": "Attento ai dettagli: valuta separatamente la presenza di canini e il tipo di crescita degli incisivi nei due gruppi.",
+    "options": [
+      "Il roditore ha incisivi a crescita continua e manca di canini; il riccio ha canini ben distinti e denti a radice chiusa che non ricrescono",
+      "Entrambi hanno incisivi a crescita continua e canini sviluppati",
+      "Il riccio ha incisivi a crescita continua, il roditore no",
+      "Nessuno dei due possiede incisivi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il roditore ha dentatura eterodonte con incisivi a crescita continua a radice aperta e assenza di canini; il riccio (eulipotifle) ha denti tutti provvisti di radice che non ricrescono e i suoi due lunghi denti frontali, simili a canini, sono in realtà incisivi modificati. Le altre opzioni invertono o confondono i caratteri.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.63"
+  },
+  {
+    "id": "micromammiferi-043",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "Quale tra queste è una vera caratteristica anatomica distintiva degli Eulipotyphla?",
+    "suggestion": "Attenzione alla precisione: valuta l'intestino, il cieco e il contributo del mascellare all'orbita, scartando i caratteri inventati.",
+    "options": [
+      "Stomaco a quattro camere e cieco molto sviluppato",
+      "Intestino semplice con cieco assente o ridotto e mascellare che contribuisce estesamente all'orbita",
+      "Incisivi a crescita continua e diastema ampio",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli Eulipotifli presentano intestino semplice e poco differenziato con cieco assente o ridotto, riduzione della sinfisi pubica e un mascellare che contribuisce in modo esteso alla formazione dell'orbita. Lo stomaco a quattro camere e il cieco molto sviluppato sono caratteri di erbivori; incisivi a crescita continua e diastema sono propri dei roditori.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.20"
+  },
+  {
+    "id": "micromammiferi-044",
+    "topic": "micromammiferi",
+    "species": "Micromammiferi",
+    "question": "All'interno della famiglia Soricidae, quale genere comprende le forme semi-acquatiche?",
+    "suggestion": "Attento a non confonderlo con i generi terricoli: cerca quello a sviluppo semi-acquatico e orecchie ridotte.",
+    "options": [
+      "Crocidura",
+      "Suncus",
+      "Neomys",
+      "Sorex"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei Soricidi il genere Neomys comprende toporagni semi-acquatici di medie dimensioni con orecchie ridotte. Sorex e Crocidura sono terricoli (rispettivamente con orecchie ridotte e grandi); Suncus è terricolo di piccole dimensioni con grandi orecchie. La presenza di forme semi-acquatiche in Neomys è proprio il loro tratto distintivo.",
+    "difficulty": "hard",
+    "source": "15 MICROMAMMIFERI.pdf p.21"
+  }
+]

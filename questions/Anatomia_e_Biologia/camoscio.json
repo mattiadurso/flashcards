@@ -1,0 +1,580 @@
+[
+  {
+    "id": "camoscio-001",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale carattere delle corna del camoscio è comune sia ai maschi sia alle femmine?",
+    "suggestion": "Rifletti su chi porta le corna in questa specie e se vengono perse stagionalmente.",
+    "options": [
+      "Sono nere, uncinate e permanenti a crescita continua in entrambi i sessi",
+      "Sono presenti solo nei maschi adulti",
+      "Vengono perse e rigenerate ogni inverno",
+      "Sono ramificate come i palchi dei cervidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il camoscio porta tipiche corna nere uncinate, permanenti e a crescita continua, presenti in entrambi i sessi. Non sono caduche come i palchi dei cervidi e non sono esclusive dei maschi né ramificate.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.2"
+  },
+  {
+    "id": "camoscio-002",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "In quale tipo di ambiente vive prevalentemente Rupicapra rupicapra?",
+    "suggestion": "Il suo nome richiama la roccia: pensa alla quota e al tipo di versanti che predilige.",
+    "options": [
+      "Pianure coltivate e zone umide di fondovalle",
+      "Boschi e soprattutto alte pendici spoglie oltre il limite della vegetazione arborea",
+      "Macchia mediterranea costiera",
+      "Foreste planiziali di latifoglie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il camoscio è un ruminante d'alta montagna, diffuso sia nei boschi sia, più frequentemente, sulle alte pendici spoglie oltre il limite della vegetazione arborea. Pianure, macchia mediterranea e foreste planiziali non corrispondono al suo habitat tipico.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.2"
+  },
+  {
+    "id": "camoscio-003",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "In quali regioni italiane si concentra la maggiore presenza di camoscio alpino?",
+    "suggestion": "Pensa all'arco alpino orientale e occidentale: le province con le consistenze più elevate.",
+    "options": [
+      "Toscana e Umbria",
+      "Sardegna e Sicilia",
+      "Trento, Bolzano, Verona (Prealpi Veronesi) e Piemonte",
+      "Puglia e Basilicata"
+    ],
+    "correctIndex": 2,
+    "explanation": "La maggiore presenza si riscontra nelle province di Trento, Bolzano e Verona (Prealpi Veronesi) e in Piemonte, territori che concentrano il 62% dei camosci alpini italiani. Le altre regioni indicate non ospitano popolazioni rilevanti di camoscio alpino.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.4"
+  },
+  {
+    "id": "camoscio-004",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Perché agli inizi del '900 il camoscio alpino fu immesso con successo anche in Nuova Zelanda?",
+    "suggestion": "Si trattò di una traslocazione di individui dalle Alpi: oggi quella popolazione è prosperata.",
+    "options": [
+      "Perché la specie era originaria dell'emisfero australe",
+      "Per compensare l'estinzione del camoscio sulle Alpi",
+      "Per sostituire lo stambecco nelle praterie neozelandesi",
+      "Per ricreare una popolazione che oggi conta oltre 30.000 soggetti dopo immissioni di individui delle Alpi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Usando individui provenienti dalle Alpi furono fatte immissioni in Nuova Zelanda agli inizi del '900, dove la popolazione conta oggi oltre 30.000 soggetti. Il camoscio non è originario dell'emisfero australe e non era estinto sulle Alpi.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.3"
+  },
+  {
+    "id": "camoscio-005",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "A quale densità di popolazione si trova tipicamente il camoscio alpino sulle Alpi?",
+    "suggestion": "Pensa a un intervallo basso, espresso in capi ogni 100 ettari, con picchi locali più alti.",
+    "options": [
+      "Fra 3 e 10 capi/100 ha, con picchi locali più elevati",
+      "Fra 30 e 50 capi/100 ha",
+      "Meno di 1 capo/100 ha ovunque",
+      "Costantemente oltre 24 capi/100 ha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il camoscio alpino è presente a densità comprese fra 3 e 10 capi/100 ha, con picchi localmente più elevati (fino a 24 capi/100 ha nel Parco Nazionale del Gran Paradiso). I valori molto alti citati negli altri casi rappresentano eccezioni o sono fuori scala.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.6"
+  },
+  {
+    "id": "camoscio-006",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale popolazione di camoscio presente in Italia è considerata specie e sottospecie differente da quella alpina?",
+    "suggestion": "Si tratta della popolazione dell'Italia centrale, legata a un celebre parco nazionale.",
+    "options": [
+      "Il camoscio del Carso triestino",
+      "Il camoscio appenninico abruzzese (Rupicapra pyrenaica ornata)",
+      "Il camoscio delle Alpi Marittime",
+      "Il camoscio della Catena del Giura"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Abruzzo è presente il camoscio appenninico, considerato specie e sottospecie differente (Rupicapra pyrenaica ornata). Il gruppo del Carso e le popolazioni alpine appartengono invece al camoscio alpino Rupicapra rupicapra.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.7"
+  },
+  {
+    "id": "camoscio-007",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Da quali caratteri si distingue il camoscio appenninico (Rupicapra pyrenaica ornata) rispetto a quello alpino?",
+    "suggestion": "Osserva il collo e confronta la lunghezza delle corna fra le due forme.",
+    "options": [
+      "L'assenza completa di corna nelle femmine",
+      "Un mantello uniformemente bianco tutto l'anno",
+      "Una larga banda nera sul collo e corna assai più lunghe (fino a 30 cm e oltre, contro i 20 cm)",
+      "Corna lisce e prive di anelli di accrescimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il camoscio abruzzese è caratterizzato da una larga banda nera che orna il collo e da corna assai più lunghe (fino a 30 cm e oltre, rispetto ai circa 20 cm dell'alpino). Anche nell'appenninico le corna sono presenti in entrambi i sessi e mostrano anelli di accrescimento.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.7"
+  },
+  {
+    "id": "camoscio-008",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Come è organizzata la struttura sociale di base del camoscio?",
+    "suggestion": "Pensa a chi guida i branchi e al legame che lega il piccolo all'adulto nei primi anni.",
+    "options": [
+      "Patriarcale, guidata dal maschio dominante tutto l'anno",
+      "Priva di gerarchie, con individui sempre solitari",
+      "Basata su coppie stabili monogame",
+      "Matriarcale, fondata sul legame madre-piccolo che si scioglie al secondo anno di vita del capretto"
+    ],
+    "correctIndex": 3,
+    "explanation": "La struttura sociale è matriarcale, fondata sul legame madre-piccolo che si scioglie al secondo anno di vita del capretto. I branchi sono guidati da femmine anziane; i maschi tendono invece a essere solitari.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.8"
+  },
+  {
+    "id": "camoscio-009",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Sebbene la maturità sessuale fisiologica dei maschi sia raggiunta verso i 18 mesi, a quale età i maschi diventano riproduttori realmente efficaci?",
+    "suggestion": "La fisiologia precede di molto il successo sociale: pensa ai maschi adulti dominanti, non ai giovani.",
+    "options": [
+      "Fra i 5 e gli 8 anni, quando si instaura la gerarchia tra i maschi",
+      "Già a 1 anno di età",
+      "Solo dopo i 12 anni",
+      "Immediatamente dopo i 18 mesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La maturità fisiologica è raggiunta intorno ai 18 mesi, ma il successo riproduttivo si realizza generalmente solo a partire dai 4-5 anni, e in una popolazione ben strutturata i riproduttori più efficaci sono compresi fra i 5 e gli 8 anni. Né 1 anno né oltre i 12 anni corrispondono al picco riproduttivo.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.8"
+  },
+  {
+    "id": "camoscio-010",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quali adattamenti dell'apparato circolatorio permettono al camoscio un'efficiente ossigenazione del sangue anche ad alta quota?",
+    "suggestion": "Confronta cuore e sangue del camoscio con quelli umani: organo di pompaggio e cellule che trasportano ossigeno.",
+    "options": [
+      "Un cuore piccolo e pochi globuli rossi per risparmiare energia",
+      "Un cuore di grandi dimensioni (350 g contro i 280 g dell'uomo) ed elevato numero di globuli rossi (12-13 milioni/mm3)",
+      "Polmoni ridotti e respiro rallentato",
+      "Un sangue privo di emoglobina sostituita da altri pigmenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il camoscio possiede un cuore di grandi dimensioni (350 g contro i 280 g dell'uomo) e un elevato numero di globuli rossi (12-13 milioni/mm3), che rendono possibile una rapida ed efficiente ossigenazione del sangue anche ad alta quota. Le altre opzioni descrivono adattamenti opposti o inesistenti.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.9"
+  },
+  {
+    "id": "camoscio-011",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Come varia il colore del mantello del camoscio tra estate e inverno?",
+    "suggestion": "Il manto chiaro e caldo dell'estate lascia spazio a una tinta scura per la stagione fredda.",
+    "options": [
+      "Bianco d'estate e marrone d'inverno",
+      "Grigio uniforme tutto l'anno",
+      "Giallo-rossastro tendente al bruno-grigio d'estate e nero-brunastro d'inverno",
+      "Nero d'estate e bianco d'inverno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il manto estivo è giallo-rossastro tendente al bruno-grigio, mentre quello invernale è nero-brunastro e dura circa 8 mesi e mezzo. Le altre combinazioni di colore non corrispondono a quanto descritto.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.10"
+  },
+  {
+    "id": "camoscio-012",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale tratto del muso aiuta a riconoscere il camoscio?",
+    "suggestion": "Pensa al contrasto di colore sul viso, dato che l'animale è privo di barba.",
+    "options": [
+      "Una folta barba bianca sotto il mento",
+      "Un muso completamente nero senza disegni",
+      "Una banda rossa che attraversa gli occhi",
+      "Una evidente \"mascherina\" bianca e nera, con faccia e gola biancastre, ed è privo di barba"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il camoscio porta sul muso una evidente \"mascherina\" bianca e nera, con faccia e gola a tonalità bianco-giallastre, ed è privo di barba. Non possiede barba né un muso uniformemente nero.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.10"
+  },
+  {
+    "id": "camoscio-013",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Cosa caratterizza la criniera dorsale dei maschi adulti di camoscio durante la muta autunnale?",
+    "suggestion": "Quei peli si comportano in modo diverso dal resto del mantello: invece di cadere, fanno qualcosa di sorprendente.",
+    "options": [
+      "Non cadono ma continuano a crescere, raggiungendo anche i 30 cm di lunghezza",
+      "Cadono completamente e ricrescono solo in primavera",
+      "Diventano bianchi per mimetizzarsi nella neve",
+      "Si trasformano in vere e proprie corna secondarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei maschi adulti la criniera nera o bruno-nera lungo il dorso è formata da peli già presenti nel mantello estivo che, durante la muta autunnale, non cadono ma continuano a crescere fino a raggiungere anche i 30 cm. Non cadono né cambiano colore né diventano strutture cornee.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.11"
+  },
+  {
+    "id": "camoscio-014",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Come si presenta il dimorfismo sessuale nel camoscio in base alla struttura del corpo?",
+    "suggestion": "La differenza è poco marcata; cerca dove i maschi appaiono più robusti.",
+    "options": [
+      "Le femmine sono nettamente più grandi dei maschi",
+      "Il dimorfismo è poco marcato: i maschi sono più massicci, soprattutto nella porzione anteriore del corpo",
+      "I maschi sono privi di coda",
+      "Solo i maschi possiedono la mascherina facciale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel camoscio il dimorfismo sessuale è poco marcato; in base alla struttura del corpo i maschi risultano più massicci, soprattutto nella porzione anteriore. Le altre affermazioni non trovano riscontro nel testo.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.12"
+  },
+  {
+    "id": "camoscio-015",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "In che modo le corna delle femmine differiscono da quelle dei maschi nel camoscio?",
+    "suggestion": "Confronta lo spessore e la curvatura dell'apice: le femmine hanno corna più \"discrete\".",
+    "options": [
+      "Sono più grosse e fortemente uncinate",
+      "Sono assenti nelle femmine",
+      "Sono meno uncinate, più sottili e fra loro poco o per nulla divergenti (subparallele)",
+      "Sono caduche e ricrescono ogni anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le corna, portate da ambo i sessi e permanenti, nelle femmine sono meno uncinate e più sottili, fra loro molto poco o per nulla divergenti (subparallele). Non sono assenti né caduche.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.27"
+  },
+  {
+    "id": "camoscio-016",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quali sono i due metodi usati per valutare l'età nel camoscio (e nei Bovidi in generale) sulla base delle corna?",
+    "suggestion": "Uno conta i punti di blocco invernale, l'altro misura quanto il corno si è allungato ogni anno.",
+    "options": [
+      "Conta delle ramificazioni e misura del diametro basale",
+      "Pesatura del trofeo e analisi del colore",
+      "Conta degli anelli di ornamento e misura della coda",
+      "Conta delle chiusure (anelli di blocco invernale) e conteggio delle crescite (sviluppo corneo annuale)"
+    ],
+    "correctIndex": 3,
+    "explanation": "I due metodi sono la conta per mezzo delle chiusure (anelli di blocco invernale) e il conteggio delle crescite intese come sviluppo corneo annuale; sebbene differenti, portano allo stesso risultato. Le altre coppie di criteri non sono utilizzate per la stima dell'età cornea.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.23"
+  },
+  {
+    "id": "camoscio-017",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Perché negli anni successivi ai primi 4-5 di vita diventa più difficile distinguere i segmenti annuali sulle corna del camoscio?",
+    "suggestion": "L'accrescimento del corno rallenta col tempo: confronta i centimetri dei primi anni con quanto cresce dopo.",
+    "options": [
+      "Perché l'accrescimento passa dall'ordine dei centimetri a quello del millimetro, rendendo i segmenti meno individuabili",
+      "Perché i segmenti annuali scompaiono del tutto",
+      "Perché le corna iniziano a cadere ogni anno",
+      "Perché gli anelli di ornamento sostituiscono quelli di accrescimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei primi 4-5 anni l'accrescimento annuale del corno è dell'ordine di diversi centimetri e i segmenti sono facilmente individuabili; negli anni successivi l'accrescimento diventa dell'ordine del millimetro e risulta più difficile identificare i segmenti. Le corna non cadono e i due tipi di anelli restano distinti.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.26"
+  },
+  {
+    "id": "camoscio-018",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Come si distinguono gli anelli di accrescimento da quelli di ornamento sulle corna del camoscio?",
+    "suggestion": "Uno è un vero solco inciso, l'altro è solo una lieve ondulazione in rilievo dell'astuccio corneo.",
+    "options": [
+      "Entrambi sono solchi profondi identici",
+      "Gli anelli di accrescimento sono solchi veri e propri, quelli di ornamento sono rilievi e semplici ondulazioni dell'astuccio corneo",
+      "Gli anelli di ornamento corrispondono all'età, quelli di accrescimento no",
+      "Gli anelli di accrescimento sono colorati di bianco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli anelli di accrescimento corrispondono a solchi veri e propri, mentre quelli di ornamento sono rilievi riconoscibili non come tacche discontinue ma come semplici ondulazioni dell'astuccio corneo. Sono gli anelli di accrescimento, non quelli di ornamento, a consentire la stima dell'età.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.26"
+  },
+  {
+    "id": "camoscio-019",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "In quale periodo dell'anno l'accrescimento dell'astuccio corneo del camoscio subisce una stasi, generando gli anelli di età?",
+    "suggestion": "La crescita si ferma quando le condizioni sono più dure: pensa alla stagione fredda e ai meccanismi ormonali.",
+    "options": [
+      "Durante l'estate, da giugno ad agosto",
+      "Durante la primavera, da aprile a giugno",
+      "Durante l'inverno (fine ottobre-inizi novembre fino a marzo), per regolazione ormonale",
+      "L'accrescimento non si ferma mai"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli accrescimenti annuali dell'astuccio corneo subiscono un periodo di stasi durante l'inverno (da fine ottobre-inizi novembre fino a marzo), in seguito a meccanismi di regolazione ormonale; questo ritmo provoca la comparsa degli anelli che consentono di valutare l'età. La stasi non avviene in estate o primavera.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.28"
+  },
+  {
+    "id": "camoscio-020",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Perché la stima dell'età basata sul cambio della dentatura è meno affidabile di quella basata sugli anelli delle corna?",
+    "suggestion": "Considera che due animali nati in mesi diversi possono mostrare la stessa età ma denti diversi.",
+    "options": [
+      "Perché i denti non cambiano mai con l'età",
+      "Perché i denti del camoscio sono tutti da latte per tutta la vita",
+      "Perché la dentatura si conta solo dopo la morte dell'animale",
+      "Per la variabilità individuale e perché le nascite non avvengono tutte nello stesso mese, due coetanei possono presentare formula dentaria diversa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La stima sulla base del cambio di dentatura è meno affidabile perché, data la variabilità individuale e poiché le nascite non avvengono tutte nello stesso mese, due soggetti coetanei esaminati nello stesso periodo possono presentare formula dentaria diversa. I denti del camoscio cambiano e si usurano con l'età.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.31"
+  },
+  {
+    "id": "camoscio-021",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quanti denti comprende la formula dentaria adulta del camoscio e a che età è completa?",
+    "suggestion": "È un numero pari, tipico di molti ruminanti, raggiunto poco prima dei quattro anni.",
+    "options": [
+      "32 denti in totale, presenti a 45 mesi",
+      "28 denti, completi a 24 mesi",
+      "40 denti, completi a 12 mesi",
+      "36 denti, completi a 60 mesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formula dentaria adulta del camoscio conta 32 denti in totale, presenti a 45 mesi. Gli altri valori non corrispondono ai dati riportati.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.31"
+  },
+  {
+    "id": "camoscio-022",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quali adattamenti dello zoccolo permettono al camoscio di muoversi su rocce ripide e terreni innevati?",
+    "suggestion": "Pensa al contrasto tra un bordo duro per la presa e una parte interna che migliora l'aderenza, più gli unghioni e gli speroni.",
+    "options": [
+      "Zoccoli lisci e uniformemente duri come quelli del cavallo",
+      "Margine esterno duro per la presa, parte interna morbida ed elastica, unghioni molto divaricabili e speroni ben sviluppati",
+      "Zampe palmate per nuotare nei torrenti",
+      "Zoccoli completamente molli privi di bordo rigido"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo zoccolo del camoscio è adattato alla vita rupicola: ha un margine esterno duro per la presa sulla roccia e una parte interna morbida ed elastica che aumenta l'aderenza; gli unghioni sono molto divaricabili e sono presenti speroni ben sviluppati, utili su terreni ripidi e innevati. Le altre descrizioni non corrispondono.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.37"
+  },
+  {
+    "id": "camoscio-023",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale funzione hanno le ghiandole retrocornuali, particolarmente sviluppate nei maschi adulti durante il periodo degli amori?",
+    "suggestion": "Si trovano dietro le corna e producono un odore intenso: a cosa serve depositarlo su rami e arbusti?",
+    "options": [
+      "Regolare la temperatura corporea",
+      "Produrre latte per il capretto",
+      "Secernere una sostanza odorosa per la marcatura olfattiva e la comunicazione intra-specifica",
+      "Favorire la digestione delle graminacee"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le ghiandole retrocornuali, particolarmente sviluppate nei maschi adulti (oltre i 4 anni) durante il periodo degli amori, secernono una sostanza dall'odore penetrante depositata su ramoscelli e arbusti con funzione di marcatura olfattiva e comunicazione intra-specifica. Non hanno funzioni termoregolatrici, lattifere o digestive.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.38"
+  },
+  {
+    "id": "camoscio-024",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Come reagisce il branco di camosci al primo segnale di pericolo?",
+    "suggestion": "Un individuo dà l'allarme in modo sonoro e visivo prima che il gruppo scappi: pensa a un suono dal naso e a un gesto con la zampa.",
+    "options": [
+      "Si accuccia immobile fino al passaggio del pericolo",
+      "I maschi caricano subito il predatore",
+      "Il branco si disperde in acqua",
+      "Un individuo si irrigidisce e fischia acutamente dal naso battendo lo zoccolo anteriore, poi il branco fugge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al minimo segnale di pericolo un individuo del branco si irrigidisce e fischia acutamente dal naso, battendo lo zoccolo anteriore, e il branco fugge. Le altre reazioni non sono descritte come comportamento di allarme tipico.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.22"
+  },
+  {
+    "id": "camoscio-025",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Da un punto di vista alimentare, come può essere definito il camoscio?",
+    "suggestion": "Non è né un selettore stretto né un puro generalista: il testo lo descrive con un termine intermedio.",
+    "options": [
+      "Un ruminante brucatore e pascolatore di tipo intermedio tra i selettori stretti e i generalisti, di fatto un \"opportunista\"",
+      "Un carnivoro opportunista",
+      "Un selettore stretto esclusivo di licheni",
+      "Un granivoro specializzato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il camoscio è un ruminante brucatore e pascolatore di tipo intermedio tra i selettori stretti e i generalisti; di fatto è un \"opportunista\", capace di variare la dieta per quantità e qualità in rapporto alle stagioni. Non è un carnivoro, né un selettore stretto esclusivo, né un granivoro.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.42"
+  },
+  {
+    "id": "camoscio-026",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Di cosa si nutre prevalentemente il camoscio durante la stagione invernale?",
+    "suggestion": "In inverno scava nella neve con gli zoccoli: pensa a erbe secche e ad alimenti poveri come licheni e aghi di conifere.",
+    "options": [
+      "Frutti maturi e bacche fresche",
+      "Erbe secche, licheni, aghi e germogli di resinose, foglie e ramoscelli di arbusti",
+      "Esclusivamente fiori e infiorescenze fresche",
+      "Insetti e piccoli invertebrati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante l'inverno il camoscio si nutre principalmente di foglie e ramoscelli di arbusti, aghi di piante resinose e licheni, oltre a erbe secche rinvenute scavando con gli zoccoli nella neve. Fiori freschi e frutti caratterizzano altre stagioni; il camoscio non è insettivoro.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.43"
+  },
+  {
+    "id": "camoscio-027",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "In quale periodo si colloca il picco dell'attività riproduttiva del camoscio?",
+    "suggestion": "Gli amori cadono in autunno inoltrato: pensa alla fine di un mese autunnale.",
+    "options": [
+      "A metà luglio",
+      "In pieno inverno, a gennaio",
+      "Tra il 20 e il 30 novembre, all'interno di una stagione che va da fine ottobre a metà dicembre",
+      "In primavera, a maggio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il periodo riproduttivo comincia a fine ottobre e si conclude a metà dicembre, con picco di attività tra il 20 e il 30 novembre. Maggio-giugno è invece il periodo dei parti, non degli accoppiamenti.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.41"
+  },
+  {
+    "id": "camoscio-028",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quanto dura la gestazione del camoscio e quanti piccoli nascono per parto?",
+    "suggestion": "La gravidanza dura circa sei mesi e il parto avviene tra maggio e giugno; pensa a quanti capretti tipicamente nascono.",
+    "options": [
+      "120 giorni e 3-4 piccoli per parto",
+      "365 giorni e 2 piccoli per parto",
+      "90 giorni e fino a 5 piccoli per parto",
+      "180-190 giorni e 1 piccolo per parto, con parto in maggio-giugno"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gestazione dura 180-190 giorni, il parto avviene in maggio-giugno (10 maggio-10 giugno) con 1 piccolo per parto. Le altre combinazioni di durata e numero di piccoli non corrispondono ai dati riportati.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.41"
+  },
+  {
+    "id": "camoscio-029",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Qual è il principale predatore naturale del camoscio e su quale fascia di età incide?",
+    "suggestion": "È un grande rapace alpino, e non riesce ad attaccare gli adulti.",
+    "options": [
+      "L'aquila, che preda solamente i piccoli",
+      "Il lupo, che preda soprattutto gli adulti",
+      "La volpe, che preda i maschi territoriali",
+      "L'orso, che preda l'intera popolazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il principale predatore del camoscio è l'aquila, che preda solamente i piccoli. Il testo non indica lupo, volpe o orso come predatori principali con quel tipo di impatto.",
+    "difficulty": "easy",
+    "source": "11 camoscio.pdf p.45"
+  },
+  {
+    "id": "camoscio-030",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale fattore è indicato come realmente determinante per la distribuzione del camoscio, più dell'altitudine in sé?",
+    "suggestion": "L'animale è stato osservato anche a quote basse: conta più la conformazione del terreno che la quota assoluta.",
+    "options": [
+      "L'altitudine elevata, sempre superiore ai 2500 m",
+      "La presenza di ripidi versanti in roccia con pendenze elevate, usati come zone di rifugio",
+      "La vicinanza a corsi d'acqua di pianura",
+      "La presenza di foreste planiziali continue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il camoscio frequenta soprattutto la fascia tra 1500 e 2500 m, ma è stato osservato anche a quote inferiori (400-800 m), a dimostrazione che non è l'altitudine il fattore limitante: la caratteristica comune ai suoi ambienti è la presenza di ripidi versanti in roccia con pendenze elevate (30°-45°), usati come zone di rifugio. Quota assoluta, fiumi di pianura e foreste planiziali non sono il fattore chiave.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.20"
+  },
+  {
+    "id": "camoscio-031",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Cosa distingue i camosci \"sedentari\" da quelli \"migratori\" nell'uso dello spazio?",
+    "suggestion": "Confronta chi resta fedele a una zona con aree vitali sovrapposte e chi usa zone di svernamento ed estivazione molto distanti tra loro.",
+    "options": [
+      "I sedentari migrano ogni notte, i migratori restano fermi tutto l'anno",
+      "I sedentari vivono in branco e i migratori sempre da soli",
+      "I sedentari restano fedeli a una zona con aree vitali stagionali sovrapposte, i migratori usano zone di svernamento ed estivazione anche molto distanti (fino a 5-6 km)",
+      "I sedentari sono solo femmine, i migratori solo maschi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I camosci sedentari rimangono molto fedeli a una zona, tanto che le aree vitali stagionali risultano sovrapposte; i migratori usano invece zone di svernamento ed estivazione anche molto distanti tra loro (fino a 5-6 km). La distinzione non è legata al sesso né alla socialità nei termini descritti dalle altre opzioni.",
+    "difficulty": "medium",
+    "source": "11 camoscio.pdf p.21"
+  },
+  {
+    "id": "camoscio-032",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Un maschio territoriale di camoscio in autunno marca il proprio territorio con la sostanza odorosa delle ghiandole \"della fregola\". Dove sono situate queste ghiandole?",
+    "suggestion": "La sostanza viene depositata fregando le corna contro arbusti ed erba: chiediti dove si trovano le ghiandole rispetto al trofeo. La precisione anatomica conta.",
+    "options": [
+      "Davanti agli occhi (ghiandole preorbitali)",
+      "Sotto il mento, alla base della barba",
+      "Tra le dita degli zoccoli (interdigitali)",
+      "Proprio dietro il trofeo, cioè dietro le corna (ghiandole retrocornuali)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il camoscio marca il territorio fregando le corna contro arbusti, ciuffi d'erba e rocce per depositare la sostanza prodotta dalle ghiandole \"della fregola\", situate proprio dietro il trofeo (le ghiandole retrocornuali). Pur essendo presenti anche ghiandole interdigitali e inguinali, non sono queste a essere usate fregando le corna; il camoscio inoltre è privo di barba.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.39"
+  },
+  {
+    "id": "camoscio-033",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale di queste affermazioni sulle corna del camoscio è corretta?",
+    "suggestion": "Attento ai dettagli: il camoscio è un bovide, non un cervide; valuta con precisione caducità, presenza nei sessi e numero di anelli rispetto all'età.",
+    "options": [
+      "Sono permanenti, presenti in entrambi i sessi, e gli anelli di accrescimento (non quelli di ornamento) consentono di stimare l'età",
+      "Sono palchi ossei caduchi che ricrescono ogni anno solo nei maschi",
+      "Negli anziani ogni anello di ornamento corrisponde esattamente a un anno di età",
+      "Nelle femmine sono assenti, come nella maggior parte dei bovidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le corna del camoscio sono permanenti e presenti in entrambi i sessi; a consentire la stima dell'età sono gli anelli di accrescimento (veri solchi), non quelli di ornamento. Non sono palchi caduchi come nei cervidi, gli anelli di ornamento non corrispondono all'età, e le femmine portano comunque le corna.",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.27"
+  },
+  {
+    "id": "camoscio-034",
+    "topic": "camoscio",
+    "species": "Camoscio (Rupicapra rupicapra)",
+    "question": "Quale tra queste affermazioni sul camoscio appenninico (Rupicapra pyrenaica ornata) è corretta?",
+    "suggestion": "Distingui bene la forma appenninica da quella alpina per banda del collo, lunghezza delle corna e stato della popolazione; la precisione tassonomica conta.",
+    "options": [
+      "Ha corna più corte di quelle del camoscio alpino",
+      "È considerato specie e sottospecie differente, con larga banda nera sul collo e corna più lunghe, e la popolazione del Parco d'Abruzzo ha mostrato criticità con calo tra il 2005 e il 2009",
+      "È identico per ogni carattere al camoscio alpino e non costituisce una forma distinta",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il camoscio appenninico è considerato specie e sottospecie differente (Rupicapra pyrenaica ornata), con una larga banda nera sul collo e corna assai più lunghe (fino a 30 cm e oltre, contro i circa 20 cm); la popolazione sorgente del Parco Nazionale d'Abruzzo, Lazio e Molise ha registrato un calo tra il 2005 (circa 645 capi) e il 2009 (circa 518 capi). Le corna non sono più corte e la forma non è identica all'alpina, quindi l'opzione corretta è la seconda e non \"Nessuna delle precedenti\".",
+    "difficulty": "hard",
+    "source": "11 camoscio.pdf p.7"
+  }
+]

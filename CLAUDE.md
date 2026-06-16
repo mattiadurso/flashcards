@@ -1,4 +1,4 @@
-I'm a bachelor student in natural sciences. I need to study the anatomy and biology of huntable (venatorie) and faunistic species from Italian university PDFs, and I want a local flashcard quiz website to drill the material.
+I'm a bachelor student in natural sciences. I need to study the anatomy and biology of huntable (venatorie) and faunistic species from Italian university PDFs, and I want a local Flashcards quiz website to drill the material.
 
 Please deliver two artifacts in one project folder:
 
@@ -24,7 +24,7 @@ A single-folder static site that runs by simply opening index.html in any modern
 Behavior
 
 - On load, read questions.json and shuffle.
-- Show one flashcard at a time with the question and its 2–4 options as tappable buttons.
+- Show one Flashcards at a time with the question and its 2–4 options as tappable buttons.
 - If a question has an `image` field, render the image above the question text, constrained to the card width with rounded corners; tap/click to view full-size in a lightbox overlay (dismiss on click or Esc).
 - On answer: highlight correct (green) and wrong (red), show the explanation if present, then a "Next" button.
 - No repeats within a session: track seen IDs in memory; when all questions are seen, show a "Session complete" screen with score and a "Restart" button.

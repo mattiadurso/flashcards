@@ -1,0 +1,937 @@
+[
+  {
+    "id": "lince-001",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "A quale famiglia e a quale gruppo dei felidi appartiene la lince eurasiatica?",
+    "suggestion": "Non è un grande felino ruggente del genere Panthera, ma rientra fra i felini di taglia media.",
+    "options": [
+      "Alla famiglia Felidae, nel gruppo dei piccoli felini (Felinae)",
+      "Alla famiglia Canidae, fra i predatori da inseguimento",
+      "Alla famiglia Felidae, nel genere Panthera dei grandi felini ruggenti",
+      "Alla famiglia Mustelidae"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lince appartiene alla famiglia Felidae, nel ramo dei piccoli felini (Felinae), che include generi come Felis, Lynx, Puma e Caracal. Non è un canide né un mustelide e non rientra nel genere Panthera, che raggruppa i grandi felini ruggenti (leone, tigre, leopardo, giaguaro).",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.2"
+  },
+  {
+    "id": "lince-002",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Su quale base anatomica Owen e Pocock distinsero storicamente i felidi in \"gatti ruggenti\" e \"gatti fusanti\"?",
+    "suggestion": "Riguarda una struttura collegata alla laringe e il suo grado di ossificazione.",
+    "options": [
+      "La lunghezza dei canini",
+      "Il numero di vertebre cervicali",
+      "Lo stato di ossificazione dell'osso ioide",
+      "La forma della bolla timpanica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Owen (1834) e poi Pocock (1916) osservarono che nei gatti ruggenti l'osso ioide, collegato alla laringe, non è completamente ossificato (componente elastica), mentre nei gatti fusanti è completamente ossificato. Le altre strutture citate non sono il criterio di questa distinzione classica.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.3"
+  },
+  {
+    "id": "lince-003",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale fenomeno geografico-climatico ha favorito la migrazione e la speciazione dei felini tra i continenti?",
+    "suggestion": "Pensa alle variazioni del livello del mare in corrispondenza dello Stretto di Bering.",
+    "options": [
+      "L'aumento costante delle temperature tropicali",
+      "L'innalzamento e l'abbassamento del livello del mare",
+      "La deriva dei poli magnetici",
+      "La comparsa improvvisa delle foreste pluviali"
+    ],
+    "correctIndex": 1,
+    "explanation": "I cambiamenti del livello del mare (ad esempio allo Stretto di Bering) hanno permesso ai felini di spostarsi tra continenti, isolarsi geograficamente ed evolvere in nuove specie. Gli altri fattori non sono indicati nel testo come motori della loro dispersione e speciazione.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.3"
+  },
+  {
+    "id": "lince-004",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quante specie viventi comprende attualmente il genere Lynx e come sono ripartite tra le ecozone?",
+    "suggestion": "Sono in tutto quattro, divise equamente tra due grandi regioni biogeografiche.",
+    "options": [
+      "Due specie, entrambe paleartiche",
+      "Sei specie, tutte neartiche",
+      "Tre specie, tutte paleartiche",
+      "Quattro specie: due paleartiche e due neartiche"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il genere Lynx comprende quattro specie viventi: due a distribuzione paleartica (lince eurasiatica e lince iberica) e due neartica (lince canadese e lince rossa). Le altre combinazioni non corrispondono al numero o alla ripartizione indicati.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.5"
+  },
+  {
+    "id": "lince-005",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Tra le quattro specie del genere Lynx, quale primato spetta alla lince eurasiatica?",
+    "suggestion": "È un primato legato alle dimensioni corporee tra le linci.",
+    "options": [
+      "È la specie più piccola",
+      "È la specie di lince più grande",
+      "È l'unica priva di ciuffi auricolari",
+      "È l'unica esclusivamente nordamericana"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince eurasiatica (Lynx lynx) è la più grande delle quattro specie di Lynx e vive nelle foreste europee e asiatiche, con popolazioni anche sull'arco alpino italiano. La lince rossa (bobcat) è invece generalmente più piccola della lince canadese.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.6"
+  },
+  {
+    "id": "lince-006",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale lince è specializzata nella caccia ai conigli ed è considerata uno dei felini più minacciati al mondo?",
+    "suggestion": "È presente esclusivamente in una sola penisola dell'Europa sud-occidentale.",
+    "options": [
+      "La lince iberica (Lynx pardinus)",
+      "La lince eurasiatica (Lynx lynx)",
+      "La lince canadese (Lynx canadensis)",
+      "La lince rossa (Lynx rufus)"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lince iberica (Lynx pardinus), o lince pardina/spagnola, è specializzata nella caccia ai conigli, presente solo nella penisola iberica ed è uno dei felini più minacciati al mondo. La lince eurasiatica ha invece la distribuzione più ampia ed è la più grande.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.6"
+  },
+  {
+    "id": "lince-007",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Il caracal possiede ciuffi auricolari simili a quelli delle linci: perché non viene incluso nel genere Lynx?",
+    "suggestion": "La somiglianza è morfologica, ma gli studi tassonomici non confermano una parentela diretta.",
+    "options": [
+      "Perché vive solo in ambiente acquatico",
+      "Perché è privo di canini sviluppati",
+      "Perché non mostra un legame tassonomico diretto con le linci",
+      "Perché appartiene alla famiglia dei canidi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pur avendo ciuffi auricolari simili, il caracal (Caracal caracal) non appartiene al genere Lynx: secondo studi come quello di Werdelin (1981) non mostra un legame tassonomico diretto con le linci. Si tratta quindi di una somiglianza morfologica, non di una vera parentela stretta.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.6"
+  },
+  {
+    "id": "lince-008",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Cosa caratterizza la lince eurasiatica riguardo alla sua distribuzione e alla sua variabilità morfologica?",
+    "suggestion": "Pensa al fatto che il suo areale va dall'Europa occidentale fino alla Russia orientale e che il peso varia molto tra popolazioni.",
+    "options": [
+      "Ha l'areale più ristretto ma il peso più costante",
+      "È limitata alla sola penisola iberica",
+      "Ha sempre lo stesso peso in tutte le popolazioni",
+      "Ha la distribuzione più ampia e la maggiore variabilità morfologica tra le linci"
+    ],
+    "correctIndex": 3,
+    "explanation": "La lince eurasiatica ha la distribuzione più ampia (dall'Europa occidentale fino alla Russia orientale, con Caucaso, Iran, Asia centrale e parte della Cina) e la maggiore variabilità morfologica: il peso medio passa da 15–18 kg nelle popolazioni scandinave a 25–30 kg in quelle russe e dei Carpazi. Non è quindi limitata né di peso costante.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.6"
+  },
+  {
+    "id": "lince-009",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "In quale appendice della Convenzione CITES è inserita la lince?",
+    "suggestion": "Si tratta della stessa appendice che regola il commercio di molte specie minacciate ma non ancora a rischio estinzione imminente.",
+    "options": [
+      "Nell'appendice II della CITES",
+      "Nell'appendice I della CITES",
+      "In nessuna appendice CITES",
+      "Solo negli allegati venatori nazionali"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lince è enumerata nell'appendice II della Convenzione sul commercio internazionale di specie minacciate (CITES). Le altre opzioni non corrispondono a quanto riportato nel testo.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.7"
+  },
+  {
+    "id": "lince-010",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Per quale motivo le reintroduzioni di lince degli anni '70 nell'arco alpino ebbero un avvio difficoltoso?",
+    "suggestion": "Il problema riguardava il coordinamento e l'uniformità degli obiettivi dei diversi progetti.",
+    "options": [
+      "Per l'assenza totale di prede sull'arco alpino",
+      "Perché tutti i progetti avevano scopi esclusivamente venatori",
+      "Per lo scarso coordinamento e la difformità degli scopi dei progetti",
+      "Perché la specie non sopravvive alle temperature alpine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le reintroduzioni alpine degli anni '70 furono penalizzate da uno scarsissimo coordinamento tra i progetti e da scopi difformi: ad esempio quello svizzero era conservazionistico, mentre quello sloveno era animato forse più da scopi venatori. Non vi era mancanza di prede né impossibilità termica per la specie.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.9"
+  },
+  {
+    "id": "lince-011",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Da quando è documentata la presenza certa della lince in Friuli Venezia Giulia?",
+    "suggestion": "Il primo dato certo è una fotografia scattata nelle Alpi Carniche alla fine degli anni '80.",
+    "options": [
+      "Dal 1950, con cattura di numerosi esemplari",
+      "Dal 1989, con una fotografia nelle Alpi Carniche",
+      "Dal 2014, con il progetto ULyCA",
+      "Dal 2023, con il progetto ULyCA2"
+    ],
+    "correctIndex": 1,
+    "explanation": "La presenza certa della lince in FVG è documentata dal 1989 grazie a una fotografia nelle Alpi Carniche; le segnalazioni precedenti degli anni '70–'80 non sono confermate. Il 2014 e il 2023 corrispondono invece ai progetti ULyCA e ULyCA2, non alla prima documentazione.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.10"
+  },
+  {
+    "id": "lince-012",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Qual è l'obiettivo principale del progetto ULyCA2 avviato nel 2023?",
+    "suggestion": "Mira a evitare la scomparsa della specie in una precisa area geografica delle Alpi e dei Dinarici.",
+    "options": [
+      "Eradicare la lince dall'arco alpino",
+      "Introdurre la lince in Sicilia",
+      "Sostituire la lince eurasiatica con la lince iberica",
+      "Prevenire l'estinzione della lince nelle Alpi sudorientali e nei Dinarici"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il progetto ULyCA2 (2023) ha l'obiettivo di prevenire l'estinzione della lince nelle Alpi sudorientali e nei Dinarici e ha previsto la reintroduzione di 5 esemplari nel Tarvisiano. Le altre opzioni contraddicono lo scopo conservazionistico del progetto.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.10"
+  },
+  {
+    "id": "lince-013",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale tratto del portamento contribuisce all'aspetto slanciato e snello della lince?",
+    "suggestion": "Riguarda il rapporto di altezza tra la parte posteriore e quella anteriore del corpo.",
+    "options": [
+      "Le zampe molto corte e il torace largo",
+      "Il treno posteriore più alto e il torace relativamente stretto",
+      "La coda lunga e folta",
+      "Il dorso fortemente arcuato verso il basso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il portamento della lince, con treno posteriore più alto e torace relativamente stretto, conferisce all'animale una conformazione slanciata ed elegante. La coda è invece corta e non lunga, e le zampe sono relativamente lunghe.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.12"
+  },
+  {
+    "id": "lince-014",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale adattamento permette alla lince di muoversi agevolmente sulla neve sfruttando il cosiddetto effetto di galleggiamento?",
+    "suggestion": "Dipende dal rapporto tra la superficie delle zampe e il peso del corpo.",
+    "options": [
+      "L'ampia superficie delle zampe in rapporto al peso corporeo",
+      "La coda lunga usata come bilanciere",
+      "La presenza di membrane interdigitali natatorie",
+      "Il pelo idrorepellente del ventre"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ampia superficie delle zampe rispetto al peso corporeo consente alla lince il cosiddetto effetto di galleggiamento sulla neve, importante adattamento ai climi freddi. Non possiede membrane natatorie né usa la coda corta come bilanciere a questo scopo.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.12"
+  },
+  {
+    "id": "lince-015",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Dove sono localizzate le vibrisse (lunghi peli tattili) della lince?",
+    "suggestion": "Oltre al muso, si trovano anche in un punto particolare degli arti anteriori.",
+    "options": [
+      "Solo sulla punta della coda",
+      "Esclusivamente sul ventre",
+      "Sulle guance, sopra gli occhi e sulla faccia posteriore degli arti anteriori",
+      "Soltanto all'interno dei padiglioni auricolari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le vibrisse della lince sono poste sulle guance, sopra gli occhi e sulla faccia posteriore degli arti anteriori, in corrispondenza del dito rudimentale. Non sono localizzate sulla coda, sul ventre o dentro le orecchie.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.12"
+  },
+  {
+    "id": "lince-016",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale funzione si attribuisce ai caratteristici ciuffi di peli neri sulle orecchie della lince?",
+    "suggestion": "Sono associati all'organo con cui la lince localizza le prede al minimo rumore.",
+    "options": [
+      "Servire da riserva di grasso",
+      "Proteggere dagli ectoparassiti",
+      "Funzionare come organo di equilibrio",
+      "Migliorare la percezione uditiva"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ai ciuffi apicali neri sui padiglioni auricolari si attribuisce un ruolo nel migliorare la sensibilità uditiva, fondamentale per la caccia all'agguato della lince, che si basa anche sull'udito. Non hanno funzione di riserva di grasso, di difesa antiparassitaria né di equilibrio.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.23"
+  },
+  {
+    "id": "lince-017",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Che cosa sono le \"fedine\" della lince?",
+    "suggestion": "Sono una sorta di barba che incornicia il muso, di colore chiaro.",
+    "options": [
+      "Lunghi peli bianchi che incorniciano il muso a forma di barba",
+      "I ciuffi neri sulla punta delle orecchie",
+      "Le strisce scure sul dorso",
+      "Le vibrisse degli arti posteriori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le fedine sono una sorta di barba facciale costituita da lunghi peli bianchi che incorniciano il muso della lince. Sono distinte dai ciuffi apicali neri delle orecchie e dalle vibrisse.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.23"
+  },
+  {
+    "id": "lince-018",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quanti denti possiede la lince e quale conseguenza meccanica ha la brevità delle sue mascelle?",
+    "suggestion": "Il numero è inferiore a quello della maggior parte dei mammiferi e le mascelle corte agiscono sul braccio della leva del morso.",
+    "options": [
+      "42 denti; le mascelle lunghe aumentano il braccio della leva",
+      "28 denti; le mascelle lunghe riducono la forza del morso",
+      "28 denti; le mascelle brevi riducono il braccio della leva e aumentano la forza della presa",
+      "32 denti; la lunghezza delle mascelle è ininfluente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lince ha 28 denti, relativamente corti e robusti. A causa delle mascelle brevi, il braccio della leva del morso risulta poco sviluppato, e ciò aumenta la forza della presa. Il numero di denti e la relazione meccanica nelle altre opzioni non sono corretti.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.23"
+  },
+  {
+    "id": "lince-019",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Qual è l'organo sensoriale più sviluppato della lince e quale prestazione raggiunge?",
+    "suggestion": "È legato alla caccia notturna ed è molto più sensibile del corrispondente organo umano al buio.",
+    "options": [
+      "L'olfatto, usato soprattutto per localizzare le prede",
+      "L'occhio, al buio circa sei volte più sensibile di quello umano",
+      "L'udito, l'unico senso impiegato nella caccia",
+      "Il tatto delle vibrisse, più sviluppato della vista"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'organo sensoriale più sviluppato della lince è l'occhio, al buio circa sei volte più sensibile di quello umano e adattato alla visione notturna. L'olfatto serve soprattutto alla comunicazione tra individui, non alla ricerca delle prede; vista e udito sono entrambi importanti nella caccia.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.24"
+  },
+  {
+    "id": "lince-020",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Per quale funzione l'olfatto è più importante nella lince?",
+    "suggestion": "Non serve tanto a trovare le prede, quanto a scambiare informazioni con i propri simili.",
+    "options": [
+      "Per individuare le prede a grande distanza",
+      "Per orientarsi durante gli spostamenti notturni",
+      "Per riconoscere la temperatura dell'ambiente",
+      "Per la comunicazione tra individui della stessa specie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nella lince l'odorato è più importante per la comunicazione tra individui della stessa specie che per l'orientamento e la ricerca delle prede, compiti affidati soprattutto a vista e udito. Coerentemente, la marcatura odorosa è il principale sistema di comunicazione della specie.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.24"
+  },
+  {
+    "id": "lince-021",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale relazione caratterizza la larghezza e la lunghezza del cranio della lince?",
+    "suggestion": "Il cranio appare \"corto\" e la larghezza, misurata alle arcate zigomatiche, è una frazione elevata della lunghezza.",
+    "options": [
+      "La larghezza è pari al doppio della lunghezza",
+      "La larghezza è circa ¾ della lunghezza condilobasale",
+      "La larghezza è circa 1/4 della lunghezza",
+      "Larghezza e lunghezza sono sempre identiche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cranio della lince ha conformazione complessivamente \"corta\": la larghezza, misurata a livello delle arcate zigomatiche, è circa ¾ della lunghezza condilobasale, con notevole sviluppo della scatola cranica. Le altre proporzioni non corrispondono al testo.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.25"
+  },
+  {
+    "id": "lince-022",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale caratteristica della dentatura e dell'articolazione temporo-mandibolare dei felidi determina il tipico effetto \"cesoia\"?",
+    "suggestion": "Pensa al dente ferino e alla forte riduzione dei movimenti laterali della mandibola.",
+    "options": [
+      "Lo sviluppo del dente ferino unito alla riduzione dei movimenti di lateralità",
+      "La presenza di numerosi denti masticatori piatti",
+      "L'ampia mobilità laterale della mandibola",
+      "L'assenza di canini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei felidi lo sviluppo del dente ferino, la potenza del morso e la specializzazione dell'articolazione temporo-mandibolare, con riduzione dei movimenti di lateralità, determinano un effetto \"cesoia\" legato all'alimentazione su masse muscolari e fibrocartilaginee. Una mandibola con ampia mobilità laterale è tipica degli erbivori, non dei felidi.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.28"
+  },
+  {
+    "id": "lince-023",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Perché nella dentatura dei felini come la lince si osserva una notevole riduzione degli incisivi?",
+    "suggestion": "Serve a non ostacolare l'azione di canini lunghi e robusti, che agiscono come pugnali.",
+    "options": [
+      "Per aumentare la superficie masticatoria erbivora",
+      "Perché gli incisivi servono a triturare i vegetali",
+      "Per consentire un morso deciso e profondo, non limitato dagli incisivi",
+      "Per ridurre il peso complessivo del cranio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei felini la riduzione degli incisivi, associata a canini lunghi e robusti a sezione rotonda, consente un morso deciso e profondo non limitato dagli incisivi, in cui i canini fungono da pugnali (Ewer, 1973). Non si tratta di adattamenti alla triturazione di vegetali.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.28"
+  },
+  {
+    "id": "lince-024",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Come si descrive il comportamento sociale tipico della lince adulta?",
+    "suggestion": "È un animale schivo che non condivide volentieri il proprio spazio con altri adulti dello stesso sesso.",
+    "options": [
+      "Gregario, vive in branchi stabili come i lupi",
+      "Coloniale, con tane comuni a molti individui",
+      "Migratore stagionale in grandi gruppi",
+      "Elusivo e solitario, con territori in cui non tollera altri adulti dello stesso sesso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le linci sono animali elusivi e solitari, che vivono in territori relativamente stabili dove non tollerano la presenza di altri adulti dello stesso sesso. Non formano branchi, colonie o gruppi migratori; gli unici rapporti prolungati sono tra madre e piccoli.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.33"
+  },
+  {
+    "id": "lince-025",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Cosa accade tipicamente quando un individuo di lince invade il territorio di un altro?",
+    "suggestion": "I conflitti diretti sono rari perché entrambi gli individui rischierebbero di farsi male.",
+    "options": [
+      "Di solito non vi è scontro diretto e l'intruso si ritira",
+      "Si verifica quasi sempre un combattimento all'ultimo sangue",
+      "I due individui formano un branco temporaneo",
+      "Il residente abbandona definitivamente il territorio"
+    ],
+    "correctIndex": 0,
+    "explanation": "In caso di invasione territoriale di solito non si arriva a uno scontro diretto, per evitare danni a entrambi: più spesso è l'intruso a ritirarsi. Gli incontri diretti sono rari e potenzialmente rischiosi, perciò vengono evitati.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.33"
+  },
+  {
+    "id": "lince-026",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Qual è il principale sistema di comunicazione della lince, specie solitaria di ambienti a fitta vegetazione?",
+    "suggestion": "Si basa su tracce chimiche persistenti, utili dove i segnali visivi sono limitati.",
+    "options": [
+      "Il canto corale notturno",
+      "I segnali luminosi del mantello",
+      "La marcatura odorosa",
+      "Il contatto fisico continuo tra individui"
+    ],
+    "correctIndex": 2,
+    "explanation": "La marcatura odorosa è il principale sistema di comunicazione della lince, particolarmente utile per una specie solitaria che vive in ambienti dove i segnali visivi sono limitati. Le marcature trasmettono informazioni su presenza, movimenti, sesso e stato riproduttivo.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.35"
+  },
+  {
+    "id": "lince-027",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale tipo di marcatura la lince effettua più frequentemente strofinando il muso su rocce e rami anche ogni 100–200 m?",
+    "suggestion": "È una marcatura che usa la testa, con funzione di riconoscimento e segnalazione olfattiva.",
+    "options": [
+      "La marcatura urinaria",
+      "La marcatura facciale",
+      "La marcatura fecale",
+      "I graffi sui tronchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La marcatura facciale è effettuata strofinando frequentemente il muso (anche ogni 100–200 m) su oggetti come rocce e rami, con funzione di riconoscimento e segnalazione olfattiva. Le marcature urinaria e fecale sono meno frequenti, e i graffi hanno funzione prevalentemente territoriale.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.34"
+  },
+  {
+    "id": "lince-028",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale differenza si osserva tra maschi e femmine di lince nella frequenza di marcatura del territorio?",
+    "suggestion": "Un sesso marca circa il doppio per chilometro rispetto all'altro, investendo nelle aree marginali.",
+    "options": [
+      "Le femmine marcano circa il triplo dei maschi",
+      "Maschi e femmine marcano con identica frequenza",
+      "Solo le femmine effettuano marcature territoriali",
+      "I maschi marcano circa il doppio per chilometro rispetto alle femmine"
+    ],
+    "correctIndex": 3,
+    "explanation": "I maschi marcano il territorio con una frequenza circa doppia per chilometro rispetto alle femmine e investono più energie nelle aree marginali, dove è importante segnalare la propria presenza a individui estranei. Le altre proporzioni sono errate.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.36"
+  },
+  {
+    "id": "lince-029",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "In quali momenti della giornata la lince presenta il picco di attività?",
+    "suggestion": "Coincide con le ore di luce attenuata, all'alba e al tramonto.",
+    "options": [
+      "Solo a mezzogiorno, nelle ore più calde",
+      "Nelle ore crepuscolari e notturne, in particolare all'alba e al tramonto",
+      "Esclusivamente di giorno, mai di notte",
+      "Solo a mezzanotte in punto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince è attiva durante tutto l'arco della giornata, ma con un picco nelle ore crepuscolari e notturne, in particolare all'alba e al tramonto; i riposi si concentrano intorno a mezzogiorno e mezzanotte. Non è quindi né strettamente diurna né attiva solo a un'ora precisa.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.37"
+  },
+  {
+    "id": "lince-030",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Perché la lince necessita di home range molto estesi (mediamente 20.000–25.000 ettari)?",
+    "suggestion": "Il suo successo di caccia dipende dall'effetto sorpresa, che un territorio troppo piccolo comprometterebbe.",
+    "options": [
+      "Perché basa la caccia sull'effetto sorpresa, che un territorio ridotto comprometterebbe rendendo le prede diffidenti",
+      "Perché compie lunghe migrazioni stagionali",
+      "Perché deve difendere riserve d'acqua estese",
+      "Perché vive in grandi gruppi che richiedono molto spazio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lince occupa home range molto estesi (mediamente 20.000–25.000 ettari) perché basa il successo della caccia sull'effetto sorpresa: un territorio troppo ridotto renderebbe le prede più diffidenti, riducendo l'efficacia predatoria. Non è un animale gregario né migratore in questo senso.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.37"
+  },
+  {
+    "id": "lince-031",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "A quale età raggiungono la maturità sessuale le femmine e i maschi di lince?",
+    "suggestion": "Le femmine maturano un anno prima dei maschi.",
+    "options": [
+      "Femmine al terzo anno, maschi al secondo",
+      "Entrambi i sessi al primo anno",
+      "Femmine al secondo anno, maschi al terzo",
+      "Entrambi i sessi al quinto anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La maturità sessuale è raggiunta al secondo anno di vita nelle femmine e al terzo nei maschi. Le femmine smettono di riprodursi verso i 14 anni e i maschi verso i 17.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.38"
+  },
+  {
+    "id": "lince-032",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quanto dura circa la gestazione della lince e quanti piccoli nascono in media?",
+    "suggestion": "La gestazione dura poco più di due mesi e la figliata media è di pochi cuccioli, partoriti tra fine maggio e inizio giugno.",
+    "options": [
+      "Circa 6 mesi, in media 6 cuccioli",
+      "Circa 30 giorni, un solo cucciolo sempre",
+      "Circa 4 mesi, in media 8 cuccioli",
+      "Circa 68–72 giorni, in media 2 cuccioli"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gestazione dura circa 68–72 giorni; tra fine maggio e inizio giugno la femmina partorisce da 1 a 4 piccoli ciechi, con una media di 2 cuccioli. Le femmine non sempre partoriscono ogni anno. Le altre durate e figliate non corrispondono al testo.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.38"
+  },
+  {
+    "id": "lince-033",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Dove partorisce la lince, dato che non scava tane proprie?",
+    "suggestion": "Sfrutta ripari già esistenti, poco profondi, sotto grosse rocce.",
+    "options": [
+      "In cavità naturali sotto grosse rocce o altri ripari",
+      "In tane profonde scavate nel terreno",
+      "In nidi costruiti sugli alberi",
+      "In gallerie sotterranee condivise con altri individui"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lince non scava tane: per il parto utilizza cavità naturali sotto grosse rocce o altri ripari, mai profondi. Durante l'allevamento la femmina sposta di frequente i piccoli in nuovi rifugi. Non costruisce nidi né scava gallerie.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.39"
+  },
+  {
+    "id": "lince-034",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Chi si occupa dell'allevamento dei cuccioli di lince e quanto a lungo restano con il genitore?",
+    "suggestion": "L'allevamento è compito di un solo genitore, e il distacco avviene dopo circa dieci mesi.",
+    "options": [
+      "Entrambi i genitori; i piccoli restano 2 anni",
+      "Solo il padre; i piccoli restano 3 mesi",
+      "Solo la madre; i piccoli restano con lei circa 10 mesi",
+      "Un gruppo di femmine; i piccoli restano fino a 5 anni"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'allevamento della prole è competenza della sola madre; i piccoli imparano le tecniche di caccia per imitazione e rimangono con lei circa 10 mesi, dopo i quali avviene il distacco. Il maschio non partecipa all'allevamento.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.39"
+  },
+  {
+    "id": "lince-035",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Qual è considerata la preda elettiva della lince eurasiatica, in particolare nelle aree alpine?",
+    "suggestion": "È un piccolo cervide molto diffuso nei boschi alpini.",
+    "options": [
+      "Il cinghiale adulto",
+      "Il capriolo",
+      "Il lupo",
+      "L'orso bruno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince eurasiatica è un predatore specializzato in ungulati di piccola e media taglia e numerosi studi indicano il capriolo come preda elettiva, soprattutto nelle aree alpine. Cinghiale adulto, lupo e orso non rientrano tra le sue prede tipiche.",
+    "difficulty": "easy",
+    "source": "22 LINCE.pdf p.42"
+  },
+  {
+    "id": "lince-036",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Su quale strategia si basa la caccia della lince e per quale motivo non è adatta a corse di lunga durata?",
+    "suggestion": "Predilige avvicinarsi furtivamente alla preda con scatti e balzi, evitando lunghi inseguimenti.",
+    "options": [
+      "Sull'inseguimento di resistenza su lunghe distanze",
+      "Sulla caccia di gruppo coordinata",
+      "Sull'attesa passiva di carcasse altrui",
+      "Sull'agguato, perché la sua struttura permette scatti e balzi ma non corse prolungate"
+    ],
+    "correctIndex": 3,
+    "explanation": "La caccia della lince si basa sull'agguato: si avvicina furtivamente lungo i percorsi della preda evitando inseguimenti prolungati. La sua struttura fisica consente scatti rapidi e balzi potenti, ma non corse di lunga durata. Non è un predatore da resistenza né un necrofago abituale.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.42"
+  },
+  {
+    "id": "lince-037",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Come uccide tipicamente la lince le prede di taglia maggiore?",
+    "suggestion": "Dopo averla immobilizzata con gli artigli, mira a una regione vitale del collo.",
+    "options": [
+      "Con un morso all'addome",
+      "Con un morso alla gola",
+      "Per soffocamento prolungato con le zampe",
+      "Con ripetuti colpi di coda"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince immobilizza la preda con gli artigli e la uccide generalmente con un morso alla gola; nelle prede più piccole il morso è diretto alla nuca o al dorso, provocando spesso la rottura della colonna vertebrale. Le altre modalità non sono descritte.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.42"
+  },
+  {
+    "id": "lince-038",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "A quale distanza si porta tipicamente la lince prima di sferrare l'attacco alla preda?",
+    "suggestion": "È una distanza molto ravvicinata, generalmente inferiore alla decina di metri.",
+    "options": [
+      "Generalmente inferiore ai 10 metri",
+      "Sempre oltre i 100 metri",
+      "Intorno ai 500 metri",
+      "Circa 1 chilometro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La distanza per l'attacco è generalmente inferiore ai 10 metri (5–10 m, raramente 25 m): la lince deve essere sorprendentemente vicina alla preda. Gli inseguimenti sono rari e raramente superano poche decine di metri (200–300 m al massimo).",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.51"
+  },
+  {
+    "id": "lince-039",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quali ambienti predilige la lince per la predazione, sfruttando la vista per individuare le prede?",
+    "suggestion": "Cerca margini tra bosco e radura, dove la copertura è frammentata.",
+    "options": [
+      "Ampie pianure completamente aperte e prive di vegetazione",
+      "Zone urbane densamente popolate",
+      "Ambienti con copertura arborea frammentata alternata a piccole radure (ecotoni)",
+      "Specchi d'acqua e ambienti palustri aperti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lince usa prevalentemente la vista e predilige ambienti con copertura arborea frammentata alternata a piccole radure; le predazioni avvengono spesso ai margini bosco-aree aperte (ecotoni). Ambienti troppo aperti sono invece sfavorevoli, perché riducono le possibilità di agguato.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.51"
+  },
+  {
+    "id": "lince-040",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale numero di morsi infligge tipicamente la lince e perché questo dato è importante dal punto di vista necroscopico?",
+    "suggestion": "Il numero è molto basso, utile per distinguere i predatori selvatici da quelli domestici.",
+    "options": [
+      "In media 15–20 morsi, segno di accanimento",
+      "Un solo morso sempre, indipendentemente dalla preda",
+      "Decine di morsi distribuiti su tutto il corpo",
+      "In media 2–4 morsi, parametro utile a distinguere predatori selvatici da domestici"
+    ],
+    "correctIndex": 3,
+    "explanation": "Salvo rare eccezioni la lince infligge un numero molto basso di morsi, in media 2–4. Il numero di morsi è uno dei caratteri necroscopici più importanti per distinguere tra predatori selvatici e domestici. Un numero elevato di morsi non è tipico della lince.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.56"
+  },
+  {
+    "id": "lince-041",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Qual è la sede più frequente delle morsicature della lince sulla preda e perché?",
+    "suggestion": "Riguarda una regione del collo dove decorrono grossi vasi, la trachea e importanti nervi.",
+    "options": [
+      "La regione ventrale e laterale del collo, ricca di grossi vasi, trachea e nervo vago",
+      "L'estremità della coda",
+      "Le zampe posteriori, lontano da organi vitali",
+      "La sola regione lombare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le morsicature si concentrano nella regione ventrale e laterale del collo, presso la branca montante della mandibola, dove decorrono grossi vasi sanguigni, la trachea e strutture nervose come il nervo vago: la lesione di tali strutture causa un rapido collasso pressorio e la morte. La scelta del punto vitale è simile a quella del lupo.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.56"
+  },
+  {
+    "id": "lince-042",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale caratteristica del morso permette di distinguere l'azione predatoria della lince da quella dei canidi?",
+    "suggestion": "Il felino resta ancorato senza scuotere il capo, lasciando ferite di un certo tipo.",
+    "options": [
+      "Il morso lacerante con ampio strappo dei tessuti",
+      "L'assenza totale di fori dei canini",
+      "Il morso \"pulito\", profondo e con margini netti, senza scuotimento del capo",
+      "La presenza di numerosissimi morsi superficiali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il morso della lince, come quello degli altri felini, è generalmente \"pulito\" e non lacerante: l'animale resta ancorato alla preda senza scuotere il capo, producendo lesioni profonde, di diametro limitato e con margini netti. Nei canidi, invece, lo scuotimento del capo allarga il foro dei canini e altera i tessuti circostanti.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.57"
+  },
+  {
+    "id": "lince-043",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Da quale regione del corpo la lince inizia più frequentemente a consumare la preda?",
+    "suggestion": "Comincia dalle masse muscolari più sviluppate, situate nella parte posteriore.",
+    "options": [
+      "Dalla testa",
+      "Dai quarti posteriori",
+      "Dal tratto gastrointestinale",
+      "Dalle ossa più grandi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince apre una breccia cutanea ovale, spesso in posizione coxo-femorale, e inizia il consumo nel 70% dei casi dai quarti posteriori, nel 14% dalla zona perineale e nel 16% dalla spalla: tutte aree con masse muscolari sviluppate. Non consuma il tratto gastrointestinale né le ossa grandi e non inizia dalla testa.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.64"
+  },
+  {
+    "id": "lince-044",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale comportamento, assente nella lince, è invece tipico di canidi, mustelidi e altri necrofagi sulla carcassa?",
+    "suggestion": "Riguarda lo spostamento o l'asportazione di organi e parti del corpo della preda.",
+    "options": [
+      "Il consumo selettivo delle masse muscolari",
+      "Il ritorno sulla preda per più giorni",
+      "L'occultamento della carcassa con materiale vegetale",
+      "La dislocazione o l'asportazione di organi e parti della carcassa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nella lince non si osserva dislocazione o asportazione di organi o parti della carcassa, comportamento invece tipico di canidi, mustelidi e altri necrofagi. La lince consuma selettivamente i muscoli, ritorna sulla preda per più giorni e tende a occultarla: questi sono comportamenti propri della specie, non distintivi dei necrofagi.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.67"
+  },
+  {
+    "id": "lince-045",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Perché la lince occulta la carcassa ricoprendola con foglie, erba, rami o neve?",
+    "suggestion": "Serve a difendere la preda da chi potrebbe approfittarne durante l'assenza del felino.",
+    "options": [
+      "Per favorire la decomposizione rapida",
+      "Per proteggerla dai saprofagi/necrofagi",
+      "Per attirare altre linci al pasto comune",
+      "Per segnalare il confine del territorio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince nasconde la preda per proteggerla dai saprofagi: copre meglio le parti aperte già consumate e talora la sotterra del tutto. Il tumulo prodotto è decisamente più piccolo di quello dell'orso. L'occultamento non serve a favorire la decomposizione né ad attirare altri individui.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.69"
+  },
+  {
+    "id": "lince-046",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quali categorie di lince predano più frequentemente il bestiame domestico e sono associate agli episodi di over-killing?",
+    "suggestion": "Riguarda soprattutto un sesso e una classe di età non ancora pienamente adulta.",
+    "options": [
+      "I maschi e i sub-adulti, con l'over-killing associato soprattutto ai maschi",
+      "Esclusivamente le femmine con piccoli",
+      "Solo gli individui anziani in cattività",
+      "Solo le femmine adulte residenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "I maschi e i sub-adulti sono le categorie che più frequentemente predano il bestiame domestico, e la maggior parte degli episodi di over-killing è associata al sesso maschile. Le femmine, quando predano animali domestici, tendono invece a consumare maggiormente la carcassa e a tornarvi più spesso.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.80"
+  },
+  {
+    "id": "lince-047",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale caratteristica dell'impronta consente di distinguere la traccia di lince da quella di lupo o cane?",
+    "suggestion": "Pensa al contorno dell'orma e alla visibilità degli artigli.",
+    "options": [
+      "L'impronta molto allungata con artigli sempre ben visibili",
+      "La presenza di membrane interdigitali nell'orma",
+      "Il contorno quasi circolare e l'assenza dei segni degli artigli retrattili",
+      "L'orma a forma di mezzaluna senza cuscinetti"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'orma della lince ha contorno quasi circolare e disposizione asimmetrica dei cuscinetti; gli artigli, retrattili, di norma non sono visibili. Ciò la distingue da quella di lupo o cane, più ovale, simmetrica e con evidenti segni degli artigli.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.83"
+  },
+  {
+    "id": "lince-048",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Perché la marcatura odorosa rappresenta per la lince un sistema di comunicazione più efficiente del semplice incontro diretto tra individui?",
+    "suggestion": "Gli incontri faccia a faccia comportano un rischio che la specie tende a evitare.",
+    "options": [
+      "Perché la lince è priva di olfatto e deve compensare con incontri frequenti",
+      "Perché le marcature sono percepibili solo dalla stessa lince che le ha lasciate",
+      "Perché serve a riunire molti individui in branco",
+      "Perché gli incontri diretti sono rari e rischiosi, mentre le marcature lungo confini e passaggi riducono i conflitti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gli incontri diretti tra linci sono rari e potenzialmente rischiosi; per questo la comunicazione avviene soprattutto tramite marcature odorose concentrate lungo i confini, nei punti di passaggio e su elementi ben visibili, che identificano il proprietario dell'area e riducono i conflitti. La lince ha un olfatto sviluppato e non è gregaria.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.102"
+  },
+  {
+    "id": "lince-049",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Quale ruolo svolge la lince nell'ecosistema forestale controllando le popolazioni di ungulati come capriolo e camoscio?",
+    "suggestion": "La sua predazione e la sua sola presenza influenzano la pressione di brucatura sulla vegetazione.",
+    "options": [
+      "Favorisce l'equilibrio tra ungulati e flora, riducendo i danni da brucatura e favorendo la rigenerazione del bosco",
+      "Provoca la scomparsa totale degli ungulati e quindi la desertificazione",
+      "Non ha alcun effetto sulla struttura della foresta",
+      "Aumenta i danni da brucatura concentrando gli ungulati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Controllando capriolo e camoscio, la lince favorisce l'equilibrio tra ungulati e flora: la sua presenza induce gli ungulati ad adattare l'uso dello spazio e i ritmi di attività, riducendo i danni da brucatura e favorendo la rigenerazione della vegetazione e una struttura forestale più stabile. Senza predatori, un'elevata densità di ungulati ostacola il ringiovanimento del bosco.",
+    "difficulty": "medium",
+    "source": "22 LINCE.pdf p.97"
+  },
+  {
+    "id": "lince-050",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Qual è la differenza concettuale tra \"home range\" e \"territorio\" come definiti rispettivamente da Burt e Howard?",
+    "suggestion": "Solo uno dei due concetti implica una difesa attiva dell'area contro i conspecifici.",
+    "options": [
+      "Sono sinonimi perfetti e intercambiabili",
+      "L'home range è sempre più piccolo del nucleo familiare; il territorio coincide con la tana",
+      "L'home range è l'area delle attività quotidiane; il territorio è un'area difesa attivamente contro le intrusioni",
+      "Il territorio è l'area delle attività quotidiane; l'home range è l'area difesa"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'home range (Burt, 1943) è l'area in cui un animale svolge le proprie attività quotidiane (alimentarsi, cacciare, riprodursi, allevare la prole). Il territorio (Howard, 1920) è invece un'area più o meno esclusiva, difesa attivamente contro le intrusioni di conspecifici. I due concetti non coincidono.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.98"
+  },
+  {
+    "id": "lince-051",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Perché una specie a dieta specializzata come la lince necessita di home range più ampi rispetto alle specie generaliste?",
+    "suggestion": "Dipende dalla minore flessibilità nella scelta delle risorse trofiche e dai fabbisogni energetici.",
+    "options": [
+      "Perché le specie specializzate compiono migrazioni continue",
+      "Perché la dieta specializzata richiede aree più vaste per reperire risorse sufficienti; inoltre c'è correlazione positiva tra massa corporea e ampiezza dell'home range",
+      "Perché difendono territori comuni in gruppi numerosi",
+      "Perché hanno fabbisogni energetici trascurabili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le specie a dieta specializzata, come la lince, necessitano di home range più ampi rispetto alle generaliste perché devono reperire risorse trofiche meno flessibili su aree più vaste; esiste inoltre una correlazione positiva tra dimensioni corporee e ampiezza dell'home range, legata ai maggiori fabbisogni energetici.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.99"
+  },
+  {
+    "id": "lince-052",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Come differiscono le core area di maschi e femmine di lince in termini di estensione ed esclusività?",
+    "suggestion": "In un sesso le aree centrali possono sovrapporsi tra individui, nell'altro sono esclusive.",
+    "options": [
+      "Nelle femmine il 70% e sovrapponibili; nei maschi il 44% ed esclusive",
+      "In entrambi i sessi sono identiche e sempre esclusive",
+      "In entrambi i sessi sono sovrapponibili senza differenze",
+      "Nei maschi circa il 70% dell'home range e possono sovrapporsi; nelle femmine circa il 44% ed esclusive"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le core area nei maschi rappresentano circa il 70% dell'home range e possono sovrapporsi tra individui (maggiore tolleranza reciproca), mentre nelle femmine sono esclusive e coprono circa il 44% dell'home range: ogni femmina ha la sua zona centrale privata. Le altre combinazioni invertono o appiattiscono questa differenza.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.101"
+  },
+  {
+    "id": "lince-053",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Un osservatore trova una carcassa con numerosi morsi, ampie lacerazioni dei tessuti e l'asportazione di un organo interno trasportato altrove. Questo quadro è compatibile con una predazione tipica di lince?",
+    "suggestion": "Confronta ogni dettaglio con il numero di morsi, il tipo di lesione e il comportamento sulla carcassa propri della lince; valuta se la precisione conta.",
+    "options": [
+      "Sì, è il quadro tipico della predazione di lince",
+      "No, perché la lince infligge pochi morsi puliti e non disloca organi",
+      "Sì, perché la lince produce sempre lesioni lacere",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il quadro descritto non è compatibile con la lince: questa infligge in media solo 2–4 morsi puliti e non laceranti, non disloca né asporta organi o parti della carcassa. Numerosi morsi, lesioni lacere e asportazione di organi indicano invece l'azione di canidi o necrofagi. La risposta corretta è quindi \"No\".",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.67"
+  },
+  {
+    "id": "lince-054",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Il leopardo delle nevi (Panthera uncia) possiede uno ioide incompletamente ossificato: cosa si può concludere correttamente riguardo alla sua vocalizzazione?",
+    "suggestion": "Lo stato dello ioide farebbe pensare al ruggito, ma il comportamento vocale reale non corrisponde a quella previsione.",
+    "options": [
+      "Pur avendo ioide incompletamente ossificato, non ruggisce ed emette vocalizzazioni simili alle fusa",
+      "Ruggisce esattamente come il leone",
+      "Ha lo ioide completamente ossificato come i gatti fusanti",
+      "È l'unico felide privo di ioide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il leopardo delle nevi rappresenta un caso particolare: possiede uno ioide incompletamente ossificato ma non ruggisce, emettendo invece vocalizzazioni più simili alle fusa. Questo dimostra che il solo criterio dello ioide non basta a predire la capacità di ruggire. Oggi è comunque incluso nel genere Panthera.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.3"
+  },
+  {
+    "id": "lince-055",
+    "topic": "lince",
+    "species": "Lince eurasiatica (Lynx lynx)",
+    "question": "Riguardo alla dieta della lince, quale delle seguenti affermazioni è corretta?",
+    "suggestion": "Valuta con precisione: alcune affermazioni invertono il peso relativo di ungulati e lagomorfi a seconda della regione, altre attribuiscono alla lince abitudini necrofaghe abituali.",
+    "options": [
+      "La lince è prevalentemente necrofaga e si nutre soprattutto di carogne",
+      "I lagomorfi sono la preda elettiva in tutte le popolazioni europee",
+      "Il capriolo è la preda principale alpina, mentre i lagomorfi sono fondamentali per le popolazioni scandinave",
+      "La lince non preda mai bestiame domestico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il capriolo è la preda principale nelle aree alpine, mentre i lagomorfi sono prede fondamentali per le popolazioni scandinave: la dieta varia con la regione. I casi di alimentazione su carogne sono estremamente rari, i lagomorfi non sono la preda elettiva ovunque, e in caso di scarsità di ungulati la lince può predare occasionalmente ovini e caprini. Quindi è corretta solo la prima affermazione.",
+    "difficulty": "hard",
+    "source": "22 LINCE.pdf p.42"
+  }
+]

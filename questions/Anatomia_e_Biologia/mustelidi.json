@@ -1,0 +1,631 @@
+[
+  {
+    "id": "mustelidi-001",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale tratto morfologico generale caratterizza tipicamente il corpo dei mustelidi?",
+    "suggestion": "Pensa alla silhouette che permette a questi predatori di infilarsi in cunicoli e di muoversi con grande flessibilità.",
+    "options": [
+      "Corpo allungato e flessuoso con arti brevi",
+      "Corpo tozzo e tarchiato con arti molto lunghi",
+      "Corpo globoso privo di coda",
+      "Corpo compresso lateralmente come nei pesci"
+    ],
+    "correctIndex": 0,
+    "explanation": "I mustelidi hanno tipicamente corpo allungato e flessuoso con arti brevi e pelliccia folta; questa conformazione conferisce grande flessibilità e agilità. Gli arti non sono lunghi e il corpo non è né globoso né compresso lateralmente.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.2"
+  },
+  {
+    "id": "mustelidi-002",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "In quali continenti o aree i mustelidi sono assenti come famiglia?",
+    "suggestion": "Si tratta soprattutto di territori isolati e australi, oltre a numerose isole oceaniche.",
+    "options": [
+      "Australia, Madagascar, Antille, Antartide e molte isole oceaniche",
+      "Europa, Asia e Nord America",
+      "Africa subsahariana e Sud America",
+      "Solo le regioni artiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "La famiglia dei mustelidi ha distribuzione amplissima ed è assente solo in Australia, Madagascar, Antille, Antartide e in molte isole oceaniche. È invece ben presente in Europa, Asia e Nord America.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.1"
+  },
+  {
+    "id": "mustelidi-003",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "A quale sottofamiglia di mustelidi appartengono le lontre, adattate alla vita acquatica?",
+    "suggestion": "Il nome della sottofamiglia richiama il termine scientifico latino della lontra.",
+    "options": [
+      "Melinae",
+      "Mustelinae",
+      "Lutrinae",
+      "Mellivorinae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le lontre, adattate alla vita acquatica, appartengono alla sottofamiglia Lutrinae. Le Mustelinae includono donnole, ermellini, visoni, martore e faine; le Melinae i tassi eurasiatici; le Mellivorinae il solo ratele.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.1"
+  },
+  {
+    "id": "mustelidi-004",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale gruppo di specie è incluso nella sottofamiglia Mustelinae?",
+    "suggestion": "È la sottofamiglia più ricca, comprende sia i piccolissimi predatori sia faine e martore.",
+    "options": [
+      "Donnole, ermellini, visoni, martore, faine e zibellini",
+      "Solo i tassi eurasiatici",
+      "Solo le lontre",
+      "Il tasso americano e il ratele"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sottofamiglia Mustelinae include donnole, ermellini, visoni, martore, faine e zibellini. I tassi eurasiatici sono nelle Melinae, le lontre nelle Lutrinae, il tasso americano nelle Taxideinae e il ratele nelle Mellivorinae.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.1"
+  },
+  {
+    "id": "mustelidi-005",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale unica specie rappresenta la sottofamiglia Mellivorinae?",
+    "suggestion": "È un mustelide africano-asiatico noto per la sua audacia, detto anche \"tasso del miele\".",
+    "options": [
+      "Il tasso americano (Taxidea taxus)",
+      "Il ratele o tasso del miele (Mellivora capensis)",
+      "Il tasso europeo (Meles meles)",
+      "Lo zibellino"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sottofamiglia Mellivorinae è rappresentata da un'unica specie, il ratele o tasso del miele (Mellivora capensis). Il tasso americano è nelle Taxideinae, il tasso europeo nelle Melinae.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.1"
+  },
+  {
+    "id": "mustelidi-006",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale funzione hanno le ghiandole odorifere della regione anale nei mustelidi?",
+    "suggestion": "Producono secrezioni dall'odore intenso utili sia contro i nemici sia tra conspecifici.",
+    "options": [
+      "Servono unicamente a impermeabilizzare la pelliccia",
+      "Hanno funzione difensiva e comunicativa",
+      "Servono a regolare la temperatura corporea",
+      "Producono latte per i piccoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le ghiandole odorifere anali producono secrezioni dall'odore intenso usate a scopo difensivo e comunicativo. Non hanno funzioni di impermeabilizzazione, termoregolazione o allattamento.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.5"
+  },
+  {
+    "id": "mustelidi-007",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Come si presentano le estremità delle lontre (Lutrinae) rispetto agli altri mustelidi, in relazione al loro stile di vita?",
+    "suggestion": "Pensa a un adattamento al nuoto che riguarda la struttura tra le dita.",
+    "options": [
+      "Sono retrattili come negli artigli dei felidi",
+      "Sono palmate per l'adattamento alla vita acquatica",
+      "Sono prive di unghie",
+      "Sono ridotte a un solo dito"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle lontre le estremità sono palmate, in relazione all'adattamento alla vita acquatica. Le unghie dei mustelidi non sono mai retrattili, sono presenti cinque dita munite di unghie e non vi è riduzione a un solo dito.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.2"
+  },
+  {
+    "id": "mustelidi-008",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Perché il torpore invernale osservato in diversi generi di mustelidi non è considerato una vera ibernazione?",
+    "suggestion": "La differenza chiave riguarda ciò che accade (o non accade) alla temperatura del corpo.",
+    "options": [
+      "Perché dura solo poche ore al giorno",
+      "Perché non comporta una significativa diminuzione della temperatura corporea",
+      "Perché avviene solo nei maschi",
+      "Perché interessa unicamente le specie acquatiche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il torpore invernale dei mustelidi non corrisponde a una vera ibernazione perché non comporta una significativa diminuzione della temperatura corporea. Le altre opzioni non sono il criterio distintivo indicato.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.2"
+  },
+  {
+    "id": "mustelidi-009",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Su quale senso si affidano principalmente i mustelidi durante la caccia?",
+    "suggestion": "È lo stesso senso che il tasso usa per cercare il cibo nel suolo.",
+    "options": [
+      "Sulla vista",
+      "Sull'udito",
+      "Sull'olfatto",
+      "Sull'ecolocalizzazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante la caccia i mustelidi si affidano principalmente all'olfatto, pur possedendo sensi generalmente ben sviluppati. L'ecolocalizzazione non è un loro carattere.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.2"
+  },
+  {
+    "id": "mustelidi-010",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Perché nel cranio dei mustelidi il muso è meno accorciato rispetto a quello dei felidi?",
+    "suggestion": "La forma del muso riflette il tipo di dieta del gruppo.",
+    "options": [
+      "Perché hanno una dieta più variabile e meno specializzata",
+      "Perché hanno una dentatura ridotta",
+      "Perché vivono prevalentemente in acqua",
+      "Perché hanno un olfatto poco sviluppato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei mustelidi il muso è sviluppato ma meno accorciato rispetto ai felidi, e ciò riflette una dieta più variabile e meno specializzata. Non dipende da dentatura ridotta, vita acquatica o olfatto scarso (anzi, l'olfatto è efficace).",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.9"
+  },
+  {
+    "id": "mustelidi-011",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "A cosa è correlato lo sviluppo della cresta sagittale nel cranio dei mustelidi, soprattutto nei maschi?",
+    "suggestion": "Offre una superficie di ancoraggio per i muscoli che chiudono la mandibola.",
+    "options": [
+      "All'inserzione dei muscoli temporali per la chiusura della mandibola",
+      "Alla protezione dei bulbi oculari",
+      "All'ancoraggio dei muscoli del collo per il nuoto",
+      "All'amplificazione dell'olfatto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cresta sagittale, spesso ben sviluppata soprattutto nei maschi, fornisce un'ampia superficie di inserzione per i muscoli temporali, coinvolti nella chiusura della mandibola. L'arco zigomatico, invece, è legato all'inserzione dei masseteri.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.9"
+  },
+  {
+    "id": "mustelidi-012",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quali movimenti consente principalmente l'articolazione temporo-mandibolare dei mustelidi, tipici dei carnivori?",
+    "suggestion": "Sono i movimenti adatti a tagliare la carne più che a masticarla lateralmente.",
+    "options": [
+      "Movimenti rotatori a 360 gradi",
+      "Movimenti prevalentemente verticali, con una certa flessibilità",
+      "Movimenti esclusivamente laterali, come nei ruminanti",
+      "Nessun movimento, essendo l'articolazione fusa"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'articolazione temporo-mandibolare dei mustelidi consente movimenti prevalentemente verticali tipici dei carnivori, ma con una certa flessibilità maggiore rispetto ai felidi (fossa glenoidea con processo postglenoideo). Non sono movimenti laterali da ruminante né rotatori.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.9"
+  },
+  {
+    "id": "mustelidi-013",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "A quale famiglia, ordine e sottofamiglia appartiene il tasso (Meles meles)?",
+    "suggestion": "È un mustelide caniforme la cui sottofamiglia raccoglie i tassi eurasiatici.",
+    "options": [
+      "Famiglia Mustelidae, ordine Carnivora, sottofamiglia Melinae",
+      "Famiglia Canidae, ordine Carnivora, sottofamiglia Mustelinae",
+      "Famiglia Mustelidae, ordine Rodentia, sottofamiglia Lutrinae",
+      "Famiglia Ursidae, ordine Carnivora, sottofamiglia Melinae"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tasso (Meles meles) è classificato in famiglia Mustelidae, ordine Carnivora, sottordine Caniformia, sottofamiglia Melinae, genere Meles. Non è un canide né un urside, e l'ordine non è Rodentia.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.14"
+  },
+  {
+    "id": "mustelidi-014",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Secondo le revisioni genetiche recenti, come vengono oggi considerati Meles leucurus (tasso asiatico) e Meles anakuma (tasso giapponese) rispetto a Meles meles?",
+    "suggestion": "Studi genetici hanno alzato il loro rango tassonomico rispetto al passato.",
+    "options": [
+      "Come semplici varietà di colore di Meles meles",
+      "Come specie separate e non più sottospecie di meles",
+      "Come ibridi tra tasso e martora",
+      "Come sinonimi dello stesso identico taxon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studi genetici recenti hanno portato a considerare il tasso asiatico (Meles leucurus) e il tasso giapponese (Meles anakuma) come specie separate e non più sottospecie di Meles meles. Non sono varietà di colore né ibridi.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.15"
+  },
+  {
+    "id": "mustelidi-015",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale fiume segna il confine tra l'areale del tasso europeo (Meles meles) e quello del tasso asiatico (Meles leucurus)?",
+    "suggestion": "È un grande fiume russo che sfocia nel Mar Caspio.",
+    "options": [
+      "Il Reno",
+      "Il Danubio",
+      "Il Volga",
+      "Il Don"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il confine tra il tasso europeo (Meles meles) e il tasso asiatico (Meles leucurus) è rappresentato dal fiume Volga. Reno, Danubio e Don non sono indicati come confine.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.17"
+  },
+  {
+    "id": "mustelidi-016",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Come si presenta tipicamente la testa del tasso (Meles meles) dal punto di vista della colorazione?",
+    "suggestion": "Pensa al disegno facciale inconfondibile fatto di chiaro e scuro che attraversa gli occhi.",
+    "options": [
+      "Uniformemente nera",
+      "Chiara e biancastra, attraversata da due ampie bande nere che passano per la regione oculare",
+      "Rossiccia con una macchia bianca sulla gola",
+      "Completamente bianca senza bande"
+    ],
+    "correctIndex": 1,
+    "explanation": "La testa del tasso è di colore chiaro, biancastro, attraversata da due ampie bande nere che si originano poco dietro le narici e si estendono posteriormente passando per la regione oculare e auricolare fino ai lati del collo. Le altre descrizioni non corrispondono.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.20"
+  },
+  {
+    "id": "mustelidi-017",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Qual è la formula dentale del tasso (Meles meles), per un totale di 38 denti?",
+    "suggestion": "Conta un molare in più nell'arcata inferiore rispetto alla superiore.",
+    "options": [
+      "I 3/3, C 1/1, Pm 4/4, M 1/2 = 38",
+      "I 3/3, C 1/1, Pm 3/3, M 2/2 = 36",
+      "I 2/2, C 1/1, Pm 4/4, M 2/2 = 36",
+      "I 3/3, C 1/1, Pm 4/4, M 2/2 = 40"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formula dentale del tasso è I 3/3, C 1/1, Pm 4/4, M 1/2 = 38: un molare superiore per lato e due inferiori per lato. Le altre combinazioni non danno il totale corretto o non corrispondono alla formula descritta.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.24"
+  },
+  {
+    "id": "mustelidi-018",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Cosa indica il tartufo ampio, umido e altamente sensibile del tasso (Meles meles)?",
+    "suggestion": "È coerente con un animale che cerca il cibo soprattutto scavando nel suolo.",
+    "options": [
+      "Una dieta esclusivamente erbivora",
+      "Una vista eccezionale per la caccia notturna",
+      "Un olfatto molto sviluppato, fondamentale per la ricerca di alimento nel suolo",
+      "Un adattamento alla vita acquatica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il tartufo ampio, umido e sensibile del tasso riflette un olfatto molto sviluppato, fondamentale per la ricerca di alimento soprattutto nel suolo; è coerente con dieta onnivora/opportunista, comportamento scavatorio e attività notturna o crepuscolare. Non indica dieta erbivora, vista eccezionale né adattamento acquatico.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.30"
+  },
+  {
+    "id": "mustelidi-019",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale tipo di appoggio del piede caratterizza l'orma del tasso (Meles meles)?",
+    "suggestion": "Lascia un'impronta larga con cuscinetto plantare ben visibile, non solo sulle punte delle dita.",
+    "options": [
+      "Digitigrado, appoggiando solo le dita",
+      "Plantigrado, con cuscinetti digitali e largo cuscinetto plantare visibili",
+      "Unguligrado, appoggiando lo zoccolo",
+      "Appoggio palmato come nelle lontre"
+    ],
+    "correctIndex": 1,
+    "explanation": "La traccia del tasso è plantigrada: l'orma mostra le cinque dita con le unghie, i cuscinetti digitali e il largo cuscinetto plantare. Non è digitigrada né unguligrada, e non presenta palmatura come nelle lontre.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.34"
+  },
+  {
+    "id": "mustelidi-020",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Cosa si osserva talvolta nella tana del tasso (Meles meles) riguardo alla convivenza con un altro carnivoro?",
+    "suggestion": "Un canide di colore rossiccio può condividere parte della stessa struttura sotterranea.",
+    "options": [
+      "Vi convive stabilmente la martora",
+      "Una parte della tana può essere usata anche dalla volpe, con ingressi e gallerie diverse",
+      "Vi nidificano abitualmente i rapaci",
+      "Non tollera mai nessun'altra specie nelle vicinanze"
+    ],
+    "correctIndex": 1,
+    "explanation": "In un'unica tana possono vivere più tassi e, a volte, una parte della tana viene utilizzata anche dalla volpe, con i due animali che usano ingressi e gallerie diverse. La martora e i rapaci non sono indicati come coabitanti della tana.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.36"
+  },
+  {
+    "id": "mustelidi-021",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Cosa sono le \"latrine\" associate alla tana del tasso (Meles meles)?",
+    "suggestion": "Riguardano un comportamento ordinato legato alle deiezioni, in punti dedicati.",
+    "options": [
+      "Cavità usate per immagazzinare il cibo",
+      "Piccole buche nel terreno dove il tasso depone i suoi escrementi",
+      "Camere imbottite per il parto",
+      "Pozze d'acqua per abbeverarsi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le latrine sono piccole buche nel terreno, non lontano dalla tana, dove il tasso depone i suoi escrementi. Non sono dispense di cibo, camere-parto né pozze d'acqua.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.38"
+  },
+  {
+    "id": "mustelidi-022",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale particolarità presenta il tratto intestinale del tasso (Meles meles) rispetto ad altri carnivori?",
+    "suggestion": "Manca una porzione intestinale, e una valvola di passaggio, di solito presente al confine tra tenue e crasso.",
+    "options": [
+      "Il crasso è più lungo del tenue",
+      "Il cieco e lo sfintere ileo-colico sono assenti",
+      "È privo del piccolo intestino (tenue)",
+      "Presenta un cieco enormemente sviluppato come nei conigli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel tasso il tratto intestinale è lungo e uniforme, con il tenue che rappresenta circa il 95% della lunghezza; il cieco e lo sfintere ileo-colico sono assenti e il crasso è molto breve (circa 5%). Non vi è quindi un cieco sviluppato e il tenue non manca.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.43"
+  },
+  {
+    "id": "mustelidi-023",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Cosa si intende con la \"diapausa embrionale\" (ritardo dell'impianto) descritta nella riproduzione del tasso (Meles meles)?",
+    "suggestion": "Dopo la fecondazione, lo sviluppo dell'embrione resta in sospeso prima di annidarsi nell'utero.",
+    "options": [
+      "Una pausa nell'allattamento dei piccoli",
+      "Una fase in cui l'embrione resta in quiescenza ritardando l'impianto, anche per molti mesi",
+      "Un periodo di letargo profondo della femmina",
+      "L'interruzione della spermatogenesi nei maschi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella diapausa embrionale l'embrione, dopo la fecondazione, rimane in uno stato di quiescenza ritardando l'impianto nell'utero (nel tasso fino a circa 11 mesi); solo dopo l'impianto la gestazione effettiva dura circa sette settimane. Non riguarda allattamento, letargo o spermatogenesi.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.44"
+  },
+  {
+    "id": "mustelidi-024",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Come differiscono tipicamente la macchia gulare/pettorale della faina e quella della martora?",
+    "suggestion": "Concentrati sul colore della macchia e sul fatto che possa estendersi o no verso le zampe.",
+    "options": [
+      "Entrambe hanno macchia nera uniforme",
+      "La faina ha macchia bianca che può proseguire verso le zampe; la martora ha macchia giallastra, mai bianca",
+      "La martora ha macchia bianca biforcata; la faina non ha alcuna macchia",
+      "La faina ha macchia gialla; la martora ha macchia bianca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella faina la macchia pettorale è bianca e può proseguire fin verso le zampe, spesso divisa da una linea centrale scura; nella martora è giallastra (mai bianca). Le altre opzioni invertono o falsano questi caratteri.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.51"
+  },
+  {
+    "id": "mustelidi-025",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Osservando la pianta delle zampe, come si distinguono faina e martora?",
+    "suggestion": "Una delle due ha la pianta del piede ricoperta di peli, l'altra la mostra nuda.",
+    "options": [
+      "Nella martora la pianta è ricoperta di peli, nella faina è nuda",
+      "Nella faina la pianta è ricoperta di peli, nella martora è nuda",
+      "Entrambe hanno la pianta completamente nuda",
+      "Entrambe hanno la pianta completamente pelosa tutto l'anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella martora la pianta delle zampe è ricoperta di peli (soprattutto in autunno-inverno), mentre nella faina è nuda. Le altre opzioni invertono il carattere o lo negano.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.51"
+  },
+  {
+    "id": "mustelidi-026",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale differenza di colore del rinario distingue faina e martora?",
+    "suggestion": "Una delle due ha il rinario chiaro color carne, l'altra lo ha scuro.",
+    "options": [
+      "Nella faina è grigio-scuro/nero, nella martora è color carne",
+      "Nella martora è grigio-scuro fino a nero, nella faina è color carne",
+      "In entrambe è rosa acceso",
+      "In entrambe è completamente bianco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il rinario è grigio-scuro fino a nero nella martora, mentre è color carne nella faina. Va comunque ricordato che il rinario è un carattere meno affidabile per la diagnosi, per la variabilità individuale.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.51"
+  },
+  {
+    "id": "mustelidi-027",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale specie tra faina e martora si è abituata alla presenza dell'uomo, entrando in solai e attratta dai pollai?",
+    "suggestion": "È la specie più sinantropica delle due, comune anche vicino agli insediamenti umani.",
+    "options": [
+      "La martora",
+      "La faina",
+      "Entrambe in egual misura",
+      "Nessuna delle due frequenta ambienti antropizzati"
+    ],
+    "correctIndex": 1,
+    "explanation": "La faina si è abituata alla presenza dell'uomo ed entra senza esitazioni, soprattutto d'inverno, sotto i tetti e nei solai delle zone periferiche, ed è attratta dai pollai. La martora invece evita la vicinanza dell'uomo e predilige le vaste superfici boschive, soprattutto con conifere.",
+    "difficulty": "easy",
+    "source": "17 mustelidi.pdf p.51"
+  },
+  {
+    "id": "mustelidi-028",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale comportamento predatorio tipico di molti piccoli carnivori è descritto nella faina (Martes foina)?",
+    "suggestion": "Può uccidere più prede di quante ne consumi subito, spesso con un morso alla nuca o alla gola.",
+    "options": [
+      "Il cleptoparassitismo",
+      "L'allevamento delle prede",
+      "Il surplus killing (uccisione in eccesso)",
+      "La predazione esclusivamente diurna in gruppo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La faina, come molti piccoli carnivori, può uccidere più prede di quante ne consumi immediatamente: è il cosiddetto surplus killing, spesso attuato con un morso alla nuca o alla gola. Cleptoparassitismo e allevamento delle prede non sono pertinenti.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.63"
+  },
+  {
+    "id": "mustelidi-029",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quali ambienti predilige la martora (Martes martes)?",
+    "suggestion": "È la più legata all'ambiente forestale ed eccellente arrampicatrice, che caccia tra i rami.",
+    "options": [
+      "Gli ambienti urbani e i solai delle abitazioni",
+      "Gli habitat di foresta, spesso con alberi secolari, dove caccia sugli alberi",
+      "Le zone aperte rocciose ai margini dei bosco, vicino all'uomo",
+      "Gli ambienti semiacquatici lungo i fiumi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La martora colonizza di preferenza gli habitat di foresta, soprattutto antichi con alberi secolari, ed è eccellente arrampicatrice che caccia in gran parte sugli alberi inseguendo ghiri, scoiattoli, ecc. Gli ambienti urbani e i margini aperti vicino all'uomo sono invece tipici della faina.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.68"
+  },
+  {
+    "id": "mustelidi-030",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale livello di protezione ha la martora (Martes martes) rispetto alla faina in Italia?",
+    "suggestion": "Una delle due è inclusa tra le specie di interesse comunitario; l'altra ha una gestione più flessibile.",
+    "options": [
+      "La martora ha protezione minore della faina perché più comune",
+      "La martora gode di protezione maggiore, essendo specie di interesse comunitario",
+      "Entrambe sono cacciabili senza restrizioni",
+      "Solo la faina è protetta, la martora no"
+    ],
+    "correctIndex": 1,
+    "explanation": "La martora gode generalmente di un livello di protezione maggiore rispetto alla faina, essendo inclusa tra le specie di interesse comunitario (Direttiva Habitat 92/43, allegato IV); la faina è soggetta a forme di gestione più flessibili anche per il suo adattamento agli ambienti antropizzati. Entrambe comunque sono protette dalla L. 157/1992.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.66"
+  },
+  {
+    "id": "mustelidi-031",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quando si svolge la stagione degli accoppiamenti nella faina (Martes foina) e nella martora (Martes martes)?",
+    "suggestion": "È in piena estate, ben prima dei parti che avvengono la primavera successiva grazie alla diapausa.",
+    "options": [
+      "Tra gennaio e maggio",
+      "Tra luglio e agosto",
+      "Tra ottobre e novembre",
+      "Durante tutto l'anno senza stagionalità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sia nella faina sia nella martora la stagione degli accoppiamenti si colloca tra luglio e agosto; grazie alla diapausa embrionale l'impianto avviene tra febbraio e marzo e i parti tra fine marzo e aprile. Il periodo gennaio-maggio è invece tipico dell'accoppiamento del tasso.",
+    "difficulty": "medium",
+    "source": "17 mustelidi.pdf p.65"
+  },
+  {
+    "id": "mustelidi-032",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Nella faina (Martes foina), come appare la faccia esterna del quarto premolare superiore rispetto alla martora?",
+    "suggestion": "Attenzione: il carattere è opposto tra le due specie; ricorda quale ha la faccia concava.",
+    "options": [
+      "Nella faina è convessa, nella martora è concava",
+      "Nella faina è concava, nella martora è convessa",
+      "In entrambe è perfettamente piatta",
+      "Nella faina il quarto premolare superiore è assente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella faina il quarto premolare superiore presenta una faccia esterna concava, mentre nella martora è convessa: è un dettaglio dentale facile da invertire. Il dente è comunque presente in entrambe e non è piatto.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.52"
+  },
+  {
+    "id": "mustelidi-033",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Come differisce la forma del primo molare superiore tra martora e faina?",
+    "suggestion": "Una ha bordo interno più lungo dando forma triangolare, l'altra ha bordi simili dando forma più rettangolare.",
+    "options": [
+      "Nella martora è triangolare (bordo interno più lungo); nella faina è più rettangolare (bordi simili)",
+      "Nella faina è triangolare; nella martora è rettangolare",
+      "In entrambe è perfettamente circolare",
+      "Solo la martora possiede il primo molare superiore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel primo molare superiore della martora il bordo interno è più lungo di quello esterno, conferendo una forma triangolare; nella faina i due bordi sono di lunghezza simile, dando una forma più rettangolare. La forma circolare e l'assenza del dente non sono corrette.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.52"
+  },
+  {
+    "id": "mustelidi-034",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Secondo il testo, quali regioni somatiche risultano più attendibili per distinguere faina e martora?",
+    "suggestion": "Sono caratteri meno variabili individualmente rispetto a rinario e pianta del piede; pensa a gola e padiglioni auricolari.",
+    "options": [
+      "Il rinario e la regione plantare",
+      "L'areola gulare e i padiglioni auricolari (e il fianco)",
+      "La lunghezza della coda e il peso",
+      "Il colore degli occhi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le regioni più attendibili per distinguere faina e martora sono l'areola gulare e i padiglioni auricolari (oltre al fianco), mentre il rinario e la regione plantare sono meno affidabili per la maggiore variabilità individuale. Coda, peso e colore degli occhi non sono indicati come caratteri diagnostici principali.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.79"
+  },
+  {
+    "id": "mustelidi-035",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Quale metodo è attualmente considerato il più affidabile per l'identificazione specifica certa tra faina e martora?",
+    "suggestion": "I caratteri morfologici possono ingannare; il metodo più sicuro non si basa sull'aspetto esterno.",
+    "options": [
+      "L'osservazione del colore del rinario",
+      "I protocolli genetici",
+      "La misura della lunghezza della coda",
+      "Il colore della pelliccia a giugno"
+    ],
+    "correctIndex": 1,
+    "explanation": "I protocolli genetici rappresentano attualmente il metodo più affidabile per una corretta identificazione specifica; il Baculum Index è molto affidabile ma applicabile solo ai maschi, mentre i caratteri morfologici possono risultare poco affidabili. Rinario, coda e colore stagionale del pelo sono meno sicuri.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.79"
+  },
+  {
+    "id": "mustelidi-036",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Riguardo allo stato delle callosità (polpastrelli) plantari di martora e faina, quale affermazione è corretta?",
+    "suggestion": "Attenzione alla stagione: in una specie i polpastrelli si scoprono in parte d'estate, nell'altra restano sempre nudi.",
+    "options": [
+      "Nella faina i polpastrelli sono sempre totalmente nudi; nella martora sono coperti di pelo in autunno-inverno",
+      "In entrambe i polpastrelli sono sempre coperti di pelo",
+      "Nella martora i polpastrelli sono sempre nudi; nella faina sempre pelosi",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella faina i polpastrelli delle zampe sono sempre totalmente nudi, mentre nella martora sono coperti di pelo in autunno-inverno (attenzione: non d'estate, quando sono in parte scoperti). Le altre opzioni invertono o generalizzano in modo errato il carattere.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.73"
+  },
+  {
+    "id": "mustelidi-037",
+    "topic": "mustelidi",
+    "species": "Mustelidi",
+    "question": "Riguardo all'estensione della macchia pettorale alla regione omerale, quale specie tra martora e faina la presenta tipicamente estesa all'area omerale?",
+    "suggestion": "Attenzione a non confondere: una specie ha la macchia che di regola arriva alla spalla, l'altra mai.",
+    "options": [
+      "La martora, la cui macchia pettorale è mai estesa alla regione omerale",
+      "La faina, la cui macchia pettorale è di regola estesa all'area omerale",
+      "Entrambe sempre, in modo identico",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella faina (Martes foina) la macchia pettorale è di regola estesa all'area omerale, mentre nella martora (Martes martes) la macchia non è mai estesa alla regione omerale ed è talora molto ridotta. L'opzione che attribuisce l'estensione alla martora inverte il carattere.",
+    "difficulty": "hard",
+    "source": "17 mustelidi.pdf p.73"
+  }
+]

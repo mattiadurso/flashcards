@@ -1,0 +1,665 @@
+[
+  {
+    "id": "lupo-001",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "A quale famiglia e genere appartiene il lupo grigio, all'interno dell'ordine dei Carnivora?",
+    "suggestion": "Pensa al gruppo di carnivori che porta nel nome la radice latina di \"cane\" e al genere che condivide con coyote e sciacallo dorato.",
+    "options": [
+      "Famiglia Felidae, genere Lynx",
+      "Famiglia Canidae, genere Canis",
+      "Famiglia Mustelidae, genere Mustela",
+      "Famiglia Canidae, genere Vulpes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il lupo (Canis lupus) appartiene alla famiglia Canidae e al genere Canis, lo stesso del coyote (Canis latrans) e dello sciacallo dorato (Canis aureus). Felidae/Lynx e Mustelidae/Mustela sono altre famiglie di carnivori; il genere Vulpes raccoglie invece le volpi, distinte dai canidi lupini.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.6"
+  },
+  {
+    "id": "lupo-002",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Perché il genere Canis è considerato un clade monofiletico?",
+    "suggestion": "Un clade monofiletico richiede due condizioni: un punto di partenza comune e nessuna esclusione tra i discendenti.",
+    "options": [
+      "Perché comprende un antenato comune e tutti i suoi discendenti",
+      "Perché raggruppa specie simili solo per aspetto esteriore",
+      "Perché include l'antenato comune ma esclude alcuni discendenti",
+      "Perché contiene specie prive di parentela evolutiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un clade monofiletico include un antenato comune e tutti i suoi discendenti: è il caso del genere Canis. Il raggruppamento per solo aspetto può essere fuorviante; escludere alcuni discendenti darebbe un gruppo parafiletico (come gli sciacalli), non monofiletico.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.4"
+  },
+  {
+    "id": "lupo-003",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Perché gli sciacalli sono considerati un gruppo parafiletico e non un clade naturale?",
+    "suggestion": "Rifletti sul fatto che alcuni \"sciacalli\" risultano geneticamente più vicini ad altri Canis (coyote o lupo) che tra loro.",
+    "options": [
+      "Perché derivano da antenati di famiglie diverse",
+      "Perché non includono tutti i discendenti dell'antenato comune, essendo alcuni più vicini ad altri Canis che tra loro",
+      "Perché sono tutti più imparentati tra loro che con qualsiasi altro Canis",
+      "Perché non hanno alcun antenato comune"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli sciacalli sono parafiletici perché il gruppo non comprende tutti i discendenti dell'antenato comune: alcune specie di \"sciacalli\" sono filogeneticamente più vicine a coyote o lupo che tra loro. È un classico esempio di come le classificazioni basate sull'aspetto possano ingannare.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.4"
+  },
+  {
+    "id": "lupo-004",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale stato di conservazione attribuisce oggi la IUCN al lupo a livello globale?",
+    "suggestion": "A scala mondiale la specie ha ampia distribuzione e alcune popolazioni in ripresa: non è più nelle categorie di rischio elevato.",
+    "options": [
+      "In pericolo critico (Critically Endangered)",
+      "Vulnerabile (Vulnerable)",
+      "Minima preoccupazione (Least Concern)",
+      "Estinto in natura (Extinct in the Wild)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A livello globale la IUCN classifica il lupo come \"Least Concern\" (minima preoccupazione), non più \"Vulnerabile\", grazie all'ampia distribuzione (Europa, Asia, Nord America) e alla ripresa di alcune popolazioni. A livello locale può però essere ancora considerato a rischio.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.6"
+  },
+  {
+    "id": "lupo-005",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale normativa italiana ha storicamente reso il lupo specie particolarmente protetta, vietandone caccia, cattura e uccisione?",
+    "suggestion": "È la stessa legge quadro nazionale del 1992 sulla fauna selvatica omeoterma e l'attività venatoria.",
+    "options": [
+      "La Legge 11 febbraio 1992, n. 157",
+      "La Direttiva Habitat 92/43/CEE Allegato V",
+      "La Convenzione di Washington (CITES)",
+      "Il Regolamento europeo sulle specie invasive"
+    ],
+    "correctIndex": 0,
+    "explanation": "In Italia il lupo è specie particolarmente protetta ai sensi della Legge 11 febbraio 1992, n. 157 (Art. 2), che vieta caccia, cattura e uccisione. La Direttiva Habitat 92/43/CEE (Allegato IV) opera a livello europeo; CITES e il regolamento sulle specie invasive non sono lo strumento pertinente.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.6"
+  },
+  {
+    "id": "lupo-006",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale popolazione di lupo italiana è interessata da un ritorno naturale dopo una scomparsa storica, con formazione di branchi stabili?",
+    "suggestion": "Pensa al settore montano nord-occidentale dove il lupo era estinto e da cui è poi passato a Francia e Svizzera.",
+    "options": [
+      "La popolazione alpina",
+      "La popolazione appenninica centrale",
+      "La popolazione della Sicilia",
+      "La popolazione sarda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sulle Alpi il lupo era scomparso ed è tornato naturalmente, formando branchi stabili e proseguendo verso Francia e Svizzera. L'Appennino ha invece mantenuto una presenza continua durante il declino; in Sicilia e Sardegna la specie non è oggetto di questa ricolonizzazione descritta nel testo.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.14"
+  },
+  {
+    "id": "lupo-007",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "A circa quanti individui si era ridotta la popolazione di lupo in Italia nel suo minimo storico degli anni '70?",
+    "suggestion": "Si tratta di poche centinaia di animali al massimo, prima dell'avvio delle leggi di protezione.",
+    "options": [
+      "Circa 100-300 individui",
+      "Circa 1.000-1.500 individui",
+      "Circa 3.000 individui",
+      "Circa 30-50 individui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negli anni '70 il lupo in Italia era ridotto a circa 100-300 individui (minimo storico). Da circa 100 esemplari la specie si è ripresa fino agli attuali 3.000-3.500 grazie a protezione legale, abbandono delle aree rurali e aumento delle prede selvatiche.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.14"
+  },
+  {
+    "id": "lupo-008",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale tra questi NON è indicato come causa della ripresa del lupo in Italia?",
+    "suggestion": "Cerca il fattore che, anziché favorire il lupo, ne ridurrebbe lo spazio o le risorse.",
+    "options": [
+      "La protezione legale dagli anni '70",
+      "L'abbandono delle aree rurali e montane",
+      "L'aumento delle prede selvatiche",
+      "La forte frammentazione e riduzione degli habitat forestali"
+    ],
+    "correctIndex": 3,
+    "explanation": "La ripresa è dovuta a protezione legale, abbandono delle aree rurali con ritorno della naturalità e aumento degli ungulati selvatici. La frammentazione degli habitat è invece un fattore limitante per la distribuzione, non una causa di ripresa.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.14"
+  },
+  {
+    "id": "lupo-009",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale aspetto morfologico distingue tipicamente il lupo, conferendogli un profilo del dorso lievemente spiovente verso il posteriore?",
+    "suggestion": "Confronta l'altezza della parte posteriore con quella delle spalle: una è più bassa dell'altra.",
+    "options": [
+      "La groppa è più alta del garrese",
+      "La groppa è più bassa del garrese",
+      "Garrese e groppa sono perfettamente alla stessa altezza",
+      "Il garrese è assente e il dorso è perfettamente piano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel lupo la groppa è più bassa del garrese (anche se non quanto in un pastore tedesco), il che determina una linea del dorso leggermente spiovente verso il posteriore. Le altre opzioni descrivono profili dorsali non corrispondenti all'anatomia del lupo.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.20"
+  },
+  {
+    "id": "lupo-010",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale carattere del cranio del lupo è descritto come tipico, in contrapposizione al cane?",
+    "suggestion": "Pensa all'angolo orbito-frontale (zigomatico) e al fatto che nel lupo è ridotto rispetto a una soglia di 45°.",
+    "options": [
+      "Stop fronto-nasale molto pronunciato e angolo orbito-frontale superiore a 45°",
+      "Cranio stretto e allungato con stop assente",
+      "Aspetto \"largo\" con angolo orbito-frontale inferiore a 45° e stop poco pronunciato",
+      "Fronte bombata con marcato salto fronto-nasale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cranio del lupo ha aspetto \"largo\" con angolo orbito-frontale (zigomatico) inferiore a 45° e \"stop\" (salto fronto-nasale) poco pronunciato. Nel cane l'angolo supera i 45° e lo stop è più marcato: per questo le opzioni con stop pronunciato o angolo > 45° descrivono il cane, non il lupo.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.20"
+  },
+  {
+    "id": "lupo-011",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Perché la pista di un lupo al trotto si presenta come un'unica linea di impronte?",
+    "suggestion": "Considera dove il lupo appoggia la zampa posteriore rispetto a quella anteriore dello stesso lato.",
+    "options": [
+      "Perché trascina le zampe lasciando un solco continuo",
+      "Perché salta a piè pari lasciando impronte appaiate",
+      "Perché muove insieme le due zampe dello stesso lato e posa la posteriore sull'impronta dell'anteriore",
+      "Perché poggia solo le zampe anteriori durante il trotto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel lupo gli arti anteriori hanno il gomito ruotato all'interno: questo consente di muovere la zampa anteriore e quella posteriore dello stesso lato su un'unica linea, con la posteriore che ricalca l'impronta dell'anteriore. Ne risulta una pista a linea singola, tipica del trotto.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.21"
+  },
+  {
+    "id": "lupo-012",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Come è caratterizzata la postura del piede del lupo dal punto di vista anatomico?",
+    "suggestion": "Il lupo non appoggia tutta la pianta come l'orso, né solo le punte come un ungulato: pensa al tipo di andatura \"trottatrice\".",
+    "options": [
+      "Plantigrado, con tutta la pianta a terra",
+      "Unguligrado, appoggiando solo le unghie",
+      "Digitigrado, con 5 dita all'anteriore (il primo non a terra) e 4 al posteriore",
+      "Semiplantigrado, con tallone parzialmente appoggiato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il lupo è digitigrado: l'arto anteriore ha 5 dita, ma il primo non poggia a terra; l'arto posteriore ne ha 4 (il primo è vestigiale). Ogni dito ha polpastrello calloso e unghia robusta non retrattile. Non è plantigrado né unguligrado.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.21"
+  },
+  {
+    "id": "lupo-013",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Cosa sono le \"strie radiali\", carattere utile al riconoscimento del lupo italiano?",
+    "suggestion": "Sono due segni scuri localizzati su una parte specifica degli arti.",
+    "options": [
+      "Strisce chiare lungo la linea dorsale",
+      "Bande nere sulla coda",
+      "Macchie bianche attorno agli occhi",
+      "Due strie scure sugli arti anteriori"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le strie radiali sono due strie scure presenti sugli arti anteriori, caratteristica tipica del lupo italiano e utile al riconoscimento della specie. Le altre opzioni descrivono pattern cromatici non corrispondenti a questo carattere.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.22"
+  },
+  {
+    "id": "lupo-014",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quante mute compie il lupo durante l'anno e in quale stagione?",
+    "suggestion": "Si tratta di un solo evento annuale, legato alla perdita del pelo della stagione fredda.",
+    "options": [
+      "Una sola muta, in primavera, perdendo il pelo invernale",
+      "Due mute, in primavera e in autunno",
+      "Una sola muta, in autunno",
+      "Nessuna muta: il pelo resta invariato tutto l'anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il lupo compie una sola muta all'anno, in primavera, quando perde il pelo invernale; in autunno avviene la ricrescita del pelo invernale più folto e isolante. Il mantello varia stagionalmente per spessore e colore, ma la muta vera e propria è unica.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.23"
+  },
+  {
+    "id": "lupo-015",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale componente del pelo del lupo funge principalmente da isolante termico?",
+    "suggestion": "Non è il pelo esterno che dà il colore, ma lo strato più interno e abbondante.",
+    "options": [
+      "La borra, lo strato interno più abbondante",
+      "La giarra, il pelo più esterno",
+      "Le vibrisse del muso",
+      "Il pelo della coda folta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il pelo invernale del lupo è formato da borra, più abbondante e con funzione di isolante termico, e da giarra, il pelo più esterno che protegge e determina il colore del mantello. È quindi la borra a garantire l'isolamento, non la giarra.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.23"
+  },
+  {
+    "id": "lupo-016",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Da cosa deriva, secondo gli studi genetici, il mantello melanico (nero) presente in alcuni lupi?",
+    "suggestion": "La mutazione responsabile è la stessa di alcune razze canine: pensa a uno scambio genetico avvenuto con i cani.",
+    "options": [
+      "Da una mutazione originaria e antichissima della specie",
+      "Da un'antica ibridazione con i cani domestici, con la stessa mutazione di razze come labrador e alani",
+      "Dall'esposizione prolungata a climi artici",
+      "Da una carenza alimentare durante lo sviluppo dei cuccioli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il melanismo non è originario del lupo ma deriva da un'antica ibridazione con i cani domestici (circa 10.000 anni fa): la mutazione, su un gene legato alla defensina che interagisce con il recettore della melanocortina, è la stessa di razze come labrador e alani. Dimostra che lo scambio genetico cane-lupo è stato bidirezionale.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.24"
+  },
+  {
+    "id": "lupo-017",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale tra queste caratteristiche distingue il lupo appenninico (Canis lupus italicus) dal lupo comune?",
+    "suggestion": "Pensa alle dimensioni corporee e alla marcatura delle strie radiali rispetto al lupo grigio europeo.",
+    "options": [
+      "È più grande e ha strie radiali assenti",
+      "È più piccolo e ha strie radiali molto marcate",
+      "Ha la coda più lunga del corpo",
+      "È privo del cuscinetto plantare centrale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il lupo appenninico è più piccolo del lupo comune, ha strie radiali molto marcate e sembra presentare costantemente la fusione della base dei cuscinetti digitali centrali. Non è più grande né privo di cuscinetto plantare, e la coda resta corta.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.25"
+  },
+  {
+    "id": "lupo-018",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quali denti sono definiti ferini (carnassiali) nel lupo e a cosa servono?",
+    "suggestion": "Sono una coppia di denti adiacenti, uno superiore premolare e uno inferiore molare, specializzati nel taglio.",
+    "options": [
+      "Gli incisivi I1, per raschiare la carne",
+      "I canini superiori e inferiori, per afferrare la preda",
+      "Il premolare P4 e il molare M1, taglienti per recidere carne, tendini e ossa",
+      "I molari M2/M3, per triturare materiale vegetale"
+    ],
+    "correctIndex": 2,
+    "explanation": "I denti ferini o carnassiali sono il premolare P4 (superiore) e il molare M1 (inferiore), strutture molto taglienti adatte a tagliare carne e parti dure come tendini e ossa. I canini servono ad afferrare e trattenere, gli incisivi a raschiare: ruoli diversi da quello dei carnassiali.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.30"
+  },
+  {
+    "id": "lupo-019",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Qual è la formula dentaria del lupo e il numero totale di denti?",
+    "suggestion": "È la stessa tipica dei canidi: conta incisivi, canini, premolari e molari per emiarcata e raddoppia.",
+    "options": [
+      "I3/3, C1/1, P4/4, M2/3, per un totale di 42 denti",
+      "I3/3, C1/1, P4/4, M3/3, per un totale di 44 denti",
+      "I2/2, C1/1, P3/3, M2/2, per un totale di 32 denti",
+      "I3/3, C1/1, P3/3, M2/3, per un totale di 40 denti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formula dentaria del lupo è I3/3, C1/1, P4/4, M2/3, per un totale di 42 denti. Le altre combinazioni non corrispondono ai conteggi reali per emiarcata indicati nel testo.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.30"
+  },
+  {
+    "id": "lupo-020",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Perché la muscolatura del collo è una delle caratteristiche più evidenti e funzionali del lupo?",
+    "suggestion": "Pensa a cosa serve la forza del collo durante l'attacco e il trattenimento di prede grandi.",
+    "options": [
+      "Serve solo a sostenere il peso della testa durante la corsa",
+      "Permette di esercitare forti trazioni per abbattere e trattenere la preda col morso",
+      "È necessaria per scavare la tana nel terreno",
+      "Consente di emettere l'ululato a lunga distanza"
+    ],
+    "correctIndex": 1,
+    "explanation": "La potente muscolatura del collo è fondamentale nella predazione: consente forti trazioni per abbattere la preda e trattenerla con il morso, mantenendo la presa su animali spesso di grandi dimensioni. Non serve a scavare la tana né a produrre l'ululato.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.27"
+  },
+  {
+    "id": "lupo-021",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Durante avvistamenti fugaci, quale carattere della coda aiuta a distinguere il lupo da molte razze canine?",
+    "suggestion": "Considera lunghezza relativa e posizione: nel lupo è corta e tenuta in un certo modo rispetto al terreno.",
+    "options": [
+      "Coda lunga e arricciata sul dorso",
+      "Coda assente o ridotta a un moncone",
+      "Coda lunga quanto il corpo e portata alta",
+      "Coda corta (circa 1/3 del corpo) tenuta perpendicolare/bassa, non arricciata"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nel lupo la coda è corta (circa 1/3 della lunghezza corporea) e spesso tenuta perpendicolare al terreno, portata bassa, mai arricciata; nel cane è più lunga e spesso tenuta arricciata. Le altre opzioni descrivono code tipiche di cani o non corrispondenti al lupo.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.27"
+  },
+  {
+    "id": "lupo-022",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Come si distingue una predazione di lince da una di lupo osservando il consumo della carcassa?",
+    "suggestion": "Pensa a cosa ciascun predatore consuma per primo: masse muscolari oppure interiora.",
+    "options": [
+      "La lince consuma le interiora, il lupo solo i muscoli",
+      "La lince si nutre dalle masse muscolari e in genere non consuma l'apparato digerente, il lupo parte dalle interiora (eccetto stomaco e intestino)",
+      "Entrambi consumano per primo lo stomaco",
+      "Il lupo non consuma mai i visceri"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lince si nutre principalmente dalle masse muscolari e generalmente non consuma l'apparato digerente; il lupo invece parte dalle interiora, escludendo però stomaco e intestino. Questa differenza nel modo di consumare la preda aiuta a discriminare i due predatori.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.38"
+  },
+  {
+    "id": "lupo-023",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale segno sulla carcassa permette di attribuire la predazione al lupo ed escludere una morte naturale, in assenza di lince e cani vaganti?",
+    "suggestion": "Cerca i fori prodotti da una coppia di denti specifici sul collo della preda.",
+    "options": [
+      "L'assenza di sangue sottocutaneo",
+      "La presenza di due fori sul collo creati dai denti canini",
+      "Il taglio netto degli arti con bordi pallidi",
+      "L'assenza di peli nella zona della ferita"
+    ],
+    "correctIndex": 1,
+    "explanation": "In assenza di cani vaganti e lince, la presenza sul collo della preda di due fori creati dai denti canini permette di attribuire la predazione al lupo e di escludere la morte naturale. L'assenza di emorragie indicherebbe invece consumo post-mortem di una carcassa.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.42"
+  },
+  {
+    "id": "lupo-024",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Come si riconosce una ferita ante-mortem rispetto a una post-mortem nell'esame di una carcassa?",
+    "suggestion": "La differenza dipende dal fatto che la circolazione sanguigna fosse ancora attiva o già cessata.",
+    "options": [
+      "Ante-mortem: bordi netti e pallidi senza sangue; post-mortem: bordi gonfi e arrossati",
+      "Ante-mortem: bordi irregolari, gonfi, arrossati e sanguinanti; post-mortem: bordi netti, regolari e pallidi senza sanguinamento",
+      "Entrambe presentano emorragie identiche",
+      "Le ferite post-mortem sono sempre più profonde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le ferite ante-mortem mostrano bordi irregolari, gonfi e arrossati, con sangue, perché la circolazione era attiva; quelle post-mortem hanno bordi netti, regolari e pallidi, senza sanguinamento, poiché la circolazione era cessata. Contusioni ed emorragie provano la morte violenta.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.43"
+  },
+  {
+    "id": "lupo-025",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Su cosa si basa principalmente la comunicazione olfattiva del lupo per delimitare il territorio?",
+    "suggestion": "Pensa ai segnali che la coppia alfa deposita su oggetti verticali e lungo i confini.",
+    "options": [
+      "Sull'ululato corale del branco",
+      "Su marcature con urina, feci, secrezioni delle ghiandole anali e raspate",
+      "Sul cambiamento del colore del mantello",
+      "Sull'emissione di feromoni dalle ghiandole mammarie"
+    ],
+    "correctIndex": 1,
+    "explanation": "La comunicazione olfattiva si basa su marcature con urina, feci, secrezioni delle ghiandole anali e raspate, deposte in punti strategici. Le marcature urinarie sono tipiche della coppia alfa. L'ululato è invece comunicazione vocale; il colore del mantello e le ghiandole mammarie non hanno questa funzione.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.65"
+  },
+  {
+    "id": "lupo-026",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale funzione svolge principalmente l'ululato tra le vocalizzazioni del lupo?",
+    "suggestion": "È un suono a bassa frequenza che si propaga su lunghe distanze: pensa al ruolo tra branchi e alla coesione del gruppo.",
+    "options": [
+      "Segnalare minaccia ravvicinata e dominanza, come il ringhio",
+      "Richiedere cure, tipico solo dei cuccioli",
+      "Comunicare tra branchi, difendere il territorio e mantenere la coesione del gruppo",
+      "Localizzare a brevissima distanza un singolo individuo"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ululato è la vocalizzazione più importante: suono a bassa frequenza che si propaga su lunghe distanze, serve a comunicare tra branchi, difendere il territorio e mantenere la coesione del gruppo. Il ringhio è minaccia ravvicinata, l'uggiolio è richiesta di cure (soprattutto dei cuccioli).",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.66"
+  },
+  {
+    "id": "lupo-027",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quali prede dominano la dieta del lupo in Italia, secondo gli studi citati?",
+    "suggestion": "Sono ungulati selvatici, con una specie spesso prevalente; il bestiame ha un peso ridotto.",
+    "options": [
+      "Soprattutto bestiame domestico",
+      "Soprattutto piccoli roditori e insetti",
+      "Soprattutto ungulati selvatici, con il cinghiale spesso prevalente",
+      "Soprattutto carcasse e rifiuti antropici"
+    ],
+    "correctIndex": 2,
+    "explanation": "In Italia la dieta del lupo è dominata dagli ungulati selvatici, con il cinghiale spesso prevalente, mentre il bestiame rappresenta una percentuale ridotta. Roditori, insetti e risorse antropiche sono complementari, importanti soprattutto quando scarseggiano le prede selvatiche.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.54"
+  },
+  {
+    "id": "lupo-028",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "A quale età il lupo raggiunge la maturità sessuale e con quale frequenza si riproduce nell'anno?",
+    "suggestion": "Pensa a un'età intorno ai due anni e a un solo evento riproduttivo annuale.",
+    "options": [
+      "A 6 mesi, riproducendosi più volte l'anno",
+      "Intorno ai 2 anni, riproducendosi una sola volta l'anno",
+      "A 5 anni, riproducendosi ogni due anni",
+      "A 1 anno, riproducendosi due volte l'anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il lupo raggiunge la maturità sessuale intorno ai 2 anni (sia maschio che femmina) e la riproduzione avviene una sola volta all'anno, influenzata dal clima: in Italia tra gennaio e febbraio. Le altre opzioni indicano età o frequenze non corrispondenti.",
+    "difficulty": "easy",
+    "source": "18 Lupo.pdf p.56"
+  },
+  {
+    "id": "lupo-029",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quanto dura la gestazione del lupo e quanti cuccioli nascono in media per parto?",
+    "suggestion": "La durata è simile a quella del cane (circa due mesi) e i cuccioli sono in genere da 4 a 6.",
+    "options": [
+      "Circa 9 settimane (58-60 giorni), in media 4-6 cuccioli",
+      "Circa 4 mesi, in media 1-2 cuccioli",
+      "Circa 3 settimane, in media 8-10 cuccioli",
+      "Circa 6 mesi, in media 2-3 cuccioli"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gestazione del lupo dura circa 9 settimane (58-60 giorni, come nel cane) e nascono in media 4-6 cuccioli (in media 5). Le altre durate e numerosità non corrispondono ai dati riportati.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.58"
+  },
+  {
+    "id": "lupo-030",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "In che modo il branco contribuisce all'allevamento dei cuccioli dopo le prime settimane di vita?",
+    "suggestion": "Pensa a come l'intero gruppo, non solo la madre, fornisce nutrimento ai piccoli.",
+    "options": [
+      "Solo la madre allatta e nutre i cuccioli fino allo svezzamento",
+      "I cuccioli cacciano autonomamente già dalla terza settimana",
+      "I cuccioli vengono affidati a un branco vicino",
+      "Tutto il branco fornisce cibo rigurgitato ai cuccioli, collaborando alle cure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dopo le prime tre settimane di sola alimentazione lattea, i cuccioli ricevono cibo rigurgitato fornito non solo dalla madre ma da tutto il branco, che collabora nell'allevamento. Questo sistema cooperativo aumenta la sopravvivenza della prole; i cuccioli non cacciano da soli così presto né vengono affidati ad altri branchi.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.58"
+  },
+  {
+    "id": "lupo-031",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Cosa sono i \"rendez-vous sites\" nella biologia del lupo?",
+    "suggestion": "Sono luoghi dove i cuccioli, usciti dalla tana, restano in attesa mentre gli adulti vanno a caccia.",
+    "options": [
+      "Aree tranquille dove i cuccioli attendono il ritorno degli adulti dalla caccia",
+      "I punti di marcatura urinaria ai confini del territorio",
+      "I luoghi di incontro tra branchi rivali",
+      "Le zone dove avviene l'accoppiamento della coppia alfa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dopo circa 7-8 settimane i cuccioli lasciano la tana e il branco si sposta nei \"rendez-vous sites\", luoghi tranquilli dove i piccoli restano mentre gli adulti vanno a caccia. Insieme alla tana formano gli \"home sites\", riutilizzabili negli anni. Non sono punti di marcatura né siti di accoppiamento.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.59"
+  },
+  {
+    "id": "lupo-032",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale funzione svolgono gli individui omega nella gerarchia del branco?",
+    "suggestion": "Sono i subordinati: pensa a un ruolo che riguarda la gestione delle tensioni interne.",
+    "options": [
+      "Guidano la caccia e si riproducono per primi",
+      "Sono i subordinati che assorbono le tensioni all'interno del branco",
+      "Difendono i confini territoriali in solitaria",
+      "Sostituiscono la coppia alfa in caso di morte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella gerarchia sociale del branco gli individui omega sono i subordinati e hanno la funzione di assorbire le tensioni interne. Gli alfa sono i dominanti che guidano e si riproducono; l'omega non guida la caccia né subentra automaticamente come riproduttore.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.62"
+  },
+  {
+    "id": "lupo-033",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Perché i giovani lupi entrano in dispersione intorno ai 2-3 anni di età?",
+    "suggestion": "Allontanarsi serve a due scopi legati a competizione e a un rischio genetico del riprodursi tra parenti.",
+    "options": [
+      "Per aumentare la dimensione del branco di origine",
+      "Per seguire stabilmente la coppia alfa",
+      "Per ridurre la competizione ed evitare l'inbreeding, cercando un nuovo territorio e partner",
+      "Per svernare in zone più calde e tornare in primavera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intorno ai 2-3 anni i giovani entrano in dispersione per ridurre la competizione interna ed evitare l'inbreeding, cercando nuovo territorio e partner, con spostamenti anche di oltre 800 km (es. il lupo \"Ligabue\"). Non serve ad accrescere il branco d'origine né è una migrazione stagionale.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.63"
+  },
+  {
+    "id": "lupo-034",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Cosa sono le \"buffer zones\" nel sistema territoriale del lupo?",
+    "suggestion": "Si formano dove i territori di branchi vicini si sovrappongono e sono caratterizzate da intensa marcatura.",
+    "options": [
+      "Aree centrali del territorio dove viene collocata la tana",
+      "Zone di parziale sovrapposizione tra territori di branchi vicini, frequentate in momenti diversi e con intensa marcatura",
+      "Riserve di prede tenute intatte per l'inverno",
+      "Corridoi privi di marcature usati per la dispersione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le buffer zones sono aree dove i territori di branchi vicini si sovrappongono parzialmente: vengono frequentate in momenti diversi e sono caratterizzate da intensa marcatura, riducendo gli incontri diretti. Non sono zone centrali con la tana né corridoi privi di marcatura.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.63"
+  },
+  {
+    "id": "lupo-035",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "In condizioni normali, chi si riproduce all'interno di un branco di lupi, e cosa può cambiare in ambienti ricchi di risorse?",
+    "suggestion": "Di norma la riproduzione è limitata ai dominanti; l'abbondanza di prede può però \"sbloccare\" un'altra coppia.",
+    "options": [
+      "Tutte le coppie del branco, in ogni condizione",
+      "Solo gli individui omega",
+      "Solo i giovani in dispersione, dopo il ritorno al branco",
+      "Solo la coppia alfa, ma in ambienti ricchi può riprodursi anche una coppia beta"
+    ],
+    "correctIndex": 3,
+    "explanation": "In condizioni normali si riproduce solo la coppia alfa, ma al variare della consistenza del branco e in ambienti ricchi di risorse può riprodursi anche una coppia beta. Gli individui omega sono subordinati e non hanno priorità riproduttiva; non sono i giovani in dispersione a riprodursi.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.62"
+  },
+  {
+    "id": "lupo-036",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Un escremento di circa 4 cm di diametro, dall'odore intenso e acre, ritrovato in un sito di marcatura noto e contenente peli e ossa, in assenza di cani vaganti: quale criterio NON è realmente discriminante per attribuirlo con sicurezza al lupo?",
+    "suggestion": "I criteri di Ciucci vanno valutati insieme; attenzione: l'odore acre dipende da una ghiandola che nel cane è atrofizzata, ma da sola un singola caratteristica può non bastare.",
+    "options": [
+      "Il diametro uguale o superiore ai 3 cm",
+      "L'odore acre da secrezione della ghiandola anale (atrofizzata nel cane)",
+      "Il colore chiaro e uniforme della fatta",
+      "La localizzazione in un punto di marcatura noto e la vicinanza ad altri segni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il colore chiaro e uniforme non è tra i criteri proposti da Ciucci (1994): le fatte di lupo variano molto in aspetto a seconda del cibo. I criteri reali sono diametro ≥ 3 cm, odore acre da ghiandola anale (atrofizzata nel cane), assenza di cani vaganti, localizzazione in siti di marcatura, contenuto di peli e ossa, vicinanza ad altri segni, da valutare simultaneamente.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.37"
+  },
+  {
+    "id": "lupo-037",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Un'impronta isolata di grande canide mostra la fusione parziale dei due cuscinetti digitali centrali: si può concludere con certezza che si tratta di un lupo?",
+    "suggestion": "Attenzione: la fusione è tipica dei lupi italiani, ma il testo segnala un'eccezione tra le razze canine e i limiti dell'impronta singola.",
+    "options": [
+      "Sì, la fusione dei cuscinetti centrali è esclusiva del lupo",
+      "No, perché la fusione può comparire anche in cani di razza (es. Terranova) e una singola impronta non basta: serve analizzare lunghe piste",
+      "Sì, perché l'unghia non retrattile esclude qualsiasi cane",
+      "No, perché i lupi non presentano mai cuscinetti centrali fusi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fusione parziale dei cuscinetti centrali è tipica dei lupi italiani ma non esclusiva: si riscontra anche in cani come il Terranova ed è difficile da rilevare. Una singola impronta non è sufficiente; la distinzione diventa affidabile analizzando lunghe piste (andamento rettilineo, regolarità del passo, distanze). L'unghia non retrattile è comune ai canidi e non discrimina.",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.48"
+  },
+  {
+    "id": "lupo-038",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Quale tra le seguenti affermazioni sul lupo è corretta riguardo alla sua andatura sulla neve?",
+    "suggestion": "Distingui tra il trotto a fila indiana e ciò che accade quando il lupo galoppa o quando il branco incontra un ostacolo; valuta con precisione ogni opzione.",
+    "options": [
+      "Al galoppo la traccia assume un andamento a \"Z\", simile a quello di lepri o caprioli in fuga",
+      "Seguendo la pista a linea singola si può sempre contare il numero esatto di membri del branco",
+      "I punti di \"ventaglio\" indicano dove il branco si compatta in fila indiana",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "È corretta la prima: al galoppo la traccia del lupo assume un andamento a \"Z\", come in altri animali in fuga (lepri, caprioli). Le altre sono false: la pista a linea singola rende impossibile contare i membri (lo si può fare solo ai punti di \"ventaglio\", dove i lupi si disperdono, non si compattano).",
+    "difficulty": "hard",
+    "source": "18 Lupo.pdf p.50"
+  },
+  {
+    "id": "lupo-039",
+    "topic": "lupo",
+    "species": "Lupo (Canis lupus)",
+    "question": "Cosa si intende per \"surplus killing\" nel comportamento predatorio del lupo, e a cosa è tipicamente legato?",
+    "suggestion": "Il termine indica uccisioni che superano il fabbisogno; pensa a situazioni in cui le prede sono particolarmente vulnerabili o impossibilitate a fuggire.",
+    "options": [
+      "Uccisioni superiori al fabbisogno, spesso legate alla vulnerabilità delle prede o a condizioni particolari",
+      "L'accumulo di scorte di carne nella tana per l'inverno",
+      "La condivisione del cibo con i lupi solitari",
+      "Il consumo di sole carcasse già morte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il \"surplus killing\" è l'uccisione di più prede di quanto serva al fabbisogno, fenomeno legato a condizioni particolari o all'elevata vulnerabilità delle prede (es. bestiame domestico privo di strategie anti-predatorie e chiuso da recinzioni che ne impediscono la fuga). Non è accumulo di scorte né consumo di carcasse.",
+    "difficulty": "medium",
+    "source": "18 Lupo.pdf p.54"
+  }
+]

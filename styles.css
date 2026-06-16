@@ -759,3 +759,14 @@ code {
   .card { padding: 20px 18px; border-radius: 20px; }
   .question-text { font-size: 19px; }
 }
+
+.site-footer {
+  text-align: center;
+  padding: 24px 16px 32px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.site-footer del {
+  opacity: 0.7;
+}

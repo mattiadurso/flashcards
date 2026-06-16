@@ -1,0 +1,631 @@
+[
+  {
+    "id": "orso-001",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "A quale ordine e famiglia appartiene l'orso bruno?",
+    "suggestion": "Pensa al gruppo di mammiferi che comprende i grandi predatori terrestri e alla famiglia che porta il nome del genere Ursus.",
+    "options": [
+      "Ordine Carnivora, famiglia Ursidae",
+      "Ordine Primates, famiglia Hominidae",
+      "Ordine Rodentia, famiglia Ursidae",
+      "Ordine Carnivora, famiglia Canidae"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'orso bruno (Ursus arctos) appartiene all'ordine Carnivora e alla famiglia Ursidae, genere Ursus. I Canidae sono una famiglia vicina ma distinta, mentre Rodentia e Primates appartengono ad altri ordini.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.1"
+  },
+  {
+    "id": "orso-002",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Perché l'orso bruno presenta l'areale di distribuzione più esteso tra tutte le specie di orso?",
+    "suggestion": "Considera quanto un comportamento generalista incida sulla capacità di occupare ambienti molto diversi.",
+    "options": [
+      "Perché si nutre esclusivamente di bambù diffuso ovunque",
+      "Per la sua grande adattabilità e il comportamento generalista che gli permettono di vivere in ambienti diversi",
+      "Perché è privo di predatori naturali",
+      "Perché è l'unica specie capace di nuotare lunghe distanze"
+    ],
+    "correctIndex": 1,
+    "explanation": "La diffusione geografica dell'orso bruno, nettamente superiore alle altre specie, è legata alla sua grande adattabilità e al comportamento generalista, che gli consente di vivere in ambienti diversi. Le altre opzioni non corrispondono ai caratteri descritti per la specie.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.3"
+  },
+  {
+    "id": "orso-003",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quante specie di orsi si riconoscono attualmente nel mondo?",
+    "suggestion": "È un numero a una cifra, di poco superiore alla metà di una dozzina.",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Attualmente si riconoscono 8 specie di orsi nel mondo, distribuite tra America, Europa e Asia, con l'orso bruno che presenta l'areale più esteso. Le altre cifre non corrispondono al dato riportato.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.4"
+  },
+  {
+    "id": "orso-004",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale tra queste specie di orso è la più erbivora, nutrendosi quasi esclusivamente di bambù?",
+    "suggestion": "È una specie simbolo della conservazione, dal mantello bianco e nero, che vive in Cina.",
+    "options": [
+      "Orso bruno (Ursus arctos)",
+      "Orso polare (Ursus maritimus)",
+      "Orso labiato (Melursus ursinus)",
+      "Panda gigante (Ailuropoda melanoleuca)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il panda gigante è l'orso più erbivoro e si nutre quasi esclusivamente di bambù; la sua sopravvivenza è legata alle foreste di bambù. L'orso labiato è invece insettivoro, l'orso bruno onnivoro e l'orso polare un predatore carnivoro.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.10"
+  },
+  {
+    "id": "orso-005",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Di che cosa si nutre principalmente l'orso polare (Ursus maritimus)?",
+    "suggestion": "È un predatore specializzato delle regioni artiche, legato ai ghiacci marini.",
+    "options": [
+      "Principalmente di foche",
+      "Principalmente di termiti e formiche",
+      "Principalmente di frutta e miele",
+      "Principalmente di bambù"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'orso polare è un predatore specializzato che si nutre principalmente di foche, integrando con pesci e carcasse di cetacei. Bambù, insetti e frutta caratterizzano rispettivamente la dieta di panda, orso labiato e altre specie.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.7"
+  },
+  {
+    "id": "orso-006",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "In quale Paese si trova la popolazione di orso bruno più numerosa al mondo?",
+    "suggestion": "È il Paese più esteso del pianeta, con oltre 100.000 individui stimati.",
+    "options": [
+      "Russia",
+      "Canada",
+      "Stati Uniti",
+      "Italia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Russia ospita oltre 100.000 individui, la popolazione più numerosa. Seguono gli Stati Uniti (circa 33.000, soprattutto Alaska) e il Canada (circa 25.000); l'Italia ne ospita poche centinaia.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.13"
+  },
+  {
+    "id": "orso-007",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "In quanti nuclei principali è presente l'orso bruno in Italia?",
+    "suggestion": "Sono tre, distribuiti tra Appennino centrale e arco alpino.",
+    "options": [
+      "Due",
+      "Cinque",
+      "Uno",
+      "Tre"
+    ],
+    "correctIndex": 3,
+    "explanation": "In Italia l'orso bruno è presente in tre nuclei principali: Appennino centrale, Trentino occidentale (Alpi centrali) e Alpi orientali. Le altre cifre non corrispondono al dato riportato.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.16"
+  },
+  {
+    "id": "orso-008",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Da quale progetto deriva la popolazione di orso bruno del Trentino occidentale?",
+    "suggestion": "È un'iniziativa di reintroduzione degli anni '90-2000 che ha portato individui dalla Slovenia nell'area del Brenta.",
+    "options": [
+      "Da una colonizzazione spontanea dalla Francia",
+      "Dal piano PACOBACE avviato nel 2007",
+      "Dal progetto Life Ursus, con individui provenienti dalla Slovenia",
+      "Dalla popolazione marsicana dell'Appennino centrale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La popolazione del Trentino occidentale (area del Brenta) deriva dal progetto di reintroduzione Life Ursus (anni '90-2000), con orsi provenienti dalla Slovenia. Il PACOBACE è invece un piano d'azione per la conservazione, non l'origine della popolazione.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.16"
+  },
+  {
+    "id": "orso-009",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "In quale area italiana è concentrata la popolazione di orso marsicano?",
+    "suggestion": "È un parco nazionale che si estende tra Abruzzo, Lazio e Molise.",
+    "options": [
+      "Area del Brenta in Trentino occidentale",
+      "Parco Nazionale dello Stelvio",
+      "Alpi Carniche e Dolomiti Bellunesi",
+      "Parco Nazionale d'Abruzzo, Lazio e Molise (PNALM)"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'orso marsicano è una popolazione molto ridotta, concentrata nel Parco Nazionale d'Abruzzo, Lazio e Molise. L'area del Brenta e le Alpi orientali ospitano invece i nuclei alpini.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.18"
+  },
+  {
+    "id": "orso-010",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Come viene effettuato il monitoraggio non invasivo dell'orso bruno nelle Alpi?",
+    "suggestion": "Si basa sull'analisi genetica di un tipo di campione biologico raccolto senza catturare l'animale, mediante apposite trappole.",
+    "options": [
+      "Tramite analisi del sangue prelevato per anestesia",
+      "Tramite metodi genetici basati sull'analisi dei peli raccolti con apposite trappole",
+      "Tramite il conteggio diretto a vista durante il letargo",
+      "Tramite cattura e marcatura auricolare di tutti gli individui"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il monitoraggio avviene con metodi genetici non invasivi basati sull'analisi dei peli raccolti con trappole. L'analisi del DNA dei peli permette di identificare i singoli individui e ricostruire i rapporti di parentela, senza disturbare gli animali.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.17"
+  },
+  {
+    "id": "orso-011",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Perché gli Ursidi, animali di grande taglia, presentano un'efficienza energetica vantaggiosa?",
+    "suggestion": "Considera il rapporto tra metabolismo e peso corporeo negli animali di grandi dimensioni.",
+    "options": [
+      "Perché gli animali di grande taglia hanno un metabolismo relativamente più basso rispetto al peso, con minor dispendio energetico",
+      "Perché digeriscono la cellulosa grazie a camere fermentative",
+      "Perché immagazzinano energia nelle unghie non retrattili",
+      "Perché la grande taglia aumenta proporzionalmente il metabolismo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli animali di grande taglia hanno un metabolismo relativamente più basso rispetto al peso, il che consente un minor dispendio energetico. Gli Ursidi inoltre non possiedono camere fermentative tipiche degli erbivori.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.19"
+  },
+  {
+    "id": "orso-012",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale caratteristica distingue le unghie degli Ursidi e ne determina l'utilità per scavare e arrampicarsi?",
+    "suggestion": "Pensa a come si comportano le unghie rispetto a quelle dei felidi: restano sempre esposte o possono rientrare?",
+    "options": [
+      "Sono forti e non retrattili",
+      "Sono sottili e completamente retrattili",
+      "Sono ricoperte da una guaina cornea mobile",
+      "Sono assenti nelle zampe anteriori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli Ursidi hanno arti potenti e unghie forti e non retrattili, fondamentali per scavare, arrampicarsi e procurarsi il cibo. La retrattilità è invece tipica di altri carnivori come i felidi.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.20"
+  },
+  {
+    "id": "orso-013",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale struttura del cinto scapolare è particolarmente sviluppata negli orsi con comportamento scavatore e arrampicatore?",
+    "suggestion": "È una fossa della scapola in cui si inserisce il muscolo subscapolare che stabilizza la spalla.",
+    "options": [
+      "La bolla timpanica",
+      "L'apofisi coronoidea",
+      "La fossa post-scapolare",
+      "La cresta sagittale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La scapola dell'orso presenta una fossa post-scapolare ben sviluppata, particolarmente evidente negli orsi scavatori e arrampicatori, dove si inseriscono muscoli robusti come il subscapolare che stabilizzano la spalla. L'apofisi coronoidea e la bolla timpanica appartengono invece al cranio.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.20"
+  },
+  {
+    "id": "orso-014",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Cosa significa che l'orso bruno è un animale plantigrado?",
+    "suggestion": "Riguarda quale parte dell'arto viene appoggiata al suolo durante la stazione.",
+    "options": [
+      "Appoggia tutta la pianta del piede al suolo",
+      "Si muove sostenendosi sulla coda",
+      "Cammina solo sulle dita sollevando il tallone",
+      "Appoggia esclusivamente le unghie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli orsi sono plantigradi perché appoggiano tutta la pianta del piede, anche se in movimento possono essere considerati semi-plantigradi. Questo tipo di locomozione favorisce stabilità e forza negli arti. Camminare sulle dita è invece tipico degli animali digitigradi.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.21"
+  },
+  {
+    "id": "orso-015",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Qual è l'andatura tipica dell'orso bruno e quanta strada può percorrere in un giorno?",
+    "suggestion": "Non è un'andatura veloce come il trotto; con essa può coprire alcune decine di chilometri in 24 ore.",
+    "options": [
+      "Il trotto continuo, con cui percorre 100 km al giorno",
+      "Il galoppo sostenuto, unica andatura possibile",
+      "Il passo, con cui può percorrere fino a 40 km al giorno",
+      "Il salto, tipico per coprire grandi distanze"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'andatura tipica dell'orso bruno è il passo, con cui può percorrere fino a 40 km al giorno. L'orso generalmente non trotta, ma può eseguire un galoppo più o meno spinto (frequente il galoppino).",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.35"
+  },
+  {
+    "id": "orso-016",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Perché i molari dell'orso bruno sono di tipo bunodonte?",
+    "suggestion": "Pensa a quale tipo di dieta richiede superfici dentali arrotondate adatte a triturare anziché a tagliare.",
+    "options": [
+      "Perché derivano dalla riduzione dei canini",
+      "Perché la dieta onnivora richiede superfici arrotondate con tubercoli accessori che aumentano la capacità di triturazione",
+      "Perché servono a tagliare la carne come nei felidi specializzati",
+      "Perché sono adatti a filtrare insetti come nei mirmecofagi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I molari dell'orso sono bunodonti, con superfici arrotondate e numerosi tubercoli accessori che aumentano la triturazione, tipici di una dieta onnivora. L'orso è quindi meno specializzato nel taglio della carne rispetto ai feloidei (felidi e ienidi), che hanno molari tubercolo-settoriali.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.25"
+  },
+  {
+    "id": "orso-017",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Perché negli Ursidi i premolari risultano ridotti in numero e dimensione?",
+    "suggestion": "Collega la riduzione al fatto che all'orso non serve più la struttura dentale tagliente tipica dei carnivori specializzati.",
+    "options": [
+      "Perché all'orso non serve più la struttura secodonte tipica dei felidi e degli ienidi",
+      "Perché servono solo nei primi anni di vita",
+      "Perché vengono sostituiti dai canini durante la crescita",
+      "Perché l'orso ha perso completamente la dentatura post-canina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La riduzione dei premolari, sia in numero che in dimensione, dimostra che all'orso non serve più la struttura secodonte (tagliente) che si esprime ai massimi livelli in felidi e ienidi. Spesso manca il 2° premolare, sostituito da un diastema, e i premolari vestigiali sono usati per determinare l'età.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.41"
+  },
+  {
+    "id": "orso-018",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "A cosa servono i premolari vestigiali dell'orso oltre alla loro funzione masticatoria ridotta?",
+    "suggestion": "Pensa a una tecnica che, contando gli anelli del cemento dentale, permette di stabilire un dato anagrafico dell'animale.",
+    "options": [
+      "Alla triturazione esclusiva delle faggiole",
+      "Alla difesa dai predatori",
+      "Alla determinazione dell'età attraverso gli anelli di accrescimento del cemento dentale",
+      "Alla produzione di feromoni per il riconoscimento sociale"
+    ],
+    "correctIndex": 2,
+    "explanation": "I premolari (soprattutto quelli vestigiali) sono utilizzati per la determinazione dell'età attraverso lo studio degli anelli di accrescimento del cemento dentale. Non hanno funzioni sociali o difensive.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.25"
+  },
+  {
+    "id": "orso-019",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Come si presenta la coda dell'orso bruno?",
+    "suggestion": "È un carattere ridotto, poco evidente, senza un ruolo importante nella locomozione.",
+    "options": [
+      "Molto corta e vestigiale, senza ruolo importante nella locomozione o nell'equilibrio",
+      "Lunga e prensile, usata per arrampicarsi",
+      "Piatta e ricoperta di scaglie, utile nel nuoto",
+      "Robusta e muscolosa, fondamentale per l'equilibrio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La coda degli orsi è molto corta e vestigiale, sostenuta da 8-20 vertebre coccigee, e non ha un ruolo importante nella locomozione o nell'equilibrio. Le altre descrizioni appartengono ad animali diversi.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.21"
+  },
+  {
+    "id": "orso-020",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale particolarità presenta l'impronta della zampa posteriore dell'orso bruno?",
+    "suggestion": "Ricorda molto l'impronta del piede umano, ma con una differenza nella posizione del dito più grosso.",
+    "options": [
+      "È identica a quella del piede umano, con il dito più grosso interno",
+      "È stretta e allungata come quella di un cane",
+      "Non lascia traccia delle dita perché sono retrattili",
+      "È simile all'impronta del piede umano, ma il dito più grosso è il 5°, cioè quello esterno"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'orma posteriore dell'orso è simile all'impronta del piede umano, con la differenza che il dito più grosso è il 5° (quello esterno), mentre nell'uomo è il primo. L'orma anteriore è invece corta e larga.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.34"
+  },
+  {
+    "id": "orso-021",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale comportamento alimentare caratterizza l'orso bruno?",
+    "suggestion": "Pensa a un animale che adatta la dieta a ciò che è più disponibile nell'ambiente, senza specializzarsi.",
+    "options": [
+      "È un predatore carnivoro strettamente specializzato",
+      "È onnivoro, eclettico e opportunista, con forte tendenza al frugivorismo",
+      "È un insettivoro obbligato",
+      "È un erbivoro ruminante"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'orso bruno è classificato come carnivoro-erbivoro, cioè un onnivoro con forte tendenza al frugivorismo; il suo comportamento alimentare è eclettico e opportunista e varia in base alla disponibilità di cibo. Non è quindi un predatore specializzato né un erbivoro ruminante.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.59"
+  },
+  {
+    "id": "orso-022",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Cosa caratterizza la fase di iperfagia dell'orso bruno in autunno?",
+    "suggestion": "È un periodo di alimentazione intensa con cibi molto energetici finalizzato a un accumulo necessario per l'inverno.",
+    "options": [
+      "Un digiuno preparatorio al risveglio primaverile",
+      "Un'alimentazione intensa con cibi energetici per accumulare riserve di grasso utili a superare il letargo",
+      "Un periodo di predazione esclusiva su ungulati",
+      "Un consumo ridotto di cibo per rallentare il metabolismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "In autunno l'orso entra in iperfagia, alimentandosi intensamente con cibi molto energetici (frutti, ghiande, faggiole) per accumulare riserve di grasso necessarie a superare il letargo invernale. L'accumulo è fondamentale soprattutto per le femmine, che ne hanno bisogno per gravidanza e allattamento.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.61"
+  },
+  {
+    "id": "orso-023",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Circa quale percentuale della dieta dell'orso bruno è costituita da alimenti di origine animale (esclusi gli insetti)?",
+    "suggestion": "È una quota minima, attorno a un decimo del totale.",
+    "options": [
+      "Circa il 10%",
+      "Circa il 90%",
+      "Circa il 50%",
+      "Circa lo 0%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Escludendo gli insetti (molto appetiti), la quota di alimenti di origine animale è minima, circa il 10% della dieta, ricavata da carogne, qualche preda selvatica e animali domestici. La quota prevalente è vegetale.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.62"
+  },
+  {
+    "id": "orso-024",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Su quale strategia digestiva si basa l'orso bruno, pur avendo una forte componente vegetale nella dieta?",
+    "suggestion": "Considera la velocità con cui il cibo attraversa l'intestino e la quantità complessiva processata, in assenza di camere fermentative.",
+    "options": [
+      "Su un lunghissimo tempo di permanenza del cibo nel cieco",
+      "Su un rapido transito gastrointestinale compensato da un'elevata quantità di cibo ingerito",
+      "Sulla ruminazione del cibo vegetale",
+      "Sulla fermentazione prolungata in camere gastriche specializzate"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'orso adotta una strategia basata sul veloce transito gastrointestinale: il cibo passa rapidamente, riducendo tempo di digestione e fermentazione, ma aumentando la quantità di cibo ingerito e processato. Non possiede camere fermentative né cieco (assente la valvola ileo-ciecale).",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.54"
+  },
+  {
+    "id": "orso-025",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale adattamento dell'apparato digerente dell'orso è considerato unico tra i carnivori?",
+    "suggestion": "Riguarda un rivestimento particolare dell'esofago legato all'incremento della velocità di transito.",
+    "options": [
+      "L'assenza completa dell'intestino tenue",
+      "La presenza di un cieco molto sviluppato",
+      "La presenza di quattro stomaci come nei ruminanti",
+      "La cheratinizzazione dell'epitelio esofageo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nell'ottica di un incremento della velocità di transito si interpreta la cheratinizzazione dell'epitelio esofageo, unica tra i carnivori, insieme alla potente muscolatura pilorica e all'assenza del cieco e della valvola ileo-ciecale. L'orso non è un ruminante e non ha un cieco sviluppato.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.53"
+  },
+  {
+    "id": "orso-026",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "A che età le femmine di orso bruno raggiungono la maturità sessuale alle nostre latitudini e con quale frequenza si riproducono?",
+    "suggestion": "La maturità arriva dopo alcuni anni e la riproduzione non avviene ogni anno ma a intervalli legati alla presenza dei cuccioli.",
+    "options": [
+      "Solo dopo i 10 anni e ogni 5 anni",
+      "A 3-5 anni ma ogni anno senza interruzioni",
+      "Non prima dei 3-5 anni e solitamente ogni 2 anni",
+      "Già a 1 anno e ogni anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le femmine non diventano sessualmente mature prima dei 3-5 anni e solitamente si riproducono ogni 2 anni, perché quando accompagnate da piccoli dell'anno non sono disponibili all'accoppiamento. Possono però tornare in calore se perdono i cuccioli.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.74"
+  },
+  {
+    "id": "orso-027",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Perché nell'orso bruno l'impianto dell'ovulo è ritardato fino al tardo autunno, pur avvenendo gli accoppiamenti tra maggio e giugno?",
+    "suggestion": "Collega il momento dell'impianto alla fase in cui la femmina si prepara al letargo, così che i piccoli nascano nella tana.",
+    "options": [
+      "Perché l'impianto avviene solo nel tardo autunno, quando la femmina si prepara al letargo, e i cuccioli nascono nella tana a fine gennaio",
+      "Perché la gestazione dura oltre due anni",
+      "Perché i cuccioli nascono subito dopo l'accoppiamento estivo",
+      "Perché l'ovulo non viene mai fecondato durante l'estate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pur avvenendo gli accoppiamenti tra maggio e giugno, l'impianto dell'ovulo nella membrana uterina avviene solo nel tardo autunno, quando la femmina si prepara per il letargo. Così i cuccioli nascono verso fine gennaio nella tana, durante la latenza invernale. La gestazione complessiva dura 7-8 mesi.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.74"
+  },
+  {
+    "id": "orso-028",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quanto pesano i cuccioli di orso bruno alla nascita rispetto alla madre?",
+    "suggestion": "Pesano appena qualche etto, una frazione minuscola del peso materno.",
+    "options": [
+      "2-3 kg, già pronti a uscire dalla tana",
+      "Circa 10 kg, simili a un cucciolo di cane adulto",
+      "200-350 grammi, circa un quattrocentesimo del peso della madre",
+      "Circa 5 kg, un decimo del peso della madre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alla nascita i cuccioli pesano solo 200-350 grammi, circa un quattrocentesimo del peso della madre, e sono completamente dipendenti da lei. Raggiungono i 2-3 kg solo con l'arrivo della primavera, quando escono dalla tana.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.74"
+  },
+  {
+    "id": "orso-029",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Per quanto tempo i cuccioli di orso bruno rimangono con la madre e perché questo periodo è importante?",
+    "suggestion": "Restano con lei per circa due anni, durante i quali apprendono comportamenti essenziali alla sopravvivenza.",
+    "options": [
+      "Solo durante il primo letargo, poi vengono abbandonati",
+      "Circa dieci anni, fino alla maturità sessuale",
+      "Circa due anni, per apprendere la conoscenza del territorio e delle risorse alimentari",
+      "Pochi giorni, dopo i quali sono già autonomi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I cuccioli rimangono con la madre per circa due anni, periodo durante il quale la femmina non si riproduce. Questo lungo periodo permette ai giovani di apprendere comportamenti necessari alla sopravvivenza, come la conoscenza del territorio e delle risorse, aumentando le probabilità di vita da indipendenti.",
+    "difficulty": "easy",
+    "source": "21 ORSO.pdf p.74"
+  },
+  {
+    "id": "orso-030",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Perché i maschi adulti di orso bruno possono arrivare a uccidere i cuccioli?",
+    "suggestion": "Collega l'infanticidio alla possibilità che la femmina, rimasta senza piccoli, torni disponibile all'accoppiamento.",
+    "options": [
+      "Perché competono con i cuccioli per il cibo durante il letargo",
+      "Perché i cuccioli emettono richiami che attirano predatori",
+      "Perché difendono rigidamente un territorio esclusivo",
+      "Per potersi accoppiare con la madre rimasta sola, che può tornare in calore se perde i cuccioli"
+    ],
+    "correctIndex": 3,
+    "explanation": "A volte i maschi uccidono gli orsacchiotti per potersi accoppiare con la madre rimasta sola: se perde i cuccioli, la femmina può infatti tornare in calore. L'orso bruno è inoltre poco territoriale, con forti sovrapposizioni di home range.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.74"
+  },
+  {
+    "id": "orso-031",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Durante il letargo, di quanto si riduce circa il consumo energetico dell'orso bruno e quanto scende la temperatura corporea?",
+    "suggestion": "Il metabolismo rallenta notevolmente ma la temperatura cala solo moderatamente, restando intorno ai 31 °C.",
+    "options": [
+      "Il consumo si riduce del 10% e la temperatura resta invariata",
+      "Il consumo energetico si riduce del 50-70% e la temperatura corporea scende moderatamente a circa 31 °C",
+      "Il consumo si azzera e la temperatura crolla a 0 °C",
+      "Il consumo aumenta e la temperatura sale a 40 °C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante il letargo il metabolismo rallenta notevolmente, con una riduzione del consumo energetico fino al 50-70%; la frequenza cardiaca diminuisce e la temperatura corporea scende moderatamente, a circa 31 °C. Il calo contenuto distingue questo sonno invernale da una vera ibernazione.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.77"
+  },
+  {
+    "id": "orso-032",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Da cosa deriva principalmente l'energia che sostiene l'orso bruno durante il letargo?",
+    "suggestion": "Pensa alle riserve accumulate in autunno durante l'iperfagia e al loro catabolismo.",
+    "options": [
+      "Dall'alimentazione notturna durante i risvegli",
+      "Dal catabolismo dei grassi accumulati in autunno",
+      "Dalla fermentazione delle fibre vegetali nel cieco",
+      "Dall'acqua ingerita durante l'inverno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante il letargo l'orso non si alimenta né beve; l'energia deriva soprattutto dal catabolismo dei grassi accumulati in autunno, mentre una parte dei prodotti azotati viene riciclata. Prima del letargo l'orso necessita inoltre di acidi grassi poliinsaturi (PUFA).",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.77"
+  },
+  {
+    "id": "orso-033",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Come si procura l'orso bruno il sito di letargo?",
+    "suggestion": "Considera se l'orso costruisce da zero la tana oppure adatta strutture già esistenti nel terreno.",
+    "options": [
+      "Scava profonde gallerie sotterranee da zero",
+      "Costruisce nidi sugli alberi con rami e foglie",
+      "Occupa stabilmente tane abbandonate da altri grandi carnivori",
+      "Non scava vere tane, ma utilizza cavità naturali che modifica leggermente"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'orso bruno non scava vere e proprie tane, ma utilizza cavità naturali che modifica leggermente, scegliendole con attenzione (generalmente tra 800 e 1200 m, su versanti soleggiati). La femmina può preparare un giaciglio con rami e foglie e nascondere l'ingresso.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.78"
+  },
+  {
+    "id": "orso-034",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale affermazione descrive correttamente il comportamento territoriale dell'orso bruno?",
+    "suggestion": "Rifletti se l'orso difende rigidamente un'area esclusiva o se gli home range di individui diversi possono sovrapporsi.",
+    "options": [
+      "Non possiede alcun home range e vaga senza meta",
+      "Condivide il territorio solo durante il letargo",
+      "È poco territoriale, con forti sovrapposizioni di home range tra individui diversi",
+      "È fortemente territoriale e difende un'area esclusiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'orso bruno è un animale a comportamento poco territoriale: sono normali forti sovrapposizioni di home range tra diversi individui. L'estensione del territorio dipende da densità delle risorse, stadio fisiologico, tempo di permanenza e fattori di disturbo.",
+    "difficulty": "medium",
+    "source": "21 ORSO.pdf p.67"
+  },
+  {
+    "id": "orso-035",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "L'orso bruno, pur avendo una forte componente vegetale nella dieta, possiede un apparato digerente altamente specializzato per digerire i vegetali. Questa affermazione è corretta?",
+    "suggestion": "Attenzione: rifletti sulla presenza o assenza di adattamenti come le camere fermentative tipiche degli erbivori.",
+    "options": [
+      "Sì, possiede camere fermentative come i ruminanti",
+      "Sì, perché il suo cieco è più sviluppato di quello degli erbivori",
+      "No, non ha adattamenti complessi come le camere fermentative e mantiene una struttura simile a quella dei carnivori",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'affermazione è falsa: l'orso bruno, pur essendo onnivoro con forte componente vegetale, non presenta un apparato digerente altamente specializzato per i vegetali. Non ha adattamenti complessi come camere fermentative e mantiene una struttura simile a quella dei carnivori, compensando con un rapido transito e un'elevata ingestione.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.54"
+  },
+  {
+    "id": "orso-036",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Quale tra queste affermazioni sul 4° premolare superiore dell'orso è corretta?",
+    "suggestion": "Nei carnivori questo dente corrisponde al dente ferino; valuta se nell'orso resta dominante o se si riduce rispetto al molare vicino.",
+    "options": [
+      "Il suo sviluppo resta limitato e inferiore a quello del molare adiacente, ed è un carattere differenziale degli ursidi",
+      "È completamente assente in tutti gli ursidi",
+      "È un dente puramente vegetale privo di funzione secante",
+      "È il dente più sviluppato della bocca, dominante sul molare adiacente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo sviluppo del 4° premolare superiore, corrispondente al dente ferino in tutti i carnivori, nell'orso resta sempre limitato e inferiore a quello del molare adiacente: questo è un carattere differenziale della famiglia degli ursidi. Pur ridotti, i premolari (specie il IV) mantengono una certa attività secante.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.41"
+  },
+  {
+    "id": "orso-037",
+    "topic": "orso",
+    "species": "Orso bruno (Ursus arctos)",
+    "question": "Riguardo alle bolle timpaniche e al profilo cranico degli Ursidi, quale affermazione è corretta?",
+    "suggestion": "Confronta il cranio dell'orso con quello dei canidi: il profilo fronto-nasale e lo sviluppo delle bolle timpaniche fanno la differenza.",
+    "options": [
+      "Hanno cranio identico a quello dei felidi con grandi bolle timpaniche",
+      "Hanno cranio massiccio con profilo fronto-nasale convesso e bolle timpaniche piccole e appiattite",
+      "Hanno cranio appiattito con profilo concavo e bolle timpaniche molto sviluppate",
+      "Hanno bolle timpaniche più sviluppate rispetto agli altri carnivori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cranio degli Ursidi, massiccio e simile a quello dei canidi ma con profilo fronto-nasale convesso, le bolle timpaniche sono piccole e appiattite, meno sviluppate rispetto ad altri carnivori. Le arcate zigomatiche sviluppate e l'ampia fossa temporale indicano invece una forte muscolatura masticatoria.",
+    "difficulty": "hard",
+    "source": "21 ORSO.pdf p.22"
+  }
+]

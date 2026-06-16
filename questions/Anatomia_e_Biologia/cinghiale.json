@@ -1,0 +1,648 @@
+[
+  {
+    "id": "cinghiale-001",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "A quale famiglia appartiene il cinghiale (Sus scrofa) e che tipo di ungulato è?",
+    "suggestion": "Pensa al gruppo dei suini, non a quello di cervi o bovini.",
+    "options": [
+      "Famiglia Cervidi, ungulato ruminante",
+      "Famiglia Suidi, artiodattilo non ruminante",
+      "Famiglia Bovidi, ungulato ruminante",
+      "Famiglia Equidi, perissodattilo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cinghiale appartiene all'ordine Artiodattili, famiglia Suidi (Suidae); è un ungulato monogastrico e quindi non ruminante. I Cervidi e i Bovidi sono ruminanti, mentre gli Equidi sono perissodattili.",
+    "difficulty": "easy",
+    "source": "13 cinghiale I parte.pdf p.1"
+  },
+  {
+    "id": "cinghiale-002",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché la testa a cuneo e i quarti anteriori molto sviluppati rappresentano un vantaggio per il cinghiale?",
+    "suggestion": "Considera gli ambienti fitti e intricati che la specie attraversa per spostarsi.",
+    "options": [
+      "Permettono salti più lunghi in spazi aperti",
+      "Migliorano la capacità di nuoto in acque profonde",
+      "Servono solo a regolare la temperatura corporea",
+      "Agevolano gli spostamenti nella vegetazione fitta e intricata"
+    ],
+    "correctIndex": 3,
+    "explanation": "I quarti anteriori e la testa conformata a cuneo facilitano la penetrazione e gli spostamenti in vegetazione molto fitta e intricata. Non sono adattamenti al salto né alla termoregolazione, e il nuoto dipende da altri caratteri.",
+    "difficulty": "easy",
+    "source": "13 cinghiale I parte.pdf p.5"
+  },
+  {
+    "id": "cinghiale-003",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché la pelle del cinghiale è particolarmente ispessita su collo e spalle, fino a circa 3 cm nei maschi adulti?",
+    "suggestion": "Pensa a cosa accade tra maschi nella stagione degli amori e all'ingresso in zone spinose.",
+    "options": [
+      "Per aumentare la galleggiabilità in acqua",
+      "Per fungere da scudo protettivo nei combattimenti e nell'ingresso in vegetazione spinosa",
+      "Per migliorare l'isolamento termico in assenza di grasso",
+      "Per favorire l'evaporazione del sudore"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ispessimento di collo e spalle costituisce uno scudo protettivo contro le zannate degli avversari e contro la vegetazione cespugliosa e spinosa. L'isolamento termico è invece affidato soprattutto al grasso sottocutaneo, dato che la borra è scarsa.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.6"
+  },
+  {
+    "id": "cinghiale-004",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché nel cinghiale il grasso sottocutaneo (cotenna) ha un ruolo termoregolatore così importante?",
+    "suggestion": "La pelliccia di questa specie è povera di un componente isolante presente in molti altri ungulati.",
+    "options": [
+      "Perché il cinghiale è privo di setole",
+      "Perché il grasso produce calore metabolico in modo continuo",
+      "Perché la pelliccia ha scarsa borra e quindi limitata capacità isolante",
+      "Perché la pelle è sottile su tutto il corpo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pelliccia del cinghiale ha una presenza ridotta di borra (sottopelo), con limitata capacità di isolamento termico; per questo il tessuto adiposo sottocutaneo assume un ruolo importante come protezione contro i rigori del clima. Le setole sono presenti e il grasso funge da riserva, non da generatore continuo di calore.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.6"
+  },
+  {
+    "id": "cinghiale-005",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché i muscoli della nuca del cinghiale sono così sviluppati e si inseriscono su una cresta occipitale prominente?",
+    "suggestion": "Servono a muovere con forza la parte anteriore del muso usata per scavare.",
+    "options": [
+      "Per ruotare rapidamente la testa e ampliare il campo visivo",
+      "Per usare il grifo come un aratro nell'attività di scavo del cibo",
+      "Per sostenere il peso del palco durante i combattimenti",
+      "Per masticare alimenti molto duri"
+    ],
+    "correctIndex": 1,
+    "explanation": "I grossi fasci dei muscoli nucali, inseriti sulla prominente cresta occipitale tipica dei Suidi, consentono di usare il grifo come un vero aratro per la ricerca del cibo (grufolare). Il cinghiale non porta palchi e la rotazione del collo è anzi limitata dalla sua brevità.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.9"
+  },
+  {
+    "id": "cinghiale-006",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Qual è l'origine anatomica delle ossa del grifo (grugno) del cinghiale?",
+    "suggestion": "Derivano dalla trasformazione di strutture che originariamente si trovano dentro la cavità nasale.",
+    "options": [
+      "Dalla fusione delle ossa mandibolari",
+      "Dalla trasformazione dei turbinati nasali",
+      "Da una neoformazione cartilaginea della lingua",
+      "Dall'ispessimento delle ossa frontali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le ossa del grifo derivano dalla trasformazione dei turbinati nasali, che si incastrano fra i prolungamenti delle ossa mascellari e nasali. Anteriormente al muso è inoltre presente l'osso rostrale collegato tramite connessioni cartilaginee.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.10"
+  },
+  {
+    "id": "cinghiale-007",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quale rapporto caratterizza la testa del cinghiale rispetto al resto del cranio?",
+    "suggestion": "La parte che ospita il cervello è proporzionalmente piccola rispetto a quella del muso.",
+    "options": [
+      "Il neurocranio è più sviluppato della parte facciale",
+      "Le orbite sono spinte in avanti sopra il grifo",
+      "I seni frontali sono assenti",
+      "La parte facciale è più sviluppata del neurocranio, con cavità cranica relativamente ridotta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nel cinghiale la parte facciale del cranio è più sviluppata del neurocranio; di conseguenza le orbite sono sospinte indietro, i seni frontali sono ben sviluppati e la cavità cranica che ospita il cervello è relativamente ridotta.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.11"
+  },
+  {
+    "id": "cinghiale-008",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché il collo del cinghiale è poco mobile rispetto a quello del capriolo?",
+    "suggestion": "Confronta la lunghezza del tratto cervicale rispetto al cranio nelle due specie.",
+    "options": [
+      "Perché le sue 7 vertebre cervicali sono complessivamente più corte del cranio",
+      "Perché ha più vertebre cervicali del capriolo",
+      "Perché le vertebre cervicali sono saldate fra loro",
+      "Perché manca la muscolatura nucale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cinghiale ha 7 vertebre cervicali, ma nell'insieme più corte della lunghezza del cranio; nel capriolo la porzione cervicale è invece il doppio più lunga del cranio, da cui la maggiore mobilità del collo. Il numero di vertebre cervicali è lo stesso (7) e non sono saldate.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.7"
+  },
+  {
+    "id": "cinghiale-009",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quali dita del piede del cinghiale sono i principali punti di appoggio al suolo?",
+    "suggestion": "Sono i due dita centrali, più sviluppati, mentre gli altri due (guardie) toccano terra solo in certe condizioni.",
+    "options": [
+      "Il 1° e il 2° dito",
+      "Il 3° e il 4° dito",
+      "Il 2° e il 5° dito",
+      "Tutte le quattro dita in egual misura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il 3° e il 4° dito terminano con unghioni allungati e sono i più adoperati; il 2° e il 5° dito (guardie o speroni) sono più piccoli e poggiano sul suolo solo in particolari condizioni, ad esempio quando serve una maggiore base di appoggio.",
+    "difficulty": "easy",
+    "source": "13 cinghiale I parte.pdf p.9"
+  },
+  {
+    "id": "cinghiale-010",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché il cinghiale deve frequentare spesso pozze fangose (insogli) per bagnarsi?",
+    "suggestion": "La sua pelle è povera di ghiandole che normalmente la manterrebbero umida.",
+    "options": [
+      "Per liberarsi dei parassiti soltanto",
+      "Perché la pelle è povera di ghiandole sudorifere e sebacee e va mantenuta umida",
+      "Per aumentare lo spessore del grasso sottocutaneo",
+      "Per raffreddare le difese surriscaldate"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pelle del cinghiale è piuttosto povera di ghiandole sudorifere e sebacee: questo è il principale motivo per cui l'animale è costretto a frequenti bagni in pozze fangose per mantenerla umida. La rimozione di parassiti è un effetto collaterale, non la causa principale descritta.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.21"
+  },
+  {
+    "id": "cinghiale-011",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quale ghiandola odorifera è presente solo nel maschio e ha un ruolo nell'attrazione delle femmine durante il periodo riproduttivo?",
+    "suggestion": "È collocata in posizione genitale, sopra al pene.",
+    "options": [
+      "La ghiandola rostrale, posta sul grifo",
+      "Le ghiandole carpali, sugli arti anteriori",
+      "La ghiandola prepuziale, posta sopra al pene",
+      "La ghiandola mandibolare"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ghiandola prepuziale, presente solo nel maschio e posta sopra al pene, produce secrezioni odorose coinvolte nella comunicazione intraspecifica, nella competizione tra maschi e nell'attrazione delle femmine. La rostrale lubrifica durante lo scavo, mentre le carpali servono al marcamento e riconoscimento.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.21"
+  },
+  {
+    "id": "cinghiale-012",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quale colorazione caratterizza il mantello dei piccoli di cinghiale nei primi mesi di vita?",
+    "suggestion": "Pensa al motivo a strisce che scompare verso il 4°-5° mese.",
+    "options": [
+      "Uniformemente rossastro",
+      "Striato a bande longitudinali giallo-brune",
+      "Grigio-nerastro come gli adulti",
+      "Bianco con macchie scure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei primi mesi il mantello dei giovani è tipicamente striato a bande longitudinali di colore giallo-bruno; dal 4°/5° mese le strie lasciano gradualmente il posto a un mantello uniformemente rossastro e poi, da circa un anno, al manto grigio-nerastro degli adulti.",
+    "difficulty": "easy",
+    "source": "13 cinghiale I parte.pdf p.15"
+  },
+  {
+    "id": "cinghiale-013",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché le femmine conservano più a lungo dei maschi il mantello invernale?",
+    "suggestion": "Le loro risorse caloriche sono impegnate in un'attività legata alla cura della prole.",
+    "options": [
+      "Perché sono più sensibili al freddo per dimensioni minori",
+      "Perché mutano sempre prima dei maschi",
+      "Perché non possiedono setole sul dorso",
+      "Per un diverso corredo ormonale e perché impegnano risorse caloriche nell'allattamento, mantenendo il calore verso la prole"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le femmine, per un diverso corredo ormonale e perché impegnano le loro risorse caloriche nell'allattamento, conservano più a lungo il mantello invernale per motivi di riscaldamento verso la prole. Anzi, le femmine gravide o in lattazione sono tra le ultime a mutare, non le prime.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.17"
+  },
+  {
+    "id": "cinghiale-014",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "In quale ordine di età avviene tipicamente la muta del mantello nei cinghiali di una popolazione?",
+    "suggestion": "I più giovani aprono la sequenza; femmine gravide o in lattazione la chiudono.",
+    "options": [
+      "Prima gli anziani, poi gli adulti, infine i giovani",
+      "Prima i giovani, poi gli adulti, per ultimi gli anziani insieme a femmine gravide o in lattazione",
+      "Tutti contemporaneamente in maggio",
+      "Prima i maschi adulti, poi tutte le femmine"
+    ],
+    "correctIndex": 1,
+    "explanation": "I primi a mutare sono i giovani; seguono gli adulti e per ultimi gli anziani, insieme alle femmine gravide o in lattazione, che conservano più a lungo il pelo per proteggere la prole.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.20"
+  },
+  {
+    "id": "cinghiale-015",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quanto pesa mediamente un cinghiale alla nascita e quale peso raggiunge alla fine del primo anno di vita?",
+    "suggestion": "Da meno di un chilo a poche decine di chili in dodici mesi.",
+    "options": [
+      "Circa 700 g alla nascita, 20-40 kg a fine primo anno",
+      "Circa 5 kg alla nascita, 60 kg a fine primo anno",
+      "Circa 200 g alla nascita, 10 kg a fine primo anno",
+      "Circa 2 kg alla nascita, 80 kg a fine primo anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il peso alla nascita è di circa 700 grammi e, con un accrescimento di 90-100 g al giorno nel primo anno, l'animale raggiunge i 20-40 kg alla fine del primo anno di vita. Successivamente l'incremento rallenta a circa 10-15 kg l'anno.",
+    "difficulty": "easy",
+    "source": "13 cinghiale I parte.pdf p.22"
+  },
+  {
+    "id": "cinghiale-016",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Come si può riconoscere con certezza un ibrido di prima generazione tra cinghiale e maiale domestico in base al cariotipo?",
+    "suggestion": "Il numero di cromosomi è intermedio tra quello delle due specie parentali.",
+    "options": [
+      "Possiede 36 cromosomi come il cinghiale puro",
+      "Possiede 38 cromosomi come il maiale domestico",
+      "Possiede 37 cromosomi, valore intermedio",
+      "Possiede 40 cromosomi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il maiale domestico ha 38 cromosomi (19 coppie) e il cinghiale ne ha 36 (18 coppie); gli incroci di prima generazione hanno quindi 37 cromosomi, valore intermedio che permette di riconoscerli con certezza.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.23"
+  },
+  {
+    "id": "cinghiale-017",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quante coppie di mammelle possiede la femmina di cinghiale e perché?",
+    "suggestion": "Il loro numero è un adattamento all'allevamento di figliate numerose.",
+    "options": [
+      "Una coppia, come la maggior parte degli ungulati",
+      "Due paia, disposte solo nella regione inguinale",
+      "Otto paia, una per ciascun piccolo",
+      "Cinque paia (10-14 capezzoli), per allevare numerosi piccoli"
+    ],
+    "correctIndex": 3,
+    "explanation": "La scrofa possiede cinque paia di mammelle disposte in due file dalla regione pettorale a quella inguinale (le fonti riportano 10-14 capezzoli visibili), adattamento funzionale all'allevamento di numerosi piccoli, coerente con l'elevata prolificità della specie.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.2"
+  },
+  {
+    "id": "cinghiale-018",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché la popolazione di cinghiale può crescere molto più rapidamente di quella di altri ungulati?",
+    "suggestion": "Confronta numero di piccoli per parto e parti per anno con quelli degli altri ungulati.",
+    "options": [
+      "Perché ha una gestazione di due anni",
+      "Perché ha la più alta capacità riproduttiva tra gli ungulati: molti piccoli per parto e più parti per anno",
+      "Perché è totalmente privo di predatori naturali",
+      "Perché le femmine partoriscono una sola volta nella vita ma con molti piccoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fra gli ungulati il cinghiale è una delle specie a più alta capacità riproduttiva: il numero di piccoli per parto e di parti per anno supera quello di qualsiasi altro ungulato. La gestazione dura poco più di tre mesi e i predatori (lupo, lince, volpe) esistono, anche se incidono soprattutto sulle classi giovanili.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.7"
+  },
+  {
+    "id": "cinghiale-019",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quale risorsa alimentare forestale influenza in modo determinante l'ovulazione e la riproduzione del cinghiale?",
+    "suggestion": "È un frutto del bosco prodotto dalle querce, particolarmente energetico.",
+    "options": [
+      "Le ghiande",
+      "I micromammiferi",
+      "L'erba medica",
+      "Le carogne"
+    ],
+    "correctIndex": 0,
+    "explanation": "È stata dimostrata una netta correlazione tra tasso di ovulazione e disponibilità di ghiande in anni diversi; un'abbondante produzione di ghiande ridurrebbe inoltre la mortalità embrionale. Gli altri alimenti citati fanno parte della dieta ma non hanno questo ruolo determinante sulla riproduzione.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.7"
+  },
+  {
+    "id": "cinghiale-020",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quanto dura indicativamente la gestazione della scrofa di cinghiale?",
+    "suggestion": "I cacciatori la ricordano con la formula '3 mesi, 3 settimane e 3 giorni'.",
+    "options": [
+      "Circa 7 mesi",
+      "Circa 16-18 settimane (poco più di 3 mesi, circa 115 giorni)",
+      "Circa 2 mesi",
+      "Circa 10 mesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gestazione dura 16-18 settimane, poco più di tre mesi; i cacciatori usano la formula '3 mesi, 3 settimane e 3 giorni' (circa 115 giorni, 114-119 secondo le tabelle). È una gestazione breve rispetto a molti altri ungulati di taglia analoga.",
+    "difficulty": "easy",
+    "source": "13 II parte CINGHIALE.pdf p.13"
+  },
+  {
+    "id": "cinghiale-021",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Che cos'è la lestra di parto e a cosa serve?",
+    "suggestion": "È una struttura che la scrofa prepara scavando e accumulando lettiera prima di partorire.",
+    "options": [
+      "Un insoglio per il bagno di fango",
+      "Un punto di marcamento odoroso del territorio",
+      "Una sorta di nido in una depressione del terreno, con lettiera, dove la scrofa partorisce",
+      "Un cumulo di boli alimentari rigettati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prima di partorire la scrofa predispone la lestra: una sorta di grande nido ricavato approfondendo una depressione del terreno e accumulandovi lettiera (erbe, ramaglie, foglie secche). Lì partorisce 3-6 piccoli che restano con la madre per circa 10 giorni. Non va confusa con gli insogli fangosi né con i boli alimentari.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.13"
+  },
+  {
+    "id": "cinghiale-022",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché nella stessa figliata si trovano spesso porchetti robusti e altri magri e stentati?",
+    "suggestion": "Ogni piccolo tende a fissarsi su un capezzolo, ma non tutti i capezzoli forniscono la stessa quantità di latte.",
+    "options": [
+      "Perché nascono in giorni molto diversi tra loro",
+      "Perché ogni porchetto si assicura un capezzolo personale e quelli inguinali sono più ricchi di latte dei pettorali",
+      "Perché la madre allatta solo i primogeniti",
+      "Perché i maschi crescono sempre più delle femmine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ciascun porchetto si assicura un personale capezzolo: i piccoli che si attaccano alle ricche mammelle inguinali risultano forti e prosperosi, mentre quelli alle pettorali, più povere, restano magri e stentati. Le nascite della figliata sono invece sincronizzate.",
+    "difficulty": "hard",
+    "source": "13 II parte CINGHIALE.pdf p.15"
+  },
+  {
+    "id": "cinghiale-023",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché i porchetti appena nati hanno sempre freddo e sono vulnerabili al maltempo?",
+    "suggestion": "Manca loro lo strato che negli adulti svolge la funzione termoregolatrice.",
+    "options": [
+      "Perché sono privi di setole sul dorso",
+      "Perché sono sprovvisti del pannicolo adiposo, pressoché assente nei porchetti",
+      "Perché nascono con il mantello bagnato per giorni",
+      "Perché restano immobili e non producono calore muscolare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Appena nati i porchetti sono sprovvisti del pannicolo adiposo (il grasso bianco è pressoché assente nei porchetti), per cui hanno sempre freddo e possono rimanere vittime dell'inclemenza del tempo; la mortalità nei primi otto mesi può raggiungere il 30-40%.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.15"
+  },
+  {
+    "id": "cinghiale-024",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Qual è l'unità sociale di base nella struttura di popolazione del cinghiale?",
+    "suggestion": "Ruota attorno a una femmina e alla sua discendenza.",
+    "options": [
+      "Il gruppo familiare formato dalla scrofa con i piccoli e i giovani della cucciolata precedente",
+      "Il maschio adulto solitario con i suoi scudieri",
+      "La coppia stabile maschio-femmina",
+      "Il branco unisessuale di maschi sub-adulti"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'unità sociale di base è il gruppo familiare, rappresentato dalla scrofa con i suoi piccoli e i giovani della cucciolata precedente (di solito femmine), eventualmente ampliato da altre unità familiari imparentate. I maschi adulti sono invece tipicamente solitari.",
+    "difficulty": "easy",
+    "source": "13 II parte CINGHIALE.pdf p.24"
+  },
+  {
+    "id": "cinghiale-025",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Chi svolge il ruolo di capobranco nel branco a struttura matriarcale del cinghiale?",
+    "suggestion": "Non è il maschio più grosso, ma un individuo del gruppo familiare con maggiore esperienza.",
+    "options": [
+      "Il maschio adulto dominante",
+      "La femmina più anziana o più vigorosa",
+      "Il giovane verro più aggressivo",
+      "Si alternano più individui senza una gerarchia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il branco ha struttura matriarcale regolata da una precisa gerarchia: la femmina più anziana o più vigorosa ha il ruolo di capobranco, e la prole viene accudita in comune dalle femmine del gruppo, generalmente imparentate.",
+    "difficulty": "easy",
+    "source": "13 II parte CINGHIALE.pdf p.25"
+  },
+  {
+    "id": "cinghiale-026",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "A che età i maschi di cinghiale si allontanano dal gruppo familiare e che tipo di organizzazione adottano poi gli adulti?",
+    "suggestion": "Lasciano la madre verso il termine del secondo anno; da adulti i grandi maschi vivono per lo più isolati.",
+    "options": [
+      "A 6 mesi, restando poi in branchi misti permanenti",
+      "A 3 anni, restando sempre nel branco materno",
+      "Non si allontanano mai dal gruppo familiare",
+      "A circa 18 mesi, e da adulti (oltre 3 anni) sono normalmente solitari"
+    ],
+    "correctIndex": 3,
+    "explanation": "I maschi restano nel gruppo familiare fino a circa 18 mesi, poi si allontanano formando piccoli gruppi maschili instabili e nomadi; i maschi adulti di oltre tre anni vivono normalmente isolati, accettando al massimo uno o due giovani sottomessi (scudieri).",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.26"
+  },
+  {
+    "id": "cinghiale-027",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quali gruppi di cinghiali sono più frequentemente responsabili dei danni alle coltivazioni?",
+    "suggestion": "Sono raggruppamenti instabili e nomadi, privi di un territorio di pascolo fisso.",
+    "options": [
+      "I gruppi familiari di femmine con prole",
+      "I piccoli gruppi maschili non gerarchici di sub-adulti che si spostano in continuazione",
+      "I maschi adulti solitari",
+      "Le scrofe isolate nella lestra"
+    ],
+    "correctIndex": 1,
+    "explanation": "I piccoli gruppi maschili non gerarchici e di breve durata, formati da sub-adulti privi di un territorio fisso e in continuo spostamento alla ricerca di cibo, sono quelli più frequentemente responsabili dei danneggiamenti alle coltivazioni.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.26"
+  },
+  {
+    "id": "cinghiale-028",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché tutti i piccoli di un gruppo familiare di cinghiali nascono nello stesso periodo?",
+    "suggestion": "L'estro delle femmine del gruppo non è indipendente.",
+    "options": [
+      "Perché all'interno del gruppo l'estro delle femmine appare sincronizzato",
+      "Perché tutte le femmine partoriscono una sola volta l'anno per legge fisiologica",
+      "Perché la femmina dominante impedisce le altre nascite",
+      "Perché la gestazione dura esattamente un anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'interno di un gruppo l'estro di tutte le femmine appare sincronizzato, così che i piccoli nascono nello stesso periodo; più femmine appena partorite possono quindi partecipare alla difesa comune di tutti i piccoli.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.12"
+  },
+  {
+    "id": "cinghiale-029",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quali sono i sensi più sviluppati nel corredo sensoriale del cinghiale?",
+    "suggestion": "Sono due sensi a distanza; la vista è invece scarsa.",
+    "options": [
+      "La vista e il tatto",
+      "L'udito e l'olfatto",
+      "Il gusto e la vista",
+      "L'olfatto e la vista"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel corredo sensoriale del cinghiale primeggiano l'udito e l'olfatto; seguono la vista (scarsa), il tatto e il gusto. La vista è poco sviluppata, con scarsa percezione dei colori per povertà di coni nella retina.",
+    "difficulty": "easy",
+    "source": "13 II parte CINGHIALE.pdf p.32"
+  },
+  {
+    "id": "cinghiale-030",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Perché la visione notturna del cinghiale è buona mentre la percezione dei colori è scarsa?",
+    "suggestion": "Dipende dalla diversa proporzione tra i due tipi di fotorecettori della retina.",
+    "options": [
+      "La retina è ricca di coni e povera di bastoncelli",
+      "Il nervo ottico è particolarmente sviluppato",
+      "La retina è ricca di bastoncelli e scarsa di coni",
+      "La pupilla si chiude completamente di notte"
+    ],
+    "correctIndex": 2,
+    "explanation": "La retina del cinghiale è ricca di bastoncelli, da cui l'ottima visione notturna, ma scarsa di coni, da cui la limitata percezione dei colori. Il nervo ottico è invece sottile (circa 3 mm) e la vista complessivamente poco sviluppata.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.35"
+  },
+  {
+    "id": "cinghiale-031",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Qual è la differenza concettuale tra densità biotica (DB) e densità agroforestale (DAF) nel cinghiale?",
+    "suggestion": "Una dipende solo dall'ambiente naturale, l'altra soprattutto dalla tolleranza dei danni alle colture.",
+    "options": [
+      "Sono sinonimi e coincidono sempre",
+      "La DB è il numero di capi sostenibile dall'ambiente naturale, la DAF dipende soprattutto dalla tolleranza dei danni alle colture",
+      "La DAF è sempre più alta della DB",
+      "La DB riguarda solo i maschi adulti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La densità biotica (DB, 3-25 capi/km²) è il numero di capi che l'ambiente naturale può sostenere senza compromettere lo stato fisico della popolazione; la densità agroforestale (DAF, 0-6 capi/km²) dipende soprattutto dal livello di tolleranza dei danni alle colture, ed è quindi generalmente più bassa.",
+    "difficulty": "hard",
+    "source": "13 II parte CINGHIALE.pdf p.38"
+  },
+  {
+    "id": "cinghiale-032",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quale fattore spinge soprattutto le popolazioni di cinghiale verso le colture agrarie?",
+    "suggestion": "Conta più la disponibilità di cibo energetico nel bosco che il numero assoluto di animali.",
+    "options": [
+      "L'eccesso di acqua nei boschi",
+      "La presenza dei predatori nelle aree coltivate",
+      "L'innevamento persistente in pianura",
+      "La scarsa disponibilità di alimenti energetici in bosco (ghiande, faggiole, castagne) in annate di scarsa produzione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra le cause che spingono il cinghiale verso le colture vi è soprattutto la scarsa disponibilità di alimenti energetici in bosco (ghiande, faggiole, castagne) in annate di scarsa produzione o in boschi poveri di queste essenze, oltre alla rinaturalizzazione delle zone marginali e alla presenza di alberi da frutto.",
+    "difficulty": "medium",
+    "source": "13 II parte CINGHIALE.pdf p.41"
+  },
+  {
+    "id": "cinghiale-033",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Quale relazione anatomica esiste tra la porzione visibile delle difese (canini inferiori) e quella infissa nella mandibola?",
+    "suggestion": "Gran parte del dente resta nascosta nell'osso; ne emerge solo una frazione.",
+    "options": [
+      "La porzione infissa è circa il doppio di quella scoperta: solo 1/3 è visibile sopra la gengiva",
+      "La porzione visibile è il doppio di quella infissa",
+      "Difese visibili e infisse sono di pari lunghezza",
+      "L'intera difesa è esterna alla gengiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porzione delle difese infissa nella mandibola è circa il doppio più lunga di quella scoperta, per cui solo circa 1/3 del dente è visibile sopra la gengiva. La continua crescita dei canini è in rapporto con l'accrescimento delle ossa mascellari.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.40"
+  },
+  {
+    "id": "cinghiale-034",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Il trofeo del maschio di cinghiale è costituito dalle difese e dalle coti. A quali denti corrispondono rispettivamente, e perché le coti si chiamano così?",
+    "suggestion": "Le difese sono i canini più lunghi e ricurvi; le coti prendono il nome dallo strumento per affilare i coltelli. Attenzione a non invertire superiori e inferiori.",
+    "options": [
+      "Difese = canini superiori; coti = canini inferiori, perché affilano le difese",
+      "Difese = canini inferiori (più lunghi e curvi); coti = canini superiori, perché ricordano la pietra per affilare i coltelli",
+      "Difese = incisivi inferiori; coti = canini superiori",
+      "Difese e coti sono entrambi canini superiori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le difese sono i due canini inferiori, più curvi e più lunghi; le coti sono i due canini superiori, così chiamate perché ricordano lo strumento (cote) per affilare i coltelli. Lo sfregamento reciproco usura i canini, ne limita la crescita e ne rende tagliente il filo.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.38"
+  },
+  {
+    "id": "cinghiale-035",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Per stabilire l'età di un cinghiale adulto di oltre 3 anni e mezzo, quale metodo si usa principalmente e con quale limite?",
+    "suggestion": "Fino a circa 3 anni e mezzo bastano eruzione e cambio dei denti; oltre, ci si basa su un parametro influenzato dalla dieta. La precisione conta.",
+    "options": [
+      "Il conteggio degli anelli di crescita delle difese, metodo molto preciso",
+      "L'usura progressiva dei molari, metodo soggettivo e dipendente dalle abitudini alimentari",
+      "Il solo peso corporeo, indipendente dall'alimentazione",
+      "La misura della lunghezza della coda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fino a circa 3 anni e mezzo l'età si stima con buona approssimazione dai tempi di eruzione e cambio dei denti; oltre, il metodo più usato è basato sull'usura progressiva dei molari (a partire da M1, il primo a spuntare), ma è soggettivo e strettamente dipendente dal regime alimentare, perché la consistenza degli alimenti modifica il grado di usura.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.48"
+  },
+  {
+    "id": "cinghiale-036",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Riguardo alla digestione delle fibre, quale affermazione descrive correttamente il cinghiale?",
+    "suggestion": "Ricorda che non è un ruminante: la fermentazione avviene, ma in un tratto diverso e in modo meno efficiente.",
+    "options": [
+      "È un ruminante e fermenta la cellulosa nel rumine",
+      "È monogastrico e digerisce la cellulosa solo in modo limitato, tramite fermentazione microbica nel cieco e nel colon, meno efficiente che nei ruminanti",
+      "Non digerisce affatto i vegetali e si nutre solo di proteine animali",
+      "Possiede uno stomaco a quattro camere come i bovidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cinghiale è un ungulato monogastrico (stomaco a sacco unico, 6-8 litri) e non ruminante: la digestione della cellulosa è limitata e avviene per fermentazione microbica nel cieco e nel colon, risultando meno efficiente rispetto ai ruminanti. Per questo nelle feci si rinvengono frammenti vegetali non finemente sminuzzati.",
+    "difficulty": "medium",
+    "source": "13 cinghiale I parte.pdf p.67"
+  },
+  {
+    "id": "cinghiale-037",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "Nel maschio adulto di cinghiale i canini permanenti inferiori fuoriescono ben visibili dalla rima labiale. A partire da quale età ciò avviene tipicamente?",
+    "suggestion": "Non avviene già nel primo anno: pensa più avanti, quando il maschio è ormai adulto. Attenzione a confondere con l'età di maturità sessuale.",
+    "options": [
+      "Già a 5-6 mesi",
+      "Al 3°-4° anno",
+      "Solo dopo i 9 anni",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "I canini del maschio fuoriescono dalla rima labiale al 3°-4° anno (le zanne sono visibili dall'età di 3-4 anni in poi); nei rossi/sub-adulti non sporgono ancora. La maturità sessuale fisiologica (10-18 mesi) è precedente e non coincide con la fuoriuscita delle difese, quindi le opzioni '5-6 mesi' e 'dopo i 9 anni' sono errate.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.38"
+  },
+  {
+    "id": "cinghiale-038",
+    "topic": "cinghiale",
+    "species": "Cinghiale (Sus scrofa)",
+    "question": "La differenziazione di un singolo molare definitivo permette di distinguere le classi giovanili: la comparsa del primo molare definitivo (M1) segna il passaggio da striato a rosso. A partire da quale mese di vita M1 è osservabile?",
+    "suggestion": "È uno dei primissimi molari definitivi a comparire, ben prima del compimento del primo anno. La precisione del mese conta.",
+    "options": [
+      "A partire dal 5° mese",
+      "A partire dal 13°-14° mese",
+      "A partire dai 21 mesi",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il primo molare definitivo M1 è osservabile a partire dal 5° mese di vita: la sua comparsa distingue il rosso (6-12 mesi, M1 presente) dallo striato (privo di M1). M2 erompe invece verso il 13°-14° mese e M3 inizia a erompere verso i 21 mesi, completandosi a 35 mesi.",
+    "difficulty": "hard",
+    "source": "13 cinghiale I parte.pdf p.44"
+  }
+]

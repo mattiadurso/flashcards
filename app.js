@@ -1,4 +1,4 @@
-// Giud Studia — local flashcard quiz.
+// Flashcards — local Flashcards quiz.
 // Vanilla JS, no framework. Loads questions/index.json, fetches every listed
 // topic file, merges into one in-memory bank, and walks the user through a
 // non-repeating session with localStorage-backed "already seen" tracking.
@@ -589,14 +589,44 @@ function handleAnswer(chosenIdx) {
   updateProgress();
 }
 
-// A few celebratory emojis (two themed to the subject matter) picked at random
-// for each >90% reward, so the screen feels a little different every time.
+// Emoji picked at random for the end screen so it feels a little different each
+// time. High scores get a celebratory set; lower scores get a warmer, gentler
+// set (hearts, sprouts, study vibes) to keep the tone encouraging — never harsh.
 const CELEBRATION_EMOJIS = ['🎉', '🎊', '🥳', '🏆', '⭐', '✨', '🌟', '🙌', '👏', '💪', '🦌', '🐗'];
+const ENCOURAGE_EMOJIS = ['💛', '🤍', '🫶', '🌱', '🌿', '📚', '✏️', '💪', '🌸', '☘️', '🦌', '💗'];
 
-function randomEmojis(n) {
-  const pool = [...CELEBRATION_EMOJIS];
-  shuffle(pool);
-  return pool.slice(0, n).join(' ');
+function randomEmojis(n, pool = CELEBRATION_EMOJIS) {
+  const p = [...pool];
+  shuffle(p);
+  return p.slice(0, n).join(' ');
+}
+
+// Pick the message bank + emojis for the end screen, scaled to how the run went.
+// Always positive: every tier returns a warm, affectionate line — lower scores
+// get gentle, motivating ones rather than a dry summary. Returns null only if
+// praise.js is missing entirely (graceful fallback to the plain summary).
+function pickPraise(ratio, perfect) {
+  const ok = (a) => typeof a !== 'undefined' && Array.isArray(a) && a.length;
+  if (perfect && ok(typeof PRAISE_PERFECT !== 'undefined' && PRAISE_PERFECT)) {
+    return { lines: PRAISE_PERFECT, emojis: `💯 ${randomEmojis(3)}` };
+  }
+  if (ratio > 0.9 && ok(typeof PRAISE !== 'undefined' && PRAISE)) {
+    return { lines: PRAISE, emojis: randomEmojis(3) };
+  }
+  if (ratio >= 0.7 && ok(typeof PRAISE_GOOD !== 'undefined' && PRAISE_GOOD)) {
+    return { lines: PRAISE_GOOD, emojis: randomEmojis(3) };
+  }
+  if (ratio >= 0.5 && ok(typeof PRAISE_OK !== 'undefined' && PRAISE_OK)) {
+    return { lines: PRAISE_OK, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
+  }
+  if (ok(typeof PRAISE_LOW !== 'undefined' && PRAISE_LOW)) {
+    return { lines: PRAISE_LOW, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
+  }
+  // Fall back to whatever broad praise bank exists, then to nothing.
+  if (ok(typeof PRAISE !== 'undefined' && PRAISE)) {
+    return { lines: PRAISE, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
+  }
+  return null;
 }
 
 // Per-argument performance for the end screen: one row per species answered,
@@ -649,15 +679,14 @@ function showEndScreen() {
   const ratio = total === 0 ? 0 : correct / total;
   const perfect = total > 0 && correct === total;   // 100%, no mistakes
 
-  // Reward a great run (strictly above 90%) with emojis, a random affectionate
-  // line, and the actual score. A perfect 100% gets its own ad-hoc lines and a
-  // golden box. Otherwise show the plain summary.
-  if (ratio > 0.9 && typeof PRAISE !== 'undefined' && PRAISE.length) {
-    const lines = perfect && typeof PRAISE_PERFECT !== 'undefined' && PRAISE_PERFECT.length
-      ? PRAISE_PERFECT
-      : PRAISE;
-    els.praiseEmojis.textContent = perfect ? `💯 ${randomEmojis(3)}` : randomEmojis(3);
-    els.praiseMsg.textContent = lines[Math.floor(Math.random() * lines.length)];
+  // Always close on an affectionate, positive note, with the message bank scaled
+  // to the score (perfect → great → good → ok → low). Even a rough run gets a
+  // warm, motivating line instead of a dry summary. A perfect 100% gets the
+  // golden box. The plain summary is only a fallback (no answers, or no banks).
+  const praise = total === 0 ? null : pickPraise(ratio, perfect);
+  if (praise) {
+    els.praiseEmojis.textContent = praise.emojis;
+    els.praiseMsg.textContent = praise.lines[Math.floor(Math.random() * praise.lines.length)];
     els.praiseScore.textContent = `${pct}% — ${correct}/${total}`;
     els.praise.classList.toggle('perfect', perfect);
     els.praise.hidden = false;

@@ -1,8 +1,13 @@
-// Giud Studia — frasi di incoraggiamento mostrate a fine sessione.
-// Tutte declinate al femminile. Aggiungine quante vuoi:
-//   PRAISE          -> punteggio sopra il 90%
-//   PRAISE_PERFECT  -> punteggio perfetto (100%, nessun errore)
-// app.js ne pesca una a caso dall'array giusto.
+// Flashcards — frasi di incoraggiamento mostrate a fine sessione.
+// Tutte declinate al femminile e SEMPRE positive: anche i punteggi bassi
+// ricevono una frase dolce e motivante, mai un rimprovero.
+// Aggiungine quante vuoi a ciascun gruppo. app.js sceglie l'array in base
+// alla percentuale di risposte giuste e ne pesca una a caso:
+//   PRAISE_PERFECT  -> 100% (nessun errore)
+//   PRAISE          -> oltre il 90%
+//   PRAISE_GOOD     -> 70% – 89%
+//   PRAISE_OK       -> 50% – 69%
+//   PRAISE_LOW      -> sotto il 50%
 const PRAISE = [
   "Oltre il 90%, amore mio! Sei un fenomeno della natura, letteralmente.",
   "Bravissima patatina, queste domande non hanno avuto scampo.",
@@ -138,4 +143,79 @@ const PRAISE_PERFECT = [
   "Patatina, non una sbagliata! Sei pura magia in versione studio.",
   "Amore, punteggio pieno: ti sei superata, e io ti adoro per questo.",
   "Broccolina, perfetto al 100%! Domani dottoressa, oggi già leggenda.",
+];
+
+// Punteggio buono (70% – 89%): brava davvero, ci sei quasi.
+const PRAISE_GOOD = [
+  "Più del 70%, amore mio! Sei proprio sulla strada giusta, continua così.",
+  "Bravissima patatina, bel punteggio: ancora un pochino e le sbaragli tutte.",
+  "Broccolina, te la cavi alla grande! La fauna italiana inizia a temerti.",
+  "Amore, ottimo lavoro! Hai una base solida, l'esame è più vicino di quanto pensi.",
+  "Patatina, sei brava davvero. Ripassa due cosine e sfiori la perfezione.",
+  "Broccolina, più del 70%: testolina che funziona benissimo, complimenti!",
+  "Amore mio, bel risultato! Ancora qualche giro e diventi imbattibile.",
+  "Bravissima patatina, hai capito un sacco di roba. Ne sono fiero.",
+  "Broccolina, ci sei quasi! Manca pochissimo per il punteggio da regina.",
+  "Amore, sei in gamba! Questo punteggio dice che lo studio sta pagando.",
+  "Patatina mia, ottimo! Un'altra sessione e voli oltre il 90%.",
+  "Broccolina, più del 70% giuste: sei una piccola naturalista in crescita.",
+  "Amore mio, bravissima! Hai dato del filo da torcere a queste domande.",
+  "Patatina, gran bel lavoro. La strada è tutta in discesa da qui.",
+  "Broccolina, te lo dico col cuore: stai studiando da campionessa.",
+  "Amore, bel punteggio! Coltiva questa base e l'esame è tuo.",
+  "Patatina mia, ci siamo quasi! Sei più preparata di quanto credi.",
+  "Broccolina, più del 70%: ogni ripasso ti rende più forte. Avanti così!",
+  "Amore mio, bravissima davvero. Un pizzico in più e arrivi in cima.",
+  "Patatina, ottimo risultato! Il capriolo ti fa già l'occhiolino.",
+  "Broccolina, sei brava e si vede. Continua a spingere, ci sei quasi.",
+  "Amore, gran bella prova! La prossima sessione la spacchi ancora di più.",
+];
+
+// Punteggio discreto (50% – 69%): bella base, ora si sale.
+const PRAISE_OK = [
+  "Più della metà giuste, amore! Bella base: ora si sale piano piano.",
+  "Bravissima patatina, hai superato la metà! Ripassa e vedrai che salto.",
+  "Broccolina, ci stai prendendo la mano. Ogni sessione un passo avanti.",
+  "Amore mio, buon inizio! Hai le idee giuste, basta solo affinarle.",
+  "Patatina, più del 50%: il difficile è cominciare, e tu l'hai già fatto.",
+  "Broccolina, sei sulla buona strada! Un altro ripasso e voli.",
+  "Amore, mezzo quiz domato! Bravissima, ora il resto viene da sé.",
+  "Patatina mia, hai una base solida. Coltivala e diventerà oro.",
+  "Broccolina, oltre la metà giuste: stai imparando alla grande, fidati.",
+  "Amore mio, dai che ci sei! Ancora un po' di studio e spicchi il volo.",
+  "Patatina, buon lavoro! Ogni errore di oggi è una risposta giusta di domani.",
+  "Broccolina, più del 50%: la testolina lavora, serve solo un altro giro.",
+  "Amore, sei partita bene! Sono fiero di ogni risposta che hai azzeccato.",
+  "Patatina mia, metà strada fatta. Il bosco crede in te, e io pure.",
+  "Broccolina, ci stai arrivando! Ripassa con calma e i numeri salgono.",
+  "Amore mio, bel passo avanti! Non mollare, stai migliorando davvero.",
+  "Patatina, oltre la metà! Un altro ripassino e superi te stessa.",
+  "Broccolina, sei in crescita. Le cose si stanno sistemando nella testolina.",
+  "Amore, bravissima per l'impegno! Il risultato grosso è dietro l'angolo.",
+  "Patatina mia, più del 50%: ottima base, ora costruiamoci sopra insieme.",
+];
+
+// Punteggio basso (sotto il 50%): qui niente rimproveri, solo dolcezza e
+// incoraggiamento. L'obiettivo è farle venire voglia di riprovare.
+const PRAISE_LOW = [
+  "Amore mio, ogni grande naturalista è partita da qui. Sono fiero di te comunque.",
+  "Patatina, non conta il punteggio: hai studiato, e questo vale tantissimo.",
+  "Broccolina, oggi è solo il primo passo. La prossima volta andrà meglio, promesso.",
+  "Amore, l'importante è esserci provata. Ti voglio bene esattamente uguale.",
+  "Patatina mia, anche il cinghiale ha sbagliato sentiero prima di imparare. Avanti!",
+  "Broccolina, niente sconforto: ogni errore di oggi è una lezione per domani.",
+  "Amore mio, sei comunque la mia scienziata preferita. Riproviamo insieme?",
+  "Patatina, un ripasso e questi numeri cambiano faccia. Credo in te, sempre.",
+  "Broccolina, oggi pochi punti ma tanto cuore. Domani spacchi, vedrai.",
+  "Amore, non ti scoraggiare: l'inizio è sempre il pezzo più in salita.",
+  "Patatina mia, sei coraggiosa solo a metterti in gioco. Ne sono fiero.",
+  "Broccolina, ci riproviamo con calma. Ogni capriolo impara a camminare cadendo.",
+  "Amore mio, conta che ci hai messo impegno. Il resto arriva, fidati di me.",
+  "Patatina, oggi è andata così, e va benissimo. Domani è un'altra sessione.",
+  "Broccolina, ti abbraccio forte: un altro giro e questi numeri salgono di sicuro.",
+  "Amore, nessuna paura del punteggio. Stai imparando, ed è la cosa che conta.",
+  "Patatina mia, sei più brava di quanto dica questo numero. Riproviamo!",
+  "Broccolina, piano piano si arriva lontano. Io sono qui a fare il tifo per te.",
+  "Amore mio, oggi semini, domani raccogli. Continua a studiare, sei fortissima.",
+  "Patatina, ti voglio bene a prescindere da ogni quiz. Forza, ci riproviamo insieme!",
 ];

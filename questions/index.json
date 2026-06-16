@@ -59,16 +59,46 @@
           "count": 32
         },
         {
+          "species": "Camoscio (Rupicapra rupicapra)",
+          "file": "Anatomia_e_Biologia/camoscio.json",
+          "source": "docs/Anatomia_e_Biologia/11 camoscio.pdf",
+          "count": 34
+        },
+        {
           "species": "Stambecco (Capra ibex)",
           "file": "Anatomia_e_Biologia/stambecco.json",
           "source": "docs/Anatomia_e_Biologia/12 stambecco.pdf",
           "count": 22
         },
         {
+          "species": "Cinghiale (Sus scrofa)",
+          "file": "Anatomia_e_Biologia/cinghiale.json",
+          "source": "docs/Anatomia_e_Biologia/13 cinghiale I parte.pdf",
+          "count": 38
+        },
+        {
           "species": "Lepre (Lepus europaeus)",
           "file": "Anatomia_e_Biologia/lepre.json",
           "source": "docs/Anatomia_e_Biologia/14 Lepre.pdf",
           "count": 38
+        },
+        {
+          "species": "Micromammiferi",
+          "file": "Anatomia_e_Biologia/micromammiferi.json",
+          "source": "docs/Anatomia_e_Biologia/15 MICROMAMMIFERI.pdf",
+          "count": 44
+        },
+        {
+          "species": "Carnivori — parte generale",
+          "file": "Anatomia_e_Biologia/carnivori-generale.json",
+          "source": "docs/Anatomia_e_Biologia/16 carnivori in generale.pdf",
+          "count": 27
+        },
+        {
+          "species": "Mustelidi",
+          "file": "Anatomia_e_Biologia/mustelidi.json",
+          "source": "docs/Anatomia_e_Biologia/17 mustelidi.pdf",
+          "count": 37
         },
         {
           "species": "Volpe rossa (Vulpes vulpes)",

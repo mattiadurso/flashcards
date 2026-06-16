@@ -1,0 +1,461 @@
+[
+  {
+    "id": "carnivori-generale-001",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Secondo la definizione ecologica, cosa caratterizza un animale carnivoro?",
+    "suggestion": "Pensa a cosa l'animale mangia, non al gruppo tassonomico a cui appartiene.",
+    "options": [
+      "Appartenere obbligatoriamente all'ordine Carnivora",
+      "Avere una dieta costituita prevalentemente da carne, ottenuta per predazione o necrofagia",
+      "Possedere sempre artigli retrattili",
+      "Nutrirsi esclusivamente di prede vive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carnivoro è un animale la cui dieta è prevalentemente carnea, sia per predazione (uccidere altri animali) sia per necrofagia (cibarsi di animali già morti); le due strategie non si escludono. La definizione è ecologica, non tassonomica: esistono carnivori in molti taxa (anche invertebrati, piante e funghi), quindi l'appartenenza ai Carnivora non è richiesta, gli artigli retrattili non sono universali e la necrofagia mostra che le prede non devono per forza essere vive.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.2"
+  },
+  {
+    "id": "carnivori-generale-002",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Perché alcuni membri dell'ordine Carnivora, come orsi e procioni, non sono considerati carnivori in senso stretto?",
+    "suggestion": "Osserva cosa mangiano realmente questi animali rispetto a un predatore obbligato.",
+    "options": [
+      "Perché hanno una dieta onnivora, non basata principalmente sulla carne",
+      "Perché hanno perso i denti ferini",
+      "Perché si nutrono solo di pesce",
+      "Perché non appartengono ai Mammalia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Appartenenza all'ordine Carnivora e dieta carnea non coincidono: orsi e procioni sono Carnivora ma hanno dieta onnivora, quindi non sono carnivori in senso stretto. Non hanno perso i denti ferini in quanto categoria, non sono piscivori e sono comunque mammiferi.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.2"
+  },
+  {
+    "id": "carnivori-generale-003",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale termine indica un carnivoro obbligato che necessita indispensabilmente di carne per sopravvivere?",
+    "suggestion": "Cerca il termine con il prefisso che indica un grado estremo, 'oltre' la semplice carnivoria.",
+    "options": [
+      "Frugivoro",
+      "Onnivoro",
+      "Ipercarnivoro",
+      "Ematofago"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli animali che necessitano obbligatoriamente di carne sono detti carnivori obbligati o ipercarnivori (es. felidi e ofidi); possono ingerire occasionalmente altri prodotti animali, ma marginali. Frugivoro indica chi mangia frutta, onnivoro chi ha dieta mista, ematofago chi si nutre di sangue.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.2"
+  },
+  {
+    "id": "carnivori-generale-004",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Perché l'apparato digerente degli ipercarnivori presenta un intestino relativamente corto?",
+    "suggestion": "Pensa a quanto è facile o difficile digerire la carne rispetto al materiale vegetale fibroso.",
+    "options": [
+      "Perché la carne richiede una lunga fermentazione microbica",
+      "Perché la carne è digerita rapidamente per via enzimatica, senza bisogno di lunghi tratti per la fibra",
+      "Perché devono assorbire grandi quantità di cellulosa",
+      "Perché l'intestino corto aumenta la capacità di immagazzinare acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dieta carnea è fatta di tessuti molli digeriti per via enzimatica (proteine animali), processo rapido che non richiede lunghi tratti intestinali per la fermentazione; per questo gli ipercarnivori hanno intestino corto, mascelle robuste e denti affilati. La fermentazione della fibra e l'assorbimento di cellulosa sono tipici degli erbivori, che infatti hanno intestino più lungo.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.2"
+  },
+  {
+    "id": "carnivori-generale-005",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "In quale epoca geologica compaiono i primi carnivoriformi primitivi, appartenenti al gruppo estinto dei Miacoidea?",
+    "suggestion": "Si tratta dell'epoca subito successiva all'estinzione dei dinosauri.",
+    "options": [
+      "Nel Cretaceo",
+      "Nel Miocene",
+      "Nel Paleocene (circa 66–56 milioni di anni fa)",
+      "Nel Pleistocene"
+    ],
+    "correctIndex": 2,
+    "explanation": "La storia evolutiva dei carnivori inizia pochi milioni di anni dopo l'estinzione dei dinosauri, nel Paleocene (circa 66–56 milioni di anni fa), con la comparsa dei Miacoidea, antenati dei moderni Carnivora. Cretaceo, Miocene e Pleistocene non corrispondono a questa comparsa.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.3"
+  },
+  {
+    "id": "carnivori-generale-006",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quali sono i due sottordini principali in cui le classificazioni più recenti, basate anche sulla genetica molecolare, suddividono i Carnivora?",
+    "suggestion": "La divisione moderna oppone le forme simili ai felini a quelle affini ai canidi, non più terra contro mare.",
+    "options": [
+      "Fissipedi e Pinnipedi",
+      "Feliformia e Caniformia",
+      "Felidae e Canidae",
+      "Erbivori e Onnivori"
+    ],
+    "correctIndex": 1,
+    "explanation": "La suddivisione in Fissipedi (terrestri) e Pinnipedi (marini) è oggi superata; le classificazioni recenti distinguono Feliformia (forme simili ai felini) e Caniformia (forme affini ai canidi). Felidae e Canidae sono famiglie, non sottordini, ed erbivori/onnivori sono categorie dietetiche, non tassonomiche.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.4"
+  },
+  {
+    "id": "carnivori-generale-007",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "A quale sottordine appartengono i pinnipedi (foche, otarie e trichechi)?",
+    "suggestion": "Nonostante la vita acquatica, sono imparentati con un gruppo terrestre che comprende orsi e mustelidi.",
+    "options": [
+      "Ai Caniformia, come adattamento secondario alla vita acquatica",
+      "Ai Feliformia",
+      "A un sottordine indipendente esclusivo degli animali marini",
+      "Ai Fissipedi"
+    ],
+    "correctIndex": 0,
+    "explanation": "I pinnipedi sono inclusi tra i Caniformia, insieme a cani, orsi e mustelidi: si tratta di forme adattate solo secondariamente alla vita acquatica. Non appartengono ai Feliformia, non costituiscono un sottordine indipendente e i Fissipedi sono una categoria oggi superata.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.4"
+  },
+  {
+    "id": "carnivori-generale-008",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale tra queste famiglie appartiene al sottordine Feliformia?",
+    "suggestion": "Cerca la famiglia che raggruppa animali simili a gatti e che comprende anche le iene.",
+    "options": [
+      "Mustelidae",
+      "Procyonidae",
+      "Hyaenidae",
+      "Ursidae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra i Feliformia rientrano Felidae, Herpestidae, Eupleridae, Viverridae, Hyaenidae (iene e protele) e Nandiniidae. Mustelidae, Procyonidae e Ursidae sono invece famiglie dei Caniformia.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.5"
+  },
+  {
+    "id": "carnivori-generale-009",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Perché la selezione naturale, favorendo un morso più potente, ha portato a un accorciamento della porzione rostrale del cranio nei carnivori?",
+    "suggestion": "Pensa alla leva: avvicinare il punto di forza al fulcro cambia il vantaggio meccanico.",
+    "options": [
+      "Per ridurre il peso complessivo del cranio durante la corsa",
+      "Per aumentare il vantaggio meccanico dei muscoli masticatori durante la chiusura della mandibola",
+      "Per fare spazio a un maggior numero di molari trituratori",
+      "Per ampliare la superficie olfattiva nei turbinati nasali"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'accorciamento della regione rostrale incrementa il vantaggio meccanico dei muscoli masticatori alla chiusura della mandibola, aumentando la forza del morso; è particolarmente evidente nei felidi (muso corto, dentatura ridotta). Non serve ad alleggerire il cranio né a ospitare più molari (anzi la dentatura si riduce) e, al contrario, riduce lo spazio per i turbinati nasali.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.6"
+  },
+  {
+    "id": "carnivori-generale-010",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale conseguenza ha, nei felidi, l'accorciamento della regione facciale sui turbinati nasali?",
+    "suggestion": "Meno spazio disponibile costringe una struttura a ripiegarsi su sé stessa.",
+    "options": [
+      "I turbinati scompaiono del tutto",
+      "Le superfici respiratoria e olfattiva si separano nettamente come nei canidi",
+      "I turbinati diventano molto convoluti e compatti, con superfici respiratoria e olfattiva tendenti a sovrapporsi",
+      "I turbinati si allungano oltre le narici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo spazio ridotto per i turbinati nei felidi li rende molto convoluti e compatti; inoltre la superficie respiratoria e quella olfattiva non sono nettamente separate come nei canidi ma tendono a sovrapporsi, come avviene nei primati. Non scompaiono, non si allungano e la netta separazione delle due superfici è proprio la condizione opposta, tipica dei canidi.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.6"
+  },
+  {
+    "id": "carnivori-generale-011",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quali denti costituiscono i denti ferini (carnassiali) nella dentatura dei Carnivori?",
+    "suggestion": "Sono una coppia formata da un dente dell'arcata superiore e uno di quella inferiore, che lavorano come lame contrapposte.",
+    "options": [
+      "Il primo incisivo superiore e il canino inferiore",
+      "Il quarto premolare superiore e il primo molare inferiore",
+      "Il canino superiore e il primo premolare inferiore",
+      "L'ultimo molare superiore e l'ultimo molare inferiore"
+    ],
+    "correctIndex": 1,
+    "explanation": "I denti ferini (carnassiali) sono il quarto premolare superiore e il primo molare inferiore: particolarmente taglienti, agiscono come lame contrapposte per lacerare carne e frantumare ossa. Le altre combinazioni non corrispondono ai denti carnassiali.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.9"
+  },
+  {
+    "id": "carnivori-generale-012",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Qual è la funzione principale dei canini nei Carnivori?",
+    "suggestion": "Non servono a tagliare né a triturare, ma entrano in gioco nel primo contatto con la preda.",
+    "options": [
+      "Triturare il materiale fibroso vegetale",
+      "Tagliare la carne come lame contrapposte",
+      "Filtrare piccoli invertebrati dall'acqua",
+      "Afferrare, tenere salda ed eventualmente uccidere la preda"
+    ],
+    "correctIndex": 3,
+    "explanation": "I canini dei Carnivori sono molto robusti, incurvati verso l'interno e appuntiti: servono ad afferrare, trattenere ed eventualmente uccidere la preda. La triturazione del vegetale è da erbivori, la filtrazione non è pertinente e il taglio a lame contrapposte è il compito dei denti ferini/carnassiali, non dei canini.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.9"
+  },
+  {
+    "id": "carnivori-generale-013",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quanti molari per emiarcata possiede un felide, definito 'carnivoro perfetto', rispetto a quanto avviene negli ursidi?",
+    "suggestion": "Il felide rappresenta l'estremo della riduzione dentaria: pensa al numero più basso possibile.",
+    "options": [
+      "Tre molari per emiarcata",
+      "Un solo molare per emiarcata, ridotto e a trigono secante",
+      "Nessun molare",
+      "Quattro molari ben sviluppati e trituratori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei felidi, carnivori perfetti, è presente un solo molare per emiarcata, nettamente meno sviluppato del dente ferino e con conformazione a trigono secante; negli ursidi, invece, manca solo il terzo molare superiore. Non hanno tre o quattro molari trituratori né sono privi di molari.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.8"
+  },
+  {
+    "id": "carnivori-generale-014",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Perché nei Carnivori i movimenti della mandibola sono principalmente in direzione dorso-ventrale (apertura e chiusura)?",
+    "suggestion": "La forma della superficie articolare e l'angolo del ramo mandibolare determinano quali movimenti sono possibili.",
+    "options": [
+      "Perché l'angolo del ramo mandibolare è ottuso e la superficie articolare è pianeggiante",
+      "Perché l'angolo del ramo mandibolare è prossimo all'angolo retto e la superficie articolare è convessa",
+      "Perché manca del tutto l'articolazione temporo-mandibolare",
+      "Perché la fossa glenoidea è assente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei carnivori l'angolazione del ramo ascendente della mandibola è prossima all'angolo retto e la superficie articolare temporo-mandibolare è convessa: questa combinazione, con una fossa glenoidea ben definita, favorisce i movimenti di apertura e chiusura. Angolo ottuso e superficie pianeggiante permettono invece movimenti laterali tipici degli erbivori; l'articolazione e la fossa glenoidea sono presenti.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.17"
+  },
+  {
+    "id": "carnivori-generale-015",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Nei Carnivori la distanza tra il piano mandibolare e l'asse di rotazione della mandibola è molto piccola: cosa indica questa caratteristica?",
+    "suggestion": "Confronta questo valore con quello degli erbivori, in cui la stessa distanza è molto grande.",
+    "options": [
+      "Una masticazione fortemente triturante tipica degli erbivori",
+      "L'assenza di canini sviluppati",
+      "Un tipo di morso orientato al taglio e alla forza di chiusura, tipico dei carnivori",
+      "Una dieta esclusivamente onnivora"
+    ],
+    "correctIndex": 2,
+    "explanation": "La distanza tra piano mandibolare e asse di rotazione è molto piccola nei carnivori, molto grande negli erbivori e mediamente grande negli onnivori; il valore ridotto è coerente con un morso da carnivoro, orientato a taglio e forza di chiusura più che a triturazione. Non indica né dieta erbivora/onnivora né assenza di canini.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.19"
+  },
+  {
+    "id": "carnivori-generale-016",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale dei tre processi del ramo mandibolare provvede all'attacco dei muscoli masticatori?",
+    "suggestion": "È il processo più dorsale dei tre, non quello che partecipa all'articolazione.",
+    "options": [
+      "Il processo condiloideo",
+      "Il processo coronoideo",
+      "Il processo angolare",
+      "Il processo glenoideo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il processo coronoideo, il più dorsale, provvede all'attacco dei muscoli masticatori. Il processo condiloideo è caudale e partecipa all'articolazione temporo-mandibolare, il processo angolare è il più ventrale; il 'processo glenoideo' non esiste (la fossa glenoidea è sull'osso temporale).",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.20"
+  },
+  {
+    "id": "carnivori-generale-017",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Perché nei Carnivori la cresta sagittale è marcata, a differenza di erbivori e onnivori?",
+    "suggestion": "Questa cresta mediana fornisce superficie a un muscolo fondamentale per la potenza del morso.",
+    "options": [
+      "Per ampliare la superficie di inserzione dei muscoli temporali, che generano una forte chiusura della mandibola",
+      "Per proteggere i turbinati nasali dagli urti",
+      "Per dare attacco ai muscoli masseteri sull'arco zigomatico",
+      "Per aumentare l'estensione dei movimenti laterali della mandibola"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cresta sagittale, sulla linea mediana del cranio, offre un'ampia superficie di inserzione ai muscoli temporali, fondamentali per una forte chiusura della mandibola; è marcata nei carnivori e assente o appena accennata in erbivori e onnivori. I masseteri si inseriscono invece sull'arco zigomatico, e la cresta non riguarda turbinati né movimenti laterali (anzi i carnivori li hanno limitati).",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.24"
+  },
+  {
+    "id": "carnivori-generale-018",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Confrontando regione temporale e fossa masseterina, quale configurazione cranica è tipica dei Carnivori?",
+    "suggestion": "Il carnivoro privilegia il serrare il morso, non la macinazione energica e prolungata.",
+    "options": [
+      "Fossa masseterina ampia e regione temporale ridotta",
+      "Regione temporale e fossa masseterina di dimensioni comparabili",
+      "Regione temporale ampia e fossa masseterina ridotta",
+      "Entrambe assenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cranio dei carnivori ha una regione temporale ampia (per il muscolo temporale, che serra il morso) e una fossa masseterina ridotta. Gli erbivori presentano una fossa masseterina ampia (masticazione energica); gli onnivori hanno le due regioni di dimensioni comparabili.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.22"
+  },
+  {
+    "id": "carnivori-generale-019",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Perché nei Carnivori le cavità orbitali sono poste anteriormente, mentre negli erbivori sono laterali?",
+    "suggestion": "La posizione degli occhi determina se i due campi visivi si sovrappongono o no; pensa a cosa serve a chi caccia.",
+    "options": [
+      "Per ridurre il peso del cranio nel predatore",
+      "Perché le orbite frontali permettono una visione binoculare con buona percezione della profondità, utile nella caccia",
+      "Perché le orbite frontali ampliano il campo visivo periferico",
+      "Per allontanare gli occhi dai denti ferini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le orbite frontali dei carnivori comportano sovrapposizione dei campi visivi dei due occhi e quindi visione binoculare (stereoscopica), che ottimizza la percezione della profondità ed è utile per individuare e predare le prede. Le orbite laterali degli erbivori danno visione monoculare con ampio campo periferico, utile alla preda per controllare l'ambiente; le orbite frontali non servono ad alleggerire il cranio né ad ampliare la visione periferica.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.29"
+  },
+  {
+    "id": "carnivori-generale-020",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Su quale fenomeno ottico, derivante dalla leggera diversità tra le due immagini retiniche, si basa la percezione della profondità (stereopsi)?",
+    "suggestion": "Ogni occhio vede lo stesso oggetto con un'angolazione leggermente diversa.",
+    "options": [
+      "La rifrazione",
+      "La diffrazione",
+      "La parallasse",
+      "La fluorescenza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le due immagini retiniche non sono identiche perché ogni occhio vede lo stesso oggetto con un'angolazione leggermente diversa: si genera così il fenomeno della parallasse, alla base della percezione della profondità o stereopsi. Rifrazione, diffrazione e fluorescenza sono fenomeni ottici non pertinenti a questo meccanismo.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.30"
+  },
+  {
+    "id": "carnivori-generale-021",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale caratteristica dello stomaco dei Carnivori consente loro lunghi periodi di tempo tra un pasto e l'altro?",
+    "suggestion": "Pensa a un organo capace di accogliere grandi quantità di cibo in una sola volta.",
+    "options": [
+      "Uno stomaco a più camere fermentative",
+      "Un cieco molto largo usato come camera di fermentazione",
+      "Un intestino particolarmente lungo",
+      "Uno stomaco largo ed espandibile"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lo stomaco dei carnivori è largo ed espandibile, il che consente di ingerire grandi quantità di cibo in un solo pasto e di sostenere lunghi intervalli tra i pasti. Lo stomaco pluricamerale e il cieco fermentativo largo, così come l'intestino lungo, sono adattamenti degli erbivori per la digestione del materiale fibroso.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.33"
+  },
+  {
+    "id": "carnivori-generale-022",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Qual è la differenza nell'appoggio del piede tra un carnivoro plantigrado e uno digitigrado?",
+    "suggestion": "Una modalità usa tutta la pianta del piede, l'altra solo le dita.",
+    "options": [
+      "Il plantigrado appoggia solo le falangi, il digitigrado tutta la pianta",
+      "Il plantigrado appoggia metatarsi e falangi (tutta la pianta), il digitigrado solo le falangi (le dita)",
+      "Entrambi appoggiano solo la punta degli artigli",
+      "Il digitigrado cammina sui metatarsi, il plantigrado sui carpi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il plantigrado (es. urside) appoggia metatarsi e falangi, cioè tutta la pianta del piede; il digitigrado (es. canide) appoggia solo le falangi, cioè le dita. La prima opzione inverte le definizioni e le altre non corrispondono.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.39"
+  },
+  {
+    "id": "carnivori-generale-023",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Durante la caccia, su quale senso si affidano soprattutto i canidi, a differenza dei felidi?",
+    "suggestion": "È il senso che permette di seguire le tracce a distanza, non quello visivo.",
+    "options": [
+      "Sull'olfatto, particolarmente acuto",
+      "Sulla vista",
+      "Sul tatto delle vibrisse",
+      "Sull'ecolocalizzazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "I canidi, pur avendo sensi molto sviluppati, durante la caccia si affidano soprattutto a un olfatto particolarmente acuto. La vista (con l'udito) è invece il senso primario dei felidi in caccia; il tatto delle vibrisse e l'ecolocalizzazione non sono i sensi dominanti dei canidi predatori.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.40"
+  },
+  {
+    "id": "carnivori-generale-024",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale famiglia di carnivori è caratterizzata da artigli lunghi e affilati completamente retrattili (con la sola eccezione del ghepardo) e da andatura digitigrada?",
+    "suggestion": "Pensa ai predatori dal muso corto e cranio tondeggiante che affilano gli artigli e in caccia si affidano soprattutto a vista e udito.",
+    "options": [
+      "I Canidae",
+      "Gli Ursidae",
+      "I Felidae",
+      "I Mustelidae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sono i felidi ad avere artigli lunghi, affilati e completamente retrattili (eccetto il ghepardo), andatura digitigrada, cranio tondeggiante, muso corto e caccia basata su vista e udito. I canidi hanno artigli non affilati e si affidano all'olfatto; gli ursidi sono plantigradi; i mustelidi non corrispondono a questa descrizione.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.41"
+  },
+  {
+    "id": "carnivori-generale-025",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Nei Mammiferi, come canidi e felidi, in quale regione dell'artiglio avviene prevalentemente la crescita?",
+    "suggestion": "Diversamente da uccelli e coccodrilli, la crescita non interessa tutto il letto ungueale ma una zona ben precisa.",
+    "options": [
+      "Per cheratinizzazione diffusa di tutto il letto ungueale",
+      "A livello della regione prossimale (muro o banda coronaria), determinando soprattutto un allungamento",
+      "Solo sulla punta libera dell'artiglio",
+      "Esclusivamente sulla suola (subunghia)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei Mammiferi (oltre che in Rincocefali e Squamati) la crescita dell'artiglio avviene prevalentemente nella regione prossimale, il muro o banda coronaria, e produce soprattutto un allungamento. La cheratinizzazione diffusa di gran parte del letto ungueale, con aumento di lunghezza e spessore, è invece tipica di Cheloni, Coccodrilli e Uccelli; punta e suola non sono le sedi germinative.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.36"
+  },
+  {
+    "id": "carnivori-generale-026",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Riguardo agli artigli, quale affermazione è corretta confrontando canidi e felidi?",
+    "suggestion": "Attenzione a non confondere le due famiglie: una ha artigli da corsa, l'altra da presa; verifica con cura ogni dettaglio.",
+    "options": [
+      "I canidi hanno artigli affilati e retrattili, i felidi artigli non affilati e fissi",
+      "Sia canidi sia felidi hanno artigli completamente retrattili",
+      "I canidi hanno artigli non affilati, i felidi artigli lunghi e affilati, completamente retrattili tranne nel ghepardo",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "I canidi hanno artigli non affilati; i felidi hanno artigli lunghi e affilati, completamente retrattili con la sola eccezione del ghepardo. La prima opzione inverte le due famiglie, la seconda è errata perché i canidi non hanno artigli retrattili, e quindi 'Nessuna delle precedenti' non si applica perché un'opzione corretta esiste.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.41"
+  },
+  {
+    "id": "carnivori-generale-027",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Quale di queste affermazioni sulla superficie dei cuscinetti digitali di canidi e felidi è corretta?",
+    "suggestion": "Una superficie è liscia, l'altra più rugosa: attenzione a non scambiare le due famiglie.",
+    "options": [
+      "Nei felidi la superficie è rugosa per papille coniche, nei canidi è liscia",
+      "In entrambi la superficie è ricoperta di peli",
+      "Nei felidi la superficie è liscia, nei canidi è più rugosa per la presenza di papille coniche cheratinizzate",
+      "Nessuna delle precedenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "I cuscinetti digitali di canidi e felidi sono rivestiti da epidermide glabra; la superficie è liscia nei felidi e più rugosa nei canidi per la presenza di papille coniche cheratinizzate. La prima opzione inverte le famiglie, l'epidermide è priva di peli (non pelosa) e quindi 'Nessuna delle precedenti' non si applica perché l'opzione corretta è presente.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.38"
+  }
+]
