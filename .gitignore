@@ -1,0 +1,12 @@
+# Source PDFs — kept local, not published (copyright on university material).
+# The docs/<topic>/ folder structure is preserved via .gitkeep so the
+# "drop a PDF here" workflow still works after cloning.
+*.pdf
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
+
+# macOS / Windows filesystem cruft
+.DS_Store
+Thumbs.db
+docs/
