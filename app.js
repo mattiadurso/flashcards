@@ -199,6 +199,7 @@ const els = {
   topicsSummary: document.getElementById('topics-summary'),
   difficultySelect: document.getElementById('difficulty-select'),
   difficultyField: document.getElementById('difficulty-field'),
+  title: document.getElementById('title'),
   setupScreen: document.getElementById('setup-screen'),
   startBtn: document.getElementById('start-btn'),
   newSessionBtn: document.getElementById('new-session-btn'),
@@ -777,6 +778,12 @@ function bindEvents() {
     if (!els.startBtn.disabled) startSession();
   });
   els.newSessionBtn.addEventListener('click', () => showSetupScreen());
+
+  // Clicking the title returns to the initial setup screen, like a logo/home link.
+  els.title.addEventListener('click', () => showSetupScreen());
+  els.title.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); showSetupScreen(); }
+  });
 
   els.resetBtn.addEventListener('click', () => {
     if (!confirm('Reset "già viste"?\n\nLe domande segnalate come errate restano nascoste — usa "Ripristina segnalate" per riaverle.')) return;

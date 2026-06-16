@@ -6,6 +6,8 @@ Long story short: drop your PDFs into `docs/`, generate question files from them
 
 No framework, no build step, no npm, no internet — just vanilla HTML + CSS + JavaScript. Everything runs locally from the folder on disk.
 
+**Live:** <https://mattiadurso.com/flashcards>
+
 <!-- Drop a screenshot/GIF here once you have one (e.g. images/screenshot.png) -->
 <!-- ![Setup screen and a Flashcards](images/screenshot.png) -->
 
@@ -132,6 +134,7 @@ See **`QUESTION_FORMAT.md`** for the exact JSON schema, writing rules, a worked 
 - **h** — toggle the hint (*Suggerimento*) when the question has one
 - **Esc** — close the image lightbox or the topics menu
 - **‹ Nuova sessione** (header, during a session) — back to the setup screen
+- **Title** (top-left, *✨ Giud's Flashcards ✨*) — click it to return to the initial setup screen
 - **Reset progress** (header) — clear the "already seen" set
 - **Ripristina segnalate** (header, when present) — un-hide flagged questions
 

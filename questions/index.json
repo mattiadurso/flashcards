@@ -140,7 +140,7 @@
           "species": "Cinghiale — parte II",
           "file": "Anatomia_e_Biologia/cinghiale-parte2.json",
           "source": "docs/Anatomia_e_Biologia/13 II parte CINGHIALE.pdf",
-          "count": 23
+          "count": 36
         }
       ]
     },
@@ -158,7 +158,7 @@
           "species": "Fagiano (Phasianus colchicus)",
           "file": "Anatomia_e_Biologia/fagiano.json",
           "source": "docs/Anatomia_e_Biologia/25 il fagiano.pdf",
-          "count": 19
+          "count": 27
         },
         {
           "species": "Altre specie di uccelli",
@@ -176,13 +176,13 @@
           "species": "Rettili — parte generale",
           "file": "Anatomia_e_Biologia/rettili-generale.json",
           "source": "docs/Anatomia_e_Biologia/27 RETTILI PARTE GENERALE.pdf",
-          "count": 21
+          "count": 35
         },
         {
           "species": "Rettili — specie",
           "file": "Anatomia_e_Biologia/rettili-specie.json",
           "source": "docs/Anatomia_e_Biologia/28 RETTILI specie.pdf",
-          "count": 24
+          "count": 39
         }
       ]
     }
