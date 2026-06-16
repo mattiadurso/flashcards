@@ -1,0 +1,322 @@
+[
+    {
+        "id": "uccelli-altre-001",
+        "topic": "uccelli",
+        "species": "Pernice rossa (Alectoris rufa)",
+        "question": "Quale è il colore caratteristico della pernice rossa?",
+        "options": [
+            "Grigio-azzurro",
+            "Rosso-marrone con striature nere",
+            "Verde scuro",
+            "Bianco e nero"
+        ],
+        "correctIndex": 1,
+        "explanation": "La pernice rossa ha un plumaggio grigio-azzurro sulla schiena con ventre rosso-marrone e caratteristiche striature nere.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-002",
+        "topic": "uccelli",
+        "species": "Quaglia (Coturnix coturnix)",
+        "question": "Quale è il peso medio di una quaglia?",
+        "options": [
+            "50-80 g",
+            "100-150 g",
+            "200-250 g",
+            "300-400 g"
+        ],
+        "correctIndex": 1,
+        "explanation": "La quaglia pesa mediamente 100-150 g, rendendola uno degli uccelli da caccia più piccoli.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-003",
+        "topic": "uccelli",
+        "species": "Quaglia (Coturnix coturnix)",
+        "question": "Durante quale stagione la quaglia compie la migrazione verso l'Italia?",
+        "options": [
+            "Gennaio",
+            "Marzo-aprile",
+            "Luglio-agosto",
+            "Ottobre-novembre"
+        ],
+        "correctIndex": 1,
+        "explanation": "La quaglia arriva in Italia principalmente tra marzo e aprile, provenendo dall'Africa per la riproduzione.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-004",
+        "topic": "uccelli",
+        "species": "Starna (Perdix perdix)",
+        "question": "Come si riconosce la starna dal fagiano?",
+        "options": [
+            "Non ci sono differenze",
+            "La starna è più piccola e ha coda corta",
+            "La starna vola meglio",
+            "La starna è sempre in gruppi"
+        ],
+        "correctIndex": 1,
+        "explanation": "La starna è significativamente più piccola del fagiano, con coda corta e quadrata, e un colore generale marrone-grigio.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-005",
+        "topic": "uccelli",
+        "species": "Starna (Perdix perdix)",
+        "question": "Quale è il comportamento sociale della starna?",
+        "options": [
+            "Solitaria",
+            "In coppie isolate",
+            "In gruppi familiari di 8-12 individui",
+            "In stormi misti"
+        ],
+        "correctIndex": 2,
+        "explanation": "La starna vive in gruppi familiari compatti di 8-12 individui, che rimangono uniti anche durante l'inverno.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-006",
+        "topic": "uccelli",
+        "species": "Francolino di monte (Tetrao mlokosiewiczi)",
+        "question": "In quale habitat vive il francolino di monte?",
+        "options": [
+            "Pianure agricole",
+            "Foreste di conifere e brughiere d'altitudine",
+            "Zone costiere",
+            "Aree urbane"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il francolino di monte vive nelle foreste di conifere e nelle brughiere d'altitudine, in montagna.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-007",
+        "topic": "uccelli",
+        "species": "Gallo forcello (Tetrao tetrix)",
+        "question": "Quale caratteristica fisica distingue il maschio di gallo forcello?",
+        "options": [
+            "Plumaggio grigio",
+            "Coda a forma di lira biforcuta",
+            "Becco giallo",
+            "Corpo piccolo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il maschio di gallo forcello ha una caratteristica coda nera biforcuta a forma di lira, molto evidente in volo.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-008",
+        "topic": "uccelli",
+        "species": "Gallo cedrone (Tetrao urogallus)",
+        "question": "Quale è il peso massimo di un gallo cedrone maschio?",
+        "options": [
+            "1 kg",
+            "2 kg",
+            "4-5 kg",
+            "7-8 kg"
+        ],
+        "correctIndex": 2,
+        "explanation": "Un gallo cedrone maschio può pesare 4-5 kg, rendendolo uno dei più grandi uccelli galliformi europei.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-009",
+        "topic": "uccelli",
+        "species": "Beccaccia (Scolopax rusticola)",
+        "question": "Durante quale stagione la beccaccia compie la migrazione verso l'Italia?",
+        "options": [
+            "Marzo-aprile",
+            "Maggio-giugno",
+            "Agosto-settembre",
+            "Ottobre-novembre"
+        ],
+        "correctIndex": 3,
+        "explanation": "La beccaccia arriva in Italia principalmente tra ottobre e novembre, provenendo dai paesi baltici e scandinavi.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-010",
+        "topic": "uccelli",
+        "species": "Beccaccia (Scolopax rusticola)",
+        "question": "Quale è l'adattamento anatomico più evidente della beccaccia per la ricerca del cibo?",
+        "options": [
+            "Ali lunghe",
+            "Becco lungo e flessibile",
+            "Zampe corte",
+            "Occhi posteriori"
+        ],
+        "correctIndex": 1,
+        "explanation": "La beccaccia ha un becco lungo e leggermente ricurvo, molto sensibile, che utilizza per sondar il terreno e ricercare invertebrati.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-011",
+        "topic": "uccelli",
+        "species": "Frullino (Lymnocryptes minimus)",
+        "question": "Come differisce il frullino dalla beccaccia?",
+        "options": [
+            "Colore",
+            "Dimensioni molto minori",
+            "Habitat",
+            "Alimentazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il frullino è molto più piccolo della beccaccia, pesando solo 25-50 g rispetto ai 300-400 g della beccaccia.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-012",
+        "topic": "uccelli",
+        "species": "Folaga (Fulica atra)",
+        "question": "In quale ambiente vive la folaga?",
+        "options": [
+            "Montagne rocciose",
+            "Laghi, stagni e zone umide",
+            "Foreste fitte",
+            "Deserti"
+        ],
+        "correctIndex": 1,
+        "explanation": "La folaga vive su laghi, stagni, paludi e altre zone umide dove può nuotare e immergersi.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-013",
+        "topic": "uccelli",
+        "species": "Oca selvatica (Anser anser)",
+        "question": "Quale è il colore del becco dell'oca selvatica?",
+        "options": [
+            "Nero",
+            "Giallo-arancio",
+            "Rosso",
+            "Grigio"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'oca selvatica ha un becco giallo-arancio con margini neri, caratteristica distintiva della specie.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-014",
+        "topic": "uccelli",
+        "species": "Alzavola (Anas crecca)",
+        "question": "Quale è la dimensione relativa dell'alzavola rispetto ad altre anatre?",
+        "options": [
+            "Più grande",
+            "La più piccola fra le anatre europee",
+            "Media",
+            "Dipende dal sesso"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'alzavola è la più piccola anatra da caccia europea, pesando solo 250-350 g.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-015",
+        "topic": "uccelli",
+        "species": "Codone (Anas acuta)",
+        "question": "Quale caratteristica distingue il maschio di codone dalle altre anatre?",
+        "options": [
+            "Corpo grigio e collo bianco",
+            "Coda lunga e appuntita",
+            "Becco rosso",
+            "Zampe gialle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il maschio di codone ha una caratteristica coda lunga e appuntita, da cui prende il nome, e collo bianco.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-016",
+        "topic": "uccelli",
+        "species": "Mestolone (Anas clypeata)",
+        "question": "Quale adattamento anatomico ha il becco del mestolone?",
+        "options": [
+            "Lungo e sottile",
+            "Largo e spatolare",
+            "Corto e robusto",
+            "Ricurvo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il mestolone ha un becco caratteristicamente largo e spatolare, utilizzato per filtrare l'acqua e i piccoli organismi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-017",
+        "topic": "uccelli",
+        "species": "Moriglione (Aythya fuligula)",
+        "question": "Quale caratteristica distingue il maschio di moriglione?",
+        "options": [
+            "Colore marrone",
+            "Corpo nero con testa verde-nera e ventre bianco",
+            "Tutto bianco",
+            "Becco rosso"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il maschio di moriglione ha un corpo nero brillante, testa verde-nera con riflessi iridescenti, e ventre bianco.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-018",
+        "topic": "uccelli",
+        "species": "Cormorano (Phalacrocorax carbo)",
+        "question": "Quale adattamento del cormorano lo rende un nuotatore subacqueo efficiente?",
+        "options": [
+            "Zampe palmate",
+            "Corpo idrodinamico e ossa dense",
+            "Becco lungo",
+            "Piume impermeabili"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il cormorano ha ossa meno pneumatiche (più dense) e un corpo idrodinamico, che lo aiutano a immergersi profondamente.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-019",
+        "topic": "uccelli",
+        "species": "Svasso maggiore (Podiceps cristatus)",
+        "question": "Quale è la principale caratteristica riproduttiva dello svasso maggiore maschio?",
+        "options": [
+            "Nido costruito in albero",
+            "Cresta erectile nera e arancione sulla testa",
+            "Canto melodioso",
+            "Migrante notturno"
+        ],
+        "correctIndex": 1,
+        "explanation": "Durante la stagione riproduttiva, il maschio di svasso maggiore sviluppa una caratteristica cresta erectile nera e arancione.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-020",
+        "topic": "uccelli",
+        "species": "Germano reale (Anas platyrhynchos)",
+        "question": "Quale colore ha la testa del germano reale maschio?",
+        "options": [
+            "Grigia",
+            "Verde scuro iridescente",
+            "Marrone",
+            "Nera"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il germano reale maschio ha una testa verde scuro con riflessi iridescenti, inconfondibile.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    }
+]

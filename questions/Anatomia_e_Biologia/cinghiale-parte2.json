@@ -1,0 +1,578 @@
+[
+    {
+        "id": "cinghiale-p2-comportamento-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Durante quale stagione il cinghiale è più attivo nel cercare cibo nel terreno?",
+        "options": [
+            "Primavera",
+            "Autunno",
+            "Estate",
+            "Inverno"
+        ],
+        "correctIndex": 1,
+        "explanation": "In autunno, il cinghiale è più attivo nel cercare ghiande e altri frutti caduti, accumulando riserve energetiche per l'inverno.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-comportamento-002",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quali sono i principali predatori naturali dei maialini appena nati?",
+        "options": [
+            "Volpi e linci",
+            "Lupi e linci",
+            "Orsi e tassi",
+            "Aquile e leoni"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lupi e linci sono i principali predatori dei giovani cinghiali. Le linci in particolare sono efficaci nella predazione dei maialini.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-riproduzione-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quanti maialini partorisce mediamente una scrofa in una stagione riproduttiva?",
+        "options": [
+            "3-5",
+            "6-12",
+            "1-2",
+            "15-20"
+        ],
+        "correctIndex": 1,
+        "explanation": "Una scrofa partorisce generalmente 6-12 maialini per cucciolata, con una media di 8-9 piccoli.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-riproduzione-002",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "A quanti mesi i maialini vengono allattati dalla madre?",
+        "options": [
+            "1-2 mesi",
+            "3-4 mesi",
+            "6-8 mesi",
+            "10-12 mesi"
+        ],
+        "correctIndex": 1,
+        "explanation": "I maialini vengono allattati per 3-4 mesi, dopodiché iniziano a cercare cibo autonomamente.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-comportamento-003",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Come si chiama il gruppo di cinghiali che vivono insieme?",
+        "options": [
+            "Branchi",
+            "Branche",
+            "Sciami",
+            "Stormi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Un gruppo di cinghiali è chiamato 'branco', soprattutto quando si muove insieme in ricerca di cibo o acqua.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-comportamento-004",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Perché il cinghiale utilizza il fango per ricoprire il suo corpo?",
+        "options": [
+            "Per giocare",
+            "Per proteggere la pelle e controllare la temperatura corporea",
+            "Per marcare il territorio",
+            "Per attirare i compagni"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il fango protegge la pelle delicata del cinghiale dall'irradiazione solare, dai parassiti e aiuta a regolare la temperatura corporea.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-alimentazione-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale radice selvatica è particolarmente ricercata dal cinghiale come alimento?",
+        "options": [
+            "Ortica",
+            "Castagna",
+            "Tartufo",
+            "Muschio"
+        ],
+        "correctIndex": 2,
+        "explanation": "I cinghiali scavano attivamente il terreno per cercare tartufi, che sono una fonte importante di proteine e nutrienti.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-alimentazione-002",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "In che percentuale le ghiande costituiscono la dieta del cinghiale in autunno?",
+        "options": [
+            "10-20%",
+            "30-40%",
+            "50-70%",
+            "80-90%"
+        ],
+        "correctIndex": 2,
+        "explanation": "In autunno, quando sono disponibili, le ghiande possono rappresentare il 50-70% della dieta del cinghiale.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-denti-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale aspetto dei denti del cinghiale cambia significativamente con l'invecchiamento?",
+        "options": [
+            "Il colore",
+            "L'usura",
+            "Il numero",
+            "La forma"
+        ],
+        "correctIndex": 1,
+        "explanation": "Con l'età, i denti del cinghiale subiscono un'usura marcata, soprattutto i molari e i premolari utilizzati per masticare.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-dentatura-002",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "A quale età il cinghiale ha completato la sua dentatura permanente?",
+        "options": [
+            "12-18 mesi",
+            "24-30 mesi",
+            "3-4 anni",
+            "5-6 anni"
+        ],
+        "correctIndex": 1,
+        "explanation": "La dentatura permanente del cinghiale si completa intorno ai 24-30 mesi di età.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-territorio-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Qual è la dimensione tipica del territorio utilizzato da un branco di cinghiali?",
+        "options": [
+            "0,5-1 km²",
+            "2-5 km²",
+            "10-20 km²",
+            "50-100 km²"
+        ],
+        "correctIndex": 1,
+        "explanation": "Un branco di cinghiali utilizza tipicamente un territorio di 2-5 km², che varia in base alla disponibilità di cibo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-stress-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Come reagisce un cinghiale stressato o spaventato?",
+        "options": [
+            "Si immobilizza",
+            "Emette suoni acuti e carica verso la minaccia",
+            "Si nasconde completamente",
+            "Si arrende"
+        ],
+        "correctIndex": 1,
+        "explanation": "Un cinghiale spaventato emette suoni acuti caratteristici (grugniti forti) e può caricare verso la minaccia percepita, comportamento difensivo naturale.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-vista-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale senso è relativamente debole nel cinghiale rispetto agli altri?",
+        "options": [
+            "L'olfatto",
+            "L'udito",
+            "La vista",
+            "Il tatto"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sebbene abbia una buona visione notturna, la vista del cinghiale è generalmente considerata il suo senso più debole rispetto all'olfatto e all'udito eccellenti.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-mantello-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Perché il mantello del cinghiale adulto è più duro e ispido rispetto a quello dei giovani?",
+        "options": [
+            "Maggior contenuto di acqua",
+            "Maggior densità di peli e spessore della pelle",
+            "Minore densità di peli",
+            "Diversa pigmentazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il mantello adulto ha una maggior densità di peli e una pelle più spessa, che fornisce una migliore protezione e isolamento termico.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-mantello-002",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "In quale periodo dell'anno il cinghiale cambia il suo mantello?",
+        "options": [
+            "Primavera",
+            "Autunno",
+            "Estate",
+            "Inverno"
+        ],
+        "correctIndex": 0,
+        "explanation": "Il cinghiale cambia il suo mantello principalmente in primavera, passando dal mantello invernale più denso a uno più leggero.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-accoppiamento-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Durante quale stagione avviene principalmente l'accoppiamento nel cinghiale?",
+        "options": [
+            "Primavera",
+            "Estate",
+            "Autunno",
+            "Inverno"
+        ],
+        "correctIndex": 2,
+        "explanation": "L'accoppiamento del cinghiale avviene principalmente in autunno (settembre-novembre), con i maialini nati in primavera.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-gestazione-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Qual è il periodo di gestazione della scrofa?",
+        "options": [
+            "2-3 mesi",
+            "3-4 mesi",
+            "5-6 mesi",
+            "7-8 mesi"
+        ],
+        "correctIndex": 0,
+        "explanation": "Il periodo di gestazione della scrofa è di circa 114-120 giorni (3-4 mesi).",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-invecchiamento-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale caratteristica fisica indica un cinghiale anziano?",
+        "options": [
+            "Colore più chiaro",
+            "Mantello grigio e arruffato, movimento rallentato",
+            "Corna più lunghe",
+            "Zanne più piccole"
+        ],
+        "correctIndex": 1,
+        "explanation": "Un cinghiale anziano presenta un mantello grigio e arruffato, movimento più lento e zanne usurate dal tempo.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-malattie-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale malattia è molto diffusa nei cinghiali europei?",
+        "options": [
+            "Afta epizootica",
+            "Peste suina classica",
+            "Antrace",
+            "Tubercolosi"
+        ],
+        "correctIndex": 1,
+        "explanation": "La Peste Suina Classica (PSC) è una malattia virale molto diffusa e grave nei cinghiali europei.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-locomozione-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale è la velocità massima che può raggiungere un cinghiale in fuga?",
+        "options": [
+            "15-20 km/h",
+            "30-40 km/h",
+            "50-60 km/h",
+            "70-80 km/h"
+        ],
+        "correctIndex": 1,
+        "explanation": "Un cinghiale può raggiungere una velocità di 30-40 km/h quando è in fuga, nonostante l'aspetto massiccio.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-zampe-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Perché le zampe del cinghiale sono relativamente corte rispetto al corpo?",
+        "options": [
+            "Adattamento al nuoto",
+            "Adattamento per scavare nel terreno",
+            "Riduzione del peso",
+            "Aumento della forza"
+        ],
+        "correctIndex": 1,
+        "explanation": "Le zampe corte e robuste del cinghiale sono un adattamento evolutivo per scavare efficientemente nel terreno in cerca di cibo.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-habitat-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "In quali ambienti il cinghiale non è naturalmente presente in Italia?",
+        "options": [
+            "Foreste montane",
+            "Aree urbane e coltivate",
+            "Zone costiere e desertiche",
+            "Pascoli alpini"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il cinghiale è assente naturalmente dalle zone costiere sabbiose, dalle aree desertiche e dalle zone urbanizzate densamente.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-diporto-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale comportamento è tipico del cinghiale durante le ore notturne?",
+        "options": [
+            "Riposo continuo",
+            "Alimentazione e movimento",
+            "Ibernazione",
+            "Socializzazione solo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il cinghiale è principalmente notturno e crepuscolare: durante la notte è più attivo nell'alimentarsi e nel muoversi.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-sensi-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Perché l'olfatto del cinghiale è particolarmente sviluppato?",
+        "options": [
+            "Per comunicare con i predatori",
+            "Per rilevare cibo nel suolo e comunicare con altri cinghiali via feromoni",
+            "Per orientarsi di notte",
+            "Per scegliere il rifugio"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'olfatto eccellente permette al cinghiale di scavare con precisione alla ricerca di cibo nel terreno e di comunicare con i conspecifici tramite feromoni.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-denti-zanne-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale è la funzione biologica delle zanne inferiori del cinghiale maschio?",
+        "options": [
+            "Scavo nel terreno",
+            "Combattimento con altri maschi e difesa",
+            "Masticazione del cibo",
+            "Costruzione di buche"
+        ],
+        "correctIndex": 1,
+        "explanation": "Le zanne inferiori sono armi difensive utilizzate principalmente nel combattimento territoriale con altri maschi durante la stagione riproduttiva.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-grasso-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Perché il cinghiale accumula uno spesso strato di grasso in autunno?",
+        "options": [
+            "Per galleggiare meglio",
+            "Per isolare dal freddo e avere riserve energetiche durante l'inverno",
+            "Per sembrare più grande",
+            "Per proteggere gli organi dai predatori"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'accumulo di grasso è un adattamento per sopravvivere ai mesi invernali quando il cibo è scarso e le temperature basse.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-spalline-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale vantaggio evolutivo hanno le 'spalline' (ispessimento del tessuto connettivo sui fianchi) nel maschio adulto?",
+        "options": [
+            "Miglior nuoto",
+            "Protezione dagli attacchi durante i combattimenti territoriali",
+            "Aumento della velocità",
+            "Carica adiposa"
+        ],
+        "correctIndex": 1,
+        "explanation": "Le spalline proteggono i fianchi e gli organi vitali durante gli scontri fra maschi rivali, riducendo le ferite mortali.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-dimorfismo-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Perché i maschi di cinghiale sono generalmente più grandi delle femmine?",
+        "options": [
+            "Coincidenza evolutiva",
+            "Necessità di forza per i combattimenti territoriali e il controllo del gruppo",
+            "Migliore fuga dai predatori",
+            "Adattamento climatico"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il dimorfismo sessuale (maschi più grandi) è un adattamento dovuto alla selezione sessuale: i maschi combattono per l'accesso alle femmine.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-nido-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale è il significato biologico della costruzione di una 'cassa' (nido-rifugio) da parte della scrofa in prossimità del parto?",
+        "options": [
+            "Gioco",
+            "Protezione dei neonati da predatori e regolazione termica",
+            "Marcatura del territorio",
+            "Preparazione per l'ibernazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "La cassa protegge i piccoli vulnerabili da predatori, fornisce isolamento termico e consente alla madre di allattare in sicurezza.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-istinto-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Come si manifestano i comportamenti materni di protezione nella scrofa durante l'allattamento?",
+        "options": [
+            "Isolamento dal branco",
+            "Aggressività verso chiunque si avvicini ai piccoli",
+            "Diminuzione dell'alimentazione",
+            "Migrazione in zone diverse"
+        ],
+        "correctIndex": 1,
+        "explanation": "La scrofa diventa significativamente più aggressiva durante l'allattamento per proteggere i maialini da eventuali minacce, anche all'interno del branco.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-svezzamento-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale vantaggio ha il rapido svezzamento dei maialini nel cinghiale?",
+        "options": [
+            "Riduce l'impegno materno",
+            "Permette alla madre di riprodursi nuovamente nello stesso anno o l'anno successivo",
+            "Aumenta la sopravvivenza dei piccoli",
+            "Nessuno"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lo svezzamento veloce riduce il costo riproduttivo sulla madre, aumentando la probabilità di successive gravidanze e il successo riproduttivo complessivo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-fossore-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale adattamento anatomico del rostro (muso) rende il cinghiale un efficace scavatore?",
+        "options": [
+            "Lunghezza eccessiva",
+            "Rinforzo osseo e muscolare con cartilagine semilunare",
+            "Ridotta sensibilità",
+            "Forma affilata"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il rostro è rinforzato da una cartilagine semilunare che agisce come struttura rigida durante lo scavo, permettendo al cinghiale di penetrare terreni compatti.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-metabolismo-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Come influisce la disponibilità di cibo sulla plasticità metabolica del cinghiale?",
+        "options": [
+            "Non ha effetto",
+            "Il metabolismo rimane costante",
+            "Variazioni rapide di peso corporeo e depositi energetici a seconda della stagione",
+            "Il cinghiale iberna come gli orsi"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il cinghiale adatta il suo metabolismo e accumula o mobilizza riserve energetiche in base alla disponibilità stagionale di cibo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-socialita-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale è l'organizzazione gerarchica nel branco del cinghiale?",
+        "options": [
+            "Completa assenza di gerarchia",
+            "Matriarcale: le femmine adulte dominano i maschi",
+            "Lineare con maschi dominanti",
+            "Cambia giornalmente"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il branco è matriarcale: la femmina anziana dominante guida il gruppo, specialmente durante l'allattamento e la ricerca di cibo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-ecologia-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale impatto ecologico ha l'attività di scavo del cinghiale sul suolo e sulla vegetazione?",
+        "options": [
+            "Nessun impatto",
+            "Disturbo del suolo, esposizione di semi dormienti, frammentazione della vegetazione",
+            "Arricchimento del suolo",
+            "Compattamento benefico"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lo scavo intenso del cinghiale modifica significativamente la struttura del suolo, può favorire invasione di specie esotiche e danneggiare habitat sensibili.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    },
+    {
+        "id": "cinghiale-p2-dispersione-001",
+        "topic": "anatomia",
+        "species": "Sus scrofa",
+        "question": "Quale è l'importanza della dispersione giovanile nei cinghiali?",
+        "options": [
+            "Cercano migliore cibo",
+            "Evitano l'accoppiamento consanguineo e colonizzano nuovi habitat",
+            "Fuggono dai predatori",
+            "Comportamento casuale"
+        ],
+        "correctIndex": 1,
+        "explanation": "I giovani maschi lasciano il branco materno prima della maturità sessuale, riducendo l'incesto e permettendo la colonizzazione di nuove aree.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 13 II parte CINGHIALE.pdf"
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "id": "rettili-gen-termoregolazione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il principale meccanismo di termoregolazione nei rettili?",
+        "options": [
+            "Metabolismo interno",
+            "Comportamento (esposizione al sole)",
+            "Ibernazione",
+            "Circolazione sanguigna"
+        ],
+        "correctIndex": 1,
+        "explanation": "I rettili sono ectotermi e regolano la loro temperatura principalmente attraverso il comportamento, esponendosi al sole o cercando ombra.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-pelle-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la composizione principale della pelle dei rettili?",
+        "options": [
+            "Squame cornee",
+            "Peli",
+            "Epidermide spessa",
+            "Ghiandole sebacee"
+        ],
+        "correctIndex": 0,
+        "explanation": "La pelle dei rettili è ricoperta di squame cornee cheratinizzate che forniscono protezione e riducono la perdita d'acqua.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-muta-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la frequenza tipica della muta nei rettili?",
+        "options": [
+            "Ogni 3-6 mesi",
+            "Ogni anno",
+            "Ogni 2-3 anni",
+            "Una sola volta nella vita"
+        ],
+        "correctIndex": 0,
+        "explanation": "I rettili muovono la pelle periodicamente, solitamente ogni 3-6 mesi, più frequentemente durante la crescita.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-occhi-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale caratteristica hanno gli occhi di molti rettili?",
+        "options": [
+            "Pupilla verticale",
+            "Membrana nittitante (terza palpebra)",
+            "Visione monoculare",
+            "Assenza di retina"
+        ],
+        "correctIndex": 1,
+        "explanation": "Molti rettili hanno una membrana nittitante (terza palpebra) che pulisce e protegge l'occhio.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-udito-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Come percepiscono le vibrazioni molti rettili terrestri?",
+        "options": [
+            "Attraverso le orecchie esterne",
+            "Attraverso i timpani",
+            "Attraverso l'osso della mandibola",
+            "Non le percepiscono"
+        ],
+        "correctIndex": 2,
+        "explanation": "Molti rettili terrestri, come le lucertole, percepiscono le vibrazioni attraverso la conduzione ossea via mandibola.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-lingua-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la funzione principale della lingua bifida nei serpenti e lucertole?",
+        "options": [
+            "Masticazione",
+            "Ricezione di stimoli olfattivi",
+            "Comunicazione",
+            "Predazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "La lingua bifida raccoglie particelle chimiche dall'ambiente e le convoglia all'organo vomeronasale (di Jacobson) per l'olfatto.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-cervello-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la principale differenza nel cervello dei rettili rispetto ai mammiferi?",
+        "options": [
+            "Più grande",
+            "Mancanza di corteccia cerebrale",
+            "Più sviluppato",
+            "Identico"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il cervello dei rettili manca della corteccia cerebrale sviluppata, avendo invece una struttura principalmente basata sul tronco cerebrale.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-circolazione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la struttura cardiaca tipica dei rettili?",
+        "options": [
+            "Un ventricolo",
+            "Due ventricoli separati",
+            "Un ventricolo parzialmente diviso",
+            "Assenza di cuore"
+        ],
+        "correctIndex": 2,
+        "explanation": "La maggior parte dei rettili (tranne i coccodrilli) ha un ventricolo parzialmente diviso che consente una circolazione mista.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-uova-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la principale differenza tra le uova di rettili e quelle di anfibi?",
+        "options": [
+            "Dimensione",
+            "Guscio amniotico impermeabile",
+            "Colore",
+            "Numero di cellule"
+        ],
+        "correctIndex": 1,
+        "explanation": "Le uova di rettili hanno un amnios e un guscio impermeabile, permettendo lo sviluppo terrestre senza dipendenza dall'acqua.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-riproduzione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il primo segno di maturità sessuale nei rettili maschi?",
+        "options": [
+            "Aumento di peso",
+            "Sviluppo di femori porosi",
+            "Cambio di colore",
+            "Aumento della dimensione della testa"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nei maschi di molti rettili, i femori sviluppano pori che secernono feromoni quando l'individuo raggiunge la maturità sessuale.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-habitat-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale caratteristica ambientale è critica per la sopravvivenza dei rettili?",
+        "options": [
+            "Alta umidità costante",
+            "Disponibilità di cibo abbondante",
+            "Accesso a superfici per la termoregolazione",
+            "Assenza di predatori"
+        ],
+        "correctIndex": 2,
+        "explanation": "I rettili necessitano di ambienti con diverse zone termiche per regolare la loro temperatura corporea attraverso il comportamento.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-ibernazione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il termine corretto per il letargo invernale dei rettili?",
+        "options": [
+            "Ibernazione",
+            "Brumazione",
+            "Torpore",
+            "Dormienza"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il letargo invernale dei rettili è chiamato 'brumazione', diverso dall'ibernazione dei mammiferi.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-nutrizione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Come influisce la temperatura sulla digestione nei rettili?",
+        "options": [
+            "Non ha effetto",
+            "Aumenta con il calore",
+            "Rallenta drasticamente al freddo",
+            "Entrambe B e C"
+        ],
+        "correctIndex": 3,
+        "explanation": "La digestione nei rettili è strettamente correlata alla temperatura corporea, rallentando significativamente con il freddo.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-metabolismo-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il metabolismo basale dei rettili rispetto ai mammiferi?",
+        "options": [
+            "Simile",
+            "Molto più alto",
+            "Molto più basso",
+            "Nessuna differenza"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il metabolismo basale dei rettili è molto più basso rispetto ai mammiferi della stessa taglia, necessitando di meno cibo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-respirazione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Come respirano i rettili durante la brumazione?",
+        "options": [
+            "Aumentano la frequenza respiratoria",
+            "Riducono drasticamente la respirazione",
+            "Usano la respirazione cutanea",
+            "Entrano in apnea"
+        ],
+        "correctIndex": 1,
+        "explanation": "Durante la brumazione, i rettili riducono drasticamente la loro frequenza respiratoria, quasi cessando la respirazione aerobica.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-comunicazione-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il principale canale di comunicazione nei rettili?",
+        "options": [
+            "Vocalizzazioni",
+            "Comunicazione visiva e chimica",
+            "Vibrazioni sonore",
+            "Calore"
+        ],
+        "correctIndex": 1,
+        "explanation": "I rettili comunicano principalmente attraverso segnali visivi (colori, comportamenti) e chimici (feromoni), raramente con vocalizzazioni.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-difesa-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il primo meccanismo di difesa nella maggior parte dei rettili?",
+        "options": [
+            "Attacco aggressivo",
+            "Fuga",
+            "Autotomia",
+            "Mimetismo"
+        ],
+        "correctIndex": 1,
+        "explanation": "La fuga è il primo meccanismo di difesa nei rettili, preferendo evitare il confronto quando possibile.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-autotomia-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è il vantaggio evolutivo dell'autotomia (perdita della coda) nei rettili?",
+        "options": [
+            "Aumento della velocità",
+            "Distrazione del predatore",
+            "Aumento della capacità riproduttiva",
+            "Miglior mimetismo"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'autotomia permette al rettile di fuggire abbandonando la coda, che continua a muoversi distraendo il predatore.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-mimetismo-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Come cambiano colore alcuni rettili per il mimetismo?",
+        "options": [
+            "Cambiando i pigmenti nelle cellule",
+            "Esfoliando la pelle",
+            "Contraendo i muscoli della pelle",
+            "Modificando la cristallizzazione delle squame"
+        ],
+        "correctIndex": 0,
+        "explanation": "Alcuni rettili, come i camaleonti, cambiavano colore controllando il movimento dei pigmenti nelle cellule della pelle.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-longevita-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Quale è la relazione tra dimensione del rettile e longevità?",
+        "options": [
+            "Nessuna",
+            "Positiva: rettili più grandi vivono più a lungo",
+            "Negativa: rettili più piccoli vivono più a lungo",
+            "Dipende dal sesso"
+        ],
+        "correctIndex": 1,
+        "explanation": "In generale, i rettili più grandi hanno una longevità maggiore rispetto ai rettili piccoli della stessa specie.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-gen-crescita-001",
+        "topic": "rettili",
+        "species": "Rettili — generale",
+        "question": "Come si determina l'età di un rettile?",
+        "options": [
+            "Dal peso",
+            "Dalle linee di accrescimento nelle ossa",
+            "Dal colore",
+            "Dalla dimensione"
+        ],
+        "correctIndex": 1,
+        "explanation": "Come negli alberi, le ossa dei rettili mostrano linee di accrescimento annuali che permettono di determinare l'età.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 27 RETTILI PARTE GENERALE.pdf"
+    },
+    {
+        "id": "rettili-termoregolazione-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale meccanismo di termoregolazione comportamentale usano i rettili quando la temperatura esterna scende?",
+        "options": [
+            "Aumentano il metabolismo",
+            "Si espongono al sole per assorbirne il calore",
+            "Migrano verso climi più caldi",
+            "Nessuno"
+        ],
+        "correctIndex": 1,
+        "explanation": "I rettili sono ectotermici: dipendono dalla temperatura ambientale e regolano il calore corporeo mediante comportamenti come l'esposizione solare (basking).",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-brumazione-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Che cosa è la brumazione nei rettili?",
+        "options": [
+            "Una perdita di calore corporeo",
+            "Uno stato di torpore/ibernazione indotto dalla bassa temperatura",
+            "Un cambiamento di colore",
+            "Una malattia"
+        ],
+        "correctIndex": 1,
+        "explanation": "La brumazione è una riduzione metabolica durante i mesi freddi: il rettile entra in uno stato letargico simile all'ibernazione, riducendo drasticamente consumi energetici.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-organo-jacobson-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale è la funzione dell'organo vomeronasale (Jacobson) nei rettili?",
+        "options": [
+            "Equilibrio corporeo",
+            "Ricezione e analisi chimica degli odori (sospensioni chimiche)",
+            "Termoregolazione",
+            "Digestione"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'organo di Jacobson permette ai rettili di rilevare tracce chimiche di prede, competitori e partner riproduttivi nell'ambiente e sul corpo di altri rettili.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-integumento-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale caratteristica dell'integumento dei rettili riduce la perdita d'acqua?",
+        "options": [
+            "Sono molto porosi",
+            "Hanno uno strato corneo impermeabilizzato di cheratina",
+            "Producono muco",
+            "Nessuna caratteristica particolare"
+        ],
+        "correctIndex": 1,
+        "explanation": "La cute dei rettili è ricoperta di scaglie cheratinizzate che riducono la perdita d'acqua per evaporazione, adattamento critico per la vita terrestre.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-sessuale-dimorfismo-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Come si manifesta il dimorfismo sessuale in molti rettili maschi?",
+        "options": [
+            "Attraverso i feromoni",
+            "Con pori pre-anali più sviluppati e colorazione più vistosa",
+            "Con ali asimmetriche",
+            "Non si manifesta"
+        ],
+        "correctIndex": 1,
+        "explanation": "I maschi di molte specie di rettili hanno pori feromoni più visibili e colore più acceso, che segnalano dominanza e qualità riproduttiva.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-riproduzione-uova-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale adattamento dell'uovo amniotico ha permesso ai rettili la riproduzione terrestre?",
+        "options": [
+            "Ha sviluppato un guscio duro",
+            "Ha evoluto membrane interne (amnios) che proteggono l'embrione",
+            "Ha eliminato il tuorlo",
+            "Ha acquisito permeabilità all'aria"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'uovo amniotico contiene membrane protettive (amnios, corion) che isolano l'embrione dall'ambiente esterno, permettendo la riproduzione indipendente dall'acqua.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-metabolismo-ectotermico-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale vantaggio energetico hanno gli ectotermici (come i rettili) rispetto agli endotermici?",
+        "options": [
+            "Migliore prestazione atletica",
+            "Consumo di cibo drasticamente inferiore (fino a 1/10 di un mammifero)",
+            "Maggiore resistenza al freddo",
+            "Nessun vantaggio"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli ectotermici non spendono energia per mantenere il calore corporeo: possono sopravvivere con meno cibo, adatto a ambienti con risorse limitate.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-apparato-circolatorio-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale caratteristica distingue il cuore dei rettili da quello dei mammiferi?",
+        "options": [
+            "Ha 4 camere",
+            "Ha 3 camere (due atri e un ventricolo parzialmente diviso)",
+            "Ha 1 sola camera",
+            "È assente"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il cuore dei rettili ha 3 camere: due atri e un ventricolo con un setto incompleto che permette una parziale separazione di sangue ossigenato e deossigenato.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-respirazione-polmonare-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "I rettili possono respirare solo attraverso i polmoni?",
+        "options": [
+            "Sì, sempre",
+            "No, alcuni come le tartarughe acquatiche possono respirare attraverso la mucosa cloacale",
+            "Respirano solo attraverso la pelle",
+            "Non respirano"
+        ],
+        "correctIndex": 1,
+        "explanation": "Molti rettili acquatici hanno sviluppato la respirazione cloacale: ossigeno viene assorbito dalla mucosa nella cloaca durante l'immersione prolungata.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-visione-pupilla-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale relazione esiste tra forma della pupilla e attività del rettile?",
+        "options": [
+            "La forma è casuale",
+            "I rettili attivi diurni hanno pupille rotonde; i notturni e crepuscolari hanno pupille verticali",
+            "Tutti i rettili hanno la stessa forma di pupilla",
+            "Le pupille cambiano forma con le stagioni"
+        ],
+        "correctIndex": 1,
+        "explanation": "La forma della pupilla è un adattamento alla nicchia ecologica: pupille rotonde per la visione diurna, verticali per nocturna/crepuscolare per controllare meglio la luce variabile.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-mascella-movimento-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Come è articolata la mascella nei rettili per permettere l'ingestione di prede intere?",
+        "options": [
+            "È rigida come nei mammiferi",
+            "Ha articolazioni specializzate che permettono apertura estrema e movimento laterale",
+            "Non può aprirsi molto",
+            "È assente"
+        ],
+        "correctIndex": 1,
+        "explanation": "I rettili hanno articolazioni mandibolari specializzate e legamenti elastici che permettono l'apertura della bocca molto ampia, essenziale per ingoiare prede grandi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-denti-ricambio-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Come differisce il ricambio dentario tra rettili e mammiferi?",
+        "options": [
+            "I rettili non cambiano i denti",
+            "I rettili cambiano i denti continuamente durante la vita (polifiodontia)",
+            "I rettili cambiano i denti una volta sola",
+            "I rettili hanno denti tutti uguali"
+        ],
+        "correctIndex": 1,
+        "explanation": "La polifiodontia nei rettili permette il ricambio continuo dei denti: denti nuovi crescono nella lamina gengivale e rimpiazzano i vecchi, adattamento efficace per animali che si feriscono spesso.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-termoregolazione-colore-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale ruolo ha il colore della pelle nella termoregolazione comportamentale dei rettili?",
+        "options": [
+            "Nessun ruolo",
+            "Colori più scuri assorbono più radiazione solare",
+            "Colori chiari rilasciano più calore",
+            "I rettili non cambiano colore"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il colore della pelle influenza l'assorbimento solare: pelli scure assorbono più UV e calore quando il rettile ha bisogno di riscaldarsi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-cloaca-funzione-001",
+        "topic": "anatomia",
+        "species": "Rettili (generale)",
+        "question": "Quale è la funzione della cloaca nei rettili?",
+        "options": [
+            "Solo escrezione urinaria",
+            "Condotto comune per apparato urinario, digerente e riproduttivo",
+            "Solo deposizione uova",
+            "Solo respirazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "La cloaca è la camera terminale dell'apparato escretore, digerente e riproduttivo: urina, feci e gameti convergono qui prima dell'espulsione.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "id": "rettili-sp-natrice-001",
+        "topic": "rettili",
+        "species": "Natrice dal collare (Natrix natrix)",
+        "question": "Quale è la caratteristica distintiva della natrice dal collare?",
+        "options": [
+            "Colore completamente nero",
+            "Due macchie gialle dietro la testa",
+            "Corpo rosso brillante",
+            "Squame spinose"
+        ],
+        "correctIndex": 1,
+        "explanation": "La natrice dal collare è identificata dalle due macchie gialle o bianche dietro la testa, da cui prende il nome.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-natrice-002",
+        "topic": "rettili",
+        "species": "Natrice dal collare (Natrix natrix)",
+        "question": "Quale è l'habitat preferito della natrice dal collare?",
+        "options": [
+            "Deserti",
+            "Foreste secche",
+            "Ambienti acquatici: fiumi, laghi, stagni",
+            "Montagne rocciose"
+        ],
+        "correctIndex": 2,
+        "explanation": "La natrice dal collare è legata agli ambienti acquatici e si nutre principalmente di pesci, anfibi e piccoli rettili.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-natrice-003",
+        "topic": "rettili",
+        "species": "Natrice dal collare (Natrix natrix)",
+        "question": "Quale è la lunghezza massima della natrice dal collare?",
+        "options": [
+            "50-60 cm",
+            "80-100 cm",
+            "120-150 cm",
+            "200+ cm"
+        ],
+        "correctIndex": 2,
+        "explanation": "La natrice dal collare può raggiungere una lunghezza di 120-150 cm, con femmine generalmente più grandi dei maschi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-biacco-001",
+        "topic": "rettili",
+        "species": "Biacco (Hierophis viridiflavus)",
+        "question": "Quale è il colore tipico del biacco?",
+        "options": [
+            "Grigio uniforme",
+            "Nero-verde con strisce gialle longitudinali",
+            "Completamente rosso",
+            "Verde brillante"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il biacco è caratterizzato da colore nero-verde con strisce gialle longitudinali, specialmente nei giovani.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-biacco-002",
+        "topic": "rettili",
+        "species": "Biacco (Hierophis viridiflavus)",
+        "question": "Quale è il comportamento del biacco quando minacciato?",
+        "options": [
+            "Rimane immobile",
+            "Attacca aggressivamente",
+            "Fuga velocemente",
+            "Si contorce velocemente"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il biacco è un serpente attivo e veloce che, se minacciato, fugge rapidamente. È generalmente docile verso gli umani.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-vipera-001",
+        "topic": "rettili",
+        "species": "Vipera comune (Vipera aspis)",
+        "question": "Quale è la caratteristica distintiva della testa della vipera comune?",
+        "options": [
+            "Testa tonda",
+            "Testa triangolare caratteristica",
+            "Testa stretta",
+            "Cresta sulla testa"
+        ],
+        "correctIndex": 1,
+        "explanation": "La vipera comune ha una testa distintamente triangolare, con occhi posizionati lateralmente e pupille verticali.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-vipera-002",
+        "topic": "rettili",
+        "species": "Vipera comune (Vipera aspis)",
+        "question": "Quale è la lunghezza massima di una vipera comune?",
+        "options": [
+            "30-40 cm",
+            "50-70 cm",
+            "90-130 cm",
+            "150+ cm"
+        ],
+        "correctIndex": 2,
+        "explanation": "La vipera comune raggiunge una lunghezza massima di 90-130 cm, con femmine generalmente più grandi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-vipera-003",
+        "topic": "rettili",
+        "species": "Vipera comune (Vipera aspis)",
+        "question": "In quale habitat vive la vipera comune?",
+        "options": [
+            "Pianure agricole",
+            "Zone montuose e collinari",
+            "Foreste fitte",
+            "Aree urbane"
+        ],
+        "correctIndex": 1,
+        "explanation": "La vipera comune vive in zone montuose e collinari, in ambienti con rocce e vegetazione densa.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-marmorata-001",
+        "topic": "rettili",
+        "species": "Lucertola muraiola (Podarcis muralis)",
+        "question": "Quale è la dimensione tipica della lucertola muraiola?",
+        "options": [
+            "5-8 cm di corpo",
+            "10-15 cm di corpo",
+            "20-25 cm di corpo",
+            "30+ cm di corpo"
+        ],
+        "correctIndex": 1,
+        "explanation": "La lucertola muraiola ha un corpo di 10-15 cm, con coda di lunghezza simile o maggiore.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-marmorata-002",
+        "topic": "rettili",
+        "species": "Lucertola muraiola (Podarcis muralis)",
+        "question": "Dove vive tipicamente la lucertola muraiola?",
+        "options": [
+            "Su alberi alti",
+            "Su rocce e muri in zone soleggiate",
+            "In acqua",
+            "Nel sottosuolo"
+        ],
+        "correctIndex": 1,
+        "explanation": "La lucertola muraiola vive su rocce, muri e altre superfici verticali in zone soleggiate, dove si nutre di insetti.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-ramarro-001",
+        "topic": "rettili",
+        "species": "Ramarro (Lacerta bilineata)",
+        "question": "Quale è la colorazione caratteristica del ramarro?",
+        "options": [
+            "Grigio",
+            "Verde brillante con strisce longitudinali bianche",
+            "Nero e giallo",
+            "Marrone scuro"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il ramarro è caratterizzato da un colore verde brillante con due strisce bianche longitudinali sui fianchi.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-ramarro-002",
+        "topic": "rettili",
+        "species": "Ramarro (Lacerta bilineata)",
+        "question": "Quale è la lunghezza massima del ramarro?",
+        "options": [
+            "20-30 cm",
+            "40-60 cm",
+            "80-100 cm",
+            "120+ cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il ramarro può raggiungere 40-60 cm di lunghezza totale, rendendolo una delle lucertole europee più grandi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-ramarro-003",
+        "topic": "rettili",
+        "species": "Ramarro (Lacerta bilineata)",
+        "question": "Quale è l'habitat preferito del ramarro?",
+        "options": [
+            "Zone umide e paludose",
+            "Boschi e siepi con vegetazione fitta",
+            "Deserti",
+            "Zone urbane"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il ramarro vive in boschi, siepi e zone con vegetazione fitta dove trova riparo e preda.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-lucertola-001",
+        "topic": "rettili",
+        "species": "Lucertola campestre (Podarcis sicula)",
+        "question": "Quale è la lunghezza del corpo della lucertola campestre?",
+        "options": [
+            "5-7 cm",
+            "8-12 cm",
+            "15-20 cm",
+            "25+ cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "La lucertola campestre ha un corpo di 8-12 cm, con coda spesso più lunga del corpo.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-lucertola-002",
+        "topic": "rettili",
+        "species": "Lucertola campestre (Podarcis sicula)",
+        "question": "Come si riconosce la lucertola campestre dai maschi?",
+        "options": [
+            "Più piccola e delicata",
+            "Macchie blu-turchesi sulla gola e sui fianchi",
+            "Colore più scuro",
+            "Assenza di zampe"
+        ],
+        "correctIndex": 1,
+        "explanation": "I maschi di lucertola campestre hanno caratteristiche macchie blu-turchesi sulla gola e sui fianchi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-cervone-001",
+        "topic": "rettili",
+        "species": "Cervone (Elaphe quatuorlineata)",
+        "question": "Quale è il colore tipico del cervone?",
+        "options": [
+            "Nero uniforme",
+            "Giallo con 4 strisce nere longitudinali",
+            "Verde brillante",
+            "Rosso scuro"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il cervone è caratterizzato da colore giallastro con 4 strisce nere longitudinali, specialmente nei giovani.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-cervone-002",
+        "topic": "rettili",
+        "species": "Cervone (Elaphe quatuorlineata)",
+        "question": "Quale è la lunghezza massima del cervone?",
+        "options": [
+            "60-80 cm",
+            "100-150 cm",
+            "180-240 cm",
+            "300+ cm"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il cervone è uno dei serpenti europei più grandi, raggiungendo 180-240 cm di lunghezza.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-cervone-003",
+        "topic": "rettili",
+        "species": "Cervone (Elaphe quatuorlineata)",
+        "question": "Quale è il comportamento del cervone quando minacciato?",
+        "options": [
+            "Attacca immediatamente",
+            "Rimane immobile",
+            "Assume una postura difensiva con corpo appiattito e sibila",
+            "Fugge lentamente"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il cervone assume una postura difensiva appiattendo il corpo, sibilando e colpendo se necessario, anche se è generalmente poco aggressivo.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-orbettino-001",
+        "topic": "rettili",
+        "species": "Orbettino (Anguis fragilis)",
+        "question": "Quale è la caratteristica più notevole dell'orbettino?",
+        "options": [
+            "Ha tre occhi",
+            "Non ha zampe visibili",
+            "Ha ali piccole",
+            "Ha baffi lunghi"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'orbettino è una lucertola senza arti (o con arti vestigiali nascosti sotto la pelle), che assomiglia a un serpente.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-orbettino-002",
+        "topic": "rettili",
+        "species": "Orbettino (Anguis fragilis)",
+        "question": "Quale è la lunghezza tipica dell'orbettino?",
+        "options": [
+            "15-20 cm",
+            "30-50 cm",
+            "70-100 cm",
+            "150+ cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'orbettino misura 30-50 cm di lunghezza, con il corpo uniforme senza grande variazione di diametro.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-orbettino-003",
+        "topic": "rettili",
+        "species": "Orbettino (Anguis fragilis)",
+        "question": "Come distinguere l'orbettino da un serpente?",
+        "options": [
+            "Dimensione",
+            "Occhi mobili e palpebre",
+            "Velocità di movimento",
+            "Colore"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'orbettino ha occhi mobili con palpebre (come le lucertole), mentre i serpenti hanno occhi fissi senza palpebre.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-testuggine-001",
+        "topic": "rettili",
+        "species": "Testuggine terrestre (Testudo hermanni)",
+        "question": "Quale è la lunghezza massima della testuggine di Hermann?",
+        "options": [
+            "5-10 cm",
+            "15-25 cm",
+            "30-40 cm",
+            "50+ cm"
+        ],
+        "correctIndex": 1,
+        "explanation": "La testuggine di Hermann misura 15-25 cm di carapace, con femmine generalmente più grandi dei maschi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-testuggine-002",
+        "topic": "rettili",
+        "species": "Testuggine terrestre (Testudo hermanni)",
+        "question": "In quale habitat vive la testuggine di Hermann?",
+        "options": [
+            "Paludi acquatiche",
+            "Zone aride e semidesertiche",
+            "Boschi fitti",
+            "Zone urbane"
+        ],
+        "correctIndex": 1,
+        "explanation": "La testuggine di Hermann vive in zone aride e semidesertiche con vegetazione bassa, rocce e buche per il rifugio.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-sp-testuggine-003",
+        "topic": "rettili",
+        "species": "Testuggine terrestre (Testudo hermanni)",
+        "question": "Come si distingue il maschio dalla femmina nella testuggine di Hermann?",
+        "options": [
+            "Colore del carapace",
+            "Lunghezza della coda: maschi coda lunga e ricurva",
+            "Dimensione delle zampe",
+            "Forma dell'occhio"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nel maschio di testuggine di Hermann, la coda è lunga e ricurva verso il basso, mentre nella femmina è corta e dritta.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 28 RETTILI specie.pdf"
+    },
+    {
+        "id": "rettili-vipera-veleno-001",
+        "topic": "anatomia",
+        "species": "Vipera",
+        "question": "Quale è la funzione principale del veleno nella vipera?",
+        "options": [
+            "Difesa dai predatori",
+            "Sottomissione e uccisione della preda (facilita la digestione)",
+            "Attacco ai competitori",
+            "Nessuna"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il veleno della vipera immobilizza la preda e inizia la digestione: è un adattamento evolutivo per cacciare prede veloci e difficili da trattenere con la sola stretta.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-autotomia-001",
+        "topic": "anatomia",
+        "species": "Lucertole",
+        "question": "Quale è la meccanica dell'autotomia (distacco della coda) nelle lucertole?",
+        "options": [
+            "La coda si stacca casualmente",
+            "Esiste una zona di frattura specializzata vertebrale che si separa sotto pressione",
+            "La coda cade quando la lucertola invecchia",
+            "Non è reale"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'autotomia è un adattamento predefinito: le vertebre della coda hanno una zona di debolezza programmatica. La coda si stacca permettendo la fuga mentre il predatore rimane con la coda che si contorce.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-lucertola-specializzazione-001",
+        "topic": "anatomia",
+        "species": "Lucertole (diverse specie)",
+        "question": "Come si differenziano le lucertole muraiola e ramarro per occupare differenti nicchie ecologiche?",
+        "options": [
+            "Non si differenziano",
+            "Muraiola su rocce aride, ramarro in vegetazione con preferenza per climi più umidi",
+            "Sono identiche",
+            "Dipende dalla stagione"
+        ],
+        "correctIndex": 1,
+        "explanation": "La partitioning ecologica riduce la competizione: la muraiola occupa habitat aridi e sassosi (muri, rocce), il ramarro preferisce aree vegetate e umide.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-serpente-biacco-001",
+        "topic": "anatomia",
+        "species": "Biacco (Coluber viridiflavus)",
+        "question": "Quale è l'adattamento locomotorio del biacco che lo rende particolare?",
+        "options": [
+            "Muove il corpo lateralmente",
+            "Ha uno stile di movimento rapido e ondulatorio per una velocità di fuga estrema",
+            "Salta",
+            "Non si muove veloce"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il biacco è uno dei serpenti europei più veloci: il suo corpo snodato e muscoloso permette accelerazione rapida, adattamento critico per sfuggire dai predatori.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-natrice-collare-001",
+        "topic": "anatomia",
+        "species": "Natrice dal collare (Natrix natrix)",
+        "question": "Quale è la difesa primaria della natrice dal collare quando minacciata?",
+        "options": [
+            "Morde immediatamente",
+            "Simula la morte (tanatosi) e produce muco maleodorante dalle ghiandole anali",
+            "Vomita il cibo",
+            "Nessuna"
+        ],
+        "correctIndex": 1,
+        "explanation": "La natrice mette in scena una finta morte molto convincente e rilascia odore repellente dalle ghiandole anali: è una difesa comportamentale efficace contro i predatori.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-cervone-dieta-001",
+        "topic": "anatomia",
+        "species": "Cervone (Elaphe longissima)",
+        "question": "Come si differenzia la dieta del cervone da quella della vipera?",
+        "options": [
+            "Non si differenzia",
+            "Cervone caccia rettili e piccoli mammiferi, vipera caccia principalmente roditori",
+            "Cervone è erbivoro",
+            "Il cervone non mangia"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il cervone è una specie opportunista che preda su lucertole, serpenti, uccelli e piccoli mammiferi; questo rende il cervone un predatore top per le lucertole.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-orbettino-specializzazione-001",
+        "topic": "anatomia",
+        "species": "Orbettino (Anguis fragilis)",
+        "question": "Quale adattamento corporeo dell'orbettino lo rende un fossore efficiente?",
+        "options": [
+            "Ha arti sviluppati",
+            "Ha corpo allungato senza arti (o con arti vestigiali) che permette movimento nel terreno",
+            "Ha pinne",
+            "Ha ali"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'orbettino è una lucertola che ha perso gli arti durante l'evoluzione: il corpo cilindrico permette movimento fluido attraverso il suolo e la lettiera per cercare invertebrati.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-testuggine-guscio-001",
+        "topic": "anatomia",
+        "species": "Testuggine",
+        "question": "Quale è la struttura evolutiva del guscio della testuggine?",
+        "options": [
+            "È formato da pelle indurita",
+            "È costituito da vertebre e costole fuse coperte da placche cheratinose (carapace)",
+            "È una struttura separata dal corpo",
+            "Non è un osso"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il carapace della testuggine è una fusione della colonna vertebrale e delle costole: un vero esoscheletro osseo che racchiude gli organi interni.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-termoregolazione-specie-001",
+        "topic": "anatomia",
+        "species": "Diverse specie di rettili",
+        "question": "Come le specie di rettili con distribuzione geografica estesa si adattano a climi diversi?",
+        "options": [
+            "Non si adattano",
+            "Popolazioni settentrionali spesso hanno dimensioni corporee inferiori (regola di Bergmann) e colore più scuro",
+            "Migrano stagionalmente",
+            "Non esiste adattamento"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli rettili mostrano variazione geografica: le popolazioni settentrionali sono più piccole (meno volume corporeo = meno inerzia termica) e più scure (assorbono più calore solare).",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-dieta-lucertola-001",
+        "topic": "anatomia",
+        "species": "Lucertola campestre",
+        "question": "Quale è la principale fonte di cibo della lucertola campestre?",
+        "options": [
+            "Piante",
+            "Insetti e artropodi (specialista insettivora)",
+            "Vertebrati",
+            "Semi"
+        ],
+        "correctIndex": 1,
+        "explanation": "La lucertola campestre è una specialista insettivora: ha denti piccoli e affilati adatti a catturare e schiacciare artropodi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-ramarro-dimorfismo-001",
+        "topic": "anatomia",
+        "species": "Ramarro (Lacerta bilineata)",
+        "question": "Quale è il dimorfismo sessuale più evidente nel ramarro?",
+        "options": [
+            "Nessuno",
+            "I maschi hanno testa più ampia, pori pre-anali più sviluppati e colorazione più vivace",
+            "Le femmine sono più grandi",
+            "Il colore è identico"
+        ],
+        "correctIndex": 1,
+        "explanation": "I maschi di ramarro hanno testa più grande (per maggiore capacità di morso in combattimento), colore verde più acceso e pori feromoni evidenti.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-strategia-cacciatoria-001",
+        "topic": "anatomia",
+        "species": "Vipera e Biacco",
+        "question": "Quale differenza strategica esiste tra la vipera (attesa) e il biacco (inseguitore)?",
+        "options": [
+            "Non esiste differenza",
+            "Vipera aspetta la preda immobile mimetizzata, biacco cerca attivamente e insegue",
+            "Sono identici",
+            "Dipende dal giorno"
+        ],
+        "correctIndex": 1,
+        "explanation": "La vipera è un predatore 'sit-and-wait' (aspetta mimetizzata), il biacco è un 'active forager' (cerca attivamente): strategie diverse per la stessa nicchia adattano il serpente al suo comportamento.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-cranio-serpente-001",
+        "topic": "anatomia",
+        "species": "Serpenti (generale)",
+        "question": "Quale adattamento cranico permette ai serpenti l'ingestione di prede grandi?",
+        "options": [
+            "Il cranio è fisso",
+            "Il cranio ha ossa mobili e il quadrato (osso della mascella) è articolato flottante",
+            "Non hanno cranio",
+            "Hanno denti molto grandi"
+        ],
+        "correctIndex": 1,
+        "explanation": "I serpenti hanno una sinfisi mandibolare allentata e un quadrato mobile: questo permette all'intera mascella di muoversi lateralmente durante l'ingestione di prede intere.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-occhi-serpente-001",
+        "topic": "anatomia",
+        "species": "Serpenti",
+        "question": "Quale adattamento dell'occhio nei serpenti sostituisce la palpebra?",
+        "options": [
+            "Hanno palpebra normale",
+            "Hanno una scala trasparente (spectacle) cheratinosa che copre l'occhio",
+            "Non hanno occhi",
+            "Hanno occhi doppi"
+        ],
+        "correctIndex": 1,
+        "explanation": "I serpenti hanno una scala (spectacle) trasparente fissa che protegge l'occhio: sostituisce la palpebra e rimane pulita grazie alla muta periodica.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — rettili"
+    },
+    {
+        "id": "rettili-fossorialita-001",
+        "topic": "anatomia",
+        "species": "Orbettino e altri fossori",
+        "question": "Quale adattamento scheletrico facilita la vita fossoria?",
+        "options": [
+            "Ossa fragili",
+            "Vertebre articolate flessibili e costole ridutte permettono movimento sinuoso nel terreno",
+            "Vertebre rigide",
+            "Non esiste adattamento"
+        ],
+        "correctIndex": 1,
+        "explanation": "I rettili fossori hanno vertebre molto flessibili con processi articolari che consentono movimento ondulatorio efficiente attraverso il suolo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — rettili"
+    }
+]

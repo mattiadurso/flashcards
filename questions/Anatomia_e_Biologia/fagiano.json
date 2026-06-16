@@ -1,0 +1,435 @@
+[
+    {
+        "id": "fagiano-anatomia-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è la caratteristica distintiva della coda del fagiano maschio?",
+        "options": [
+            "Corta e quadrata",
+            "Lunga e affilata",
+            "Assente nei maschi",
+            "Uguale alla femmina"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il maschio di fagiano ha una coda lunga e affilata, che può raggiungere il 60% della lunghezza totale del corpo.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-dimorfismo-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Come si riconosce un fagiano maschio adulto dalla colorazione?",
+        "options": [
+            "Grigio uniforme",
+            "Verde scuro con riflessi metallici e macchie rosse sul viso",
+            "Marrone uniforme",
+            "Completamente bianco"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il maschio adulto ha un plumaggio verde scuro con riflessi metallici, testa blu-verde e macchie rosse intorno agli occhi.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-femmina-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è il colore principale della femmina di fagiano?",
+        "options": [
+            "Verde brillante",
+            "Marrone-grigio mimetizzante",
+            "Bianco e nero",
+            "Arancione"
+        ],
+        "correctIndex": 1,
+        "explanation": "La femmina di fagiano ha un plumaggio marrone-grigio che la mimetizza nell'ambiente naturale, essenziale per la protezione durante la nidificazione.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-zanne-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Il fagiano maschio possiede degli speroni sulle zampe. Quale è la loro funzione?",
+        "options": [
+            "Locomozione",
+            "Combattimento con altri maschi",
+            "Cattura del cibo",
+            "Costruzione del nido"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli speroni del fagiano maschio sono utilizzati nel combattimento con altri maschi durante la stagione riproduttiva.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-peso-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è il peso medio di un fagiano maschio adulto?",
+        "options": [
+            "500-700 g",
+            "1-1.3 kg",
+            "1.5-2 kg",
+            "2.5-3 kg"
+        ],
+        "correctIndex": 1,
+        "explanation": "Un fagiano maschio adulto pesa mediamente 1-1.3 kg, mentre la femmina è più leggera con 800-1000 g.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-lunghezza-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è la lunghezza media totale di un fagiano maschio compresa la coda?",
+        "options": [
+            "30-40 cm",
+            "50-60 cm",
+            "70-90 cm",
+            "100-120 cm"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il fagiano maschio misura 70-90 cm di lunghezza totale, principalmente a causa della coda lunga.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-habitat-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "In quale habitat naturale preferisce vivere il fagiano?",
+        "options": [
+            "Foreste fitte",
+            "Zone aperte con cespugli e canneti",
+            "Aree montuose rocciose",
+            "Deserti"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il fagiano preferisce vivere in zone aperte con vegetazione bassa, canneti, cespugli e margini di campi coltivati.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-alimentazione-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è la base della dieta del fagiano?",
+        "options": [
+            "Semi di erbacce",
+            "Insetti e piccoli invertebrati",
+            "Frutta e bacche",
+            "Tutto quanto",
+            "Semi di cereali"
+        ],
+        "correctIndex": 3,
+        "explanation": "Il fagiano è onnivoro: si nutre di semi di erbacce e cereali, insetti, invertebrati, frutta e bacche secondo la stagione.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-alimentazione-002",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "In quale stagione il fagiano aumenta il consumo di insetti?",
+        "options": [
+            "Autunno",
+            "Inverno",
+            "Primavera-estate",
+            "Tutto l'anno"
+        ],
+        "correctIndex": 2,
+        "explanation": "In primavera e estate, quando gli insetti sono abbondanti, il fagiano aumenta significativamente il consumo di invertebrati.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-riproduzione-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "In quale periodo dell'anno avviene l'accoppiamento del fagiano?",
+        "options": [
+            "Gennaio-febbraio",
+            "Marzo-aprile",
+            "Luglio-agosto",
+            "Novembre-dicembre"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'accoppiamento del fagiano avviene principalmente tra marzo e aprile, con l'inizio della stagione riproduttiva.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-nido-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Dove costruisce il nido la femmina di fagiano?",
+        "options": [
+            "Su alberi alti",
+            "In cavità di rocce",
+            "A terra in vegetazione densa",
+            "In buchi nel terreno"
+        ],
+        "correctIndex": 2,
+        "explanation": "La femmina di fagiano costruisce il nido a terra, in mezzo alla vegetazione densa che lo mimetizza.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-uova-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quante uova depone mediamente una femmina di fagiano?",
+        "options": [
+            "3-5",
+            "6-10",
+            "12-15",
+            "20-25"
+        ],
+        "correctIndex": 1,
+        "explanation": "Una femmina di fagiano depone mediamente 6-10 uova, di colore marrone scuro.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-incubazione-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è il periodo di incubazione delle uova di fagiano?",
+        "options": [
+            "14-16 giorni",
+            "20-22 giorni",
+            "24-26 giorni",
+            "30-32 giorni"
+        ],
+        "correctIndex": 2,
+        "explanation": "Le uova di fagiano richiedono 24-26 giorni di incubazione prima della schiusa.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-svezzamento-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "A quale età i giovani fagiani diventano indipendenti dalla madre?",
+        "options": [
+            "7-10 giorni",
+            "14-21 giorni",
+            "4-6 settimane",
+            "8-10 settimane"
+        ],
+        "correctIndex": 2,
+        "explanation": "I giovani fagiani diventano indipendenti dopo 4-6 settimane di vita, anche se rimangono nel gruppo materno più a lungo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-volo-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Il fagiano preferisce quale modalità di locomozione?",
+        "options": [
+            "Volo continuo",
+            "Camminata veloce",
+            "Nuoto",
+            "Arrampicata"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il fagiano preferisce camminare e correre a terra; il volo è utilizzato per brevi distanze o come fuga di emergenza.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-vocalizzazione-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è il verso caratteristico del fagiano maschio?",
+        "options": [
+            "Canto melodioso",
+            "Gracidio",
+            "Grido stridente seguito da frullo d'ali",
+            "Sibilo"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il maschio di fagiano emette un grido stridente e caratteristico seguito dal rapido frullo delle ali come richiamo territoriale.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-territorialita-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è il comportamento del maschio di fagiano durante la stagione riproduttiva?",
+        "options": [
+            "Rimane solitario",
+            "Forma gruppi di ricerca cibo",
+            "Diventa territoriale e aggressivo",
+            "Migra in altre zone"
+        ],
+        "correctIndex": 2,
+        "explanation": "Durante la stagione riproduttiva, il maschio diventa territoriale e aggressivo, difendendo il suo territorio da altri maschi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-longevita-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è l'aspettativa di vita media di un fagiano in natura?",
+        "options": [
+            "1-2 anni",
+            "2-4 anni",
+            "5-7 anni",
+            "10-12 anni"
+        ],
+        "correctIndex": 1,
+        "explanation": "In natura, l'aspettativa di vita media di un fagiano è di 2-4 anni, con molti individui predati o cacciati nel primo anno.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-stagioneta-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "In quale stagione il fagiano compie la muta?",
+        "options": [
+            "Primavera",
+            "Estate",
+            "Autunno",
+            "Inverno"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il fagiano compie la muta principale in autunno, quando cambia il plumaggio per l'inverno.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-adattamento-ali-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale adattamento morfologico delle ali del fagiano è funzionale al suo ambiente?",
+        "options": [
+            "Ali lunghissime per migrazioni lunghe",
+            "Ali corte e arrotondate per voli rapidi in ambienti con vegetazione",
+            "Ali appuntite per il volo ad alta quota",
+            "Nessun adattamento particolare"
+        ],
+        "correctIndex": 1,
+        "explanation": "Le ali corte e arrotondate permettono al fagiano di decollare velocemente da terra e manovrare fra arbusti e vegetazione fitta.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-colorazione-funzione-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è la funzione della colorazione verde iridescente del maschio di fagiano?",
+        "options": [
+            "Mimetismo",
+            "Attrazione sessuale e segnalazione di dominanza territoriale",
+            "Protezione dal freddo",
+            "Termoregolazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "La colorazione vistosa è un carattere sessuale secondario che attrae le femmine e comunica il rango gerarchico agli altri maschi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-coda-funzione-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Perché la coda lunga del maschio di fagiano è metabolicamente costosa?",
+        "options": [
+            "Rallenta il volo",
+            "Aumenta la perdita energetica e riduce l'efficienza riproduttiva",
+            "Aumenta il peso corporeo",
+            "Nessuna ragione biologica"
+        ],
+        "correctIndex": 1,
+        "explanation": "La coda lunga è un 'segnale onesto' di qualità: solo maschi in buone condizioni possono permettersela senza compromettere la sopravvivenza.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-speroni-combattimento-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Come vengono utilizzati gli speroni nel combattimento fra maschi di fagiano?",
+        "options": [
+            "Per graffiare il suolo",
+            "Per infliggere ferite nelle gampe e sul petto dell'avversario",
+            "Per impressionare le femmine",
+            "Non vengono utilizzati"
+        ],
+        "correctIndex": 1,
+        "explanation": "I maschi usano gli speroni come armi nel combattimento territoriale, infliggendo ferite che possono essere mortali.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-fertilita-uova-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale è la relazione tra lo stato nutrizionale della femmina di fagiano e la dimensione delle uova?",
+        "options": [
+            "Nessuna relazione",
+            "Femmine malnutrite depongono uova più grandi",
+            "Femmine in buone condizioni depongono uova più grandi con migliore tasso di schiusa",
+            "Tutte le uova hanno la stessa dimensione"
+        ],
+        "correctIndex": 2,
+        "explanation": "Le femmine in buone condizioni nutrizionali depongono uova di maggior volume e con maggiore contenuto di nutrienti, aumentando la sopravvivenza dei pulcini.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-asincronia-schiusa-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale vantaggio ha l'asincronia della schiusa (schiuse non sincrone) nella covata del fagiano?",
+        "options": [
+            "Nessuno",
+            "I pulcini più forti hanno accesso preferenziale al cibo della madre",
+            "Aumenta il numero di pulcini",
+            "Riduce la predazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'asincronia porta a una gerarchia naturale di 'becco-fame', dove i pulcini più grandi (nati prima) hanno accesso prioritario al cibo della madre.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-cura-genitoriale-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale forma di cura parentale caratterizza il fagiano?",
+        "options": [
+            "Cura biparentale attiva",
+            "La sola femmina alleva i pulcini indipendentemente dal maschio",
+            "Nessuna cura parentale",
+            "I pulcini sono indipendenti dalla schiusa"
+        ],
+        "correctIndex": 1,
+        "explanation": "Solo la femmina si prende cura dei pulcini, proteggendoli e insegnando loro a cercare cibo. Il maschio difende il territorio ma non alleva.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-precocialita-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "I pulcini di fagiano sono precoci o altrici?",
+        "options": [
+            "Altrici: rimangono nel nido",
+            "Precoci: abbandonano il nido poco dopo la schiusa e seguono la madre",
+            "Entrambe le strategie",
+            "Nessuna categoria"
+        ],
+        "correctIndex": 1,
+        "explanation": "I pulcini di fagiano sono precoci: subito dopo la schiusa seguono la madre sul terreno, imparando a cercare cibo autonomamente.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    }
+]

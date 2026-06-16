@@ -1,0 +1,402 @@
+[
+    {
+        "id": "uccelli-gen-anatomia-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale struttura scheletrica degli uccelli è completamente saldata a differenza dei mammiferi?",
+        "options": [
+            "Vertebre cervicali",
+            "Bacino e vertebre sacrali",
+            "Costole",
+            "Cranio"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nel bacino degli uccelli, le vertebre sacrali sono completamente saldate insieme e al bacino, formando un'unica struttura rigida.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-anatomia-002",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la funzione principale dei sacchi aerei negli uccelli?",
+        "options": [
+            "Ammortizzare i colpi",
+            "Aumentare il galleggiamento",
+            "Migliorare la ventilazione polmonare",
+            "Immagazzinare riserve energetiche"
+        ],
+        "correctIndex": 2,
+        "explanation": "I sacchi aerei garantiscono una ventilazione polmonare unidirezionale, permettendo un flusso continuo di aria durante l'inspirazione e l'espirazione.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-anatomia-003",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quanti polmoni hanno gli uccelli?",
+        "options": [
+            "Uno",
+            "Due",
+            "Tre",
+            "Quattro"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli uccelli hanno due polmoni, come i mammiferi, ma di dimensioni più piccole e collegati ai sacchi aerei.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-cuore-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è il numero di camere cardiache negli uccelli?",
+        "options": [
+            "Due",
+            "Tre",
+            "Quattro",
+            "Cinque"
+        ],
+        "correctIndex": 2,
+        "explanation": "Come i mammiferi, gli uccelli hanno un cuore con quattro camere: due atri e due ventricoli.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-riproduzione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quante ovaia hanno normalmente le femmine di uccello?",
+        "options": [
+            "Una",
+            "Due",
+            "Tre",
+            "Dipende dalla specie"
+        ],
+        "correctIndex": 0,
+        "explanation": "La maggior parte degli uccelli ha una sola ovaia funzionante, solitamente la sinistra.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-termoregolazione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la temperatura corporea media di un uccello?",
+        "options": [
+            "35-36°C",
+            "37-38°C",
+            "40-42°C",
+            "43-45°C"
+        ],
+        "correctIndex": 2,
+        "explanation": "La temperatura corporea media degli uccelli è di 40-42°C, più alta di quella dei mammiferi.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-vista-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Perché gli uccelli rapaci hanno gli occhi posizionati più frontalmente rispetto ad altri uccelli?",
+        "options": [
+            "Per una migliore visione notturna",
+            "Per una visione binoculare per il calcolo della distanza",
+            "Per una visione più ampia",
+            "Per proteggere gli occhi"
+        ],
+        "correctIndex": 1,
+        "explanation": "La posizione frontale degli occhi nei rapaci consente una visione binoculare, essenziale per calcolare con precisione la distanza della preda.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-udito-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Come si chiama il canale che collega l'orecchio medio alla cavità orale negli uccelli?",
+        "options": [
+            "Tuba di Eustachio",
+            "Canale semicircolare",
+            "Coclea",
+            "Timpano"
+        ],
+        "correctIndex": 0,
+        "explanation": "Negli uccelli, come nei mammiferi, esiste la Tuba di Eustachio che equalizza la pressione tra l'orecchio medio e la cavità orale.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-piume-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale tipo di piuma è responsabile del volo negli uccelli?",
+        "options": [
+            "Piume piumose",
+            "Piume di contorno",
+            "Remiganti e timoniere",
+            "Peluria"
+        ],
+        "correctIndex": 2,
+        "explanation": "Le remiganti (ali) e le timoniere (coda) sono le piume primarie responsabili del volo.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-piume-002",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Come viene mantenuta l'impermeabilità delle piume negli uccelli acquatici?",
+        "options": [
+            "Con uno strato di cera",
+            "Con un olio prodotto dalla ghiandola dell'uropigio",
+            "Con una membrana speciale",
+            "Con una pigmentazione particolare"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli uccelli acquatici producono un olio dalla ghiandola dell'uropigio che distribuiscono sulle piume per mantenerle impermeabili.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-metabolismo-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è il metabolismo relativo degli uccelli rispetto ai mammiferi?",
+        "options": [
+            "Più basso",
+            "Simile",
+            "Molto più alto",
+            "Dipende dalla specie"
+        ],
+        "correctIndex": 2,
+        "explanation": "Gli uccelli hanno un metabolismo molto più alto rispetto ai mammiferi della stessa taglia, necessario per supportare il volo.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-digestione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale struttura dell'apparato digerente degli uccelli funziona da mulino?",
+        "options": [
+            "Esofago",
+            "Stomaco ghiandolare",
+            "Ventriglio",
+            "Intestino tenue"
+        ],
+        "correctIndex": 2,
+        "explanation": "Il ventriglio, o stomaco muscolare, mule il cibo insieme a piccole pietre ingerite per facilitarne la digestione.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-migrazione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale meccanismo biologico guida la migrazione negli uccelli?",
+        "options": [
+            "Temperatura esterna",
+            "Lunghezza del giorno e cicli ormonali",
+            "Disponibilità di cibo",
+            "Pressione barometrica"
+        ],
+        "correctIndex": 1,
+        "explanation": "La migrazione è principalmente guidata dalla lunghezza del giorno e dai conseguenti cicli ormonali, non dalla temperatura.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-orientamento-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale senso primario utilizzano gli uccelli migratori per l'orientamento?",
+        "options": [
+            "Olfatto",
+            "Campo magnetico terrestre",
+            "Visione stellare",
+            "Udito"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli uccelli migratori utilizzano principalmente il campo magnetico terrestre per l'orientamento, oltre a segnali visivi e celesti.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-uova-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la funzione del guscio dell'uovo negli uccelli?",
+        "options": [
+            "Solo protezione fisica",
+            "Protezione, scambio gassoso, deposito di calcio",
+            "Solo isolamento termico",
+            "Solo impermeabilità"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il guscio protegge l'embrione, permette lo scambio gassoso, fornisce calcio per lo sviluppo dell'embrione e mantiene l'umidità.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-sviluppo-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è il periodo medio di incubazione per la maggior parte dei piccoli uccelli?",
+        "options": [
+            "7-10 giorni",
+            "14-21 giorni",
+            "25-35 giorni",
+            "40-50 giorni"
+        ],
+        "correctIndex": 1,
+        "explanation": "La maggior parte dei piccoli uccelli ha un periodo di incubazione di 14-21 giorni.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-nidificazione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è il numero medio di uova per covata nei piccoli uccelli?",
+        "options": [
+            "1-2",
+            "3-6",
+            "8-12",
+            "15-20"
+        ],
+        "correctIndex": 1,
+        "explanation": "La maggior parte dei piccoli uccelli depone 3-6 uova per covata, con variazioni secondo la specie.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-colorazione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale pigmento è principalmente responsabile del colore rosso nelle piume degli uccelli?",
+        "options": [
+            "Carotenidi",
+            "Melanina",
+            "Clorofilla",
+            "Antociani"
+        ],
+        "correctIndex": 0,
+        "explanation": "I carotenidi sono i pigmenti principali che producono le tonalità rosse, arancioni e gialle nelle piume.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-territorialita-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la principale funzione del canto negli uccelli maschi?",
+        "options": [
+            "Attirare le femmine",
+            "Difendere il territorio",
+            "Comunicare il pericolo",
+            "Entrambi A e B"
+        ],
+        "correctIndex": 3,
+        "explanation": "Il canto negli uccelli maschi serve sia per attirare le femmine che per difendere e demarcarea il territorio.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-dimorfismo-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è il dimorfismo sessuale più comune negli uccelli europei?",
+        "options": [
+            "I maschi sono più piccoli",
+            "I maschi hanno colorazione più vistosa",
+            "Le femmine sono più aggressive",
+            "Non esiste dimorfismo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nel dimorfismo sessuale degli uccelli, i maschi hanno generalmente una colorazione più vistosa e appariscente.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-peso-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale osso dello scheletro dell'uccello contribuisce maggiormente alla leggerezza complessiva?",
+        "options": [
+            "Femore",
+            "Vertebre vuote",
+            "Costole",
+            "Becco"
+        ],
+        "correctIndex": 1,
+        "explanation": "Le vertebre vuote (pneumatiche) riducono significativamente il peso totale dell'uccello pur mantenendo la resistenza strutturale.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-becco-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la composizione del becco negli uccelli?",
+        "options": [
+            "Osso ricoperto di pelle",
+            "Cheratina come le unghie",
+            "Cartilagine",
+            "Una miscela di osso e cheratina"
+        ],
+        "correctIndex": 3,
+        "explanation": "Il becco è costituito da osso sottostante ricoperto da uno strato di cheratina, simile alle unghie.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-artigli-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la funzione primaria degli artigli negli uccelli rapaci?",
+        "options": [
+            "Locomozione",
+            "Predazione e trattenimento della preda",
+            "Costruzione del nido",
+            "Comunicazione"
+        ],
+        "correctIndex": 1,
+        "explanation": "Negli uccelli rapaci, gli artigli sono lo strumento principale per catturare, controllare e trattenere la preda.",
+        "difficulty": "easy",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-pelle-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale caratteristica della pelle degli uccelli favorisce il controllo della muta?",
+        "options": [
+            "Spessore maggiore",
+            "Ghiandole sebacee",
+            "Muscoli erettori delle piume",
+            "Pigmentazione"
+        ],
+        "correctIndex": 2,
+        "explanation": "I muscoli erettori delle piume permettono agli uccelli di controllare l'erezione delle piume, importante per la termoregolazione.",
+        "difficulty": "hard",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-longevita-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale è la relazione tra taglia dell'uccello e longevità?",
+        "options": [
+            "Nessuna relazione",
+            "Più grande = più lungo",
+            "Più piccolo = più lungo",
+            "Dipende dal sesso"
+        ],
+        "correctIndex": 1,
+        "explanation": "In generale, gli uccelli più grandi vivono più a lungo dei piccoli, anche se ci sono eccezioni.",
+        "difficulty": "medium",
+        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    }
+]
