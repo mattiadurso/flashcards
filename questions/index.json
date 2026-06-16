@@ -105,6 +105,36 @@
           "file": "Anatomia_e_Biologia/volpe.json",
           "source": "docs/Anatomia_e_Biologia/20 volpe rossa.pdf",
           "count": 24
+        },
+        {
+          "species": "Gatto selvatico (Felis silvestris)",
+          "file": "Anatomia_e_Biologia/gatto-selvatico.json",
+          "source": "docs/Anatomia_e_Biologia/gatto-selvatico.pdf",
+          "count": 43
+        },
+        {
+          "species": "Lince (Lynx lynx)",
+          "file": "Anatomia_e_Biologia/lince.json",
+          "source": "docs/Anatomia_e_Biologia/lince.pdf",
+          "count": 55
+        },
+        {
+          "species": "Lupo (Canis lupus)",
+          "file": "Anatomia_e_Biologia/lupo.json",
+          "source": "docs/Anatomia_e_Biologia/lupo.pdf",
+          "count": 39
+        },
+        {
+          "species": "Orso (Ursus arctos)",
+          "file": "Anatomia_e_Biologia/orso.json",
+          "source": "docs/Anatomia_e_Biologia/orso.pdf",
+          "count": 37
+        },
+        {
+          "species": "Sciacallo (Canis aureus)",
+          "file": "Anatomia_e_Biologia/sciacallo.json",
+          "source": "docs/Anatomia_e_Biologia/sciacallo.pdf",
+          "count": 38
         }
       ]
     }
