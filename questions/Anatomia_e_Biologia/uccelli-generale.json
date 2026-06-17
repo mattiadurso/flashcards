@@ -211,17 +211,17 @@
         "id": "uccelli-gen-orientamento-001",
         "topic": "uccelli",
         "species": "Uccelli — generale",
-        "question": "Quale senso primario utilizzano gli uccelli migratori per l'orientamento?",
+        "question": "Quale struttura sostituisce gli alveoli nei polmoni degli uccelli, rendendo possibile uno scambio gassoso continuo durante l'intero ciclo respiratorio?",
         "options": [
-            "Olfatto",
-            "Campo magnetico terrestre",
-            "Visione stellare",
-            "Udito"
+            "Alveoli più piccoli e ramificati",
+            "Parabronchi",
+            "Sacchi aerei",
+            "Bronchioli terminali"
         ],
         "correctIndex": 1,
-        "explanation": "Gli uccelli migratori utilizzano principalmente il campo magnetico terrestre per l'orientamento, oltre a segnali visivi e celesti.",
+        "explanation": "Nei polmoni degli uccelli non sono presenti alveoli, ma una rete di canali chiamati parabronchi, che costituiscono le unità funzionali del polmone. All'interno dei parabronchi scorrono i capillari per gli scambi gassosi; il flusso d'aria è reso unidirezionale grazie ai sacchi aerei.",
         "difficulty": "hard",
-        "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+        "source": "24 uccelli generale.pdf"
     },
     {
         "id": "uccelli-gen-uova-001",
@@ -398,5 +398,133 @@
         "explanation": "In generale, gli uccelli più grandi vivono più a lungo dei piccoli, anche se ci sono eccezioni.",
         "difficulty": "medium",
         "source": "PLACEHOLDER — 24 uccelli generale.pdf"
+    },
+    {
+        "id": "uccelli-gen-evoluzione-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale carattere del cranio degli uccelli, ereditato dall'origine rettiliana, ne aumenta la mobilità rispetto ai mammiferi?",
+        "suggestion": "Pensa a come la testa si articola con la colonna vertebrale: conta i punti di appoggio rispetto a un mammifero.",
+        "options": [
+            "La presenza di due condili occipitali",
+            "La presenza di un solo condilo occipitale",
+            "La completa assenza di articolazione con la colonna"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli uccelli, come i rettili da cui derivano, presentano un solo condilo occipitale che articola il cranio con la prima vertebra cervicale: questo consente al collo una mobilità maggiore rispetto ai mammiferi, che ne possiedono due.",
+        "difficulty": "hard",
+        "source": "24 uccelli generale.pdf p.1"
+    },
+    {
+        "id": "uccelli-gen-sterno-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Perché lo sterno degli uccelli che volano bene, come il colombo, è dotato di una carena particolarmente sviluppata?",
+        "suggestion": "La carena è una superficie di ancoraggio: pensa a quali muscoli devono generare la spinta del volo.",
+        "options": [
+            "Per proteggere meglio gli organi interni durante il volo",
+            "Per offrire un'ampia superficie di attacco ai muscoli pettorali",
+            "Per alleggerire la gabbia toracica riducendo l'osso"
+        ],
+        "correctIndex": 1,
+        "explanation": "La carena dello sterno serve all'attacco dei potenti muscoli pettorali che muovono le ali; è perciò tanto più sviluppata quanto migliore è la capacità di volo dell'uccello, come nel colombo.",
+        "difficulty": "medium",
+        "source": "24 uccelli generale.pdf p.6"
+    },
+    {
+        "id": "uccelli-gen-becco-002",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Perché il becco di un uccello non può essere considerato una struttura \"morta\" come un'unghia inerte?",
+        "suggestion": "Il rivestimento corneo (rhamphotheca) ha più di uno strato: pensa a cosa contiene quello interno.",
+        "options": [
+            "Perché è formato interamente da osso vivo privo di cheratina",
+            "Perché lo strato interno della rhamphotheca contiene capillari e terminazioni nervose, rendendolo sensibile",
+            "Perché viene sostituito completamente a ogni muta del piumaggio"
+        ],
+        "correctIndex": 1,
+        "explanation": "La rhamphotheca che riveste il becco ha due strati: uno esterno di cheratina protettiva e uno interno con capillari e terminazioni nervose. Quest'ultimo rende il becco sensibile, quindi non è una struttura \"morta\".",
+        "difficulty": "medium",
+        "source": "24 uccelli generale.pdf p.8"
+    },
+    {
+        "id": "uccelli-gen-ingluvie-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Quale funzione svolge l'ingluvie (gozzo) nell'apparato digerente degli uccelli?",
+        "suggestion": "È una dilatazione dell'esofago a pareti molli e distensibili: a cosa serve uno spazio così prima dello stomaco?",
+        "options": [
+            "Macinare il cibo insieme a piccole pietre ingerite",
+            "Accumulare il cibo e iniziare una prima digestione",
+            "Secernere la bile per emulsionare i grassi"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'ingluvie è una dilatazione dell'esofago alla base del collo, a pareti molli e distensibili, che serve ad accumulare il cibo e ad avviarne una prima digestione. La macinazione spetta invece al ventriglio.",
+        "difficulty": "medium",
+        "source": "24 uccelli generale.pdf p.10"
+    },
+    {
+        "id": "uccelli-gen-stomaco-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "In che modo lo sviluppo del proventriglio e del ventriglio riflette il regime alimentare dell'uccello?",
+        "suggestion": "Confronta un granivoro e un carnivoro: chi ha più bisogno di triturare cibo duro e chi di digerirlo chimicamente?",
+        "options": [
+            "Hanno sempre le stesse dimensioni in tutte le specie",
+            "Le due porzioni si sviluppano in modo differente a seconda della dieta",
+            "Nei carnivori il ventriglio scompare del tutto"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lo stomaco degli uccelli è diviso in proventriglio (ghiandolare) e ventriglio (muscolare): le due porzioni hanno uno sviluppo diverso secondo la dieta, con il ventriglio più robusto nei granivori che devono triturare alimenti duri.",
+        "difficulty": "hard",
+        "source": "24 uccelli generale.pdf p.11"
+    },
+    {
+        "id": "uccelli-gen-siringe-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Per quale motivo i Passeriformi come l'usignolo producono canti più complessi rispetto a uccelli come anatre e polli?",
+        "suggestion": "Il suono nasce nella siringe, alla biforcazione della trachea: pensa a quante parti indipendenti possiede in queste specie.",
+        "options": [
+            "Perché hanno una trachea molto più lunga e convoluta",
+            "Perché la loro siringe è più complessa e presenta due parti indipendenti",
+            "Perché possiedono corde vocali nella laringe come i mammiferi"
+        ],
+        "correctIndex": 1,
+        "explanation": "La siringe è l'organo della fonazione posto alla biforcazione della trachea. Nei Passeriformi è più complessa, con due parti indipendenti inserite ciascuna in un bronco, e ciò permette suoni più vari e articolati rispetto alle specie più primitive.",
+        "difficulty": "hard",
+        "source": "24 uccelli generale.pdf pp.18-21"
+    },
+    {
+        "id": "uccelli-gen-ovidotto-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "In quale tratto dell'ovidotto degli uccelli avviene la fecondazione della cellula uovo?",
+        "suggestion": "È il primo tratto, a forma di imbuto con fimbrie, che cattura il tuorlo appena rilasciato dall'ovaio.",
+        "options": [
+            "Nell'infundibolo",
+            "Nel magnum",
+            "Nell'utero"
+        ],
+        "correctIndex": 0,
+        "explanation": "L'infundibolo è il primo tratto dell'ovidotto, a forma di imbuto con fimbrie che catturano il tuorlo: è qui che avviene la fecondazione. Il magnum secerne l'albume e l'utero forma il guscio.",
+        "difficulty": "medium",
+        "source": "24 uccelli generale.pdf pp.26-28"
+    },
+    {
+        "id": "uccelli-gen-guscio-001",
+        "topic": "uccelli",
+        "species": "Uccelli — generale",
+        "question": "Da quale materiale è costituito principalmente il guscio calcareo dell'uovo degli uccelli?",
+        "suggestion": "Pensa al sale minerale che dà rigidità e che la femmina deve mobilitare in grande quantità durante la deposizione.",
+        "options": [
+            "Cheratina, come il becco",
+            "Carbonato di calcio per circa il 98%",
+            "Fosfato di calcio per circa il 50%"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il guscio calcareo è formato per circa il 98% da carbonato di calcio e per circa il 2% da proteine; viene mineralizzato nell'utero (ghiandola del guscio) dell'ovidotto.",
+        "difficulty": "medium",
+        "source": "24 uccelli generale.pdf p.36"
     }
 ]

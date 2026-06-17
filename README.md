@@ -8,9 +8,6 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 
 **Live:** <https://mattiadurso.com/flashcards>
 
-<!-- Drop a screenshot/GIF here once you have one (e.g. images/screenshot.png) -->
-<!-- ![Setup screen and a Flashcards](images/screenshot.png) -->
-
 ---
 
 ## What it does
@@ -26,7 +23,6 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 - **Per-argument results** at the end — accuracy per species, weakest first, with colored bars.
 - **Reward screen** — score above **90%** shows a random encouraging message; a perfect **100%** gets its own lines and a golden card (see [Praise messages](#praise-messages)).
 - **Flag a bad question** to hide it; restore all flagged questions later from the header.
-- Optional **image** per question (anatomy / ID), tap to open full-size in a lightbox.
 - iPhone-quiz look: big rounded card, soft shadows, accent blue, light theme, mobile-responsive.
 
 ---
@@ -85,8 +81,6 @@ giud_studia/
       daino.json
       cervo.json
       ...
-  images/                ← images referenced from questions (jpg/png/webp/svg)
-    Anatomia_e_Biologia/
   QUESTION_FORMAT.md     ← full spec + rules for writing questions
   README.md
   start-mac.command
@@ -103,7 +97,7 @@ The whole point of the project: you add PDFs and Claude writes the question file
 
 1. **Drop the PDFs** into `docs/<new-topic>/` (e.g. `docs/cinghiale/`).
 
-2. **Open Claude Code in this folder** (`claude` in the terminal, or the VS Code extension) and ask it to generate the questions. Claude reads the PDFs, follows the rules in `QUESTION_FORMAT.md`, writes `questions/<new-topic>.json`, and appends an entry to `questions/index.json`. Any images it extracts go into `images/<new-topic>/`.
+2. **Open Claude Code in this folder** (`claude` in the terminal, or the VS Code extension) and ask it to generate the questions. Claude reads the PDFs, follows the rules in `QUESTION_FORMAT.md`, writes `questions/<new-topic>.json`, and appends an entry to `questions/index.json`.
 
    Example prompts:
 
@@ -132,7 +126,7 @@ See **`QUESTION_FORMAT.md`** for the exact JSON schema, writing rules, a worked 
 - **1 – 4** — select an option
 - **Enter / Space** — go to the next question
 - **h** — toggle the hint (*Suggerimento*) when the question has one
-- **Esc** — close the image lightbox or the topics menu
+- **Esc** — close the topics menu
 - **‹ Nuova sessione** (header, during a session) — back to the setup screen
 - **Title** (top-left, *✨ Giud's Flashcards ✨*) — click it to return to the initial setup screen
 - **Reset progress** (header) — clear the "already seen" set

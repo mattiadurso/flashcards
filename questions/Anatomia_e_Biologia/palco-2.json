@@ -457,5 +457,53 @@
     "explanation": "L'unica cura descritta è il trattamento con testosterone ed estrogeni, che inducono ossificazione e perdita del velluto e fanno cadere il palco al declinare dell'ormone; tuttavia le ricrescite successive portano inevitabilmente a palchi anomali. In un capriolo con parrucca, gli ormoni ne arrestano l'accrescimento e la fanno cadere, ma pochi giorni dopo si sviluppa una nuova parrucca che cresce indefinitamente. Non è quindi una soluzione definitiva, e non si usa la calcitonina.",
     "difficulty": "hard",
     "source": "7 PALCO II parte.pdf p.32"
+  },
+  {
+    "id": "palco-2-028",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Tra i fattori che influenzano il palco, quale incide prevalentemente sulla forma e quale sulle dimensioni?",
+    "suggestion": "Un fattore è scritto nel patrimonio dell'animale, l'altro dipende da quanto e quanto bene mangia.",
+    "options": [
+      "I fattori ereditari incidono soprattutto sulla forma, quelli alimentari soprattutto sulle dimensioni",
+      "I fattori alimentari incidono soprattutto sulla forma, quelli ereditari soprattutto sulle dimensioni",
+      "Il fotoperiodo determina la forma e i fattori ereditari le dimensioni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo indica che i fattori ereditari rivestono un ruolo predominante sulla forma del palco, mentre i fattori alimentari (quantità e qualità del cibo disponibile) influenzano prevalentemente le dimensioni. Il fotoperiodo agisce invece come regolatore stagionale del ciclo, non come determinante della forma.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.6"
+  },
+  {
+    "id": "palco-2-029",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "Perché la rottura delle stanghe durante la ricrescita produce un effetto diverso da una lesione dello stelo o dell'osso frontale?",
+    "suggestion": "Distingui i danni che si recuperano col ciclo successivo da quelli che restano per sempre; guarda dove avviene il danno.",
+    "options": [
+      "La rottura delle stanghe in ricrescita dà cime in soprannumero con effetto transitorio, mentre la lesione dello stelo o dell'osso frontale produce un palco poco sviluppato o pendente in modo definitivo",
+      "Entrambe le lesioni hanno effetto definitivo e provocano la stessa malformazione",
+      "La rottura delle stanghe è definitiva, mentre la lesione dello stelo è solo transitoria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Secondo la tabella delle lesioni, la rottura delle stanghe durante la ricrescita causa la formazione di cime in soprannumero con effetto transitorio, perché il palco viene rinnovato; la lesione dello stelo (peduncolo) o dell'osso frontale danneggia invece la struttura di supporto permanente e produce un palco poco sviluppato, delocalizzato o pendente con effetto definitivo. Non hanno quindi lo stesso effetto, e l'attribuzione transitoria/definitiva è opposta a quanto indicato nelle altre opzioni.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.23"
+  },
+  {
+    "id": "palco-2-030",
+    "topic": "palco-2",
+    "species": "Cervidi — palco (II)",
+    "question": "In quali specie l'assenza di corna nei maschi costituisce la condizione normale e non un'anomalia?",
+    "suggestion": "Non sono cervidi nostrani: pensa a due cervidi asiatici di piccola taglia noti per i canini sporgenti più che per i palchi.",
+    "options": [
+      "Nel cervo rosso e nel daino",
+      "Nel cervo muschiato e nel cervo d'acqua cinese",
+      "Nel capriolo e nella renna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo precisa che l'assenza di corna nei maschi è la condizione normale nel cervo muschiato e nel cervo d'acqua cinese; in altre specie (cervo a coda bianca, cervo-mulo, caribù) si verifica raramente come anomalia, mentre è molto rara nel cervo ed è praticamente sconosciuta nel capriolo. Cervo rosso, daino, capriolo e renna portano normalmente i palchi nei maschi.",
+    "difficulty": "medium",
+    "source": "7 PALCO II parte.pdf p.32"
   }
 ]

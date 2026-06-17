@@ -423,5 +423,124 @@
     "explanation": "Il testo definisce la miosi come costrizione mediata da fibre del parasimpatico, contrapposta alla midriasi (dilatazione) mediata dal simpatico. La prima opzione descrive la midriasi, non la miosi; l'umor acqueo è prodotto dal corpo ciliare, non dall'iride. La risposta corretta è dunque presente, quindi 'nessuna delle precedenti' è errata.",
     "difficulty": "hard",
     "source": "8 cervidi SENSI.pdf p.11"
+  },
+  {
+    "id": "cervidi-sensi-026",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Cosa permette ai cervidi la loro soglia di percezione olfattiva molto bassa?",
+    "suggestion": "Pensa a cosa significa, in termini di distanza, riuscire a 'sentire' anche una quantità minima di molecole odorose.",
+    "options": [
+      "Di rilevare odori anche provenienti da sorgenti molto distanti, fino a circa 400 metri",
+      "Di distinguere i colori meglio dei predatori",
+      "Di percepire i suoni metallici a maggiore distanza",
+      "Di produrre una maggiore quantità di feromoni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo afferma che i cervidi presentano soglie di percezione olfattiva molto basse, che permettono loro di rilevare odori anche provenienti da sorgenti molto distanti (fino a circa 400 metri). Una soglia bassa riguarda la sensibilità olfattiva, non la percezione dei colori, dei suoni o la produzione di feromoni.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.1"
+  },
+  {
+    "id": "cervidi-sensi-027",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Che tipo di neuroni sono le cellule olfattive descritte nel sistema olfattorio dei cervidi?",
+    "suggestion": "Hanno un prolungamento periferico che, tra le cellule di sostegno, termina con una dilatazione detta vescicola olfattoria: quanti poli funzionali hanno?",
+    "options": [
+      "Neuroni unipolari privi di prolungamento periferico",
+      "Neuroni bipolari con un prolungamento periferico che termina nella vescicola olfattoria",
+      "Cellule di sostegno non nervose",
+      "Cellule ciliate dell'organo del Corti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo descrive le cellule olfattive come neuroni bipolari con un prolungamento periferico che si allunga tra le cellule di sostegno e termina in superficie con una dilatazione sferoidale detta vescicola olfattoria. Non sono unipolari né semplici cellule di sostegno, e le cellule ciliate dell'organo del Corti appartengono all'udito.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.2"
+  },
+  {
+    "id": "cervidi-sensi-028",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "In che cosa la conformazione dell'orecchio esterno rende gli ungulati selvatici superiori all'uomo nell'udito?",
+    "suggestion": "Non si tratta solo di sentire un suono più debole: pensa a quanto è importante capire 'da dove' arriva.",
+    "options": [
+      "Nella capacità di amplificare le vibrazioni tramite gli ossicini",
+      "Nella produzione di endolinfa del labirinto",
+      "Nella percezione dei suoni e soprattutto nell'individuazione della loro esatta provenienza",
+      "Nella distinzione dei colori in penombra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il testo afferma che conformazione, struttura e motilità dell'orecchio esterno rendono gli ungulati più sensibili dell'uomo nella percezione di suoni e rumori e, soprattutto, nell'individuazione della loro esatta provenienza. L'amplificazione tramite ossicini è compito dell'orecchio medio e non riguarda la localizzazione, l'endolinfa è dell'orecchio interno e i colori riguardano la vista.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.5"
+  },
+  {
+    "id": "cervidi-sensi-029",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Perché alcune specie come il cervo sono più abili del daino nell'individuare e localizzare rumori 'anomali' o 'sospetti'?",
+    "suggestion": "Il testo lega questa abilità non a tutto l'orecchio, ma allo sviluppo di una porzione esterna ben visibile.",
+    "options": [
+      "Per il maggiore sviluppo dei padiglioni auricolari (orecchio esterno)",
+      "Per un organo di Jacobson più grande",
+      "Per una coclea con più giri",
+      "Per una maggiore quantità di endolinfa nel labirinto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo spiega che, probabilmente in funzione del maggiore o minore sviluppo dei padiglioni auricolari (orecchio esterno), alcune specie come il cervo sono più abili di altre (ad esempio il daino) a individuare e localizzare suoni o rumori anomali e sospetti. L'organo di Jacobson è olfattivo, mentre coclea ed endolinfa riguardano la trasduzione del suono, non la sua localizzazione.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.5"
+  },
+  {
+    "id": "cervidi-sensi-030",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Quale funzione svolge il cristallino nell'occhio dei cervidi e da cosa dipende?",
+    "suggestion": "È una lente convessa: pensa a cosa cambia nella sua forma per vedere nitidi oggetti a distanze diverse.",
+    "options": [
+      "Regola la quantità di luce in ingresso variando il proprio diametro",
+      "Assorbe la luce in eccesso grazie alla sua vascolarizzazione",
+      "Mette a fuoco gli oggetti grazie alla variazione della propria curvatura",
+      "Produce l'umor acqueo della camera anteriore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il testo descrive il cristallino come una lente convessa la cui variazione di curvatura permette di mettere a fuoco gli oggetti. La regolazione della luce spetta all'iride (pupilla), l'assorbimento della luce alla coroide e la produzione di umor acqueo al corpo ciliare.",
+    "difficulty": "easy",
+    "source": "8 cervidi SENSI.pdf p.10"
+  },
+  {
+    "id": "cervidi-sensi-031",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Tramite quali nervi le terminazioni nervose alla base delle cellule gustative afferiscono al sistema nervoso centrale?",
+    "suggestion": "Sono tre nervi cranici dedicati alla gustazione; pensa a quelli associati alla faccia, alla faringe e ai visceri.",
+    "options": [
+      "Tramite il nervo ottico e il chiasma ottico",
+      "Tramite il nervo vestibolococleare",
+      "Tramite i nervi olfattori che raggiungono il bulbo olfattivo",
+      "Tramite il nervo faciale, il glossofaringeo e il vago"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il testo indica che intorno alla parte basale delle cellule gustative si sfioccano terminazioni nervose sensitive che afferiscono al SNC tramite il nervo faciale, il glossofaringeo e il vago. Il nervo ottico riguarda la vista, il vestibolococleare l'udito e l'equilibrio e i nervi olfattori l'olfatto.",
+    "difficulty": "hard",
+    "source": "8 cervidi SENSI.pdf p.21"
+  },
+  {
+    "id": "cervidi-sensi-032",
+    "topic": "cervidi-sensi",
+    "species": "Cervidi — sensi",
+    "question": "Cosa consente alle vibrisse dei cervidi di essere usate come veri e propri organi di esplorazione tattile, simili ad antenne?",
+    "suggestion": "Oltre alla ricca innervazione, serve qualcosa che permetta di muoverle e dirigerle: pensa a una componente muscolare associata.",
+    "options": [
+      "L'associazione a muscoli piloerettori, che ne consentono l'orientamento",
+      "La presenza di una guaina mielinica che le isola",
+      "La connessione diretta con l'organo di Jacobson",
+      "La capacità di percepire le alte temperature come i corpuscoli di Ruffini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo spiega che le vibrisse, peli specializzati a stelo rigido con radice riccamente innervata, sono associate a muscoli piloerettori che ne consentono l'orientamento, permettendo all'animale di utilizzarle come organi di esplorazione tattile simili ad antenne. La guaina mielinica, l'organo di Jacobson (olfattivo) e i corpuscoli di Ruffini (termocettori) non spiegano questa funzione esplorativa orientabile.",
+    "difficulty": "medium",
+    "source": "8 cervidi SENSI.pdf p.24"
   }
 ]

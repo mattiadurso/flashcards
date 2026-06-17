@@ -481,19 +481,19 @@
     },
     {
         "id": "rettili-orbettino-specializzazione-001",
-        "topic": "anatomia",
-        "species": "Orbettino (Anguis fragilis)",
-        "question": "Quale adattamento corporeo dell'orbettino lo rende un fossore efficiente?",
+        "topic": "rettili",
+        "species": "Vipera (Vipera aspis / Vipera berus)",
+        "question": "Come si distingue la vipera comune dalla natrice tassellata in campo, tenendo conto che l'ornamentazione dorsale delle due specie può essere simile?",
         "options": [
-            "Ha arti sviluppati",
-            "Ha corpo allungato senza arti (o con arti vestigiali) che permette movimento nel terreno",
-            "Ha pinne",
-            "Ha ali"
+            "La vipera ha corpo slanciato e pupilla rotonda, la natrice ha pupilla verticale",
+            "La vipera ha pupilla verticale, corpo più tozzo e ventre uniformemente scuro",
+            "La vipera ha un collare giallo caratteristico come la natrice dal collare",
+            "Non è possibile distinguerle senza esame in laboratorio"
         ],
         "correctIndex": 1,
-        "explanation": "L'orbettino è una lucertola che ha perso gli arti durante l'evoluzione: il corpo cilindrico permette movimento fluido attraverso il suolo e la lettiera per cercare invertebrati.",
-        "difficulty": "hard",
-        "source": "PLACEHOLDER — rettili"
+        "explanation": "L'ornamentazione dorsale della natrice tassellata può ricordare quella della vipera comune. Tuttavia la vipera si distingue per: pupilla verticale, corpo più tozzo e ventre uniformemente scuro — tre caratteri che la natrice non condivide.",
+        "difficulty": "medium",
+        "source": "28 RETTILI specie.pdf"
     },
     {
         "id": "rettili-testuggine-guscio-001",

@@ -20,9 +20,6 @@ questions/
     capriolo.json
     cervo.json
     ...
-images/
-  Anatomia_e_Biologia/             ← optional, topic-scoped images
-    capriolo-skull.jpg
 docs/
   Anatomia_e_Biologia/             ← source PDFs (same folder name as above)
     9 DAINO.pdf
@@ -86,8 +83,7 @@ Either a flat array of question objects, or `{ "questions": [...] }`. The flat a
   "correctIndex": 1,                    // REQUIRED, 0-based
   "explanation": "…",                   // OPTIONAL but strongly encouraged, Italian
   "difficulty": "easy",                 // OPTIONAL: "easy" | "medium" | "hard"
-  "source": "DAINO.pdf p.14",           // REQUIRED for traceability — PDF + page
-  "image": "images/capriolo/skull.jpg"  // OPTIONAL — relative to project root
+  "source": "DAINO.pdf p.14"            // REQUIRED for traceability — PDF + page
 }
 ```
 
@@ -104,7 +100,6 @@ Either a flat array of question objects, or `{ "questions": [...] }`. The flat a
 | `explanation`  | One short paragraph explaining **why** the answer is correct (and ideally why the others are not). Italian. |
 | `difficulty`   | Only the three strings listed. Omit when unsure. |
 | `source`       | Always include the source PDF file name and page number(s), e.g. `"DAINO.pdf p.14"` or `"DAINO.pdf pp.14-15"`. |
-| `image`        | Relative path from project root. Used for anatomy / ID questions where a visual is essential. Place files under `images/<topic>/`. |
 
 ---
 
@@ -125,7 +120,6 @@ Guidelines:
 - One idea per question. If you find yourself writing "e inoltre", split it.
 - Distractors should be the kind of mistake a real student would make: confuse two similar species, swap two anatomical structures, invert a cause and effect.
 - If the PDF gives a number (gestation length, weight), prefer asking *why* it differs from a related species, not the bare number.
-- When asking about an image, the question must reference what is visible (`"Quale struttura è indicata dalla freccia?"`) and the `image` field must be set.
 - 2–4 options. Three is the sweet spot — four only when you have four genuinely plausible answers.
 
 **The `suggestion` (hint):** a single Italian sentence that helps a stuck student *reason toward* the answer, never one that hands it over. Good hints point at the underlying concept ("Ricorda la differenza tra corna cave permanenti e palchi ossei caduchi."), the place to look, or the kind of mechanism involved. Bad hints restate the question, name the correct option, or are so vague they help nobody ("Pensaci bene."). For a trabocchetto/borderline question, the hint can flag that a precise value or a subtle distinction is at stake — without saying which option is the trap.
@@ -207,7 +201,6 @@ Run through this list before adding a new batch:
 - [ ] Each `suggestion` (when present) is a real hint and does **not** reveal or name the correct option.
 - [ ] No question depends on another ("come visto sopra").
 - [ ] Every question carries a `source` pointing at the PDF and page.
-- [ ] If `image` is set, the file exists at the given path and is committed to `images/<topic>/`.
 - [ ] No invented biological facts — if a claim is not in the PDF, drop the question or mark `"source": "PLACEHOLDER — replace with real PDF content"`.
 - [ ] `questions/index.json` has an entry for the new file — correct `file` path (`<Topic_Folder>/<species>.json`), `species`, `source`, and a `count` matching the number of questions in the file.
 - [ ] Open `index.html`, pick the topic from the dropdown, and walk through every new question once.

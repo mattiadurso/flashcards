@@ -61,9 +61,8 @@
 * { box-sizing: border-box; }
 
 /* The HTML `hidden` attribute must always win. Without this, any element that
-   also has a `display` rule in this file (.lightbox, .feedback, …) ignores
-   `hidden` and stays visible — the .lightbox scrim then covers the whole page
-   in every browser. `!important` restores the intended "hidden means gone". */
+   also has a `display` rule in this file (.feedback, …) ignores `hidden` and
+   stays visible in every browser. `!important` restores "hidden means gone". */
 [hidden] { display: none !important; }
 
 html, body {
@@ -173,42 +172,6 @@ body {
   border-radius: 999px;
   font-size: 11px;
   font-weight: 700;
-}
-
-.filters {
-  display: flex;
-  gap: 10px;
-  margin-top: 12px;
-  flex-wrap: wrap;
-}
-
-.field {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  font-size: 12px;
-  color: var(--text-muted);
-  flex: 1 1 140px;
-}
-
-.field select,
-.setup-field select {
-  appearance: none;
-  -webkit-appearance: none;
-  background-color: var(--card-bg);
-  color: var(--text);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 10px 34px 10px 12px;
-  font: inherit;
-  font-size: 15px;
-  background-image:
-    linear-gradient(45deg, transparent 50%, var(--text-muted) 50%),
-    linear-gradient(135deg, var(--text-muted) 50%, transparent 50%);
-  background-position: calc(100% - 18px) 50%, calc(100% - 13px) 50%;
-  background-size: 5px 5px, 5px 5px;
-  background-repeat: no-repeat;
-  cursor: pointer;
 }
 
 /* Topics multi-select: a button that looks like the other fields plus a
@@ -462,22 +425,6 @@ body {
 .card.leaving { opacity: 0; transform: translateY(-8px); }
 .card.entering { opacity: 0; transform: translateY(10px); }
 
-.image-wrap {
-  margin: -4px 0 0;
-  border-radius: var(--radius-sm);
-  overflow: hidden;
-  background: var(--tint-text-06);
-  cursor: zoom-in;
-}
-.image-wrap img {
-  display: block;
-  width: 100%;
-  height: auto;
-  max-height: 340px;
-  object-fit: contain;
-  background: #fff;
-}
-
 .meta-bar {
   display: flex;
   align-items: center;
@@ -654,8 +601,10 @@ body {
 .explanation-summary::-webkit-details-marker { display: none; }  /* Safari */
 .explanation-summary:hover { background: var(--tint-accent-12); }
 
-/* Chevron drawn from two borders; points down when closed, flips up when open. */
-.explanation-chevron {
+/* Chevron drawn from two borders; points down when closed, flips up when open.
+   Shared by the explanation and suggestion foldable boxes (color via currentColor). */
+.explanation-chevron,
+.suggestion-chevron {
   width: 9px;
   height: 9px;
   margin-right: 2px;
@@ -665,7 +614,8 @@ body {
   transition: transform 0.2s ease;
   flex-shrink: 0;
 }
-.explanation-box[open] .explanation-chevron {
+.explanation-box[open] .explanation-chevron,
+.suggestion-box[open] .suggestion-chevron {
   transform: rotate(-135deg) translateY(-2px);
 }
 
@@ -706,20 +656,6 @@ body {
 }
 .suggestion-summary::-webkit-details-marker { display: none; }
 .suggestion-summary:hover { background: rgba(255, 159, 10, 0.12); }
-
-.suggestion-chevron {
-  width: 9px;
-  height: 9px;
-  margin-right: 2px;
-  border-right: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
-  transform: rotate(45deg) translateY(-2px);
-  transition: transform 0.2s ease;
-  flex-shrink: 0;
-}
-.suggestion-box[open] .suggestion-chevron {
-  transform: rotate(-135deg) translateY(-2px);
-}
 
 .suggestion {
   margin: 0;
@@ -831,24 +767,6 @@ body {
 .arg-fill.good { background: var(--green); }
 .arg-fill.ok   { background: var(--amber); }
 .arg-fill.bad  { background: var(--red); }
-
-.lightbox {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.92);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 100;
-  cursor: zoom-out;
-  padding: 24px;
-}
-.lightbox img {
-  max-width: 100%;
-  max-height: 100%;
-  border-radius: 12px;
-  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
-}
 
 code {
   font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;

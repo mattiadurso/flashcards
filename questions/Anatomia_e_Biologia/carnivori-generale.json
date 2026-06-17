@@ -457,5 +457,69 @@
     "explanation": "I cuscinetti digitali di canidi e felidi sono rivestiti da epidermide glabra; la superficie è liscia nei felidi e più rugosa nei canidi per la presenza di papille coniche cheratinizzate. La prima opzione inverte le famiglie, l'epidermide è priva di peli (non pelosa) e quindi 'Nessuna delle precedenti' non si applica perché l'opzione corretta è presente.",
     "difficulty": "hard",
     "source": "16 carnivori in generale.pdf p.38"
+  },
+  {
+    "id": "carnivori-generale-028",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Confrontando il cranio di orso bruno, lupo e lince, quale dentatura riflette la minore specializzazione carnivora, con regressione dei premolari?",
+    "suggestion": "Pensa a quale di questi tre animali ha la dieta più onnivora: la sua dentatura tende ad appiattirsi per triturare.",
+    "options": [
+      "La dentatura della lince, di tipo secodonte con enorme sviluppo del dente ferino",
+      "La dentatura dell'orso bruno, tendente al tipo bunodonte con regressione dei premolari",
+      "La dentatura del lupo, di tipo secodonte con elevato numero di denti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lungo la progressiva spinta al carnivorismo stretto, l'orso bruno mostra la minore specializzazione: la sua dentatura tende al tipo bunodonte (cuspidi arrotondate da triturazione) con regressione dei premolari, coerente con la dieta onnivora. Il lupo è secodonte ma conserva un elevato numero di denti e buoni incisivi; la lince, carnivoro stretto, è secodonte con enorme sviluppo di canini e dente ferino e forte riduzione degli incisivi: entrambi sono più specializzati al taglio dell'orso.",
+    "difficulty": "hard",
+    "source": "16 carnivori in generale.pdf p.7"
+  },
+  {
+    "id": "carnivori-generale-029",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "A cosa serve, nei felidi, la lingua ricoperta di papille cornee?",
+    "suggestion": "Pensa a come un felide ripulisce una carcassa fino all'osso, non a come mastica.",
+    "options": [
+      "A trattenere e filtrare piccoli invertebrati durante l'alimentazione",
+      "A triturare la fibra vegetale come avviene nei ruminanti",
+      "A raschiare e spolpare le ossa delle prede"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lingua dei felidi è ricoperta da papille cornee che permettono all'animale di raschiare e spolpare le ossa delle prede, sfruttando al massimo la carcassa. Non ha funzione filtrante (assente nei felidi predatori) né triturante: la triturazione della fibra è propria degli erbivori, mentre la dentatura felina è specializzata nel taglio e nello strappo, non nella masticazione.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.41"
+  },
+  {
+    "id": "carnivori-generale-030",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "In che condizione nascono i piccoli dei canidi, e come si lega questo alla loro biologia riproduttiva?",
+    "suggestion": "Pensa al ruolo della tana e delle cure parentali: i piccoli possono cavarsela da soli appena nati?",
+    "options": [
+      "Nascono autosufficienti e abbandonano subito la tana per seguire la madre",
+      "Nascono inetti in una tana protetta, dove la madre li accudisce fino all'autonomia",
+      "Nascono già capaci di cacciare in piccoli gruppi cooperativi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I canidi sono generalmente prolifici (uno o due parti l'anno, con 2-14 piccoli) e i piccoli nascono inetti: il parto avviene in una tana protetta, dove la madre li accudisce fino al raggiungimento dell'autonomia. Non sono quindi autosufficienti né capaci di cacciare alla nascita; la caccia cooperativa è una strategia degli adulti gregari, non dei neonati.",
+    "difficulty": "easy",
+    "source": "16 carnivori in generale.pdf p.40"
+  },
+  {
+    "id": "carnivori-generale-031",
+    "topic": "carnivori-generale",
+    "species": "Carnivori — parte generale",
+    "question": "Qual è la funzione principale della bolla timpanica, ben sviluppata nel cranio dei Carnivori?",
+    "suggestion": "È una cavità ossea dell'orecchio medio: pensa a cosa fa una cassa di risonanza per un suono.",
+    "options": [
+      "Alloggiare i turbinati nasali e migliorare l'olfatto",
+      "Dare attacco ai muscoli temporali per la chiusura della mandibola",
+      "Amplificare i suoni, contribuendo a una buona capacità uditiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "La bolla timpanica è una cavità ossea dell'orecchio medio, formata principalmente dall'osso timpanico, che amplifica i suoni e contribuisce così a una buona capacità uditiva; nei carnivori è generalmente ben sviluppata. Non ha a che fare con l'olfatto (di competenza dei turbinati nasali) né con l'attacco dei muscoli masticatori, che avviene su cresta sagittale e arco zigomatico.",
+    "difficulty": "medium",
+    "source": "16 carnivori in generale.pdf p.27"
   }
 ]

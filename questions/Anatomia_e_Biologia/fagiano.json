@@ -112,20 +112,19 @@
         "source": "PLACEHOLDER — 25 il fagiano.pdf"
     },
     {
-        "id": "fagiano-alimentazione-001",
+        "id": "fagiano-alimentazione-003",
         "topic": "uccelli",
         "species": "Fagiano (Phasianus colchicus)",
-        "question": "Quale è la base della dieta del fagiano?",
+        "question": "Come si può definire il regime alimentare del fagiano?",
+        "suggestion": "Pensa a una specie che sfrutta sia risorse vegetali sia animali, adattando la dieta alla stagione.",
         "options": [
-            "Semi di erbacce",
-            "Insetti e piccoli invertebrati",
-            "Frutta e bacche",
-            "Tutto quanto",
-            "Semi di cereali"
+            "Strettamente granivoro, si nutre solo di semi di cereali",
+            "Onnivoro e generalista, con dieta che varia secondo la stagione e la disponibilità",
+            "Essenzialmente insettivoro per tutto l'arco dell'anno"
         ],
-        "correctIndex": 3,
-        "explanation": "Il fagiano è onnivoro: si nutre di semi di erbacce e cereali, insetti, invertebrati, frutta e bacche secondo la stagione.",
-        "difficulty": "medium",
+        "correctIndex": 1,
+        "explanation": "Il fagiano è onnivoro: a seconda della stagione e della disponibilità utilizza semi di erbacce e cereali, insetti e piccoli invertebrati, frutta e bacche. Non è quindi né uno stretto granivoro né un insettivoro specializzato.",
+        "difficulty": "easy",
         "source": "PLACEHOLDER — 25 il fagiano.pdf"
     },
     {
@@ -431,5 +430,149 @@
         "explanation": "I pulcini di fagiano sono precoci: subito dopo la schiusa seguono la madre sul terreno, imparando a cercare cibo autonomamente.",
         "difficulty": "easy",
         "source": "PLACEHOLDER — 25 il fagiano.pdf"
+    },
+    {
+        "id": "fagiano-origine-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Perché in Italia è oggi difficile attribuire ai fagiani naturalizzati una sicura provenienza di sottospecie?",
+        "suggestion": "Pensa al fatto che il fagiano non è autoctono e a come è arrivato in gran numero: molte immissioni di origini diverse a quale conseguenza genetica portano?",
+        "options": [
+            "Perché si tratta di una specie autoctona molto antica priva di documentazione",
+            "Perché le immissioni a scopo venatorio hanno coinvolto molteplici sottospecie che si sono incrociate, dando luogo a numerose ibridazioni",
+            "Perché tutte le sottospecie sono identiche e indistinguibili"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il fagiano è una specie alloctona di origine asiatica, diffusa in Italia da rilasci a scopo venatorio che hanno interessato molte sottospecie diverse; il risultato sono numerose ibridazioni, per cui nei soggetti naturalizzati emergono caratteri riconducibili soprattutto alle sottospecie colchicus, mongolicus e torquatus.",
+        "difficulty": "medium",
+        "source": "25 il fagiano.pdf p.2"
+    },
+    {
+        "id": "fagiano-remiganti-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quante sono le penne remiganti primarie del fagiano?",
+        "suggestion": "È un numero piccolo e fisso, citato tra i caratteri dei Galliformi insieme alla forma stretta e leggermente curva di queste penne.",
+        "options": [
+            "10",
+            "17",
+            "24"
+        ],
+        "correctIndex": 0,
+        "explanation": "Il fagiano possiede 10 penne remiganti primarie, descritte come strette e leggermente curve; le 17 secondarie sono un valore diverso, citato a proposito della sequenza di muta.",
+        "difficulty": "medium",
+        "source": "25 il fagiano.pdf p.2"
+    },
+    {
+        "id": "fagiano-caruncola-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Cos'è la caruncola del maschio di fagiano e in quale occasione viene messa in maggiore evidenza?",
+        "suggestion": "Pensa alla zona rossa nuda intorno all'occhio e al fatto che è una struttura erettile: quando al maschio conviene esibirla?",
+        "options": [
+            "Una ghiandola odorifera sul dorso, attivata durante la fuga",
+            "L'area nuda e papillosa rosso scarlatto intorno all'occhio, struttura erettile che viene estesa in gonfie pieghe durante il corteggiamento",
+            "Una sacca golare gonfiabile usata per emettere il canto"
+        ],
+        "correctIndex": 1,
+        "explanation": "La caruncola è l'area nuda intorno all'occhio del maschio, coperta da piccole papille rosso scarlatto; essendo erettile, durante il corteggiamento viene estesa in gonfie pieghe che scendono sulle guance, accentuando l'aspetto appariscente del maschio.",
+        "difficulty": "medium",
+        "source": "25 il fagiano.pdf p.5"
+    },
+    {
+        "id": "fagiano-harem-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quale tipo di sistema riproduttivo caratterizza il fagiano?",
+        "suggestion": "Considera che un singolo maschio territoriale controlla e difende un gruppo di femmine: come si definisce questo tipo di accoppiamento?",
+        "options": [
+            "Monogamo, con coppie stabili per tutta la vita",
+            "Poliginico, incentrato sulla difesa territoriale di un harem da parte del maschio",
+            "Promiscuo, senza alcuna difesa del territorio"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il fagiano ha un sistema riproduttivo poliginico basato sulla difesa di un harem: il maschio territoriale controlla un gruppo di femmine e si esibisce in combattimenti per acquisire e difendere la propria area riproduttiva.",
+        "difficulty": "medium",
+        "source": "25 il fagiano.pdf p.7"
+    },
+    {
+        "id": "fagiano-harem-002",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Da cosa dipende principalmente la grandezza dell'harem di un maschio di fagiano?",
+        "suggestion": "Non è il maschio a 'conquistare' meccanicamente le femmine: chi compie la decisione finale, e su quali caratteri si basa?",
+        "options": [
+            "Dalla sola competizione fisica tra maschi, indipendentemente dalle femmine",
+            "Dalla scelta delle femmine, attratte da caratteri fenotipici come la lunghezza dello sperone, la lunghezza della coda e le macchie nere sulla caruncola",
+            "Dall'ordine di arrivo dei maschi nel territorio"
+        ],
+        "correctIndex": 1,
+        "explanation": "La dimensione dell'harem è il risultato di una scelta delle femmine più che di una competizione tra maschi: le femmine valutano la capacità del maschio di difenderle e i suoi caratteri fenotipici, come lunghezza dello sperone, lunghezza della coda e presenza di macchie nere sulla caruncola.",
+        "difficulty": "hard",
+        "source": "25 il fagiano.pdf p.9"
+    },
+    {
+        "id": "fagiano-mhc-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Secondo gli studi più recenti, quale criterio genetico guida la scelta del partner nella femmina di fagiano?",
+        "suggestion": "Non basta scegliere 'i geni migliori': pensa al compromesso tra rischio di consanguineità ed eccessiva diversità riguardo al sistema MHC.",
+        "options": [
+            "Predilige maschi geneticamente identici a sé per conservare il patrimonio della popolazione",
+            "Predilige maschi con MHC né troppo simile né troppo diverso dal proprio, cioè di compatibilità ottimale",
+            "Sceglie i maschi geneticamente più diversi possibile per massimizzare l'eterosi"
+        ],
+        "correctIndex": 1,
+        "explanation": "La femmina non cerca solo maschi con 'buoni geni', ma tende a preferire soggetti con un MHC compatibile col proprio, né troppo simile né troppo diverso: in questo modo riduce sia il rischio di consanguineità sia quello di un'eccessiva eterosi che potrebbe rompere gruppi di geni coadattati.",
+        "difficulty": "hard",
+        "source": "25 il fagiano.pdf p.12"
+    },
+    {
+        "id": "fagiano-sessaggio-pulcini-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Nei pulcini di fagiano appena nati, su quale struttura della regione perioculare si basa il sessaggio?",
+        "suggestion": "Pensa a quale struttura tipica dell'adulto maschio è qui solo abbozzata: cosa anticipa il tessuto papillare lungo la guancia?",
+        "options": [
+            "Sulla presenza, nei maschi, di una sottile area di tessuto papillare che rappresenta l'abbozzo della futura caruncola",
+            "Sulla lunghezza dello sperone, già visibile alla nascita nei maschi",
+            "Sul colore verde iridescente del capo, presente solo nei maschi neonati"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nei pulcini maschi appena nati è presente lungo il margine della guancia una sottile area di tessuto papillare, non piumata e poco pigmentata, che costituisce l'abbozzo della futura caruncola; nelle femmine questa struttura manca o è molto meno sviluppata.",
+        "difficulty": "medium",
+        "source": "25 il fagiano.pdf p.16"
+    },
+    {
+        "id": "fagiano-fattori-ambientali-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Oltre ai fattori ormonali, quale fattore ambientale stimola l'avvio dell'attività riproduttiva nella femmina di fagiano?",
+        "suggestion": "Pensa a cosa cambia nelle stagioni e regola l'orologio riproduttivo di molti uccelli: non è il cibo, ma qualcosa che aumenta in primavera.",
+        "options": [
+            "La diminuzione delle ore di luce giornaliera",
+            "L'aumento delle ore di luce giornaliera, che stimola la produzione degli ormoni sessuali femminili",
+            "L'aumento dell'umidità del suolo"
+        ],
+        "correctIndex": 1,
+        "explanation": "L'inizio della deposizione e il numero di uova sono influenzati da fattori ambientali: l'aumento delle ore di luce giornaliera stimola la produzione degli ormoni sessuali femminili favorendo l'avvio della riproduzione, mentre la temperatura media incide sulla frequenza e sul successo dei tentativi di nidificazione.",
+        "difficulty": "medium",
+        "source": "25 il fagiano.pdf p.15"
+    },
+    {
+        "id": "fagiano-muta-giovanile-001",
+        "topic": "uccelli",
+        "species": "Fagiano (Phasianus colchicus)",
+        "question": "Quali penne sono tipiche del piumaggio giovanile sostituito durante la muta giovanile del fagiano?",
+        "suggestion": "Si tratta delle penne del volo che mutano per prime, completando la muta giovanile intorno ai 50 giorni di età.",
+        "options": [
+            "Le prime sette remiganti primarie e alcune remiganti secondarie",
+            "Solo le penne della coda (timoniere)",
+            "Esclusivamente il piumino del capo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Le penne tipiche del piumaggio giovanile sono le prime sette remiganti primarie e alcune remiganti secondarie (tra la 3a e l'11a); tutte le altre penne compaiono gradualmente e la muta giovanile si completa intorno ai 50 giorni di età.",
+        "difficulty": "hard",
+        "source": "25 il fagiano.pdf p.21"
     }
 ]

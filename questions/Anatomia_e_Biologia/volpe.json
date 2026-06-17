@@ -406,5 +406,141 @@
     "explanation": "Trabocchetto: secondo la tabella di sviluppo dei giovani l'indipendenza è raggiunta a 4 mesi, valore non presente tra le opzioni. A 2 mesi (fine svezzamento) e a 30 giorni (inizio alimentazione con cibi solidi) si collocano altre tappe; a 5-7 mesi (agosto-settembre) i giovani hanno già diverse piccole aree di attività, ma l'indipendenza vera e propria è precedente.",
     "difficulty": "hard",
     "source": "20 volpe rossa.pdf p.31"
+  },
+  {
+    "id": "volpe-025",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Quale funzione svolge principalmente la coda della volpe durante la corsa e i cambi di direzione?",
+    "suggestion": "Pensa a cosa serve un'appendice lunga e folta quando un animale affronta una curva brusca a tutta velocità: a cosa serve un timone su una barca?",
+    "options": [
+      "Stabilizza la corsa e funge da timone per bilanciare nelle curve brusche e strette",
+      "Accumula riserve di grasso da usare durante l'inverno",
+      "Serve a immobilizzare la preda durante il balzo",
+      "Disperde il calore corporeo in eccesso durante lo sforzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La coda svolge una funzione stabilizzatrice nella corsa e serve a bilanciare nelle curve brusche e strette: nelle curve brusche la volpe la usa come timone, mentre in esplorazione in campo aperto la tiene orizzontale. Le altre funzioni non sono attribuite alla coda nel testo.",
+    "difficulty": "easy",
+    "source": "20 volpe rossa.pdf pp.7-8"
+  },
+  {
+    "id": "volpe-026",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Come cambia l'attività giornaliera della volpe tra la stagione invernale e quella estiva?",
+    "suggestion": "In inverno la giornata è corta e le prede si muovono a qualsiasi ora; in estate le notti sono più lunghe e più fresche.",
+    "options": [
+      "In inverno è esclusivamente notturna, in estate è diurna",
+      "In inverno è attiva nell'arco delle 24 ore, in estate prevalentemente di notte",
+      "È sempre esclusivamente diurna indipendentemente dalla stagione",
+      "Non cambia: è sempre crepuscolare tutto l'anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "In inverno l'attività della volpe si svolge nell'ambito delle 24 ore, mentre in estate è prevalentemente notturna. La vista risulta utile soprattutto al crepuscolo e di notte, coerentemente con queste abitudini stagionali.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.20"
+  },
+  {
+    "id": "volpe-027",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "In che modo la volpe gestisce il cibo in eccesso rispetto al suo fabbisogno giornaliero di circa 500 g?",
+    "suggestion": "Ragiona da animale previdente che non sa quando troverà il prossimo pasto: cosa fa con ciò che avanza per i periodi di carestia?",
+    "options": [
+      "Lo condivide con gli altri membri del branco",
+      "Lo lascia sul posto per attirare altre prede",
+      "Lo nasconde e sotterra come scorta da usare nei momenti di necessità (comportamento detto \"cache\")",
+      "Lo consuma immediatamente per accumulare grasso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fabbisogno giornaliero è di circa 500 g di cibo; una caratteristica tipica è nascondere e sotterrare il cibo in eccesso (comportamento detto \"cache\") per utilizzarlo in momenti di necessità, costituendo vere e proprie \"dispense\". La volpe è inoltre un predatore solitario, non di branco.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.18"
+  },
+  {
+    "id": "volpe-028",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Come è sincronizzato il ciclo riproduttivo del maschio di volpe nel corso dell'anno?",
+    "suggestion": "Cerca il mese in cui i testicoli raggiungono la massima dimensione e collegalo al periodo in cui avvengono gli accoppiamenti, tra gennaio e febbraio.",
+    "options": [
+      "I testicoli raggiungono la massima dimensione in gennaio, poi diminuiscono da febbraio ad aprile",
+      "I testicoli sono di dimensione costante per tutto l'anno",
+      "I testicoli raggiungono il massimo volume in estate",
+      "Gli spermatozoi sono presenti soprattutto nei mesi primaverili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei maschi l'attività riproduttiva segue un ciclo annuale: i testicoli raggiungono la massima dimensione in gennaio, diminuiscono di volume da febbraio ad aprile e tornano a crescere da agosto. Gli spermatozoi sono generalmente assenti nei mesi primaverili ed estivi, coerentemente con gli accoppiamenti che si concentrano tra gennaio e febbraio.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.26"
+  },
+  {
+    "id": "volpe-029",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "In quale condizione nascono i piccoli di volpe e come vengono inizialmente alimentati dopo la nascita?",
+    "suggestion": "Pensa allo stato dei sensi alla nascita in molti carnivori altriciali e alla progressione del nutrimento, che parte sempre dal latte materno.",
+    "options": [
+      "Nascono già vedenti e vengono subito nutriti con prede vive",
+      "Nascono ciechi e vengono allattati per oltre un mese, nutriti prima con prede morte e poi con prede vive",
+      "Nascono ciechi ma sono autosufficienti e cacciano da subito",
+      "Nascono vedenti e si nutrono esclusivamente di frutta sminuzzata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La femmina partorisce generalmente 3-8 piccoli che nascono ciechi, vengono allattati per oltre un mese e sono inizialmente nutriti con prede morte, poi con prede vive. Durante le prime 6 settimane si nutrono esclusivamente di latte materno; il parto avviene tra marzo e aprile dopo una gestazione di 51-52 giorni.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.27"
+  },
+  {
+    "id": "volpe-030",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Perché la vaccinazione orale è risultata la metodologia più efficace per contrastare la rabbia silvestre nelle volpi?",
+    "suggestion": "Ricorda che abbattere le volpi non funziona perché si riproducono in fretta: cosa serve allora ottenere nella popolazione, individuo per individuo, per fermare un virus densità-dipendente?",
+    "options": [
+      "Perché elimina fisicamente gli individui infetti dal territorio",
+      "Perché sterilizza le volpi riducendone il tasso riproduttivo",
+      "Perché, distribuendo esche con capsule di vaccino, crea una popolazione immunizzata nei confronti del virus della rabbia",
+      "Perché allontana le volpi dalle aree antropizzate"
+    ],
+    "correctIndex": 2,
+    "explanation": "La vaccinazione orale distribuisce sul territorio esche contenenti una capsula di vaccino liquido: quando la volpe morde l'esca, la capsula si rompe e il vaccino viene assorbito attraverso la mucosa orale, immunizzando l'animale. Considerato il rapido ricambio della popolazione volpina, l'obiettivo è creare una popolazione immunizzata contro il virus, non eliminarla, perché lo sfoltimento per abbattimento si è rivelato inefficace.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.37"
+  },
+  {
+    "id": "volpe-031",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Cosa si intende per \"surplus killing\", fenomeno che può rendere elevato il danno della volpe negli allevamenti di pollame?",
+    "suggestion": "Il termine inglese suggerisce un eccesso: pensa a quante prede vengono uccise rispetto a quante ne vengono effettivamente mangiate quando la volpe entra in un pollaio.",
+    "options": [
+      "L'uccisione di un numero di prede superiore a quelle effettivamente consumate",
+      "La predazione esclusiva degli animali più deboli del gruppo",
+      "Il furto di uova senza uccisione degli adulti",
+      "L'accumulo di carcasse in un'unica dispensa sotterranea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il surplus killing è l'uccisione di un numero di prede superiore a quelle effettivamente consumate: in un pollaio o ovile la volpe può uccidere molti più animali di quanti possa mangiare o portare via, rendendo il danno elevato. Per questo si raccomandano misure di prevenzione come reti alte almeno 150 cm e interrate.",
+    "difficulty": "medium",
+    "source": "20 volpe rossa.pdf p.35"
+  },
+  {
+    "id": "volpe-032",
+    "topic": "volpe",
+    "species": "Volpe rossa (Vulpes vulpes)",
+    "question": "Oltre alle volpi, quali altri animali è necessario esaminare nel monitoraggio di laboratorio per la sorveglianza della rabbia?",
+    "suggestion": "Pensa ad altri carnivori selvatici sensibili che condividono l'ambiente con la volpe: la famiglia dei piccoli carnivori scavatori e gli erbivori selvatici cacciati.",
+    "options": [
+      "Solo i cani e i gatti domestici della zona",
+      "Esclusivamente altre volpi rinvenute morte",
+      "I mustelidi (tassi, faine, martore, donnole, ecc.) e gli ungulati rinvenuti morti o morenti",
+      "Unicamente gli uccelli rapaci e i corvidi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il monitoraggio richiede il controllo in laboratorio di almeno 8 volpi ogni 100 km² appositamente abbattute; oltre a queste è necessario esaminare tutti gli esemplari rinvenuti morti o morenti, compresi i mustelidi (tassi, faine, martore, donnole, ecc.) e gli ungulati. Cani e gatti domestici non sono indicati come oggetto di questo monitoraggio.",
+    "difficulty": "hard",
+    "source": "20 volpe rossa.pdf p.38"
   }
 ]

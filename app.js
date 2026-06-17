@@ -29,43 +29,34 @@ const state = {
 
 // ---------- storage ----------
 
-function loadSeen() {
+// Generic localStorage helpers. The Set forms back the "seen"/"flagged" id sets;
+// all swallow quota / private-mode errors so storage stays best-effort.
+function loadSet(key) {
   try {
-    const raw = localStorage.getItem(SEEN_KEY);
+    const raw = localStorage.getItem(key);
     return raw ? new Set(JSON.parse(raw)) : new Set();
   } catch {
     return new Set();
   }
 }
 
-function saveSeen(set) {
+function saveSet(key, set) {
   try {
-    localStorage.setItem(SEEN_KEY, JSON.stringify([...set]));
+    localStorage.setItem(key, JSON.stringify([...set]));
   } catch { /* quota / private mode — silently ignore */ }
 }
 
-function clearSeen() {
-  try { localStorage.removeItem(SEEN_KEY); } catch {}
+function removeKey(key) {
+  try { localStorage.removeItem(key); } catch {}
 }
 
-function loadFlagged() {
-  try {
-    const raw = localStorage.getItem(FLAGGED_KEY);
-    return raw ? new Set(JSON.parse(raw)) : new Set();
-  } catch {
-    return new Set();
-  }
-}
+const loadSeen = () => loadSet(SEEN_KEY);
+const saveSeen = (set) => saveSet(SEEN_KEY, set);
+const clearSeen = () => removeKey(SEEN_KEY);
 
-function saveFlagged(set) {
-  try {
-    localStorage.setItem(FLAGGED_KEY, JSON.stringify([...set]));
-  } catch {}
-}
-
-function clearFlagged() {
-  try { localStorage.removeItem(FLAGGED_KEY); } catch {}
-}
+const loadFlagged = () => loadSet(FLAGGED_KEY);
+const saveFlagged = (set) => saveSet(FLAGGED_KEY, set);
+const clearFlagged = () => removeKey(FLAGGED_KEY);
 
 function loadLength() {
   try { return localStorage.getItem(LENGTH_KEY) || 'all'; } catch { return 'all'; }
@@ -88,8 +79,13 @@ function saveSelection(files) {
 
 // ---------- loading ----------
 
+// `no-cache` (not `no-store`): the browser keeps a cached copy but revalidates
+// it on every load with a conditional request. Unchanged files come back as a
+// bodyless 304 (python's http.server supports this) — so reloads stay fast and
+// never re-download the ~1 MB of JSON, yet regenerated question files are picked
+// up immediately without a hard refresh.
 async function loadBank() {
-  const manifest = await fetch('questions/index.json', { cache: 'no-store' })
+  const manifest = await fetch('questions/index.json', { cache: 'no-cache' })
     .then(r => {
       if (!r.ok) throw new Error(`questions/index.json: ${r.status}`);
       return r.json();
@@ -117,23 +113,30 @@ async function loadBank() {
     }
   }
 
-  const all = [];
-  for (const entry of entries) {
-    try {
-      const data = await fetch(`questions/${entry.file}`, { cache: 'no-store' }).then(r => {
+  // Fetch every topic file in parallel — sequential awaits made the setup
+  // screen wait on ~28 round-trips one after another. Failures are tolerated
+  // per-file (logged, skipped) so one bad file can't block the rest.
+  const loaded = await Promise.all(entries.map(entry =>
+    fetch(`questions/${entry.file}`, { cache: 'no-cache' })
+      .then(r => {
         if (!r.ok) throw new Error(`${entry.file}: ${r.status}`);
         return r.json();
-      });
-      const items = Array.isArray(data) ? data : data.questions || [];
-      for (const q of items) {
-        if (!q.topic) q.topic = entry.topic;
-        if (!q.species && entry.species) q.species = entry.species;
-        if (!q.source && entry.source) q.source = entry.source;
-        q._file = entry.file;   // which manifest file this question came from
-        all.push(q);
-      }
-    } catch (err) {
-      console.warn(`Skipping "${entry.file}": ${err.message}`);
+      })
+      .then(data => ({ entry, data }))
+      .catch(err => { console.warn(`Skipping "${entry.file}": ${err.message}`); return null; })
+  ));
+
+  const all = [];
+  for (const res of loaded) {
+    if (!res) continue;
+    const { entry, data } = res;
+    const items = Array.isArray(data) ? data : data.questions || [];
+    for (const q of items) {
+      if (!q.topic) q.topic = entry.topic;
+      if (!q.species && entry.species) q.species = entry.species;
+      if (!q.source && entry.source) q.source = entry.source;
+      q._file = entry.file;   // which manifest file this question came from
+      all.push(q);
     }
   }
 
@@ -150,23 +153,29 @@ async function loadBank() {
   // they never appear in the topic list, filters, counts or score — they just
   // surface, rarely, as a sweet surprise. Missing file is fine.
   try {
-    const eggData = await fetch('questions/easter-eggs.json', { cache: 'no-store' })
+    const eggData = await fetch('questions/easter-eggs.json', { cache: 'no-cache' })
       .then(r => (r.ok ? r.json() : null));
     const eggs = eggData && (Array.isArray(eggData) ? eggData : eggData.questions || []);
     if (eggs) for (const q of eggs) { q._bonus = true; state.eggs.push(q); }
   } catch (_) { /* no easter eggs — no problem */ }
 }
 
-const BONUS_CHANCE = 0.05;   // 5% of sessions get one bonus card
+const BONUS_CHANCE = 0.03;   // 3% of sessions get one bonus card
 
-// With BONUS_CHANCE probability, splice one random egg into the queue at a
-// random position. sessionTotal is left untouched so the bonus doesn't count
-// toward the score or the "X / N" progress denominator.
+// With BONUS_CHANCE probability, splice one random egg into the queue somewhere
+// around the middle — never as the very first card (it should feel like a
+// surprise mid-session, not a greeting). sessionTotal is left untouched so the
+// bonus doesn't count toward the score or the "X / N" progress denominator.
 function maybeInsertBonus() {
   if (state.eggs.length === 0 || state.queue.length === 0) return;
   if (Math.random() >= BONUS_CHANCE) return;
   const egg = state.eggs[Math.floor(Math.random() * state.eggs.length)];
-  const pos = Math.floor(Math.random() * (state.queue.length + 1));
+  // Center on the middle, jitter within ±25% of the queue length, and clamp to
+  // [1, length] so it's never first but still lands roughly in the middle.
+  const mid = state.queue.length / 2;
+  const spread = state.queue.length * 0.25;
+  const raw = Math.round(mid + (Math.random() * 2 - 1) * spread);
+  const pos = Math.max(1, Math.min(state.queue.length, raw));
   state.queue.splice(pos, 0, egg.id);
 }
 
@@ -184,15 +193,17 @@ function difficultyMatches(q) {
   return state.selectedDifficulties.has(q.difficulty);
 }
 
+// A question is in the active pool when it isn't flagged, belongs to a selected
+// topic file, and matches the difficulty filter. `flagged` is passed in so
+// callers read localStorage once, not once per question.
+function matchesFilters(q, flagged) {
+  return !flagged.has(q.id) && state.selectedFiles.has(q._file) && difficultyMatches(q);
+}
+
 function applyFilters() {
   const seen = loadSeen();
   const flagged = loadFlagged();
-  state.filtered = state.bank.filter(q => {
-    if (flagged.has(q.id)) return false;
-    if (!state.selectedFiles.has(q._file)) return false;
-    if (!difficultyMatches(q)) return false;
-    return true;
-  });
+  state.filtered = state.bank.filter(q => matchesFilters(q, flagged));
 
   // Auto-reset if every filtered question is already seen.
   const unseen = state.filtered.filter(q => !seen.has(q.id));
@@ -264,8 +275,6 @@ const els = {
   suggestionBox: document.getElementById('suggestion-box'),
   suggestion: document.getElementById('suggestion'),
   nextBtn: document.getElementById('next-btn'),
-  imageWrap: document.getElementById('image-wrap'),
-  cardImage: document.getElementById('card-image'),
   metaRow: document.getElementById('meta-row'),
   flagBtn: document.getElementById('flag-btn'),
   endScreen: document.getElementById('end-screen'),
@@ -278,8 +287,6 @@ const els = {
   breakdownList: document.getElementById('breakdown-list'),
   restartBtn: document.getElementById('restart-btn'),
   emptyScreen: document.getElementById('empty-screen'),
-  lightbox: document.getElementById('lightbox'),
-  lightboxImg: document.getElementById('lightbox-img'),
 };
 
 // ---------- topics multi-select ----------
@@ -444,20 +451,19 @@ function buildCountPresets() {
   els.countPresets.appendChild(all);
 }
 
-// How many questions a session would actually contain right now — i.e. the
-// size of the pool applyFilters() will build: unseen questions matching the
-// topic + difficulty selection (flagged excluded). When everything has been
-// seen, applyFilters auto-resets to the full set, so report that here too.
-function availableCount() {
+// Counts for the current topic + difficulty selection (flagged excluded):
+//   total     — all matching questions
+//   answered  — how many already seen
+//   available — the pool the next session draws from: unseen questions, or —
+//               once everything has been seen — the whole set, since
+//               applyFilters() auto-resets the "seen" slice in that case.
+function selectionCounts() {
   const flagged = loadFlagged();
   const seen = loadSeen();
-  const filtered = state.bank.filter(q =>
-    !flagged.has(q.id) &&
-    state.selectedFiles.has(q._file) &&
-    difficultyMatches(q)
-  );
-  const unseen = filtered.filter(q => !seen.has(q.id));
-  return unseen.length === 0 ? filtered.length : unseen.length;
+  const filtered = state.bank.filter(q => matchesFilters(q, flagged));
+  const answered = filtered.filter(q => seen.has(q.id)).length;
+  const unseen = filtered.length - answered;
+  return { total: filtered.length, answered, available: unseen === 0 ? filtered.length : unseen };
 }
 
 // Set the session length from a preset chip; persist and re-highlight.
@@ -476,9 +482,9 @@ function refreshCountActive() {
 // Refresh the "N disponibili" hint, the visible presets, and whether "Inizia"
 // is enabled, from the real pool size.
 function updateAvailableCount() {
-  const n = availableCount();
+  const { answered, available: n } = selectionCounts();
   els.countHint.textContent = n
-    ? `${n} domande disponibili`
+    ? (answered ? `${answered} già viste · ${n} disponibili` : `${n} domande disponibili`)
     : 'Nessuna domanda per questa selezione';
   els.startBtn.disabled = n === 0;
   // hide presets that meet or exceed the pool (they'd behave like "Tutte"),
@@ -614,16 +620,6 @@ function renderQuestion(q) {
   // slide/fade transition
   els.card.classList.add('leaving');
   setTimeout(() => {
-    // image
-    if (q.image) {
-      els.cardImage.src = q.image;
-      els.cardImage.alt = q.question || '';
-      els.imageWrap.hidden = false;
-    } else {
-      els.imageWrap.hidden = true;
-      els.cardImage.removeAttribute('src');
-    }
-
     // meta tags
     els.metaRow.innerHTML = '';
     if (q._bonus) {
@@ -998,20 +994,8 @@ function bindEvents() {
   els.nextBtn.addEventListener('click', () => nextQuestion());
   els.restartBtn.addEventListener('click', () => startSession());
 
-  // image lightbox
-  els.imageWrap.addEventListener('click', () => {
-    if (!els.cardImage.src) return;
-    els.lightboxImg.src = els.cardImage.src;
-    els.lightbox.hidden = false;
-  });
-  els.lightbox.addEventListener('click', () => { els.lightbox.hidden = true; });
-
   // keyboard shortcuts
   document.addEventListener('keydown', (e) => {
-    if (!els.lightbox.hidden && e.key === 'Escape') {
-      els.lightbox.hidden = true;
-      return;
-    }
     if (!els.topicsPanel.hidden && e.key === 'Escape') {
       els.topicsPanel.hidden = true;
       els.topicsToggle.setAttribute('aria-expanded', 'false');

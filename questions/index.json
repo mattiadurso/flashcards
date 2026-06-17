@@ -1,8 +1,8 @@
 {
   "topics": [
     {
-      "topic": "anatomia",
-      "label": "Anatomia e biologia",
+      "topic": "mammiferi",
+      "label": "Mammiferi",
       "files": [
         {
           "species": "Cervo (Cervus elaphus)",
@@ -38,13 +38,13 @@
           "species": "Cervidi — palco (II)",
           "file": "Anatomia_e_Biologia/palco-2.json",
           "source": "docs/Anatomia_e_Biologia/7 PALCO II parte.pdf",
-          "count": 27
+          "count": 30
         },
         {
           "species": "Cervidi — sensi",
           "file": "Anatomia_e_Biologia/cervidi-sensi.json",
           "source": "docs/Anatomia_e_Biologia/8 cervidi SENSI.pdf",
-          "count": 25
+          "count": 32
         },
         {
           "species": "Daino (Dama dama)",
@@ -68,13 +68,19 @@
           "species": "Stambecco (Capra ibex)",
           "file": "Anatomia_e_Biologia/stambecco.json",
           "source": "docs/Anatomia_e_Biologia/12 stambecco.pdf",
-          "count": 22
+          "count": 31
         },
         {
           "species": "Cinghiale (Sus scrofa)",
           "file": "Anatomia_e_Biologia/cinghiale.json",
           "source": "docs/Anatomia_e_Biologia/13 cinghiale I parte.pdf",
           "count": 38
+        },
+        {
+          "species": "Cinghiale — parte II",
+          "file": "Anatomia_e_Biologia/cinghiale-parte2.json",
+          "source": "docs/Anatomia_e_Biologia/13 II parte CINGHIALE.pdf",
+          "count": 36
         },
         {
           "species": "Lepre (Lepus europaeus)",
@@ -92,7 +98,7 @@
           "species": "Carnivori — parte generale",
           "file": "Anatomia_e_Biologia/carnivori-generale.json",
           "source": "docs/Anatomia_e_Biologia/16 carnivori in generale.pdf",
-          "count": 27
+          "count": 31
         },
         {
           "species": "Mustelidi",
@@ -104,7 +110,7 @@
           "species": "Volpe rossa (Vulpes vulpes)",
           "file": "Anatomia_e_Biologia/volpe.json",
           "source": "docs/Anatomia_e_Biologia/20 volpe rossa.pdf",
-          "count": 24
+          "count": 32
         },
         {
           "species": "Gatto selvatico (Felis silvestris)",
@@ -135,12 +141,6 @@
           "file": "Anatomia_e_Biologia/sciacallo.json",
           "source": "docs/Anatomia_e_Biologia/sciacallo.pdf",
           "count": 38
-        },
-        {
-          "species": "Cinghiale — parte II",
-          "file": "Anatomia_e_Biologia/cinghiale-parte2.json",
-          "source": "docs/Anatomia_e_Biologia/13 II parte CINGHIALE.pdf",
-          "count": 36
         }
       ]
     },
@@ -152,19 +152,19 @@
           "species": "Uccelli — parte generale",
           "file": "Anatomia_e_Biologia/uccelli-generale.json",
           "source": "docs/Anatomia_e_Biologia/24 uccelli generale.pdf",
-          "count": 25
+          "count": 33
         },
         {
           "species": "Fagiano (Phasianus colchicus)",
           "file": "Anatomia_e_Biologia/fagiano.json",
           "source": "docs/Anatomia_e_Biologia/25 il fagiano.pdf",
-          "count": 27
+          "count": 36
         },
         {
           "species": "Altre specie di uccelli",
           "file": "Anatomia_e_Biologia/uccelli-altre-specie.json",
           "source": "docs/Anatomia_e_Biologia/26 uccellialtrespecie.pdf",
-          "count": 20
+          "count": 38
         }
       ]
     },

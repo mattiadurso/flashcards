@@ -318,5 +318,293 @@
         "explanation": "Il germano reale maschio ha una testa verde scuro con riflessi iridescenti, inconfondibile.",
         "difficulty": "easy",
         "source": "PLACEHOLDER — 26 uccellialtrespecie.pdf"
+    },
+    {
+        "id": "uccelli-altre-021",
+        "topic": "uccelli",
+        "species": "Galliformi",
+        "question": "Pur essendo esposti a molti predatori e privi di particolari mezzi di difesa, come riescono i Galliformi a sopravvivere?",
+        "suggestion": "Pensa a quali sensi e comportamenti compensano un volo pesante e rumoroso, e al numero di uova deposte.",
+        "options": [
+            "Grazie a un volo veloce e prolungato che li mette al sicuro",
+            "Grazie a un udito molto sviluppato, a un'elevata fecondità e a un forte istinto di mimetismo",
+            "Grazie ad artigli robusti con cui si difendono dai carnivori"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il volo dei Galliformi è pesante, breve e rumoroso, e li rende prede facili; sopravvivono compensando con un udito molto sviluppato, un'elevata fecondità e un forte istinto di mimetismo che li porta a nascondersi.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.2"
+    },
+    {
+        "id": "uccelli-altre-022",
+        "topic": "uccelli",
+        "species": "Tetraonidi",
+        "question": "Quale adattamento anatomico dei Tetraonidi è utile per muoversi sulla neve e trattenere il calore?",
+        "suggestion": "Osserva la parte inferiore della zampa: cosa la ricopre in queste specie di montagna?",
+        "options": [
+            "Membrane interdigitali completamente palmate come nelle anatre",
+            "Tarsi e spesso anche le dita ricoperti di piume",
+            "Lunghi artigli ricurvi per aggrapparsi al ghiaccio"
+        ],
+        "correctIndex": 1,
+        "explanation": "I Tetraonidi presentano tarsi e spesso anche le dita ricoperti di piume, che aiutano a trattenere il calore e a muoversi sulla neve; hanno inoltre narici protette da peli contro il freddo. La palmatura completa è tipica degli Anatidi, non dei Tetraonidi.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.3"
+    },
+    {
+        "id": "uccelli-altre-023",
+        "topic": "uccelli",
+        "species": "Tetraonidi",
+        "question": "Perché oggi i Tetraonidi vivono soprattutto in ambienti montani anziché in pianura?",
+        "suggestion": "Collega la loro distribuzione attuale a un evento climatico del passato: cosa è successo dopo il ritiro dei ghiacciai?",
+        "options": [
+            "Perché sono stati introdotti dall'uomo in montagna per scopi venatori",
+            "Perché dopo il ritiro dei ghiacciai non trovarono più in pianura condizioni adatte e si spostarono in montagna",
+            "Perché in pianura non riescono a riprodursi a causa del caldo estivo"
+        ],
+        "correctIndex": 1,
+        "explanation": "I Tetraonidi sono tra gli uccelli con origini più antiche: in seguito al ritiro dei ghiacciai non trovarono più nelle pianure le condizioni ambientali adatte e si spostarono progressivamente adattandosi agli ambienti montani.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.3"
+    },
+    {
+        "id": "uccelli-altre-024",
+        "topic": "uccelli",
+        "species": "Gallo cedrone (Tetrao urogallus)",
+        "question": "Quale particolarità rende il maschio di gallo cedrone più vulnerabile durante il canto di corteggiamento all'alba?",
+        "suggestion": "Pensa a un senso che si chiude temporaneamente proprio mentre il maschio canta posato sull'albero.",
+        "options": [
+            "Diventa temporaneamente cieco per l'intensità della luce dell'alba",
+            "Diventa temporaneamente sordo per la chiusura del canale auricolare",
+            "Perde temporaneamente la capacità di volare per lo sforzo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Durante il canto ritmato all'alba, a causa della chiusura del canale auricolare, il maschio di gallo cedrone diventa temporaneamente sordo: questa caratteristica tipica della specie lo rende più vulnerabile ai predatori.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.6"
+    },
+    {
+        "id": "uccelli-altre-025",
+        "topic": "uccelli",
+        "species": "Gallo forcello (Tetrao tetrix)",
+        "question": "Come si comportano i maschi di gallo forcello nella stagione riproduttiva per attirare le femmine?",
+        "suggestion": "Pensa a un luogo aperto e ben visibile dove più maschi si radunano e competono fra loro.",
+        "options": [
+            "Costruiscono nidi elaborati sugli alberi per esibirli alle femmine",
+            "Si radunano in aree aperte dette arene, dove difendono il territorio con combattimenti e si esibiscono",
+            "Migrano insieme alle femmine verso quote più basse"
+        ],
+        "correctIndex": 1,
+        "explanation": "I maschi di gallo forcello si radunano in apposite aree dette arene, situate in spazi aperti che permettono ampia visibilità: qui difendono il proprio territorio con combattimenti anche violenti e si esibiscono per attirare le femmine.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.9"
+    },
+    {
+        "id": "uccelli-altre-026",
+        "topic": "uccelli",
+        "species": "Francolino di monte (Bonasa bonasia)",
+        "question": "Quale comportamento riproduttivo distingue il francolino di monte da molte altre specie di galliformi?",
+        "suggestion": "Pensa al tipo di legame di coppia: in questa specie i due partner restano insieme alla prole.",
+        "options": [
+            "È poligamo e ogni maschio si accoppia con più femmine",
+            "È monogamo e la coppia resta unita con la prole fino alla stagione riproduttiva successiva",
+            "Abbandona le uova subito dopo la deposizione"
+        ],
+        "correctIndex": 1,
+        "explanation": "A differenza di molte altre specie, il francolino di monte è monogamo: la coppia resta unita e non si separa dalla prole fino alla successiva stagione riproduttiva.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.10"
+    },
+    {
+        "id": "uccelli-altre-027",
+        "topic": "uccelli",
+        "species": "Pernice bianca (Lagopus mutus)",
+        "question": "In che modo il piumaggio della pernice bianca le consente di mimetizzarsi durante tutto l'anno?",
+        "suggestion": "Pensa a come cambia il colore del manto al variare delle stagioni e dell'ambiente circostante.",
+        "options": [
+            "Mantiene sempre lo stesso piumaggio completamente bianco tutto l'anno",
+            "Cambia colorazione nel corso dell'anno: bianco d'inverno e più scuro e mimetico in estate",
+            "Diventa scuro d'inverno per assorbire il calore del sole"
+        ],
+        "correctIndex": 1,
+        "explanation": "La pernice bianca presenta un mimetismo stagionale: d'inverno il piumaggio diventa completamente bianco per confondersi con la neve, mentre in primavera assume l'abito nuziale, più scuro e mimetico rispetto all'ambiente senza neve.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.12"
+    },
+    {
+        "id": "uccelli-altre-028",
+        "topic": "uccelli",
+        "species": "Coturnice (Alectoris greca)",
+        "question": "Cosa si intende per \"brigata\" nella coturnice?",
+        "suggestion": "Pensa a chi compone il gruppo familiare che si ricostituisce quando i giovani diventano indipendenti.",
+        "options": [
+            "Un grande stormo migratorio di individui di diverse specie",
+            "Il nucleo familiare formato dai genitori e dai giovani dell'anno divenuti indipendenti",
+            "Un gruppo di soli maschi che difende un territorio comune"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nella coturnice, quando i giovani diventano indipendenti e il maschio fa ritorno (tra settembre e ottobre), si ricostituisce il nucleo familiare formando la cosiddetta \"brigata\".",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.15"
+    },
+    {
+        "id": "uccelli-altre-029",
+        "topic": "uccelli",
+        "species": "Pernice rossa (Alectoris rufa)",
+        "question": "Quale carattere del piumaggio permette di distinguere la pernice rossa dalla coturnice?",
+        "suggestion": "Conta le barre nere trasversali: in una delle due specie ce n'è una sola, nell'altra due.",
+        "options": [
+            "La pernice rossa ha due barre trasversali nere, la coturnice una sola",
+            "La pernice rossa ha una sola barra trasversale nera, mentre la coturnice ne presenta due",
+            "Le due specie hanno un piumaggio identico e si distinguono solo dal canto"
+        ],
+        "correctIndex": 1,
+        "explanation": "La pernice rossa è caratterizzata da una sola barra trasversale nera sui fianchi, a differenza della coturnice che ne presenta due.",
+        "difficulty": "hard",
+        "source": "26 uccellialtrespecie.pdf p.16"
+    },
+    {
+        "id": "uccelli-altre-030",
+        "topic": "uccelli",
+        "species": "Quaglia (Coturnix coturnix)",
+        "question": "Perché il volo della quaglia appare \"goffo\" e impacciato pur essendo essa capace di lunghe migrazioni?",
+        "suggestion": "Distingui il volo che si osserva quando l'uccello fugge da quello che compie durante la migrazione.",
+        "options": [
+            "Perché la quaglia non è realmente in grado di migrare e compie solo brevi spostamenti",
+            "Perché il volo goffo è solo quello di fuga, breve e improvviso, mentre il volo migratorio è efficiente e sostenuto",
+            "Perché durante la migrazione viene trasportata dalle correnti d'aria senza battere le ali"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il volo \"goffo\" che si osserva è solo quello di fuga, breve e improvviso, mentre durante la migrazione la quaglia vola in modo continuo e diretto, compiendo lunghi spostamenti notturni e attraversando persino il Mediterraneo e il Sahara.",
+        "difficulty": "hard",
+        "source": "26 uccellialtrespecie.pdf p.22"
+    },
+    {
+        "id": "uccelli-altre-031",
+        "topic": "uccelli",
+        "species": "Colino della Virginia (Colinus virginianus)",
+        "question": "Come si dispongono al suolo durante la notte gli individui del colino della Virginia, e a quale scopo?",
+        "suggestion": "Pensa a una formazione che permette di sorvegliare contemporaneamente tutte le direzioni.",
+        "options": [
+            "In fila indiana dietro al maschio dominante, per seguirlo in caso di fuga",
+            "In cerchio con la testa rivolta verso l'esterno, per percepire meglio i pericoli da ogni direzione",
+            "Appollaiati sui rami più alti degli alberi, lontani dai predatori terrestri"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il colino della Virginia è gregario: durante la notte gli individui si dispongono a terra in cerchio, con la testa rivolta verso l'esterno, così da percepire meglio eventuali pericoli provenienti da qualsiasi direzione.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.23"
+    },
+    {
+        "id": "uccelli-altre-032",
+        "topic": "uccelli",
+        "species": "Anatidi",
+        "question": "Qual è la funzione dell'uropigio, la ghiandola molto sviluppata negli Anatidi?",
+        "suggestion": "Pensa a perché le piume di un'anatra restano asciutte anche dopo lunghe immersioni.",
+        "options": [
+            "Produce un suono usato durante il corteggiamento",
+            "Produce una sostanza grassa usata per impermeabilizzare le piume",
+            "Secerne una sostanza che facilita la digestione del cibo filtrato"
+        ],
+        "correctIndex": 1,
+        "explanation": "Gli Anatidi possiedono un uropigio molto sviluppato, una ghiandola vicino alla coda che produce una sostanza grassa usata per impermeabilizzare le piume, mantenendo il corpo caldo e asciutto.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.24"
+    },
+    {
+        "id": "uccelli-altre-033",
+        "topic": "uccelli",
+        "species": "Folaga (Fulica atra)",
+        "question": "Quale particolarità delle dita permette alla folaga di muoversi bene sull'acqua pur non avendo piedi completamente palmati come le anatre?",
+        "suggestion": "Non è una membrana continua tra le dita: osserva i bordi laterali di ciascun dito.",
+        "options": [
+            "Dita unite da una membrana completa come negli Anatidi",
+            "Dita dotate di particolari membrane laterali (lobi) che facilitano il movimento sull'acqua",
+            "Dita molto lunghe e prive di qualsiasi membrana"
+        ],
+        "correctIndex": 1,
+        "explanation": "La folaga, pur appartenendo ai Rallidi e non agli Anatidi, ha le dita dotate di particolari membrane laterali (lobi) che le permettono di muoversi facilmente sull'acqua e sulla vegetazione galleggiante, risultando una buona nuotatrice e tuffatrice.",
+        "difficulty": "hard",
+        "source": "26 uccellialtrespecie.pdf p.27"
+    },
+    {
+        "id": "uccelli-altre-034",
+        "topic": "uccelli",
+        "species": "Aquila reale (Aquila chrysaetos)",
+        "question": "Perché nell'aquila reale, come nella maggior parte dei rapaci, la femmina è più grande del maschio?",
+        "suggestion": "Si tratta di una caratteristica comune ai rapaci diurni; concentrati sul fatto e sull'entità della differenza descritta.",
+        "options": [
+            "È un caso isolato dell'aquila reale, raro tra i rapaci",
+            "È una caratteristica comune nei rapaci: nell'aquila reale la femmina è più grande del maschio di circa il 20%",
+            "È il maschio a essere più grande, di circa il 20%"
+        ],
+        "correctIndex": 1,
+        "explanation": "Come nella maggior parte dei rapaci, nell'aquila reale la femmina è più grande del maschio, circa del 20%: l'apertura alare nella femmina può sfiorare i 2,5 metri.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.31"
+    },
+    {
+        "id": "uccelli-altre-035",
+        "topic": "uccelli",
+        "species": "Falco pellegrino (Falco peregrinus)",
+        "question": "Cosa rende il falco pellegrino l'animale più veloce del pianeta?",
+        "suggestion": "Non è il volo orizzontale a essere eccezionale, ma una particolare manovra di attacco dall'alto.",
+        "options": [
+            "Il volo planato sfruttando le correnti d'aria calda",
+            "La rapidissima picchiata durante la caccia, che può superare i 300 km/h",
+            "Il volo battuto continuo durante le lunghe migrazioni"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dopo aver individuato la preda in volo, il falco pellegrino si lancia in una rapidissima picchiata che può superare i 300 km/h, rendendolo l'animale più veloce del pianeta.",
+        "difficulty": "easy",
+        "source": "26 uccellialtrespecie.pdf p.41"
+    },
+    {
+        "id": "uccelli-altre-036",
+        "topic": "uccelli",
+        "species": "Falco pellegrino (Falco peregrinus)",
+        "question": "In che modo il falco pellegrino si è adattato a vivere anche vicino alle città?",
+        "suggestion": "Pensa a quali strutture artificiali possono sostituire l'ambiente in cui normalmente depone le uova.",
+        "options": [
+            "Costruisce nidi elaborati tra gli alberi dei parchi urbani",
+            "Utilizza edifici alti e campanili come sostituti delle pareti rocciose naturali",
+            "Si sposta nelle città solo durante l'inverno per nutrirsi di rifiuti"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il falco pellegrino nidifica in ambienti rocciosi e non costruisce un vero nido, deponendo le uova in cavità o anfratti; è una specie molto adattabile e può vivere anche vicino alle città, utilizzando edifici alti e campanili come sostituti delle pareti rocciose naturali.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.41"
+    },
+    {
+        "id": "uccelli-altre-037",
+        "topic": "uccelli",
+        "species": "Gheppio (Falco tinnunculus)",
+        "question": "In cosa consiste la tecnica del \"volo dello Spirito Santo\" tipica del gheppio?",
+        "suggestion": "Pensa a come fa il gheppio a osservare il terreno restando in un punto fisso del cielo.",
+        "options": [
+            "Plana immobile ad ali distese sfruttando solo le correnti ascensionali",
+            "Rimane fermo in aria battendo rapidamente le ali mentre osserva il terreno in cerca di cibo",
+            "Si lascia cadere in picchiata verticale per stordire la preda"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il gheppio è famoso per la tecnica del \"volo Spirito Santo\": rimane fermo in aria battendo rapidamente le ali mentre osserva il terreno alla ricerca di cibo, sfruttando la sua vista molto sviluppata.",
+        "difficulty": "easy",
+        "source": "26 uccellialtrespecie.pdf p.43"
+    },
+    {
+        "id": "uccelli-altre-038",
+        "topic": "uccelli",
+        "species": "Gufo reale (Bubo bubo)",
+        "question": "Quale adattamento permette al gufo reale un volo silenzioso durante la caccia notturna?",
+        "suggestion": "La spiegazione non sta nella muscolatura ma in una proprietà delle penne stesse.",
+        "options": [
+            "Le ossa cave e leggere che riducono il peso del corpo",
+            "La particolare struttura delle piume, che riduce il rumore prodotto dal battito delle ali",
+            "Le ali molto corte che battono lentamente"
+        ],
+        "correctIndex": 1,
+        "explanation": "Il volo del gufo reale è silenzioso grazie alla particolare struttura delle piume, che riduce il rumore prodotto dal battito delle ali; unito a vista e udito estremamente sviluppati, ciò lo rende un efficace predatore notturno.",
+        "difficulty": "medium",
+        "source": "26 uccellialtrespecie.pdf p.45"
     }
 ]

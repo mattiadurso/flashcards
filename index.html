@@ -9,7 +9,7 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=22" />
+  <link rel="stylesheet" href="styles.css?v=23" />
 </head>
 <body>
   <header class="topbar">
@@ -88,9 +88,6 @@
 
     <section id="card-container" class="card-container" hidden>
       <article id="card" class="card" aria-live="polite">
-        <div id="image-wrap" class="image-wrap" hidden>
-          <img id="card-image" alt="" />
-        </div>
         <div class="meta-bar">
           <div id="meta-row" class="meta-row"></div>
           <button id="flag-btn" class="flag-btn" type="button"
@@ -150,12 +147,8 @@
   </main>
 
   <footer class="site-footer">
-    Made with ❤️ by <del>Mattia</del> Claude 🤖
+    Made with ❤️ by <del>Claude</del> Mattia.
   </footer>
-
-  <div id="lightbox" class="lightbox" hidden>
-    <img id="lightbox-img" alt="" />
-  </div>
 
   <!-- transient affectionate nudge shown mid-quiz (streaks, milestones) -->
   <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
@@ -164,6 +157,6 @@
   <div id="emoji-pop" class="emoji-pop" aria-hidden="true" hidden></div>
 
   <script src="praise.js?v=4"></script>
-  <script src="app.js?v=21"></script>
+  <script src="app.js?v=24"></script>
 </body>
 </html>

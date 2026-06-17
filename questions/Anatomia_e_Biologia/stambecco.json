@@ -372,5 +372,149 @@
     "explanation": "Nelle femmine i gruppi più consistenti si formano in estate, dopo i parti, quando alle madri e ai capretti si uniscono le giovani femmine senza piccolo e giovani maschi fino ai 2 anni di età. I grandi branchi di soli maschi coetanei si formano invece in tarda primavera, mentre i maschi vecchi (>12 anni) sono solitari; per questo la composizione corretta è la seconda.",
     "difficulty": "hard",
     "source": "12 stambecco.pdf p.8"
+  },
+  {
+    "id": "stambecco-023",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale è la longevità media dello stambecco in natura?",
+    "suggestion": "Ricorda che i maschi diventano \"vecchi\" dopo i 12 anni, ma la media di vita è molto più breve.",
+    "options": [
+      "3-4 anni",
+      "9-10 anni",
+      "20-25 anni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stambecco vive in media 9-10 anni, con le femmine che tendono a vivere più a lungo dei maschi. I maschi adulti sono considerati \"vecchi\" oltre i 12 anni e a quell'età conducono vita solitaria.",
+    "difficulty": "easy",
+    "source": "12 stambecco.pdf p.7"
+  },
+  {
+    "id": "stambecco-024",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "A quali due eventi climatici è sopravvissuto lo stambecco nei suoi circa 200.000 anni di presenza in Europa?",
+    "suggestion": "Si tratta di due grandi glaciazioni, una più antica e una più recente, alla fine della quale l'animale seguì i ghiacci verso le quote più alte.",
+    "options": [
+      "Alle glaciazioni di Riss (più antica) e di Würm (più recente)",
+      "Alle glaciazioni di Mindel e di Donau",
+      "Al Periodo Caldo Medievale e alla Piccola Età Glaciale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo stambecco è presente in Europa da circa 200.000 anni ed è sopravvissuto a due glaciazioni, quella più antica di Riss e quella più recente di Würm; al termine di quest'ultima abbandonò pianura e Prealpi per seguire i ghiacci e il freddo sulle montagne più elevate. Le altre coppie di eventi non sono citate nel testo.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.2"
+  },
+  {
+    "id": "stambecco-025",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale fascia altitudinale occupa attualmente lo stambecco lungo l'arco alpino?",
+    "suggestion": "Pensa a una specie d'alta montagna che però scende anche a quote collinari: l'intervallo parte ben al di sotto dei mille metri.",
+    "options": [
+      "Tra 500 e 3.000 m",
+      "Solo tra 2.500 e 4.000 m",
+      "Tra il livello del mare e i 1.000 m"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo stambecco è diffuso in tutto l'arco alpino, dalle Alpi Marittime alle Alpi di Carinzia e di Slovenia, ad altitudini comprese tra 500 e 3.000 m. La distribuzione resta tuttavia frammentaria; gli altri intervalli proposti non corrispondono ai dati riportati.",
+    "difficulty": "easy",
+    "source": "12 stambecco.pdf p.3"
+  },
+  {
+    "id": "stambecco-026",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Perché la storica popolazione di stambecco del Parco Nazionale del Gran Paradiso merita oggi particolare attenzione conservazionistica?",
+    "suggestion": "Non tutte le popolazioni alpine crescono: questa, a differenza dell'andamento generale della specie, ha invertito la tendenza a partire dagli anni '90.",
+    "options": [
+      "Perché dagli anni '90 ha mostrato un significativo calo numerico",
+      "Perché è l'unica colonizzata da soggetti reintrodotti dalla Svizzera",
+      "Perché presenta la più alta densità di tutte le Alpi italiane"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mentre la specie nel complesso è in continua crescita dagli anni '60 (tassi del 3-6%), la storica popolazione del Gran Paradiso merita particolare attenzione perché a partire dagli anni '90 ha mostrato un significativo calo numerico, con una riduzione consistente rispetto ai valori precedenti. È inoltre la popolazione storica mai estinta, non frutto di reintroduzione.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.5"
+  },
+  {
+    "id": "stambecco-027",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Come si distribuisce l'attività giornaliera dello stambecco durante i periodi più caldi dell'anno?",
+    "suggestion": "È una specie diurna che evita le ore centrali e calde: concentra l'attività in due finestre, una al mattino e una nel tardo pomeriggio.",
+    "options": [
+      "È prevalentemente notturno e riposa per tutto il giorno",
+      "È attivo dalle 5 alle 9 del mattino e tra le 17 e le 21 del tardo pomeriggio",
+      "È attivo in modo continuo nelle ore centrali e più calde della giornata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stambecco è una specie prevalentemente diurna: nei periodi più caldi è attivo dalle 5 alle 9 del mattino e tra le 17 e le 21 del tardo pomeriggio, evitando così le ore centrali più calde, anche in relazione alla mancanza di ghiandole sudoripare. Non è quindi notturno né attivo nelle ore più calde.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.6"
+  },
+  {
+    "id": "stambecco-028",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Rispetto a quale altro ungulato alpino le impronte dello stambecco risultano simili nella forma ma di dimensioni maggiori?",
+    "suggestion": "Confrontalo con un caprino di montagna più piccolo e agile, con cui condivide gli ambienti rocciosi ma non la mole.",
+    "options": [
+      "Al camoscio",
+      "Al muflone",
+      "Al capriolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le impronte dello stambecco, di forma rettangolare-bombata con le due dita ben visibili, sono simili a quelle del camoscio ma di maggiori dimensioni (circa 7-10 cm x 6 cm). Muflone e capriolo non sono il termine di confronto indicato nel testo per l'impronta.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.18"
+  },
+  {
+    "id": "stambecco-029",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "In quale periodo dell'anno si concentra l'attività riproduttiva (gli 'amori') dello stambecco?",
+    "suggestion": "Diversamente da molti cervidi che si accoppiano in autunno, qui la stagione cade nel cuore dell'inverno, a cavallo tra due mesi.",
+    "options": [
+      "Tra settembre e ottobre",
+      "Tra marzo e aprile",
+      "Tra dicembre e gennaio (circa 1 dicembre - 10 gennaio)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il periodo riproduttivo dello stambecco è dicembre-gennaio (circa dal 1 dicembre al 10 gennaio), suddiviso in fase pre-riproduttiva, comunitaria e individuale. La gestazione di circa 165-170 giorni porta poi ai parti di giugno. Settembre-ottobre e marzo-aprile non corrispondono al periodo degli amori.",
+    "difficulty": "medium",
+    "source": "12 stambecco.pdf p.29"
+  },
+  {
+    "id": "stambecco-030",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Quale caratteristica del ciclo estrale descrive correttamente la femmina di stambecco?",
+    "suggestion": "Non va in calore tutto l'anno né una sola volta: pensa a una specie legata alle stagioni con cicli che si ripetono ogni venti giorni circa.",
+    "options": [
+      "È poliestrale stagionale, con cicli estrali di circa 20 giorni",
+      "È monoestrale, con un unico estro annuale in primavera",
+      "È poliestrale continua, con cicli regolari per tutto l'anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le femmine di stambecco sono poliestrali stagionali, con cicli estrali di circa 20 giorni: gli estri si ripetono ma solo entro la stagione riproduttiva invernale. Non sono quindi monoestrali né poliestrali continue.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.28"
+  },
+  {
+    "id": "stambecco-031",
+    "topic": "stambecco",
+    "species": "Stambecco (Capra ibex)",
+    "question": "Secondo lo schema di eruzione dentaria, a che età compaiono il terzo incisivo definitivo (I3) e il canino definitivo (C), completando la sostituzione degli incisivi nello stambecco?",
+    "suggestion": "Si tratta degli ultimi denti anteriori a essere sostituiti, poco prima che la dentatura definitiva risulti completa intorno ai 3 anni e mezzo.",
+    "options": [
+      "A circa 30-32 mesi",
+      "A circa 5 mesi",
+      "A circa 16 mesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nello schema temporale di comparsa e sostituzione dei denti, a circa 30-32 mesi compaiono il terzo incisivo definitivo (I3) e il canino definitivo (C), insieme al terzo molare (M3). A 5 mesi spunta il primo molare M1 e a 16 mesi il primo incisivo definitivo I1; la dentatura risulta poi completamente definitiva verso i 40-44 mesi.",
+    "difficulty": "hard",
+    "source": "12 stambecco.pdf p.32"
   }
 ]
