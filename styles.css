@@ -610,7 +610,31 @@ body {
   flex-wrap: wrap;
   gap: 6px;
   font-size: 12px;
+  flex: 1 1 auto;     /* take the middle so #back-btn sits left, #flag-btn right */
+  min-width: 0;
 }
+
+/* "‹ Indietro" — steps back to the previous question (read-only). Mirrors the
+   flag button's quiet pill look, with an accent tint on hover. */
+.back-btn {
+  appearance: none;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease, transform 0.05s ease;
+}
+.back-btn:hover {
+  color: var(--accent);
+  border-color: var(--tint-accent-18);
+  background: var(--tint-accent-08);
+}
+.back-btn:active { transform: scale(0.96); }
 .tag {
   background: var(--tint-accent-12);
   color: var(--accent);

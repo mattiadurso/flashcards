@@ -16,7 +16,10 @@ const state = {
   eggs: [],              // hidden easter-egg "bonus" questions (not in the bank/score)
   filtered: [],          // questions matching current filters
   queue: [],             // shuffled, not-yet-shown question ids for this session
-  current: null,         // current question object
+  history: [],           // records of questions already shown this session (see newRecord)
+  histPos: -1,           // index into history of the question on screen (-1 before start)
+  current: null,         // current question object (mirror of history[histPos].q)
+  currentRecord: null,   // current history record
   answered: false,
   score: { correct: 0, total: 0 },
   streak: 0,                // consecutive correct answers this session
@@ -267,6 +270,9 @@ function applyFilters() {
   state.queue = pool.map(q => q.id);
   state.sessionTotal = state.queue.length;   // bonus cards don't count toward this
   maybeInsertBonus();
+  state.history = [];          // fresh session: nothing to step back to yet
+  state.histPos = -1;
+  state.currentRecord = null;
   state.score = { correct: 0, total: 0 };
   state.streak = 0;
   state.argStats = {};
@@ -333,6 +339,7 @@ const els = {
   suggestion: document.getElementById('suggestion'),
   nextBtn: document.getElementById('next-btn'),
   metaRow: document.getElementById('meta-row'),
+  backBtn: document.getElementById('back-btn'),
   flagBtn: document.getElementById('flag-btn'),
   endScreen: document.getElementById('end-screen'),
   endSummary: document.getElementById('end-summary'),
@@ -660,9 +667,12 @@ function showSetupScreen() {
 
 function updateProgress() {
   const total = state.sessionTotal;
-  const shown = state.score.total;
+  // While reviewing an earlier card, the counter/bar track the card on screen
+  // (its 1-based position); at the live front they track how many we've answered.
+  const reviewing = state.histPos >= 0 && state.histPos < state.history.length - 1;
+  const shown = reviewing ? state.histPos + 1 : state.score.total;
   els.counter.textContent = `${shown} / ${total}`;
-  els.score.textContent = `Score: ${state.score.correct}`;
+  els.score.textContent = `${t('score')}: ${state.score.correct}`;   // score never changes on review
   const pct = total === 0 ? 0 : (shown / total) * 100;
   els.progressFill.style.width = `${pct}%`;
   els.progressHeart.style.left = `${pct}%`;   // heart rides the leading edge
@@ -752,7 +762,28 @@ function pickNudge() {
   return null;
 }
 
+// A per-session record of one shown question: the question itself plus whatever
+// answer was given, so we can re-display it read-only when stepping back/forward.
+function newRecord(q) {
+  return {
+    q,
+    answered: false,
+    chosenIdx: null,      // multiple-choice: which option was tapped
+    fillValues: null,     // fill-in-the-blank: the strings typed into each blank
+    blanksCorrect: null,  // fill-in-the-blank: per-blank correctness
+    isCorrect: false,
+  };
+}
+
+// "Next" does double duty: if we're reviewing an earlier question, it walks
+// forward through the already-seen history; only once we're back at the front
+// does it pull a fresh question off the queue.
 function nextQuestion() {
+  if (state.histPos < state.history.length - 1) {
+    state.histPos += 1;
+    showRecord(state.history[state.histPos]);
+    return;
+  }
   if (state.queue.length === 0) {
     showEndScreen();
     return;
@@ -760,12 +791,40 @@ function nextQuestion() {
   const id = state.queue.shift();
   const q = findQuestion(id);
   if (!q) { nextQuestion(); return; }
-  state.current = q;
-  state.answered = false;
-  renderQuestion(q);
+  const record = newRecord(q);
+  state.history.push(record);
+  state.histPos = state.history.length - 1;
+  showRecord(record);
 }
 
-function renderQuestion(q) {
+// "Back": step one question earlier. The earlier question is always already
+// answered (you can't advance past an unanswered card), so it's shown locked —
+// the stored answer is replayed and can't be changed, leaving the score intact.
+function prevQuestion() {
+  if (state.histPos <= 0) return;
+  state.histPos -= 1;
+  showRecord(state.history[state.histPos]);
+}
+
+// Point the live state at a record and render it. Answered records render in
+// their locked, replayed state; the (only ever frontmost) unanswered record
+// renders fresh and answerable.
+function showRecord(record) {
+  state.currentRecord = record;
+  state.current = record.q;
+  state.answered = record.answered;
+  renderQuestion(record);
+  updateBackButton();
+  updateProgress();   // keep the counter/bar in step with the card on screen
+}
+
+// Back is offered from the second question of the session onward.
+function updateBackButton() {
+  if (els.backBtn) els.backBtn.hidden = state.histPos <= 0;
+}
+
+function renderQuestion(record) {
+  const q = record.q;
   document.body.classList.remove('answered');   // drop the post-answer bottom spacer
   // slide/fade transition
   els.card.classList.add('leaving');
@@ -799,7 +858,7 @@ function renderQuestion(q) {
     els.options.innerHTML = '';
     state.fillInputs = [];
     if (q.type === 'fill') {
-      renderFill(q);
+      renderFill(q, record.answered);
     } else {
       els.questionText.textContent = q.question;
       q.options.forEach((opt, idx) => {
@@ -822,6 +881,9 @@ function renderQuestion(q) {
     els.feedback.hidden = true;
     els.explanation.textContent = '';
 
+    // Reviewing an earlier question: replay its locked answer read-only.
+    if (record.answered) replayAnswer(record);
+
     els.card.classList.remove('leaving');
     els.card.classList.add('entering');
     requestAnimationFrame(() => {
@@ -830,11 +892,78 @@ function renderQuestion(q) {
   }, 180);
 }
 
+// Re-apply a stored answer to a freshly-rendered card WITHOUT re-grading: lock
+// the controls, paint correct/wrong, and reveal the explanation. Used when the
+// user steps back to (or forward to) a question they already answered, so going
+// back never changes their answer or the score.
+function replayAnswer(record) {
+  const q = record.q;
+  if (q.type === 'fill') {
+    applyFillAnswer(q, record.fillValues || [], record.blanksCorrect || []);
+  } else {
+    applyMcAnswer(q, record.chosenIdx);
+  }
+  showExplanation(q, record.isCorrect);
+  // Note: we deliberately do NOT add the body.answered spacer here. It exists to
+  // give the live-answer auto-scroll room (gradeResult); a reviewed card does no
+  // such scroll, so the spacer would just leave a large empty gap on mobile.
+}
+
+// Lock the multiple-choice options and paint the verdict: the correct option
+// green, plus the chosen one red when it was wrong. Shared by live answering
+// (handleAnswer) and read-only replay (replayAnswer).
+function applyMcAnswer(q, chosenIdx) {
+  const buttons = [...els.options.querySelectorAll('.option')];
+  buttons.forEach((b, i) => {
+    b.disabled = true;
+    if (i === q.correctIndex) b.classList.add('correct');
+    if (i === chosenIdx && i !== q.correctIndex) b.classList.add('wrong');
+  });
+}
+
+// Lock the fill-in-the-blank inputs and paint each blank: restore the typed
+// value, mark it correct/wrong, and show the expected word after wrong ones.
+// Shared by live grading (handleFillSubmit) and read-only replay (replayAnswer).
+function applyFillAnswer(q, values, blanksCorrect) {
+  const inputs = state.fillInputs || [];
+  const blanks = q.answers || [];
+  inputs.forEach((input, i) => {
+    if (values[i] != null) input.value = values[i];
+    input.disabled = true;
+    const ok = !!blanksCorrect[i];
+    input.classList.add(ok ? 'fill-input--correct' : 'fill-input--wrong');
+    if (!ok && (blanks[i] || []).length) {     // show the expected word after the box
+      const corr = document.createElement('span');
+      corr.className = 'fill-correct';
+      corr.textContent = blanks[i][0];
+      input.insertAdjacentElement('afterend', corr);
+    }
+  });
+  els.options.querySelectorAll('.fill-submit').forEach(b => { b.disabled = true; });
+}
+
+// Fill the explanation panel and reveal the feedback row. No scoring here, so
+// it's safe to call both on a live answer and on a read-only replay.
+function showExplanation(q, isCorrect) {
+  if (q.explanation) {
+    els.explanation.textContent = q.explanation;
+  } else if (q.type === 'fill') {
+    const accepted = (q.answers || []).map(b => b[0]).join(', ');
+    els.explanation.textContent = isCorrect ? 'Esatto.' : `Risposta corretta: ${accepted}`;
+  } else {
+    els.explanation.textContent = isCorrect
+      ? 'Correct.'
+      : `Correct answer: ${q.options[q.correctIndex]}`;
+  }
+  els.explanationBox.open = false;   // start folded; user clicks to reveal
+  els.feedback.hidden = false;
+}
+
 // Render a fill-in-the-blank card: rebuild the question text with an inline text
 // input wherever a run of underscores (the blank marker, e.g. "___") appears, and
 // drop a "Controlla" button into the options area. One input per blank; the i-th
 // input is graded against q.answers[i] (an array of accepted strings).
-function renderFill(q) {
+function renderFill(q, answered) {
   const blanks = q.answers || [];
   els.questionText.innerHTML = '';
   const parts = String(q.question).split(/_{2,}/);   // text segments around blanks
@@ -868,7 +997,9 @@ function renderFill(q) {
   submit.addEventListener('click', () => handleFillSubmit());
   els.options.appendChild(submit);
 
-  if (inputs[0]) setTimeout(() => inputs[0].focus(), 0);   // ready to type at once
+  // Auto-focus the first blank so you can type at once — but not when replaying an
+  // already-answered card (the inputs are about to be disabled; focus would be dead).
+  if (!answered && inputs[0]) setTimeout(() => inputs[0].focus(), 0);
 }
 
 function addTag(text) {
@@ -881,16 +1012,15 @@ function addTag(text) {
 function handleAnswer(chosenIdx) {
   if (state.answered) return;
   const q = state.current;
+  const record = state.currentRecord;
   state.answered = true;
+  record.answered = true;
+  record.chosenIdx = chosenIdx;            // remembered so Back can replay it
 
-  const buttons = [...els.options.querySelectorAll('.option')];
-  buttons.forEach((b, i) => {
-    b.disabled = true;
-    if (i === q.correctIndex) b.classList.add('correct');
-    if (i === chosenIdx && i !== q.correctIndex) b.classList.add('wrong');
-  });
+  applyMcAnswer(q, chosenIdx);
 
   const isCorrect = chosenIdx === q.correctIndex;
+  record.isCorrect = isCorrect;
 
   bounceCard();                 // playful wiggle on every tap
   if (isCorrect) popEmoji();    // celebratory emoji pop on correct
@@ -905,28 +1035,24 @@ function handleAnswer(chosenIdx) {
 function handleFillSubmit() {
   if (state.answered) return;
   const q = state.current;
+  const record = state.currentRecord;
   const inputs = state.fillInputs || [];
   if (inputs.length === 0) return;
   state.answered = true;
+  record.answered = true;
 
   const blanks = q.answers || [];
-  let allCorrect = true;
-  inputs.forEach((input, i) => {
-    input.disabled = true;
-    const accepted = blanks[i] || [];
-    const ok = accepted.some(a => normalizeText(a) === normalizeText(input.value));
-    input.classList.add(ok ? 'fill-input--correct' : 'fill-input--wrong');
-    if (!ok) {
-      allCorrect = false;
-      if (accepted.length) {                // show the expected word after the box
-        const corr = document.createElement('span');
-        corr.className = 'fill-correct';
-        corr.textContent = accepted[0];
-        input.insertAdjacentElement('afterend', corr);
-      }
-    }
-  });
-  els.options.querySelectorAll('.fill-submit').forEach(b => { b.disabled = true; });
+  const values = inputs.map(input => input.value);
+  const blanksCorrect = inputs.map((input, i) =>
+    (blanks[i] || []).some(a => normalizeText(a) === normalizeText(input.value)));
+  const allCorrect = blanksCorrect.every(Boolean);
+
+  // remembered so Back can replay the exact answer read-only
+  record.fillValues = values;
+  record.blanksCorrect = blanksCorrect;
+  record.isCorrect = allCorrect;
+
+  applyFillAnswer(q, values, blanksCorrect);
 
   bounceCard();
   if (allCorrect) popEmoji();
@@ -968,18 +1094,7 @@ function gradeResult(q, isCorrect) {
     if (nudge) showToast(nudge);
   }
 
-  if (q.explanation) {
-    els.explanation.textContent = q.explanation;
-  } else if (q.type === 'fill') {
-    const accepted = (q.answers || []).map(b => b[0]).join(', ');
-    els.explanation.textContent = isCorrect ? 'Esatto.' : `Risposta corretta: ${accepted}`;
-  } else {
-    els.explanation.textContent = isCorrect
-      ? 'Correct.'
-      : `Correct answer: ${q.options[q.correctIndex]}`;
-  }
-  els.explanationBox.open = false;   // start folded; user clicks to reveal
-  els.feedback.hidden = false;
+  showExplanation(q, isCorrect);
   updateProgress();
 
   // Lift the Next button to ~62% of the viewport, leaving empty space below it
@@ -1224,8 +1339,22 @@ function bindEvents() {
     state.queue = state.bank
       .filter(q => remainingIds.has(q.id) && !flagged.has(q.id))
       .map(q => q.id);
+    // Drop the flagged card from the back-trail too, so Back can't return to a
+    // question we've just hidden.
+    const wasFront = state.histPos >= state.history.length - 1;
+    if (state.histPos >= 0) {
+      state.history.splice(state.histPos, 1);
+      state.histPos -= 1;
+    }
     updateFlaggedBadge();
-    nextQuestion();
+    if (!wasFront && state.history.length > 0) {
+      // We were reviewing an earlier card: return to the live front rather than
+      // walking forward onto another already-answered (locked) card.
+      state.histPos = state.history.length - 1;
+      showRecord(state.history[state.histPos]);
+    } else {
+      nextQuestion();
+    }
   });
 
   if (els.restoreFlaggedBtn) {
@@ -1241,6 +1370,7 @@ function bindEvents() {
     });
   }
   els.nextBtn.addEventListener('click', () => nextQuestion());
+  if (els.backBtn) els.backBtn.addEventListener('click', () => prevQuestion());
   els.restartBtn.addEventListener('click', () => startSession());
 
   // keyboard shortcuts
@@ -1256,6 +1386,12 @@ function bindEvents() {
     // 'h' toggles the hint — but not while typing into a blank (you'd never type 'h').
     if ((e.key === 'h' || e.key === 'H') && !typing && !els.suggestionBox.hidden) {
       els.suggestionBox.open = !els.suggestionBox.open;
+      e.preventDefault();
+      return;
+    }
+    // Left arrow steps back one question (not while typing — it moves the caret).
+    if (e.key === 'ArrowLeft' && !typing && state.histPos > 0) {
+      prevQuestion();
       e.preventDefault();
       return;
     }

@@ -9,7 +9,7 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=29" />
+  <link rel="stylesheet" href="styles.css?v=30" />
   <script>
     // Apply the saved day/night choice before first paint so returning
     // night-mode users don't get a white flash. The toggle (app.js) keeps it
@@ -114,6 +114,10 @@
     <section id="card-container" class="card-container" hidden>
       <article id="card" class="card" aria-live="polite">
         <div class="meta-bar">
+          <button id="back-btn" class="back-btn" type="button" hidden
+                  title="Torna alla domanda precedente (la tua risposta non cambia)">
+            <span aria-hidden="true">‹</span> Indietro
+          </button>
           <div id="meta-row" class="meta-row"></div>
           <button id="flag-btn" class="flag-btn" type="button"
                   title="Segnala domanda errata — non verrà più mostrata">
@@ -182,6 +186,6 @@
   <div id="emoji-pop" class="emoji-pop" aria-hidden="true" hidden></div>
 
   <script src="praise.js?v=4"></script>
-  <script src="app.js?v=31"></script>
+  <script src="app.js?v=32"></script>
 </body>
 </html>
