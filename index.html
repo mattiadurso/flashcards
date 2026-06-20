@@ -9,7 +9,7 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=30" />
+  <link rel="stylesheet" href="styles.css?v=31" />
   <script>
     // Apply the saved day/night choice before first paint so returning
     // night-mode users don't get a white flash. The toggle (app.js) keeps it
@@ -24,6 +24,7 @@
   <header class="topbar">
     <div class="topbar-row">
       <h1 class="title" id="title" role="button" tabindex="0"
+          data-i18n-title="title.tooltip"
           title="Torna alla schermata iniziale">✨ Giud's Flashcards ✨</h1>
       <div class="top-actions">
         <!-- iOS-style sliding switch: the white knob slides across the track and
@@ -42,13 +43,14 @@
             </svg>
           </span>
         </button>
-        <button id="new-session-btn" class="ghost-btn"
-                title="Cambia argomenti, difficoltà o numero di domande" hidden>‹ Nuova sessione</button>
+        <button id="new-session-btn" class="ghost-btn" data-i18n="newSession"
+                data-i18n-title="newSession.tooltip" hidden>‹ Nuova sessione</button>
         <button id="restore-flagged-btn" class="ghost-btn ghost-btn--warn"
-                title="Ripristina le domande segnalate come errate" hidden>
-          Ripristina segnalate <span id="flagged-count" class="badge"></span>
+                data-i18n-title="restoreFlagged.tooltip" hidden>
+          <span data-i18n="restoreFlagged">Ripristina segnalate</span> <span id="flagged-count" class="badge"></span>
         </button>
-        <button id="reset-btn" class="ghost-btn" title="Reset progress">Reset progress</button>
+        <button id="reset-btn" class="ghost-btn" data-i18n="reset"
+                data-i18n-title="reset.tooltip">Reset progressi</button>
       </div>
     </div>
     <div class="progress" id="progress" hidden>
@@ -67,10 +69,17 @@
   <main id="main" class="main">
     <section id="setup-screen" class="setup-screen">
       <article class="card setup-card">
-        <h2 class="setup-title">Imposta la sessione</h2>
+        <!-- Language preference (it/en) — sits at the very top of the start screen. -->
+        <div class="lang-switch" id="lang-switch" role="group"
+             aria-label="Lingua / Language">
+          <button type="button" class="lang-opt" data-lang="it" aria-pressed="true">IT</button>
+          <button type="button" class="lang-opt" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+
+        <h2 class="setup-title" data-i18n="setup.title">Imposta la sessione</h2>
 
         <div class="setup-field">
-          <label class="setup-label">Argomenti</label>
+          <label class="setup-label" data-i18n="setup.topics">Argomenti</label>
           <div class="multiselect">
             <button type="button" id="topics-toggle" class="multiselect-toggle"
                     aria-haspopup="true" aria-expanded="false">
@@ -81,33 +90,33 @@
         </div>
 
         <div class="setup-field" id="difficulty-field" hidden>
-          <label class="setup-label">Difficoltà</label>
+          <label class="setup-label" data-i18n="setup.difficulty">Difficoltà</label>
           <div class="diff-pills" id="difficulty-pills">
             <label class="diff-pill">
               <input type="checkbox" value="easy" />
-              <span>Facile</span>
+              <span data-i18n="diff.easy">Facile</span>
             </label>
             <label class="diff-pill">
               <input type="checkbox" value="medium" />
-              <span>Media</span>
+              <span data-i18n="diff.medium">Media</span>
             </label>
             <label class="diff-pill">
               <input type="checkbox" value="hard" />
-              <span>Difficile</span>
+              <span data-i18n="diff.hard">Difficile</span>
             </label>
           </div>
-          <p class="count-hint">Nessuna selezione = tutte.</p>
+          <p class="count-hint" data-i18n="diff.hint">Nessuna selezione = tutte.</p>
         </div>
 
         <div class="setup-field">
-          <label class="setup-label">Numero di domande</label>
+          <label class="setup-label" data-i18n="setup.count">Numero di domande</label>
           <div class="count-control">
             <div class="count-presets" id="count-presets"></div>
           </div>
           <p class="count-hint" id="count-hint"></p>
         </div>
 
-        <button id="start-btn" class="primary-btn setup-start">Inizia 🍀</button>
+        <button id="start-btn" class="primary-btn setup-start" data-i18n="start">Inizia 🍀</button>
       </article>
     </section>
 
@@ -115,19 +124,19 @@
       <article id="card" class="card" aria-live="polite">
         <div class="meta-bar">
           <button id="back-btn" class="back-btn" type="button" hidden
-                  title="Torna alla domanda precedente (la tua risposta non cambia)">
-            <span aria-hidden="true">‹</span> Indietro
+                  data-i18n-title="back.tooltip">
+            <span aria-hidden="true">‹</span> <span data-i18n="back">Indietro</span>
           </button>
           <div id="meta-row" class="meta-row"></div>
           <button id="flag-btn" class="flag-btn" type="button"
-                  title="Segnala domanda errata — non verrà più mostrata">
-            <span aria-hidden="true">⚑</span> Segnala
+                  data-i18n-title="flag.tooltip">
+            <span aria-hidden="true">⚑</span> <span data-i18n="flag">Segnala</span>
           </button>
         </div>
         <h2 id="question-text" class="question-text">Loading…</h2>
         <details id="suggestion-box" class="suggestion-box" hidden>
           <summary class="suggestion-summary">
-            <span class="suggestion-summary-label">💡 Suggerimento</span>
+            <span class="suggestion-summary-label" data-i18n="hint.label">💡 Suggerimento</span>
             <span class="suggestion-chevron" aria-hidden="true"></span>
           </summary>
           <p id="suggestion" class="suggestion"></p>
@@ -136,19 +145,19 @@
         <div id="feedback" class="feedback" hidden>
           <details id="explanation-box" class="explanation-box">
             <summary class="explanation-summary">
-              <span class="explanation-summary-label">Spiegazione</span>
+              <span class="explanation-summary-label" data-i18n="explanation.label">Spiegazione</span>
               <span class="explanation-chevron" aria-hidden="true"></span>
             </summary>
             <p id="explanation" class="explanation"></p>
           </details>
-          <button id="next-btn" class="primary-btn">Next</button>
+          <button id="next-btn" class="primary-btn" data-i18n="next">Avanti</button>
         </div>
       </article>
     </section>
 
     <section id="end-screen" class="end-screen" hidden>
       <article class="card">
-        <h2>Session complete</h2>
+        <h2 data-i18n="end.title">Sessione completata</h2>
         <p id="end-summary" class="end-summary"></p>
         <div id="praise" class="praise" hidden>
           <div id="praise-emojis" class="praise-emojis"></div>
@@ -156,17 +165,17 @@
           <div id="praise-score" class="praise-score"></div>
         </div>
         <div id="breakdown" class="breakdown" hidden>
-          <h3 class="breakdown-title">Per argomento</h3>
+          <h3 class="breakdown-title" data-i18n="breakdown.title">Per argomento</h3>
           <div id="breakdown-list"></div>
         </div>
-        <button id="restart-btn" class="primary-btn">Restart</button>
+        <button id="restart-btn" class="primary-btn" data-i18n="restart">Ricomincia</button>
       </article>
     </section>
 
     <section id="empty-screen" class="end-screen" hidden>
       <article class="card">
-        <h2>No questions to show</h2>
-        <p class="end-summary">
+        <h2 data-i18n="empty.title">Nessuna domanda da mostrare</h2>
+        <p class="end-summary" data-i18n-html="empty.body">
           Nessuna domanda per questa selezione. Tocca «‹ Nuova sessione» e scegli
           almeno un argomento — oppure aggiungi un file in <code>questions/</code> e
           registralo in <code>questions/index.json</code>.
@@ -186,6 +195,7 @@
   <div id="emoji-pop" class="emoji-pop" aria-hidden="true" hidden></div>
 
   <script src="praise.js?v=4"></script>
-  <script src="app.js?v=32"></script>
+  <script src="i18n.js?v=1"></script>
+  <script src="app.js?v=33"></script>
 </body>
 </html>

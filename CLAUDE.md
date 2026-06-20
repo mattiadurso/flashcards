@@ -97,10 +97,11 @@ Build everything, then end your reply with (a) the exact commands to launch it o
 
 ```
 flashcards/                      ← repo root (GitHub repo is "flashcards"; was "giud_studia" — see note below)
-  index.html                     ← the only page; markup + header controls (theme toggle, Reset, Restore flagged)
+  index.html                     ← the only page; markup + header controls (theme toggle, lang it/en, Reset, Restore flagged)
   styles.css                     ← all styling; light/dark via data-theme + prefers-color-scheme
-  app.js                         ← all app logic (~1300 lines): load manifest → fetch banks → quiz loop
+  app.js                         ← all app logic (~1500 lines): load manifest → fetch banks → quiz loop (incl. Back/Forward nav + i18n)
   praise.js                      ← end-of-session encouragement phrases (Italian); picked by score band
+  i18n.js                        ← UI string tables (it/en) read by app.js; questions stay in their authored language
   QUESTION_FORMAT.md             ← AUTHORITATIVE spec for question JSON + index.json manifest schema
   README.md                      ← how to run the site (local server) + the "generate questions" workflow
   start-mac.command              ← double-click launcher: starts python http.server + opens browser (macOS)
@@ -117,15 +118,18 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
     easter-eggs.json             ← hidden "bonus" questions; deliberately NOT in index.json; spliced in at random
   tests/
     test_question_banks.py       ← validates every bank + index.json against QUESTION_FORMAT.md (plain python3)
+    test_app_navigation.py       ← static-source checks for the Back/Forward navigation contract (read-only revisits)
+    test_i18n.py                 ← static-source checks for the it/en translation contract (key parity, wiring)
     README.md                    ← how to run/extend the tests
   .githooks/pre-commit           ← runs the tests; blocks commit on failure (enable: git config core.hooksPath .githooks)
 ```
 
 **Core files — what each does**
 
-- `index.html` — single screen. Header holds the day/dark **theme toggle**, **Reset progress**, and **Restore flagged** buttons; an inline `<script>` applies the saved theme before paint to avoid a flash. Body is the card, the topic/difficulty filter ("Argomenti"), and the session-complete screen.
-- `app.js` — everything: reads `questions/index.json`, fetches each listed bank, merges into one in-memory `state.bank`, then runs a non-repeating quiz. Supports multiple-choice **and** `fill` (fill-in-the-blank) questions, per-question **flagging**, a **"mastered"** pool (ids answered correctly are retired), a session-length selector, and topic groups that fold/unfold. Easter eggs load separately and are spliced into the queue with a small probability.
-- `praise.js` — arrays of Italian phrases keyed to score bands (`PRAISE_PERFECT` / `PRAISE` / `PRAISE_GOOD` / `PRAISE_OK` / `PRAISE_LOW`); `app.js` picks one at session end.
+- `index.html` — single screen. Header holds the day/dark **theme toggle**, **Reset progress**, and **Restore flagged** buttons; an inline `<script>` applies the saved theme before paint to avoid a flash. The setup screen opens with a **language switch (it/en)**. Body is the card, the topic/difficulty filter ("Argomenti"), and the session-complete screen. Translatable chrome carries `data-i18n` / `data-i18n-html` / `data-i18n-title` / `data-i18n-aria-label` attributes that `app.js` fills in.
+- `app.js` — everything: reads `questions/index.json`, fetches each listed bank, merges into one in-memory `state.bank`, then runs a non-repeating quiz. Supports multiple-choice **and** `fill` (fill-in-the-blank) questions, **Back/Forward navigation** through a per-session history (revisited cards are replayed read-only — answers/score never change), per-question **flagging**, a **"mastered"** pool (ids answered correctly are retired), a session-length selector, topic groups that fold/unfold, and **it/en UI translation** (the `t()` helper + `applyLanguage()`). Easter eggs load separately and are spliced into the queue with a small probability.
+- `praise.js` — arrays of Italian phrases keyed to score bands (`PRAISE_PERFECT` / `PRAISE` / `PRAISE_GOOD` / `PRAISE_OK` / `PRAISE_LOW`); `app.js` picks one at session end. (Italian only — not translated.)
+- `i18n.js` — `const I18N = { it: {...}, en: {...} }`: one flat key→string map per language for the UI chrome. Keep the two key sets identical (a test enforces it). Questions, explanations, hints and praise stay in their authored language (Italian).
 - `QUESTION_FORMAT.md` — the contract for question files **and** the `index.json` manifest. When touching either, treat this doc as authoritative and keep it, the banks, and the tests in agreement.
 
 **Data flow / how questions reach the screen**
@@ -140,7 +144,8 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
 
 - **No build, no deps.** Vanilla HTML/CSS/JS; tests are plain `python3`. Open via a local server (fetch is blocked on `file://`) — see README.
 - **The manifest is load-bearing.** Adding a `questions/<Subject>/<file>.json` does nothing until you add its `{ species, file, source, count }` entry to the right `topics[].files` array in `index.json`. This is the reusability workflow's one required edit.
-- **localStorage key prefix is `giud_studia.`** (e.g. `giud_studia.seen.v1`, `.correct.v1`, `.flagged.v1`, `.length.v1`, `.topics.v1`, `.theme.v1`, `.folds.v1`). Keep this prefix despite the repo rename — changing it wipes everyone's saved progress. (See the `repo-moved-to-flashcards` memory.)
+- **localStorage key prefix is `giud_studia.`** (e.g. `giud_studia.seen.v1`, `.correct.v1`, `.flagged.v1`, `.length.v1`, `.topics.v1`, `.theme.v1`, `.folds.v1`, `.lang.v1`). Keep this prefix despite the repo rename — changing it wipes everyone's saved progress. (See the `repo-moved-to-flashcards` memory.)
+- **UI language is it/en, questions are not translated.** The switch on the setup screen sets `giud_studia.lang.v1` (default `it`). Only interface chrome is translated, via `i18n.js` + `data-i18n*` attributes; question/explanation/hint/praise text stays as authored. When you add UI copy, add a key to BOTH languages in `i18n.js` (don't hardcode the string in `app.js`/`index.html`).
 - **`images/` does not exist yet.** The `image` field is supported by the schema and the app, but no question uses it and there's no `images/` folder. Create `images/<subject>/` only when a question actually needs a visual.
 - **Two question types:** standard multiple-choice and `fill` (fill-in-the-blank). See QUESTION_FORMAT.md before authoring either.
 

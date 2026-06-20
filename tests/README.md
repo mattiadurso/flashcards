@@ -25,6 +25,21 @@ It also prints **non-blocking style warnings** (e.g. options that use
 "tutte/nessuna delle precedenti", which `QUESTION_FORMAT.md` discourages). These
 do **not** fail the build — they're authoring hints.
 
+`test_app_navigation.py` and `test_i18n.py` cover **app behaviour** rather than
+data. Since the harness has no JavaScript runtime, they are *static-source*
+checks: they read `app.js` / `index.html` / `i18n.js` and assert each guarantee a
+regression could silently break.
+
+- **Back/Forward navigation** (`test_app_navigation.py`) — the per-session history
+  exists and Back/Next are wired to it; Back is hidden on the first question;
+  and, crucially, revisiting a question is **read-only** (the replay path never
+  re-grades, touches the score, or re-marks "seen").
+- **it/en translation** (`test_i18n.py`) — the two language maps in `i18n.js`
+  define the **same keys**, placeholders (`{name}`) match across languages, every
+  `data-i18n*` key in the markup and every literal `t('…')` key in `app.js`
+  resolves, and the language switch is wired up. This catches the classic i18n
+  bug: a string added to one language but not the other.
+
 ## Running
 
 ```sh

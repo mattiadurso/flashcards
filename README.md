@@ -13,6 +13,7 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 ## What it does
 
 - **Setup screen first** — every session starts on *Imposta la sessione*, where you choose **Argomenti** (topics), **Difficoltà**, and **how many questions**, then tap **Inizia**.
+- **Language (it / en)** — a switch at the top of the setup screen toggles the **interface** between Italian and English (the choice is remembered). The questions themselves stay in the language they were written in (Italian).
 - **Topics multi-select** — take a whole subject group or just specific species, with *Tutti / Nessuno* shortcuts and a live *"N disponibili"* count.
 - **Session length** — quick chips (10 / 20 / 30 / 50 / *Tutte*); your choice is remembered.
 - One Flashcards at a time, in two flavours:
@@ -20,6 +21,7 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
   - **fill-in-the-blank** (`type: "fill"`) — you **type** the missing word(s) into the sentence; matching is case-, accent- and space-insensitive, with synonyms accepted. Used mainly for definitions and key terms.
 - Optional foldable **Suggerimento** (hint) per question, before you commit.
 - On answer: highlights correct (green) / wrong (red) and reveals a foldable **Spiegazione** (explanation).
+- **Go back** — from the second question on, a **‹ Indietro** button (or the **←** key) steps back through the questions you've already seen, one at a time. Earlier answers are shown read-only: reviewing never changes your answer or your score. **Avanti** walks forward again.
 - **No repeats** — within a session, and across sessions (seen questions are remembered in `localStorage`) until the whole bank is exhausted.
 - **Progress bar + running score**, e.g. `12 / 87`.
 - **Per-argument results** at the end — accuracy per species, weakest first, with colored bars.
@@ -72,8 +74,9 @@ After starting the server, find your Mac/PC's local IP (e.g. `192.168.1.42`) and
 giud_studia/
   index.html             ← the page
   styles.css             ← all styling (light theme, responsive)
-  app.js                 ← quiz logic (loading, shuffling, scoring, progress)
+  app.js                 ← quiz logic (loading, shuffling, scoring, progress, back/forward nav, i18n)
   praise.js              ← the >90% / 100% encouragement messages
+  i18n.js                ← UI translations (it/en); questions stay in their authored language
   docs/                  ← source PDFs, organized by topic (git-ignored)
     Anatomia e biologia/
     ...
@@ -83,8 +86,10 @@ giud_studia/
       daino.json
       cervo.json
       ...
-  tests/                 ← data-integrity tests (python3, no dependencies)
-    test_question_banks.py
+  tests/                 ← tests (python3, no dependencies)
+    test_question_banks.py      ← validates the question banks + manifest
+    test_app_navigation.py      ← back/forward navigation contract
+    test_i18n.py                ← it/en translation contract
   .githooks/             ← pre-commit hook that runs the tests
   QUESTION_FORMAT.md     ← full spec + rules for writing questions
   README.md
@@ -155,7 +160,8 @@ See **`tests/README.md`** for what's checked and how to add tests. Per
 
 - **1 – 4** — select an option (multiple-choice questions)
 - **Enter** — submit your typed answer (fill-in-the-blank questions)
-- **Enter / Space** — go to the next question
+- **Enter / Space** — go to the next question (*Avanti*)
+- **←** (left arrow) — go back to the previous question (read-only; your answer doesn't change)
 - **h** — toggle the hint (*Suggerimento*) when the question has one
 - **Esc** — close the topics menu
 - **‹ Nuova sessione** (header, during a session) — back to the setup screen

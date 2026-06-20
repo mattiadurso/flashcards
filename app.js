@@ -10,6 +10,7 @@ const LENGTH_KEY = 'giud_studia.length.v1';
 const SELECTION_KEY = 'giud_studia.topics.v1';
 const THEME_KEY = 'giud_studia.theme.v1';   // 'light' (default) | 'dark'
 const FOLD_KEY = 'giud_studia.folds.v1';    // labels of unfolded topic groups (rest collapsed)
+const LANG_KEY = 'giud_studia.lang.v1';     // UI language: 'it' (default) | 'en'
 
 const state = {
   bank: [],              // all loaded questions
@@ -30,6 +31,7 @@ const state = {
   hasDifficulty: false,
   sessionLength: 'all',  // 'all', or a positive integer (as a string from the dropdown)
   sessionTotal: 0,       // how many questions this session actually has
+  lang: 'it',            // UI language: 'it' (default) | 'en'
 };
 
 // ---------- storage ----------
@@ -108,7 +110,7 @@ function applyTheme(theme) {
   const meta = document.querySelector('meta[name="theme-color"]');
   if (meta) meta.setAttribute('content', dark ? '#0E1116' : '#F5F7FB');
   if (els.themeToggle) {
-    const label = dark ? 'Attiva la modalità giorno' : 'Attiva la modalità notte';
+    const label = dark ? t('theme.toLight') : t('theme.toDark');
     els.themeToggle.setAttribute('aria-label', label);
     els.themeToggle.title = label;
     els.themeToggle.setAttribute('aria-checked', String(dark));
@@ -119,6 +121,75 @@ function toggleTheme() {
   const next = loadTheme() === 'dark' ? 'light' : 'dark';
   saveTheme(next);
   applyTheme(next);
+}
+
+// ---------- language (it / en) ----------
+
+function loadLang() {
+  try { return localStorage.getItem(LANG_KEY) === 'en' ? 'en' : 'it'; }
+  catch { return 'it'; }
+}
+
+function saveLang(lang) {
+  try { localStorage.setItem(LANG_KEY, lang); } catch {}
+}
+
+// Translate a UI key into the current language, filling in `{name}` placeholders
+// from `params`. Falls back to Italian, then to the raw key, so a missing string
+// is visible rather than blank. Reads the I18N global from i18n.js defensively.
+function t(key, params) {
+  const dict = (typeof I18N !== 'undefined' && I18N[state.lang]) || {};
+  const fallback = (typeof I18N !== 'undefined' && I18N.it) || {};
+  let s = dict[key] != null ? dict[key] : (fallback[key] != null ? fallback[key] : key);
+  if (params) {
+    for (const k in params) s = s.split('{' + k + '}').join(String(params[k]));
+  }
+  return s;
+}
+
+// Apply the current language to every static element tagged in the HTML:
+//   data-i18n            -> textContent
+//   data-i18n-html       -> innerHTML (for strings that contain markup, e.g. <code>)
+//   data-i18n-title      -> title attribute
+//   data-i18n-aria-label -> aria-label attribute
+function translateStatic() {
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    el.textContent = t(el.dataset.i18n);
+  });
+  document.querySelectorAll('[data-i18n-html]').forEach(el => {
+    el.innerHTML = t(el.dataset.i18nHtml);
+  });
+  document.querySelectorAll('[data-i18n-title]').forEach(el => {
+    el.title = t(el.dataset.i18nTitle);
+  });
+  document.querySelectorAll('[data-i18n-aria-label]').forEach(el => {
+    el.setAttribute('aria-label', t(el.dataset.i18nAriaLabel));
+  });
+}
+
+// Switch the whole UI to `lang`: persist it, re-translate the static chrome, and
+// rebuild the dynamic setup-screen controls (their text is generated in JS). The
+// questions themselves are left in their authored language.
+function applyLanguage(lang) {
+  state.lang = lang === 'en' ? 'en' : 'it';
+  saveLang(state.lang);
+  document.documentElement.setAttribute('lang', state.lang);
+  translateStatic();
+  applyTheme(loadTheme());   // refresh the theme toggle's localized label
+
+  if (els.langSwitch) {
+    els.langSwitch.querySelectorAll('.lang-opt').forEach(b => {
+      b.setAttribute('aria-pressed', String(b.dataset.lang === state.lang));
+    });
+  }
+
+  // Dynamic setup controls build their own text via t(), so regenerate them.
+  if (state.entries.length) {
+    buildTopicsControl();
+    buildCountPresets();
+    refreshCountActive();
+    updateAvailableCount();
+  }
 }
 
 // ---------- loading ----------
@@ -312,6 +383,7 @@ const els = {
   difficultyField: document.getElementById('difficulty-field'),
   title: document.getElementById('title'),
   themeToggle: document.getElementById('theme-toggle'),
+  langSwitch: document.getElementById('lang-switch'),
   setupScreen: document.getElementById('setup-screen'),
   startBtn: document.getElementById('start-btn'),
   newSessionBtn: document.getElementById('new-session-btn'),
@@ -428,7 +500,7 @@ function buildTopicsControl() {
   // quick "select all / none"
   const actions = document.createElement('div');
   actions.className = 'ms-actions';
-  for (const [text, on] of [['Tutti', true], ['Nessuno', false]]) {
+  for (const [text, on] of [[t('topics.all'), true], [t('topics.none'), false]]) {
     const b = document.createElement('button');
     b.type = 'button';
     b.className = 'ms-action';
@@ -560,9 +632,9 @@ function updateTopicsSummary(groups) {
   const allCount = state.entries.length;
   let text;
   if (sel.size === 0) {
-    text = 'Nessuno';
+    text = t('topics.none');
   } else if (sel.size === allCount) {
-    text = 'Tutti';
+    text = t('topics.all');
   } else {
     const fullGroups = [...groups].filter(([, items]) =>
       items.length && items.every(i => sel.has(i.file)));
@@ -570,9 +642,9 @@ function updateTopicsSummary(groups) {
       text = fullGroups[0][0];                       // exactly one whole group
     } else if (sel.size === 1) {
       const e = state.entries.find(x => x.file === [...sel][0]);
-      text = e ? (e.species || e.label || e.file) : '1 selezionato';
+      text = e ? (e.species || e.label || e.file) : t('topics.oneSelected');
     } else {
-      text = `${sel.size} selezionati`;
+      text = t('topics.nSelected', { n: sel.size });
     }
   }
   els.topicsSummary.textContent = text;
@@ -597,7 +669,7 @@ function buildCountPresets() {
   all.type = 'button';
   all.className = 'count-chip';
   all.dataset.count = 'all';
-  all.textContent = 'Tutte';
+  all.textContent = t('count.all');
   all.addEventListener('click', () => applyCount('all'));
   els.countPresets.appendChild(all);
 }
@@ -635,8 +707,8 @@ function refreshCountActive() {
 function updateAvailableCount() {
   const { correct, total, available: n } = selectionCounts();
   els.countHint.textContent = total
-    ? `${correct}/${total} corrette · ${n} da ripassare`
-    : 'Nessuna domanda per questa selezione';
+    ? t('count.hint', { correct, total, available: n })
+    : t('count.none');
   els.startBtn.disabled = n === 0;
   // hide presets that meet or exceed the pool (they'd behave like "Tutte"),
   // but never hide the currently-selected chip — it must stay highlighted.
@@ -834,12 +906,12 @@ function renderQuestion(record) {
     if (q._bonus) {
       const b = document.createElement('span');
       b.className = 'tag tag--bonus';
-      b.textContent = 'Bonus ❤️';
+      b.textContent = t('bonus');
       els.metaRow.appendChild(b);
     }
     if (q.topic) addTag(q.topic);
     if (q.species) addTag(q.species);
-    if (q.difficulty) addTag(q.difficulty);
+    if (q.difficulty) addTag(t('diff.' + q.difficulty));
 
     // bonus cards get a warm golden treatment; the flag button makes no sense
     els.card.classList.toggle('card--bonus', !!q._bonus);
@@ -949,11 +1021,13 @@ function showExplanation(q, isCorrect) {
     els.explanation.textContent = q.explanation;
   } else if (q.type === 'fill') {
     const accepted = (q.answers || []).map(b => b[0]).join(', ');
-    els.explanation.textContent = isCorrect ? 'Esatto.' : `Risposta corretta: ${accepted}`;
+    els.explanation.textContent = isCorrect
+      ? t('fb.fillCorrect')
+      : t('fb.fillWrong', { answer: accepted });
   } else {
     els.explanation.textContent = isCorrect
-      ? 'Correct.'
-      : `Correct answer: ${q.options[q.correctIndex]}`;
+      ? t('fb.mcCorrect')
+      : t('fb.mcWrong', { answer: q.options[q.correctIndex] });
   }
   els.explanationBox.open = false;   // start folded; user clicks to reveal
   els.feedback.hidden = false;
@@ -977,7 +1051,7 @@ function renderFill(q, answered) {
       input.autocomplete = 'off';
       input.autocapitalize = 'off';
       input.spellcheck = false;
-      input.setAttribute('aria-label', `Spazio ${i + 1}`);
+      input.setAttribute('aria-label', t('fill.blankAria', { n: i + 1 }));
       const accepted = blanks[i] || [];
       const longest = accepted.reduce((m, s) => Math.max(m, String(s).length), 8);
       input.size = Math.max(6, Math.min(longest + 1, 22));
@@ -993,7 +1067,7 @@ function renderFill(q, answered) {
   const submit = document.createElement('button');
   submit.type = 'button';
   submit.className = 'primary-btn fill-submit';
-  submit.textContent = 'Controlla';
+  submit.textContent = t('fill.submit');
   submit.addEventListener('click', () => handleFillSubmit());
   els.options.appendChild(submit);
 
@@ -1217,8 +1291,8 @@ function showEndScreen() {
     els.praise.hidden = true;
     els.endSummary.hidden = false;
     els.endSummary.textContent = total === 0
-      ? 'No questions matched the current filters.'
-      : `You answered ${correct} of ${total} (${pct}%).`;
+      ? t('end.summaryNone')
+      : t('end.summary', { correct, total, pct });
   }
 
   renderBreakdown();
@@ -1306,6 +1380,15 @@ function bindEvents() {
 
   els.themeToggle.addEventListener('click', toggleTheme);
 
+  if (els.langSwitch) {
+    els.langSwitch.addEventListener('click', (e) => {
+      const btn = e.target.closest('.lang-opt');
+      if (btn && btn.dataset.lang && btn.dataset.lang !== state.lang) {
+        applyLanguage(btn.dataset.lang);
+      }
+    });
+  }
+
   els.startBtn.addEventListener('click', () => {
     if (!els.startBtn.disabled) startSession();
   });
@@ -1318,7 +1401,7 @@ function bindEvents() {
   });
 
   els.resetBtn.addEventListener('click', () => {
-    if (!confirm('Reset dei progressi?\n\nAzzera "già viste" e le risposte corrette: riparti da zero su tutte le domande.\nLe domande segnalate come errate restano nascoste — usa "Ripristina segnalate" per riaverle.')) return;
+    if (!confirm(t('confirm.reset'))) return;
     clearSeen();
     clearCorrect();
     refreshAfterDataChange();
@@ -1326,7 +1409,7 @@ function bindEvents() {
 
   els.flagBtn.addEventListener('click', () => {
     if (!state.current) return;
-    if (!confirm('Segnalare questa domanda come errata? Non verrà più mostrata finché non ripristini le segnalazioni.')) return;
+    if (!confirm(t('confirm.flag'))) return;
     const flagged = loadFlagged();
     flagged.add(state.current.id);
     saveFlagged(flagged);
@@ -1361,10 +1444,10 @@ function bindEvents() {
     els.restoreFlaggedBtn.addEventListener('click', () => {
       const flagged = loadFlagged();
       if (flagged.size === 0) {
-        alert('Nessuna domanda segnalata.');
+        alert(t('alert.noFlagged'));
         return;
       }
-      if (!confirm(`Ripristinare ${flagged.size} domande segnalate?`)) return;
+      if (!confirm(t('confirm.restore', { n: flagged.size }))) return;
       clearFlagged();
       refreshAfterDataChange();
     });
@@ -1419,16 +1502,15 @@ function bindEvents() {
 
 (async function init() {
   bindEvents();
-  applyTheme(loadTheme());     // sync meta + toggle label with the saved choice
+  state.lang = loadLang();
+  applyLanguage(state.lang);   // localize static chrome + theme label before anything renders
   try {
     await loadBank();
   } catch (err) {
     // show only the error card (otherwise the setup screen stays stacked on top)
     els.setupScreen.hidden = true;
     els.cardContainer.hidden = false;
-    els.questionText.textContent =
-      'Could not load questions. Run the app via the start script ' +
-      '(file:// fetch is blocked by browsers). See README.md.';
+    els.questionText.textContent = t('error.load');
     els.options.innerHTML = '';
     console.error(err);
     return;

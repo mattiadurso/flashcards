@@ -435,6 +435,39 @@ body {
 
 /* ---------- setup / start screen ---------- */
 .setup-card { text-align: left; }
+
+/* Language preference (it/en): a small iOS-style segmented control that sits at
+   the top-right of the setup card. The card is a flex column, so align-self
+   pushes just this control to the right without affecting the fields below. */
+.lang-switch {
+  display: inline-flex;
+  align-self: flex-end;
+  gap: 2px;
+  padding: 3px;
+  background: var(--card-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+.lang-opt {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 5px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.05s ease;
+}
+.lang-opt:hover { color: var(--text); }
+.lang-opt:active { transform: scale(0.96); }
+.lang-opt[aria-pressed="true"] {
+  background: var(--accent);
+  color: #fff;
+}
 .setup-title {
   margin: 0 0 4px;
   font-size: 22px;

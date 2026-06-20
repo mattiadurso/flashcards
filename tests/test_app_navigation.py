@@ -187,5 +187,32 @@ class TestAnswerIsRemembered(unittest.TestCase):
         self.assertIn("record.blanksCorrect", body, "handleFillSubmit must store per-blank correctness")
 
 
+class TestReviewPolish(unittest.TestCase):
+    """Behaviours added after review: a position-aware progress bar and a
+    replay path that doesn't leave the mobile bottom spacer / dead focus."""
+
+    def test_progress_is_position_aware(self):
+        body = function_body(APP_JS, "updateProgress")
+        self.assertIn("state.histPos", body,
+                      "updateProgress must reflect the on-screen card position while reviewing")
+
+    def test_show_record_refreshes_progress(self):
+        body = function_body(APP_JS, "showRecord")
+        self.assertIn("updateProgress()", body,
+                      "showRecord must refresh the progress indicator when navigating")
+
+    def test_replay_does_not_add_mobile_spacer(self):
+        # The 45vh body.answered spacer is for the live-answer auto-scroll only;
+        # re-adding it on a reviewed card leaves a large empty gap on mobile.
+        body = function_body(APP_JS, "replayAnswer")
+        self.assertNotIn("classList.add('answered')", body,
+                         "replayAnswer must not re-add the body.answered spacer on reviewed cards")
+
+    def test_fill_skips_focus_when_answered(self):
+        body = function_body(APP_JS, "renderFill")
+        self.assertIn("!answered", body,
+                      "renderFill must skip auto-focus when replaying an answered card")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
