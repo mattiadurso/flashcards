@@ -91,6 +91,8 @@ Either a flat array of question objects, or `{ "questions": [...] }`. The flat a
 
 A second question type asks the student to **type** the missing word(s) into the sentence instead of picking from options. There are **no options** — the answer is free text, matched **case-, accent- and space-insensitively** (so `Biomagnificazione`, `biomagnificazione` and ` biomagnificazione ` all pass).
 
+> **When to use `fill`.** Reach for this type **mainly for definitions and key terms** — when the thing being tested is *the name of a concept* (a process, a structure, a substance, a technical term) and you want the student to **recall** it rather than recognise it among options. Typical shapes: a definition with the term blanked out (*"L'aumento di concentrazione di un contaminante lungo la catena trofica è detto ___."*), or a key sentence with its keyword removed. For questions about *why* something happens, comparisons between species, or anything where plausible distractors teach something, prefer normal multiple-choice. Rule of thumb: **if a single word or short term is "the answer", use `fill`; if the reasoning is the answer, use options.**
+
 ```jsonc
 {
   "id": "bci-ddt-fill-001",            // REQUIRED, unique (use a "-fill-" segment by convention)
@@ -169,6 +171,8 @@ Guidelines:
 - Distractors should be the kind of mistake a real student would make: confuse two similar species, swap two anatomical structures, invert a cause and effect.
 - If the PDF gives a number (gestation length, weight), prefer asking *why* it differs from a related species, not the bare number.
 - 2–4 options. Three is the sweet spot — four only when you have four genuinely plausible answers.
+
+**Choosing the question type.** Use `"type": "fill"` **chiefly for definitions and keywords** — when the goal is to make the student *recall* a precise term (the name of a process, a structure, a substance, a numeric value+unit) that the PDF states explicitly. Take the definitional sentence from the source and blank out the term being defined. For everything that tests *understanding* — causes, comparisons, mechanisms — keep multiple-choice, because well-chosen distractors are themselves part of the lesson. Don't turn a reasoning question into a fill just to avoid writing options, and don't blank a word that has many equally valid phrasings (matching is exact-ish, so it will frustrate the student).
 
 **The `suggestion` (hint):** a single Italian sentence that helps a stuck student *reason toward* the answer, never one that hands it over. Good hints point at the underlying concept ("Ricorda la differenza tra corna cave permanenti e palchi ossei caduchi."), the place to look, or the kind of mechanism involved. Bad hints restate the question, name the correct option, or are so vague they help nobody ("Pensaci bene."). For a trabocchetto/borderline question, the hint can flag that a precise value or a subtle distinction is at stake — without saying which option is the trap.
 

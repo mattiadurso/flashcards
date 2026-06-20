@@ -2,7 +2,7 @@
 
 A static website that turns study material into Flashcards quizzes.
 
-Long story short: drop your PDFs into `docs/`, generate question files from them, open the page, and drill the material with multiple-choice Flashcardss. It was built to study the anatomy and biology of huntable/faunistic species from Italian university PDFs, but the format is generic — any topic works.
+Long story short: drop your PDFs into `docs/`, generate question files from them, open the page, and drill the material with Flashcards — both multiple-choice and fill-in-the-blank. It was built to study the anatomy and biology of huntable/faunistic species from Italian university PDFs, but the format is generic — any topic works.
 
 No framework, no build step, no npm, no internet — just vanilla HTML + CSS + JavaScript. Everything runs locally from the folder on disk.
 
@@ -15,7 +15,9 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 - **Setup screen first** — every session starts on *Imposta la sessione*, where you choose **Argomenti** (topics), **Difficoltà**, and **how many questions**, then tap **Inizia**.
 - **Topics multi-select** — take a whole subject group or just specific species, with *Tutti / Nessuno* shortcuts and a live *"N disponibili"* count.
 - **Session length** — quick chips (10 / 20 / 30 / 50 / *Tutte*); your choice is remembered.
-- One Flashcards at a time: a question with 2–4 tappable options.
+- One Flashcards at a time, in two flavours:
+  - **multiple-choice** — a question with 2–4 tappable options;
+  - **fill-in-the-blank** (`type: "fill"`) — you **type** the missing word(s) into the sentence; matching is case-, accent- and space-insensitive, with synonyms accepted. Used mainly for definitions and key terms.
 - Optional foldable **Suggerimento** (hint) per question, before you commit.
 - On answer: highlights correct (green) / wrong (red) and reveals a foldable **Spiegazione** (explanation).
 - **No repeats** — within a session, and across sessions (seen questions are remembered in `localStorage`) until the whole bank is exhausted.
@@ -123,7 +125,8 @@ See **`QUESTION_FORMAT.md`** for the exact JSON schema, writing rules, a worked 
 
 ## Controls
 
-- **1 – 4** — select an option
+- **1 – 4** — select an option (multiple-choice questions)
+- **Enter** — submit your typed answer (fill-in-the-blank questions)
 - **Enter / Space** — go to the next question
 - **h** — toggle the hint (*Suggerimento*) when the question has one
 - **Esc** — close the topics menu
