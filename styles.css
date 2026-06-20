@@ -379,15 +379,19 @@ body {
   color: var(--text-muted);
   font-variant-numeric: tabular-nums;
 }
-/* Per-group correctness badge ("12/30 · 40%"); accent-tinted, green once mastered. */
-.ms-group-stat {
+/* Correctness badge ("12/30 · 40%"); accent-tinted, green once mastered. Shared
+   look for the per-group header and per-species rows; .ms-item-stat adds sizing. */
+.ms-group-stat,
+.ms-item-stat {
   font-size: 11px;
   font-weight: 700;
   color: var(--accent);
   font-variant-numeric: tabular-nums;
 }
-.ms-group-stat:empty { display: none; }
-.ms-group-stat.done { color: var(--green); }
+.ms-group-stat:empty,
+.ms-item-stat:empty { display: none; }
+.ms-group-stat.done,
+.ms-item-stat.done { color: var(--green); }
 /* Chevron from two borders: points right when folded, rotates down when open. */
 .ms-group-chevron {
   width: 7px;
@@ -422,17 +426,12 @@ body {
   flex-shrink: 0;
 }
 .ms-item-name { flex: 1; }
-/* Per-species correctness badge, sitting right after the checkbox. */
+/* Per-species badge sits right after the checkbox; fixed min-width keeps the
+   name column aligned. Colors/font come from the shared rule above. */
 .ms-item-stat {
-  font-size: 11px;
-  font-weight: 700;
-  color: var(--accent);
-  font-variant-numeric: tabular-nums;
   flex-shrink: 0;
   min-width: 64px;
 }
-.ms-item-stat:empty { display: none; }
-.ms-item-stat.done { color: var(--green); }
 
 /* ---------- setup / start screen ---------- */
 .setup-card { text-align: left; }

@@ -84,3 +84,29 @@ Constraints
 - Don't invent biological facts in the seed questions; if unsure, mark the example questions clearly as "source": "PLACEHOLDER — replace with real PDF content".
 
 Build everything, then end your reply with (a) the exact commands to launch it on Mac and Windows and (b) the next step I should take to load my own PDF content.
+
+---
+
+## Development conventions
+
+These apply to every change in this repo, in any future session.
+
+### Code readability — Google style guides
+
+All code should follow the relevant **Google style guide** for readability:
+
+- JavaScript → [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- Python → [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- HTML/CSS → [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+Key points to keep applying: descriptive `camelCase` names (JS) / `snake_case` (Python), small single-purpose functions, no dead code, consistent 2-space indentation in JS/HTML/CSS and 4-space in Python, and comments that explain the **why**, not the **what** (the existing code already does this — match it). Prefer clarity over cleverness; the owner is a student who will be extending this.
+
+### Testing — required for new functionality
+
+When you **add or change a behaviour**, add or update a test for it under `tests/`. Don't ship new functionality untested.
+
+- Tests live in `tests/` and run on plain `python3` (no dependencies, no npm), matching the project's "no build tools" constraint.
+- Run them with `python3 -m unittest discover -s tests` (or `python3 tests/test_question_banks.py` to also see non-blocking style warnings).
+- A **pre-commit git hook** (`.githooks/pre-commit`) runs the tests automatically and blocks the commit if any fail. Enable it once per clone with `git config core.hooksPath .githooks`.
+- The current suite (`tests/test_question_banks.py`) validates the question banks and `index.json` against QUESTION_FORMAT.md — the contract the website depends on. When you add a new kind of question field, manifest shape, or app behaviour with a checkable data contract, extend these tests to cover it.
+- See `tests/README.md` for details.

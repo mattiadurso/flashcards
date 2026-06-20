@@ -1,0 +1,29 @@
+#!/bin/sh
+# Pre-commit hook: run the question-bank data-integrity tests before every commit.
+#
+# Enabled once per clone with:
+#     git config core.hooksPath .githooks
+# (the start scripts and README explain this; see tests/README.md).
+#
+# Skips gracefully — never blocks a commit — if no Python is installed, since the
+# tests are a developer convenience, not a hard dependency of the site.
+
+ROOT="$(git rev-parse --show-toplevel)"
+PY="$(command -v python3 || command -v python)"
+
+if [ -z "$PY" ]; then
+  echo "pre-commit: python3 not found — skipping tests." >&2
+  exit 0
+fi
+
+echo "pre-commit: running question-bank tests…"
+# Run the file directly so the non-blocking style warnings are printed too.
+if ! "$PY" "$ROOT/tests/test_question_banks.py"; then
+  echo >&2
+  echo "pre-commit: tests FAILED — commit aborted." >&2
+  echo "  Fix the questions above, or commit with --no-verify to bypass." >&2
+  exit 1
+fi
+
+echo "pre-commit: tests passed."
+exit 0

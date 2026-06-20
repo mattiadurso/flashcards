@@ -83,6 +83,9 @@ giud_studia/
       daino.json
       cervo.json
       ...
+  tests/                 ← data-integrity tests (python3, no dependencies)
+    test_question_banks.py
+  .githooks/             ← pre-commit hook that runs the tests
   QUESTION_FORMAT.md     ← full spec + rules for writing questions
   README.md
   start-mac.command
@@ -120,6 +123,31 @@ The whole point of the project: you add PDFs and Claude writes the question file
 The website reads `questions/index.json` first, then fetches every file it lists and merges them into one in-memory bank. Per-topic progress is keyed by question `id`, so adding a topic never resets progress on the others.
 
 See **`QUESTION_FORMAT.md`** for the exact JSON schema, writing rules, a worked example, and the pre-flight checklist.
+
+---
+
+## Tests
+
+The question banks are validated by a small test suite under **`tests/`** — it
+catches the mistakes most likely to creep in when you add a new bank: invalid
+JSON, a missing `correctIndex`, duplicate `id`s, a file missing from
+`index.json`, a wrong `count`, malformed fill questions, and so on. It runs on
+plain **`python3`** (no npm, no dependencies).
+
+```sh
+python3 -m unittest discover -s tests        # just pass/fail
+python3 tests/test_question_banks.py         # also prints style warnings
+```
+
+A **git pre-commit hook** runs the suite automatically and blocks the commit if
+anything fails. Enable it once after cloning:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+See **`tests/README.md`** for what's checked and how to add tests. Per
+`CLAUDE.md`, new functionality should ship with a test.
 
 ---
 

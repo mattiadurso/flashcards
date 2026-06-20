@@ -14,7 +14,6 @@ const FOLD_KEY = 'giud_studia.folds.v1';    // labels of unfolded topic groups (
 const state = {
   bank: [],              // all loaded questions
   eggs: [],              // hidden easter-egg "bonus" questions (not in the bank/score)
-  byTopic: new Map(),    // topic -> question[]
   filtered: [],          // questions matching current filters
   queue: [],             // shuffled, not-yet-shown question ids for this session
   current: null,         // current question object
@@ -184,11 +183,6 @@ async function loadBank() {
 
   state.bank = all;
   state.entries = entries.filter(e => all.some(q => q._file === e.file));  // only files that loaded
-  state.byTopic = new Map();
-  for (const q of all) {
-    if (!state.byTopic.has(q.topic)) state.byTopic.set(q.topic, []);
-    state.byTopic.get(q.topic).push(q);
-  }
   state.hasDifficulty = all.some(q => q.difficulty);
 
   // Hidden easter-egg "bonus" questions. Kept out of index.json on purpose, so
@@ -211,7 +205,7 @@ const BONUS_CHANCE = 0.03;   // 3% of sessions get one bonus card
 function maybeInsertBonus() {
   if (state.eggs.length === 0 || state.queue.length === 0) return;
   if (Math.random() >= BONUS_CHANCE) return;
-  const egg = state.eggs[Math.floor(Math.random() * state.eggs.length)];
+  const egg = pickRandom(state.eggs);
   // Center on the middle, jitter within ±25% of the queue length, and clamp to
   // [1, length] so it's never first but still lands roughly in the middle.
   const mid = state.queue.length / 2;
@@ -284,6 +278,11 @@ function shuffle(arr) {
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
   return arr;
+}
+
+// Pick one random element from a non-empty array.
+function pickRandom(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
 }
 
 // Normalize a free-text answer for tolerant comparison: strip accents, lowercase,
@@ -608,7 +607,7 @@ function selectionCounts() {
   const filtered = state.bank.filter(q => matchesFilters(q, flagged));
   const correct = filtered.filter(q => correctSet.has(q.id)).length;
   const pending = filtered.length - correct;
-  return { total: filtered.length, correct, available: pending === 0 ? filtered.length : pending };
+  return { total: filtered.length, correct, available: pending || filtered.length };
 }
 
 // Set the session length from a preset chip; persist and re-highlight.
@@ -638,8 +637,8 @@ function updateAvailableCount() {
     const c = parseInt(chip.dataset.count, 10);
     const active = chip.dataset.count === String(state.sessionLength);
     chip.hidden = !Number.isNaN(c) && n > 0 && c >= n && !active;
+    chip.classList.toggle('active', active);   // highlight the selected chip in the same pass
   });
-  refreshCountActive();
 }
 
 function showSetupScreen() {
@@ -688,30 +687,30 @@ function updateStreakChip() {
 const POP_EMOJIS = ['💙', '✨', '🌟', '🎉', '💯', '👏', '💪', '🦌'];
 let toastTimer = null;
 
+// Re-trigger a one-shot CSS animation: drop the class, force a reflow so the
+// browser restarts it, re-add it, then strip it again (and run `onEnd`, if given)
+// once the animation finishes. Shared by the card bounce and the emoji pop.
+function playAnimation(el, className, onEnd) {
+  el.classList.remove(className);
+  void el.offsetWidth;                       // reflow so the animation restarts
+  el.classList.add(className);
+  el.addEventListener('animationend', function done() {
+    el.classList.remove(className);
+    el.removeEventListener('animationend', done);
+    if (onEnd) onEnd();
+  });
+}
+
 // Bounce the card briefly when an option is tapped.
 function bounceCard() {
-  els.card.classList.remove('bounce');
-  void els.card.offsetWidth;               // restart the animation
-  els.card.classList.add('bounce');
-  els.card.addEventListener('animationend', function done() {
-    els.card.classList.remove('bounce');
-    els.card.removeEventListener('animationend', done);
-  });
+  playAnimation(els.card, 'bounce');
 }
 
 // Pop a big emoji over the card on a correct answer.
 function popEmoji() {
-  const emoji = POP_EMOJIS[Math.floor(Math.random() * POP_EMOJIS.length)];
-  els.emojiPop.textContent = emoji;
+  els.emojiPop.textContent = pickRandom(POP_EMOJIS);
   els.emojiPop.hidden = false;
-  els.emojiPop.classList.remove('pop');
-  void els.emojiPop.offsetWidth;
-  els.emojiPop.classList.add('pop');
-  els.emojiPop.addEventListener('animationend', function done() {
-    els.emojiPop.classList.remove('pop');
-    els.emojiPop.hidden = true;
-    els.emojiPop.removeEventListener('animationend', done);
-  });
+  playAnimation(els.emojiPop, 'pop', () => { els.emojiPop.hidden = true; });
 }
 
 // Show a short affectionate toast, auto-hiding after a couple seconds.
@@ -730,20 +729,25 @@ function showToast(text) {
 
 let lastNudgeIdx = -1;   // remembered so a general nudge never repeats back-to-back
 
+// True when `a` is a non-empty array. Used to read the optional message banks
+// from praise.js defensively — any of them is absent if that script didn't load.
+const hasLines = (a) => Array.isArray(a) && a.length > 0;
+
 // Pick a mid-quiz nudge: prefer a streak-milestone line, else an occasional
 // general encouragement. Returns null when there's nothing to say right now.
 function pickNudge() {
-  if (typeof STREAK_NUDGES !== 'undefined' && Array.isArray(STREAK_NUDGES)) {
-    const hit = [...STREAK_NUDGES].reverse().find(s => state.streak === s.min);
+  const streakNudges = typeof STREAK_NUDGES !== 'undefined' ? STREAK_NUDGES : null;
+  const nudges = typeof NUDGES !== 'undefined' ? NUDGES : null;
+  if (hasLines(streakNudges)) {
+    const hit = [...streakNudges].reverse().find(s => state.streak === s.min);
     if (hit) return hit.text;
   }
   // every 3rd correct in a row, a 1-in-3 chance of a varied general nudge
-  if (typeof NUDGES !== 'undefined' && Array.isArray(NUDGES) && NUDGES.length &&
-      state.streak > 0 && state.streak % 3 === 0 && Math.random() < 1 / 3) {
-    let idx = Math.floor(Math.random() * NUDGES.length);
-    if (NUDGES.length > 1 && idx === lastNudgeIdx) idx = (idx + 1) % NUDGES.length;
+  if (hasLines(nudges) && state.streak > 0 && state.streak % 3 === 0 && Math.random() < 1 / 3) {
+    let idx = Math.floor(Math.random() * nudges.length);
+    if (nudges.length > 1 && idx === lastNudgeIdx) idx = (idx + 1) % nudges.length;
     lastNudgeIdx = idx;
-    return NUDGES[idx];
+    return nudges[idx];
   }
   return null;
 }
@@ -1003,31 +1007,31 @@ function randomEmojis(n, pool = CELEBRATION_EMOJIS) {
   return p.slice(0, n).join(' ');
 }
 
+// Resolve praise.js's optional message banks into one object (tier -> array, or
+// null if that bank — or the whole script — is absent). The typeof guards avoid
+// a ReferenceError when praise.js didn't load.
+function praiseBanks() {
+  return {
+    perfect: typeof PRAISE_PERFECT !== 'undefined' ? PRAISE_PERFECT : null,
+    high:    typeof PRAISE         !== 'undefined' ? PRAISE         : null,
+    good:    typeof PRAISE_GOOD    !== 'undefined' ? PRAISE_GOOD    : null,
+    ok:      typeof PRAISE_OK      !== 'undefined' ? PRAISE_OK      : null,
+    low:     typeof PRAISE_LOW     !== 'undefined' ? PRAISE_LOW     : null,
+  };
+}
+
 // Pick the message bank + emojis for the end screen, scaled to how the run went.
 // Always positive: every tier returns a warm, affectionate line — lower scores
 // get gentle, motivating ones rather than a dry summary. Returns null only if
 // praise.js is missing entirely (graceful fallback to the plain summary).
 function pickPraise(ratio, perfect) {
-  const ok = (a) => typeof a !== 'undefined' && Array.isArray(a) && a.length;
-  if (perfect && ok(typeof PRAISE_PERFECT !== 'undefined' && PRAISE_PERFECT)) {
-    return { lines: PRAISE_PERFECT, emojis: `💯 ${randomEmojis(3)}` };
-  }
-  if (ratio > 0.9 && ok(typeof PRAISE !== 'undefined' && PRAISE)) {
-    return { lines: PRAISE, emojis: randomEmojis(3) };
-  }
-  if (ratio >= 0.7 && ok(typeof PRAISE_GOOD !== 'undefined' && PRAISE_GOOD)) {
-    return { lines: PRAISE_GOOD, emojis: randomEmojis(3) };
-  }
-  if (ratio >= 0.5 && ok(typeof PRAISE_OK !== 'undefined' && PRAISE_OK)) {
-    return { lines: PRAISE_OK, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
-  }
-  if (ok(typeof PRAISE_LOW !== 'undefined' && PRAISE_LOW)) {
-    return { lines: PRAISE_LOW, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
-  }
-  // Fall back to whatever broad praise bank exists, then to nothing.
-  if (ok(typeof PRAISE !== 'undefined' && PRAISE)) {
-    return { lines: PRAISE, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
-  }
+  const b = praiseBanks();
+  if (perfect && hasLines(b.perfect)) return { lines: b.perfect, emojis: `💯 ${randomEmojis(3)}` };
+  if (ratio > 0.9 && hasLines(b.high)) return { lines: b.high, emojis: randomEmojis(3) };
+  if (ratio >= 0.7 && hasLines(b.good)) return { lines: b.good, emojis: randomEmojis(3) };
+  if (ratio >= 0.5 && hasLines(b.ok))  return { lines: b.ok,   emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
+  if (hasLines(b.low))                 return { lines: b.low,  emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };
+  if (hasLines(b.high))                return { lines: b.high, emojis: randomEmojis(3, ENCOURAGE_EMOJIS) };  // last resort
   return null;
 }
 
@@ -1089,7 +1093,7 @@ function showEndScreen() {
   const praise = total === 0 ? null : pickPraise(ratio, perfect);
   if (praise) {
     els.praiseEmojis.textContent = praise.emojis;
-    els.praiseMsg.textContent = praise.lines[Math.floor(Math.random() * praise.lines.length)];
+    els.praiseMsg.textContent = pickRandom(praise.lines);
     els.praiseScore.textContent = `${pct}% — ${correct}/${total}`;
     els.praise.classList.toggle('perfect', perfect);
     els.praise.hidden = false;
@@ -1297,6 +1301,7 @@ function bindEvents() {
   buildTopicsControl();
   buildCountPresets();
   const savedLen = loadLength();   // normalize to a known chip ('all' or a preset)
-  applyCount(savedLen === 'all' || COUNT_PRESETS.includes(parseInt(savedLen, 10)) ? savedLen : 'all');
+  const knownLen = savedLen === 'all' || COUNT_PRESETS.includes(parseInt(savedLen, 10));
+  applyCount(knownLen ? savedLen : 'all');
   showSetupScreen();          // land on the setup screen; the user taps "Inizia" to begin
 })();
