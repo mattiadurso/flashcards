@@ -5,11 +5,11 @@
     "question": "Secondo la definizione di Kavlock et al. (1996), cosa sono i disruttori endocrini (EDC)?",
     "suggestion": "Sono agenti che vengono dall'esterno dell'organismo.",
     "options": [
-      "Ormoni naturali prodotti in eccesso dalle ghiandole endocrine",
       "Agenti esogeni che interferiscono con sintesi, secrezione, trasporto, legame o eliminazione degli ormoni naturali",
-      "Enzimi endogeni che catalizzano la degradazione degli steroidi"
+      "Ormoni naturali prodotti in eccesso dalle ghiandole endocrine che saturano i recettori e ne alterano la risposta",
+      "Enzimi endogeni che catalizzano la sintesi e l'eliminazione degli ormoni steroidi nei tessuti bersaglio"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Gli EDC sono definiti come agenti esogeni che interferiscono con sintesi, secrezione, trasporto, legame o eliminazione degli ormoni naturali responsabili di omeostasi, riproduzione, sviluppo o comportamento.",
     "difficulty": "easy",
     "source": "Disruttori endocrini.pdf"
@@ -20,9 +20,9 @@
     "question": "Nel meccanismo d'azione diretto degli EDC, qual e la differenza tra un agonista e un antagonista?",
     "suggestion": "Pensa a chi imita l'ormone e a chi blocca il recettore.",
     "options": [
-      "L'agonista blocca i recettori, l'antagonista simula l'azione degli ormoni naturali",
-      "L'agonista simula l'azione degli ormoni naturali, l'antagonista blocca i recettori",
-      "Entrambi alterano solo la biosintesi degli ormoni senza legarsi ai recettori"
+      "L'agonista blocca i recettori riducendo la risposta, l'antagonista simula gli ormoni naturali aumentandola",
+      "L'agonista simula gli ormoni naturali aumentando la risposta, l'antagonista blocca i recettori riducendola",
+      "Entrambi alterano la sola biosintesi degli ormoni naturali senza mai legarsi direttamente ai recettori"
     ],
     "correctIndex": 1,
     "explanation": "Nel meccanismo diretto, gli agonisti (es. etinilestradiolo, nonilfenolo) simulano l'azione degli ormoni naturali aumentando la risposta, mentre gli antagonisti (es. tamoxifen, DDE) bloccano i recettori diminuendo la risposta.",
@@ -35,11 +35,11 @@
     "question": "Perche un EDC con meccanismo indiretto puo alterare i livelli ormonali senza legarsi direttamente ai recettori?",
     "suggestion": "Agisce a monte, sulla disponibilita dell'ormone.",
     "options": [
-      "Perche aumenta solo il numero dei recettori disponibili",
-      "Perche influenza la biosintesi, il metabolismo o la disponibilita degli ormoni naturali",
-      "Perche degrada esclusivamente gli HSP nel nucleo"
+      "Perche aumenta il solo numero dei recettori nucleari disponibili senza toccare i livelli ormonali",
+      "Perche degrada esclusivamente le HSP nel nucleo liberando i recettori dal loro stato inattivo",
+      "Perche influenza la biosintesi, il metabolismo o la disponibilita degli ormoni naturali circolanti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Il meccanismo indiretto agisce sulla concentrazione dell'ormone o sull'omeostasi, influenzando biosintesi, metabolismo o disponibilita degli ormoni naturali, ad esempio bloccando la trasformazione degli androgeni in estrogeni.",
     "difficulty": "medium",
     "source": "Disruttori endocrini.pdf"
@@ -83,9 +83,9 @@
     "question": "Come si comporta il bisfenolo A (BPA) rispetto all'attivita ormonale?",
     "suggestion": "Confrontalo con la potenza del 17b-estradiolo.",
     "options": [
-      "E un estrogeno forte, 4-6 volte piu potente del 17b-estradiolo",
+      "E un estrogeno forte e pro-androgeno, con potenza 4-6 volte superiore al 17b-estradiolo",
       "E un estrogeno debole e anti-androgeno, con potenza 4-6 volte inferiore al 17b-estradiolo",
-      "E privo di qualsiasi attivita estrogenica o androgenica"
+      "E un androgeno debole privo di attivita estrogenica, con potenza pari a quella del 17b-estradiolo"
     ],
     "correctIndex": 1,
     "explanation": "Il BPA (2,2-bis(4-idrossifenil)propano) e un estrogeno debole e anti-androgeno, con potenza 4-6 volte inferiore al 17b-estradiolo; e usato nei policarbonati e all'interno delle lattine per alimenti.",
@@ -98,11 +98,11 @@
     "question": "Quale effetto e stato osservato nei molluschi marini femmina esposti a composti organostannici come il TBT?",
     "suggestion": "Il TBT ha proprieta androgeniche.",
     "options": [
-      "Femminilizzazione e raddoppio degli ovidotti",
       "Imposex, ovvero la graduale virilizzazione delle femmine fino alla sterilizzazione",
-      "Nessuna alterazione riproduttiva osservabile"
+      "Femminilizzazione spinta, con raddoppio degli ovidotti e aumento della deposizione di uova",
+      "Inversione completa del sesso da femmina a maschio fertile entro un solo ciclo riproduttivo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il TBT, dotato di proprieta androgeniche, causa mascolinizzazione dei molluschi femmina e l'imposex: una graduale virilizzazione che progredisce in 6 stadi, con sterilizzazione agli stadi 5 e 6.",
     "difficulty": "medium",
     "source": "Disruttori endocrini.pdf"
@@ -113,11 +113,11 @@
     "question": "Per quale motivo l'esposizione agli EDC durante lo sviluppo embrionale e considerata piu problematica rispetto all'esposizione in eta adulta?",
     "suggestion": "Pensa ai meccanismi omeostatici dell'adulto.",
     "options": [
-      "Perche nell'adulto i meccanismi omeostatici normali possono compensare l'esposizione, mentre durante lo sviluppo no",
-      "Perche l'embrione elimina i tossici piu velocemente dell'adulto",
-      "Perche gli ormoni non sono ancora attivi durante lo sviluppo"
+      "Perche durante lo sviluppo gli ormoni non sono ancora attivi e l'embrione li accumula nei tessuti",
+      "Perche l'embrione elimina i tossici molto piu velocemente dell'adulto e li ridistribuisce nel sangue",
+      "Perche nell'adulto i meccanismi omeostatici compensano l'esposizione, mentre nello sviluppo mancano"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nell'adulto l'esposizione puo essere compensata dai normali meccanismi omeostatici e quindi non dare effetti rilevabili; durante lo sviluppo questi meccanismi mancano, rendendo l'esposizione molto piu problematica, anche con conseguenze a lungo termine.",
     "difficulty": "medium",
     "source": "Disruttori endocrini.pdf"
@@ -128,9 +128,9 @@
     "question": "Cosa indica la comparsa di vitellogenina nel plasma di pesci maschi esposti a estrogeni in acque inquinate?",
     "suggestion": "La vitellogenina e normalmente prodotta solo nelle femmine.",
     "options": [
-      "Un aumento della produzione di sperma",
-      "L'induzione anomala di una proteina tipicamente femminile, segno di femminilizzazione",
-      "Una maggiore resistenza agli inquinanti"
+      "Una maggiore produzione di sperma indotta dagli estrogeni esogeni nei testicoli dei maschi",
+      "L'induzione anomala di una proteina tipicamente femminile, segno di femminilizzazione dei maschi",
+      "Una maggiore resistenza agli inquinanti grazie al sequestro epatico degli estrogeni esogeni"
     ],
     "correctIndex": 1,
     "explanation": "La vitellogenina e normalmente indotta dagli estrogeni endogeni nelle femmine (sintesi epatica per il tuorlo). Nei maschi esposti a estrogeni esogeni si accumula nel plasma: e una proteina \"femminile\" indicatrice di femminilizzazione (intersex/ovotesti).",
@@ -143,11 +143,11 @@
     "question": "Quale classe di proteine G attiva l'adenilato ciclasi favorendo la sintesi di cAMP?",
     "suggestion": "La lettera che le distingue richiama \"stimolatorie\".",
     "options": [
-      "Le proteine Gi",
-      "Le proteine Gs",
-      "Le proteine Gq"
+      "Le proteine Gi, che inibiscono l'adenilato ciclasi riducendo i livelli di cAMP",
+      "Le proteine Gq, che attivano le fosfolipasi e la via dell'inositolo trifosfato",
+      "Le proteine Gs, che attivano l'adenilato ciclasi e ne stimolano la sintesi di cAMP"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Tra le quattro classi di proteine G, le Gs attivano l'adenilato ciclasi (e quindi la sintesi di cAMP), mentre le Gi la inibiscono e le Gq attivano le fosfolipasi.",
     "difficulty": "hard",
     "source": "Disruttori endocrini.pdf"
@@ -169,9 +169,9 @@
     "question": "Perche il sistema endocrino dei vertebrati inferiori e degli invertebrati e particolarmente vulnerabile agli EDC ambientali?",
     "suggestion": "Pensa a come viene determinato il sesso in questi organismi.",
     "options": [
-      "Perche il sesso e determinato solo dai cromosomi sessuali, come nei mammiferi",
-      "Perche i meccanismi di determinazione e differenziazione sessuale possono essere influenzati da fattori ambientali come temperatura e sostanze a attivita ormonale",
-      "Perche non possiedono alcun recettore ormonale"
+      "Perche la determinazione del sesso dipende dai soli cromosomi sessuali, come avviene nei mammiferi",
+      "Perche la determinazione e differenziazione sessuale risentono di fattori ambientali come temperatura e sostanze ormonali",
+      "Perche questi organismi sono privi di recettori ormonali e assorbono passivamente gli xenobiotici esogeni"
     ],
     "correctIndex": 1,
     "explanation": "Mentre in mammiferi e uccelli il sesso genetico e definito dai cromosomi sessuali, nei vertebrati inferiori e negli invertebrati la determinazione e differenziazione sessuale sono meno caratterizzate e possono essere influenzate da fattori ambientali come la temperatura e sostanze esogene a attivita ormonale.",
@@ -184,9 +184,9 @@
     "question": "Quale sostanza fu ritenuta responsabile del blocco dello sviluppo del pene negli alligatori del Lake Apopka in Florida?",
     "suggestion": "E un noto insetticida organoclorurato.",
     "options": [
-      "Il bisfenolo A",
-      "Il DDT, in seguito a uno sversamento",
-      "Il tributiltin (TBT)"
+      "Il bisfenolo A, in seguito al rilascio da contenitori in policarbonato nel lago",
+      "Il DDT, in seguito a uno sversamento accidentale dell'insetticida nel lago",
+      "Il tributilstagno (TBT), in seguito al dilavamento delle vernici nautiche nel lago"
     ],
     "correctIndex": 1,
     "explanation": "Nel Lake Apopka (Florida) il blocco dello sviluppo del pene negli alligatori fu attribuito a uno sversamento di DDT, esempio di malformazione degli organi sessuali causata da EDC nella fauna selvatica.",
@@ -199,9 +199,9 @@
     "question": "Quale ghiandola endocrina ha la funzione di regolare l'attivita di altre ghiandole?",
     "suggestion": "E spesso definita la \"ghiandola maestra\".",
     "options": [
-      "La tiroide",
-      "La ghiandola pituitaria",
-      "La paratiroide"
+      "La tiroide, che regola il metabolismo basale dell'organismo",
+      "La ghiandola pituitaria, che regola l'attivita di altre ghiandole",
+      "La paratiroide, che regola la concentrazione di calcio nel sangue"
     ],
     "correctIndex": 1,
     "explanation": "Tra le principali ghiandole endocrine, la ghiandola pituitaria ha funzione regolatrice di altre ghiandole; la tiroide controlla il metabolismo e la paratiroide regola il calcio nel sangue.",
@@ -214,11 +214,11 @@
     "question": "Secondo la definizione dell'EU (1998), cosa sono i disruttori endocrini?",
     "suggestion": "La definizione include esplicitamente anche la progenie dell'organismo.",
     "options": [
-      "Ormoni steroidi che sostengono la funzione riproduttiva femminile",
-      "Composti esogeni che influenzano negativamente la salute di un organismo sano o la sua progenie interferendo con le sue funzioni",
-      "Enzimi che catalizzano la trasformazione degli androgeni in estrogeni"
+      "Composti esogeni che danneggiano la salute di un organismo sano o della sua progenie alterandone le funzioni",
+      "Ormoni steroidi endogeni che sostengono la funzione riproduttiva femminile e la salute della progenie",
+      "Enzimi epatici che catalizzano la trasformazione degli androgeni in estrogeni nei tessuti bersaglio"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "La definizione EU (1998) descrive gli EDC come composti esogeni che influenzano negativamente la salute di un organismo sano o la sua progenie interferendo con le sue funzioni.",
     "difficulty": "medium",
     "source": "Disruttori endocrini.pdf"
@@ -229,11 +229,11 @@
     "question": "Quale tra queste e una caratteristica dei recettori ormonali descritta nel meccanismo di simulazione?",
     "suggestion": "Pensa a cosa limita la risposta quando l'ormone e in eccesso.",
     "options": [
-      "Bassa affinita e assenza di specificita",
-      "Saturabilita, elevata affinita e specificita sterica e farmacologica",
-      "Capacita di degradare le HSP nel citoplasma"
+      "Saturabilita, elevata affinita e specificita sterica e farmacologica per l'ormone",
+      "Bassa affinita, assenza di saturazione e nessuna specificita sterica per l'ormone",
+      "Capacita di degradare le HSP nel citoplasma e di legare ormoni in modo aspecifico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Le caratteristiche dei recettori sono: saturabilita, elevata affinita, specificita sterica e farmacologica, e correlazione con la risposta biologica.",
     "difficulty": "medium",
     "source": "Disruttori endocrini.pdf"
@@ -244,9 +244,9 @@
     "question": "Quale composto organostannico, usato come biocida nelle vernici nautiche, e definito uno dei xenobiotici piu tossici mai prodotti e introdotti deliberatamente nell'ambiente?",
     "suggestion": "E un composto dello stagno usato dal 1970 sulle carene.",
     "options": [
-      "Il trifenilstagno (TPT)",
-      "Il tributilstagno (TBT)",
-      "Il bisfenolo A"
+      "Il trifenilstagno (TPT), usato come fungicida agricolo e meno tossico tra i composti dello stagno",
+      "Il tributilstagno (TBT), usato dal 1970 come biocida nel trattamento delle carene delle navi",
+      "Il bisfenolo A, usato nei policarbonati e definito il piu tossico tra i composti dello stagno"
     ],
     "correctIndex": 1,
     "explanation": "Il tributilstagno (TBT), usato dal 1970 come biocida nel trattamento delle carene, e il composto piu tossico tra quelli dello stagno (tossicita acuta, teratogenicita, immunotossicita) ed e descritto come uno dei xenobiotici piu tossici mai introdotti deliberatamente nell'ambiente.",
@@ -259,11 +259,11 @@
     "question": "Quale enzima, bersaglio dell'azione di TBT e TPT, catalizza la trasformazione degli androgeni (androstendione, testosterone) in estrogeni?",
     "suggestion": "E noto anche come CYP19.",
     "options": [
-      "La 3-beta-idrossisteroido-deidrogenasi",
-      "L'aromatasi (CYP19)",
-      "La 17-alfa-idrossilasi"
+      "La 3-beta-idrossisteroido-deidrogenasi, che ossida il pregnenolone a progesterone",
+      "La 17-alfa-idrossilasi, che idrossila il progesterone nella via degli androgeni",
+      "L'aromatasi (CYP19), che converte androstendione e testosterone in estrogeni"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "TBT e TPT agiscono inibendo l'aromatasi (CYP19), l'enzima che converte androstendione e testosterone in estrone e 17-beta-estradiolo; cosi alterano la formazione degli organi sessuali femminili.",
     "difficulty": "hard",
     "source": "Disruttori endocrini.pdf"
@@ -274,11 +274,11 @@
     "question": "Quale sindrome di alterazioni nelle chiocciole marine e d'acqua dolce e indotta dal bisfenolo A (BPA) e dall'octilfenolo (OP)?",
     "suggestion": "Comporta la formazione di organi femminili supplementari, come una seconda vagina.",
     "options": [
-      "L'imposex con virilizzazione delle femmine",
-      "La sindrome delle \"superfemales\"",
-      "La femminilizzazione dei maschi (ovotesti)"
+      "La sindrome delle \"superfemales\", con organi femminili supplementari come una seconda vagina",
+      "L'imposex, con virilizzazione delle femmine e comparsa di pene e vaso deferente vestigiali",
+      "La femminilizzazione dei maschi (ovotesti), con comparsa di tessuto ovarico nei testicoli"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "BPA e octilfenolo inducono nelle chiocciole la sindrome delle \"superfemales\": formazione di organi femminili supplementari (es. seconda vagina), malformazione dell'ovidotto e stimolazione della produzione di oociti e uova.",
     "difficulty": "hard",
     "source": "Disruttori endocrini.pdf"
@@ -289,9 +289,9 @@
     "question": "In quali prodotti d'uso comune sono presenti i parabeni (metil, propil, etil, butilparaben), sospettati di attivita estrogenica?",
     "suggestion": "Pensa ai cosmetici e ai prodotti per l'igiene.",
     "options": [
-      "Vernici nautiche e preservanti del legno",
-      "Shampoo, smalti, deodoranti, creme e altri cosmetici",
-      "Policarbonati e lattine per alimenti"
+      "Nelle vernici nautiche, nei preservanti del legno e nei rivestimenti antivegetativi delle carene",
+      "Negli shampoo, negli smalti, nei deodoranti, nelle creme e in altri prodotti cosmetici",
+      "Nei policarbonati, nelle lattine per alimenti e nei rivestimenti interni dei contenitori"
     ],
     "correctIndex": 1,
     "explanation": "I parabeni (metil, propil, etil, butilparaben) sono usati in shampoo, condizionatori, smalti, fondotinta, maschere di bellezza, creme e deodoranti; hanno debole azione estrogena e sono associati a tumori alla mammella.",
@@ -304,9 +304,9 @@
     "question": "Quale effetto sulla qualita dello sperma e stato documentato dal British Medical Journal nel periodo 1940-1990?",
     "suggestion": "Si confronta la concentrazione di spermatozoi tra il 1940 e il 1990.",
     "options": [
-      "Un aumento da 66 a 113 milioni/mL",
-      "Una diminuzione in numero e volume, da 113 a 66 milioni/mL",
-      "Nessuna variazione significativa nel tempo"
+      "Un aumento in numero e volume dello sperma, da 66 a 113 milioni/mL tra il 1940 e il 1990",
+      "Una diminuzione in numero e volume dello sperma, da 113 a 66 milioni/mL tra il 1940 e il 1990",
+      "Una concentrazione stabile dello sperma, costante intorno a 90 milioni/mL tra il 1940 e il 1990"
     ],
     "correctIndex": 1,
     "explanation": "Il British Medical Journal ha documentato, tra il 1940 e il 1990, una diminuzione in numero e volume dello sperma: da 113 milioni/mL (1940) a 66 milioni/mL (1990); uno studio danese stimava un declino di circa il 2% per anno.",

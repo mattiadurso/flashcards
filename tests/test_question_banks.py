@@ -48,6 +48,11 @@ BLANK_PATTERN = re.compile(r"_{2,}")
 ALL_OF_THE_ABOVE_PATTERN = re.compile(
     r"\b(?:tutte|nessuna)\s+(?:le|delle)\s+precedenti\b", re.IGNORECASE
 )
+# Per-file share of "correct is the single longest option" above which we warn.
+# QUESTION_FORMAT.md §3 forbids the correct answer being the unique longest; a
+# high share across a file means it can be answered by length alone. The random
+# baseline is ~1/3 for 3-option questions, so 0.50 is already a clear signal.
+LENGTH_TELL_RATIO = 0.50
 
 
 # ---------- loading ----------
@@ -354,9 +359,58 @@ class TestGlobalInvariants(unittest.TestCase):
 # ---------- non-blocking style warnings ----------
 
 
+def _correct_is_unique_longest(question):
+    """True when the correct option is strictly the longest — the length 'tell'.
+
+    A multiple-choice question whose correct answer is the single longest option
+    can often be solved without reading it (see QUESTION_FORMAT.md §3, Answer-length
+    parity). Ties don't count: only a *unique* longest correct option is a tell.
+    """
+    options = question.get("options") or []
+    idx = question.get("correctIndex")
+    if not options or not isinstance(idx, int) or not (0 <= idx < len(options)):
+        return False
+    lengths = [len(str(o)) for o in options]
+    longest = max(lengths)
+    return lengths[idx] == longest and lengths.count(longest) == 1
+
+
 def collect_warnings():
     """Return human-readable, non-failing warnings for spec-discouraged authoring."""
     warnings = []
+
+    # Length-parity tell: per-file share of questions whose correct option is the
+    # single longest one. Flag files above LENGTH_TELL_RATIO, worst first.
+    per_file = {}  # file -> [mc_count, tell_count]
+    for entry, q in QUESTIONS:
+        if is_fill(q):
+            continue
+        stats = per_file.setdefault(entry["file"], [0, 0])
+        stats[0] += 1
+        if _correct_is_unique_longest(q):
+            stats[1] += 1
+    offenders = sorted(
+        (
+            (file, tell, mc, tell / mc)
+            for file, (mc, tell) in per_file.items()
+            if mc and tell / mc > LENGTH_TELL_RATIO
+        ),
+        key=lambda row: row[3],
+        reverse=True,
+    )
+    if offenders:
+        total_mc = sum(mc for mc, _ in per_file.values())
+        total_tell = sum(tell for _, tell in per_file.values())
+        warnings.append(
+            f"{total_tell}/{total_mc} multiple-choice questions "
+            f"({100 * total_tell / total_mc:.0f}%) have the correct answer as the single "
+            f"longest option (random baseline ~33%) — QUESTION_FORMAT.md §3 forbids this. "
+            f"Files above {int(LENGTH_TELL_RATIO * 100)}%:"
+        )
+        for file, tell, mc, ratio in offenders[:12]:
+            warnings.append(f"    - {file}: {tell}/{mc} ({100 * ratio:.0f}%)")
+        if len(offenders) > 12:
+            warnings.append(f"    … and {len(offenders) - 12} more file(s)")
 
     all_of_the_above = []
     for entry, q in QUESTIONS:

@@ -5,11 +5,11 @@
     "question": "Perché gli elementi potenzialmente tossici (PTE) inorganici rappresentano un rischio per la salute umana anche nel lungo periodo?",
     "suggestion": "Pensa a cosa li distingue dagli inquinanti organici.",
     "options": [
-      "Perché evaporano rapidamente dal suolo",
-      "Perché non possono essere degradati da processi metabolici e sono persistenti nel suolo",
-      "Perché vengono rapidamente trasformati in composti innocui"
+      "Perché non sono degradabili dal metabolismo e restano persistenti nel suolo",
+      "Perché evaporano rapidamente dal suolo e si disperdono in atmosfera",
+      "Perché vengono trasformati dai microrganismi in composti innocui"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "I PTE sono inorganici, non degradabili dal metabolismo e in genere poco mobili: rimangono persistenti nel suolo, costituendo un rischio di lungo periodo.",
     "difficulty": "easy",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -20,11 +20,11 @@
     "question": "Secondo la classificazione di Pearson, a cosa si riferiscono i termini 'hard' e 'soft' applicati ad acidi e basi?",
     "suggestion": "Riguarda una proprietà degli orbitali elettronici.",
     "options": [
-      "Alla durezza meccanica del metallo solido",
-      "Alla polarizzabilità degli orbitali elettronici",
-      "Alla temperatura di fusione dell'elemento"
+      "Alla durezza meccanica del metallo allo stato solido",
+      "Alla temperatura di fusione caratteristica dell'elemento",
+      "Alla polarizzabilità degli orbitali elettronici dello ione"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Nella classificazione di Pearson hard e soft indicano la polarizzabilità degli orbitali elettronici; le interazioni favorite sono soft-soft e hard-hard.",
     "difficulty": "medium",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -35,11 +35,11 @@
     "question": "Quale tra queste interazioni è favorita secondo la regola di Pearson, come nella formazione di HgS?",
     "suggestion": "Hg2+ è un acido soft e S2- una base soft.",
     "options": [
-      "Soft acido con hard base",
-      "Soft acido con soft base",
-      "Hard acido con soft base"
+      "Acido soft con base soft",
+      "Acido soft con base hard",
+      "Acido hard con base soft"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Sono favorite le interazioni soft-soft (es. Hg2+ + S2- → HgS) e hard-hard (es. Fe3+ + 3OH- → Fe(OH)3).",
     "difficulty": "medium",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -50,9 +50,9 @@
     "question": "Nella classificazione di Goldschmidt, come sono definiti gli elementi affini allo zolfo e quindi presenti nei solfuri?",
     "suggestion": "Una delle quattro 'famiglie' geochimiche.",
     "options": [
-      "Litofili",
-      "Calcofili",
-      "Siderofili"
+      "Litofili, affini ai silicati",
+      "Calcofili, affini allo zolfo",
+      "Siderofili, affini al ferro"
     ],
     "correctIndex": 1,
     "explanation": "Secondo Goldschmidt i calcofili sono affini allo zolfo (solfuri); i litofili ai silicati, i siderofili al ferro, gli atmofili sono volatili.",
@@ -65,9 +65,9 @@
     "question": "Perché i PTE nelle loro forme naturali (geogeniche) sono generalmente poco tossici?",
     "suggestion": "Lega la tossicità alla solubilità e mobilità.",
     "options": [
-      "Perché nelle rocce sono in genere poco solubili, quindi poco mobili",
-      "Perché in natura si trovano sempre in concentrazioni nulle",
-      "Perché le rocce ignee ne sono prive"
+      "Perché nelle rocce sono in genere poco solubili e quindi poco mobili",
+      "Perché in natura si trovano sempre in concentrazioni molto basse e omogenee",
+      "Perché le rocce ignee ne sono in genere completamente prive"
     ],
     "correctIndex": 0,
     "explanation": "Nelle forme naturali i PTE sono in genere poco solubili e poco mobili, quindi poco tossici; l'alterazione delle rocce (weathering) ne aumenta la solubilità.",
@@ -82,7 +82,7 @@
     "options": [
       "Le rocce sedimentarie",
       "Le rocce ignee",
-      "Le arenarie"
+      "Le rocce evaporitiche"
     ],
     "correctIndex": 1,
     "explanation": "Le rocce ignee sono in genere più ricche di PTE; un esempio sono i serpentini, ricchi di Cr e Ni.",
@@ -150,9 +150,9 @@
     "question": "Quale categoria di reagenti viene utilizzata per solubilizzare la frazione legata agli ossidi di Fe e Mn nelle estrazioni sequenziali?",
     "suggestion": "Servono a portare in soluzione gli ossidi.",
     "options": [
-      "Agenti ossidanti forti",
-      "Agenti riducenti e leganti (es. idrossilammina, ditionito, ossalato)",
-      "Acidi minerali concentrati come HF"
+      "Agenti ossidanti forti come l'acqua ossigenata in ambiente acido",
+      "Agenti riducenti e leganti come idrossilammina, ditionito e ossalato",
+      "Acidi minerali concentrati come l'acido fluoridrico (HF)"
     ],
     "correctIndex": 1,
     "explanation": "Per gli ossidi di Fe/Mn si usano agenti riducenti (idrossilammina, ditionito di sodio) e complessanti (ossalato/acido ossalico).",
@@ -165,11 +165,11 @@
     "question": "Quale tra queste è indicata come una principale limitazione della speciazione chimica mediante estrazioni?",
     "suggestion": "Riguarda l'affidabilità dei reagenti e dei risultati.",
     "options": [
-      "L'eccessiva selettività dei reagenti",
-      "La mancanza di selettività dei reagenti e la ridistribuzione dei metalli solubilizzati",
-      "L'impossibilità di seccare il campione"
+      "La scarsa selettività dei reagenti e la ridistribuzione dei metalli solubilizzati",
+      "L'eccessiva selettività dei reagenti, che lascia in soluzione una sola fase",
+      "La dissoluzione completa e immediata di tutte le fasi minerali presenti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Tra i limiti: dissoluzione incompleta di alcune fasi, scarsa selettività dei reagenti, ri-adsorbimento e ridistribuzione dei metalli, modifiche durante la preparazione e mancanza di controllo di qualità.",
     "difficulty": "hard",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -181,10 +181,10 @@
     "suggestion": "Non è un metallo vero e proprio ma ha proprietà intermedie.",
     "options": [
       "Piombo (Pb)",
-      "Arsenico (As)",
-      "Cadmio (Cd)"
+      "Cadmio (Cd)",
+      "Arsenico (As)"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Tra i PTE i metalloidi includono As, Sb, Se, Mo, Cr(VI) e F; Pb e Cd sono invece metalli.",
     "difficulty": "easy",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -197,7 +197,7 @@
     "options": [
       "Acidi hard",
       "Acidi soft",
-      "Basi hard"
+      "Basi soft"
     ],
     "correctIndex": 1,
     "explanation": "Cu+, Ag+, Au+, Hg+, Hg2+, Cd2+ e Pt2+ sono acidi soft (accettori), con orbitali molto polarizzabili.",
@@ -210,11 +210,11 @@
     "question": "Nella classificazione di Goldschmidt, come sono definiti gli elementi affini al ferro, presenti nel nucleo terrestre?",
     "suggestion": "Il nome richiama il ferro.",
     "options": [
-      "Atmofili",
-      "Siderofili",
-      "Litofili"
+      "Atmofili, affini ai gas dell'atmosfera",
+      "Litofili, affini ai silicati della crosta",
+      "Siderofili, affini al ferro del nucleo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "I siderofili sono affini al ferro (nucleo terrestre); i litofili ai silicati, i calcofili allo zolfo, gli atmofili sono volatili (atmosfera).",
     "difficulty": "medium",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -225,9 +225,9 @@
     "question": "Quale processo aumenta in genere la solubilità dei PTE contenuti nelle rocce?",
     "suggestion": "È l'alterazione delle rocce per agenti atmosferici.",
     "options": [
-      "La cristallizzazione magmatica",
-      "I processi di alterazione delle rocce (weathering)",
-      "La compattazione dei sedimenti"
+      "La cristallizzazione magmatica del fuso",
+      "L'alterazione delle rocce (weathering)",
+      "La compattazione dei sedimenti profondi"
     ],
     "correctIndex": 1,
     "explanation": "I processi di alterazione delle rocce (weathering) determinano in genere un aumento della solubilità dei PTE, rendendoli più mobili.",
@@ -240,11 +240,11 @@
     "question": "Da quali PTE è caratterizzata la contaminazione legata alle attività militari, come proiettili e bossoli?",
     "suggestion": "Pensa ai metalli usati per munizioni.",
     "options": [
-      "Solo Hg e Cd",
       "As, Cu, Mn, Mo, Ni, Pb, Sb, U e Zn",
-      "Solo Cr e Se"
+      "Hg, Cd, Cr, Co, Tl, V, Be, Se e Ba",
+      "Al, Si, Ca, K, Na, Mg, Ti, Fe e Sr"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Le attività militari (proiettili, bossoli e propellente) rilasciano As, Cu, Mn, Mo, Ni, Pb, Sb, U e Zn.",
     "difficulty": "medium",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -270,11 +270,11 @@
     "question": "Quali PTE sono indicati come privi di barriere ('No Barriers') nel passaggio lungo la catena alimentare verso l'uomo, costituendo un rischio alimentare elevato?",
     "suggestion": "Includono una forma esavalente del cromo e una forma organica del mercurio.",
     "options": [
-      "Tl, Cr(VI) e MeHg",
-      "Cu, Zn e Fe",
-      "Ca, Mg e K"
+      "Cu, Zn e Fe, micronutrienti essenziali assimilati con la dieta",
+      "Ca, Mg e K, macroelementi alcalini e alcalino-terrosi",
+      "Tl, Cr(VI) e MeHg, che attraversano la catena trofica"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Tl, Cr(VI) e MeHg sono indicati come 'No Barriers' nel rischio alimentare per l'uomo: passano senza ostacoli lungo la catena trofica.",
     "difficulty": "hard",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
@@ -285,11 +285,11 @@
     "question": "Quale reagente è impiegato per estrarre la frazione residuale dei metalli nelle estrazioni sequenziali?",
     "suggestion": "Serve un acido capace di attaccare i silicati.",
     "options": [
-      "Acqua distillata",
-      "Acido fluoridrico (HF), acido nitrico (HNO3), acido cloridrico (HCl) o loro miscele",
-      "Sali neutri come MgCl2"
+      "Acqua distillata a temperatura ambiente per dilavamento",
+      "Sali neutri come MgCl2 o NaNO3 in soluzione tampone",
+      "Acidi forti come HF, HNO3, HCl o loro miscele"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "La frazione residuale richiede acidi forti: HF, HNO3, HCl o loro miscele, capaci di dissolvere la matrice silicatica.",
     "difficulty": "hard",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"

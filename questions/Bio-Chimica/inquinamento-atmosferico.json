@@ -5,11 +5,11 @@
     "question": "Secondo la composizione in volume dell'atmosfera, qual è il gas più abbondante?",
     "suggestion": "Costituisce circa i tre quarti dell'aria.",
     "options": [
-      "L'azoto (N2), circa il 78%",
       "L'ossigeno (O2), circa il 78%",
-      "L'argon, circa il 78%"
+      "L'azoto (N2), circa il 78%",
+      "L'argon (Ar), circa il 78%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "L'atmosfera è composta in volume da circa 78% di azoto, 21% di ossigeno e circa 1% di altri gas (Ar, CO2, Ne).",
     "difficulty": "easy",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -20,9 +20,9 @@
     "question": "Qual è la differenza tra macro-componenti e micro-componenti dell'atmosfera?",
     "suggestion": "La distinzione si basa sulla quantità in cui sono presenti.",
     "options": [
-      "I macro-componenti sono presenti in grandi percentuali, i micro-componenti in piccole o minime quantità",
-      "I macro-componenti sono organici, i micro-componenti inorganici",
-      "I macro-componenti sono gassosi, i micro-componenti sempre condensati"
+      "I macro-componenti sono in grandi percentuali, i micro in quantità minime",
+      "I macro-componenti sono organici, i micro-componenti sono inorganici",
+      "I macro-componenti sono sempre gassosi, i micro-componenti sempre condensati"
     ],
     "correctIndex": 0,
     "explanation": "I macro-componenti (ossigeno, azoto, argon, CO2, ecc.) sono presenti in grandi percentuali; i micro-componenti (benzene, arsenico, piombo, diossine, ecc.) in piccole o minime quantità.",
@@ -35,11 +35,11 @@
     "question": "Qual è la differenza fondamentale tra inquinanti primari e inquinanti secondari?",
     "suggestion": "Considera se la sostanza è emessa direttamente o si forma dopo nell'aria.",
     "options": [
-      "I primari sono immessi direttamente dalle attività antropiche; i secondari si formano in atmosfera da reazioni chimico-fisiche di altri inquinanti",
-      "I primari si formano in atmosfera; i secondari sono emessi direttamente",
-      "I primari sono solo gassosi, i secondari solo solidi"
+      "I primari si formano in atmosfera da reazioni; i secondari sono emessi direttamente dalle attività umane",
+      "I primari sono emessi direttamente dalle attività umane; i secondari si formano in atmosfera da reazioni",
+      "I primari sono solo gassosi e di origine naturale; i secondari solo solidi e di origine antropica"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Gli inquinanti primari (PM10, ossidi di azoto, ammoniaca, ossidi di zolfo, COV) sono immessi direttamente; i secondari si formano a seguito di reazioni chimico-fisiche da altri inquinanti.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -52,7 +52,7 @@
     "options": [
       "Perché si forma da COV e NOx grazie alla radiazione solare",
       "Perché viene emesso direttamente dai veicoli solo in estate",
-      "Perché si forma esclusivamente dalla CO2 atmosferica"
+      "Perché si forma dalla CO2 atmosferica per via fotochimica"
     ],
     "correctIndex": 0,
     "explanation": "L'ozono si forma attraverso reazioni complesse dai composti organici volatili e dagli NOx grazie alla radiazione solare, ed è quindi un inquinante estivo.",
@@ -65,11 +65,11 @@
     "question": "Il PM10 può essere considerato sia inquinante primario sia secondario. Perché?",
     "suggestion": "Una parte è emessa direttamente, un'altra si genera dopo.",
     "options": [
-      "Perché in parte si forma in atmosfera da ossidi di azoto, ossidi di zolfo, COV e ammoniaca",
-      "Perché si forma solo dalla radiazione solare come l'ozono",
-      "Perché deriva esclusivamente dalla condensazione del vapore acqueo"
+      "Perché in parte si forma da reazioni fotochimiche dirette dell'ozono troposferico",
+      "Perché in parte si forma in atmosfera da ossidi di azoto e zolfo, COV e ammoniaca",
+      "Perché in parte deriva dalla condensazione del vapore acqueo sui nuclei salini"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il PM10 in parte si forma in atmosfera attraverso meccanismi chimico-fisici a partire da ossidi di azoto, ossidi di zolfo, COV e ammoniaca, oltre a essere emesso direttamente.",
     "difficulty": "hard",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -80,11 +80,11 @@
     "question": "Secondo il D.Lgs. 152/2006, art. 268, cosa si intende per inquinamento atmosferico?",
     "suggestion": "È una modificazione dell'aria dovuta all'introduzione di sostanze dannose.",
     "options": [
-      "Ogni modificazione dell'aria dovuta a sostanze tali da ledere la salute umana o la qualità dell'ambiente",
-      "Solo l'emissione di gas serra da impianti industriali",
-      "Esclusivamente la presenza di polveri sottili nei luoghi confinati"
+      "L'emissione di gas serra da impianti industriali che superano i limiti autorizzati",
+      "La presenza di polveri sottili negli ambienti confinati come gli edifici",
+      "Ogni modificazione dell'aria per sostanze tali da ledere la salute o l'ambiente"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "È ogni modificazione dell'aria dovuta all'introduzione di una o più sostanze in quantità e con caratteristiche tali da ledere o costituire un pericolo per la salute umana o per la qualità dell'ambiente.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -95,9 +95,9 @@
     "question": "Come si distingue l'inquinamento atmosferico esterno da quello interno?",
     "suggestion": "La distinzione riguarda gli ambienti aperti rispetto ai luoghi chiusi.",
     "options": [
-      "L'esterno (outdoor) riguarda gli ambienti aperti, l'interno (indoor) i luoghi confinati come gli edifici",
-      "L'esterno riguarda i gas, l'interno solo le polveri",
-      "L'esterno riguarda gli inquinanti primari, l'interno solo quelli secondari"
+      "L'esterno (outdoor) è all'aperto, l'interno (indoor) nei luoghi confinati",
+      "L'esterno riguarda i gas e i vapori, l'interno solo le polveri e gli aerosol",
+      "L'esterno riguarda gli inquinanti primari, l'interno soltanto quelli secondari"
     ],
     "correctIndex": 0,
     "explanation": "L'inquinamento negli ambienti aperti è detto esterno (outdoor), mentre quello nei luoghi confinati come gli edifici è detto interno (indoor).",
@@ -110,11 +110,11 @@
     "question": "Da quali fenomeni è determinata la dispersione dei contaminanti in atmosfera?",
     "suggestion": "Riguardano il movimento e il rimescolamento delle masse d'aria.",
     "options": [
-      "Dalla diffusione turbolenta e dal trasporto delle masse d'aria",
-      "Dalla sola sedimentazione gravitazionale delle polveri",
-      "Esclusivamente dalle reazioni acido-base nell'acqua piovana"
+      "Dalla sedimentazione gravitazionale e dalla deposizione umida delle polveri",
+      "Dalle reazioni acido-base che avvengono nell'acqua piovana e nelle nubi",
+      "Dalla diffusione turbolenta e dal trasporto delle masse d'aria"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La dispersione dei contaminanti in atmosfera è determinata dai fenomeni di diffusione turbolenta e di trasporto delle masse d'aria; la rimozione dai processi di deposizione.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -125,11 +125,11 @@
     "question": "Tra le alterazioni dell'aria su scala planetaria, quale delle seguenti rientra in questa categoria?",
     "suggestion": "Distingui i fenomeni globali da quelli urbani localizzati.",
     "options": [
-      "Il buco dell'ozono",
-      "L'inquinamento nelle città",
-      "L'inquinamento nei grandi centri urbani e industriali"
+      "L'inquinamento da traffico nelle città",
+      "Il buco dello strato di ozono",
+      "Lo smog nei centri industriali"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Le alterazioni su scala planetaria comprendono effetto serra, buco dell'ozono e deposizioni acide; l'inquinamento nelle città è invece un'alterazione a livello locale.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -140,9 +140,9 @@
     "question": "Come vengono classificati i componenti dell'atmosfera in base allo stato d'aggregazione?",
     "suggestion": "Una categoria comprende gas e vapori, l'altra liquidi e solidi.",
     "options": [
-      "In gassosi (gas permanenti e vapori) e condensati (liquidi e solidi)",
-      "In inorganici e organici",
-      "In primari e secondari"
+      "In gassosi (gas e vapori) e condensati (liquidi e solidi)",
+      "In organici (specie carboniose) e inorganici (sali e ossidi)",
+      "In macro-componenti (abbondanti) e micro-componenti (minimi)"
     ],
     "correctIndex": 0,
     "explanation": "Per lo stato d'aggregazione i componenti si distinguono in gassosi (gas permanenti e vapori) e condensati (liquidi e solidi); la distinzione in inorganici/organici è invece per natura chimica.",
@@ -198,8 +198,13 @@
     "topic": "bio-chimica",
     "question": "In base alla natura chimica, come si classificano i componenti dell'atmosfera?",
     "suggestion": "Una categoria è carboniosa, l'altra comprende sali, acidi, basi e ossidi.",
-    "options": ["In inorganici (elementi, sali, acidi e basi, ossidi) e organici (specie carboniose)", "In gassosi e condensati", "In primari e secondari", "In macro e micro componenti"],
-    "correctIndex": 0,
+    "options": [
+      "In gassosi (gas e vapori) e in condensati (liquidi e solidi)",
+      "In primari (emessi) e in secondari (formati per reazione)",
+      "In macro-componenti (abbondanti) e in micro-componenti (minimi)",
+      "In inorganici (sali, acidi, ossidi) e in organici (carboniosi)"
+    ],
+    "correctIndex": 3,
     "explanation": "Per la natura chimica i componenti si dividono in inorganici (elementi, sali, acidi e basi, ossidi) e organici (specie carboniose); la distinzione gassosi/condensati riguarda invece lo stato d'aggregazione.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -209,8 +214,8 @@
     "topic": "bio-chimica",
     "question": "Quale delle seguenti sostanze è citata come esempio di micro-componente dell'atmosfera?",
     "suggestion": "I micro-componenti sono presenti in quantità minime.",
-    "options": ["Il benzene", "L'azoto", "L'ossigeno", "L'argon"],
-    "correctIndex": 0,
+    "options": ["L'argon", "L'ossigeno", "Il benzene", "L'azoto"],
+    "correctIndex": 2,
     "explanation": "Tra i micro-componenti, presenti in piccole o minime quantità, figurano benzene, arsenico, piombo, idrocarburi, diossine e radicali; azoto, ossigeno e argon sono invece macro-componenti.",
     "difficulty": "easy",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -220,8 +225,8 @@
     "topic": "bio-chimica",
     "question": "Quale tra questi è citato come inquinante primario immesso direttamente dalle attività antropiche?",
     "suggestion": "Si escludano le sostanze che si formano per reazione in atmosfera.",
-    "options": ["L'ammoniaca", "L'ozono troposferico", "L'acido pernonanoico", "Il perossido d'idrogeno"],
-    "correctIndex": 0,
+    "options": ["L'ozono troposferico", "Il perossido d'idrogeno", "L'ammoniaca", "L'acido pernonanoico"],
+    "correctIndex": 2,
     "explanation": "Tra gli inquinanti primari il testo cita PM10, ossidi di azoto, ammoniaca, ossidi di zolfo e composti organici volatili, immessi direttamente; l'ozono troposferico è invece un inquinante secondario.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -231,8 +236,8 @@
     "topic": "bio-chimica",
     "question": "Da quali processi è determinata la rimozione degli inquinanti dall'atmosfera?",
     "suggestion": "Si distingue dalla dispersione (diffusione e trasporto).",
-    "options": ["Dai vari processi di deposizione", "Dalla sola radiazione solare", "Dalla diffusione turbolenta", "Dal trasporto delle masse d'aria"],
-    "correctIndex": 0,
+    "options": ["Dalla diffusione turbolenta dell'aria", "Dai vari processi di deposizione", "Dal trasporto delle masse d'aria", "Dalla sola radiazione solare diretta"],
+    "correctIndex": 1,
     "explanation": "La rimozione degli inquinanti è determinata dai vari processi di deposizione, mentre la dispersione dipende da diffusione turbolenta e trasporto delle masse d'aria.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -242,7 +247,7 @@
     "topic": "bio-chimica",
     "question": "Quale impatto rientra tra quelli dell'uomo sull'ambiente biologico?",
     "suggestion": "Si distingue dall'ambiente fisico e da quello chimico.",
-    "options": ["Gli allevamenti e le coltivazioni intensive", "Le emissioni industriali e veicolari", "Le dighe e i canali", "I rifiuti urbani e agricoli"],
+    "options": ["Gli allevamenti e le coltivazioni intensive", "Le emissioni industriali, veicolari e diffuse", "Le dighe, i canali e le opere idrauliche", "I rifiuti urbani, agricoli e industriali"],
     "correctIndex": 0,
     "explanation": "Sull'ambiente biologico l'uomo impatta con allevamenti e coltivazioni intensive, tossicità acuta e cronica, mutazioni e selezione delle specie; emissioni e rifiuti riguardano l'ambiente chimico, dighe e canali quello fisico.",
     "difficulty": "medium",
@@ -253,8 +258,8 @@
     "topic": "bio-chimica",
     "question": "Perché per studiare il comportamento degli inquinanti primari non basta conoscere il profilo delle emissioni?",
     "suggestion": "Dispersione e rimozione dipendono da fattori meteorologici.",
-    "options": ["Perché dispersione e rimozione dipendono dai processi meteorologici delle masse d'aria nella troposfera", "Perché gli inquinanti primari si formano solo di notte", "Perché le emissioni non influenzano la qualità dell'aria", "Perché conta solo la radiazione solare"],
-    "correctIndex": 0,
+    "options": ["Perché gli inquinanti primari si formano in atmosfera solo durante le ore notturne", "Perché le emissioni misurate alla fonte non incidono sulla qualità dell'aria respirata", "Perché dispersione e rimozione dipendono dai processi meteorologici nella troposfera", "Perché conta solo l'intensità della radiazione solare che li trasforma"],
+    "correctIndex": 2,
     "explanation": "Dispersione e rimozione sono strettamente dipendenti dai processi meteorologici che regolano il comportamento delle masse d'aria nella troposfera; serve quindi conoscere sia il profilo delle emissioni sia i processi meteorologici dell'area.",
     "difficulty": "hard",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -264,8 +269,8 @@
     "topic": "bio-chimica",
     "question": "Quali alterazioni dell'aria rientrano nelle alterazioni su scala planetaria?",
     "suggestion": "Sono fenomeni globali, non urbani localizzati.",
-    "options": ["Effetto serra, buco dell'ozono e deposizioni acide", "Inquinamento nelle città e nei centri urbani", "Solo l'inquinamento indoor degli edifici", "Solo le emissioni da traffico veicolare"],
-    "correctIndex": 0,
+    "options": ["L'inquinamento nelle città e nei centri urbani e industriali", "L'inquinamento indoor degli edifici e dei luoghi confinati", "Effetto serra, buco dell'ozono e deposizioni acide", "Le emissioni da traffico veicolare e da riscaldamento"],
+    "correctIndex": 2,
     "explanation": "Le alterazioni su scala planetaria comprendono effetto serra, buco dell'ozono e deposizioni acide; l'inquinamento nelle città e nei grandi centri urbani e industriali è invece un'alterazione a livello locale.",
     "difficulty": "medium",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
@@ -319,8 +324,8 @@
     "topic": "bio-chimica",
     "question": "Perché il PM10 può essere classificato come inquinante sia primario sia secondario?",
     "suggestion": "Una parte è emessa direttamente, un'altra si genera in atmosfera.",
-    "options": ["Perché oltre a essere emesso direttamente, in parte si forma in atmosfera da ossidi di azoto e zolfo, COV e ammoniaca", "Perché si forma solo dalla radiazione solare", "Perché deriva unicamente dal vapore acqueo", "Perché è sempre e solo emesso dai veicoli"],
-    "correctIndex": 0,
+    "options": ["Perché oltre alla quota emessa direttamente, in parte si forma per reazione dal solo vapore acqueo", "Perché oltre a essere emesso, in parte si forma da ossidi di azoto e zolfo, COV e ammoniaca", "Perché oltre alla quota emessa, in parte si forma per via fotochimica dalla sola radiazione solare", "Perché oltre a formarsi in atmosfera, è anche sempre e solo emesso dai veicoli stradali a motore"],
+    "correctIndex": 1,
     "explanation": "Il PM10 è in parte emesso direttamente (primario) e in parte si forma in atmosfera attraverso meccanismi chimico-fisici da ossidi di azoto, ossidi di zolfo, composti organici volatili e ammoniaca (secondario).",
     "difficulty": "hard",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"

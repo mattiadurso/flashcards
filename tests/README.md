@@ -21,9 +21,15 @@ no `npm`, no dependencies, no build step — to match the project's constraints.
 - **Global** — every `id` is unique across all banks *and* the easter eggs
   (the website keys "seen"/"flagged" state on `id`, so a collision is a bug).
 
-It also prints **non-blocking style warnings** (e.g. options that use
-"tutte/nessuna delle precedenti", which `QUESTION_FORMAT.md` discourages). These
-do **not** fail the build — they're authoring hints.
+It also prints **non-blocking style warnings** — authoring hints that don't fail
+the build:
+
+- options that use "tutte/nessuna delle precedenti", which `QUESTION_FORMAT.md`
+  discourages;
+- the **length-parity tell** — files where the correct answer is the *single
+  longest* option in more than half the questions (see `QUESTION_FORMAT.md` §3,
+  *Answer-length parity & borderline distractors*). A high share means questions
+  can be solved by picking the longest option without reading them.
 
 `test_app_navigation.py` and `test_i18n.py` cover **app behaviour** rather than
 data. Since the harness has no JavaScript runtime, they are *static-source*

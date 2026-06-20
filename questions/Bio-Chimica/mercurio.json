@@ -5,11 +5,11 @@
     "question": "Perché il mercurio fu chiamato così, dal nome del dio romano Mercurio?",
     "suggestion": "Pensa a una caratteristica fisica del metallo liquido.",
     "options": [
-      "Per il suo colore rosso intenso",
-      "Per la sua scorrevolezza e mobilità",
-      "Per la sua estrema durezza"
+      "Per la sua scorrevolezza e mobilità da liquido",
+      "Per il suo colore rosso intenso da minerale",
+      "Per la sua estrema durezza una volta solidificato"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il nome deriva dal dio Mercurio per la scorrevolezza e mobilità; il simbolo Hg viene dal latino Hydrargyrum (argento liquido).",
     "difficulty": "easy",
     "source": "Mercurio.pdf"
@@ -20,9 +20,9 @@
     "question": "Quale stato di ossidazione del mercurio è il più comune nell'ambiente?",
     "suggestion": "È lo ione mercurico.",
     "options": [
-      "Hg0 (mercurio elementare)",
-      "Hg+ (ione mercuroso)",
-      "Hg2+ (ione mercurico)"
+      "Hg0, il mercurio elementare allo stato neutro",
+      "Hg+, lo ione mercuroso a singola carica",
+      "Hg2+, lo ione mercurico a doppia carica"
     ],
     "correctIndex": 2,
     "explanation": "Il mercurio ha tre stati di ossidazione (Hg0, Hg+, Hg2+); lo ione mercurico Hg2+ è il più comune nell'ambiente.",
@@ -35,11 +35,11 @@
     "question": "Cosa accadde nel disastro di Minamata (1956) al mercurio inorganico sversato nella baia?",
     "suggestion": "Una trasformazione microbica lo rese molto più tossico.",
     "options": [
-      "Precipitò inerte sul fondo senza effetti",
       "Si trasformò in metilmercurio per biometilazione microbica, accumulandosi nei pesci",
-      "Evaporò completamente in atmosfera"
+      "Precipitò come solfuro inerte sul fondo, rimanendo confinato nei sedimenti",
+      "Evaporò in atmosfera come Hg0, disperdendosi per lunghe distanze"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "A Minamata l'Hg inorganico si trasformò in metilmercurio per biometilazione microbica, accumulandosi nei pesci fino a 100 mg/kg e intossicando la popolazione.",
     "difficulty": "medium",
     "source": "Mercurio.pdf"
@@ -50,11 +50,11 @@
     "question": "In che forma si trova prevalentemente il mercurio in atmosfera?",
     "suggestion": "È la forma elementare, trasportabile per lunghe distanze.",
     "options": [
-      "Come Hg0 (mercurio elementare allo stato di vapore)",
-      "Come metilmercurio",
-      "Come solfuro di mercurio (HgS)"
+      "Come metilmercurio gassoso, prodotto da batteri aerei",
+      "Come solfuro di mercurio HgS, legato al particolato",
+      "Come Hg0, il mercurio elementare allo stato di vapore"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "In atmosfera il 95% è Hg0 (vapore elementare), trasportato per lunghe distanze; solo il 5% è legato al particolato, con deposizione in loco.",
     "difficulty": "medium",
     "source": "Mercurio.pdf"
@@ -65,11 +65,11 @@
     "question": "Quali microrganismi sono responsabili della metilazione del mercurio inorganico nei sedimenti anaerobici?",
     "suggestion": "Operano in ambiente anossico e ricco di sostanza organica.",
     "options": [
-      "Batteri fotosintetici aerobi",
-      "Batteri solfato-riduttori (SRB)",
-      "Funghi micorrizici"
+      "I batteri solfato-riduttori (SRB), attivi in anossia",
+      "I batteri nitrificanti aerobi, attivi in ossigeno",
+      "I funghi micorrizici, simbionti delle radici"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Nei sedimenti anossici e ricchi di sostanza organica i batteri solfato-riduttori (SRB) convertono l'Hg inorganico in metilmercurio (MeHg).",
     "difficulty": "hard",
     "source": "Mercurio.pdf"
@@ -80,11 +80,11 @@
     "question": "Perché il mercurio liquido ingerito è considerato poco tossico, mentre il vapore di mercurio è altamente tossico?",
     "suggestion": "Confronta l'assorbimento nel tratto gastro-intestinale con quello polmonare.",
     "options": [
-      "Il liquido non viene assorbito nel tratto gastro-intestinale, mentre il vapore dai polmoni passa al sangue e al cervello",
-      "Il liquido è più volatile del vapore",
-      "Il vapore viene eliminato subito con le feci"
+      "Il liquido è più volatile del vapore e viene espirato prima di agire",
+      "Il vapore viene legato dal muco bronchiale ed eliminato con l'espettorato",
+      "Il liquido non è assorbito nel tratto gastro-intestinale, mentre il vapore passa dai polmoni al sangue"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il mercurio liquido non viene assorbito a livello gastro-intestinale ed è eliminato facilmente; il vapore invece passa dai polmoni al sangue e al cervello, con danni al SNC.",
     "difficulty": "medium",
     "source": "Mercurio.pdf"
@@ -95,9 +95,9 @@
     "question": "Qual è l'organo bersaglio principale del metilmercurio nell'uomo?",
     "suggestion": "I sintomi includono parestesie, atassia e disartria.",
     "options": [
-      "I reni",
-      "Il sistema nervoso centrale",
-      "Il fegato"
+      "I reni, con danno tubulare e proteinuria",
+      "Il sistema nervoso centrale, con atassia e parestesie",
+      "Il fegato, con steatosi e necrosi epatica"
     ],
     "correctIndex": 1,
     "explanation": "Il metilmercurio ha come organo bersaglio il sistema nervoso centrale, con parestesie, offuscamento della vista, sordità, disartria, atassia, fino a coma e morte.",
@@ -110,11 +110,11 @@
     "question": "In quale parte della pianta si accumula prevalentemente il mercurio assorbito dal suolo, secondo gli studi su frumento, orzo e mais?",
     "suggestion": "La traslocazione verso la parte epigea è fortemente limitata.",
     "options": [
-      "Nei semi e nei frutti",
-      "Nelle radici",
-      "Nel fusto"
+      "Nelle radici, dove la traslocazione verso l'alto è limitata",
+      "Nei semi e nei frutti, le parti edibili della pianta",
+      "Nel fusto, da cui si distribuisce a foglie e granella"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "L'accumulo prevalente di Hg avviene nelle radici, mentre la traslocazione alla parte epigea è limitata; nei semi e frutti la concentrazione è estremamente bassa.",
     "difficulty": "medium",
     "source": "Mercurio.pdf"
@@ -180,11 +180,11 @@
     "question": "A quale gruppo della tavola periodica appartiene il mercurio?",
     "suggestion": "Il suo comportamento chimico è quello del blocco d.",
     "options": [
-      "Ai metalli alcalini",
-      "Ai metalli di transizione (blocco d)",
-      "Ai gas nobili"
+      "Ai metalli di transizione del blocco d",
+      "Ai metalli alcalini del primo gruppo",
+      "Ai gas nobili dell'ultimo gruppo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il mercurio è un metallo di transizione (blocco d), con numero atomico 80; a temperatura ambiente è liquido.",
     "difficulty": "easy",
     "source": "Mercurio.pdf"
@@ -195,9 +195,9 @@
     "question": "Quale caratteristica fisica rende il mercurio unico tra i metalli a temperatura ambiente?",
     "suggestion": "Il suo punto di fusione è molto basso (-38,9 °C).",
     "options": [
-      "È gassoso",
-      "È liquido",
-      "È un solido durissimo"
+      "È gassoso a 25 °C, come gli alogeni leggeri",
+      "È liquido a 25 °C, caso unico tra i metalli",
+      "È un solido durissimo e fragile a 25 °C"
     ],
     "correctIndex": 1,
     "explanation": "Con punto di fusione -38,9 °C, a temperatura ambiente l'Hg è liquido; allo stato solido è duttile e tenero, tagliabile con un coltello.",
@@ -210,11 +210,11 @@
     "question": "Quale catalizzatore usava la Chisso Corporation di Minamata, all'origine della contaminazione da mercurio?",
     "suggestion": "L'Hg era impiegato nella produzione di un'aldeide.",
     "options": [
-      "Mercurio nella produzione di acetaldeide",
-      "Piombo nella produzione di benzina",
-      "Cadmio nella produzione di batterie"
+      "Cadmio nella produzione di accumulatori elettrici",
+      "Piombo nella produzione di benzina antidetonante",
+      "Mercurio nella produzione di acetaldeide"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A Minamata la Chisso Corporation usava l'Hg come catalizzatore nella produzione di acetaldeide; gli scarti ricchi di mercurio contaminarono la baia.",
     "difficulty": "medium",
     "source": "Mercurio.pdf"
@@ -225,9 +225,9 @@
     "question": "In ambiente acido, con quale elemento tende a legarsi prevalentemente il mercurio?",
     "suggestion": "Dipende dal pH; in ambiente neutro/basico si lega agli idrossidi.",
     "options": [
-      "Con il cloro",
-      "Con gli idrossili (OH)",
-      "Con il carbonio metilico"
+      "Con il cloro, formando cloruri come HgCl2",
+      "Con gli ioni idrossile OH, formando idrossidi",
+      "Con il carbonio metilico, formando metilmercurio"
     ],
     "correctIndex": 0,
     "explanation": "La forma chimica dipende dal pH: in ambienti acidi l'Hg si lega con il cloro, in ambiente neutro/basico con gruppi idrossidi.",
@@ -240,9 +240,9 @@
     "question": "Come varia generalmente la concentrazione di mercurio nel profilo verticale di un suolo?",
     "suggestion": "Pensa a dove arrivano le deposizioni atmosferiche.",
     "options": [
-      "Aumenta dalla superficie alla profondità",
-      "Diminuisce dalla superficie alla profondità",
-      "Resta costante a tutte le profondità"
+      "Aumenta dalla superficie verso la profondità",
+      "Diminuisce dalla superficie verso la profondità",
+      "Resta pressoché costante a ogni profondità"
     ],
     "correctIndex": 1,
     "explanation": "Nel profilo verticale del suolo si osserva generalmente una diminuzione della concentrazione di Hg dalla superficie alla profondità.",
@@ -255,11 +255,11 @@
     "question": "Nelle reazioni atmosferiche del ciclo del mercurio, cosa avviene per foto-riduzione?",
     "suggestion": "È il passaggio inverso della foto-ossidazione.",
     "options": [
-      "Hg0 viene trasformato in Hg2+",
-      "Hg2+ viene trasformato in Hg0",
-      "Hg2+ viene metilato a MeHg"
+      "L'Hg0 elementare viene ossidato a ione Hg2+",
+      "Lo ione Hg2+ viene metilato a metilmercurio",
+      "Lo ione Hg2+ viene ridotto a Hg0 elementare"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "In atmosfera, a seguito della radiazione UV, la foto-ossidazione porta Hg0→Hg2+ e la foto-riduzione Hg2+→Hg0.",
     "difficulty": "hard",
     "source": "Mercurio.pdf"
@@ -270,11 +270,11 @@
     "question": "Nelle prove in vaso, quali ammendanti hanno ridotto il bioaccumulo di Hg nei tessuti vegetali?",
     "suggestion": "Due dei tre trattamenti riducono, uno invece aumenta.",
     "options": [
-      "I concimi azotati",
-      "Il biochar e il gesso",
-      "Tutti aumentano l'accumulo"
+      "Il biochar e il gesso applicati al substrato",
+      "I concimi azotati distribuiti al substrato",
+      "Il compost verde aggiunto al substrato"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Le prove in vaso mostrano che biochar e gesso riducono le concentrazioni di Hg nei tessuti vegetali, mentre i concimi azotati le aumentano.",
     "difficulty": "medium",
     "source": "Mercurio.pdf"
@@ -285,11 +285,11 @@
     "question": "Nelle piante coltivate in suoli anaerobici sommersi come il riso, quale forma di mercurio viene facilmente traslocata nelle parti epigee (es. nel chicco)?",
     "suggestion": "È la forma organica prodotta dai batteri anaerobi.",
     "options": [
-      "Il mercurio elementare Hg0",
-      "Il metilmercurio (CH3Hg+)",
-      "Il solfuro di mercurio HgS"
+      "Il mercurio elementare Hg0, volatile e poco assorbito",
+      "Il solfuro di mercurio HgS, insolubile e immobile",
+      "Il metilmercurio CH3Hg+, prodotto dai batteri anaerobi"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Nei suoli sommersi (riso) il metilmercurio, prodotto dai batteri anaerobi, viene facilmente traslocato nelle parti epigee, come il chicco di riso.",
     "difficulty": "hard",
     "source": "Mercurio.pdf"

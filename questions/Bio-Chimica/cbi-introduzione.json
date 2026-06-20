@@ -5,9 +5,9 @@
     "question": "Qual è l'obiettivo principale del corso di Chimica e Biochimica degli Inquinanti?",
     "suggestion": "Riguarda i processi che subiscono gli inquinanti nell'ambiente.",
     "options": [
-      "Acquisire le conoscenze di base sui processi di azione, trasformazione, attenuazione naturale e trasporto degli inquinanti in acque e suolo",
-      "Progettare impianti industriali di depurazione su scala commerciale",
-      "Studiare esclusivamente la tassonomia degli organismi acquatici"
+      "Conoscere i processi di azione, trasformazione, attenuazione e trasporto degli inquinanti in acque e suolo",
+      "Conoscere le tecniche di sintesi industriale dei principali inquinanti organici e inorganici",
+      "Conoscere la tassonomia e la fisiologia degli organismi acquatici esposti agli inquinanti"
     ],
     "correctIndex": 0,
     "explanation": "Il corso mira a fornire le conoscenze di base per comprendere i processi di azione, trasformazione, attenuazione naturale e trasporto degli inquinanti più diffusi nelle acque superficiali, nel suolo e nelle acque di falda.",
@@ -31,11 +31,11 @@
     "question": "Quale tra questi argomenti è incluso nei contenuti del corso?",
     "suggestion": "Riguarda la diffusione degli inquinanti attraverso il suolo.",
     "options": [
-      "La zona vadosa e la diffusione degli inquinanti attraverso il suolo",
-      "La progettazione di reattori nucleari",
-      "La genetica delle popolazioni vegetali"
+      "La separazione isotopica dei contaminanti radioattivi nelle acque di falda",
+      "La modellazione del trasporto degli inquinanti nell'alta atmosfera",
+      "La diffusione degli inquinanti nella zona vadosa attraverso il suolo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Tra i contenuti del corso figura la diffusione degli inquinanti attraverso il suolo, in particolare la zona vadosa, insieme ad adsorbimento, piogge acide, eutrofizzazione, bioaccumulo, pesticidi, PCB e diossine, metalli tossici.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"
@@ -47,10 +47,10 @@
     "suggestion": "Una sigla e un tipo di composto tristemente noti.",
     "options": [
       "CFC e freon",
-      "PCB e diossine",
-      "Cloroformio e tetracloruro di carbonio"
+      "Cloroformio e tetracloruro di carbonio",
+      "PCB e diossine"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Tra i contenuti del corso, i composti clorurati trattati sono i PCB (policlorobifenili) e le diossine.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"
@@ -72,11 +72,11 @@
     "question": "Come si svolge l'esame del corso?",
     "suggestion": "Combina due tipologie di domande in forma scritta.",
     "options": [
-      "Scritto con un misto di domande a risposta multipla e domande aperte",
-      "Solo orale davanti a una commissione",
-      "Esclusivamente con una prova pratica di laboratorio"
+      "Orale, davanti a una commissione di docenti del corso",
+      "Scritto, con un misto di domande a risposta multipla e domande aperte",
+      "Pratico, con una prova di laboratorio sulle analisi degli inquinanti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "L'esame è scritto e prevede un misto di domande a risposta multipla e domande aperte.",
     "difficulty": "easy",
     "source": "CBI_Introduzione.pptx"
@@ -87,11 +87,11 @@
     "question": "Oltre alle conoscenze di base, quale capacità tra le seguenti rientra negli obiettivi del corso?",
     "suggestion": "Riguarda la stima del danno legato a una contaminazione.",
     "options": [
-      "Saper effettuare una valutazione quantitativa dell'effettivo rischio ambientale connesso alla contaminazione",
-      "Saper progettare reti di distribuzione dell'acqua potabile urbana",
-      "Saper sintetizzare in laboratorio nuovi pesticidi"
+      "Effettuare la bonifica diretta dei siti inquinati con tecniche di rimozione del contaminante",
+      "Effettuare il monitoraggio in continuo degli scarichi industriali con sensori dedicati",
+      "Effettuare una valutazione quantitativa dell'effettivo rischio ambientale da contaminazione"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Tra gli obiettivi del corso vi è saper effettuare una valutazione quantitativa dell'effettivo rischio ambientale connesso alla contaminazione.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"
@@ -102,9 +102,9 @@
     "question": "Quale capacità relativa alla letteratura scientifica è prevista tra gli obiettivi del corso?",
     "suggestion": "Riguarda il modo di raccogliere e usare le informazioni.",
     "options": [
-      "Saper effettuare una ricerca mirata e raccogliere criticamente le informazioni dalla letteratura",
-      "Saper tradurre automaticamente articoli senza valutarli",
-      "Saper memorizzare integralmente i libri di testo"
+      "Effettuare una ricerca mirata e raccogliere criticamente le informazioni dalla letteratura",
+      "Reperire e riassumere fedelmente gli articoli senza valutarne la qualità metodologica",
+      "Pubblicare in autonomia i risultati su riviste scientifiche internazionali con revisione"
     ],
     "correctIndex": 0,
     "explanation": "Il corso mira a far saper effettuare una ricerca mirata sugli argomenti dell'inquinamento e raccogliere criticamente le informazioni dalla letteratura, con capacità di interpretazione critica.",
@@ -117,11 +117,11 @@
     "question": "Quale tema legato alla qualità delle acque è incluso nei contenuti del corso?",
     "suggestion": "Riguarda l'arricchimento di nutrienti nelle acque.",
     "options": [
-      "L'eutrofizzazione",
-      "La desalinizzazione industriale",
-      "La potabilizzazione domestica"
+      "La desalinizzazione industriale dell'acqua marina",
+      "L'eutrofizzazione dei corpi idrici superficiali",
+      "La potabilizzazione domestica dell'acqua di rete"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Tra i contenuti figura la valutazione della qualità delle acque e l'eutrofizzazione.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"
@@ -132,11 +132,11 @@
     "question": "A quale corso di laurea è rivolto l'insegnamento di Chimica e Biochimica degli Inquinanti?",
     "suggestion": "La sigla è SAN.",
     "options": [
+      "Scienze e Tecnologie Alimentari (STAL)",
       "Scienze per l'Ambiente e la Natura (SAN)",
-      "Scienze e Tecnologie Alimentari",
-      "Medicina Veterinaria"
+      "Scienze Biologiche Ambientali (SBA)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "L'insegnamento (6 CFU) è rivolto al corso di laurea in Scienze per l'Ambiente e la Natura (SAN).",
     "difficulty": "easy",
     "source": "CBI_Introduzione.pptx"
@@ -148,8 +148,8 @@
     "suggestion": "Sono contaminanti di recente attenzione.",
     "options": [
       "I contaminanti emergenti",
-      "I gas nobili",
-      "I sali da cucina"
+      "I contaminanti radioattivi",
+      "I contaminanti microbiologici"
     ],
     "correctIndex": 0,
     "explanation": "Tra i contenuti del corso figurano i contaminanti emergenti e le sfide del futuro.",
@@ -162,11 +162,11 @@
     "question": "Quale comportamento dei contaminanti nel suolo è esplicitamente trattato per insetticidi ed erbicidi?",
     "suggestion": "Riguarda quanto a lungo restano attivi nel suolo.",
     "options": [
+      "La loro sintesi industriale e formulazione su larga scala",
       "Il loro comportamento e la loro persistenza nel suolo",
-      "La loro sintesi industriale su larga scala",
-      "Il loro impiego come fertilizzanti"
+      "La loro azione selettiva sulle specie vegetali infestanti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Tra i contenuti il corso tratta il comportamento e la persistenza di insetticidi ed erbicidi nel suolo.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"
@@ -179,7 +179,7 @@
     "options": [
       "L'attenuazione naturale",
       "La filtrazione meccanica",
-      "L'incenerimento controllato"
+      "L'ossidazione catalitica"
     ],
     "correctIndex": 0,
     "explanation": "Tra i contenuti figurano i fenomeni di attenuazione naturale, oltre all'azione, trasformazione e trasporto degli inquinanti.",
@@ -225,11 +225,11 @@
     "question": "Come sono organizzate le attività didattiche del corso?",
     "suggestion": "Due tipologie integrate tra loro.",
     "options": [
+      "Tramite «lezioni» frontali ed «esercitazioni» numeriche integrate",
       "Tramite «lezioni» e «seminari» integrati tra loro",
-      "Esclusivamente con esercitazioni di laboratorio",
-      "Solo tramite tirocinio esterno"
+      "Tramite «laboratori» e «tirocini» esterni integrati"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il corso è organizzato con «lezioni» e «seminari» integrati tra loro, con docenti ufficiali e docenti dei seminari.",
     "difficulty": "easy",
     "source": "CBI_Introduzione.pptx"
@@ -240,11 +240,11 @@
     "question": "Tra i contaminanti inorganici e i rischi per la salute, quali due elementi sono trattati in modo specifico nel corso?",
     "suggestion": "Un metallo liquido e un semimetallo.",
     "options": [
-      "Il mercurio e l'arsenico",
-      "Il sodio e il potassio",
-      "Il calcio e il magnesio"
+      "Il cadmio e il piombo",
+      "Il cromo e il nichel",
+      "Il mercurio e l'arsenico"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nell'ambito di bioaccumulo, bioconcentrazione e rischi per la salute, il corso tratta in modo specifico il mercurio e l'arsenico.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"

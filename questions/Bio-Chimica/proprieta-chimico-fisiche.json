@@ -5,11 +5,11 @@
     "question": "Qual è la differenza tra legami chimici intramolecolari e intermolecolari?",
     "suggestion": "Una categoria tiene uniti gli atomi, l'altra le molecole.",
     "options": [
-      "Gli intramolecolari (forti) uniscono atomi in una molecola, gli intermolecolari (deboli) uniscono molecole allo stato condensato",
-      "Gli intramolecolari sono deboli, gli intermolecolari sono forti",
-      "Entrambi uniscono solo molecole tra loro"
+      "Gli intramolecolari (deboli) uniscono molecole vicine allo stato condensato, gli intermolecolari (forti) uniscono atomi nella molecola",
+      "Gli intramolecolari uniscono molecole diverse tra loro, gli intermolecolari uniscono gli atomi dello stesso cristallo o molecola",
+      "Gli intramolecolari (forti) uniscono atomi nella molecola, gli intermolecolari (deboli) uniscono molecole allo stato condensato"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "I legami intramolecolari (forti) tengono uniti gli atomi in una molecola o cristallo; quelli intermolecolari (deboli) tengono unite più molecole allo stato condensato.",
     "difficulty": "easy",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -20,9 +20,9 @@
     "question": "Cosa caratterizza un legame covalente tra due atomi?",
     "suggestion": "Riguarda una coppia di elettroni condivisa.",
     "options": [
-      "L'attrazione elettrostatica tra uno ione positivo e uno negativo",
+      "L'attrazione elettrostatica tra uno ione positivo e uno ione negativo presenti nella molecola",
       "La compartecipazione di una coppia di elettroni in un orbitale che abbraccia entrambi gli atomi",
-      "Il trasferimento completo di un elettrone da un atomo all'altro"
+      "Il trasferimento completo di una coppia di elettroni da un atomo all'altro dei due nella molecola"
     ],
     "correctIndex": 1,
     "explanation": "Nel legame covalente due atomi mettono in compartecipazione una coppia di elettroni in un orbitale che abbraccia entrambi gli atomi.",
@@ -35,11 +35,11 @@
     "question": "Perché in una molecola con due atomi diversi legati chimicamente si genera un dipolo elettrico?",
     "suggestion": "Gli atomi non attraggono gli elettroni allo stesso modo.",
     "options": [
-      "Perché i due atomi hanno la stessa elettronegatività",
       "Perché la differente capacità di attrarre gli elettroni separa i baricentri delle cariche positive e negative",
-      "Perché gli atomi scambiano completamente i loro elettroni"
+      "Perché la pari elettronegatività dei due atomi distribuisce gli elettroni in modo perfettamente simmetrico fra loro",
+      "Perché lo scambio completo degli elettroni tra i due atomi trasforma la molecola in una coppia di ioni separati"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Nell'interazione dipolo-dipolo, la differente capacità dei due atomi di attrarre gli elettroni separa i baricentri delle cariche positive e negative, generando un dipolo: la molecola è polare.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -50,11 +50,11 @@
     "question": "Perché il legame a idrogeno è considerato la più forte tra le interazioni tra molecole?",
     "suggestion": "È un tipo particolarmente intenso di interazione dipolo-dipolo.",
     "options": [
-      "Perché è un legame covalente tra due atomi di idrogeno",
-      "Perché è un'interazione dipolo-dipolo molto forte, la più energetica tra le interazioni intermolecolari",
-      "Perché è una forza di dispersione di London amplificata"
+      "Perché è un legame covalente condiviso tra due atomi di idrogeno appartenenti a molecole diverse e vicine",
+      "Perché è una forza di dispersione di London amplificata dalla superficie e dalla massa delle molecole",
+      "Perché è un'interazione dipolo-dipolo molto forte, la più energetica tra le interazioni intermolecolari"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Il legame idrogeno è un'interazione dipolo-dipolo molto forte, la più forte in termini di energia tra le interazioni tra molecole; la sua intensità dipende dall'atomo legato all'idrogeno e dalla coppia di elettroni libera.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -66,8 +66,8 @@
     "suggestion": "Riguardano il movimento continuo degli elettroni attorno al nucleo.",
     "options": [
       "Dipoli istantanei creati dal moto degli elettroni, che inducono dipoli su molecole vicine",
-      "L'attrazione tra ioni di carica opposta",
-      "La compartecipazione di elettroni tra atomi"
+      "Dipoli permanenti dovuti alla differente elettronegatività dei due atomi legati nella molecola",
+      "Cariche elettrostatiche stabili che attraggono fra loro ioni positivi e negativi vicini"
     ],
     "correctIndex": 0,
     "explanation": "Le forze di London (dipolo istantaneo-dipolo indotto) nascono dai piccoli dipoli istantanei creati dal moto continuo degli elettroni, che inducono dipoli su molecole vicine; sono debolissime ma proporzionali alla superficie delle molecole.",
@@ -80,9 +80,9 @@
     "question": "Considerando H2O (μ=1.84 D), NH3 (μ=1.46 D) e CH4 (μ=0 D) di peso molecolare simile, cosa spiega la T di ebollizione dell'acqua (100 °C) molto più alta del metano (-161.5 °C)?",
     "suggestion": "A parità di peso molecolare conta un'altra grandezza.",
     "options": [
-      "Il maggior peso molecolare dell'acqua",
-      "Il maggior momento di dipolo dell'acqua",
-      "L'assenza di legami covalenti nel metano"
+      "Il peso molecolare dell'acqua, nettamente maggiore di quello del metano apolare",
+      "Il momento di dipolo dell'acqua, nettamente maggiore di quello del metano apolare",
+      "Il numero di legami covalenti dell'acqua, nettamente maggiore di quello del metano"
     ],
     "correctIndex": 1,
     "explanation": "A parità di peso molecolare, la T di ebollizione è correlata al momento di dipolo: l'acqua, con μ molto più alto, bolle a temperatura ben superiore al metano apolare.",
@@ -95,11 +95,11 @@
     "question": "Perché i sali inorganici e gli zuccheri si sciolgono solo in solventi molto polari come l'acqua?",
     "suggestion": "Vale la regola \"il simile scioglie il simile\".",
     "options": [
-      "Perché sono composti apolari attratti da solventi apolari",
-      "Perché sono composti polari e i solventi polari sciolgono meglio i composti polari",
-      "Perché la loro solubilità dipende solo dal peso molecolare"
+      "Perché sono composti polari e i solventi polari sciolgono meglio i composti polari come questi",
+      "Perché sono composti apolari e i solventi polari sciolgono meglio i composti apolari come questi",
+      "Perché la loro solubilità dipende dal peso molecolare e non dalla polarità del solvente usato"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Secondo il principio \"il simile scioglie il simile\", i solventi polari sciolgono meglio i composti polari: sali e zuccheri, polari, si sciolgono solo in solventi molto polari come l'acqua.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -110,9 +110,9 @@
     "question": "Secondo la legge di Henry, cosa accade alla solubilità di un gas in acqua all'aumentare della temperatura?",
     "suggestion": "I gas si comportano in modo opposto a liquidi e solidi.",
     "options": [
-      "Aumenta, come per i solidi",
-      "Diminuisce, a differenza di liquidi e solidi",
-      "Resta costante perché dipende solo dalla pressione"
+      "Aumenta, allo stesso modo della solubilità di liquidi e solidi nei liquidi",
+      "Diminuisce, al contrario della solubilità di liquidi e solidi nei liquidi",
+      "Resta costante perché dipende solo dalla pressione parziale e non dalla temperatura"
     ],
     "correctIndex": 1,
     "explanation": "Diversamente da liquidi e solidi, la solubilità dei gas nei liquidi diminuisce all'aumentare della temperatura.",
@@ -125,12 +125,12 @@
     "question": "Nella legge di Henry, cosa implica una costante kH elevata per un gas?",
     "suggestion": "Pensa a quanta pressione serve per scioglierlo.",
     "options": [
-      "Una maggiore solubilità del gas nel liquido",
       "Una minore solubilità: serve più pressione per sciogliere la stessa quantità di gas",
-      "Nessun effetto sulla solubilità"
+      "Una maggiore solubilità: serve meno pressione per sciogliere la stessa quantità di gas",
+      "Una solubilità invariata: la pressione necessaria a sciogliere il gas non cambia con kH"
     ],
     "correctIndex": 1,
-    "explanation": "Maggiore è kH, minore è la solubilità del gas: occorre una pressione maggiore per sciogliere la stessa quantità di gas.",
+    "explanation": "Con la convenzione Cgas = kH·Pgas, maggiore è kH maggiore è la solubilità del gas: a parità di pressione si scioglie più gas, quindi serve meno pressione per sciogliere la stessa quantità.",
     "difficulty": "hard",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
   },
@@ -140,11 +140,11 @@
     "question": "Perché i composti organoclorurati raggiungono nei tessuti dei pesci concentrazioni di ordini di grandezza superiori a quelle dell'acqua?",
     "suggestion": "Conta la loro affinità per i grassi.",
     "options": [
-      "Per la maggiore solubilità di queste sostanze nel tessuto adiposo rispetto all'acqua",
-      "Perché i pesci li producono per metabolismo",
-      "Perché l'acqua ne accelera la degradazione"
+      "Perché i pesci li sintetizzano per via metabolica accumulandoli progressivamente nei tessuti",
+      "Perché in acqua questi composti subiscono una degradazione rapida che ne riduce la concentrazione",
+      "Perché queste sostanze sono molto più solubili nel tessuto adiposo che nell'acqua circostante"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il bioaccumulo è dovuto alla maggiore solubilità di alcune sostanze nel tessuto adiposo rispetto all'acqua, per cui si concentrano nei tessuti dei pesci.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -210,9 +210,9 @@
     "question": "Cosa caratterizza un legame ionico secondo la definizione del corso?",
     "suggestion": "Nasce da cariche di segno opposto.",
     "options": [
-      "La compartecipazione di una coppia di elettroni tra i due atomi",
-      "L'attrazione elettrostatica tra uno ione negativo e uno ione positivo",
-      "Un dipolo istantaneo indotto dal moto degli elettroni"
+      "La compartecipazione di una coppia di elettroni in un unico orbitale comune ai due atomi",
+      "L'attrazione elettrostatica tra uno ione negativo e uno ione positivo di carica opposta",
+      "Un dipolo istantaneo indotto dal moto continuo degli elettroni attorno ai nuclei vicini"
     ],
     "correctIndex": 1,
     "explanation": "Il legame ionico è di natura prettamente elettrostatica e deriva dall'attrazione tra uno ione negativo e uno ione positivo, cioè tra cariche di segno opposto.",
@@ -225,9 +225,9 @@
     "question": "In cosa consiste l'interazione di van der Waals di tipo dipolo-dipolo indotto?",
     "suggestion": "Una molecola polare avvicina una non polare.",
     "options": [
-      "Una molecola polare induce un dipolo in una molecola non polare vicina, generando attrazione finché restano vicine",
-      "Due ioni di carica opposta si attraggono permanentemente",
-      "Due molecole condividono una coppia di elettroni"
+      "Una molecola polare induce un dipolo in una molecola non polare vicina, con attrazione finché restano vicine",
+      "Due ioni di carica opposta si attraggono in modo permanente, con attrazione che dura finché restano vicini",
+      "Due molecole non polari si scambiano e condividono una coppia di elettroni, finché restano vicine l'una all'altra"
     ],
     "correctIndex": 0,
     "explanation": "Nel dipolo-dipolo indotto una molecola polare, avvicinandosi a una non polare, vi induce un dipolo di minore intensità che perdura finché le molecole restano vicine, generando attrazione.",
@@ -240,11 +240,11 @@
     "question": "Confrontando metano, etano, propano e butano (tutti con μ=0), come varia la temperatura di ebollizione?",
     "suggestion": "A momento di dipolo nullo, conta solo un'altra grandezza.",
     "options": [
-      "Aumenta all'aumentare del peso molecolare (da -161 °C del metano a 0 °C del butano)",
-      "Diminuisce all'aumentare del peso molecolare",
-      "Resta costante perché il momento di dipolo è nullo"
+      "Diminuisce all'aumentare del peso molecolare (da 0 °C del metano a -161 °C del butano)",
+      "Resta costante intorno a -100 °C perché il momento di dipolo nullo annulla le differenze",
+      "Aumenta all'aumentare del peso molecolare (da -161 °C del metano a 0 °C del butano)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Per composti apolari (μ=0) la T di ebollizione cresce col peso molecolare: metano -161 °C, etano -88 °C, propano -42 °C, butano 0 °C.",
     "difficulty": "hard",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -255,11 +255,11 @@
     "question": "Perché oli e cere si sciolgono solo in solventi come l'esano?",
     "suggestion": "Sono sostanze fortemente apolari.",
     "options": [
-      "Perché sono composti fortemente apolari e l'esano è un solvente organico estremamente apolare",
-      "Perché sono composti polari attratti da solventi polari",
-      "Perché l'esano ha un'elevata costante dielettrica"
+      "Perché sono composti polari e l'esano è un solvente organico fortemente polare che riesce ad attrarli",
+      "Perché sono composti apolari e l'esano è un solvente organico estremamente apolare che li scioglie",
+      "Perché sono composti apolari e l'esano ha una costante dielettrica molto elevata che li solubilizza"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Composti fortemente apolari come oli e cere si sciolgono solo in solventi organici estremamente apolari, come l'esano: i solventi non polari sciolgono meglio i composti non polari.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -270,11 +270,11 @@
     "question": "Come può essere misurata la polarità di un composto, secondo il testo?",
     "suggestion": "Due grandezze, una dielettrica e una vettoriale.",
     "options": [
-      "Come costante dielettrica o momento di dipolo",
-      "Come peso molecolare o densità",
-      "Come temperatura di fusione o di ebollizione"
+      "Come temperatura di fusione o temperatura di ebollizione del composto",
+      "Come costante dielettrica o momento di dipolo del composto",
+      "Come peso molecolare o densità allo stato condensato del composto"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "La polarità può essere misurata come costante dielettrica o momento di dipolo di un composto, e determina quali sostanze esso sa sciogliere.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -286,8 +286,8 @@
     "suggestion": "Cgas = kH · Pgas.",
     "options": [
       "È direttamente proporzionale alla pressione parziale del gas sulla soluzione",
-      "È inversamente proporzionale alla pressione parziale",
-      "È indipendente dalla pressione parziale"
+      "È inversamente proporzionale alla pressione parziale del gas sulla soluzione",
+      "È del tutto indipendente dalla pressione parziale del gas sulla soluzione"
     ],
     "correctIndex": 0,
     "explanation": "La legge di Henry afferma che, a temperatura costante, la concentrazione di un gas in un liquido è direttamente proporzionale alla pressione parziale del gas sulla soluzione (Cgas = kH·Pgas).",
@@ -300,9 +300,9 @@
     "question": "Da quali fattori dipende la costante di Henry kH?",
     "suggestion": "Tre fattori: la sostanza, il mezzo e una condizione fisica.",
     "options": [
-      "Solo dal volume del recipiente",
-      "Dal tipo di gas, dal solvente e dalla temperatura",
-      "Dalla massa del soluto e dal pH"
+      "Dal volume del recipiente, dalla forma della superficie e dall'agitazione del liquido",
+      "Dal tipo di gas disciolto, dal solvente impiegato e dalla temperatura del sistema",
+      "Dalla massa del soluto, dal pH della soluzione e dalla pressione atmosferica esterna"
     ],
     "correctIndex": 1,
     "explanation": "La costante di Henry dipende dal tipo di gas, dal solvente e dalla temperatura.",
@@ -315,11 +315,11 @@
     "question": "Secondo la definizione di Arrhenius, cosa distingue un acido da una base in soluzione acquosa?",
     "suggestion": "Riguarda quali ioni la sostanza fa aumentare.",
     "options": [
-      "L'acido aumenta la concentrazione di ioni H+, la base quella di ioni OH–",
-      "L'acido aumenta gli ioni OH–, la base gli ioni H+",
-      "Entrambi aumentano la concentrazione di ioni H+"
+      "L'acido aumenta gli ioni OH– (idrossido), la base aumenta gli ioni H+ in soluzione",
+      "Sia l'acido sia la base aumentano la concentrazione di ioni H+ (idrogeno) in soluzione",
+      "L'acido aumenta gli ioni H+ (idrogeno), la base aumenta gli ioni OH– in soluzione"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Secondo Arrhenius un acido produce in soluzione acquosa un aumento della concentrazione di ioni H+, mentre una base produce un aumento degli ioni OH– (idrossido).",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
@@ -330,11 +330,11 @@
     "question": "Perché i POP rappresentano un rischio fino all'uomo?",
     "suggestion": "Sono bioaccumulabili e seguono la catena alimentare.",
     "options": [
-      "Perché sono bioaccumulabili e hanno la capacità di risalire la catena alimentare giungendo fino all'uomo",
-      "Perché sono volatili e si disperdono rapidamente in atmosfera",
-      "Perché si degradano velocemente in prodotti tossici"
+      "Perché sono volatili e si disperdono rapidamente in atmosfera raggiungendo aree lontane",
+      "Perché si degradano velocemente trasformandosi in prodotti più tossici dei composti originari",
+      "Perché sono bioaccumulabili e risalgono la catena alimentare giungendo fino all'uomo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "I POP sono bioaccumulabili negli organismi viventi e hanno la capacità di risalire la catena alimentare, giungendo fino all'uomo.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"

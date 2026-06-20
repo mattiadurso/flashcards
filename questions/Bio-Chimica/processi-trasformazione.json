@@ -5,11 +5,11 @@
     "question": "Qual è la differenza concettuale tra trasformazione e degradazione di una sostanza chimica?",
     "suggestion": "Una modifica la struttura, l'altra spezza la molecola in parti più piccole.",
     "options": [
-      "La trasformazione è un riarrangiamento o addizione/perdita di gruppi chimici, la degradazione è la rottura della molecola in parti più piccole",
-      "La trasformazione spezza sempre la molecola, la degradazione ne cambia solo il colore",
-      "Sono sinonimi che indicano lo stesso processo di combustione"
+      "La trasformazione spezza la molecola in parti più piccole, la degradazione ne riarrangia solo i gruppi chimici",
+      "La trasformazione riarrangia o aggiunge/perde gruppi chimici, la degradazione spezza la molecola in parti più piccole",
+      "La trasformazione cambia solo il colore della molecola, la degradazione ne aumenta la massa molecolare"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "La trasformazione è qualsiasi cambiamento nella struttura chimica (riarrangiamento, addizione o perdita di gruppi), mentre la degradazione è la rottura della molecola originale con frammentazione in sostanze più piccole.",
     "difficulty": "easy",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -20,11 +20,11 @@
     "question": "Perché la combustione del metano (CH₄ + 2O₂ → CO₂ + H₂O) è considerata una reazione esotermica?",
     "suggestion": "Pensa al bilancio energetico del processo.",
     "options": [
-      "Perché avviene con rilascio di energia",
-      "Perché assorbe energia dall'ambiente per procedere",
-      "Perché non scambia energia con l'esterno"
+      "Perché assorbe energia dall'ambiente circostante per poter procedere",
+      "Perché scambia con l'esterno una quantità di energia complessivamente nulla",
+      "Perché libera nell'ambiente energia sotto forma di calore e luce"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La combustione del metano è esotermica, cioè avviene con rilascio di energia; per questo la combustione di sostanze organiche come legno e petrolio è una delle maggiori fonti energetiche.",
     "difficulty": "easy",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -46,11 +46,11 @@
     "question": "Nella reazione di idrolisi R−X + H₂O → R−OH + H−X, qual è il risultato finale sulla molecola originaria?",
     "suggestion": "Un gruppo viene sostituito da un altro contenente ossigeno.",
     "options": [
-      "Lo spostamento del gruppo X con un gruppo ossidrilico, con rottura del legame C−X e formazione di un legame C−O",
-      "L'addizione di un atomo di zolfo al posto dell'ossigeno",
-      "La polimerizzazione della molecola in catene più lunghe"
+      "La sostituzione del gruppo ossidrilico con il gruppo X, con rottura del legame C−O e formazione di un legame C−X",
+      "L'addizione di un atomo di zolfo al posto dell'ossigeno, con formazione di un legame C−S al posto del C−X",
+      "La sostituzione del gruppo X con un gruppo ossidrilico, con rottura del legame C−X e formazione di un legame C−O"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nell'idrolisi R−X reagisce con l'acqua: si rompe il legame C−X e si forma un nuovo legame C−O, con sostituzione del gruppo X da parte di un gruppo ossidrilico.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -61,11 +61,11 @@
     "question": "Quale gruppo di sostanze è generalmente RESISTENTE all'idrolisi?",
     "suggestion": "Pensa alle classi che NON includono carboidrati, proteine o grassi.",
     "options": [
+      "I carboidrati semplici e le proteine globulari",
       "Gli idrocarburi aromatici e gli alcani",
-      "I carboidrati e le proteine",
-      "I grassi"
+      "I grassi e gli esteri degli acidi grassi"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Carboidrati, proteine e grassi sono soggetti a idrolisi; al contrario alcani, policicli, idrocarburi aromatici, alcoli, aldeidi e chetoni sono resistenti all'idrolisi.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -76,11 +76,11 @@
     "question": "Quale tra queste è una conseguenza tipica dell'idrolisi su un composto organico?",
     "suggestion": "Il prodotto diventa più affine all'acqua.",
     "options": [
-      "Aumento della polarità e maggiore solubilità in acqua, con diminuzione del Kow",
-      "Aumento del Kow e maggiore lipofilia",
-      "Diminuzione della solubilità in acqua e maggiore tossicità garantita"
+      "Aumento del Kow e maggiore lipofilia, con minore solubilità del prodotto in acqua",
+      "Diminuzione della polarità e maggiore affinità per i tessuti adiposi dell'organismo",
+      "Aumento della polarità e maggiore solubilità in acqua, con diminuzione del Kow"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "L'idrolisi comporta aumento di polarità, maggiore solubilità in acqua, diminuzione del Kow, biotrasformazioni favorite e un prodotto in genere meno tossico (con alcune eccezioni).",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -102,11 +102,11 @@
     "question": "Nelle reazioni fotochimiche, cosa sono i cromofori?",
     "suggestion": "Sono i gruppi che 'catturano' la radiazione.",
     "options": [
-      "Gruppi chimici specifici che assorbono radiazioni producendo variazioni nei livelli energetici della molecola",
-      "Gruppi che impediscono qualsiasi assorbimento di radiazione",
-      "Atomi metallici che catalizzano la combustione"
+      "Atomi metallici inclusi nella molecola che catalizzano le reazioni di combustione",
+      "Gruppi chimici che assorbono radiazioni producendo variazioni nei livelli energetici della molecola",
+      "Gruppi chimici che schermano la molecola impedendole di assorbire qualsiasi radiazione"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I cromofori sono specifici gruppi chimici (come C=O, C=S, C=C) il cui assorbimento di radiazioni produce variazioni nei livelli energetici della molecola; gruppi come −OH, R−O−R e R−NH₂ sono non cromofori.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -129,8 +129,8 @@
     "suggestion": "Lega una proprietà ottica misurata alla quantità di sostanza.",
     "options": [
       "L'assorbanza alla concentrazione di una specie chimica in soluzione a una data lunghezza d'onda",
-      "La temperatura alla velocità di combustione",
-      "Il pH alla velocità di idrolisi"
+      "La temperatura della soluzione alla velocità di combustione del soluto a una data pressione",
+      "Il pH della soluzione alla velocità di idrolisi del soluto a una data temperatura"
     ],
     "correctIndex": 0,
     "explanation": "La legge di Lambert-Beer correla l'assorbanza A alla concentrazione C a una data lunghezza d'onda: A = εCl, dove ε è il coefficiente di estinzione molare e l il cammino ottico.",
@@ -143,11 +143,11 @@
     "question": "Perché in molti ambienti la cinetica di degradazione può essere approssimata a uno pseudo primo ordine anziché secondo ordine?",
     "suggestion": "Uno dei due reagenti è presente in quantità enorme.",
     "options": [
+      "Perché la concentrazione della sostanza organica resta costante mentre acqua e ossigeno si consumano",
       "Perché la quantità di acqua e/o ossigeno disponibile è così grande da poter essere considerata costante",
-      "Perché la concentrazione della sostanza organica resta sempre costante",
-      "Perché la temperatura azzera la dipendenza dai reagenti"
+      "Perché a temperatura ambiente la velocità diventa indipendente dalla concentrazione di tutti i reagenti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Nella cinetica del secondo ordine la velocità dipende da entrambi i reagenti; ma quando acqua e/o ossigeno sono in grande eccesso si considerano costanti, e la velocità diventa proporzionale alla sola concentrazione della sostanza organica (pseudo primo ordine).",
     "difficulty": "hard",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -158,11 +158,11 @@
     "question": "In una cinetica del primo ordine, cosa rappresenta la pendenza della retta ottenuta riportando in grafico ln(C₀/Ct) contro il tempo?",
     "suggestion": "È legata alla rapidità del processo.",
     "options": [
-      "La costante cinetica k",
-      "Il tempo di semivita t1/2",
-      "La concentrazione iniziale C₀"
+      "Il tempo di semivita t1/2 del processo di degradazione",
+      "La concentrazione iniziale C₀ della sostanza degradata",
+      "La costante cinetica k del processo di degradazione"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Riportando ln(C₀/Ct) contro t si ottiene una retta la cui pendenza è la costante cinetica k.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -174,8 +174,8 @@
     "suggestion": "Dipende solo da k secondo t1/2 = ln2/k.",
     "options": [
       "Perché t1/2 = ln2/k dipende unicamente dalla costante cinetica k e non dalla concentrazione",
-      "Perché dipende solo dalla concentrazione iniziale C₀",
-      "Perché aumenta proporzionalmente al tempo trascorso"
+      "Perché t1/2 = ln2·C₀ dipende solo dalla concentrazione iniziale C₀ e non dalla costante k",
+      "Perché t1/2 = k·t cresce in proporzione al tempo già trascorso dall'inizio del processo"
     ],
     "correctIndex": 0,
     "explanation": "Quando metà della sostanza è degradata C₀/Ct = 2, quindi t1/2 = ln2/k: dipende solo da k, perciò è costante per un dato composto e processo.",
@@ -188,11 +188,11 @@
     "question": "Cosa rappresenta la volatilizzazione di una sostanza chimica nell'ambiente?",
     "suggestion": "Non è una distruzione, ma un trasferimento.",
     "options": [
-      "Il passaggio di una sostanza da un comparto ambientale a un altro, ad esempio dall'acqua all'atmosfera",
-      "La rottura della molecola in frammenti più piccoli ad opera dell'acqua",
-      "L'ossidazione completa a CO₂ e H₂O"
+      "La rottura della molecola in frammenti più piccoli ad opera dell'acqua all'interfaccia acqua-aria",
+      "L'ossidazione completa della molecola a CO₂ e H₂O con liberazione di calore nell'atmosfera",
+      "Il passaggio di una sostanza da un comparto ambientale a un altro, ad esempio dall'acqua all'atmosfera"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La volatilizzazione non è degradazione ma trasferimento da un comparto ambientale a un altro (es. acqua→atmosfera), tramite diffusione all'interfaccia acqua-aria e passaggio all'atmosfera.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -214,9 +214,9 @@
     "question": "Quale caratteristica NON rientra nella definizione di inquinante organico persistente (POP)?",
     "suggestion": "Cerca la proprietà opposta alla persistenza.",
     "options": [
-      "Rapida biodegradabilità che ne impedisce l'accumulo",
-      "Tossicità e persistenza nell'ambiente",
-      "Propensione al trasporto atmosferico transfrontaliero a lungo raggio"
+      "Rapida biodegradabilità nell'ambiente che ne impedisce l'accumulo negli organismi",
+      "Elevata tossicità unita a una marcata persistenza nei comparti ambientali",
+      "Propensione al trasporto atmosferico transfrontaliero anche a lungo raggio"
     ],
     "correctIndex": 0,
     "explanation": "I POP sono tossici, persistenti, soggetti a bioaccumulazione e a trasporto atmosferico transfrontaliero a lungo raggio: la rapida biodegradabilità è incompatibile con la loro definizione.",
@@ -230,8 +230,8 @@
     "suggestion": "Riguarda un gruppo ristretto di sostanze prioritarie.",
     "options": [
       "Regole basate sul principio di precauzione per porre fine a produzione, uso, importazione ed esportazione di dodici POP prioritari",
-      "L'incentivazione della produzione di pesticidi organoclorurati",
-      "L'aumento dei limiti di emissione consentiti per i pesticidi"
+      "Incentivi alla produzione e all'esportazione dei pesticidi organoclorurati ritenuti meno persistenti tra i dodici prioritari",
+      "Un innalzamento dei limiti di emissione consentiti per i pesticidi organoclorurati classificati come dodici POP prioritari"
     ],
     "correctIndex": 0,
     "explanation": "La convenzione di Stoccolma (2001) prevede regole basate sul principio di precauzione per eliminare la produzione e l'uso di dodici POP prioritari (tra cui DDT, aldrin, dieldrin, PCB, PCDD e PCDF) e gestirne lo smaltimento in sicurezza.",
@@ -244,11 +244,11 @@
     "question": "Attraverso quali due modalità possono avvenire i processi di trasformazione e degradazione di una sostanza?",
     "suggestion": "Una via 'inerte' tra sostanze e una via vivente.",
     "options": [
-      "Tramite interazione con altre sostanze chimiche (facilitate da radiazione o calore) oppure attraverso processi biologici",
-      "Esclusivamente tramite combustione ad alta temperatura",
-      "Solo attraverso l'azione diretta dei raggi UV"
+      "Tramite combustione ad alta temperatura oppure tramite congelamento e cristallizzazione fisica",
+      "Tramite interazione con altre sostanze chimiche, facilitate da radiazione o calore, oppure tramite processi biologici",
+      "Tramite l'azione diretta dei raggi ultravioletti oppure tramite la sola diluizione fisica nei comparti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I processi di trasformazione e degradazione possono avvenire tramite interazione con altre sostanze chimiche (eventualmente facilitate dall'interazione con energia sotto forma di radiazione o calore) oppure attraverso processi biologici.",
     "difficulty": "easy",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -259,11 +259,11 @@
     "question": "In cosa consiste essenzialmente la reazione di idrolisi di una molecola?",
     "suggestion": "Il nome stesso richiama l'acqua.",
     "options": [
-      "Nell'addizione di acqua a una molecola, che spesso porta alla frammentazione in parti più piccole",
-      "Nell'addizione di ossigeno molecolare con rilascio di energia",
-      "Nella perdita di un atomo di idrogeno con formazione di un radicale"
+      "Nell'addizione di ossigeno molecolare alla molecola, con rilascio di energia sotto forma di calore",
+      "Nella perdita di un atomo di idrogeno dalla molecola, con formazione di un radicale reattivo",
+      "Nell'addizione di acqua a una molecola, che spesso porta alla frammentazione in parti più piccole"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "L'idrolisi è un processo che consiste nell'addizione di acqua a una molecola, cosa che spesso porta alla frammentazione della molecola in frammenti più piccoli.",
     "difficulty": "easy",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -274,11 +274,11 @@
     "question": "Quale tra questi gruppi chimici NON è un cromoforo, ovvero non assorbe radiazioni producendo variazioni nei livelli energetici della molecola?",
     "suggestion": "Cerca un gruppo con legami semplici e un eteroatomo.",
     "options": [
-      "Il gruppo ossidrilico −OH",
-      "Il gruppo carbonilico C=O",
-      "Il gruppo C=C"
+      "Il gruppo carbonilico con doppio legame C=O",
+      "Il gruppo ossidrilico a legame semplice −OH",
+      "Il gruppo etilenico con doppio legame C=C"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Sono cromofori gruppi come C=O, C=S e C=C; sono invece non cromofori gruppi come −OH, R−O−R e R−NH₂.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -289,11 +289,11 @@
     "question": "Quale tra queste NON è una reazione tipicamente indotta dalle radiazioni UV/VIS su una molecola?",
     "suggestion": "Cerca un processo che unisce acqua alla molecola, non legato alla luce.",
     "options": [
-      "L'idrolisi",
-      "La frammentazione",
-      "La polimerizzazione"
+      "La frammentazione della molecola in unità più piccole",
+      "La polimerizzazione della molecola in catene più lunghe",
+      "L'idrolisi, cioè l'addizione di acqua alla molecola"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Le reazioni indotte dalle radiazioni UV/VIS sono frammentazione, ossidazione e polimerizzazione; l'idrolisi è invece l'addizione di acqua, non una reazione fotochimica.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
@@ -305,8 +305,8 @@
     "suggestion": "Coinvolge sia la sostanza sia acqua/ossigeno.",
     "options": [
       "È proporzionale alla concentrazione di entrambi i reagenti (sostanza organica e ossigeno/acqua)",
-      "È proporzionale solo alla concentrazione di ossigeno",
-      "È indipendente dalla concentrazione dei reagenti"
+      "È proporzionale alla sola concentrazione dell'ossigeno o dell'acqua, indipendente dalla sostanza",
+      "È indipendente dalla concentrazione dei reagenti e fissata dalla sola temperatura del sistema"
     ],
     "correctIndex": 0,
     "explanation": "Nella cinetica del secondo ordine la velocità di degradazione è proporzionale alla concentrazione dei due reagenti, cioè della materia organica e della concentrazione di ossigeno o acqua.",
@@ -320,8 +320,8 @@
     "suggestion": "Due composti raggiungono i 10 anni.",
     "options": [
       "Dieldrin e Toxaphene, con t1/2 di circa 10 anni",
-      "Carbofuran, con t1/2 di 0,05-1 anni",
-      "Dyfonate, con t1/2 di 0,2 anni"
+      "Carbofuran e Dyfonate, con t1/2 di circa 5 anni",
+      "Dyfonate e Carbofuran, con t1/2 di circa 8 anni"
     ],
     "correctIndex": 0,
     "explanation": "Tra i pesticidi elencati, Dieldrin e Toxaphene hanno il tempo di semivita più lungo (circa 10 anni), mentre Dyfonate (0,2) e Carbofuran (0,05-1) sono molto meno persistenti.",

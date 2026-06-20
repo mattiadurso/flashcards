@@ -16,11 +16,11 @@
     "question": "Cosa rappresenta la LD50 (dose letale mediana)?",
     "suggestion": "Riguarda meta della popolazione saggiata.",
     "options": [
-      "La dose che provoca un effetto non letale nel 50% della popolazione",
       "La dose che uccide il 50% della popolazione saggiata",
-      "La dose massima che non produce alcun effetto osservabile"
+      "La dose che provoca un effetto non letale nel 50% della popolazione",
+      "La dose massima che non produce alcun effetto nella popolazione"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "La LD50 e la dose letale mediana, cioe la dose che uccide la meta della popolazione saggiata; e generalmente espressa in g/kg di peso corporeo.",
     "difficulty": "easy",
     "source": "Tossicità 2026.pdf"
@@ -47,8 +47,8 @@
     "suggestion": "Diversamente dalla LD50, si esprime come concentrazione e correla con il Kow.",
     "options": [
       "La concentrazione richiesta per uccidere il 50% della popolazione in un dato periodo di tempo",
-      "La concentrazione che non produce effetti osservabili",
-      "La concentrazione che produce un effetto non letale nel 50% della popolazione"
+      "La concentrazione che produce un effetto subletale nel 50% della popolazione in un dato periodo",
+      "La concentrazione massima che non produce effetti osservabili nel periodo di esposizione"
     ],
     "correctIndex": 0,
     "explanation": "La LC50 e la concentrazione letale mediana, cioe quella richiesta per uccidere il 50% della popolazione in un dato periodo di tempo; e correlabile al Kow.",
@@ -72,11 +72,11 @@
     "question": "Come e definita la dose in tossicologia?",
     "suggestion": "Non e il modo di assunzione, ma la quantita.",
     "options": [
-      "Il modo con cui la sostanza viene introdotta nell'organismo",
       "La quantita di sostanza che entra o viene a contatto con l'organismo",
-      "Il tempo necessario all'eliminazione del tossico"
+      "Il modo con cui la sostanza viene introdotta o messa a contatto con l'organismo",
+      "Il tempo necessario all'organismo per eliminare la sostanza tossica"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "La dose e la quantita di sostanza che entra o viene a contatto con l'organismo, da distinguere dall'esposizione, che e il modo con cui la sostanza viene introdotta o messa a contatto.",
     "difficulty": "easy",
     "source": "Tossicità 2026.pdf"
@@ -87,11 +87,11 @@
     "question": "Perche con dosi ripetute si puo avere accumulo del danno anche senza accumulo del tossico nell'organismo?",
     "suggestion": "Confronta il tempo di recupero con quello di eliminazione.",
     "options": [
-      "Perche il tossico non viene mai eliminato dall'organismo",
       "Perche il tempo di recupero del danno e maggiore del tempo necessario all'eliminazione del tossico",
-      "Perche la dose singola e sempre superiore alla LD50"
+      "Perche il tempo di eliminazione del tossico e maggiore del tempo di recupero del danno tissutale",
+      "Perche ogni dose singola supera la LD50 e satura le vie di eliminazione del tossico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Si puo avere accumulo del danno senza accumulo del tossico quando il tempo di recupero e maggiore del tempo necessario a eliminare il tossico. Es: l'etanolo causa steatosi epatica che richiede tempi di scomparsa molto piu lunghi dell'eliminazione dell'etanolo, portando a effetti cronici (cirrosi).",
     "difficulty": "hard",
     "source": "Tossicità 2026.pdf"
@@ -102,9 +102,9 @@
     "question": "A parita di dose, da cosa dipende l'aumento del danno in caso di esposizione ripetuta con accumulo del tossico?",
     "suggestion": "Confronta la frequenza di somministrazione con la velocita di eliminazione.",
     "options": [
-      "Dal fatto che la velocita di eliminazione superi la frequenza di somministrazione",
+      "Dal fatto che la velocita di eliminazione sia maggiore della frequenza di somministrazione",
       "Dal fatto che la frequenza di somministrazione sia maggiore della velocita di eliminazione",
-      "Dal solo peso corporeo dell'organismo"
+      "Dal solo peso corporeo dell'organismo, indipendentemente dalla frequenza delle dosi"
     ],
     "correctIndex": 1,
     "explanation": "A parita di dose, il danno aumenta con la durata e la frequenza dell'esposizione: l'accumulo del tossico avviene quando la frequenza di somministrazione e maggiore della velocita di eliminazione.",
@@ -117,9 +117,9 @@
     "question": "Cosa rappresenta la EC50 (concentrazione efficace mediana)?",
     "suggestion": "L'effetto considerato non e necessariamente la morte.",
     "options": [
-      "La concentrazione che uccide il 50% della popolazione",
+      "La concentrazione richiesta per uccidere il 50% della popolazione esposta",
       "La concentrazione richiesta perche si manifesti un dato effetto sul 50% della popolazione",
-      "La concentrazione che non produce alcun effetto osservabile"
+      "La concentrazione massima che non produce alcun effetto osservabile sulla popolazione"
     ],
     "correctIndex": 1,
     "explanation": "La EC50 e la concentrazione richiesta perche si manifesti un determinato effetto (non necessariamente la morte) sul 50% della popolazione; come la LC50 e correlabile al Kow, e la correlazione e specifica per il tipo di organismo.",
@@ -143,11 +143,11 @@
     "question": "In base alla durata, quale classificazione corrisponde a un'esposizione cronica?",
     "suggestion": "Riguarda piu della meta della vita dell'animale.",
     "options": [
-      "14-28 giorni con dosi ripetute",
-      "10-25% della vita dell'animale (es. 3 mesi nel ratto)",
-      "Oltre il 50% della vita (2 anni nel ratto, 18 mesi nel topo)"
+      "Oltre il 50% della vita dell'animale (2 anni nel ratto, 18 mesi nel topo)",
+      "Tra il 10 e il 25% della vita dell'animale (3 mesi nel ratto, 1 anno nel cane)",
+      "Tra i 14 e i 28 giorni di esposizione con dosi ripetute giornaliere"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "La tossicita cronica riguarda esposizioni superiori al 50% della vita dell'animale (2 anni nel ratto, 18 mesi nel topo). La subacuta dura 14-28 giorni e la subcronica copre il 10-25% della vita.",
     "difficulty": "hard",
     "source": "Tossicità 2026.pdf"
@@ -158,11 +158,11 @@
     "question": "Secondo la scala di pericolosita per le risorse viventi, un valore di LC50/96h inferiore a 0,01 mg/l corrisponde a quale livello?",
     "suggestion": "E il livello piu alto della scala (5).",
     "options": [
-      "Praticamente non tossico",
-      "Moderatamente tossico",
-      "Estremamente tossico (livello 5)"
+      "Livello 5 - estremamente tossico (LC50/96h < 0,01 mg/l)",
+      "Livello 3 - moderatamente tossico (LC50/96h tra 1 e 10 mg/l)",
+      "Livello 1 - praticamente non tossico (LC50/96h tra 100 e 1000 mg/l)"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Nella scala dei danni alle risorse viventi, una LC50/96h < 0,01 mg/l corrisponde al livello 5, \"estremamente tossico\". I valori 100-1000 mg/l indicano sostanze praticamente non tossiche e > 1000 mg/l non pericolose.",
     "difficulty": "medium",
     "source": "Tossicità 2026.pdf"
@@ -173,11 +173,11 @@
     "question": "Come si calcola la tossicita di una miscela di sostanze pericolose con il metodo additivo?",
     "suggestion": "Si combinano le concentrazioni dei singoli componenti pesate sulle loro LC50.",
     "options": [
-      "Si usa solo la LC50 del componente piu tossico",
-      "Con LC50m = sommatoria(Ci) / sommatoria(Ci/LC50i), combinando i singoli componenti",
-      "Si sommano semplicemente le LC50 dei singoli componenti"
+      "Con LC50m = somma(Ci) / somma(Ci/LC50i), combinando i singoli componenti",
+      "Con LC50m = somma(Ci/LC50i) / somma(Ci), invertendo numeratore e denominatore",
+      "Con LC50m = LC50 del componente piu tossico moltiplicata per la sua frazione"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il metodo additivo calcola la LC50 della miscela come LC50m = somma(Ci) / somma(Ci/LC50i), dove Ci e la concentrazione del componente i (percentuale in peso) e LC50i la sua tossicita; serve quando sono disponibili dati adeguati per uno o piu componenti.",
     "difficulty": "hard",
     "source": "Tossicità 2026.pdf"
@@ -188,9 +188,9 @@
     "question": "Cosa indica la relazione log(LC50)^-1 = 0,64 log Kow + 3,7 trovata per Gambusia affinis?",
     "suggestion": "Mette in relazione la tossicita con l'idrofobicita.",
     "options": [
-      "Che la tossicita (LC50) e correlata al Kow, parametro di idrofobicita",
-      "Che la tossicita dipende solo dal peso molecolare",
-      "Che il Kow non ha alcun effetto sulla tossicita"
+      "Che la tossicita (LC50) e correlata al Kow, parametro di idrofobicita del composto",
+      "Che la tossicita (LC50) dipende dal solo peso molecolare e non dall'idrofobicita",
+      "Che il Kow misura la solubilita in acqua e non e legato alla tossicita acuta"
     ],
     "correctIndex": 0,
     "explanation": "La relazione lineare tra log(LC50)^-1 e log Kow (R2 = 0.43) mostra che la tossicita e correlabile al Kow, cioe all'idrofobicita del composto; la correlazione e specifica per l'organismo considerato (qui Gambusia affinis).",
@@ -203,9 +203,9 @@
     "question": "Perche gli effetti delle sostanze tossiche possono riguardare non solo l'organismo esposto ma anche la sua prole?",
     "suggestion": "Pensa all'esempio dell'alcool in gravidanza.",
     "options": [
-      "Perche i tossici non superano mai la barriera materno-fetale",
-      "Perche le conseguenze delle sostanze tossiche possono accumularsi e avere effetti anche sulla prole, come negli effetti prenatali dell'alcool",
-      "Perche la prole elimina i tossici piu velocemente dei genitori"
+      "Perche i tossici della madre vengono bloccati del tutto dalla barriera materno-fetale",
+      "Perche gli effetti delle sostanze tossiche possono accumularsi e colpire anche la prole, come gli effetti prenatali dell'alcool",
+      "Perche la prole elimina i tossici molto piu velocemente dei genitori adulti"
     ],
     "correctIndex": 1,
     "explanation": "Le conseguenze delle sostanze tossiche possono accumularsi e avere effetti non solo sull'organismo che le assume ma anche sulla prole, come illustrato dagli effetti prenatali dell'alcool.",
@@ -219,8 +219,8 @@
     "suggestion": "Una e una quantita, l'altra e una modalita.",
     "options": [
       "La dose e la modalita di introduzione, l'esposizione e la quantita di sostanza",
-      "La dose e la quantita di sostanza che entra in contatto con l'organismo, l'esposizione e il modo con cui viene introdotta (mangiando, bevendo, respirando, attraverso la pelle)",
-      "Sono sinonimi che indicano la stessa grandezza"
+      "La dose e la quantita di sostanza, l'esposizione e il modo con cui viene introdotta",
+      "Dose ed esposizione sono sinonimi che indicano la stessa identica grandezza"
     ],
     "correctIndex": 1,
     "explanation": "La dose e la quantita di sostanza che entra o viene a contatto con l'organismo; l'esposizione e il modo con cui la sostanza viene introdotta o messa a contatto, ad esempio mangiando, bevendo, respirando o per assorbimento attraverso la pelle.",
@@ -248,9 +248,9 @@
     "question": "Cosa indica il LOED (LOEC) nella valutazione tossicologica?",
     "suggestion": "E l'opposto concettuale del NOED.",
     "options": [
-      "La dose massima che non produce effetti osservabili",
-      "La dose minima che produce effetti osservabili",
-      "La dose che uccide il 50% della popolazione"
+      "La dose massima che non produce alcun effetto osservabile",
+      "La dose minima che produce un effetto osservabile",
+      "La dose che uccide il 50% della popolazione saggiata"
     ],
     "correctIndex": 1,
     "explanation": "Il LOED (Lowest Observed Effect Dose) o LOEC e la dose minima che produce effetti osservabili, in contrapposizione al NOED/NOEC che e la dose che non produce effetti osservabili.",
@@ -263,9 +263,9 @@
     "question": "Nella classificazione della tossicita in base alla durata, a cosa corrisponde l'esposizione subcronica?",
     "suggestion": "Si colloca tra la subacuta e la cronica come durata.",
     "options": [
-      "Singola somministrazione",
-      "14-28 giorni con dosi ripetute",
-      "10-25% della vita dell'animale (es. 3 mesi nel ratto, 1 anno nel cane)"
+      "Una singola somministrazione in un'unica volta (dose acuta)",
+      "Da 14 a 28 giorni di esposizione con dosi ripetute giornaliere",
+      "Il 10-25% della vita dell'animale (3 mesi nel ratto, 1 anno nel cane)"
     ],
     "correctIndex": 2,
     "explanation": "La tossicita subcronica copre il 10-25% della vita dell'animale (es. 3 mesi nel ratto, 1 anno nel cane); la subacuta dura 14-28 giorni con dosi ripetute e l'acuta e una singola somministrazione.",
@@ -278,9 +278,9 @@
     "question": "Secondo la scala di pericolosita per le risorse viventi, a quale livello corrisponde una LC50/96h compresa tra 1 e 10 mg/l?",
     "suggestion": "E il livello intermedio della scala.",
     "options": [
-      "Livello 1 - praticamente non tossico",
-      "Livello 3 - moderatamente tossico",
-      "Livello 5 - estremamente tossico"
+      "Livello 1 - praticamente non tossico (100-1000 mg/l)",
+      "Livello 3 - moderatamente tossico (1-10 mg/l)",
+      "Livello 5 - estremamente tossico (inferiore a 0,01 mg/l)"
     ],
     "correctIndex": 1,
     "explanation": "Una LC50/96h tra 1 e 10 mg/l corrisponde al livello 3, \"moderatamente tossico\". Il livello 4 (altamente tossico) e 0,01-1 mg/l e il livello 2 (debolmente tossico) e 10-100 mg/l.",
@@ -293,11 +293,11 @@
     "question": "Perche la valutazione della tossicita di miscele e spesso necessaria nella contaminazione ambientale?",
     "suggestion": "Pensa a quante sostanze sono di solito presenti nell'ambiente.",
     "options": [
-      "Perche raramente l'esposizione si limita a una sola sostanza: la contaminazione e spesso dovuta a miscele",
-      "Perche le singole sostanze pure non sono mai tossiche",
-      "Perche le miscele sono sempre meno tossiche dei componenti puri"
+      "Perche le miscele risultano sempre meno tossiche dei loro componenti puri",
+      "Perche le singole sostanze pure prese da sole non sono mai tossiche",
+      "Perche raramente l'esposizione e a una sola sostanza: la contaminazione e spesso da miscele"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Raramente l'esposizione si limita a una sola sostanza: molto spesso la contaminazione ambientale e dovuta a miscele di sostanze, per cui occorre stimarne la tossicita combinata (es. con il metodo additivo).",
     "difficulty": "easy",
     "source": "Tossicità 2026.pdf"

@@ -5,11 +5,11 @@
     "question": "Da cosa e governato il passaggio di una sostanza da un comparto ambientale all'altro (aria, acqua, suolo, sedimento)?",
     "suggestion": "Dipende da come la sostanza si distribuisce tra le fasi.",
     "options": [
-      "Esclusivamente dalla temperatura dell'aria",
-      "Dalla ripartizione tra fasi, determinata dalle proprieta chimico-fisiche della molecola",
-      "Solo dalla quantita di pioggia (run-off)"
+      "Dalla ripartizione tra fasi, legata alle proprieta chimico-fisiche della molecola",
+      "Dalla sola temperatura dell'aria, che fissa da sola l'equilibrio tra i comparti",
+      "Dalla sola quantita di pioggia (run-off), che trascina la sostanza tra i comparti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il passaggio tra comparti ambientali e governato dalla ripartizione tra fasi: le proprieta chimico-fisiche delle molecole determinano quanto tempo e in che forma una sostanza si trovera o si muovera da/per un dato comparto.",
     "difficulty": "easy",
     "source": "Ripartizione tra fasi.pdf"
@@ -31,11 +31,11 @@
     "question": "Cosa afferma la legge di Henry per una sostanza poco solubile?",
     "suggestion": "Mette in relazione la fase disciolta con la fase gassosa, a temperatura fissa.",
     "options": [
-      "A temperatura costante, la quantita disciolta in un dato volume di liquido e proporzionale alla sua concentrazione in fase gassosa",
-      "La quantita disciolta e inversamente proporzionale alla pressione parziale del gas",
-      "La solubilita non dipende dalla temperatura"
+      "A temperatura costante, la quantita disciolta in un dato volume e inversamente proporzionale alla concentrazione in fase gassosa",
+      "A temperatura costante, la quantita disciolta in un dato volume e direttamente proporzionale alla concentrazione in fase gassosa",
+      "A pressione parziale costante, la quantita disciolta in un dato volume aumenta proporzionalmente alla temperatura del liquido"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "La legge di Henry stabilisce che, a temperatura costante, la quantita di una sostanza poco solubile disciolta in un dato volume di liquido e proporzionale alla sua concentrazione in fase gassosa (o alla pressione parziale del gas).",
     "difficulty": "medium",
     "source": "Ripartizione tra fasi.pdf"
@@ -46,11 +46,11 @@
     "question": "La costante di Henry KH puo essere interpretata come quale coefficiente?",
     "suggestion": "Riguarda due comparti specifici all'equilibrio.",
     "options": [
-      "Il coefficiente di partizione tra suolo e acqua",
       "Il coefficiente di partizione tra aria e acqua all'equilibrio",
-      "Il coefficiente di partizione tra octanolo e acqua"
+      "Il coefficiente di partizione tra suolo e acqua all'equilibrio",
+      "Il coefficiente di partizione tra octanolo e acqua all'equilibrio"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "La costante di Henry e il coefficiente di partizione tra aria e acqua all'equilibrio; per gas e sostanze volatili e esprimibile come rapporto tra la pressione parziale del composto in aria e la sua concentrazione (solubilita) in acqua.",
     "difficulty": "medium",
     "source": "Ripartizione tra fasi.pdf"
@@ -72,11 +72,11 @@
     "question": "Per un composto organico volatile liquido NON miscibile con l'acqua, da cosa e controllata la percentuale relativa di vaporizzazione?",
     "suggestion": "Il composto evapora come fosse una sostanza pura.",
     "options": [
-      "Dalla costante di Henry",
-      "Dalla pressione di vapore del composto organico",
-      "Dal coefficiente Koc"
+      "Dalla costante di Henry del composto, valida per le soluzioni diluite in acqua",
+      "Dal coefficiente Koc del composto, che ne descrive l'affinita per il carbonio organico",
+      "Dalla pressione di vapore del composto, perche evapora come una sostanza pura"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Un composto organico volatile non miscibile con l'acqua evapora come fosse una sostanza pura: la percentuale di vaporizzazione e controllata dalla pressione di vapore del composto, che varia con il composto e con la temperatura. La costante di Henry si usa invece per le soluzioni diluite.",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"
@@ -87,11 +87,11 @@
     "question": "Cosa rappresenta la pressione (o tensione) di vapore di una sostanza?",
     "suggestion": "E la pressione della fase gassosa in una condizione particolare.",
     "options": [
+      "La pressione osmotica esercitata dalla soluzione acquosa della sostanza all'equilibrio",
       "La pressione esercitata dalla fase gassosa di una sostanza in condizioni di equilibrio",
-      "La pressione necessaria a comprimere completamente il liquido",
-      "La pressione osmotica della soluzione acquosa"
+      "La pressione meccanica necessaria a comprimere completamente il liquido in equilibrio"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "La pressione di vapore e la pressione esercitata dalla fase gassosa di una sostanza in condizioni di equilibrio: maggiore e la pressione di vapore, maggiore e la tendenza del composto a passare in fase gassosa. E legata alla temperatura di ebollizione.",
     "difficulty": "easy",
     "source": "Ripartizione tra fasi.pdf"
@@ -102,9 +102,9 @@
     "question": "Come varia generalmente la solubilita in acqua di un composto organico al crescere del suo peso molecolare?",
     "suggestion": "Confronta benzene, naftalene e fenantrene.",
     "options": [
-      "Aumenta proporzionalmente al peso molecolare",
-      "Diminuisce all'aumentare del peso molecolare",
-      "Rimane costante indipendentemente dal peso molecolare"
+      "Aumenta proporzionalmente al peso molecolare crescente",
+      "Diminuisce all'aumentare del peso molecolare crescente",
+      "Resta costante indipendentemente dal peso molecolare crescente"
     ],
     "correctIndex": 1,
     "explanation": "La solubilita in acqua di un composto organico diminuisce con l'aumentare del peso molecolare (es. benzene 10^-1.65 M, naftalene 10^-3.61 M, fenantrene 10^-5.20 M).",
@@ -117,11 +117,11 @@
     "question": "Qual e l'effetto dell'aumento dei sali disciolti (maggiore costante dielettrica) sulla solubilita delle sostanze poco polari?",
     "suggestion": "Pensa all'effetto \"salting out\".",
     "options": [
-      "La solubilita aumenta e diminuiscono Kd e costante di Henry",
-      "La solubilita diminuisce e aumentano Kd e costante di Henry",
-      "Non si osserva alcun effetto sulla solubilita"
+      "La solubilita diminuisce e aumentano sia il Kd sia la costante di Henry",
+      "La solubilita aumenta e diminuiscono sia il Kd sia la costante di Henry",
+      "La solubilita diminuisce ma restano invariati sia il Kd sia la costante di Henry"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "L'aumento di ioni disciolti aumenta la costante dielettrica e diminuisce la solubilita delle sostanze poco polari, che tendono a sfuggire dalla soluzione acquosa; di conseguenza aumentano sia il Kd sia la costante di Henry.",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"
@@ -143,11 +143,11 @@
     "question": "Qual e la differenza tra assorbimento e adsorbimento di una sostanza su una matrice?",
     "suggestion": "Uno riguarda il volume, l'altro la superficie.",
     "options": [
+      "Nell'assorbimento la sostanza penetra nella matrice, nell'adsorbimento si lega a una superficie",
       "Nell'assorbimento la sostanza si lega a una superficie, nell'adsorbimento penetra nella matrice",
-      "Nell'assorbimento la sostanza penetra nella matrice assorbente, nell'adsorbimento si lega a una superficie",
-      "Sono due termini equivalenti per lo stesso fenomeno"
+      "Nell'assorbimento la sostanza reagisce con la matrice, nell'adsorbimento resta in fase gassosa"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Nell'assorbimento la sostanza penetra all'interno della matrice assorbente (es. sostanza organica del suolo), mentre nell'adsorbimento si lega a una superficie (es. cristalli di argilla).",
     "difficulty": "medium",
     "source": "Ripartizione tra fasi.pdf"
@@ -158,11 +158,11 @@
     "question": "Mentre il Koc e una proprieta del composto, cosa rappresenta la foc?",
     "suggestion": "E una proprieta del suolo.",
     "options": [
-      "L'idrofobicita del composto",
       "La frazione di carbonio organico del suolo, da cui dipende il contenuto di sostanza organica",
-      "La costante di Henry del composto"
+      "La frazione idrofobica del composto, da cui dipende la sua tendenza a sfuggire dall'acqua del suolo",
+      "La frazione di partizione aria-acqua del composto, da cui dipende il valore della costante di Henry"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "La foc e una proprieta del suolo che dipende dal suo contenuto di carbonio organico (torba fom da 0.5 a 0.9, suoli minerali fom da 0.01 a 0.5). Poiche la sostanza organica e circa 50% carbonio, foc ~ 0.5 fom e Koc ~ 2 Kom.",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"
@@ -173,11 +173,11 @@
     "question": "Da quale parametro si puo predire il coefficiente di sorbimento (Kp) di un composto al sedimento/sostanza organica?",
     "suggestion": "E il parametro che misura l'idrofobicita.",
     "options": [
-      "Dal Kow, il coefficiente di partizione octanolo-acqua",
-      "Dalla temperatura di ebollizione",
-      "Dalla costante di Henry"
+      "Dalla costante di Henry, il coefficiente di partizione aria-acqua del composto",
+      "Dalla temperatura di ebollizione, indice della volatilita del composto",
+      "Dal Kow, il coefficiente di partizione octanolo-acqua del composto"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il sorbimento al sedimento (sostanza organica, SOM) puo essere predetto dal Kow, il coefficiente di partizione octanolo-acqua, usato come parametro dell'idrofobicita: log Koc cresce linearmente con log Kow.",
     "difficulty": "medium",
     "source": "Ripartizione tra fasi.pdf"
@@ -188,11 +188,11 @@
     "question": "Cosa caratterizza un'isoterma di adsorbimento lineare (tipo C)?",
     "suggestion": "Il rapporto Cs/Ca resta lo stesso.",
     "options": [
-      "Una proporzionalita diretta tra concentrazione e adsorbimento, con ripartizione costante",
-      "Un plateau dovuto alla saturazione di uno strato monomolecolare",
-      "Una pendenza che diminuisce all'aumentare della concentrazione"
+      "Un plateau dovuto alla saturazione di uno strato monomolecolare di soluto adsorbito",
+      "Una pendenza che diminuisce progressivamente all'aumentare della concentrazione di soluto",
+      "Una proporzionalita diretta tra concentrazione e adsorbimento, con ripartizione costante"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nell'isoterma lineare (tipo C) c'e proporzionalita diretta tra concentrazione in soluzione e quantita adsorbita: la ripartizione e costante e Kp = Cs/Ca rimane invariato.",
     "difficulty": "medium",
     "source": "Ripartizione tra fasi.pdf"
@@ -214,9 +214,9 @@
     "question": "Come e definita la solubilita di una sostanza?",
     "suggestion": "Riguarda una quantita limite in un volume di solvente.",
     "options": [
-      "La quantita minima di sostanza necessaria a formare un precipitato",
-      "La quantita massima di quella sostanza che si puo sciogliere in un volume unitario di un dato solvente",
-      "La pressione esercitata dalla fase gassosa all'equilibrio"
+      "La quantita minima di quella sostanza necessaria a far comparire un precipitato nel solvente",
+      "La quantita massima di quella sostanza che si puo sciogliere in un volume unitario del solvente",
+      "La pressione massima esercitata dalla fase gassosa di quella sostanza all'equilibrio col solvente"
     ],
     "correctIndex": 1,
     "explanation": "La solubilita e la quantita massima di una sostanza che si puo sciogliere in un volume unitario di un dato solvente; rappresenta la concentrazione massima in presenza di precipitato e varia con temperatura e pressione (espressa in mg/l o moli/l).",
@@ -229,11 +229,11 @@
     "question": "Perche e importante tenere le bolle d'aria fuori dai campioni d'acqua quando si analizzano i composti organici volatili (VOCs)?",
     "suggestion": "I VOCs si ripartiscono tra acqua e aria secondo la costante di Henry.",
     "options": [
-      "Perche le bolle aumentano la solubilita in acqua del composto",
-      "Perche una frazione del composto volatile si ripartisce nella bolla d'aria all'equilibrio, falsando la misura in acqua",
-      "Perche le bolle abbassano la temperatura del campione"
+      "Perche una frazione del composto volatile si ripartisce nella bolla all'equilibrio, falsando la misura in acqua",
+      "Perche le bolle d'aria aumentano la solubilita del composto in acqua all'equilibrio, falsando la misura in acqua",
+      "Perche le bolle d'aria abbassano la temperatura del campione d'acqua all'equilibrio, falsando la misura in acqua"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Per i VOCs la ripartizione aria-acqua fa si che una parte del composto passi nella bolla d'aria all'equilibrio (es. clorometano con KH = 10^0.16: il 3.6% finisce in 1 mL di aria su 40 mL); per questo le bolle vanno escluse dai campioni.",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"
@@ -244,11 +244,11 @@
     "question": "In che modo i co-solventi organici (es. metanolo) influenzano la solubilita in acqua dei composti poco polari?",
     "suggestion": "I co-solventi rimpiazzano l'acqua nella cavita attorno al composto.",
     "options": [
-      "La diminuiscono, perche competono con il composto per l'acqua",
       "La aumentano, perche rimpiazzano l'acqua nella cavita attorno al composto creando interazioni piu favorevoli",
-      "Non hanno alcun effetto sulla solubilita"
+      "La diminuiscono, perche competono con il composto sottraendogli l'acqua e rendendo le interazioni meno favorevoli",
+      "La aumentano, perche aumentano la costante dielettrica della soluzione e respingono il composto dalla cavita acquosa"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "I co-solventi organici ad elevata solubilita rimpiazzano l'acqua nella cavita attorno al composto organico, rendendo le interazioni piu favorevoli e aumentando la solubilita dei composti poco polari (es. il pirene e piu solubile in soluzione al 20% di metanolo che in acqua pura).",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"
@@ -259,11 +259,11 @@
     "question": "Quale modello di isoterma e descritto dall'equazione Cs = KF * Ca^n, in cui n descrive la non linearita?",
     "suggestion": "Per n = 1 l'isoterma diventa lineare.",
     "options": [
-      "Il modello di Langmuir",
-      "Il modello di Freundlich",
-      "L'isoterma lineare di tipo C"
+      "Il modello di Freundlich, con KF coefficiente di adsorbimento ed n esponente di non linearita",
+      "Il modello di Langmuir, con KL costante di affinita e Cmax saturazione dello strato monomolecolare",
+      "L'isoterma lineare di tipo C, con Kp = Cs/Ca costante e proporzionalita diretta tra le fasi"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "L'isoterma di Freundlich e descritta da Cs = KF * Ca^n, dove KF e il coefficiente di adsorbimento di Freundlich e n l'esponente che descrive la non linearita; per n = 1 l'isoterma e lineare.",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"
@@ -275,8 +275,8 @@
     "suggestion": "Distingui i cristalli di argilla dalla sostanza organica.",
     "options": [
       "Sui cristalli di argilla (adsorbimento), mentre nella sostanza organica avviene l'assorbimento",
-      "Esclusivamente nella sostanza organica, per assorbimento",
-      "Solo nella fase gassosa del suolo"
+      "Nella sostanza organica (adsorbimento), mentre sui cristalli di argilla avviene l'assorbimento",
+      "Nella fase gassosa del suolo (adsorbimento), mentre nella soluzione avviene l'assorbimento"
     ],
     "correctIndex": 0,
     "explanation": "Nel suolo i siti di adsorbimento sono i cristalli di argilla (adsorbimento, legame a una superficie), mentre la sostanza organica e sede di assorbimento (la sostanza penetra nella matrice).",
@@ -289,9 +289,9 @@
     "question": "Come si comporta una sostanza ionizzabile come un fenolo al variare del pH del suolo?",
     "suggestion": "Pensa al rapporto tra pH e pKa.",
     "options": [
-      "La frazione non ionizzata e indipendente dal pH",
-      "La percentuale ionizzata cambia con il pH (% ionizzato = 100 / (1 + 10^(pKa-pH))), modificandone il comportamento",
-      "I fenoli sono sempre completamente ionizzati a qualsiasi pH"
+      "La frazione non ionizzata resta indipendente dal pH del suolo e ne fissa cosi il comportamento",
+      "La percentuale ionizzata cambia col pH (% = 100/(1 + 10^(pKa-pH))), modificandone il comportamento",
+      "La frazione ionizzata resta fissa al 100% a qualsiasi pH del suolo e ne determina cosi il comportamento"
     ],
     "correctIndex": 1,
     "explanation": "Il comportamento delle sostanze ionizzabili cambia con il pH del suolo; la percentuale ionizzata segue % ionizzato = 100/(1 + 10^(pKa-pH)). Es: pentaclorofenolo pKa 4.60, fenolo pKa 9.89, quindi a un dato pH si ionizzano in misura diversa.",
@@ -304,9 +304,9 @@
     "question": "Come vengono trattenuti gli anioni dalle superfici del suolo cariche negativamente?",
     "suggestion": "Pensa al segno delle cariche in gioco.",
     "options": [
-      "Sono trattenuti piu fortemente dei cationi tramite la CSC",
-      "Sono respinti dalle superfici cariche negativamente",
-      "Sono trattenuti con la stessa forza dei cationi organici"
+      "Sono trattenuti piu fortemente dei cationi organici tramite la CSC",
+      "Sono respinti dalle superfici cariche negativamente dello stesso segno",
+      "Sono trattenuti con la stessa forza dei cationi inorganici tramite la CSC"
     ],
     "correctIndex": 1,
     "explanation": "Il suolo trattiene i cationi mediante la CSC (i cationi organici ancora piu fortemente di quelli inorganici), mentre gli anioni sono respinti dalle superfici cariche negativamente.",
@@ -319,11 +319,11 @@
     "question": "Confrontando una stessa coppia di composti (PCB e PCE), perche in un acquifero la frazione disciolta in acqua e molto minore che in un'acqua torbida superficiale?",
     "suggestion": "Confronta la concentrazione di solidi: 10^-6 kg/L nel lago contro 2 kg/L nell'acquifero.",
     "options": [
-      "Perche nell'acquifero la concentrazione di solidi (2 kg/L) e molto maggiore, quindi piu composto e sorbito",
-      "Perche nell'acquifero la temperatura e piu alta e aumenta la solubilita",
-      "Perche il Kd dei composti diminuisce nell'acquifero"
+      "Perche nell'acquifero il Kd dei due composti diminuisce molto, quindi una frazione maggiore resta disciolta",
+      "Perche nell'acquifero la temperatura e molto piu alta, quindi aumenta la solubilita dei due composti",
+      "Perche nell'acquifero la concentrazione di solidi (2 kg/L) e molto piu alta, quindi piu composto e sorbito"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Con fw = 1 / (1 + Kd * Ms/Vw), nell'acquifero la concentrazione di solidi e molto maggiore (2 kg/L contro 10^-6 kg/L del lago), quindi una frazione molto maggiore e sorbita: per il TCB fw passa da 0.09 (lago) a 5.0*10^-8 (acquifero).",
     "difficulty": "hard",
     "source": "Ripartizione tra fasi.pdf"

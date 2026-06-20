@@ -5,11 +5,11 @@
     "question": "Cosa studia principalmente la chimica ambientale riguardo alle specie chimiche presenti nell'ambiente?",
     "suggestion": "Non si limita a misurarle: ne segue anche cosa accade nel tempo.",
     "options": [
-      "Identifica e misura le specie chimiche e ne studia destino ed effetti sull'ambiente",
-      "Sintetizza nuovi composti industriali a basso costo",
-      "Si occupa esclusivamente della tossicità acuta sull'uomo"
+      "Sintetizza nuovi composti industriali a basso costo per uso commerciale",
+      "Studia la tossicità acuta sull'uomo dei soli composti di sintesi",
+      "Identifica e misura le specie chimiche e ne studia destino ed effetti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La chimica ambientale identifica e misura le specie chimiche naturali e antropiche, ne studia il destino (tempo di residenza, trasformazioni) e gli effetti sull'ambiente.",
     "difficulty": "easy",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -20,9 +20,9 @@
     "question": "Perché negli anni '60 e '70 il detto \"la soluzione dell'inquinamento sta nella diluizione\" entrò in crisi?",
     "suggestion": "Alcune sostanze resistono a lungo all'azione di luce, acqua, aria e microrganismi.",
     "options": [
-      "Perché la diluizione era troppo costosa da realizzare",
+      "Perché la diluizione risultava troppo costosa da realizzare su larga scala",
       "Perché molte sostanze risultarono persistenti e non assimilate dalla natura",
-      "Perché i sistemi naturali diluivano le sostanze troppo rapidamente"
+      "Perché i sistemi naturali diluivano le sostanze in modo troppo rapido"
     ],
     "correctIndex": 1,
     "explanation": "Si comprese che molte sostanze sono persistenti, cioè resistono a lungo all'azione di luce, acqua, aria e microrganismi, e quindi non vengono assimilate.",
@@ -35,11 +35,11 @@
     "question": "Quale di questi è citato come esempio classico di agente persistente?",
     "suggestion": "È un noto pesticida ormai vietato.",
     "options": [
-      "Il glucosio",
       "Il DDT",
+      "Il glucosio",
       "L'acido citrico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Tra gli agenti persistenti il testo cita pesticidi come il DDT, i CFC, forme tossiche del mercurio elementare, PCB e diossine.",
     "difficulty": "easy",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -50,11 +50,11 @@
     "question": "Perché la strategia \"end of the pipe\" non risolve definitivamente il problema dell'inquinamento?",
     "suggestion": "Pensa a dove finiscono gli inquinanti dopo essere stati raccolti.",
     "options": [
-      "Perché aumenta la produzione di sostanze tossiche alla fonte",
-      "Perché gli inquinanti non sono distrutti ma solo resi meno tossici o depositati altrove",
-      "Perché richiede la sostituzione dei solventi organici con acqua"
+      "Perché gli inquinanti non sono distrutti ma resi meno tossici o depositati altrove",
+      "Perché incrementa la produzione di sostanze tossiche direttamente alla fonte",
+      "Perché impone di sostituire i solventi organici dei processi con acqua"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "L'end of the pipe si basa sul recupero e non sulla riduzione: gli inquinanti non vengono distrutti ma resi meno tossici o depositati integri in un ambiente diverso da quello d'origine.",
     "difficulty": "medium",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -65,11 +65,11 @@
     "question": "In cosa consiste l'approccio della \"chimica verde\" rispetto al controllo dell'inquinamento?",
     "suggestion": "Sposta l'intervento all'inizio della catena produttiva.",
     "options": [
-      "Riformula i processi sintetici affinché non generino sottoprodotti tossici",
-      "Raccoglie e smaltisce i rifiuti tossici già prodotti",
-      "Diluisce i sottoprodotti tossici fino a livelli sicuri"
+      "Raccoglie e smaltisce in sicurezza i rifiuti tossici già prodotti",
+      "Diluisce i sottoprodotti tossici dei processi fino a livelli sicuri",
+      "Riformula i processi sintetici affinché non generino sottoprodotti tossici"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La chimica verde riformula i processi sintetici per non generare sottoprodotti tossici, spostando l'intervento all'inizio della catena (immissione zero).",
     "difficulty": "medium",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -80,9 +80,9 @@
     "question": "Quale di questi è un esempio concreto di strategia di chimica verde?",
     "suggestion": "Riguarda la scelta del solvente in un processo.",
     "options": [
-      "Aumentare la diluizione degli scarichi industriali",
-      "Sostituire i solventi organici con acqua",
-      "Depositare gli inquinanti in un ambiente diverso"
+      "Aumentare la diluizione degli scarichi industriali nei corpi idrici",
+      "Sostituire i solventi organici di processo con acqua",
+      "Depositare gli inquinanti raccolti in un ambiente diverso"
     ],
     "correctIndex": 1,
     "explanation": "Tra gli esempi di chimica verde: sostituzione dei solventi organici con acqua, dei metalli pesanti nella catalisi con sostanze non dannose e progettazione di prodotti riciclabili.",
@@ -95,11 +95,11 @@
     "question": "Perché valutare le trasformazioni che una sostanza subisce nell'ambiente è di importanza prioritaria?",
     "suggestion": "Le trasformazioni non vanno sempre nella stessa direzione in termini di rischio.",
     "options": [
-      "Perché tutte le trasformazioni rendono le sostanze innocue",
-      "Perché alcune trasformazioni attenuano il rischio ma altre generano derivati ancora più pericolosi",
-      "Perché le trasformazioni non modificano mai il tempo di residenza"
+      "Perché alcune trasformazioni attenuano il rischio ma altre danno derivati più pericolosi",
+      "Perché ogni trasformazione ambientale converte l'inquinante in prodotti del tutto innocui",
+      "Perché le trasformazioni accorciano sempre il tempo di residenza nei comparti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Alcune trasformazioni (idrolisi, ossidazioni, fotolisi, microbiologiche) portano a prodotti innocui, ma esistono processi che trasformano un inquinante in un derivato ancora più pericoloso.",
     "difficulty": "hard",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -110,9 +110,9 @@
     "question": "Cosa si intende per \"mobilità ambientale\" di una sostanza nelle fasi di studio dell'inquinamento?",
     "suggestion": "Riguarda il passaggio tra aria, acqua, suolo e biota.",
     "options": [
-      "La velocità con cui la sostanza viene sintetizzata in laboratorio",
-      "Il modo in cui la sostanza si ripartisce ed è trasferita ai diversi comparti ambientali",
-      "La sua capacità di resistere alla luce solare"
+      "La velocità con cui la sostanza viene sintetizzata nel reattore di laboratorio",
+      "Il modo in cui la sostanza si ripartisce e si trasferisce tra i comparti ambientali",
+      "La capacità della sostanza di resistere alla fotolisi indotta dalla luce solare"
     ],
     "correctIndex": 1,
     "explanation": "La mobilità ambientale descrive come una sostanza possa ripartirsi ed essere trasferita ai diversi comparti: atmosfera, acqua, suolo e sedimento, biota.",
@@ -169,11 +169,11 @@
     "question": "Quale tema NON rientra tra gli argomenti del programma del corso di Chimica e Biochimica degli Inquinanti?",
     "suggestion": "Pensa a cosa il programma elenca davvero: acque, atmosfera, idrocarburi...",
     "options": [
-      "Qualità delle acque e ciclo idrologico",
-      "Idrocarburi, PCB e diossine",
-      "Genetica delle popolazioni di mammiferi"
+      "Genetica delle popolazioni di mammiferi selvatici",
+      "Qualità delle acque e ciclo idrologico dell'acqua",
+      "Idrocarburi, PCB e diossine nell'ambiente"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Il programma comprende introduzione alla chimica ambientale, proprietà chimico-fisiche, processi di degradazione, idrocarburi, PCB e diossine, detergenti, qualità delle acque, inquinamento atmosferico e incidenti chimici; non la genetica delle popolazioni.",
     "difficulty": "easy",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -184,11 +184,11 @@
     "question": "Tra i detergenti, quale classificazione dei tensioattivi è prevista dal programma del corso?",
     "suggestion": "Si distinguono in base alla carica della testa polare.",
     "options": [
-      "Anionici, cationici, non ionici e anfoteri",
-      "Solidi, liquidi e gassosi",
-      "Acidi, basici e neutri"
+      "In acidi, basici e neutri secondo il pH della soluzione",
+      "In solidi, liquidi e gassosi secondo lo stato fisico",
+      "In anionici, cationici, non ionici e anfoteri"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il programma classifica i tensioattivi in anionici, cationici, non ionici e anfoteri, trattando anche ABS, LAS, contaminazione ambientale, tossicità e biodegradazione.",
     "difficulty": "medium",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -199,11 +199,11 @@
     "question": "Quali tipi di trasformazione in ambiente non biologico sono elencati nel programma?",
     "suggestion": "Includono fenomeni termici, luminosi e l'azione dell'acqua.",
     "options": [
-      "Fotosintesi, respirazione e fermentazione",
       "Combustione, reazioni fotochimiche e idrolisi",
+      "Fotosintesi, respirazione cellulare e fermentazione",
       "Cristallizzazione, sublimazione e fusione"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Tra le trasformazioni in ambiente non biologico il programma cita combustione, calore di reazione, reazioni fotochimiche e idrolisi.",
     "difficulty": "medium",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -214,11 +214,11 @@
     "question": "Quale testo è indicato come consigliato per il corso, oltre agli appunti di lezione?",
     "suggestion": "Un manuale di chimica ambientale edito da Zanichelli.",
     "options": [
-      "Baird e Cann, Chimica ambientale, Zanichelli",
       "Lehninger, Principi di biochimica, Zanichelli",
+      "Baird e Cann, Chimica ambientale, Zanichelli",
       "Atkins, Chimica fisica, Zanichelli"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Tra i testi consigliati figurano gli appunti di lezione, i file forniti durante il corso e il manuale di Colin Baird e Michael Cann, Chimica ambientale, Zanichelli, 2013.",
     "difficulty": "easy",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -229,9 +229,9 @@
     "question": "Riguardo agli idrocarburi, quali aspetti il programma prevede di studiare?",
     "suggestion": "Va dalla definizione fino agli effetti sugli organismi.",
     "options": [
-      "Solo la loro sintesi industriale",
-      "Definizione, contaminazione ambientale, proprietà chimico-fisiche, distribuzione ambientale e tossicità",
-      "Esclusivamente il loro impiego come combustibili"
+      "Soltanto le vie di sintesi industriale e le rese del processo produttivo",
+      "Definizione, contaminazione, proprietà, distribuzione e tossicità",
+      "Solamente il loro impiego come combustibili e come fonti energetiche"
     ],
     "correctIndex": 1,
     "explanation": "Per gli idrocarburi il programma prevede definizione, contaminazione ambientale, proprietà chimico-fisiche, distribuzione ambientale e tossicità.",
@@ -244,11 +244,11 @@
     "question": "Secondo il programma, in base a quali criteri viene classificato l'inquinamento delle acque?",
     "suggestion": "Due criteri: da dove proviene e cosa contiene.",
     "options": [
-      "In base all'origine e in funzione degli inquinanti",
-      "In base al colore e all'odore dell'acqua",
-      "In base alla temperatura e alla profondità"
+      "In base al colore e all'odore percepibili dell'acqua",
+      "In base alla temperatura e alla profondità del corpo idrico",
+      "In base all'origine e in funzione degli inquinanti presenti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il programma classifica l'inquinamento delle acque in base all'origine e in funzione degli inquinanti presenti.",
     "difficulty": "medium",
     "source": "Aneggi (1) — Introduzione.pdf"
@@ -259,9 +259,9 @@
     "question": "L'argomento sugli incidenti in impianti chimici, secondo il programma, prevede principalmente:",
     "suggestion": "Si guarda al passato per capire cause e gestione.",
     "options": [
-      "L'analisi di casi storicamente rilevanti, le cause e gli interventi di gestione ed emergenza",
-      "La progettazione di nuovi impianti di sintesi",
-      "Il calcolo economico dei danni assicurativi"
+      "L'analisi di casi storicamente rilevanti, le cause e gli interventi di emergenza",
+      "La progettazione di nuovi impianti di sintesi a ridotto impatto ambientale",
+      "Il calcolo economico dei danni assicurativi connessi agli incidenti"
     ],
     "correctIndex": 0,
     "explanation": "Il programma sugli incidenti in impianti chimici comprende l'analisi di casi storicamente rilevanti, le cause degli incidenti e gli interventi di gestione ed emergenza.",
@@ -274,9 +274,9 @@
     "question": "Quale proprietà delle sostanze NON è esplicitamente elencata tra le proprietà chimico-fisiche del programma?",
     "suggestion": "Il programma cita stati e passaggi di stato, legami, pH, solubilità...",
     "options": [
-      "Solubilità",
-      "pH",
-      "Conducibilità elettrica dei metalli"
+      "La solubilità della sostanza in acqua",
+      "Il pH e il comportamento acido-base",
+      "La conducibilità elettrica dei metalli"
     ],
     "correctIndex": 2,
     "explanation": "Tra le proprietà chimico-fisiche il programma elenca stato della materia, passaggi di stato, legami chimici, acidi e basi, pH, solubilità e bioaccumulazione; non la conducibilità dei metalli.",

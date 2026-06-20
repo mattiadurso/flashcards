@@ -145,7 +145,7 @@ Worked fill example — from the paragraph *"…la concentrazione di un contamin
 | `topic`        | Lowercase, no spaces, hyphens allowed. Must match the folder name under `docs/` and the `topic` value in `index.json`. |
 | `question`     | Italian, single sentence, ends with `?`. No "as seen above" / "in the previous question". Stand-alone. |
 | `suggestion`   | Italian, one short foldable **hint**. Nudges the student toward the answer **without revealing it** — point at the concept, mechanism, or where to look (e.g. "Pensa alla strategia alimentare da 'concentrate selector'."). NEVER name or quote the correct option, never say "la risposta è…". One sentence. Optional but encouraged on every question. The site shows it as a collapsible "💡 Suggerimento" the student can open before answering. |
-| `options`      | 2–4 plausible answers. Distractors must come from the **same domain**: other huntable species, related anatomical structures, plausible-but-wrong mechanisms. **No** "tutte le precedenti" / "nessuna delle precedenti". |
+| `options`      | 2–4 plausible answers. Distractors must come from the **same domain**: other huntable species, related anatomical structures, plausible-but-wrong mechanisms. Keep every option of **comparable length and shape** — the correct one must **not** be the unique longest or most-detailed (see §3 → *Answer-length parity & borderline distractors*). **No** "tutte le precedenti" / "nessuna delle precedenti". |
 | `correctIndex` | Integer in `[0, options.length - 1]`. |
 | `explanation`  | One short paragraph explaining **why** the answer is correct (and ideally why the others are not). Italian. |
 | `difficulty`   | Only the three strings listed. Omit when unsure. |
@@ -171,6 +171,30 @@ Guidelines:
 - Distractors should be the kind of mistake a real student would make: confuse two similar species, swap two anatomical structures, invert a cause and effect.
 - If the PDF gives a number (gestation length, weight), prefer asking *why* it differs from a related species, not the bare number.
 - 2–4 options. Three is the sweet spot — four only when you have four genuinely plausible answers.
+
+**Answer-length parity & borderline distractors — the correct option must be impossible to spot by shape alone.**
+
+The most common failure mode in this bank: the correct option is the *longest*, most-qualified, best-explained one, and the distractors are conspicuously short or obviously absurd. The student then learns one trick — *"pick the longest / most detailed answer"* — and never engages with the material. A question that can be answered without reading it is worthless. Treat this as a bug, not a style nit.
+
+Three rules, all part of writing the options:
+
+1. **Length parity.** Every option for a question must be of *comparable length and grammatical shape*. Don't pile extra clauses ("…, perché … e quindi …") onto the correct answer while the wrong ones are three words. If the correct fact genuinely needs detail, **raise the distractors to match** — give them the same specificity, the same units, the same sentence structure. Rule of thumb: keep each option within roughly **±25%** of the others' character length, and **never** let the correct answer be the single longest option.
+2. **Borderline distractors.** A good wrong answer is one a *prepared* student could almost defend: it states something true-sounding in the same domain and then gets exactly one thing wrong — a swapped cause and effect, the right mechanism applied to the wrong substance, a plausible-but-incorrect number, a sibling species' trait. Ban distractors that are absurd ("Tutti i composti si dissolvono completamente"), tautological, or self-cancelling. **The harder the `difficulty`, the tighter this must be:** a `hard` question's distractors should differ from the correct answer by a *single* defensible-looking detail, so the student has to actually know the fact to choose.
+3. **Vary the correct position.** The site renders options **in stored order — it does not shuffle them.** So if `correctIndex` is `0` (or always last) throughout a file, position itself becomes the tell. Spread the correct answer across positions within each file.
+
+Before / after (from `napl.json`):
+
+> ❌ correct is the only long, only non-absurd option — answerable without knowing anything
+> - ✅ "I composti solubili sono trasportati in soluzione dalle acque d'infiltrazione e si disperdono per dispersione idrodinamica, mentre gli immiscibili restano in fase separata"
+> - "Tutti i composti restano sempre in fase separata"
+> - "Tutti i composti si dissolvono completamente nell'acqua"
+>
+> ✅ parity + borderline — every option is a full, plausible sentence; you must know the mechanism
+> - ✅ "I composti solubili passano in soluzione e migrano per dispersione idrodinamica, mentre gli immiscibili restano in fase separata"
+> - "Gli immiscibili passano in soluzione e migrano per dispersione, mentre i solubili restano nella fase separata" *(causa/effetto invertiti)*
+> - "Entrambe le frazioni migrano in soluzione, ma gli immiscibili più lentamente per la maggiore viscosità" *(plausibile ma falso: gli immiscibili non si dissolvono)*
+
+This polish **never changes which fact is correct** — only the *shape* of the options around it. Keep the correct option's claim intact; rebalance wording and tighten the distractors so length, detail, and position stop giving the answer away. When in doubt on a `hard` question, read only the options (not the stem) and ask: *could I still pick the right one?* If yes, the distractors aren't done.
 
 **Choosing the question type.** Use `"type": "fill"` **chiefly for definitions and keywords** — when the goal is to make the student *recall* a precise term (the name of a process, a structure, a substance, a numeric value+unit) that the PDF states explicitly. Take the definitional sentence from the source and blank out the term being defined. For everything that tests *understanding* — causes, comparisons, mechanisms — keep multiple-choice, because well-chosen distractors are themselves part of the lesson. Don't turn a reasoning question into a fill just to avoid writing options, and don't blank a word that has many equally valid phrasings (matching is exact-ish, so it will frustrate the student).
 
@@ -251,6 +275,9 @@ Run through this list before adding a new batch:
 - [ ] Every `"type": "fill"` question has **as many `___` blanks as `answers` entries**, no `options`/`correctIndex`, and each blank lists its accepted spellings.
 - [ ] No "tutte le precedenti" / "nessuna delle precedenti".
 - [ ] Distractors are domain-plausible, not throwaways.
+- [ ] **No option is the unique longest:** all options for a question are of comparable length and shape, so the correct one can't be picked by length/detail alone.
+- [ ] **Distractors are *borderline* wrong** (a prepared student could almost defend them), not absurd or self-cancelling — and tightest of all on `hard` questions.
+- [ ] **`correctIndex` is spread across positions** within each file (the site does not shuffle options, so a fixed position is a tell).
 - [ ] Each `suggestion` (when present) is a real hint and does **not** reveal or name the correct option.
 - [ ] No question depends on another ("come visto sopra").
 - [ ] Every question carries a `source` pointing at the PDF and page.

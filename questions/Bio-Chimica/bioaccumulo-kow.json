@@ -5,11 +5,11 @@
     "question": "Qual è la differenza tra bioconcentrazione e bioaccumulazione (biomagnificazione)?",
     "suggestion": "Pensa a quale dei due processi coinvolge la catena alimentare.",
     "options": [
-      "La bioconcentrazione avviene dal mezzo circostante, la bioaccumulazione attraverso la catena alimentare",
       "La bioconcentrazione avviene attraverso la catena alimentare, la bioaccumulazione dal mezzo circostante",
-      "Sono sinonimi e indicano lo stesso processo"
+      "La bioconcentrazione riguarda solo i metalli, la bioaccumulazione solo i composti organici",
+      "La bioconcentrazione avviene dal mezzo circostante, la bioaccumulazione attraverso la catena alimentare"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nella bioconcentrazione gli organismi concentrano gli inquinanti direttamente dal mezzo circostante; nella bioaccumulazione (biomagnificazione) il processo avviene attraverso la catena alimentare.",
     "difficulty": "easy",
     "source": "Bioaccumulo_Kow.pptx"
@@ -31,9 +31,9 @@
     "question": "Come viene definito il fattore di bioconcentrazione (BCF)?",
     "suggestion": "È un rapporto tra due concentrazioni.",
     "options": [
-      "Rapporto tra concentrazione nel mezzo e concentrazione nell'organismo",
+      "Rapporto tra concentrazione nel mezzo e concentrazione nell'organismo che vi vive",
       "Rapporto tra concentrazione nell'organismo e concentrazione nel mezzo in cui vive",
-      "Differenza tra concentrazione nell'organismo e nel mezzo"
+      "Differenza tra concentrazione nell'organismo e concentrazione nel mezzo circostante"
     ],
     "correctIndex": 1,
     "explanation": "BCF = C_organismo / C_mezzo, cioè il rapporto tra la concentrazione all'interno dell'organismo e quella del mezzo circostante.",
@@ -46,9 +46,9 @@
     "question": "Da cosa dipende principalmente la ripartizione di un contaminante nei tessuti di un organismo acquatico?",
     "suggestion": "Si immagina l'organismo come una sfera di acqua e olio.",
     "options": [
-      "Dalla sola temperatura corporea dell'organismo",
-      "Dalla tendenza della sostanza a ripartirsi nei tessuti idrofilici o lipidici, secondo la composizione dei tessuti",
-      "Dalla dimensione complessiva dell'organismo"
+      "Dalla sola temperatura corporea dell'organismo, che governa la cinetica di diffusione interna",
+      "Dalla tendenza della sostanza a ripartirsi nei tessuti idrofilici o lipidici dell'organismo",
+      "Dalla dimensione complessiva dell'organismo, che fissa la superficie branchiale di scambio"
     ],
     "correctIndex": 1,
     "explanation": "L'organismo acquatico è immaginato come una sfera di acqua e olio: il contaminante si ripartisce secondo la sua tendenza verso i tessuti idrofilici o lipidici, in funzione della composizione dei tessuti.",
@@ -61,11 +61,11 @@
     "question": "Che cosa esprime il coefficiente di ripartizione ottanolo/acqua (Kow)?",
     "suggestion": "È legato alla polarità e all'affinità per il grasso.",
     "options": [
-      "Una misura dell'idrofobicità, correlata alla polarità della sostanza",
-      "La velocità di degradazione della sostanza in acqua",
-      "La solubilità della sostanza nei sali minerali"
+      "La velocità di degradazione abiotica della sostanza disciolta in acqua",
+      "La solubilità della sostanza nei sali minerali disciolti nel mezzo",
+      "Una misura dell'idrofobicità della sostanza, correlata alla sua polarità"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il Kow è il rapporto tra la concentrazione in n-ottanolo e quella in acqua all'equilibrio; è una misura dell'idrofobicità, correlata alla polarità della sostanza.",
     "difficulty": "easy",
     "source": "Bioaccumulo_Kow.pptx"
@@ -87,11 +87,11 @@
     "question": "In quale ambito industriale è stato sviluppato il concetto di coefficiente di ripartizione ottanolo/acqua?",
     "suggestion": "Approssima la ripartizione tra soluzione e grasso corporeo.",
     "options": [
+      "Industria petrolchimica, come indice di resa nella raffinazione dei combustibili",
       "Industria farmaceutica, come indice del comportamento di un farmaco nel corpo umano",
-      "Industria petrolchimica, per la raffinazione dei combustibili",
-      "Industria alimentare, per la conservazione dei cibi"
+      "Industria alimentare, come indice di stabilità nella conservazione dei cibi"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il concetto è stato sviluppato dall'industria farmaceutica come indice del comportamento di un farmaco nel corpo umano, perché approssima la ripartizione tra la soluzione e il grasso corporeo.",
     "difficulty": "medium",
     "source": "Bioaccumulo_Kow.pptx"
@@ -102,9 +102,9 @@
     "question": "Nei calcoli di bioconcentrazione, i pesci vengono assimilati a «scatole». Quale composizione volumetrica viene usata?",
     "suggestion": "L'acqua è la componente largamente prevalente.",
     "options": [
-      "50% H2O, 40% grasso, 5% aria, 5% costituenti vari",
+      "50% H2O, 40% grasso, 5% aria, 5% costituenti vari non reattivi",
       "85% H2O, 5% grasso, 3% aria, 7% costituenti vari non reattivi",
-      "70% grasso, 20% H2O, 5% aria, 5% costituenti vari"
+      "70% grasso, 20% H2O, 5% aria, 5% costituenti vari non reattivi"
     ],
     "correctIndex": 1,
     "explanation": "Il modello a «scatola» per i pesci usa, in volume: 85% H2O, 5% grasso, 3% aria e 7% costituenti vari non reattivi.",
@@ -117,9 +117,9 @@
     "question": "Fino a quale valore di Kow la ripartizione nei lipidi (modellata con triacilgliceridi come trioleina) è considerata un'approssimazione accettabile?",
     "suggestion": "Oltre questo valore le cinetiche diventano lente e la risposta meno definita.",
     "options": [
-      "Kow = 2",
-      "Kow = 6",
-      "Kow = 12"
+      "Fino a Kow = 2, oltre il quale la trioleina non è più affatto rappresentativa",
+      "Fino a Kow = 6, oltre il quale la risposta è meno definita per cinetiche lente",
+      "Fino a Kow = 12, oltre il quale subentra del tutto la ripartizione proteica"
     ],
     "correctIndex": 1,
     "explanation": "L'approssimazione con il grasso rappresentato da triacilgliceridi (trioleina, tricaprilina) è accettabile fino a Kow = 6; per Log Kow > 6 la risposta è meno definita a causa di cinetiche lente.",
@@ -143,11 +143,11 @@
     "question": "Cosa distingue il fattore di bioaccumulazione (BAF) dal fattore di bioconcentrazione (BCF)?",
     "suggestion": "Uno dei due include un meccanismo legato all'alimentazione.",
     "options": [
-      "Il BAF tiene conto di tutti i meccanismi di assorbimento, compresa la dieta",
-      "Il BAF considera solo l'assorbimento branchiale dal mezzo",
-      "Il BAF esclude i composti disciolti dal calcolo"
+      "Il BAF considera solo l'assorbimento branchiale diretto dal mezzo acquoso",
+      "Il BAF esclude dal calcolo i composti disciolti, ritenuti non assimilabili",
+      "Il BAF tiene conto di tutti i meccanismi di assorbimento, compresa la dieta"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A differenza del BCF, il BAF tiene conto di tutti i meccanismi di assorbimento, compresa la dieta, ed è calcolato in condizioni di equilibrio.",
     "difficulty": "medium",
     "source": "Bioaccumulo_Kow.pptx"
@@ -158,9 +158,9 @@
     "question": "Quale fenomeno descrive l'andamento O1 < O2 < O3 lungo la catena alimentare (es. metilmercurio, POPs)?",
     "suggestion": "La concentrazione aumenta salendo nei livelli trofici.",
     "options": [
-      "Bioriduzione",
-      "Biomagnificazione",
-      "Regolazione"
+      "Bioriduzione, con concentrazione decrescente nei livelli trofici",
+      "Biomagnificazione, con concentrazione crescente nei livelli trofici",
+      "Regolazione, con concentrazione costante nei livelli trofici"
     ],
     "correctIndex": 1,
     "explanation": "La biomagnificazione corrisponde a O1 < O2 < O3: la concentrazione aumenta lungo la catena alimentare (es. metilmercurio, POPs). La bioriduzione (es. Pb) ha andamento opposto.",
@@ -173,11 +173,11 @@
     "question": "Il piombo (Pb) mostra lungo la catena alimentare un andamento O1 > O2 > O3. Come si chiama questo fenomeno?",
     "suggestion": "È l'opposto della biomagnificazione.",
     "options": [
-      "Biomagnificazione",
-      "Bioriduzione",
-      "Bioconcentrazione"
+      "Biomagnificazione, con concentrazione crescente nei livelli trofici",
+      "Bioconcentrazione, con assorbimento diretto dal mezzo circostante",
+      "Bioriduzione, con concentrazione decrescente nei livelli trofici"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "La bioriduzione corrisponde a O1 > O2 > O3, con la concentrazione che diminuisce lungo la catena alimentare; il Pb ne è un esempio.",
     "difficulty": "medium",
     "source": "Bioaccumulo_Kow.pptx"
@@ -188,9 +188,9 @@
     "question": "Secondo i criteri U.S. EPA (1999, 2000), quali soglie indicano che un contaminante è bioaccumulabile?",
     "suggestion": "Riguardano semivita, BCF e log Kow.",
     "options": [
-      "Semivita > 30 giorni, BCF > 1000 o log Kow > 4.2",
-      "Semivita > 5 giorni, BCF > 10 o log Kow > 1",
-      "Semivita > 365 giorni, BCF > 100000 o log Kow > 10"
+      "Semivita > 30 giorni, BCF > 1000 oppure log Kow > 4.2",
+      "Semivita > 5 giorni, BCF > 10 oppure log Kow > 1.0",
+      "Semivita > 365 giorni, BCF > 100000 oppure log Kow > 10"
     ],
     "correctIndex": 0,
     "explanation": "Secondo U.S. EPA un contaminante è bioaccumulabile se ha semivita > 30 giorni e BCF > 1000 oppure log Kow > 4.2.",
@@ -203,9 +203,9 @@
     "question": "Perché la bioaccumulazione terrestre nelle piante è più complessa rispetto a quella acquatica?",
     "suggestion": "Conta il ruolo di cutina e lignina e l'effetto della temperatura.",
     "options": [
-      "Perché i lipidi sono l'unica componente rilevante e la temperatura è ininfluente",
-      "Perché cutina e lignina sono quantitativamente più importanti dei lipidi e c'è forte dipendenza dalla temperatura",
-      "Perché le piante non assorbono contaminanti dall'aria"
+      "Perché i lipidi sono l'unica componente rilevante e la temperatura risulta ininfluente",
+      "Perché cutina e lignina pesano più dei lipidi e c'è forte dipendenza dalla temperatura",
+      "Perché le piante assorbono i contaminanti solo dal suolo e mai dall'aria circostante"
     ],
     "correctIndex": 1,
     "explanation": "Nelle piante (alla base della catena alimentare) cutina e lignina sono quantitativamente più importanti dei lipidi e c'è una forte dipendenza dalla temperatura, rendendo il fenomeno più complesso.",
@@ -218,11 +218,11 @@
     "question": "Nella bioaccumulazione terrestre, a quale coefficiente può essere correlata la ripartizione aria-pianta?",
     "suggestion": "È analogo al Kow ma riferito alla fase aeriforme.",
     "options": [
-      "Al coefficiente di ripartizione aria/ottanolo",
-      "Al coefficiente di ripartizione suolo/acqua (Kd)",
-      "Al fattore di biomagnificazione (BMF)"
+      "Al coefficiente di ripartizione suolo/acqua (Kd), con parametri propri di ogni suolo",
+      "Al fattore di biomagnificazione (BMF), con parametri propri di ogni livello trofico",
+      "Al coefficiente di ripartizione aria/ottanolo, con parametri propri di ogni pianta"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La ripartizione aria-pianta può essere correlata al coefficiente di ripartizione aria/ottanolo, con parametri a, b differenti per piante diverse.",
     "difficulty": "hard",
     "source": "Bioaccumulo_Kow.pptx"
@@ -233,9 +233,9 @@
     "question": "Nel metodo RP-HPLC per stimare il Kow, come si comportano i soluti più idrofobici?",
     "suggestion": "La fase stazionaria C18 è non polare.",
     "options": [
-      "Esibiscono tempi di ritenzione più lunghi",
-      "Eluiscono per primi con tempi di ritenzione più brevi",
-      "Non vengono trattenuti dalla colonna"
+      "Esibiscono tempi di ritenzione più lunghi sulla fase C18 non polare",
+      "Eluiscono per primi con tempi di ritenzione più brevi sulla fase C18",
+      "Non vengono trattenuti dalla colonna ed eluiscono nel volume morto"
     ],
     "correctIndex": 0,
     "explanation": "In RP-HPLC la fase stazionaria C18 è non polare: i soluti più idrofobici si ripartiscono maggiormente in essa ed esibiscono tempi di ritenzione più lunghi.",
@@ -248,11 +248,11 @@
     "question": "Nel fenomeno di «regolazione» (es. alcuni elementi in tracce), quale relazione esiste tra le concentrazioni lungo la catena alimentare?",
     "suggestion": "Non c'è un andamento crescente né decrescente costante.",
     "options": [
-      "O1 ≠ O2 ≠ O3, senza un andamento monotono crescente o decrescente",
-      "O1 < O2 < O3, sempre crescente",
-      "O1 > O2 > O3, sempre decrescente"
+      "O1 < O2 < O3, andamento sempre crescente come nella biomagnificazione",
+      "O1 > O2 > O3, andamento sempre decrescente come nella bioriduzione",
+      "O1 ≠ O2 ≠ O3, senza un andamento monotono crescente o decrescente"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La regolazione corrisponde a O1 ≠ O2 ≠ O3 (es. alcuni elementi in tracce): non c'è un andamento monotono come nella biomagnificazione (O1<O2<O3) o nella bioriduzione (O1>O2>O3).",
     "difficulty": "medium",
     "source": "Bioaccumulo_Kow.pptx"
@@ -263,11 +263,11 @@
     "question": "Quando si verifica magnificazione secondo il fattore di biomagnificazione (BMF)?",
     "suggestion": "Confronta il BMF con il valore 1.",
     "options": [
-      "Quando BMF > 1",
-      "Quando BMF < 1",
-      "Quando BMF = 0"
+      "Quando il BMF è minore di 1",
+      "Quando il BMF è maggiore di 1",
+      "Quando il BMF è uguale a 1"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Si ha magnificazione quando il fattore di biomagnificazione BMF è maggiore di 1.",
     "difficulty": "medium",
     "source": "Bioaccumulo_Kow.pptx"
@@ -278,11 +278,11 @@
     "question": "Perché le specie in cima alla catena alimentare presentano un rischio maggiore da contaminanti bioaccumulabili?",
     "suggestion": "La concentrazione varia salendo nei livelli trofici.",
     "options": [
-      "Perché la concentrazione dei contaminanti aumenta lungo la catena alimentare",
-      "Perché metabolizzano più rapidamente i contaminanti",
-      "Perché hanno tessuti privi di lipidi"
+      "Perché metabolizzano ed eliminano più rapidamente i contaminanti ingeriti",
+      "Perché hanno tessuti privi di lipidi in cui i contaminanti non si accumulano",
+      "Perché la concentrazione dei contaminanti aumenta lungo la catena alimentare"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nella biomagnificazione la concentrazione dei contaminanti aumenta lungo la catena alimentare, perciò il rischio è maggiore per le specie al vertice.",
     "difficulty": "easy",
     "source": "Bioaccumulo_Kow.pptx"
@@ -293,11 +293,11 @@
     "question": "In un sistema ideale con fasi completamente immiscibili e soluzione diluita, come può essere approssimato il Kow?",
     "suggestion": "È un rapporto tra solubilità nelle due fasi.",
     "options": [
-      "Come rapporto tra la solubilità della sostanza in ottanolo (So) e quella in acqua (Sw)",
-      "Come prodotto della solubilità in ottanolo per quella in acqua",
-      "Come differenza tra il punto di fusione e la solubilità in acqua"
+      "Come prodotto tra la solubilità in ottanolo (So) e quella in acqua (Sw)",
+      "Come differenza tra la solubilità in ottanolo (So) e quella in acqua (Sw)",
+      "Come rapporto tra la solubilità in ottanolo (So) e quella in acqua (Sw)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "In un sistema ideale (fasi immiscibili, soluzione diluita) Kow ≈ So/Sw, rapporto tra la solubilità in n-ottanolo e quella in acqua (entrambe in mol/L).",
     "difficulty": "hard",
     "source": "Bioaccumulo_Kow.pptx"
@@ -308,9 +308,9 @@
     "question": "Nelle cinetiche di bioaccumulazione, quale processo è descritto come «pseudo-eliminazione»?",
     "suggestion": "È legato alla diluizione del contaminante per aumento di biomassa.",
     "options": [
-      "La crescita dell'organismo",
-      "L'assorbimento branchiale dalla soluzione",
-      "L'assunzione del contaminante con la dieta"
+      "La crescita dell'organismo, che diluisce il contaminante aumentando la biomassa",
+      "L'assorbimento branchiale dalla soluzione, che introduce il contaminante disciolto",
+      "L'assunzione del contaminante con la dieta, che lo introduce attraverso il cibo"
     ],
     "correctIndex": 0,
     "explanation": "La bioaccumulazione è un equilibrio dinamico tra ingestione, trasporto, stoccaggio, trasformazioni metaboliche ed escrezione; la crescita (kG) agisce come «pseudo-eliminazione» diluendo il contaminante.",
@@ -356,9 +356,9 @@
     "question": "Nel modello a «scatola» del pesce, da quale frazione di tessuto dipende soprattutto l'accumulo di un contaminante fortemente idrofobico come il toluene?",
     "suggestion": "Il termine con Kow nel calcolo riguarda una specifica fase.",
     "options": [
-      "Dal grasso, attraverso il termine Cw·Kow·0.05·Vpesce",
-      "Dall'aria, attraverso il termine Cw·KH·0.03·Vpesce",
-      "Dall'acqua, attraverso il termine Cw·0.85·Vpesce"
+      "Dal grasso, attraverso il termine Cw·Kow·0.05·Vpesce con Kow elevato",
+      "Dall'aria, attraverso il termine Cw·KH·0.03·Vpesce con KH elevato",
+      "Dall'acqua, attraverso il termine Cw·0.85·Vpesce per la fase prevalente"
     ],
     "correctIndex": 0,
     "explanation": "Nel calcolo della ripartizione (es. toluene) il contributo del grasso è Cw·Kow·0.05·Vpesce: per sostanze idrofobiche (Kow alto) domina la frazione lipidica, pur essendo solo il 5% in volume.",

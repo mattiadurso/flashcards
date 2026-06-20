@@ -5,12 +5,12 @@
     "question": "Da quale prodotto di partenza vengono ricavati i PCB attraverso l'estrazione del benzene?",
     "suggestion": "Sono fonti fossili.",
     "options": [
-      "Dal carbone e dal metano",
+      "Dal carbone e dal gas naturale",
+      "Dalla biomassa vegetale e dal legno",
       "Dal petrolio e dal catrame",
-      "Dalla biomassa vegetale",
-      "Dal gas naturale liquefatto"
+      "Dal metano e dal gas liquefatto"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "I PCB vengono ricavati a partire dal petrolio e dal catrame, dai quali si estrae il benzene, poi trasformato in bifenile e quindi clorurato.",
     "difficulty": "easy",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -21,10 +21,10 @@
     "question": "Perché commercialmente i PCB con più di 4 atomi di cloro erano apprezzati riguardo al comportamento al fuoco?",
     "suggestion": "Pensa a sicurezza e impieghi elettrici.",
     "options": [
-      "Bruciano facilmente liberando energia",
-      "Sono difficili da bruciare",
-      "Esplodono a contatto con l'aria",
-      "Si decompongono già a 100 °C"
+      "Bruciano facilmente liberando molta energia",
+      "Sono molto difficili da bruciare",
+      "Si infiammano spontaneamente a contatto con l'aria",
+      "Si decompongono già a basse temperature"
     ],
     "correctIndex": 1,
     "explanation": "I PCB non sono infiammabili: quando la molecola contiene più di 4 atomi di cloro sono difficili da bruciare, qualità utile per gli impieghi elettrici.",
@@ -37,12 +37,12 @@
     "question": "Quanti congeneri dei PCB esistono in base alla posizione e al numero degli atomi di cloro?",
     "suggestion": "Un numero superiore a 200.",
     "options": [
-      "75",
-      "135",
       "209",
+      "135",
+      "75",
       "210"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Variando numero e posizione degli atomi di cloro sul bifenile si ottengono 209 congeneri dei PCB.",
     "difficulty": "easy",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -53,12 +53,12 @@
     "question": "Quale catalizzatore viene usato nella clorurazione del difenile a policlorobifenile?",
     "suggestion": "È un cloruro metallico.",
     "options": [
+      "Cloruro di alluminio anidro (AlCl3)",
       "Cloruro ferrico (FeCl3)",
-      "Catalizzatore a base di piombo",
       "Idrossido di sodio (NaOH)",
-      "Cloruro di alluminio anidro"
+      "Tetracloruro di titanio (TiCl4)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I difenili reagiscono con Cl2 in presenza di cloruro ferrico (FeCl3) come catalizzatore; il piombo invece è usato nella formazione del difenile dal benzene a 750 °C.",
     "difficulty": "medium",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -69,12 +69,12 @@
     "question": "Rispetto alla solubilità, come si comportano i PCB?",
     "suggestion": "Si pensi alla loro affinità per i grassi.",
     "options": [
-      "Solubili in acqua e insolubili nei grassi",
-      "Insolubili in acqua e solubili in mezzi idrofobi come grassi e oli",
-      "Solubili sia in acqua sia nei grassi",
-      "Insolubili in qualunque solvente"
+      "Solubili in acqua e insolubili nei grassi e negli oli",
+      "Solubili in acqua e parzialmente solubili nei grassi",
+      "Insolubili in acqua e solubili nei grassi e negli oli",
+      "Insolubili in acqua e insolubili nei grassi e negli oli"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Tutti i PCB sono insolubili in acqua e solubili in mezzi idrofobi come le sostanze grasse e oleose; questo favorisce il loro bioaccumulo nei tessuti adiposi.",
     "difficulty": "easy",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -117,12 +117,12 @@
     "question": "Durante quale sintesi industriale si forma la diossina come reazione collaterale indesiderata?",
     "suggestion": "Parte dal tetraclorobenzene e dal triclorofenolo.",
     "options": [
+      "Sintesi degli alchilbenzensolfonati tensioattivi",
+      "Sintesi del bifenile per clorurazione catalitica",
       "Sintesi dell'acido 2,4,5-triclorofenossiacetico",
-      "Sintesi del bifenile",
-      "Sintesi del benzene dal petrolio",
-      "Sintesi degli alchilbenzensolfonati"
+      "Sintesi del benzene per cracking del petrolio"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nella sintesi dell'acido 2,4,5-triclorofenossiacetico, due anioni triclorofenossilici reagiscono tra loro eliminando due ioni cloruro e formando l'anello centrale della diossina.",
     "difficulty": "hard",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -135,8 +135,8 @@
     "options": [
       "Aumenta la solubilità in acqua e diminuisce la lipofilicità",
       "Diminuisce la solubilità in acqua e aumenta la lipofilicità",
-      "Entrambe aumentano",
-      "Entrambe restano invariate"
+      "Aumentano sia la solubilità in acqua sia la lipofilicità",
+      "Diminuiscono sia la solubilità in acqua sia la lipofilicità"
     ],
     "correctIndex": 1,
     "explanation": "A un maggior numero di atomi di cloro corrispondono una minore solubilità in acqua e un più alto grado di lipofilicità, con maggiore persistenza e bioaccumulo.",
@@ -149,10 +149,10 @@
     "question": "Più del 90% dell'esposizione umana alle diossine è dovuto a quale via?",
     "suggestion": "Coinvolge carne, pesce e latticini.",
     "options": [
-      "Inalazione di polveri",
-      "Contatto cutaneo",
-      "Alimenti ingeriti",
-      "Acqua potabile"
+      "Inalazione di polveri sottili atmosferiche",
+      "Assorbimento per contatto cutaneo diretto",
+      "Ingestione di alimenti contaminati",
+      "Consumo di acqua potabile non depurata"
     ],
     "correctIndex": 2,
     "explanation": "Oltre il 90% dell'esposizione umana alla diossina è attribuibile agli alimenti ingeriti, in particolare carne, pesce e latticini.",
@@ -200,7 +200,7 @@
       "Monoossigenasi",
       "Diossigenasi",
       "Esterasi",
-      "Sulfatasi"
+      "Perossidasi"
     ],
     "correctIndex": 1,
     "explanation": "Le diossigenasi catalizzano l'incorporazione di due atomi di ossigeno nel substrato; richiedono due atomi di carbonio adiacenti non sostituiti sull'anello aromatico.",
@@ -213,10 +213,10 @@
     "question": "Perché la 2,3,7,8-TCDD è particolarmente resistente alla biotrasformazione batterica?",
     "suggestion": "Dipende dalla posizione dei sostituenti sull'anello.",
     "options": [
-      "Non possiede due atomi di carbonio adiacenti non sostituiti",
-      "È priva di atomi di cloro",
-      "È molto solubile in acqua",
-      "Contiene un solo anello aromatico"
+      "Manca di carboni adiacenti non sostituiti",
+      "È priva di atomi di cloro sull'anello aromatico",
+      "È molto solubile in acqua e poco lipofila",
+      "Possiede un solo anello aromatico facilmente apribile"
     ],
     "correctIndex": 0,
     "explanation": "La 2,3,7,8-TCDD non presenta due atomi di carbonio adiacenti non sostituiti, requisito per l'azione delle diossigenasi; la sua tossicità è quindi dovuta al composto non metabolizzato.",
@@ -229,10 +229,10 @@
     "question": "Quale fu la conclusione tossicologica dei due incidenti del Giappone (1968) e di Taiwan (1979) con olio contaminato?",
     "suggestion": "I PCB erano stati scaldati, generando un altro composto.",
     "options": [
-      "I PCB puri erano gli unici responsabili",
-      "I PCDF erano i principali agenti tossici, responsabili di circa il 75% degli effetti",
-      "La diossina 2,3,7,8-TCDD causò gli avvelenamenti",
-      "Gli effetti furono dovuti solo agli additivi dell'olio"
+      "I PCB puri furono gli unici agenti tossici responsabili",
+      "I PCDF furono i principali agenti, con circa il 75% degli effetti",
+      "La diossina 2,3,7,8-TCDD fu la principale responsabile degli effetti",
+      "Gli additivi antiossidanti dell'olio furono i veri responsabili"
     ],
     "correctIndex": 1,
     "explanation": "Si concluse che i principali agenti tossici erano i PCDF, responsabili di circa il 75% degli effetti; il riscaldamento dei PCB ne aveva aumentato il contenuto di PCDF.",
@@ -245,10 +245,10 @@
     "question": "Qual è attualmente l'unico sistema valido per distruggere grandi quantità di PCB?",
     "suggestion": "Richiede temperature attorno ai 1200 °C in presenza di ossigeno.",
     "options": [
-      "Sepoltura in discarica controllata",
-      "Decomposizione enzimatica anaerobica",
+      "Confinamento permanente in discarica controllata sigillata",
+      "Decomposizione enzimatica in reattori anaerobici dedicati",
       "Incenerimento ad altissima temperatura in presenza di ossigeno",
-      "Fotodegradazione solare"
+      "Fotodegradazione tramite esposizione prolungata alla luce solare"
     ],
     "correctIndex": 2,
     "explanation": "L'unico sistema valido è l'incenerimento a temperature molto elevate (1200 °C) con ossigeno, che produce CO2, HCl, H2O e poco Cl2 e distrugge i dibenzofurani intermedi.",
@@ -263,7 +263,7 @@
     "options": [
       "75 congeneri di PCDD e 135 congeneri di PCDF",
       "135 congeneri di PCDD e 75 congeneri di PCDF",
-      "209 congeneri di PCDD e 1 di PCDF"
+      "209 congeneri di PCDD e 1 congenere di PCDF"
     ],
     "correctIndex": 0,
     "explanation": "In base al numero e alla posizione degli atomi di cloro si distinguono 75 congeneri di PCDD e 135 congeneri di PCDF.",
@@ -276,11 +276,11 @@
     "question": "Qual è la differenza strutturale tra le PCDF (dibenzofurani) e le PCDD (diossine)?",
     "suggestion": "Riguarda l'anello centrale e gli atomi di ossigeno.",
     "options": [
-      "I PCDF differiscono dalle diossine per la perdita di un ossigeno nell'anello centrale",
-      "I PCDF hanno due atomi di ossigeno in più rispetto alle diossine",
-      "I PCDF non contengono atomi di cloro"
+      "I PCDF hanno due atomi di ossigeno in più nell'anello centrale",
+      "I PCDF differiscono per la perdita di un ossigeno nell'anello",
+      "I PCDF differiscono per l'assenza di atomi di cloro sugli anelli"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I PCDF hanno struttura simile a quella delle diossine, dalle quali differiscono per la perdita di un ossigeno nell'anello centrale.",
     "difficulty": "medium",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -292,8 +292,8 @@
     "suggestion": "Il Giappone fu il primo, nel 1972; l'Italia l'ultima tra questi.",
     "options": [
       "Giappone nel 1972, Stati Uniti dal 1977 e Italia nel 1983",
-      "Italia nel 1972, Giappone nel 1977 e Stati Uniti nel 1983",
-      "Stati Uniti nel 1966, Italia nel 1972 e Giappone nel 1983"
+      "Italia nel 1972, Giappone dal 1977 e Stati Uniti nel 1983",
+      "Stati Uniti nel 1966, Italia dal 1972 e Giappone nel 1983"
     ],
     "correctIndex": 0,
     "explanation": "La produzione di PCB fu vietata in Giappone nel 1972, negli Stati Uniti a partire dal 1977 e in Italia nel 1983.",
@@ -306,11 +306,11 @@
     "question": "Come si comporta la reattività dei PCB all'aumentare del grado di clorurazione?",
     "suggestion": "Insieme alla reattività variano anche solubilità e infiammabilità.",
     "options": [
-      "Solubilità, infiammabilità e reattività tendono a diminuire",
       "Solubilità, infiammabilità e reattività tendono ad aumentare",
-      "Solo la solubilità aumenta, mentre reattività e infiammabilità restano costanti"
+      "Solubilità, infiammabilità e reattività tendono a diminuire",
+      "La solubilità aumenta mentre reattività e infiammabilità restano costanti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "All'aumentare della clorazione dei PCB la solubilità, l'infiammabilità e la reattività tendono a diminuire.",
     "difficulty": "medium",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -321,11 +321,11 @@
     "question": "Qual è la reazione cutanea più frequente dovuta all'esposizione ai PCB?",
     "suggestion": "È una risposta a molti composti organoclorurati.",
     "options": [
-      "La cloracne, un'eruzione cutanea acneiforme persistente e dolorosa",
-      "Un'ustione chimica immediata",
-      "Una semplice irritazione transitoria che scompare in poche ore"
+      "Un'ustione chimica immediata con necrosi del tessuto esposto",
+      "Un'irritazione transitoria che scompare in poche ore senza segni",
+      "La cloracne, un'eruzione acneiforme persistente e dolorosa"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La reazione più frequente dovuta all'esposizione a PCB è la cloracne, un'eruzione cutanea acneiforme persistente, deturpante e dolorosa, risposta biologica a molti composti organoclorurati.",
     "difficulty": "medium",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -336,11 +336,11 @@
     "question": "Nei corpi acquosi, perché PCB e diossine tendono ad essere assorbiti nei sedimenti vicino agli scarichi?",
     "suggestion": "Dipende da quanto sono solubili in acqua e dal loro Kow.",
     "options": [
-      "Per la bassa solubilità in acqua e l'elevato valore di Kow",
       "Per l'elevata solubilità in acqua e il basso valore di Kow",
-      "Perché reagiscono rapidamente per idrolisi con l'acqua"
+      "Per la rapida idrolisi del legame C−Cl a contatto con l'acqua",
+      "Per la bassa solubilità in acqua e l'elevato valore di Kow"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A causa della bassa solubilità in acqua e dell'elevato valore di Kow, PCB e diossine tendono ad essere assorbiti nei sedimenti vicino agli scarichi; il congenere prevalente nei sedimenti è l'octaclorodibenzo[1,4]diossina.",
     "difficulty": "hard",
     "source": "Aneggi (6) — PCB e diossine.pdf"
@@ -352,8 +352,8 @@
     "suggestion": "Comporta la sostituzione del cloro con idrogeno.",
     "options": [
       "Dealogenazione riduttiva, con sostituzione del cloro con H",
-      "Fotoossidazione catalizzata dalla luce UV",
-      "Idrolisi del legame C−Cl"
+      "Fotoossidazione del legame C−Cl catalizzata dalla luce UV",
+      "Idrolisi del legame C−Cl con liberazione di acido cloridrico"
     ],
     "correctIndex": 0,
     "explanation": "In condizioni anaerobiche i batteri degradano i PCB tramite dealogenazione riduttiva (sostituzione del cloro con H), ad esempio trasformando l'esaclorobifenile in pentaclorobifenile, più suscettibile a biotrasformazioni aerobiche.",

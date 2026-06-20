@@ -5,11 +5,11 @@
     "question": "Perché l'acqua è considerata un composto polare?",
     "suggestion": "Pensa alla distribuzione delle cariche legata agli atomi e alla forma della molecola.",
     "options": [
-      "Per la differente elettronegatività tra ossigeno e idrogeno unita alla geometria della molecola",
-      "Perché contiene tre atomi disposti in linea retta",
-      "Perché l'ossigeno e l'idrogeno hanno la stessa elettronegatività"
+      "Perché ossigeno e idrogeno hanno la stessa elettronegatività e si dispongono in linea retta",
+      "Per la differente elettronegatività tra ossigeno e idrogeno unita alla geometria piegata della molecola",
+      "Perché i legami O-H sono perfettamente apolari ma la molecola è asimmetrica"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "L'acqua è polare per la differente elettronegatività tra ossigeno e idrogeno, insieme alla geometria della molecola.",
     "difficulty": "easy",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -20,11 +20,11 @@
     "question": "In quale fase del ciclo idrologico l'acqua è pura, prima di iniziare ad accumulare impurità?",
     "suggestion": "È lo stato in cui l'acqua si trova in atmosfera prima della pioggia.",
     "options": [
-      "In fase vapore",
-      "Durante la condensazione",
-      "Quando percola nel suolo come acqua di falda"
+      "Quando percola nel suolo e diventa acqua di falda profonda",
+      "Durante la condensazione delle gocce nelle nubi",
+      "Quando si trova in atmosfera allo stato di vapore"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "L'acqua in fase vapore è pura; le impurità iniziano ad accumularsi durante la fase di condensazione.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -35,11 +35,11 @@
     "question": "L'aumento dell'utilizzo di combustibili fossili immette in atmosfera SO2 e NOx che, disciolti in acqua, danno origine a quale fenomeno?",
     "suggestion": "È un fenomeno legato all'acidità delle precipitazioni.",
     "options": [
-      "Le piogge acide",
-      "L'eutrofizzazione",
-      "L'inquinamento termico"
+      "L'eutrofizzazione dei corpi idrici per eccesso di nutrienti",
+      "Le piogge acide per formazione di acidi solforico e nitrico",
+      "L'inquinamento termico per rilascio di calore nelle acque"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "SO2 e NOx disciolti in acqua danno origine alle piogge acide.",
     "difficulty": "easy",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -50,11 +50,11 @@
     "question": "Perché la capacità di autodepurazione si riduce drasticamente nelle acque sotterranee rispetto a quelle superficiali?",
     "suggestion": "Considera la velocità dei flussi e la disponibilità di un gas fondamentale.",
     "options": [
-      "Per la lentezza dei flussi e la limitata o assente disponibilità di ossigeno",
-      "Perché l'acqua di falda contiene troppi batteri decompositori",
-      "Perché le acque sotterranee sono esposte a maggiore turbolenza"
+      "Perché i flussi rapidi e turbolenti dilavano via i batteri decompositori prima dell'azione",
+      "Perché l'eccesso di batteri decompositori consuma rapidamente tutto l'ossigeno disponibile",
+      "Perché i flussi lenti e la limitata o assente disponibilità di ossigeno rallentano la demolizione"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La lentezza dei flussi e la scarsa disponibilità di ossigeno fanno permanere a lungo le sostanze nocive; il ridotto numero di batteri decompositori rallenta la demolizione delle sostanze biodegradabili.",
     "difficulty": "hard",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -65,11 +65,11 @@
     "question": "Tra i meccanismi di autodepurazione delle acque, quale dei seguenti è un meccanismo chimico?",
     "suggestion": "Distingui i processi fisici (diluizione, sedimentazione) da quelli che comportano trasformazioni di legami.",
     "options": [
-      "La precipitazione",
-      "La sedimentazione",
-      "L'adsorbimento"
+      "La sedimentazione delle particelle sospese per gravità",
+      "L'adsorbimento delle sostanze sulla superficie dei solidi",
+      "La precipitazione per reazione acido-base o redox"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "I meccanismi chimici includono reazioni acido-base, redox, complessazione e precipitazione; sedimentazione e adsorbimento sono invece fisici.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -81,8 +81,8 @@
     "suggestion": "L'attività tossica dei metalli pesanti dipende dalla loro forma chimica.",
     "options": [
       "Perché esplica un'attività tossica più specifica del cromo trivalente, in funzione della speciazione",
-      "Perché è facilmente biodegradabile a differenza degli altri metalli",
-      "Perché non si bioaccumula lungo la catena alimentare"
+      "Perché è facilmente biodegradabile dai batteri a differenza degli altri metalli pesanti",
+      "Perché, a differenza degli altri metalli, non si bioaccumula lungo la catena alimentare"
     ],
     "correctIndex": 0,
     "explanation": "I metalli pesanti esplicano attività tossica in funzione della speciazione: il cromo esavalente è più tossico del trivalente. Inoltre non sono biodegradabili e sono bioaccumulabili.",
@@ -95,11 +95,11 @@
     "question": "L'inquinamento da composti dell'azoto e del fosforo è classificato tra le sostanze inorganiche indesiderabili in quantità elevate per quale effetto principale?",
     "suggestion": "Riguarda l'arricchimento di nutrienti nei corpi idrici.",
     "options": [
-      "L'effetto eutrofizzante",
-      "L'effetto corrosivo sulle tubazioni",
-      "L'effetto di bioaccumulo dei metalli pesanti"
+      "L'effetto corrosivo sulle tubazioni metalliche degli impianti",
+      "L'effetto eutrofizzante per arricchimento di nutrienti nelle acque",
+      "L'effetto di bioaccumulo lungo la catena alimentare"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I composti dell'azoto e del fosforo sono sostanze eutrofizzanti che possono derivare da degradazione di sostanze organiche, lavorazioni chimiche e fertilizzanti minerali.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -110,11 +110,11 @@
     "question": "Perché un aumento di temperatura nelle acque (inquinamento termico) peggiora le condizioni per la vita acquatica?",
     "suggestion": "Considera due effetti opposti su disponibilità e domanda di un gas.",
     "options": [
-      "Riduce la solubilità dell'ossigeno e aumenta la richiesta di ossigeno per l'attività biologica",
-      "Aumenta la solubilità dell'ossigeno ma blocca la nitrificazione",
-      "Riduce sia la solubilità sia la richiesta di ossigeno"
+      "Aumenta la solubilità dell'ossigeno ma blocca i processi di nitrificazione batterica",
+      "Riduce sia la solubilità dell'ossigeno sia la richiesta di ossigeno dell'attività biologica",
+      "Riduce la solubilità dell'ossigeno e aumenta la richiesta di ossigeno dell'attività biologica"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Un aumento di temperatura riduce la solubilità in acqua dell'ossigeno e aumenta la richiesta di ossigeno per l'attività biologica dei sistemi di ossidazione.",
     "difficulty": "hard",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -127,7 +127,7 @@
     "options": [
       "La quantità di ossigeno necessaria a ossidare biologicamente la sostanza organica biodegradabile",
       "La quantità di ossigeno necessaria a ossidare chimicamente ogni sostanza con un ossidante forte",
-      "La concentrazione totale di metalli pesanti nel campione"
+      "La quantità totale di metalli pesanti e sali inorganici disciolti nel campione idrico"
     ],
     "correctIndex": 0,
     "explanation": "Il BOD esprime la quantità di ossigeno richiesta dai microrganismi aerobici per assimilare e degradare la sostanza organica biodegradabile presente nel campione, in mg/l di O2.",
@@ -140,11 +140,11 @@
     "question": "Perché il COD risulta in generale maggiore del BOD?",
     "suggestion": "Pensa a quali frazioni di sostanza ciascun parametro riesce a misurare.",
     "options": [
-      "Perché il COD misura sia la sostanza organica biodegradabile sia quella non biodegradabile",
-      "Perché il COD misura solo la frazione azotata della sostanza organica",
-      "Perché il BOD include anche le sostanze inorganiche non ossidabili"
+      "Perché il COD misura solo la frazione azotata ossidabile della sostanza organica",
+      "Perché il BOD include anche le sostanze inorganiche non ossidabili dai batteri",
+      "Perché il COD misura sia la sostanza organica biodegradabile sia quella non biodegradabile"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il COD misura sia la sostanza organica biodegradabile sia quella non biodegradabile, quindi è in generale maggiore del BOD.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -156,8 +156,8 @@
     "suggestion": "Segna l'inizio di un secondo processo legato alla frazione azotata.",
     "options": [
       "L'innesto della nitrificazione sull'ossidazione della frazione carboniosa",
-      "L'inizio della precipitazione dei metalli pesanti",
-      "Il completo esaurimento della sostanza organica biodegradabile"
+      "L'inizio della precipitazione chimica dei metalli pesanti disciolti",
+      "Il completo esaurimento della sostanza organica biodegradabile residua"
     ],
     "correctIndex": 0,
     "explanation": "La gobba indica che, da un certo istante, sull'ossidazione biologica della frazione carboniosa si innesta il fenomeno della nitrificazione (ossidazione della frazione azotata).",
@@ -213,8 +213,8 @@
     "topic": "bio-chimica",
     "question": "Tra i parametri che caratterizzano le acque reflue, in quale categoria rientra la torbidità?",
     "suggestion": "Si distinguono parametri chimici, fisici e microbiologici.",
-    "options": ["Tra le caratteristiche fisiche", "Tra le caratteristiche chimiche", "Tra le caratteristiche microbiologiche", "Tra i parametri organici derivati"],
-    "correctIndex": 0,
+    "options": ["Tra le caratteristiche chimiche, con pH e durezza", "Tra le caratteristiche fisiche, con colore e temperatura", "Tra le caratteristiche microbiologiche, con la carica batterica", "Tra i parametri organici derivati, con BOD e COD"],
+    "correctIndex": 1,
     "explanation": "La torbidità è una caratteristica fisica, insieme a temperatura, colore, odore, solidi e conducibilità elettrica; le acque si caratterizzano per parametri chimici, fisici e microbiologici.",
     "difficulty": "easy",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -224,8 +224,8 @@
     "topic": "bio-chimica",
     "question": "Quale fenomeno descrive la curva di Streeter-Phelps (curva Sag)?",
     "suggestion": "Confronta l'ossigeno disciolto con il suo valore di saturazione.",
-    "options": ["La deossigenazione, confrontando l'ossigeno disciolto con il valore di saturazione", "L'andamento del pH lungo il corso d'acqua", "La nitrificazione della frazione azotata", "La precipitazione dei metalli pesanti"],
-    "correctIndex": 0,
+    "options": ["L'andamento del pH del recettore lungo il corso d'acqua a valle dello scarico", "La cinetica di nitrificazione della frazione azotata nel tempo di incubazione", "La deossigenazione, confrontando l'ossigeno disciolto con il valore di saturazione", "La precipitazione progressiva dei metalli pesanti lungo il corso d'acqua"],
+    "correctIndex": 2,
     "explanation": "La curva di Streeter-Phelps (curva Sag) descrive la deossigenazione, confrontando il contenuto di ossigeno disciolto con il valore di saturazione, la massima concentrazione di ossigeno per date condizioni di temperatura, pressione e salinità.",
     "difficulty": "hard",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -235,7 +235,7 @@
     "topic": "bio-chimica",
     "question": "Perché un valore basso di ossigeno disciolto in un corso d'acqua è significativo?",
     "suggestion": "È un indicatore della condizione del corpo idrico.",
-    "options": ["È normalmente associato a situazioni di inquinamento accertato o incipiente", "Indica un'acqua perfettamente pulita", "Segnala un eccesso di metalli pesanti", "Indica solo un aumento di salinità"],
+    "options": ["È normalmente associato a situazioni di inquinamento accertato o incipiente", "Indica un'acqua perfettamente pulita e ben ossigenata in superficie", "Segnala in modo specifico un eccesso di metalli pesanti disciolti", "Indica unicamente un aumento della salinità del corpo idrico"],
     "correctIndex": 0,
     "explanation": "Bassi valori di ossigeno disciolto sono normalmente associati a situazioni di inquinamento accertato o incipiente; il parametro è fondamentale per valutare la qualità delle acque superficiali.",
     "difficulty": "medium",
@@ -246,8 +246,8 @@
     "topic": "bio-chimica",
     "question": "Perché le sostanze organiche naturali, pur essendo facilmente biodegradabili, sono problematiche nei corpi idrici?",
     "suggestion": "Pensa a cosa richiede la loro degradazione biologica.",
-    "options": ["Richiedono elevate quantità di ossigeno per la degradazione, consumando l'ossigeno disciolto", "Sono tossiche e non biodegradabili", "Aumentano la salinità dell'acqua", "Modificano direttamente il pH"],
-    "correctIndex": 0,
+    "options": ["Sono tossiche e del tutto resistenti alla degradazione batterica", "Aumentano la salinità dell'acqua sottraendo ossigeno disciolto", "Richiedono elevate quantità di ossigeno per la degradazione, consumando quello disciolto", "Modificano direttamente il pH rendendo l'acqua fortemente acida"],
+    "correctIndex": 2,
     "explanation": "Le sostanze organiche naturali sono facilmente biodegradabili ma richiedono elevate quantità di ossigeno; la loro presenza determina il consumo di ossigeno disciolto per i processi di ossidazione biologica, fino a possibili condizioni anaerobiche.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -257,8 +257,8 @@
     "topic": "bio-chimica",
     "question": "Per quale motivo il rapporto COD/BOD5 è importante nella gestione dei reflui?",
     "suggestion": "Riguarda la possibilità di depurare biologicamente il refluo.",
-    "options": ["È considerato rappresentativo della trattabilità biologica dei reflui", "Misura la concentrazione di metalli pesanti", "Indica la temperatura ottimale del refluo", "Esprime la salinità del refluo"],
-    "correctIndex": 0,
+    "options": ["Misura la concentrazione totale dei metalli pesanti presenti nel refluo", "È considerato rappresentativo della trattabilità biologica dei reflui", "Indica la temperatura ottimale di esercizio dell'impianto di depurazione", "Esprime il grado di salinità e di conducibilità elettrica del refluo"],
+    "correctIndex": 1,
     "explanation": "Il rapporto COD/BOD5 è rappresentativo della trattabilità biologica: vicino a 1 indica elevata trattabilità, tra 1,8 e 2,4 richiede microrganismi selezionati, oltre 4-5 i reflui non sono trattabili biologicamente.",
     "difficulty": "hard",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -268,8 +268,8 @@
     "topic": "bio-chimica",
     "question": "Perché ai metalli pesanti come sostanze inorganiche tossiche è dedicato un trattamento specifico delle acque?",
     "suggestion": "Considera la loro persistenza e accumulo.",
-    "options": ["Non sono biodegradabili e sono bioaccumulabili, concentrandosi lungo la catena alimentare", "Sono facilmente degradati dai batteri", "Evaporano rapidamente dall'acqua", "Si neutralizzano da soli col tempo"],
-    "correctIndex": 0,
+    "options": ["Sono rapidamente degradati dai batteri decompositori in forme innocue", "Evaporano velocemente dall'acqua riducendo da soli la concentrazione", "Non sono biodegradabili e si bioaccumulano lungo la catena alimentare", "Si neutralizzano spontaneamente col tempo per reazioni acido-base"],
+    "correctIndex": 2,
     "explanation": "I metalli pesanti esplicano tossicità in funzione della speciazione, non sono biodegradabili e sono bioaccumulabili (si concentrano lungo la catena alimentare): per questo è necessario un trattamento specifico delle acque.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -279,7 +279,7 @@
     "topic": "bio-chimica",
     "question": "A quali concentrazioni i tensioattivi producono già sapori sgradevoli nell'acqua?",
     "suggestion": "Si tratta di una soglia molto bassa, frazioni di ppm.",
-    "options": ["A basse concentrazioni, intorno a 0,2 ppm", "Solo a concentrazioni superiori a 100 ppm", "A concentrazioni di circa 50 mg/l", "Solo se superano l'1%"],
+    "options": ["A basse concentrazioni, intorno a 0,2 ppm", "Solo a concentrazioni superiori a 100 ppm", "A concentrazioni di circa 50 mg/l", "Soltanto se superano l'1% in massa"],
     "correctIndex": 0,
     "explanation": "I tensioattivi creano difficoltà alla sedimentazione e agli scambi gassosi e producono problemi organolettici già a basse concentrazioni (0,2 ppm), generando sapori sgradevoli.",
     "difficulty": "medium",
@@ -290,8 +290,8 @@
     "topic": "bio-chimica",
     "question": "Perché acidi e basi forti scaricati in un corpo idrico sono pericolosi anche oltre l'alterazione del pH?",
     "suggestion": "Considera gli effetti su processi e altri contaminanti.",
-    "options": ["Possono bloccare i processi depurativi, provocare corrosioni e favorire la tossicità di altri contaminanti", "Aumentano solo la temperatura dell'acqua", "Eliminano i metalli pesanti dalla soluzione", "Favoriscono la riossigenazione naturale"],
-    "correctIndex": 0,
+    "options": ["Aumentano in modo rilevante la temperatura dell'acqua del recettore", "Eliminano i metalli pesanti facendoli precipitare dalla soluzione", "Bloccano i processi depurativi, provocano corrosioni e favoriscono altre tossicità", "Favoriscono la riossigenazione naturale del corpo idrico ricevente"],
+    "correctIndex": 2,
     "explanation": "Acidi e basi forti alterano il pH del recettore e possono bloccare i processi depurativi, provocare corrosioni e favorire la tossicità di altri contaminanti.",
     "difficulty": "medium",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -301,8 +301,8 @@
     "topic": "bio-chimica",
     "question": "Perché nella misura del COD i cloruri costituiscono un'interferenza e come si elimina?",
     "suggestion": "I cloruri reagiscono con l'ossidante; serve un sale che li blocchi.",
-    "options": ["Vengono ossidati dal dicromato e si bloccano aggiungendo solfato di mercurio (II)", "Precipitano il dicromato e si rimuovono con acido solforico", "Consumano l'argento e si bloccano con la ferroina", "Riducono il ferro e si eliminano con il calore"],
-    "correctIndex": 0,
+    "options": ["Precipitano il dicromato e si rimuovono acidificando con acido solforico", "Vengono ossidati dal dicromato e si bloccano aggiungendo solfato di mercurio (II)", "Consumano l'argento del catalizzatore e si bloccano con la ferroina", "Riducono il ferro dell'indicatore e si eliminano riscaldando a caldo"],
+    "correctIndex": 1,
     "explanation": "I cloruri vengono ossidati dal dicromato falsando il COD; per evitarlo si addiziona solfato di mercurio (II), che li blocca formando HgCl2.",
     "difficulty": "hard",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
@@ -312,7 +312,7 @@
     "topic": "bio-chimica",
     "question": "Da cosa deriva l'acido umico presente nella maggior parte delle acque superficiali?",
     "suggestion": "È un composto naturale ad elevata massa molecolare.",
-    "options": ["Dalla decomposizione di materiale vegetale", "Dalla combustione dei fossili", "Dagli scarichi di metalli pesanti", "Dalla nitrificazione dell'ammoniaca"],
+    "options": ["Dalla decomposizione del materiale vegetale nel suolo", "Dalla combustione dei combustibili fossili in atmosfera", "Dagli scarichi industriali di metalli pesanti disciolti", "Dalla nitrificazione dell'ammoniaca da parte dei batteri"],
     "correctIndex": 0,
     "explanation": "L'acido umico è un composto ad elevata massa molecolare presente nella maggior parte delle acque superficiali e deriva dalla decomposizione di materiale vegetale.",
     "difficulty": "medium",

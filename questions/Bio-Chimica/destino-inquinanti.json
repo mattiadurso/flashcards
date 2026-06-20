@@ -5,11 +5,11 @@
     "question": "Secondo la convinzione diffusa fino a metà '900, come venivano assimilate le sostanze immesse nell'ambiente?",
     "suggestion": "Due meccanismi: uno trasforma, l'altro abbassa la concentrazione.",
     "options": [
-      "Per trasformazione in sostanze innocue e per diluizione fino a livelli non pericolosi",
-      "Per congelamento nei sedimenti e successiva sepoltura",
-      "Per combustione spontanea ad opera della luce solare"
+      "Per congelamento nei sedimenti profondi e successiva sepoltura definitiva",
+      "Per assorbimento integrale da parte della vegetazione e dei suoli agricoli",
+      "Per trasformazione in sostanze innocue e per diluizione fino a livelli non pericolosi"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Si credeva che le sostanze venissero assimilate per trasformazione da parte dei sistemi naturali in sostanze innocue e per diluizione fino a livelli non pericolosi.",
     "difficulty": "easy",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
@@ -35,9 +35,9 @@
     "question": "Perché la strategia \"end of the pipe\" è considerata solo una soluzione parziale?",
     "suggestion": "Gli inquinanti non scompaiono davvero.",
     "options": [
-      "Perché distrugge completamente gli inquinanti ma a costi elevati",
+      "Perché distrugge del tutto gli inquinanti ma a costi di gestione molto elevati",
       "Perché gli inquinanti non sono distrutti ma resi meno tossici o spostati in un altro ambiente",
-      "Perché riduce la produzione alla fonte ma aumenta la dispersione"
+      "Perché riduce la produzione alla fonte ma fa aumentare la dispersione nell'ambiente"
     ],
     "correctIndex": 1,
     "explanation": "L'end of the pipe si basa sul recupero: riduce la dispersione raccogliendo e smaltendo gli inquinanti, ma questi non sono distrutti, solo resi meno tossici o depositati altrove.",
@@ -50,11 +50,11 @@
     "question": "Qual è lo scopo finale ideale dell'approccio della chimica verde?",
     "suggestion": "Riguarda la quantità di sostanze tossiche persistenti immesse.",
     "options": [
-      "Raggiungere l'immissione zero nell'ambiente di certe sostanze tossiche persistenti",
-      "Massimizzare il recupero degli inquinanti già dispersi",
-      "Aumentare la diluizione degli scarichi industriali"
+      "Massimizzare il recupero a valle degli inquinanti già dispersi nell'ambiente",
+      "Aumentare la diluizione degli scarichi industriali fino a livelli non pericolosi",
+      "Raggiungere l'immissione zero nell'ambiente di certe sostanze tossiche persistenti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Lo scopo finale della chimica verde è giungere a una situazione di immissione zero nell'ambiente di certe sostanze tossiche persistenti.",
     "difficulty": "medium",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
@@ -65,9 +65,9 @@
     "question": "Perché un chimico ambientale deve avere una conoscenza chimica \"a 360 gradi\"?",
     "suggestion": "I fenomeni che studia coinvolgono diversi rami della chimica.",
     "options": [
-      "Perché deve sintetizzare nuovi pesticidi più efficaci",
+      "Perché deve sintetizzare nuovi pesticidi e catalizzatori industriali più efficaci",
       "Perché serve conoscere reattività organica e inorganica e i processi chimico-fisici di diffusione",
-      "Perché deve occuparsi solo degli aspetti legali dei dati"
+      "Perché deve occuparsi soltanto degli aspetti legali e normativi dei dati analitici"
     ],
     "correctIndex": 1,
     "explanation": "Deve conoscere reattività organica e inorganica, i processi chimico-fisici alla base della diffusione delle sostanze, volatilità, solubilità, interazioni col terreno, ecc.",
@@ -80,11 +80,11 @@
     "question": "Perché la validazione dei dati analitici è parte integrante dell'attività del chimico ambientale?",
     "suggestion": "I risultati possono finire in un contesto non solo scientifico.",
     "options": [
-      "Per ridurre il numero di campionamenti necessari",
-      "Anche ai fini della difendibilità legale dei risultati analitici",
-      "Per accelerare le reazioni di trasformazione delle sostanze"
+      "Per ridurre il numero di campionamenti necessari sul territorio interessato",
+      "Per accelerare le reazioni di trasformazione e degradazione delle sostanze",
+      "Anche ai fini della difendibilità legale dei risultati analitici prodotti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "La validazione dei dati serve anche ai fini della difendibilità legale dei risultati analitici, oltre alla loro corretta interpretazione.",
     "difficulty": "hard",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
@@ -97,7 +97,7 @@
     "options": [
       "Atmosfera, acqua, suolo e sedimento, biota",
       "Solventi, catalizzatori, reagenti, prodotti",
-      "Acidi, basi, sali, gas nobili"
+      "Acidi, basi, sali, ossidi e idruri"
     ],
     "correctIndex": 0,
     "explanation": "La mobilità ambientale riguarda la ripartizione e il trasferimento tra i comparti: atmosfera, acqua, suolo e sedimento, biota.",
@@ -110,11 +110,11 @@
     "question": "Quale sequenza rappresenta correttamente il percorso logico dalla molecola ai suoi effetti, secondo lo schema del corso?",
     "suggestion": "Si parte dalle caratteristiche della molecola e si arriva alla tossicità.",
     "options": [
-      "Effetti biologici → proprietà chimico-fisiche → caratteristiche della molecola",
       "Caratteristiche della molecola → proprietà chimico-fisiche → trasformazioni e distribuzione → effetti biologici",
-      "Trasformazioni → caratteristiche della molecola → effetti biologici → proprietà chimico-fisiche"
+      "Effetti biologici → proprietà chimico-fisiche → trasformazioni e distribuzione → caratteristiche della molecola",
+      "Trasformazioni e distribuzione → caratteristiche della molecola → effetti biologici → proprietà chimico-fisiche"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Lo schema procede da caratteristiche della molecola (area, peso molecolare, gruppi funzionali) alle proprietà chimico-fisiche, alle trasformazioni/distribuzione e infine agli effetti biologici.",
     "difficulty": "hard",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
@@ -187,11 +187,11 @@
     "question": "Nello schema PERSISTENZA + LIBERAZIONE = CRESCITA, quali due conseguenze sono associate alla crescita di un inquinante?",
     "suggestion": "Una riguarda gli organismi, l'altra la distribuzione nello spazio.",
     "options": [
+      "Diluizione progressiva nei comparti e degradazione chimica spontanea",
       "Concentrazione negli organismi viventi e dispersione non omogenea",
-      "Diluizione progressiva e degradazione spontanea",
-      "Aumento della volatilità e riduzione della tossicità"
+      "Aumento della volatilità in atmosfera e riduzione della tossicità"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Lo schema associa alla crescita dell'inquinante la concentrazione negli organismi viventi e la dispersione non omogenea.",
     "difficulty": "medium",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
@@ -202,9 +202,9 @@
     "question": "Quale tra queste attività NON è citata come parte integrante dell'attività del chimico ambientale?",
     "suggestion": "Pensa al ciclo: campionamento, protocolli, interpretazione, validazione.",
     "options": [
-      "La pianificazione di campagne di campionamento",
-      "La scelta dei protocolli analitici più appropriati",
-      "La sintesi industriale di nuovi solventi"
+      "La pianificazione delle campagne di campionamento sul territorio",
+      "La scelta dei protocolli analitici più appropriati al caso",
+      "La sintesi industriale di nuovi solventi e catalizzatori"
     ],
     "correctIndex": 2,
     "explanation": "Le attività integranti sono la pianificazione delle campagne di campionamento, la scelta dei protocolli analitici, l'interpretazione dei dati e la loro validazione; non la sintesi di solventi.",
@@ -217,9 +217,9 @@
     "question": "Nelle fasi di studio, cosa significa risalire all'origine dell'inquinamento?",
     "suggestion": "Distinguere un evento occasionale da un rilascio prolungato.",
     "options": [
-      "Stabilire se si tratta di incidente isolato o rilascio continuo da sorgente puntiforme",
-      "Misurare il pH delle acque contaminate",
-      "Calcolare il momento di dipolo della sostanza"
+      "Stabilire se si tratta di incidente isolato o di rilascio continuo da sorgente puntiforme",
+      "Misurare il pH e la conducibilità delle acque superficiali contaminate",
+      "Calcolare il momento di dipolo e la polarità della sostanza dispersa"
     ],
     "correctIndex": 0,
     "explanation": "Risalire all'origine significa stabilire se l'inquinamento deriva da un incidente isolato o da un rilascio continuo da una sorgente puntiforme, ecc.",
@@ -232,9 +232,9 @@
     "question": "In quale ambito la chimica ambientale gioca un ruolo chiave, secondo il testo?",
     "suggestion": "Riguarda emissioni, lavoratori, ambiente e nuovi agenti.",
     "options": [
-      "Nella progettazione di reattori nucleari",
+      "Nella progettazione di reattori nucleari e nello smaltimento delle scorie",
       "Nel controllo delle emissioni industriali e nella protezione della salute dei lavoratori",
-      "Nella formulazione di nuovi farmaci antitumorali"
+      "Nella formulazione di nuovi farmaci antitumorali e nella loro sperimentazione"
     ],
     "correctIndex": 1,
     "explanation": "La chimica ambientale è chiave nel controllo delle emissioni industriali, nella protezione della salute dei lavoratori e dell'ambiente e nella valutazione di nuovi agenti chimici.",
@@ -248,8 +248,8 @@
     "suggestion": "Grandezze geometriche e strutturali della molecola.",
     "options": [
       "Area superficiale, peso molecolare, gruppi funzionali e legami",
-      "Colore, odore e sapore",
-      "Prezzo di mercato e disponibilità commerciale"
+      "Colore, odore, sapore e stato fisico a temperatura ambiente",
+      "Prezzo di mercato, disponibilità commerciale e costo di sintesi"
     ],
     "correctIndex": 0,
     "explanation": "Le caratteristiche della molecola includono area superficiale, peso molecolare, gruppi funzionali, legami, ecc., da cui derivano le proprietà chimico-fisiche.",
@@ -262,11 +262,11 @@
     "question": "Quali grandezze esemplificano le proprietà chimico-fisiche nello schema del corso?",
     "suggestion": "Solubilità, tensione di vapore, temperatura di fusione...",
     "options": [
-      "Solubilità, tensione di vapore, temperatura di fusione e coefficienti di ripartizione",
-      "Tossicità, mutagenicità e cancerogenicità",
-      "Persistenza, bioaccumulo e biomagnificazione"
+      "Tossicità acuta, mutagenicità e cancerogenicità della sostanza",
+      "Persistenza ambientale, bioaccumulo e biomagnificazione nella catena trofica",
+      "Solubilità, tensione di vapore, temperatura di fusione e coefficienti di ripartizione"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Le proprietà chimico-fisiche comprendono solubilità, tensione di vapore, temperatura di fusione, coefficienti di ripartizione, ecc.; tossicità ed effetti riguardano invece gli effetti biologici.",
     "difficulty": "hard",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
@@ -277,11 +277,11 @@
     "question": "Tra gli esempi di chimica verde citati, quale riguarda la progettazione dei prodotti?",
     "suggestion": "Pensa al fine vita del prodotto chimico.",
     "options": [
-      "Progettare prodotti chimici riciclabili o eliminabili senza rischi per l'ambiente",
-      "Aumentare la durata commerciale dei prodotti",
-      "Concentrare i prodotti per ridurne il volume"
+      "Aumentare la durata commerciale dei prodotti per ridurne la sostituzione",
+      "Concentrare i prodotti per ridurne il volume e i costi di trasporto",
+      "Progettare prodotti chimici riciclabili o eliminabili senza rischi per l'ambiente"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Tra gli esempi di chimica verde vi è la progettazione di prodotti chimici tali da poter essere riciclati o eliminati senza rischi per l'ambiente.",
     "difficulty": "medium",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"

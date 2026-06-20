@@ -5,11 +5,11 @@
     "question": "Su quale sistema dell'insetto agisce il DDT?",
     "suggestion": "È lo stesso sistema bersaglio di molti veleni di contatto.",
     "options": [
-      "Sul sistema digerente",
       "Sul sistema nervoso",
-      "Sul sistema respiratorio"
+      "Sul sistema digerente medio",
+      "Sul sistema respiratorio tracheale"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il DDT agisce sul sistema nervoso degli insetti; Müller ricevette il Nobel per la sua efficacia come veleno di contatto contro gli artropodi.",
     "difficulty": "easy",
     "source": "DDT 2026.pdf"
@@ -20,9 +20,9 @@
     "question": "Quali proprietà chimico-fisiche rendono il DDT problematico per l'ambiente nonostante la sua bassa solubilità in acqua?",
     "suggestion": "Pensa alla sua stabilità e al perché non si degrada.",
     "options": [
-      "È molto reattivo e si degrada in poche ore",
-      "È molto stabile, poco reattivo e idrofobico (pochissimo solubile in acqua)",
-      "È volatile e scompare rapidamente dall'ambiente"
+      "È poco stabile, molto reattivo e idrofilo, quindi viene dilavato in poche ore",
+      "È molto stabile, poco reattivo e idrofobico, quindi persiste a lungo nell'ambiente",
+      "È molto stabile ma idrofilo, quindi resta disciolto in acqua senza accumularsi"
     ],
     "correctIndex": 1,
     "explanation": "Il DDT è molto stabile, poco reattivo e idrofobico: questa persistenza, unita alla liposolubilità, ne favorisce l'accumulo negli organismi lungo la catena alimentare.",
@@ -35,11 +35,11 @@
     "question": "Qual è la differenza tra bioconcentrazione e bioaccumulazione (biomagnificazione)?",
     "suggestion": "Una avviene dal mezzo circostante, l'altra attraverso la dieta.",
     "options": [
-      "La bioconcentrazione avviene tramite la catena alimentare, la bioaccumulazione dal mezzo",
-      "La bioconcentrazione avviene concentrando dal mezzo circostante, la bioaccumulazione attraverso la catena alimentare",
-      "Sono due termini perfettamente sinonimi"
+      "La bioconcentrazione concentra dal mezzo circostante, la bioaccumulazione attraverso la catena alimentare",
+      "La bioconcentrazione concentra tramite la catena alimentare, la bioaccumulazione dal mezzo circostante",
+      "La bioconcentrazione riguarda i sedimenti, la bioaccumulazione solo l'aria respirata"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Si parla di bioconcentrazione quando gli organismi concentrano gli inquinanti dal mezzo circostante, di bioaccumulazione/biomagnificazione quando il processo avviene attraverso la catena alimentare.",
     "difficulty": "medium",
     "source": "DDT 2026.pdf"
@@ -50,11 +50,11 @@
     "question": "Perché i rapaci sono gli uccelli più colpiti dagli effetti del DDT?",
     "suggestion": "Dipende dalla loro posizione nella rete trofica.",
     "options": [
-      "Perché vivono solo in ambienti molto inquinati",
-      "Perché sono in cima alla catena alimentare, dove la concentrazione di contaminanti è massima",
-      "Perché hanno un metabolismo del calcio più lento"
+      "Perché vivono soltanto in ambienti fortemente inquinati dai pesticidi clorurati",
+      "Perché hanno un metabolismo del calcio intrinsecamente più lento e fragile dei passeriformi",
+      "Perché sono in cima alla catena alimentare, dove la concentrazione di contaminanti è massima"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "La biomagnificazione fa aumentare la concentrazione lungo la catena alimentare; i rapaci, in cima alla catena, sono i più esposti.",
     "difficulty": "medium",
     "source": "DDT 2026.pdf"
@@ -65,11 +65,11 @@
     "question": "Qual è l'effetto del DDE, metabolita del DDT, sugli uccelli?",
     "suggestion": "Riguarda le uova e la riproduzione.",
     "options": [
-      "L'assottigliamento del guscio delle uova",
-      "L'aumento della massa corporea degli adulti",
-      "L'accelerazione della schiusa"
+      "L'aumento della massa corporea degli individui adulti",
+      "L'assottigliamento del guscio delle uova deposte",
+      "L'accelerazione dei tempi di schiusa delle uova"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il DDT interferisce col metabolismo del calcio e il suo metabolita DDE causa l'assottigliamento del guscio delle uova, riducendo la fertilità già a basse dosi.",
     "difficulty": "medium",
     "source": "DDT 2026.pdf"
@@ -80,11 +80,11 @@
     "question": "Come si spiega che la più alta concentrazione di POP come il DDT non si trovi necessariamente vicino al luogo di rilascio?",
     "suggestion": "Coinvolge temperatura, evaporazione e circolazione atmosferica.",
     "options": [
-      "I POP precipitano subito al suolo nel punto di emissione",
-      "Nelle regioni calde evaporano e, trasportati dall'atmosfera, condensano e si accumulano nelle regioni fredde (grasshopper effect)",
-      "I POP sono distrutti dalla luce solare prima di spostarsi"
+      "Nelle regioni calde precipitano subito al suolo e restano concentrati attorno al punto di emissione",
+      "Nelle regioni calde la luce solare intensa li degrada del tutto prima che possano spostarsi altrove",
+      "Nelle regioni calde evaporano e, trasportati dall'atmosfera, condensano e si accumulano in quelle fredde"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Nelle regioni calde i POP evaporano e salgono in atmosfera; entrano nella circolazione globale (grasshopper effect) e nelle regioni fredde condensano e si accumulano.",
     "difficulty": "hard",
     "source": "DDT 2026.pdf"
@@ -95,11 +95,11 @@
     "question": "Quali effetti sono stati osservati negli alligatori del Lake Apopka esposti al DDT?",
     "suggestion": "Riguarda lo sviluppo sessuale e ormonale.",
     "options": [
-      "Aumento della taglia corporea e maggiore aggressività",
       "Malformazioni degli organi sessuali, alterazioni ormonali e fallimento della schiusa delle uova",
-      "Sviluppo di una corazza più spessa"
+      "Aumento della taglia corporea, maggiore aggressività e crescita più rapida dei piccoli nati",
+      "Sviluppo di una corazza più spessa, maggiore fertilità e schiusa anticipata delle uova deposte"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "A Lake Apopka gli alligatori maschi mostravano testosterone ridotto e falli ridotti, le femmine estradiolo doppio; l'80-95% delle uova non si schiudeva. Il DDE mima l'estradiolo.",
     "difficulty": "hard",
     "source": "DDT 2026.pdf"
@@ -110,11 +110,11 @@
     "question": "Come agiscono i disruttori endocrini come il DDT/DDE sull'organismo?",
     "suggestion": "Interferiscono con un sistema di segnalazione interno.",
     "options": [
-      "Modificano le normali risposte ormonali",
-      "Bloccano esclusivamente la respirazione cellulare",
-      "Aumentano la solubilità in acqua dei grassi"
+      "Bloccano in modo esclusivo e irreversibile la respirazione cellulare mitocondriale",
+      "Aumentano la solubilità in acqua dei grassi, favorendone l'escrezione urinaria",
+      "Modificano le normali risposte ormonali, mimando o alterando l'azione degli ormoni"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "I disruttori endocrini modificano le normali risposte ormonali; il DDE mima l'azione dell'estradiolo causando un calo della sintesi di androgeni in alcuni vertebrati.",
     "difficulty": "medium",
     "source": "DDT 2026.pdf"
@@ -180,9 +180,9 @@
     "question": "Chi dimostrò nel 1939 l'efficacia del DDT come insetticida, ricevendo poi il Nobel?",
     "suggestion": "Lavorava nei laboratori della Geigy.",
     "options": [
-      "O. Ziegler",
-      "P. H. Müller",
-      "Curtis"
+      "O. Ziegler, che sintetizzò la molecola",
+      "P. H. Müller, chimico della Geigy",
+      "Curtis, entomologo statunitense"
     ],
     "correctIndex": 1,
     "explanation": "Il DDT fu sintetizzato nel 1874 da O. Ziegler, ma fu P. H. Müller, nel 1939 alla Geigy, a dimostrarne l'efficacia come insetticida; nel 1948 ricevette il Nobel.",
@@ -195,11 +195,11 @@
     "question": "Quale effetto ebbe l'uso del DDT sui casi di malaria tra il 1946 e il 1950?",
     "suggestion": "Il DDT colpisce mosche e zanzare vettrici di malattie.",
     "options": [
-      "I casi rimasero invariati",
-      "I casi scesero da 400.000 a quasi zero",
-      "I casi raddoppiarono"
+      "I casi rimasero pressoché invariati nel periodo",
+      "I casi più che raddoppiarono in pochi anni",
+      "I casi scesero da 400.000 a quasi zero"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Essendo tossico per zanzare e mosche vettrici di malattie, dal 1946 al 1950 il DDT fece scendere i casi di malaria riportati da 400.000 a quasi zero.",
     "difficulty": "easy",
     "source": "DDT 2026.pdf"
@@ -210,9 +210,9 @@
     "question": "Perché prima del DDT gli insetticidi efficaci ed economici a base di arsenico erano problematici?",
     "suggestion": "Pensa alla loro tossicità per organismi non bersaglio.",
     "options": [
-      "Erano tossici per gli umani e gli animali",
-      "Erano del tutto inefficaci",
-      "Evaporavano troppo lentamente"
+      "Erano tossici anche per gli esseri umani e gli animali",
+      "Erano del tutto inefficaci contro insetti e artropodi",
+      "Evaporavano troppo lentamente per agire sui campi"
     ],
     "correctIndex": 0,
     "explanation": "Gli unici insetticidi efficaci ed economici prima del DDT erano composti di arsenico, tossici per gli umani e gli animali; gli altri prodotti naturali erano costosi.",
@@ -225,9 +225,9 @@
     "question": "A quale scala geografica appartiene l'inquinamento da POP come il DDT, che si diffonde a livello globale?",
     "suggestion": "Va oltre la scala locale e regionale.",
     "options": [
-      "Scala locale",
-      "Scala planetaria",
-      "Scala regionale"
+      "Scala locale, confinata a poche decine di km2",
+      "Scala planetaria, diffusa dal trasporto atmosferico",
+      "Scala regionale, limitata a un singolo bacino"
     ],
     "correctIndex": 1,
     "explanation": "I POP (DDT, policlorurati), il buco dell'ozono e i gas serra sono esempi di inquinamento a scala planetaria, diffuso dal trasporto atmosferico.",
@@ -240,11 +240,11 @@
     "question": "Cosa fu scoperto riguardo al declino delle popolazioni di foche grigie?",
     "suggestion": "Riguarda l'accumulo di un pesticida e dei suoi metaboliti.",
     "options": [
-      "Era dovuto a abnormi concentrazioni di DDT e dei suoi metaboliti",
-      "Era dovuto alla pesca eccessiva",
-      "Era dovuto a piogge acide"
+      "Era dovuto alla pesca eccessiva nei loro areali di alimentazione",
+      "Era dovuto alle piogge acide che acidificavano le acque costiere",
+      "Era dovuto ad abnormi concentrazioni di DDT e dei suoi metaboliti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Jensen e Jansson (1976) scoprirono che il declino delle foche grigie era dovuto a abnormi concentrazioni di DDT e dei suoi metaboliti.",
     "difficulty": "hard",
     "source": "DDT 2026.pdf"
@@ -255,11 +255,11 @@
     "question": "Quale fu osservato nelle femmine giovani di alligatore del Lake Apopka a 6 mesi?",
     "suggestion": "Riguarda un ormone sessuale femminile.",
     "options": [
+      "Concentrazioni di testosterone doppie rispetto al normale e ovaie ingrossate",
       "Concentrazioni di estradiolo doppie rispetto al normale e morfologia ovarica anomala",
-      "Testosterone raddoppiato",
-      "Assenza completa di ovaie"
+      "Concentrazioni ormonali normali ma assenza completa di ovaie funzionanti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "A 6 mesi le femmine di alligatore avevano estradiolo plasmatico doppio del normale e morfologia ovarica anomala; i maschi avevano testosterone ridotto e falli ridotti.",
     "difficulty": "hard",
     "source": "DDT 2026.pdf"
@@ -270,9 +270,9 @@
     "question": "Quanto DDT contengono ancora gli esseri umani dei paesi industrializzati, secondo gli studi sul latte materno?",
     "suggestion": "È un valore dell'ordine di pochi mg/kg.",
     "options": [
-      "Circa 3 mg/kg",
-      "Circa 400 mg/kg",
-      "Concentrazioni nulle"
+      "Circa 3 mg/kg di peso corporeo",
+      "Circa 400 mg/kg di peso corporeo",
+      "Circa 0,003 mg/kg di peso corporeo"
     ],
     "correctIndex": 0,
     "explanation": "Secondo gli studi sui livelli di DDT nel latte materno umano, gli esseri umani dei paesi industrializzati ne contengono ancora circa 3 mg/kg.",

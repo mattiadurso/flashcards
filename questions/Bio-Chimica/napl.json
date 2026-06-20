@@ -5,11 +5,11 @@
     "question": "Cosa significa l'acronimo NAPL?",
     "suggestion": "Riguarda liquidi che non si mescolano con l'acqua.",
     "options": [
-      "Non Aqueous Phase Liquids (liquidi in fase non acquosa)",
-      "Natural Aquifer Pollutant Liquids",
-      "Non Adsorbed Phase Leachate"
+      "Natural Aquifer Pollutant Liquids (liquidi inquinanti naturali di falda)",
+      "Non Adsorbed Phase Leachate (percolato in fase non adsorbita)",
+      "Non Aqueous Phase Liquids (liquidi in fase non acquosa)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "NAPL sta per Non Aqueous Phase Liquids, cioè liquidi non miscibili con l'acqua che formano una fase separata; l'insieme di LNAPL e DNAPL viene definito NAPL.",
     "difficulty": "easy",
     "source": "NAPL.pptx"
@@ -20,11 +20,11 @@
     "question": "Qual è la differenza fondamentale di densità tra LNAPL e DNAPL rispetto all'acqua?",
     "suggestion": "L sta per Light, D per Dense.",
     "options": [
+      "I LNAPL hanno densità maggiore dell'acqua (D > dH2O), i DNAPL densità minore (D < dH2O)",
       "I LNAPL hanno densità minore dell'acqua (D < dH2O), i DNAPL densità maggiore (D > dH2O)",
-      "I LNAPL hanno densità maggiore dell'acqua, i DNAPL minore",
-      "Entrambi hanno densità identica a quella dell'acqua"
+      "Sia LNAPL sia DNAPL hanno densità identica a quella dell'acqua (D = dH2O)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I LNAPL (Light) hanno densità minore dell'acqua, i DNAPL (Dense) densità maggiore: questo condiziona il loro comportamento nel terreno rispetto alla falda.",
     "difficulty": "easy",
     "source": "NAPL.pptx"
@@ -35,11 +35,11 @@
     "question": "Quali tra questi sono esempi tipici di LNAPL?",
     "suggestion": "Combustibili più leggeri dell'acqua.",
     "options": [
-      "Kerosene, nafta, benzina e miscele di idrocarburi (gasolio, petrolio)",
-      "Percloroetilene e tricloroetilene",
-      "PCB e idrocarburi clorurati"
+      "Percloroetilene, tricloroetilene e idrocarburi clorurati pesanti",
+      "Kerosene, nafta, benzina e miscele di idrocarburi leggeri",
+      "Policlorobifenili (PCB) e solventi clorurati densi"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Tra i LNAPL rientrano kerosene, nafta, benzina, BTEX, miscele di idrocarburi (benzina, petrolio, gasolio) e olii lubrificanti, tutti meno densi dell'acqua.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
@@ -50,11 +50,11 @@
     "question": "Quali tra questi sono esempi tipici di DNAPL?",
     "suggestion": "Idrocarburi clorurati più densi dell'acqua.",
     "options": [
-      "Percloroetilene, tricloroetilene e PCB",
-      "Benzina, kerosene e gasolio",
-      "Olii lubrificanti e nafta"
+      "Benzina, kerosene e gasolio (idrocarburi leggeri)",
+      "Olii lubrificanti, nafta e petrolio grezzo",
+      "Percloroetilene, tricloroetilene e PCB (clorurati densi)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "I DNAPL (più densi dell'acqua) comprendono idrocarburi clorurati come percloroetilene, tricloroetilene e PCB.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
@@ -76,9 +76,9 @@
     "question": "Come si comportano i composti solubili rispetto a quelli immiscibili in un NAPL che contamina l'acquifero?",
     "suggestion": "Una parte va in soluzione, l'altra resta separata.",
     "options": [
-      "I composti solubili vengono trasportati in soluzione dalle acque d'infiltrazione e si disperdono per dispersione idrodinamica, mentre gli immiscibili restano in una fase separata",
-      "Tutti i composti restano sempre in fase separata senza dissolversi",
-      "Tutti i composti si dissolvono completamente nell'acqua di falda"
+      "I solubili sono trasportati in soluzione dalle acque d'infiltrazione e si disperdono per dispersione idrodinamica, mentre gli immiscibili restano in fase separata",
+      "I solubili restano adsorbiti sui grani del suolo senza migrare, mentre gli immiscibili si disperdono per dispersione idrodinamica nella falda",
+      "Tutti i componenti, solubili e immiscibili, si dissolvono completamente nell'acqua di falda e migrano alla stessa velocità di soluzione"
     ],
     "correctIndex": 0,
     "explanation": "I composti solubili sono trasportati in soluzione dalle acque d'infiltrazione e si allargano/approfondiscono secondo la dispersione idrodinamica; quelli immiscibili rimangono in una fase separata.",
@@ -91,9 +91,9 @@
     "question": "Da quali fattori dipende la migrazione dei NAPL nel sottosuolo?",
     "suggestion": "Quantità, superfici e struttura dei pori.",
     "options": [
-      "Dalla quantità rilasciata, dalle proprietà fisiche delle superfici e dalla struttura del suolo (dimensioni dei pori)",
-      "Esclusivamente dalla temperatura atmosferica",
-      "Solo dal pH dell'acqua di falda"
+      "Dalla quantità rilasciata, dalle proprietà fisiche delle superfici e dalla struttura del suolo (dimensione dei pori)",
+      "Dalla sola temperatura atmosferica superficiale e dall'irraggiamento solare al momento dello sversamento",
+      "Esclusivamente dal pH dell'acqua di falda e dalla concentrazione di sali disciolti nel sottosuolo"
     ],
     "correctIndex": 0,
     "explanation": "La migrazione dei NAPL dipende dalla quantità rilasciata, dalle proprietà fisiche delle superfici e dalla struttura del suolo (dimensione dei pori).",
@@ -117,11 +117,11 @@
     "question": "Cosa avviene nella frangia capillare e da cosa dipende l'altezza di risalita dell'acqua?",
     "suggestion": "Più i capillari sono stretti, più...",
     "options": [
-      "È la zona di contatto tra zona satura e insatura; l'acqua risale per capillarità e l'altezza di risalita è tanto maggiore quanto minore è la dimensione dei capillari",
-      "È la zona satura più profonda; la risalita aumenta con pori più grandi",
-      "È la zona di evapotraspirazione; la risalita non dipende dai pori"
+      "È la zona satura più profonda sopra il substrato; l'acqua risale per capillarità tanto più in alto quanto maggiore è la dimensione dei capillari",
+      "È la zona di evapotraspirazione superficiale; l'acqua risale per capillarità ma l'altezza di risalita non dipende dalla dimensione dei pori",
+      "È la zona di contatto tra zona satura e insatura; l'acqua risale per capillarità tanto più in alto quanto minore è la dimensione dei capillari"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "La frangia capillare è la zona di contatto tra zona satura e insatura: l'acqua risale per capillarità e l'altezza di risalita è maggiore quanto minore è la dimensione dei capillari.",
     "difficulty": "hard",
     "source": "NAPL.pptx"
@@ -143,11 +143,11 @@
     "question": "Come si comporta un LNAPL al raggiungimento della frangia capillare e della falda?",
     "suggestion": "Essendo meno denso dell'acqua, dove tende a restare?",
     "options": [
+      "Penetra attraverso i pori saturi della falda e si ferma solo sullo strato impermeabile profondo",
       "Non penetra nei pori saturi, tende ad allargarsi e si stratifica sulla superficie dell'acquifero",
-      "Penetra attraverso la falda fino allo strato impermeabile",
-      "Si dissolve completamente nella zona satura senza stratificarsi"
+      "Si dissolve completamente nella zona satura ripartendosi in modo uniforme senza stratificarsi"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Essendo meno denso dell'acqua, il LNAPL non penetra nei pori saturi, tende ad allargarsi e si stratifica sulla superficie dell'acquifero; le variazioni di altezza della falda favoriscono la dispersione orizzontale.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
@@ -158,11 +158,11 @@
     "question": "Cosa accade a un DNAPL in caso di contaminazione di grossa entità?",
     "suggestion": "Più denso dell'acqua: dove si ferma?",
     "options": [
-      "Penetra attraverso lo strato saturo, attraversa la falda e si ferma solo su uno strato impermeabile, lungo il quale scivola se è pendente",
-      "Si stratifica sulla superficie dell'acquifero senza penetrare",
-      "Evapora completamente prima di raggiungere la falda"
+      "Si stratifica sulla superficie dell'acquifero senza penetrare nei pori saturi della falda sottostante",
+      "Evapora completamente nella zona vadosa prima di raggiungere la frangia capillare e la falda",
+      "Penetra lo strato saturo, attraversa la falda e si ferma su uno strato impermeabile, lungo il quale scivola se pendente"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Un DNAPL di grande entità penetra attraverso lo strato saturo, attraversa la falda e si ferma solo a uno strato impermeabile; se questo è pendente, scivola lentamente lungo di esso.",
     "difficulty": "hard",
     "source": "NAPL.pptx"
@@ -184,11 +184,11 @@
     "question": "Nella bonifica con barriere reattive, quale agente riducente è impiegato per i solventi clorurati?",
     "suggestion": "Un metallo allo stato di ossidazione zero.",
     "options": [
-      "Il ferro zerovalente (ferro granulare)",
-      "Il percloroetilene",
-      "Il polistirene granulare"
+      "Il percloroetilene granulare in fase reattiva",
+      "Il polistirene granulare ad alta porosità",
+      "Il ferro zerovalente (ferro granulare)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il ferro zerovalente (ferro granulare) è l'agente riducente usato per i solventi clorurati; Fe2+ e idrogeno sono altri possibili riducenti.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
@@ -199,11 +199,11 @@
     "question": "Nella tecnica 'pump and treat', in che modo il pompaggio dei pozzi interviene sulla contaminazione della falda?",
     "suggestion": "Abbassa la falda e cambia il flusso.",
     "options": [
+      "Innalza il livello della falda e accelera il flusso, diluendo i contaminanti nell'acquifero",
       "Abbassa la falda e modifica l'andamento del flusso, limitando l'area contaminata",
-      "Aumenta la densità dell'acqua di falda per intrappolare i contaminanti",
-      "Trasforma chimicamente i DNAPL in LNAPL"
+      "Aumenta la densità dell'acqua di falda così da intrappolare in profondità i contaminanti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il pump and treat (trattamento ex situ) abbassa la falda mediante pompaggio di pozzi, modificando l'andamento del flusso dell'acquifero e limitando l'area contaminata.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
@@ -214,9 +214,9 @@
     "question": "Cosa caratterizza la zona di evapotraspirazione nel profilo verticale del terreno?",
     "suggestion": "È lo strato più superficiale e biologicamente attivo.",
     "options": [
-      "È lo strato più superficiale, sede di attività biologica, dove i fenomeni evapotraspirativi reimmettono in atmosfera parte dell'acqua del suolo",
-      "È lo strato più profondo, saturo d'acqua, sopra il substrato impermeabile",
-      "È la zona di contatto tra zona satura e insatura dove l'acqua risale per capillarità"
+      "È lo strato più superficiale e sede di attività biologica, dove i fenomeni evapotraspirativi reimmettono in atmosfera parte dell'acqua del suolo",
+      "È lo strato più profondo e saturo d'acqua sopra il substrato impermeabile, dove il flusso segue la legge di Darcy nei pori",
+      "È la zona di contatto tra zona satura e insatura, dove l'acqua risale per capillarità tanto più quanto minori sono i pori"
     ],
     "correctIndex": 0,
     "explanation": "La zona di evapotraspirazione è lo strato più superficiale e sede di attività biologica; i fenomeni evapotraspirativi reimmettono in atmosfera parte dell'acqua contenuta nel suolo.",
@@ -229,11 +229,11 @@
     "question": "Nella zona vadosa, in che stato di pressione si trovano aria e acqua?",
     "suggestion": "L'aria è a pressione atmosferica.",
     "options": [
-      "L'aria è alla pressione atmosferica, mentre l'acqua è a pressione minore di quella atmosferica",
-      "Sia aria sia acqua sono a pressione maggiore di quella atmosferica",
-      "L'acqua è alla pressione atmosferica e l'aria a pressione minore"
+      "Sia l'aria sia l'acqua si trovano a una pressione maggiore di quella atmosferica",
+      "L'acqua è alla pressione atmosferica, mentre l'aria è a una pressione minore di quella atmosferica",
+      "L'aria è alla pressione atmosferica, mentre l'acqua è a una pressione minore di quella atmosferica"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nella zona vadosa (insatura) l'aria è alla pressione atmosferica, mentre l'acqua è a una pressione minore di quella atmosferica.",
     "difficulty": "hard",
     "source": "NAPL.pptx"
@@ -244,9 +244,9 @@
     "question": "Cosa accade a piccole quantità di LNAPL che si muovono nella zona vadosa?",
     "suggestion": "Pensa a capillarità e tensione superficiale.",
     "options": [
-      "Vengono trattenute per capillarità e tensione superficiale e non raggiungono la falda",
-      "Raggiungono sempre la falda e si stratificano sull'acquifero",
-      "Penetrano fino allo strato impermeabile più profondo"
+      "Vengono trattenute per capillarità e tensione superficiale e non raggiungono la falda sottostante",
+      "Raggiungono sempre la falda e si stratificano sulla superficie dell'acquifero formando un velo",
+      "Penetrano fino allo strato impermeabile più profondo scivolando lungo la sua pendenza"
     ],
     "correctIndex": 0,
     "explanation": "Piccole quantità di LNAPL nella zona vadosa vengono trattenute per capillarità e tensione superficiale e non raggiungono la falda; il loro spostamento è favorito dalla percolazione della pioggia (i suoli asciutti la ritardano).",
@@ -259,11 +259,11 @@
     "question": "Come influisce l'umidità del suolo sulla volatilizzazione di un composto non polare?",
     "suggestion": "I composti non polari preferiscono la fase vapore.",
     "options": [
-      "La volatilizzazione aumenta se il suolo è umido, perché i composti non polari restano preferenzialmente in fase vapore",
-      "La volatilizzazione diminuisce sempre con l'aumento dell'umidità",
-      "L'umidità non ha alcun effetto sulla volatilizzazione"
+      "La volatilizzazione diminuisce con l'umidità, perché i composti non polari si legano all'acqua del suolo restando in fase liquida",
+      "La volatilizzazione aumenta con l'umidità, perché i composti non polari restano preferenzialmente in fase vapore nel suolo umido",
+      "La volatilizzazione resta invariata, perché l'umidità del suolo agisce solo sui composti polari e ionici disciolti"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I composti polari interagiscono meglio con un suolo umido, mentre quelli non polari restano preferenzialmente in fase vapore: per questi ultimi la volatilizzazione aumenta se il suolo è umido.",
     "difficulty": "hard",
     "source": "NAPL.pptx"
@@ -274,11 +274,11 @@
     "question": "In quante e quali fasi si conserva la massa di un NAPL nel suolo?",
     "suggestion": "Oltre alla fase pura, considera disciolto, vapore e adsorbito.",
     "options": [
-      "In fase pura, disciolta, vapore e adsorbita",
-      "Solo in fase pura e disciolta",
-      "Solo in fase vapore e adsorbita"
+      "In due fasi: fase pura e disciolta in acqua",
+      "In quattro fasi: pura, disciolta, vapore e adsorbita",
+      "In due fasi: fase vapore e adsorbita sui grani"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "La conservazione della massa di un NAPL nel suolo considera quattro fasi: fase pura, disciolto, fase vapore e adsorbito; i limiti teorici sono dati da tensione di vapore, solubilità e adsorbimento.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
@@ -289,11 +289,11 @@
     "question": "Perché in una miscela di NAPL i singoli componenti non si dissolvono al valore di solubilità del composto puro?",
     "suggestion": "Conta la frazione molare nella miscela.",
     "options": [
-      "Perché la solubilità effettiva dipende dalla frazione molare del componente nella miscela (Si_eff = Xi · Si0)",
-      "Perché la solubilità aumenta proporzionalmente alla densità del NAPL",
-      "Perché i componenti reagiscono chimicamente tra loro annullando la solubilità"
+      "Perché la solubilità effettiva aumenta in proporzione alla densità complessiva del NAPL (Si_eff = ρi · Si0)",
+      "Perché i componenti reagiscono chimicamente tra loro nella miscela annullando di fatto la solubilità (Si_eff = 0)",
+      "Perché la solubilità effettiva dipende dalla frazione molare del componente nella miscela (Si_eff = Xi · Si0)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nelle miscele la solubilità effettiva del componente i-esimo è Si_eff = Xi · Si0, con Xi frazione molare nella miscela e Si0 solubilità del composto puro: è quindi inferiore a quella del composto puro a saturazione.",
     "difficulty": "hard",
     "source": "NAPL.pptx"
@@ -304,9 +304,9 @@
     "question": "Da cosa dipende la mobilità di un DNAPL nel sottosuolo?",
     "suggestion": "Considera proprietà del fluido e del mezzo.",
     "options": [
-      "Dalla viscosità, dalla pressione idraulica e dalla conducibilità idraulica del mezzo",
-      "Esclusivamente dalla temperatura atmosferica superficiale",
-      "Solo dal colore del contaminante"
+      "Dalla viscosità, dalla pressione idraulica del fluido e dalla conducibilità idraulica del mezzo",
+      "Dalla sola temperatura atmosferica superficiale e dall'umidità relativa dell'aria",
+      "Dal colore e dall'odore del contaminante e dalla profondità della frangia capillare"
     ],
     "correctIndex": 0,
     "explanation": "La mobilità dei DNAPL dipende dalla viscosità e dalla pressione idraulica del fluido, nonché dalla conducibilità idraulica del mezzo.",
@@ -352,9 +352,9 @@
     "question": "Negli interventi ingegneristici basati su barriere, qual è la funzione dei filtri biologicamente attivi associati alla barriera?",
     "suggestion": "La barriera direziona, ma serve anche trattare il flusso.",
     "options": [
-      "Trattare il flusso direzionato, mentre la barriera impermeabile reindirizza l'acquifero contaminato",
-      "Aumentare la densità dell'acqua per intrappolare i contaminanti",
-      "Trasformare i LNAPL in DNAPL prima del pompaggio"
+      "Trattare il flusso direzionato, mentre la barriera impermeabile reindirizza l'acquifero contaminato verso di essi",
+      "Aumentare la densità dell'acqua di falda, così che la barriera impermeabile possa intrappolare i contaminanti",
+      "Trasformare i LNAPL in DNAPL prima del pompaggio, in modo che la barriera ne raccolga la fase più densa"
     ],
     "correctIndex": 0,
     "explanation": "Negli interventi con costruzione e direzionamento verso una barriera, una barriera impermeabile reindirizza il flusso dell'acquifero verso filtri biologicamente attivi che trattano i contaminanti.",
@@ -367,11 +367,11 @@
     "question": "Perché un campionamento spaziale della fase gassosa è utile quando l'inquinante ha un componente volatile?",
     "suggestion": "Aiuta a localizzare e seguire la contaminazione.",
     "options": [
+      "Permette di trasformare i DNAPL densi in composti solubili più facili da pompare in superficie",
       "Aiuta a definire la sorgente e il movimento in profondità della contaminazione",
-      "Permette di trasformare i DNAPL in composti solubili",
-      "Serve solo a misurare la temperatura del suolo"
+      "Serve unicamente a misurare la temperatura del suolo lungo il profilo verticale"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Se l'inquinante ha una componente volatile, il campionamento spaziale della fase gassosa (CO2, CH4, alcani volatili, solventi clorurati) aiuta a definire la sorgente e il movimento in profondità.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
