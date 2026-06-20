@@ -1,0 +1,396 @@
+[
+  {
+    "id": "bci-pcb-001",
+    "topic": "bio-chimica",
+    "question": "Da quale prodotto di partenza vengono ricavati i PCB attraverso l'estrazione del benzene?",
+    "suggestion": "Sono fonti fossili.",
+    "options": [
+      "Dal carbone e dal metano",
+      "Dal petrolio e dal catrame",
+      "Dalla biomassa vegetale",
+      "Dal gas naturale liquefatto"
+    ],
+    "correctIndex": 1,
+    "explanation": "I PCB vengono ricavati a partire dal petrolio e dal catrame, dai quali si estrae il benzene, poi trasformato in bifenile e quindi clorurato.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-002",
+    "topic": "bio-chimica",
+    "question": "Perché commercialmente i PCB con più di 4 atomi di cloro erano apprezzati riguardo al comportamento al fuoco?",
+    "suggestion": "Pensa a sicurezza e impieghi elettrici.",
+    "options": [
+      "Bruciano facilmente liberando energia",
+      "Sono difficili da bruciare",
+      "Esplodono a contatto con l'aria",
+      "Si decompongono già a 100 °C"
+    ],
+    "correctIndex": 1,
+    "explanation": "I PCB non sono infiammabili: quando la molecola contiene più di 4 atomi di cloro sono difficili da bruciare, qualità utile per gli impieghi elettrici.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-003",
+    "topic": "bio-chimica",
+    "question": "Quanti congeneri dei PCB esistono in base alla posizione e al numero degli atomi di cloro?",
+    "suggestion": "Un numero superiore a 200.",
+    "options": [
+      "75",
+      "135",
+      "209",
+      "210"
+    ],
+    "correctIndex": 2,
+    "explanation": "Variando numero e posizione degli atomi di cloro sul bifenile si ottengono 209 congeneri dei PCB.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-004",
+    "topic": "bio-chimica",
+    "question": "Quale catalizzatore viene usato nella clorurazione del difenile a policlorobifenile?",
+    "suggestion": "È un cloruro metallico.",
+    "options": [
+      "Cloruro ferrico (FeCl3)",
+      "Catalizzatore a base di piombo",
+      "Idrossido di sodio (NaOH)",
+      "Cloruro di alluminio anidro"
+    ],
+    "correctIndex": 0,
+    "explanation": "I difenili reagiscono con Cl2 in presenza di cloruro ferrico (FeCl3) come catalizzatore; il piombo invece è usato nella formazione del difenile dal benzene a 750 °C.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-005",
+    "topic": "bio-chimica",
+    "question": "Rispetto alla solubilità, come si comportano i PCB?",
+    "suggestion": "Si pensi alla loro affinità per i grassi.",
+    "options": [
+      "Solubili in acqua e insolubili nei grassi",
+      "Insolubili in acqua e solubili in mezzi idrofobi come grassi e oli",
+      "Solubili sia in acqua sia nei grassi",
+      "Insolubili in qualunque solvente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tutti i PCB sono insolubili in acqua e solubili in mezzi idrofobi come le sostanze grasse e oleose; questo favorisce il loro bioaccumulo nei tessuti adiposi.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Persistenza e solubilità nei tessuti adiposi portano alla ___ dei PCB lungo le catene alimentari.",
+    "answers": [
+      [
+        "biomagnificazione",
+        "biomagnification"
+      ]
+    ],
+    "suggestion": "L'esempio è quello del gabbiano reale e del fitoplancton.",
+    "explanation": "La persistenza e la liposolubilità causano biomagnificazione: la concentrazione aumenta salendo nei livelli trofici, fino a essere 50000 volte superiore nelle uova di gabbiano rispetto al fitoplancton.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le diossine non sono prodotti industriali, ma ___ indesiderati di reazioni chimiche, termiche, fotochimiche ed enzimatiche.",
+    "answers": [
+      [
+        "sottoprodotti",
+        "sotto-prodotti"
+      ]
+    ],
+    "suggestion": "Si formano accanto al prodotto principale, senza essere voluti.",
+    "explanation": "Le PCDD/DF sono sottoprodotti indesiderati di reazioni chimiche e dell'incompleta combustione di materiale organico in presenza di cloruri.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-006",
+    "topic": "bio-chimica",
+    "question": "Durante quale sintesi industriale si forma la diossina come reazione collaterale indesiderata?",
+    "suggestion": "Parte dal tetraclorobenzene e dal triclorofenolo.",
+    "options": [
+      "Sintesi dell'acido 2,4,5-triclorofenossiacetico",
+      "Sintesi del bifenile",
+      "Sintesi del benzene dal petrolio",
+      "Sintesi degli alchilbenzensolfonati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella sintesi dell'acido 2,4,5-triclorofenossiacetico, due anioni triclorofenossilici reagiscono tra loro eliminando due ioni cloruro e formando l'anello centrale della diossina.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-007",
+    "topic": "bio-chimica",
+    "question": "All'aumentare del grado di clorurazione, come variano solubilità in acqua e lipofilicità delle diossine?",
+    "suggestion": "Più cloro significa più affinità per i grassi.",
+    "options": [
+      "Aumenta la solubilità in acqua e diminuisce la lipofilicità",
+      "Diminuisce la solubilità in acqua e aumenta la lipofilicità",
+      "Entrambe aumentano",
+      "Entrambe restano invariate"
+    ],
+    "correctIndex": 1,
+    "explanation": "A un maggior numero di atomi di cloro corrispondono una minore solubilità in acqua e un più alto grado di lipofilicità, con maggiore persistenza e bioaccumulo.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-008",
+    "topic": "bio-chimica",
+    "question": "Più del 90% dell'esposizione umana alle diossine è dovuto a quale via?",
+    "suggestion": "Coinvolge carne, pesce e latticini.",
+    "options": [
+      "Inalazione di polveri",
+      "Contatto cutaneo",
+      "Alimenti ingeriti",
+      "Acqua potabile"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oltre il 90% dell'esposizione umana alla diossina è attribuibile agli alimenti ingeriti, in particolare carne, pesce e latticini.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I congeneri di PCB più tossici hanno cloro-sostituenti nelle posizioni 3,3',4,4',5,5' e sono noti come PCB non-orto ___.",
+    "answers": [
+      [
+        "complanari",
+        "coplanari"
+      ]
+    ],
+    "suggestion": "La loro geometria piatta li fa interagire coi recettori cellulari.",
+    "explanation": "I PCB non-orto complanari, privi di cloro adiacente al legame tra gli anelli, possono diventare planari e interagire fortemente con i recettori cellulari, risultando i più tossici.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-009",
+    "topic": "bio-chimica",
+    "question": "Per definizione, qual è il valore del fattore di equivalenza della tossicità (I-TEF) del 2,3,7,8-TCDD?",
+    "suggestion": "È il congenere di riferimento.",
+    "options": [
+      "0.001",
+      "0.1",
+      "0.5",
+      "1"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il 2,3,7,8-TCDD ha I-TEF pari a 1 per definizione, essendo il riferimento; gli altri congeneri hanno I-TEF < 1 perché meno tossici.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-010",
+    "topic": "bio-chimica",
+    "question": "Quale enzima permette ai batteri di degradare PCB e diossine incorporando due atomi di ossigeno nel substrato?",
+    "suggestion": "Il nome richiama i due ossigeni.",
+    "options": [
+      "Monoossigenasi",
+      "Diossigenasi",
+      "Esterasi",
+      "Sulfatasi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le diossigenasi catalizzano l'incorporazione di due atomi di ossigeno nel substrato; richiedono due atomi di carbonio adiacenti non sostituiti sull'anello aromatico.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-011",
+    "topic": "bio-chimica",
+    "question": "Perché la 2,3,7,8-TCDD è particolarmente resistente alla biotrasformazione batterica?",
+    "suggestion": "Dipende dalla posizione dei sostituenti sull'anello.",
+    "options": [
+      "Non possiede due atomi di carbonio adiacenti non sostituiti",
+      "È priva di atomi di cloro",
+      "È molto solubile in acqua",
+      "Contiene un solo anello aromatico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La 2,3,7,8-TCDD non presenta due atomi di carbonio adiacenti non sostituiti, requisito per l'azione delle diossigenasi; la sua tossicità è quindi dovuta al composto non metabolizzato.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-012",
+    "topic": "bio-chimica",
+    "question": "Quale fu la conclusione tossicologica dei due incidenti del Giappone (1968) e di Taiwan (1979) con olio contaminato?",
+    "suggestion": "I PCB erano stati scaldati, generando un altro composto.",
+    "options": [
+      "I PCB puri erano gli unici responsabili",
+      "I PCDF erano i principali agenti tossici, responsabili di circa il 75% degli effetti",
+      "La diossina 2,3,7,8-TCDD causò gli avvelenamenti",
+      "Gli effetti furono dovuti solo agli additivi dell'olio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si concluse che i principali agenti tossici erano i PCDF, responsabili di circa il 75% degli effetti; il riscaldamento dei PCB ne aveva aumentato il contenuto di PCDF.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-013",
+    "topic": "bio-chimica",
+    "question": "Qual è attualmente l'unico sistema valido per distruggere grandi quantità di PCB?",
+    "suggestion": "Richiede temperature attorno ai 1200 °C in presenza di ossigeno.",
+    "options": [
+      "Sepoltura in discarica controllata",
+      "Decomposizione enzimatica anaerobica",
+      "Incenerimento ad altissima temperatura in presenza di ossigeno",
+      "Fotodegradazione solare"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'unico sistema valido è l'incenerimento a temperature molto elevate (1200 °C) con ossigeno, che produce CO2, HCl, H2O e poco Cl2 e distrugge i dibenzofurani intermedi.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-014",
+    "topic": "bio-chimica",
+    "question": "Quanti congeneri esistono rispettivamente per le PCDD e per i PCDF in base a numero e posizione degli atomi di cloro?",
+    "suggestion": "Le diossine in totale sono 210; uno dei due gruppi è più numeroso.",
+    "options": [
+      "75 congeneri di PCDD e 135 congeneri di PCDF",
+      "135 congeneri di PCDD e 75 congeneri di PCDF",
+      "209 congeneri di PCDD e 1 di PCDF"
+    ],
+    "correctIndex": 0,
+    "explanation": "In base al numero e alla posizione degli atomi di cloro si distinguono 75 congeneri di PCDD e 135 congeneri di PCDF.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-015",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza strutturale tra le PCDF (dibenzofurani) e le PCDD (diossine)?",
+    "suggestion": "Riguarda l'anello centrale e gli atomi di ossigeno.",
+    "options": [
+      "I PCDF differiscono dalle diossine per la perdita di un ossigeno nell'anello centrale",
+      "I PCDF hanno due atomi di ossigeno in più rispetto alle diossine",
+      "I PCDF non contengono atomi di cloro"
+    ],
+    "correctIndex": 0,
+    "explanation": "I PCDF hanno struttura simile a quella delle diossine, dalle quali differiscono per la perdita di un ossigeno nell'anello centrale.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-016",
+    "topic": "bio-chimica",
+    "question": "In quale anno e in quali paesi fu progressivamente vietata la produzione di PCB?",
+    "suggestion": "Il Giappone fu il primo, nel 1972; l'Italia l'ultima tra questi.",
+    "options": [
+      "Giappone nel 1972, Stati Uniti dal 1977 e Italia nel 1983",
+      "Italia nel 1972, Giappone nel 1977 e Stati Uniti nel 1983",
+      "Stati Uniti nel 1966, Italia nel 1972 e Giappone nel 1983"
+    ],
+    "correctIndex": 0,
+    "explanation": "La produzione di PCB fu vietata in Giappone nel 1972, negli Stati Uniti a partire dal 1977 e in Italia nel 1983.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-017",
+    "topic": "bio-chimica",
+    "question": "Come si comporta la reattività dei PCB all'aumentare del grado di clorurazione?",
+    "suggestion": "Insieme alla reattività variano anche solubilità e infiammabilità.",
+    "options": [
+      "Solubilità, infiammabilità e reattività tendono a diminuire",
+      "Solubilità, infiammabilità e reattività tendono ad aumentare",
+      "Solo la solubilità aumenta, mentre reattività e infiammabilità restano costanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'aumentare della clorazione dei PCB la solubilità, l'infiammabilità e la reattività tendono a diminuire.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-018",
+    "topic": "bio-chimica",
+    "question": "Qual è la reazione cutanea più frequente dovuta all'esposizione ai PCB?",
+    "suggestion": "È una risposta a molti composti organoclorurati.",
+    "options": [
+      "La cloracne, un'eruzione cutanea acneiforme persistente e dolorosa",
+      "Un'ustione chimica immediata",
+      "Una semplice irritazione transitoria che scompare in poche ore"
+    ],
+    "correctIndex": 0,
+    "explanation": "La reazione più frequente dovuta all'esposizione a PCB è la cloracne, un'eruzione cutanea acneiforme persistente, deturpante e dolorosa, risposta biologica a molti composti organoclorurati.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-019",
+    "topic": "bio-chimica",
+    "question": "Nei corpi acquosi, perché PCB e diossine tendono ad essere assorbiti nei sedimenti vicino agli scarichi?",
+    "suggestion": "Dipende da quanto sono solubili in acqua e dal loro Kow.",
+    "options": [
+      "Per la bassa solubilità in acqua e l'elevato valore di Kow",
+      "Per l'elevata solubilità in acqua e il basso valore di Kow",
+      "Perché reagiscono rapidamente per idrolisi con l'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "A causa della bassa solubilità in acqua e dell'elevato valore di Kow, PCB e diossine tendono ad essere assorbiti nei sedimenti vicino agli scarichi; il congenere prevalente nei sedimenti è l'octaclorodibenzo[1,4]diossina.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-020",
+    "topic": "bio-chimica",
+    "question": "Attraverso quale processo i batteri degradano i PCB in condizioni anaerobiche?",
+    "suggestion": "Comporta la sostituzione del cloro con idrogeno.",
+    "options": [
+      "Dealogenazione riduttiva, con sostituzione del cloro con H",
+      "Fotoossidazione catalizzata dalla luce UV",
+      "Idrolisi del legame C−Cl"
+    ],
+    "correctIndex": 0,
+    "explanation": "In condizioni anaerobiche i batteri degradano i PCB tramite dealogenazione riduttiva (sostituzione del cloro con H), ad esempio trasformando l'esaclorobifenile in pentaclorobifenile, più suscettibile a biotrasformazioni aerobiche.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tutti i congeneri delle diossine, che sono composti aromatici triciclici, hanno una struttura ___ .",
+    "answers": [["planare", "complanare"]],
+    "suggestion": "Geometria piatta, tutti gli atomi sullo stesso piano.",
+    "explanation": "Le diossine sono una serie di composti aromatici triciclici e planari; tutti i loro congeneri sono planari.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il riscaldamento dei PCB con O₂ a temperature attorno ai 700 °C porta alla formazione di ___ , i policlorodibenzofurani.",
+    "answers": [["PCDF"]],
+    "suggestion": "La sigla dei dibenzofurani policlorurati.",
+    "explanation": "PCB + O₂ a temperature di circa 700 °C danno luogo alla formazione di PCDF (policlorodibenzofurani).",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Si concluse che, negli incidenti di Giappone e Taiwan, i furani coinvolti presentavano una tossicità, su base grammo/grammo, circa ___ volte superiore a quella dei PCB puri.",
+    "answers": [["500"]],
+    "suggestion": "Un numero di centinaia.",
+    "explanation": "Alcuni esperimenti hanno dimostrato che i furani coinvolti negli incidenti presentavano una tossicità, su base grammo/grammo, 500 volte superiore rispetto a quella dei PCB puri.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  }
+]

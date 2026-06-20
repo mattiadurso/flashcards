@@ -1,0 +1,365 @@
+[
+  {
+    "id": "bci-micro-001",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza tra microplastiche primarie e secondarie dal punto di vista della contaminazione ambientale?",
+    "suggestion": "Una categoria nasce già piccola, l'altra deriva da un processo.",
+    "options": [
+      "Le primarie sono pellet industriali o materiali usati nella manifattura, le secondarie originano per degradazione e frammentazione di plastiche usurate",
+      "Le primarie sono biodegradabili, le secondarie no",
+      "Le primarie derivano da frammentazione, le secondarie sono pellet industriali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le microplastiche primarie sono prodotte come tali (pellet industriali o materiali della manifattura), mentre le secondarie si formano per degradazione seguita da frammentazione di plastiche usurate.",
+    "difficulty": "easy",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-002",
+    "topic": "bio-chimica",
+    "question": "Quali sono i tre polimeri principali citati tra le materie plastiche?",
+    "suggestion": "Tre poli- comuni negli imballaggi.",
+    "options": [
+      "Polietilene, polipropilene e polistirene",
+      "Poliestere, poliammide e poliuretano",
+      "Policarbonato, PVC e PET"
+    ],
+    "correctIndex": 0,
+    "explanation": "I polimeri principali indicati sono polietilene, polipropilene e polistirene.",
+    "difficulty": "easy",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le microplastiche sono particelle costituite da polimeri sintetici con dimensioni minori o uguali a ___ mm.",
+    "answers": [["5", "cinque"]],
+    "suggestion": "Una sola cifra.",
+    "explanation": "Per definizione le microplastiche hanno dimensioni minori o uguali a 5 mm, con origine sia primaria che secondaria.",
+    "difficulty": "easy",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le nanoplastiche hanno dimensioni inferiori a ___ micrometro, definizione che le differenzia dalle nanoparticelle ingegnerizzate (ENMs), comprese tra 1 e 100 nm.",
+    "answers": [["1", "uno", "un"]],
+    "suggestion": "Un solo micrometro come soglia.",
+    "explanation": "Le nanoplastiche hanno dimensioni <1 μm; le nanoparticelle ingegnerizzate (ENMs) sono invece comprese tra 1 e 100 nm.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-003",
+    "topic": "bio-chimica",
+    "question": "Quale processo, dovuto alla crescita di organismi sulle superfici delle microplastiche, ne aumenta la densità influenzandone la galleggiabilità?",
+    "suggestion": "Crescita di una pellicola biologica sulla superficie.",
+    "options": [
+      "Il biofouling",
+      "La fotodegradazione",
+      "La flocculazione",
+      "La volatilizzazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il biofouling causa un aumento di densità che influenza la galleggiabilità; il processo inverso (de-fouling) permette il ritorno in superficie.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-004",
+    "topic": "bio-chimica",
+    "question": "Perché l'alternanza di cicli di biofouling e de-fouling è rilevante per gli ecosistemi acquatici?",
+    "suggestion": "Pensa a chi può incontrare la microplastica a diverse quote d'acqua.",
+    "options": [
+      "Rende le microplastiche disponibili a organismi che occupano diverse profondità",
+      "Trasforma le microplastiche in composti biodegradabili",
+      "Elimina definitivamente le microplastiche dalla colonna d'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'alternanza di biofouling (affondamento) e de-fouling (risalita) espone le microplastiche a organismi che vivono a diverse profondità.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-005",
+    "topic": "bio-chimica",
+    "question": "Quale parametro è fondamentale per predire l'assorbimento (ripartizione) degli inquinanti organici sulle microplastiche?",
+    "suggestion": "Un coefficiente legato alla polarità ottanolo/acqua.",
+    "options": [
+      "Il log Kow: più una sostanza è non polare (log Kow alto), più si ripartisce sulle microplastiche",
+      "Il pH della soluzione: più è acido, più la sostanza si ripartisce",
+      "La densità del polimero: più è alta, più la sostanza si ripartisce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il parametro fondamentale è il log Kow: maggiore è la non-polarità (log Kow elevato), maggiore è la tendenza a ripartirsi sulle microplastiche.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-006",
+    "topic": "bio-chimica",
+    "question": "Quale polimero ha generalmente la capacità di assorbimento più elevata per la maggior parte dei composti organici aromatici (PAH e benzeni clorurati)?",
+    "suggestion": "Lo stesso che contiene anelli aromatici nel monomero.",
+    "options": [
+      "Il polistirene",
+      "Il polietilene",
+      "Il polipropilene"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il polistirene ha generalmente la capacità di assorbimento più elevata per i composti organici aromatici come PAH e benzeni clorurati.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nell'organismo le nanoplastiche si rivestono di biomacromolecole (es. proteine e polipeptidi) formando un complesso noto come ___.",
+    "answers": [["corona"]],
+    "suggestion": "Un termine che richiama un rivestimento avvolgente.",
+    "explanation": "Il rivestimento di biomacromolecole attorno alle nanoplastiche è detto corona e influenza i meccanismi di internalizzazione cellulare.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-008",
+    "topic": "bio-chimica",
+    "question": "Quali sono i due meccanismi principali con cui le nanoparticelle penetrano nelle cellule?",
+    "suggestion": "Uno non richiede energia, l'altro usa proteine di membrana.",
+    "options": [
+      "Passivo (osmosi) e attivo (recettori)",
+      "Fagocitosi e fotodegradazione",
+      "Flocculazione e biofouling"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'internalizzazione cellulare avviene con due meccanismi principali: passivo (osmosi) e attivo (mediato da recettori), dipendenti anche dal tipo di corona.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-009",
+    "topic": "bio-chimica",
+    "question": "Secondo l'ECHA, quale ruolo hanno gli additivi (fillers, stabilizzatori UV e plasticizzanti) nella tossicità da nanoplastiche?",
+    "suggestion": "Molti di essi sono disruttori endocrini rilasciati lentamente.",
+    "options": [
+      "Sono potenziali componenti attivi nella tossicità, rendendo le nanoplastiche vettori di sostanze tossiche, e molti sono disruttori endocrini (EDCs)",
+      "Rendono le nanoplastiche biodegradabili e quindi innocue",
+      "Aumentano la densità impedendo l'ingestione da parte degli organismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ECHA identifica gli additivi come potenziali componenti attivi nella tossicità: le nanoplastiche diventano vettori di sostanze tossiche, molte delle quali sono disruttori endocrini (EDCs).",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-010",
+    "topic": "bio-chimica",
+    "question": "In che modo le microplastiche possono influire negativamente sulla fotosintesi negli ecosistemi acquatici?",
+    "suggestion": "Pensa all'effetto su alghe come Chlorella e Scenedesmum.",
+    "options": [
+      "Limitano la fotosintesi di alghe come Chlorella e Scenedesmum, con conseguenze sull'ossigenazione delle acque e sulla produzione primaria",
+      "Aumentano la fotosintesi favorendo la crescita algale",
+      "Non hanno alcun effetto sulla fotosintesi, solo sull'ingestione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le microplastiche possono limitare la fotosintesi di alghe come Chlorella e Scenedesmum, con effetti negativi sull'ossigenazione delle acque e sulla produzione primaria di mari e laghi.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le microplastiche possono fungere da vettore per specie patogene del genere ___, che possono causare colera, setticemia e gastroenterite.",
+    "answers": [["Vibrio"]],
+    "suggestion": "Un batterio legato al colera.",
+    "explanation": "Ceppi patogeni del genere Vibrio (V. cholerae, V. parahaemolyticus, V. vulnificus) possono essere trasportati dalle microplastiche e causare colera, setticemia e gastroenterite.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-012",
+    "topic": "bio-chimica",
+    "question": "Perché i mictofidi (es. Electrona subaspera) sono particolarmente critici per il trasferimento delle microplastiche lungo la rete trofica?",
+    "suggestion": "Sono pesci planctivori alla base della catena alimentare.",
+    "options": [
+      "Sono pesci batipelagici planctivori alla base della rete trofica che ingeriscono e trattengono i frammenti plastici, e sono preda di tonni, calamari, odontoceti e otarie",
+      "Sono predatori apicali che eliminano facilmente le microplastiche",
+      "Sono organismi fotosintetici che degradano le microplastiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "I mictofidi sono pesci batipelagici planctivori alla base della rete trofica: ingeriscono e conservano i frammenti plastici senza eliminarli e sono preda di molte specie (tonni, calamari, odontoceti, otarie), trasferendo le microplastiche verso l'alto.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-013",
+    "topic": "bio-chimica",
+    "question": "Quali sono alcune vie con cui micro e nanoplastiche raggiungono i suoli agricoli?",
+    "suggestion": "Pensa a compost, fanghi e pratiche agronomiche.",
+    "options": [
+      "Compost da RSU, fanghi e liquami, pacciamatura, irrigazione, vento e inondazioni",
+      "Solo la fotodegradazione atmosferica",
+      "Esclusivamente la deposizione di nanoparticelle ingegnerizzate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le micro e nanoplastiche arrivano ai suoli agricoli tramite compost da RSU, fanghi e liquami, pacciamatura, irrigazione, vento, precipitazioni e inondazioni.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-014",
+    "topic": "bio-chimica",
+    "question": "Quali processi sono responsabili dell'alterazione e frammentazione delle plastiche nell'ambiente?",
+    "suggestion": "Includono luce, temperatura, agenti chimici e forze fisiche.",
+    "options": [
+      "Fotodegradazione, temperatura, agenti chimici e forze fisiche come collisioni e moto ondoso",
+      "Solo la decomposizione batterica anaerobica",
+      "Esclusivamente la dissoluzione in acqua salata"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'alterazione e frammentazione delle plastiche avviene per fotodegradazione, temperatura, agenti chimici, forze fisiche (collisioni tra detriti e moto ondoso) e flocculazione.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-015",
+    "topic": "bio-chimica",
+    "question": "Perché i laghi sono considerati degli «accumulatori» di microplastiche, a differenza dei fiumi?",
+    "suggestion": "Pensa al ruolo di trasporto dei fiumi.",
+    "options": [
+      "I laghi accumulano le microplastiche, mentre i fiumi agiscono come nastri trasportatori che le veicolano",
+      "I laghi degradano le microplastiche, mentre i fiumi le accumulano",
+      "Sia laghi sia fiumi eliminano completamente le microplastiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "I laghi sono accumulatori (es. lago di Garda, 100-1100 elementi per m²), mentre i fiumi sono nastri trasportatori (es. il Danubio scarica 1500 tonnellate all'anno nel Mar Nero).",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-016",
+    "topic": "bio-chimica",
+    "question": "Cosa si osserva confrontando la densità delle microplastiche costiere con quella delle microplastiche pelagiche?",
+    "suggestion": "Una delle due ha densità più vicina a quella dell'acqua di mare.",
+    "options": [
+      "Le costiere hanno densità coerente con i polimeri vergini, le pelagiche densità mediamente più alta e spesso simile all'acqua di mare",
+      "Le costiere hanno densità simile all'acqua di mare, le pelagiche densità dei polimeri vergini",
+      "Entrambe hanno densità identica ai polimeri vergini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le microplastiche costiere hanno densità coerente con i polimeri vergini, mentre quelle pelagiche hanno densità mediamente più alta, spesso simile a quella dell'acqua di mare.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-017",
+    "topic": "bio-chimica",
+    "question": "Quale polimero mostra il più elevato assorbimento per i PAH più idrofobici?",
+    "suggestion": "Non è il polistirene né il polipropilene.",
+    "options": [
+      "Il polietilene",
+      "Il polistirene",
+      "Il polipropilene"
+    ],
+    "correctIndex": 0,
+    "explanation": "La natura dei polimeri ha effetto selettivo: il polietilene mostra il più elevato assorbimento per i PAH più idrofobici, mentre il polipropilene assorbe più facilmente gli esaclorocicloesani (HCH).",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-018",
+    "topic": "bio-chimica",
+    "question": "Quali risposte cellulari inducono le nanoplastiche internalizzate?",
+    "suggestion": "Coinvolgono mitocondri e organelli del traffico intracellulare.",
+    "options": [
+      "Risposte di mitocondri, reticolo endoplasmatico e lisosomi",
+      "La sola attivazione della parete cellulare",
+      "Esclusivamente la duplicazione del DNA nucleare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le nanoplastiche internalizzate inducono risposte dei mitocondri, del reticolo endoplasmatico e dei lisosomi.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-019",
+    "topic": "bio-chimica",
+    "question": "Cosa accade alle microplastiche dopo essere state ingerite dalla maggior parte degli organismi?",
+    "suggestion": "Solo alcune specie riescono a eliminarle.",
+    "options": [
+      "Vengono incorporate nei tessuti e possono rimanere nell'organismo per l'intera vita dell'individuo",
+      "Vengono degradate enzimaticamente entro poche ore",
+      "Vengono sempre espulse rapidamente con le feci"
+    ],
+    "correctIndex": 0,
+    "explanation": "Solo alcune specie possono eliminare le microplastiche; nella maggior parte dei casi esse vengono incorporate nei tessuti (es. nell'emolinfa ed emociti di Mytilus edulis) e possono rimanere per l'intera vita dell'individuo.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-020",
+    "topic": "bio-chimica",
+    "question": "Quali biomacromolecole costituiscono principalmente la corona che riveste le nanoplastiche nell'organismo?",
+    "suggestion": "Sono macromolecole azotate.",
+    "options": [
+      "Proteine e polipeptidi",
+      "Lipidi e trigliceridi",
+      "Polisaccaridi e cellulosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'organismo le nanoplastiche si rivestono di biomacromolecole, in particolare proteine e polipeptidi, formando il complesso noto come corona.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le microplastiche assorbono gli inquinanti organici idrofobici (HOC) secondo un modello di assorbimento ___.",
+    "answers": [["bifasico"]],
+    "suggestion": "Avviene in due fasi.",
+    "explanation": "Le microplastiche assorbono gli inquinanti organici idrofobici (HOC) secondo un modello di assorbimento bifasico.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Sulle superfici delle microplastiche crescono comunità microbiche organizzate in pellicole dette ___.",
+    "answers": [["biofilm"]],
+    "suggestion": "Termine inglese per pellicola biologica.",
+    "explanation": "Sulle superfici delle microplastiche crescono biofilm, network batterici specializzati (es. nella degradazione degli idrocarburi) che costituiscono nuovi habitat.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le microplastiche possono fungere da vettore per dinoflagellate del genere ___, specie invasive pericolose per le loro neurotossine.",
+    "answers": [["Alexandrium"]],
+    "suggestion": "Inizia per A, associato alle maree tossiche.",
+    "explanation": "Le microplastiche possono trasportare dinoflagellate del genere Alexandrium, specie invasive molto pericolose a causa delle loro neurotossine.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-021",
+    "topic": "bio-chimica",
+    "question": "Quali fattori favoriscono l'ingestione delle microplastiche da parte degli organismi?",
+    "suggestion": "Pensa alla somiglianza con il cibo naturale e al modo di alimentarsi.",
+    "options": [
+      "Dimensioni comparabili a plancton e sedimenti e strategie di alimentazione non selettive per dimensione o colore",
+      "L'elevata biodegradabilità delle particelle",
+      "La densità sempre molto superiore a quella dell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ingestione è favorita da dimensioni comparabili a quelle di plancton e sedimenti e da strategie di alimentazione non selettive (in base a dimensione o colore).",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  }
+]

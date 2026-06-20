@@ -1,0 +1,366 @@
+[
+  {
+    "id": "bci-destino-001",
+    "topic": "bio-chimica",
+    "question": "Secondo la convinzione diffusa fino a metà '900, come venivano assimilate le sostanze immesse nell'ambiente?",
+    "suggestion": "Due meccanismi: uno trasforma, l'altro abbassa la concentrazione.",
+    "options": [
+      "Per trasformazione in sostanze innocue e per diluizione fino a livelli non pericolosi",
+      "Per congelamento nei sedimenti e successiva sepoltura",
+      "Per combustione spontanea ad opera della luce solare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Si credeva che le sostanze venissero assimilate per trasformazione da parte dei sistemi naturali in sostanze innocue e per diluizione fino a livelli non pericolosi.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-002",
+    "topic": "bio-chimica",
+    "question": "Quale relazione descrive la dinamica di crescita di un inquinante persistente nell'ambiente?",
+    "suggestion": "Combina la durata della sostanza con la sua continua immissione.",
+    "options": [
+      "Diluizione + trasformazione = crescita",
+      "Persistenza + liberazione = crescita",
+      "Volatilità + idrolisi = crescita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il testo riassume la dinamica come PERSISTENZA + LIBERAZIONE = CRESCITA, associata a concentrazione negli organismi viventi e dispersione non omogenea.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-003",
+    "topic": "bio-chimica",
+    "question": "Perché la strategia \"end of the pipe\" è considerata solo una soluzione parziale?",
+    "suggestion": "Gli inquinanti non scompaiono davvero.",
+    "options": [
+      "Perché distrugge completamente gli inquinanti ma a costi elevati",
+      "Perché gli inquinanti non sono distrutti ma resi meno tossici o spostati in un altro ambiente",
+      "Perché riduce la produzione alla fonte ma aumenta la dispersione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'end of the pipe si basa sul recupero: riduce la dispersione raccogliendo e smaltendo gli inquinanti, ma questi non sono distrutti, solo resi meno tossici o depositati altrove.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-004",
+    "topic": "bio-chimica",
+    "question": "Qual è lo scopo finale ideale dell'approccio della chimica verde?",
+    "suggestion": "Riguarda la quantità di sostanze tossiche persistenti immesse.",
+    "options": [
+      "Raggiungere l'immissione zero nell'ambiente di certe sostanze tossiche persistenti",
+      "Massimizzare il recupero degli inquinanti già dispersi",
+      "Aumentare la diluizione degli scarichi industriali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo scopo finale della chimica verde è giungere a una situazione di immissione zero nell'ambiente di certe sostanze tossiche persistenti.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-005",
+    "topic": "bio-chimica",
+    "question": "Perché un chimico ambientale deve avere una conoscenza chimica \"a 360 gradi\"?",
+    "suggestion": "I fenomeni che studia coinvolgono diversi rami della chimica.",
+    "options": [
+      "Perché deve sintetizzare nuovi pesticidi più efficaci",
+      "Perché serve conoscere reattività organica e inorganica e i processi chimico-fisici di diffusione",
+      "Perché deve occuparsi solo degli aspetti legali dei dati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deve conoscere reattività organica e inorganica, i processi chimico-fisici alla base della diffusione delle sostanze, volatilità, solubilità, interazioni col terreno, ecc.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-006",
+    "topic": "bio-chimica",
+    "question": "Perché la validazione dei dati analitici è parte integrante dell'attività del chimico ambientale?",
+    "suggestion": "I risultati possono finire in un contesto non solo scientifico.",
+    "options": [
+      "Per ridurre il numero di campionamenti necessari",
+      "Anche ai fini della difendibilità legale dei risultati analitici",
+      "Per accelerare le reazioni di trasformazione delle sostanze"
+    ],
+    "correctIndex": 1,
+    "explanation": "La validazione dei dati serve anche ai fini della difendibilità legale dei risultati analitici, oltre alla loro corretta interpretazione.",
+    "difficulty": "hard",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-007",
+    "topic": "bio-chimica",
+    "question": "Tra i comparti ambientali in cui una sostanza può ripartirsi, quale gruppo è corretto?",
+    "suggestion": "Include anche gli organismi viventi.",
+    "options": [
+      "Atmosfera, acqua, suolo e sedimento, biota",
+      "Solventi, catalizzatori, reagenti, prodotti",
+      "Acidi, basi, sali, gas nobili"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mobilità ambientale riguarda la ripartizione e il trasferimento tra i comparti: atmosfera, acqua, suolo e sedimento, biota.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-008",
+    "topic": "bio-chimica",
+    "question": "Quale sequenza rappresenta correttamente il percorso logico dalla molecola ai suoi effetti, secondo lo schema del corso?",
+    "suggestion": "Si parte dalle caratteristiche della molecola e si arriva alla tossicità.",
+    "options": [
+      "Effetti biologici → proprietà chimico-fisiche → caratteristiche della molecola",
+      "Caratteristiche della molecola → proprietà chimico-fisiche → trasformazioni e distribuzione → effetti biologici",
+      "Trasformazioni → caratteristiche della molecola → effetti biologici → proprietà chimico-fisiche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo schema procede da caratteristiche della molecola (area, peso molecolare, gruppi funzionali) alle proprietà chimico-fisiche, alle trasformazioni/distribuzione e infine agli effetti biologici.",
+    "difficulty": "hard",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Fino alla metà del ventesimo secolo era diffuso il detto: \"La soluzione dell'inquinamento sta nella ___\".",
+    "answers": [
+      [
+        "diluizione"
+      ]
+    ],
+    "suggestion": "Abbassare la concentrazione aggiungendo solvente.",
+    "explanation": "Si credeva che la diluizione fino a livelli non pericolosi risolvesse l'inquinamento.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La strategia ___ controlla l'inquinamento basandosi sul recupero piuttosto che sulla riduzione della produzione di rifiuti tossici.",
+    "answers": [
+      [
+        "end of the pipe",
+        "end-of-the-pipe",
+        "end of pipe"
+      ]
+    ],
+    "suggestion": "Espressione inglese: agisce alla \"fine del tubo\".",
+    "explanation": "L'end of the pipe interviene a valle del processo, raccogliendo e smaltendo gli inquinanti senza ridurne la produzione.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Esistono inquinanti che subiscono rapide trasformazioni chimiche, fotochimiche (___) o microbiologiche dando prodotti innocui.",
+    "answers": [
+      [
+        "fotolisi"
+      ]
+    ],
+    "suggestion": "Scissione di una molecola ad opera della luce.",
+    "explanation": "La fotolisi è la trasformazione fotochimica che può portare un inquinante a prodotti secondari innocui.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra gli esempi di chimica verde vi è la sostituzione dei ___ nella catalisi industriale con sostanze non dannose.",
+    "answers": [
+      [
+        "metalli pesanti"
+      ]
+    ],
+    "suggestion": "Elementi come piombo, mercurio o cadmio.",
+    "explanation": "La chimica verde propone di sostituire i metalli pesanti usati come catalizzatori con sostanze non dannose.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-009",
+    "topic": "bio-chimica",
+    "question": "Nello schema PERSISTENZA + LIBERAZIONE = CRESCITA, quali due conseguenze sono associate alla crescita di un inquinante?",
+    "suggestion": "Una riguarda gli organismi, l'altra la distribuzione nello spazio.",
+    "options": [
+      "Concentrazione negli organismi viventi e dispersione non omogenea",
+      "Diluizione progressiva e degradazione spontanea",
+      "Aumento della volatilità e riduzione della tossicità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo schema associa alla crescita dell'inquinante la concentrazione negli organismi viventi e la dispersione non omogenea.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-010",
+    "topic": "bio-chimica",
+    "question": "Quale tra queste attività NON è citata come parte integrante dell'attività del chimico ambientale?",
+    "suggestion": "Pensa al ciclo: campionamento, protocolli, interpretazione, validazione.",
+    "options": [
+      "La pianificazione di campagne di campionamento",
+      "La scelta dei protocolli analitici più appropriati",
+      "La sintesi industriale di nuovi solventi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le attività integranti sono la pianificazione delle campagne di campionamento, la scelta dei protocolli analitici, l'interpretazione dei dati e la loro validazione; non la sintesi di solventi.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-011",
+    "topic": "bio-chimica",
+    "question": "Nelle fasi di studio, cosa significa risalire all'origine dell'inquinamento?",
+    "suggestion": "Distinguere un evento occasionale da un rilascio prolungato.",
+    "options": [
+      "Stabilire se si tratta di incidente isolato o rilascio continuo da sorgente puntiforme",
+      "Misurare il pH delle acque contaminate",
+      "Calcolare il momento di dipolo della sostanza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Risalire all'origine significa stabilire se l'inquinamento deriva da un incidente isolato o da un rilascio continuo da una sorgente puntiforme, ecc.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-012",
+    "topic": "bio-chimica",
+    "question": "In quale ambito la chimica ambientale gioca un ruolo chiave, secondo il testo?",
+    "suggestion": "Riguarda emissioni, lavoratori, ambiente e nuovi agenti.",
+    "options": [
+      "Nella progettazione di reattori nucleari",
+      "Nel controllo delle emissioni industriali e nella protezione della salute dei lavoratori",
+      "Nella formulazione di nuovi farmaci antitumorali"
+    ],
+    "correctIndex": 1,
+    "explanation": "La chimica ambientale è chiave nel controllo delle emissioni industriali, nella protezione della salute dei lavoratori e dell'ambiente e nella valutazione di nuovi agenti chimici.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-013",
+    "topic": "bio-chimica",
+    "question": "Tra le caratteristiche della molecola da cui parte lo schema causale, quali sono citate?",
+    "suggestion": "Grandezze geometriche e strutturali della molecola.",
+    "options": [
+      "Area superficiale, peso molecolare, gruppi funzionali e legami",
+      "Colore, odore e sapore",
+      "Prezzo di mercato e disponibilità commerciale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le caratteristiche della molecola includono area superficiale, peso molecolare, gruppi funzionali, legami, ecc., da cui derivano le proprietà chimico-fisiche.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-014",
+    "topic": "bio-chimica",
+    "question": "Quali grandezze esemplificano le proprietà chimico-fisiche nello schema del corso?",
+    "suggestion": "Solubilità, tensione di vapore, temperatura di fusione...",
+    "options": [
+      "Solubilità, tensione di vapore, temperatura di fusione e coefficienti di ripartizione",
+      "Tossicità, mutagenicità e cancerogenicità",
+      "Persistenza, bioaccumulo e biomagnificazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le proprietà chimico-fisiche comprendono solubilità, tensione di vapore, temperatura di fusione, coefficienti di ripartizione, ecc.; tossicità ed effetti riguardano invece gli effetti biologici.",
+    "difficulty": "hard",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-015",
+    "topic": "bio-chimica",
+    "question": "Tra gli esempi di chimica verde citati, quale riguarda la progettazione dei prodotti?",
+    "suggestion": "Pensa al fine vita del prodotto chimico.",
+    "options": [
+      "Progettare prodotti chimici riciclabili o eliminabili senza rischi per l'ambiente",
+      "Aumentare la durata commerciale dei prodotti",
+      "Concentrare i prodotti per ridurne il volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra gli esempi di chimica verde vi è la progettazione di prodotti chimici tali da poter essere riciclati o eliminati senza rischi per l'ambiente.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nello schema causale del corso, dalle caratteristiche della molecola si passa alle proprietà chimico-fisiche, poi a trasformazioni e distribuzione e infine agli effetti ___.",
+    "answers": [["biologici", "biologico"]],
+    "suggestion": "Riguardano tossicità, crescita e riproduzione.",
+    "explanation": "Lo schema termina con gli effetti biologici: tossicità, effetti sulla crescita e sulla riproduzione.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra le trasformazioni che attenuano il rischio, il testo cita idrolisi e ___ tra le reazioni chimiche.",
+    "answers": [["ossidazioni", "ossidazione"]],
+    "suggestion": "Reazioni in cui una sostanza perde elettroni.",
+    "explanation": "Esistono sostanze che subiscono rapide trasformazioni chimiche come idrolisi e ossidazioni a prodotti secondari innocui.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Definire l'estensione dell'inquinamento corrisponde alla ___ del territorio interessato.",
+    "answers": [["mappatura"]],
+    "suggestion": "Rappresentazione spaziale dell'area coinvolta.",
+    "explanation": "Nelle fasi di studio, l'estensione dell'inquinamento si definisce tramite la mappatura, distinta dall'analisi qualitativa e dall'indagine quantitativa.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il chimico ambientale deve disporre di una conoscenza chimica a ___ gradi, comprendente reattività organica e inorganica.",
+    "answers": [["360"]],
+    "suggestion": "Un numero che indica una visione completa, a giro intero.",
+    "explanation": "Il testo afferma che il chimico ambientale deve avere una conoscenza chimica a 360 gradi.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Valutare la mobilità ambientale significa stabilire come una sostanza possa ripartirsi ed essere trasferita ai diversi ___ ambientali.",
+    "answers": [["comparti", "comparti ambientali"]],
+    "suggestion": "Atmosfera, acqua, suolo e sedimento, biota.",
+    "explanation": "La mobilità ambientale riguarda la ripartizione e il trasferimento della sostanza ai diversi comparti ambientali.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La validazione dei dati analitici serve anche ai fini della ___ legale dei risultati.",
+    "answers": [["difendibilità"]],
+    "suggestion": "La capacità di sostenere i risultati in sede giudiziaria.",
+    "explanation": "La validazione dei dati è importante anche ai fini della difendibilità legale dei risultati analitici.",
+    "difficulty": "hard",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Storicamente si credeva che le sostanze immesse nell'ambiente venissero assimilate per trasformazione in sostanze ___ presenti in natura.",
+    "answers": [["innocue", "innocua"]],
+    "suggestion": "Non nocive, prive di pericolosità.",
+    "explanation": "Si riteneva che i sistemi naturali trasformassero le sostanze in sostanze innocue già presenti in natura, e che la diluizione le portasse a livelli non pericolosi.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  }
+]

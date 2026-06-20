@@ -1,0 +1,379 @@
+[
+  {
+    "id": "bci-napl-001",
+    "topic": "bio-chimica",
+    "question": "Cosa significa l'acronimo NAPL?",
+    "suggestion": "Riguarda liquidi che non si mescolano con l'acqua.",
+    "options": [
+      "Non Aqueous Phase Liquids (liquidi in fase non acquosa)",
+      "Natural Aquifer Pollutant Liquids",
+      "Non Adsorbed Phase Leachate"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAPL sta per Non Aqueous Phase Liquids, cioè liquidi non miscibili con l'acqua che formano una fase separata; l'insieme di LNAPL e DNAPL viene definito NAPL.",
+    "difficulty": "easy",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-002",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza fondamentale di densità tra LNAPL e DNAPL rispetto all'acqua?",
+    "suggestion": "L sta per Light, D per Dense.",
+    "options": [
+      "I LNAPL hanno densità minore dell'acqua (D < dH2O), i DNAPL densità maggiore (D > dH2O)",
+      "I LNAPL hanno densità maggiore dell'acqua, i DNAPL minore",
+      "Entrambi hanno densità identica a quella dell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "I LNAPL (Light) hanno densità minore dell'acqua, i DNAPL (Dense) densità maggiore: questo condiziona il loro comportamento nel terreno rispetto alla falda.",
+    "difficulty": "easy",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-003",
+    "topic": "bio-chimica",
+    "question": "Quali tra questi sono esempi tipici di LNAPL?",
+    "suggestion": "Combustibili più leggeri dell'acqua.",
+    "options": [
+      "Kerosene, nafta, benzina e miscele di idrocarburi (gasolio, petrolio)",
+      "Percloroetilene e tricloroetilene",
+      "PCB e idrocarburi clorurati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i LNAPL rientrano kerosene, nafta, benzina, BTEX, miscele di idrocarburi (benzina, petrolio, gasolio) e olii lubrificanti, tutti meno densi dell'acqua.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-004",
+    "topic": "bio-chimica",
+    "question": "Quali tra questi sono esempi tipici di DNAPL?",
+    "suggestion": "Idrocarburi clorurati più densi dell'acqua.",
+    "options": [
+      "Percloroetilene, tricloroetilene e PCB",
+      "Benzina, kerosene e gasolio",
+      "Olii lubrificanti e nafta"
+    ],
+    "correctIndex": 0,
+    "explanation": "I DNAPL (più densi dell'acqua) comprendono idrocarburi clorurati come percloroetilene, tricloroetilene e PCB.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'acronimo BTEX indica benzene, toluene, etilbenzene e ___, tipici LNAPL di interesse ambientale.",
+    "answers": [["xileni", "xilene", "xilolo"]],
+    "suggestion": "La X dell'acronimo.",
+    "explanation": "BTEX = Benzene, Toluene, Etilbenzene, Xileni; sono LNAPL importanti dal punto di vista ambientale.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-005",
+    "topic": "bio-chimica",
+    "question": "Come si comportano i composti solubili rispetto a quelli immiscibili in un NAPL che contamina l'acquifero?",
+    "suggestion": "Una parte va in soluzione, l'altra resta separata.",
+    "options": [
+      "I composti solubili vengono trasportati in soluzione dalle acque d'infiltrazione e si disperdono per dispersione idrodinamica, mentre gli immiscibili restano in una fase separata",
+      "Tutti i composti restano sempre in fase separata senza dissolversi",
+      "Tutti i composti si dissolvono completamente nell'acqua di falda"
+    ],
+    "correctIndex": 0,
+    "explanation": "I composti solubili sono trasportati in soluzione dalle acque d'infiltrazione e si allargano/approfondiscono secondo la dispersione idrodinamica; quelli immiscibili rimangono in una fase separata.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-006",
+    "topic": "bio-chimica",
+    "question": "Da quali fattori dipende la migrazione dei NAPL nel sottosuolo?",
+    "suggestion": "Quantità, superfici e struttura dei pori.",
+    "options": [
+      "Dalla quantità rilasciata, dalle proprietà fisiche delle superfici e dalla struttura del suolo (dimensioni dei pori)",
+      "Esclusivamente dalla temperatura atmosferica",
+      "Solo dal pH dell'acqua di falda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La migrazione dei NAPL dipende dalla quantità rilasciata, dalle proprietà fisiche delle superfici e dalla struttura del suolo (dimensione dei pori).",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La zona ___ (o di aerazione) è caratterizzata dalla coesistenza di aria ed acqua in quantità tali da non saturare il terreno, con movimento dell'acqua principalmente verticale (percolazione).",
+    "answers": [["insatura", "vadosa"]],
+    "suggestion": "È anche detta vadosa.",
+    "explanation": "La zona insatura, di aerazione o vadosa, è quella in cui aria e acqua coesistono senza saturare il terreno; il movimento dell'acqua è prevalentemente verticale per percolazione.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-007",
+    "topic": "bio-chimica",
+    "question": "Cosa avviene nella frangia capillare e da cosa dipende l'altezza di risalita dell'acqua?",
+    "suggestion": "Più i capillari sono stretti, più...",
+    "options": [
+      "È la zona di contatto tra zona satura e insatura; l'acqua risale per capillarità e l'altezza di risalita è tanto maggiore quanto minore è la dimensione dei capillari",
+      "È la zona satura più profonda; la risalita aumenta con pori più grandi",
+      "È la zona di evapotraspirazione; la risalita non dipende dai pori"
+    ],
+    "correctIndex": 0,
+    "explanation": "La frangia capillare è la zona di contatto tra zona satura e insatura: l'acqua risale per capillarità e l'altezza di risalita è maggiore quanto minore è la dimensione dei capillari.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella zona satura (acquifero) l'acqua riempie tutti i pori intercomunicanti del terreno e fluisce secondo la legge di ___.",
+    "answers": [["Darcy"]],
+    "suggestion": "Una legge fondamentale dell'idrologia sotterranea.",
+    "explanation": "Nella zona satura l'acqua riempie tutti i pori intercomunicanti e fluisce secondo la legge di Darcy.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-008",
+    "topic": "bio-chimica",
+    "question": "Come si comporta un LNAPL al raggiungimento della frangia capillare e della falda?",
+    "suggestion": "Essendo meno denso dell'acqua, dove tende a restare?",
+    "options": [
+      "Non penetra nei pori saturi, tende ad allargarsi e si stratifica sulla superficie dell'acquifero",
+      "Penetra attraverso la falda fino allo strato impermeabile",
+      "Si dissolve completamente nella zona satura senza stratificarsi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Essendo meno denso dell'acqua, il LNAPL non penetra nei pori saturi, tende ad allargarsi e si stratifica sulla superficie dell'acquifero; le variazioni di altezza della falda favoriscono la dispersione orizzontale.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-009",
+    "topic": "bio-chimica",
+    "question": "Cosa accade a un DNAPL in caso di contaminazione di grossa entità?",
+    "suggestion": "Più denso dell'acqua: dove si ferma?",
+    "options": [
+      "Penetra attraverso lo strato saturo, attraversa la falda e si ferma solo su uno strato impermeabile, lungo il quale scivola se è pendente",
+      "Si stratifica sulla superficie dell'acquifero senza penetrare",
+      "Evapora completamente prima di raggiungere la falda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un DNAPL di grande entità penetra attraverso lo strato saturo, attraversa la falda e si ferma solo a uno strato impermeabile; se questo è pendente, scivola lentamente lungo di esso.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nelle miscele di NAPL il trasporto in fase vapore è descritto, all'equilibrio, dalla legge di ___, secondo cui Pi = xi · Pi0.",
+    "answers": [["Raoult"]],
+    "suggestion": "Lega pressione parziale e frazione molare.",
+    "explanation": "Per le miscele di NAPL la pressione parziale di un componente in fase vapore segue la legge di Raoult (Pi = xi · Pi0), valida solo all'equilibrio.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-012",
+    "topic": "bio-chimica",
+    "question": "Nella bonifica con barriere reattive, quale agente riducente è impiegato per i solventi clorurati?",
+    "suggestion": "Un metallo allo stato di ossidazione zero.",
+    "options": [
+      "Il ferro zerovalente (ferro granulare)",
+      "Il percloroetilene",
+      "Il polistirene granulare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ferro zerovalente (ferro granulare) è l'agente riducente usato per i solventi clorurati; Fe2+ e idrogeno sono altri possibili riducenti.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-013",
+    "topic": "bio-chimica",
+    "question": "Nella tecnica 'pump and treat', in che modo il pompaggio dei pozzi interviene sulla contaminazione della falda?",
+    "suggestion": "Abbassa la falda e cambia il flusso.",
+    "options": [
+      "Abbassa la falda e modifica l'andamento del flusso, limitando l'area contaminata",
+      "Aumenta la densità dell'acqua di falda per intrappolare i contaminanti",
+      "Trasforma chimicamente i DNAPL in LNAPL"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il pump and treat (trattamento ex situ) abbassa la falda mediante pompaggio di pozzi, modificando l'andamento del flusso dell'acquifero e limitando l'area contaminata.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-014",
+    "topic": "bio-chimica",
+    "question": "Cosa caratterizza la zona di evapotraspirazione nel profilo verticale del terreno?",
+    "suggestion": "È lo strato più superficiale e biologicamente attivo.",
+    "options": [
+      "È lo strato più superficiale, sede di attività biologica, dove i fenomeni evapotraspirativi reimmettono in atmosfera parte dell'acqua del suolo",
+      "È lo strato più profondo, saturo d'acqua, sopra il substrato impermeabile",
+      "È la zona di contatto tra zona satura e insatura dove l'acqua risale per capillarità"
+    ],
+    "correctIndex": 0,
+    "explanation": "La zona di evapotraspirazione è lo strato più superficiale e sede di attività biologica; i fenomeni evapotraspirativi reimmettono in atmosfera parte dell'acqua contenuta nel suolo.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-015",
+    "topic": "bio-chimica",
+    "question": "Nella zona vadosa, in che stato di pressione si trovano aria e acqua?",
+    "suggestion": "L'aria è a pressione atmosferica.",
+    "options": [
+      "L'aria è alla pressione atmosferica, mentre l'acqua è a pressione minore di quella atmosferica",
+      "Sia aria sia acqua sono a pressione maggiore di quella atmosferica",
+      "L'acqua è alla pressione atmosferica e l'aria a pressione minore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella zona vadosa (insatura) l'aria è alla pressione atmosferica, mentre l'acqua è a una pressione minore di quella atmosferica.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-016",
+    "topic": "bio-chimica",
+    "question": "Cosa accade a piccole quantità di LNAPL che si muovono nella zona vadosa?",
+    "suggestion": "Pensa a capillarità e tensione superficiale.",
+    "options": [
+      "Vengono trattenute per capillarità e tensione superficiale e non raggiungono la falda",
+      "Raggiungono sempre la falda e si stratificano sull'acquifero",
+      "Penetrano fino allo strato impermeabile più profondo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Piccole quantità di LNAPL nella zona vadosa vengono trattenute per capillarità e tensione superficiale e non raggiungono la falda; il loro spostamento è favorito dalla percolazione della pioggia (i suoli asciutti la ritardano).",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-017",
+    "topic": "bio-chimica",
+    "question": "Come influisce l'umidità del suolo sulla volatilizzazione di un composto non polare?",
+    "suggestion": "I composti non polari preferiscono la fase vapore.",
+    "options": [
+      "La volatilizzazione aumenta se il suolo è umido, perché i composti non polari restano preferenzialmente in fase vapore",
+      "La volatilizzazione diminuisce sempre con l'aumento dell'umidità",
+      "L'umidità non ha alcun effetto sulla volatilizzazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "I composti polari interagiscono meglio con un suolo umido, mentre quelli non polari restano preferenzialmente in fase vapore: per questi ultimi la volatilizzazione aumenta se il suolo è umido.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-018",
+    "topic": "bio-chimica",
+    "question": "In quante e quali fasi si conserva la massa di un NAPL nel suolo?",
+    "suggestion": "Oltre alla fase pura, considera disciolto, vapore e adsorbito.",
+    "options": [
+      "In fase pura, disciolta, vapore e adsorbita",
+      "Solo in fase pura e disciolta",
+      "Solo in fase vapore e adsorbita"
+    ],
+    "correctIndex": 0,
+    "explanation": "La conservazione della massa di un NAPL nel suolo considera quattro fasi: fase pura, disciolto, fase vapore e adsorbito; i limiti teorici sono dati da tensione di vapore, solubilità e adsorbimento.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-019",
+    "topic": "bio-chimica",
+    "question": "Perché in una miscela di NAPL i singoli componenti non si dissolvono al valore di solubilità del composto puro?",
+    "suggestion": "Conta la frazione molare nella miscela.",
+    "options": [
+      "Perché la solubilità effettiva dipende dalla frazione molare del componente nella miscela (Si_eff = Xi · Si0)",
+      "Perché la solubilità aumenta proporzionalmente alla densità del NAPL",
+      "Perché i componenti reagiscono chimicamente tra loro annullando la solubilità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle miscele la solubilità effettiva del componente i-esimo è Si_eff = Xi · Si0, con Xi frazione molare nella miscela e Si0 solubilità del composto puro: è quindi inferiore a quella del composto puro a saturazione.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-020",
+    "topic": "bio-chimica",
+    "question": "Da cosa dipende la mobilità di un DNAPL nel sottosuolo?",
+    "suggestion": "Considera proprietà del fluido e del mezzo.",
+    "options": [
+      "Dalla viscosità, dalla pressione idraulica e dalla conducibilità idraulica del mezzo",
+      "Esclusivamente dalla temperatura atmosferica superficiale",
+      "Solo dal colore del contaminante"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mobilità dei DNAPL dipende dalla viscosità e dalla pressione idraulica del fluido, nonché dalla conducibilità idraulica del mezzo.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Lo strato più superficiale del profilo del terreno, sede di attività biologica, è la zona di ___.",
+    "answers": [["evapotraspirazione"]],
+    "suggestion": "Combina evaporazione e traspirazione delle piante.",
+    "explanation": "La zona di evapotraspirazione è lo strato più superficiale del profilo del terreno ed è sede di attività biologica.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nell'esperimento in colonna, la concentrazione del tracciante in uscita in funzione del tempo costituisce la curva di penetrazione o di ___ (breakthrough curve).",
+    "answers": [["avanzamento"]],
+    "suggestion": "Sinonimo di penetrazione/progressione.",
+    "explanation": "La curva C(t) misurata in uscita dalla colonna è la curva di penetrazione o avanzamento (breakthrough curve); in assenza di dispersione sarebbe a gradino, mentre in realtà assume la classica forma a S.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'insieme dei liquidi non miscibili con l'acqua a densità minore (LNAPL) e maggiore (DNAPL) viene definito complessivamente ___.",
+    "answers": [["NAPL"]],
+    "suggestion": "L'acronimo che li comprende entrambi.",
+    "explanation": "L'insieme di LNAPL (densità < acqua) e DNAPL (densità > acqua) viene definito complessivamente NAPL.",
+    "difficulty": "easy",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-021",
+    "topic": "bio-chimica",
+    "question": "Negli interventi ingegneristici basati su barriere, qual è la funzione dei filtri biologicamente attivi associati alla barriera?",
+    "suggestion": "La barriera direziona, ma serve anche trattare il flusso.",
+    "options": [
+      "Trattare il flusso direzionato, mentre la barriera impermeabile reindirizza l'acquifero contaminato",
+      "Aumentare la densità dell'acqua per intrappolare i contaminanti",
+      "Trasformare i LNAPL in DNAPL prima del pompaggio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negli interventi con costruzione e direzionamento verso una barriera, una barriera impermeabile reindirizza il flusso dell'acquifero verso filtri biologicamente attivi che trattano i contaminanti.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-022",
+    "topic": "bio-chimica",
+    "question": "Perché un campionamento spaziale della fase gassosa è utile quando l'inquinante ha un componente volatile?",
+    "suggestion": "Aiuta a localizzare e seguire la contaminazione.",
+    "options": [
+      "Aiuta a definire la sorgente e il movimento in profondità della contaminazione",
+      "Permette di trasformare i DNAPL in composti solubili",
+      "Serve solo a misurare la temperatura del suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se l'inquinante ha una componente volatile, il campionamento spaziale della fase gassosa (CO2, CH4, alcani volatili, solventi clorurati) aiuta a definire la sorgente e il movimento in profondità.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx"
+  }
+]

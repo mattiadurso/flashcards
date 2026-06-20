@@ -1,0 +1,364 @@
+[
+  {
+    "id": "bci-idro-001",
+    "topic": "bio-chimica",
+    "question": "Da quale classe di idrocarburi è composto in prevalenza il petrolio?",
+    "suggestion": "Sono idrocarburi saturi a catena aperta.",
+    "options": [
+      "Alcani",
+      "Alcheni",
+      "Idrocarburi aromatici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il petrolio è una mistura di vari idrocarburi, in prevalenza alcani; le percentuali dei composti variano a seconda dei giacimenti.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il petrolio si trova solitamente nelle rocce ___ , dove è stato generato dalla deposizione di materiale organico derivante da microrganismi, piante e animali.",
+    "answers": [["sedimentarie"]],
+    "suggestion": "Tipo di roccia formata per deposizione.",
+    "explanation": "Il petrolio si trova nelle rocce sedimentarie, generato dalla deposizione di materiale organico.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-002",
+    "topic": "bio-chimica",
+    "question": "Cosa sono gli idrocarburi a base naftenica e perché sono rilevanti nel petrolio?",
+    "suggestion": "Sono saturi ma a catena chiusa.",
+    "options": [
+      "Cicloalcani saturi a catena chiusa; quelli con 5 o 6 atomi per anello costituiscono spesso la percentuale maggiore di idrocarburi nel petrolio",
+      "Idrocarburi aromatici a più anelli benzenici, la frazione più tossica",
+      "Alcheni insaturi ottenuti solo dopo cracking catalitico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli idrocarburi naftenici sono cicloalcani saturi a catena chiusa; quelli con 5 o 6 atomi per anello costituiscono generalmente la percentuale maggiore di idrocarburi nel petrolio.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-003",
+    "topic": "bio-chimica",
+    "question": "Cosa indica la sigla BTX e perché è importante in caso di fuoriuscita di petrolio in mare?",
+    "suggestion": "Tre composti aromatici; sono i più dannosi per la fauna acquatica.",
+    "options": [
+      "Benzene, toluene e xilene: la componente petrolifera chimicamente più tossica per crostacei e pesci",
+      "Bitume, tiofeni e xantani: la frazione solida che affonda sul fondale",
+      "Butano, toluene e xenon: i gas più volatili che evaporano subito"
+    ],
+    "correctIndex": 0,
+    "explanation": "BTX indica benzene, toluene e xilene; in caso di fuoriuscita in mare è la componente petrolifera chimicamente più tossica per crostacei e pesci.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-004",
+    "topic": "bio-chimica",
+    "question": "Perché i composti dello zolfo presenti nel petrolio rappresentano impurezze indesiderate?",
+    "suggestion": "Pensa a effetti su metalli, catalizzatori e prodotti di combustione.",
+    "options": [
+      "Corrodono i metalli, avvelenano i catalizzatori delle raffinerie e durante la combustione formano SO₂, un inquinante",
+      "Aumentano il numero di ottano rendendo la benzina troppo costosa",
+      "Rendono il petrolio più leggero dell'acqua impedendone il galleggiamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "I composti dello zolfo corrodono i metalli e avvelenano i catalizzatori delle raffinerie; durante la combustione i solfuri sono convertiti in SO₂, un inquinante.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il petrolio non raffinato viene chiamato grezzo o ___ , e non contiene alcheni né idrocarburi insaturi.",
+    "answers": [["greggio"]],
+    "suggestion": "Sinonimo di grezzo riferito al petrolio.",
+    "explanation": "Il petrolio non raffinato è detto grezzo o greggio; non contiene alcheni e idrocarburi insaturi, che si ottengono dopo raffinazione (es. cracking catalitico).",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-005",
+    "topic": "bio-chimica",
+    "question": "Su quale principio si basa la distillazione, prima fase della raffinazione del greggio?",
+    "suggestion": "Le frazioni si separano in base al peso molecolare e alla temperatura.",
+    "options": [
+      "Prima si separano gli idrocarburi a più basso peso molecolare, mentre per quelli a peso molecolare maggiore servono temperature crescenti",
+      "Si separano prima gli idrocarburi pesanti a bassa temperatura e poi i leggeri",
+      "Tutte le frazioni vaporizzano alla stessa temperatura e si separano per densità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella distillazione il petrolio inizia a vaporizzare poco sotto i 100 °C: prima si separano gli idrocarburi a più basso peso molecolare, mentre per distillare quelli a peso molecolare maggiore servono temperature via via crescenti.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-006",
+    "topic": "bio-chimica",
+    "question": "Qual è lo scopo del processo di cracking nella raffinazione del petrolio?",
+    "suggestion": "Agisce sulla lunghezza delle catene di idrocarburi.",
+    "options": [
+      "Trasformare lunghe molecole di idrocarburi in molecole più leggere",
+      "Unire più alcani leggeri in un unico alcano pesante",
+      "Aumentare il contenuto di zolfo del greggio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cracking trasforma lunghe molecole di idrocarburi in molecole più leggere; il cracking termico opera fino a 800 °C e alte pressioni, quello catalitico usa un catalizzatore a temperature e pressioni più basse.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-007",
+    "topic": "bio-chimica",
+    "question": "In che modo il reforming catalitico si distingue dal cracking?",
+    "suggestion": "Uno spezza le catene, l'altro le costruisce o riarrangia.",
+    "options": [
+      "Il reforming è una sintesi che, da più alcani leggeri, ottiene un alcano a peso molecolare maggiore, aumentando il numero di ottano",
+      "Il reforming spezza le catene lunghe in frammenti più piccoli a 800 °C",
+      "Il reforming aumenta il contenuto di zolfo per migliorare l'antidetonanza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il reforming è essenzialmente una sintesi di idrocarburi (soprattutto alcani): da più alcani a basso peso molecolare si ottiene un alcano più pesante, aumentando il numero di ottano. È caratterizzato da isomerizzazione e aromatizzazione.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il numero di ___ è un indice della resistenza alla detonazione di un carburante: per convenzione vale 0 per l'n-eptano e 100 per l'isottano.",
+    "answers": [["ottano", "ottani"]],
+    "suggestion": "Indice antidetonante delle benzine.",
+    "explanation": "Il numero di ottano misura la resistenza alla detonazione; per convenzione l'n-eptano vale 0 e l'isottano (2,2,4-trimetilpentano) vale 100.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-008",
+    "topic": "bio-chimica",
+    "question": "Quale fonte rappresenta solo circa il 10% dell'inquinamento da idrocarburi in mare?",
+    "suggestion": "È quella più mediatica ma meno frequente in percentuale.",
+    "options": [
+      "Il riversamento accidentale da petroliere coinvolte in incidenti di navigazione",
+      "Lo scarico sistematico di acque di zavorra da navi cisterna",
+      "Il dilavamento degli oli minerali dispersi nell'ambiente"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'inquinamento accidentale (riversamento da petroliere in incidenti) è solo circa il 10%; la maggior parte è sistematica: scarico di acque di zavorra, dilavamento di oli, perdite di raffinerie e infiltrazioni naturali.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-009",
+    "topic": "bio-chimica",
+    "question": "Perché il petrolio galleggia sull'acqua di mare?",
+    "suggestion": "Confronta le densità: petrolio < 1 g/cm³, acqua salata 1,03 g/cm³.",
+    "options": [
+      "Perché la sua densità è inferiore a quella dell'acqua salata (1,03 g/cm³ a 25 °C)",
+      "Perché è più volatile e tende a evaporare verso l'alto",
+      "Perché forma emulsioni che lo rendono più leggero dell'aria"
+    ],
+    "correctIndex": 0,
+    "explanation": "La densità del petrolio è inferiore a 1 g/cm³, mentre quella dell'acqua salata è 1,03 g/cm³ a 25 °C: per questo il petrolio galleggia e si disperde in chiazze.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-010",
+    "topic": "bio-chimica",
+    "question": "Quali componenti del petrolio sono coinvolti principalmente nel processo di evaporazione dopo un versamento in mare?",
+    "suggestion": "Sono i composti che 'scappano' più facilmente in fase vapore.",
+    "options": [
+      "I composti più volatili a basso peso molecolare",
+      "Le frazioni più pesanti ad alto peso molecolare",
+      "I composti contenenti metalli come vanadio e nichel"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'evaporazione coinvolge i composti più volatili (basso peso molecolare); la velocità dipende dalla concentrazione e dalla tensione di vapore.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-011",
+    "topic": "bio-chimica",
+    "question": "Perché, per gli n-alcani, il punto di ebollizione aumenta all'aumentare del numero di atomi di carbonio?",
+    "suggestion": "Pensa alle forze tra molecole non polari nella fase liquida.",
+    "options": [
+      "Perché aumentano le forze di dispersione (di London) nella fase liquida, essendo gli n-alcani non polari",
+      "Perché aumenta il momento di dipolo delle molecole",
+      "Perché diminuiscono le interazioni intermolecolari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per gli n-alcani la tensione di vapore diminuisce e il punto di ebollizione aumenta con la lunghezza della catena, a causa dell'aumento delle forze di dispersione (London) nella fase liquida, dato che sono molecole non polari.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-012",
+    "topic": "bio-chimica",
+    "question": "Considerando idrocarburi C6 delle stesse dimensioni, qual è l'ordine corretto di solubilità in acqua?",
+    "suggestion": "Gli aromatici sono i più solubili, gli n-alcani i meno.",
+    "options": [
+      "Aromatici > cicloalcani > alcani ramificati > n-alcani",
+      "n-alcani > alcani ramificati > cicloalcani > aromatici",
+      "Cicloalcani > aromatici > n-alcani > alcani ramificati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per i C6 l'ordine di solubilità in acqua è aromatici > cicloalcani > alcani ramificati > n-alcani; il benzene è circa 200 volte più solubile dell'n-esano.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Per ___ si intende un'ossidazione iniziata dalla luce ultravioletta che porta alla formazione di gruppi funzionali ossigenati come alcoli, chetoni, aldeidi e acidi carbossilici.",
+    "answers": [["fotoossidazione", "foto-ossidazione"]],
+    "suggestion": "Ossidazione innescata dai raggi UV.",
+    "explanation": "La fotoossidazione è un'ossidazione iniziata dalla luce UV che forma gruppi ossigenati (alcoli, chetoni, aldeidi, acidi carbossilici, perossidi).",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-013",
+    "topic": "bio-chimica",
+    "question": "Dove avviene la trasformazione microbica dei componenti del petrolio?",
+    "suggestion": "I microrganismi non vivono nella fase oleosa pura.",
+    "options": [
+      "In fase acquosa e all'interfaccia acqua-idrocarburi, ma non nella fase idrocarburica",
+      "Solo all'interno della fase idrocarburica pura",
+      "Esclusivamente in ambienti anossici come i sedimenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La trasformazione microbica avviene in fase acquosa e all'interfaccia acqua-idrocarburi, ma non nella fase idrocarburica. Gli n-alcani piccoli sono facilmente degradati in condizioni aerobiche, più difficilmente in ambienti anossici.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-014",
+    "topic": "bio-chimica",
+    "question": "Da cosa dipende principalmente la tossicità del petrolio?",
+    "suggestion": "Una particolare classe di idrocarburi è più nociva delle altre.",
+    "options": [
+      "Dalla sua composizione: in genere i gruppi aromatici sono molto più tossici degli altri",
+      "Dalla densità, sempre uguale per tutti i tipi di greggio",
+      "Esclusivamente dal contenuto di metalli come ferro e cobalto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tossicità del petrolio dipende dalla composizione: i gruppi aromatici sono in genere molto più tossici degli altri. Gli effetti letali (LC50) variano da 0,1 a 100 mg/l.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-015",
+    "topic": "bio-chimica",
+    "question": "A quale classe chimica appartengono gli idrocarburi a base paraffinica?",
+    "suggestion": "Catena aperta e satura, formula CnH2n+2.",
+    "options": [
+      "Alcani a catena aperta saturi (CnH2n+2)",
+      "Cicloalcani a catena chiusa",
+      "Idrocarburi aromatici con anelli benzenici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli idrocarburi a base paraffinica sono alcani a catena aperta saturi di formula CnH2n+2, che vanno dal metano fino a molecole con circa 100 atomi di carbonio.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-016",
+    "topic": "bio-chimica",
+    "question": "Quale combustibile è formato dalla miscela di butano e propano?",
+    "suggestion": "È un gas usato anche per cucinare.",
+    "options": [
+      "Il GPL",
+      "Il cherosene",
+      "La nafta"
+    ],
+    "correctIndex": 0,
+    "explanation": "A 20 °C restano gassosi metano, etano, propano e butano; in particolare butano e propano formano il combustibile denominato GPL.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-017",
+    "topic": "bio-chimica",
+    "question": "Qual è la prima frazione che si estrae dal petrolio greggio durante la distillazione?",
+    "suggestion": "È la frazione più leggera tra quelle citate, destinata ai motori a scoppio.",
+    "options": [
+      "La frazione destinata a diventare benzina",
+      "Il gasolio",
+      "Il bitume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il primo materiale che si estrae dal petrolio greggio è la frazione destinata a diventare benzina, seguita dal cherosene e dal gasolio.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-018",
+    "topic": "bio-chimica",
+    "question": "Cosa avviene agli idrocarburi durante il cracking termico, condotto fino a 800 °C e ad alte pressioni?",
+    "suggestion": "L'effetto del calore agisce sui legami C−C.",
+    "options": [
+      "Al crescere della temperatura i legami tra gli atomi di carbonio si scindono",
+      "Gli atomi di carbonio si uniscono formando catene più lunghe",
+      "Gli idrocarburi si arricchiscono di zolfo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cracking termico gli idrocarburi sono scaldati fino a 800 °C in camere a pressioni elevate (fino a 100 atmosfere): al crescere della temperatura i legami tra gli atomi di carbonio si scindono.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-019",
+    "topic": "bio-chimica",
+    "question": "Come si comporta la solubilità in acqua mare degli idrocarburi rispetto all'acqua distillata?",
+    "suggestion": "Gli ioni disciolti riducono la solubilità (effetto matrice).",
+    "options": [
+      "È inferiore, pari a circa il 75% di quella in acqua distillata",
+      "È superiore, perché il sale aumenta la dissoluzione",
+      "È identica, perché gli ioni non influenzano gli idrocarburi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'acqua di mare contiene molti ioni disciolti e la solubilità degli idrocarburi è inferiore: rispetto all'acqua distillata è del 75% (effetto matrice).",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il contenuto di zolfo nel petrolio è variabile e va da circa lo 0,1% al ___ % circa.",
+    "answers": [["5"]],
+    "suggestion": "Un numero a una cifra.",
+    "explanation": "Tutti i tipi di petrolio contengono zolfo in quantità variabile dallo 0,1% al 5% circa.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Un'___ è uno stato colloidale nel quale gocce di un liquido sono disperse in un altro liquido; acqua e petrolio possono formarne di tipo O/W e W/O.",
+    "answers": [["emulsione"]],
+    "suggestion": "Pensa al latte o alla maionese come esempio.",
+    "explanation": "Un'emulsione è uno stato colloidale in cui gocce di un liquido sono disperse in un altro; acqua e petrolio formano emulsioni olio in acqua (O/W) e acqua in olio (W/O).",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Gli idroperossidi prodotti dalla fotoossidazione si degradano per via termica o con luce UV mediante rottura ___ del legame, formando radicali.",
+    "answers": [["omolitica"]],
+    "suggestion": "La rottura che assegna un elettrone a ciascun frammento.",
+    "explanation": "Gli idroperossidi si degradano per via termica o con luce ultravioletta con rottura omolitica del legame (ROOH → RO· + ·OH), generando radicali che attaccano altri idrocarburi.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  }
+]

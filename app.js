@@ -7,6 +7,8 @@ const SEEN_KEY = 'giud_studia.seen.v1';
 const FLAGGED_KEY = 'giud_studia.flagged.v1';
 const LENGTH_KEY = 'giud_studia.length.v1';
 const SELECTION_KEY = 'giud_studia.topics.v1';
+const THEME_KEY = 'giud_studia.theme.v1';   // 'light' (default) | 'dark'
+const FOLD_KEY = 'giud_studia.folds.v1';    // labels of unfolded topic groups (rest collapsed)
 
 const state = {
   bank: [],              // all loaded questions
@@ -75,6 +77,38 @@ function loadSelection() {
 
 function saveSelection(files) {
   try { localStorage.setItem(SELECTION_KEY, JSON.stringify([...files])); } catch {}
+}
+
+// ---------- theme (day / night) ----------
+
+function loadTheme() {
+  try { return localStorage.getItem(THEME_KEY) === 'dark' ? 'dark' : 'light'; }
+  catch { return 'light'; }
+}
+
+function saveTheme(theme) {
+  try { localStorage.setItem(THEME_KEY, theme); } catch {}
+}
+
+// Apply the chosen mode: flip the root attribute the CSS keys off, match the
+// mobile browser chrome color, and update the toggle's label/pressed state.
+function applyTheme(theme) {
+  const dark = theme === 'dark';
+  document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.setAttribute('content', dark ? '#0E1116' : '#F5F7FB');
+  if (els.themeToggle) {
+    const label = dark ? 'Attiva la modalità giorno' : 'Attiva la modalità notte';
+    els.themeToggle.setAttribute('aria-label', label);
+    els.themeToggle.title = label;
+    els.themeToggle.setAttribute('aria-checked', String(dark));
+  }
+}
+
+function toggleTheme() {
+  const next = loadTheme() === 'dark' ? 'light' : 'dark';
+  saveTheme(next);
+  applyTheme(next);
 }
 
 // ---------- loading ----------
@@ -240,6 +274,17 @@ function shuffle(arr) {
   return arr;
 }
 
+// Normalize a free-text answer for tolerant comparison: strip accents, lowercase,
+// trim, and collapse internal whitespace. So "Biomagnificazione", "biomagnificazione"
+// and " biomagnificazione " all match. Used only by fill-in-the-blank questions.
+function normalizeText(s) {
+  return String(s)
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")   // drop diacritics
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, ' ');
+}
+
 // ---------- rendering ----------
 
 const els = {
@@ -249,6 +294,7 @@ const els = {
   difficultyPills: document.getElementById('difficulty-pills'),
   difficultyField: document.getElementById('difficulty-field'),
   title: document.getElementById('title'),
+  themeToggle: document.getElementById('theme-toggle'),
   setupScreen: document.getElementById('setup-screen'),
   startBtn: document.getElementById('start-btn'),
   newSessionBtn: document.getElementById('new-session-btn'),
@@ -316,6 +362,7 @@ function buildTopicsControl() {
   const panel = els.topicsPanel;
   panel.innerHTML = '';
   const groups = groupedEntries();
+  const expanded = loadSet(FOLD_KEY);   // which groups are unfolded (default: none)
 
   // quick "select all / none"
   const actions = document.createElement('div');
@@ -333,10 +380,14 @@ function buildTopicsControl() {
   for (const [label, items] of groups) {
     const group = document.createElement('div');
     group.className = 'ms-group';
+    if (!expanded.has(label)) group.classList.add('collapsed');  // folded by default
 
-    // whole-group checkbox (e.g. all of "Anatomia e biologia")
-    const head = document.createElement('label');
+    // Head row: a select-all checkbox (independent of folding) next to a button
+    // that folds/unfolds the species list. Kept as separate controls so ticking
+    // the group doesn't expand it, and expanding it doesn't tick the group.
+    const head = document.createElement('div');
     head.className = 'ms-group-head';
+
     const gcb = document.createElement('input');
     gcb.type = 'checkbox';
     gcb.dataset.group = label;
@@ -347,12 +398,35 @@ function buildTopicsControl() {
       }
       onSelectionChanged();
     });
+
+    const toggle = document.createElement('button');
+    toggle.type = 'button';
+    toggle.className = 'ms-group-toggle';
+    toggle.setAttribute('aria-expanded', String(expanded.has(label)));
     const gname = document.createElement('span');
+    gname.className = 'ms-group-name';
     gname.textContent = label;
-    head.append(gcb, gname);
+    const gcount = document.createElement('span');     // "selected / total", kept fresh in refreshTopicsChecks
+    gcount.className = 'ms-group-count';
+    gcount.dataset.group = label;
+    const chev = document.createElement('span');
+    chev.className = 'ms-group-chevron';
+    chev.setAttribute('aria-hidden', 'true');
+    toggle.append(gname, gcount, chev);
+    toggle.addEventListener('click', () => {
+      const open = !group.classList.toggle('collapsed');
+      toggle.setAttribute('aria-expanded', String(open));
+      const folds = loadSet(FOLD_KEY);
+      if (open) folds.add(label); else folds.delete(label);
+      saveSet(FOLD_KEY, folds);
+    });
+
+    head.append(gcb, toggle);
     group.appendChild(head);
 
-    // one checkbox per species/file
+    // Body: one checkbox per species/file. Hidden by CSS while the group is folded.
+    const body = document.createElement('div');
+    body.className = 'ms-group-body';
     for (const it of items) {
       const row = document.createElement('label');
       row.className = 'ms-item';
@@ -367,8 +441,10 @@ function buildTopicsControl() {
       const nm = document.createElement('span');
       nm.textContent = it.species;
       row.append(cb, nm);
-      group.appendChild(row);
+      body.appendChild(row);
     }
+    group.appendChild(body);
+
     panel.appendChild(group);
   }
 
@@ -399,6 +475,12 @@ function refreshTopicsChecks() {
     const n = items.filter(i => state.selectedFiles.has(i.file)).length;
     gcb.checked = n > 0 && n === items.length;
     gcb.indeterminate = n > 0 && n < items.length;
+  });
+  // per-group "selected / total" so a folded group still shows what's picked
+  els.topicsPanel.querySelectorAll('.ms-group-count').forEach(el => {
+    const items = groups.get(el.dataset.group) || [];
+    const n = items.filter(i => state.selectedFiles.has(i.file)).length;
+    el.textContent = `${n}/${items.length}`;
   });
   updateTopicsSummary(groups);
 }
@@ -636,8 +718,6 @@ function renderQuestion(q) {
     els.card.classList.toggle('card--bonus', !!q._bonus);
     els.flagBtn.hidden = !!q._bonus;
 
-    els.questionText.textContent = q.question;
-
     // foldable hint — shown (collapsed) only when the question has one
     if (q.suggestion) {
       els.suggestion.textContent = q.suggestion;
@@ -649,21 +729,27 @@ function renderQuestion(q) {
     }
 
     els.options.innerHTML = '';
-    q.options.forEach((opt, idx) => {
-      const btn = document.createElement('button');
-      btn.className = 'option';
-      btn.type = 'button';
-      btn.dataset.index = String(idx);
-      const keycap = document.createElement('span');
-      keycap.className = 'keycap';
-      keycap.textContent = String(idx + 1);
-      const label = document.createElement('span');
-      label.textContent = opt;
-      btn.appendChild(keycap);
-      btn.appendChild(label);
-      btn.addEventListener('click', () => handleAnswer(idx));
-      els.options.appendChild(btn);
-    });
+    state.fillInputs = [];
+    if (q.type === 'fill') {
+      renderFill(q);
+    } else {
+      els.questionText.textContent = q.question;
+      q.options.forEach((opt, idx) => {
+        const btn = document.createElement('button');
+        btn.className = 'option';
+        btn.type = 'button';
+        btn.dataset.index = String(idx);
+        const keycap = document.createElement('span');
+        keycap.className = 'keycap';
+        keycap.textContent = String(idx + 1);
+        const label = document.createElement('span');
+        label.textContent = opt;
+        btn.appendChild(keycap);
+        btn.appendChild(label);
+        btn.addEventListener('click', () => handleAnswer(idx));
+        els.options.appendChild(btn);
+      });
+    }
 
     els.feedback.hidden = true;
     els.explanation.textContent = '';
@@ -674,6 +760,47 @@ function renderQuestion(q) {
       els.card.classList.remove('entering');
     });
   }, 180);
+}
+
+// Render a fill-in-the-blank card: rebuild the question text with an inline text
+// input wherever a run of underscores (the blank marker, e.g. "___") appears, and
+// drop a "Controlla" button into the options area. One input per blank; the i-th
+// input is graded against q.answers[i] (an array of accepted strings).
+function renderFill(q) {
+  const blanks = q.answers || [];
+  els.questionText.innerHTML = '';
+  const parts = String(q.question).split(/_{2,}/);   // text segments around blanks
+  const inputs = [];
+  parts.forEach((part, i) => {
+    if (part) els.questionText.appendChild(document.createTextNode(part));
+    if (i < parts.length - 1) {                       // a blank sits between segments
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.className = 'fill-input';
+      input.autocomplete = 'off';
+      input.autocapitalize = 'off';
+      input.spellcheck = false;
+      input.setAttribute('aria-label', `Spazio ${i + 1}`);
+      const accepted = blanks[i] || [];
+      const longest = accepted.reduce((m, s) => Math.max(m, String(s).length), 8);
+      input.size = Math.max(6, Math.min(longest + 1, 22));
+      input.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') { e.preventDefault(); handleFillSubmit(); }
+      });
+      els.questionText.appendChild(input);
+      inputs.push(input);
+    }
+  });
+  state.fillInputs = inputs;
+
+  const submit = document.createElement('button');
+  submit.type = 'button';
+  submit.className = 'primary-btn fill-submit';
+  submit.textContent = 'Controlla';
+  submit.addEventListener('click', () => handleFillSubmit());
+  els.options.appendChild(submit);
+
+  if (inputs[0]) setTimeout(() => inputs[0].focus(), 0);   // ready to type at once
 }
 
 function addTag(text) {
@@ -700,6 +827,49 @@ function handleAnswer(chosenIdx) {
   bounceCard();                 // playful wiggle on every tap
   if (isCorrect) popEmoji();    // celebratory emoji pop on correct
 
+  gradeResult(q, isCorrect);
+}
+
+// Grade a fill-in-the-blank question: read every inline input, compare each
+// against its accepted answers (case/accent-insensitive), lock them, and flag the
+// wrong ones in red while showing the expected word. Correct only when every
+// blank is right.
+function handleFillSubmit() {
+  if (state.answered) return;
+  const q = state.current;
+  const inputs = state.fillInputs || [];
+  if (inputs.length === 0) return;
+  state.answered = true;
+
+  const blanks = q.answers || [];
+  let allCorrect = true;
+  inputs.forEach((input, i) => {
+    input.disabled = true;
+    const accepted = blanks[i] || [];
+    const ok = accepted.some(a => normalizeText(a) === normalizeText(input.value));
+    input.classList.add(ok ? 'fill-input--correct' : 'fill-input--wrong');
+    if (!ok) {
+      allCorrect = false;
+      if (accepted.length) {                // show the expected word after the box
+        const corr = document.createElement('span');
+        corr.className = 'fill-correct';
+        corr.textContent = accepted[0];
+        input.insertAdjacentElement('afterend', corr);
+      }
+    }
+  });
+  els.options.querySelectorAll('.fill-submit').forEach(b => { b.disabled = true; });
+
+  bounceCard();
+  if (allCorrect) popEmoji();
+
+  gradeResult(q, allCorrect);
+}
+
+// Shared post-answer bookkeeping for both question types: score, streak,
+// per-argument stats, "seen" persistence, the explanation panel and the
+// Next-button scroll. The caller has already decided `isCorrect`.
+function gradeResult(q, isCorrect) {
   // Bonus cards are pure surprise: they don't touch the score, the per-argument
   // stats, or the "seen" set (so they can resurface another day).
   if (!q._bonus) {
@@ -728,6 +898,9 @@ function handleAnswer(chosenIdx) {
 
   if (q.explanation) {
     els.explanation.textContent = q.explanation;
+  } else if (q.type === 'fill') {
+    const accepted = (q.answers || []).map(b => b[0]).join(', ');
+    els.explanation.textContent = isCorrect ? 'Esatto.' : `Risposta corretta: ${accepted}`;
   } else {
     els.explanation.textContent = isCorrect
       ? 'Correct.'
@@ -943,6 +1116,8 @@ function bindEvents() {
     updateAvailableCount();        // setup screen: refresh preview, don't start
   });
 
+  els.themeToggle.addEventListener('click', toggleTheme);
+
   els.startBtn.addEventListener('click', () => {
     if (!els.startBtn.disabled) startSession();
   });
@@ -1002,18 +1177,28 @@ function bindEvents() {
       return;
     }
     if (!state.current) return;
-    if ((e.key === 'h' || e.key === 'H') && !els.suggestionBox.hidden) {
-      els.suggestionBox.open = !els.suggestionBox.open;   // toggle the hint
+    const typing = e.target && e.target.tagName === 'INPUT';   // a fill-in box has focus
+    const isFill = state.current.type === 'fill';
+    // 'h' toggles the hint — but not while typing into a blank (you'd never type 'h').
+    if ((e.key === 'h' || e.key === 'H') && !typing && !els.suggestionBox.hidden) {
+      els.suggestionBox.open = !els.suggestionBox.open;
       e.preventDefault();
       return;
     }
-    if (!state.answered && /^[1-4]$/.test(e.key)) {
-      const idx = parseInt(e.key, 10) - 1;
-      if (idx < state.current.options.length) {
-        handleAnswer(idx);
-        e.preventDefault();
+    if (!state.answered) {
+      if (isFill) {
+        // digits are part of the answer here; only Enter submits (also bound per-input)
+        if (e.key === 'Enter') { handleFillSubmit(); e.preventDefault(); }
+        return;
       }
-    } else if (state.answered && (e.key === 'Enter' || e.key === ' ')) {
+      if (/^[1-4]$/.test(e.key)) {
+        const idx = parseInt(e.key, 10) - 1;
+        if (idx < state.current.options.length) {
+          handleAnswer(idx);
+          e.preventDefault();
+        }
+      }
+    } else if (e.key === 'Enter' || e.key === ' ') {
       nextQuestion();
       e.preventDefault();
     }
@@ -1024,6 +1209,7 @@ function bindEvents() {
 
 (async function init() {
   bindEvents();
+  applyTheme(loadTheme());     // sync meta + toggle label with the saved choice
   try {
     await loadBank();
   } catch (err) {

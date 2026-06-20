@@ -1,0 +1,352 @@
+[
+  {
+    "id": "bci-hg-001",
+    "topic": "bio-chimica",
+    "question": "Perché il mercurio fu chiamato così, dal nome del dio romano Mercurio?",
+    "suggestion": "Pensa a una caratteristica fisica del metallo liquido.",
+    "options": [
+      "Per il suo colore rosso intenso",
+      "Per la sua scorrevolezza e mobilità",
+      "Per la sua estrema durezza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il nome deriva dal dio Mercurio per la scorrevolezza e mobilità; il simbolo Hg viene dal latino Hydrargyrum (argento liquido).",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-002",
+    "topic": "bio-chimica",
+    "question": "Quale stato di ossidazione del mercurio è il più comune nell'ambiente?",
+    "suggestion": "È lo ione mercurico.",
+    "options": [
+      "Hg0 (mercurio elementare)",
+      "Hg+ (ione mercuroso)",
+      "Hg2+ (ione mercurico)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il mercurio ha tre stati di ossidazione (Hg0, Hg+, Hg2+); lo ione mercurico Hg2+ è il più comune nell'ambiente.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-003",
+    "topic": "bio-chimica",
+    "question": "Cosa accadde nel disastro di Minamata (1956) al mercurio inorganico sversato nella baia?",
+    "suggestion": "Una trasformazione microbica lo rese molto più tossico.",
+    "options": [
+      "Precipitò inerte sul fondo senza effetti",
+      "Si trasformò in metilmercurio per biometilazione microbica, accumulandosi nei pesci",
+      "Evaporò completamente in atmosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Minamata l'Hg inorganico si trasformò in metilmercurio per biometilazione microbica, accumulandosi nei pesci fino a 100 mg/kg e intossicando la popolazione.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-004",
+    "topic": "bio-chimica",
+    "question": "In che forma si trova prevalentemente il mercurio in atmosfera?",
+    "suggestion": "È la forma elementare, trasportabile per lunghe distanze.",
+    "options": [
+      "Come Hg0 (mercurio elementare allo stato di vapore)",
+      "Come metilmercurio",
+      "Come solfuro di mercurio (HgS)"
+    ],
+    "correctIndex": 0,
+    "explanation": "In atmosfera il 95% è Hg0 (vapore elementare), trasportato per lunghe distanze; solo il 5% è legato al particolato, con deposizione in loco.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-005",
+    "topic": "bio-chimica",
+    "question": "Quali microrganismi sono responsabili della metilazione del mercurio inorganico nei sedimenti anaerobici?",
+    "suggestion": "Operano in ambiente anossico e ricco di sostanza organica.",
+    "options": [
+      "Batteri fotosintetici aerobi",
+      "Batteri solfato-riduttori (SRB)",
+      "Funghi micorrizici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei sedimenti anossici e ricchi di sostanza organica i batteri solfato-riduttori (SRB) convertono l'Hg inorganico in metilmercurio (MeHg).",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-006",
+    "topic": "bio-chimica",
+    "question": "Perché il mercurio liquido ingerito è considerato poco tossico, mentre il vapore di mercurio è altamente tossico?",
+    "suggestion": "Confronta l'assorbimento nel tratto gastro-intestinale con quello polmonare.",
+    "options": [
+      "Il liquido non viene assorbito nel tratto gastro-intestinale, mentre il vapore dai polmoni passa al sangue e al cervello",
+      "Il liquido è più volatile del vapore",
+      "Il vapore viene eliminato subito con le feci"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il mercurio liquido non viene assorbito a livello gastro-intestinale ed è eliminato facilmente; il vapore invece passa dai polmoni al sangue e al cervello, con danni al SNC.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-007",
+    "topic": "bio-chimica",
+    "question": "Qual è l'organo bersaglio principale del metilmercurio nell'uomo?",
+    "suggestion": "I sintomi includono parestesie, atassia e disartria.",
+    "options": [
+      "I reni",
+      "Il sistema nervoso centrale",
+      "Il fegato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il metilmercurio ha come organo bersaglio il sistema nervoso centrale, con parestesie, offuscamento della vista, sordità, disartria, atassia, fino a coma e morte.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-008",
+    "topic": "bio-chimica",
+    "question": "In quale parte della pianta si accumula prevalentemente il mercurio assorbito dal suolo, secondo gli studi su frumento, orzo e mais?",
+    "suggestion": "La traslocazione verso la parte epigea è fortemente limitata.",
+    "options": [
+      "Nei semi e nei frutti",
+      "Nelle radici",
+      "Nel fusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'accumulo prevalente di Hg avviene nelle radici, mentre la traslocazione alla parte epigea è limitata; nei semi e frutti la concentrazione è estremamente bassa.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il minerale più importante del mercurio nei suoli è il ___, solfuro di formula α-HgS.",
+    "answers": [["cinabro", "cinnabar"]],
+    "suggestion": "Esiste anche nella forma β detta metacinabro.",
+    "explanation": "Il cinabro (α-HgS) è il principale minerale di mercurio; nei suoli l'Hg si lega allo zolfo. Esistono anche metacinabro (β-HgS) e livingstonite.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nei sedimenti anaerobici l'Hg inorganico viene convertito nella forma organica ___, altamente tossica.",
+    "answers": [["metilmercurio", "mehg", "metil mercurio"]],
+    "suggestion": "Ha formula CH3Hg+.",
+    "explanation": "La metilazione nei sedimenti anossici produce metilmercurio (MeHg, CH3Hg+), che viene assorbito dalla fauna ittica ed entra nella catena alimentare.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Maggiore è il contenuto di sostanza organica e di ___ nel suolo, maggiore è la quantità di mercurio trattenuto, perché ne diminuiscono la lisciviazione.",
+    "answers": [["argilla", "argille"]],
+    "suggestion": "È la frazione fine del suolo, insieme alla sostanza organica.",
+    "explanation": "L'adsorbimento dell'Hg dipende da pH, sostanza organica e argilla: questi componenti trattengono il mercurio riducendone la lisciviazione.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La Convenzione di ___ del 2013 vieta l'apertura di nuove miniere di mercurio e mira a ridurne emissioni e commercio.",
+    "answers": [["minamata"]],
+    "suggestion": "Prende il nome dalla baia giapponese del disastro del 1956.",
+    "explanation": "La Convenzione di Minamata (2013), ratificata da 125 Paesi ed entrata in vigore nel 2017, vieta nuove miniere di Hg e limita usi, emissioni e commercio.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel SIN Caffaro-Torviscosa il mercurio era impiegato come ___ nell'impianto cloro-soda a celle, per la produzione elettrolitica di Cl2.",
+    "answers": [["catalizzatore"]],
+    "suggestion": "Favorisce la reazione senza consumarsi.",
+    "explanation": "Nell'impianto cloro-soda l'Hg era usato come catalizzatore per la produzione elettrolitica di cloro; furono sversate circa 186 tonnellate di Hg negli scarichi.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-009",
+    "topic": "bio-chimica",
+    "question": "A quale gruppo della tavola periodica appartiene il mercurio?",
+    "suggestion": "Il suo comportamento chimico è quello del blocco d.",
+    "options": [
+      "Ai metalli alcalini",
+      "Ai metalli di transizione (blocco d)",
+      "Ai gas nobili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il mercurio è un metallo di transizione (blocco d), con numero atomico 80; a temperatura ambiente è liquido.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-010",
+    "topic": "bio-chimica",
+    "question": "Quale caratteristica fisica rende il mercurio unico tra i metalli a temperatura ambiente?",
+    "suggestion": "Il suo punto di fusione è molto basso (-38,9 °C).",
+    "options": [
+      "È gassoso",
+      "È liquido",
+      "È un solido durissimo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con punto di fusione -38,9 °C, a temperatura ambiente l'Hg è liquido; allo stato solido è duttile e tenero, tagliabile con un coltello.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-011",
+    "topic": "bio-chimica",
+    "question": "Quale catalizzatore usava la Chisso Corporation di Minamata, all'origine della contaminazione da mercurio?",
+    "suggestion": "L'Hg era impiegato nella produzione di un'aldeide.",
+    "options": [
+      "Mercurio nella produzione di acetaldeide",
+      "Piombo nella produzione di benzina",
+      "Cadmio nella produzione di batterie"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Minamata la Chisso Corporation usava l'Hg come catalizzatore nella produzione di acetaldeide; gli scarti ricchi di mercurio contaminarono la baia.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-012",
+    "topic": "bio-chimica",
+    "question": "In ambiente acido, con quale elemento tende a legarsi prevalentemente il mercurio?",
+    "suggestion": "Dipende dal pH; in ambiente neutro/basico si lega agli idrossidi.",
+    "options": [
+      "Con il cloro",
+      "Con gli idrossili (OH)",
+      "Con il carbonio metilico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La forma chimica dipende dal pH: in ambienti acidi l'Hg si lega con il cloro, in ambiente neutro/basico con gruppi idrossidi.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-013",
+    "topic": "bio-chimica",
+    "question": "Come varia generalmente la concentrazione di mercurio nel profilo verticale di un suolo?",
+    "suggestion": "Pensa a dove arrivano le deposizioni atmosferiche.",
+    "options": [
+      "Aumenta dalla superficie alla profondità",
+      "Diminuisce dalla superficie alla profondità",
+      "Resta costante a tutte le profondità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel profilo verticale del suolo si osserva generalmente una diminuzione della concentrazione di Hg dalla superficie alla profondità.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-014",
+    "topic": "bio-chimica",
+    "question": "Nelle reazioni atmosferiche del ciclo del mercurio, cosa avviene per foto-riduzione?",
+    "suggestion": "È il passaggio inverso della foto-ossidazione.",
+    "options": [
+      "Hg0 viene trasformato in Hg2+",
+      "Hg2+ viene trasformato in Hg0",
+      "Hg2+ viene metilato a MeHg"
+    ],
+    "correctIndex": 1,
+    "explanation": "In atmosfera, a seguito della radiazione UV, la foto-ossidazione porta Hg0→Hg2+ e la foto-riduzione Hg2+→Hg0.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-015",
+    "topic": "bio-chimica",
+    "question": "Nelle prove in vaso, quali ammendanti hanno ridotto il bioaccumulo di Hg nei tessuti vegetali?",
+    "suggestion": "Due dei tre trattamenti riducono, uno invece aumenta.",
+    "options": [
+      "I concimi azotati",
+      "Il biochar e il gesso",
+      "Tutti aumentano l'accumulo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le prove in vaso mostrano che biochar e gesso riducono le concentrazioni di Hg nei tessuti vegetali, mentre i concimi azotati le aumentano.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-016",
+    "topic": "bio-chimica",
+    "question": "Nelle piante coltivate in suoli anaerobici sommersi come il riso, quale forma di mercurio viene facilmente traslocata nelle parti epigee (es. nel chicco)?",
+    "suggestion": "È la forma organica prodotta dai batteri anaerobi.",
+    "options": [
+      "Il mercurio elementare Hg0",
+      "Il metilmercurio (CH3Hg+)",
+      "Il solfuro di mercurio HgS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei suoli sommersi (riso) il metilmercurio, prodotto dai batteri anaerobi, viene facilmente traslocato nelle parti epigee, come il chicco di riso.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il numero atomico del mercurio è ___.",
+    "answers": [["80", "ottanta"]],
+    "suggestion": "Lo trovi tra le proprietà fisiche dell'elemento.",
+    "explanation": "Il mercurio ha numero atomico 80 e massa atomica relativa 200,6 uma.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "In atmosfera circa il 95% del mercurio è presente come Hg0 allo stato di ___, trasportabile per lunghe distanze.",
+    "answers": [["vapore"]],
+    "suggestion": "È lo stato gassoso del mercurio elementare.",
+    "explanation": "Il 95% dell'Hg atmosferico è Hg0 allo stato di vapore, trasportato per lunghe distanze; solo il 5% è legato al particolato con deposizione in loco.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Una delle due principali fonti di contaminazione da Hg nel Nord Adriatico è l'ex miniera slovena di ___, attiva dal 1490 al 1990.",
+    "answers": [["idrija", "idria"]],
+    "suggestion": "Si trova in Slovenia, lungo il fiume Idrijca.",
+    "explanation": "Le fonti sono l'impianto cloro-soda del SIN Caffaro-Torviscosa e l'ex miniera slovena di Idrija (1490-1990), da cui furono disperse circa 35.000 t di Hg.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Negli studi su frumento, orzo e mais la concentrazione di Hg nei ___ non è influenzata dalla concentrazione di mercurio nel suolo.",
+    "answers": [["semi", "granella"]],
+    "suggestion": "È la parte edibile come la granella.",
+    "explanation": "La concentrazione di Hg nei semi/granella è estremamente bassa e non varia con la contaminazione del suolo, mentre radici, fusti e foglie aumentano.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il disastro di ___, in Giappone, avvenne nel 1956 quando il mercurio inorganico sversato nella baia si trasformò in metilmercurio.",
+    "answers": [["minamata"]],
+    "suggestion": "Dà il nome anche alla Convenzione del 2013.",
+    "explanation": "Nel disastro di Minamata (1956) il metilmercurio si accumulò nei pesci fino a 100 mg/kg, intossicando la popolazione locale che se ne cibava.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  }
+]

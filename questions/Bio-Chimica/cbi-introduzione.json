@@ -1,0 +1,252 @@
+[
+  {
+    "id": "bci-cbiintro-001",
+    "topic": "bio-chimica",
+    "question": "Qual è l'obiettivo principale del corso di Chimica e Biochimica degli Inquinanti?",
+    "suggestion": "Riguarda i processi che subiscono gli inquinanti nell'ambiente.",
+    "options": [
+      "Acquisire le conoscenze di base sui processi di azione, trasformazione, attenuazione naturale e trasporto degli inquinanti in acque e suolo",
+      "Progettare impianti industriali di depurazione su scala commerciale",
+      "Studiare esclusivamente la tassonomia degli organismi acquatici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il corso mira a fornire le conoscenze di base per comprendere i processi di azione, trasformazione, attenuazione naturale e trasporto degli inquinanti più diffusi nelle acque superficiali, nel suolo e nelle acque di falda.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i prerequisiti del corso sono richieste conoscenze di base di matematica, fisica e chimica inorganica ed ___.",
+    "answers": [["organica"]],
+    "suggestion": "È la chimica del carbonio.",
+    "explanation": "I prerequisiti del corso includono conoscenze di base di matematica, fisica e chimica inorganica ed organica.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-002",
+    "topic": "bio-chimica",
+    "question": "Quale tra questi argomenti è incluso nei contenuti del corso?",
+    "suggestion": "Riguarda la diffusione degli inquinanti attraverso il suolo.",
+    "options": [
+      "La zona vadosa e la diffusione degli inquinanti attraverso il suolo",
+      "La progettazione di reattori nucleari",
+      "La genetica delle popolazioni vegetali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contenuti del corso figura la diffusione degli inquinanti attraverso il suolo, in particolare la zona vadosa, insieme ad adsorbimento, piogge acide, eutrofizzazione, bioaccumulo, pesticidi, PCB e diossine, metalli tossici.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-003",
+    "topic": "bio-chimica",
+    "question": "Quali composti clorurati sono esplicitamente trattati nel corso?",
+    "suggestion": "Una sigla e un tipo di composto tristemente noti.",
+    "options": [
+      "CFC e freon",
+      "PCB e diossine",
+      "Cloroformio e tetracloruro di carbonio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra i contenuti del corso, i composti clorurati trattati sono i PCB (policlorobifenili) e le diossine.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i contenuti relativi ai contaminanti inorganici e ai rischi per la salute, il corso tratta specificamente il mercurio e l'___.",
+    "answers": [["arsenico"]],
+    "suggestion": "Elemento semimetallico tossico, simbolo As.",
+    "explanation": "Il corso affronta bioaccumulo, bioconcentrazione e rischi per la salute, trattando in particolare il mercurio e l'arsenico.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-004",
+    "topic": "bio-chimica",
+    "question": "Come si svolge l'esame del corso?",
+    "suggestion": "Combina due tipologie di domande in forma scritta.",
+    "options": [
+      "Scritto con un misto di domande a risposta multipla e domande aperte",
+      "Solo orale davanti a una commissione",
+      "Esclusivamente con una prova pratica di laboratorio"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'esame è scritto e prevede un misto di domande a risposta multipla e domande aperte.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-005",
+    "topic": "bio-chimica",
+    "question": "Oltre alle conoscenze di base, quale capacità tra le seguenti rientra negli obiettivi del corso?",
+    "suggestion": "Riguarda la stima del danno legato a una contaminazione.",
+    "options": [
+      "Saper effettuare una valutazione quantitativa dell'effettivo rischio ambientale connesso alla contaminazione",
+      "Saper progettare reti di distribuzione dell'acqua potabile urbana",
+      "Saper sintetizzare in laboratorio nuovi pesticidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra gli obiettivi del corso vi è saper effettuare una valutazione quantitativa dell'effettivo rischio ambientale connesso alla contaminazione.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-006",
+    "topic": "bio-chimica",
+    "question": "Quale capacità relativa alla letteratura scientifica è prevista tra gli obiettivi del corso?",
+    "suggestion": "Riguarda il modo di raccogliere e usare le informazioni.",
+    "options": [
+      "Saper effettuare una ricerca mirata e raccogliere criticamente le informazioni dalla letteratura",
+      "Saper tradurre automaticamente articoli senza valutarli",
+      "Saper memorizzare integralmente i libri di testo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il corso mira a far saper effettuare una ricerca mirata sugli argomenti dell'inquinamento e raccogliere criticamente le informazioni dalla letteratura, con capacità di interpretazione critica.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-007",
+    "topic": "bio-chimica",
+    "question": "Quale tema legato alla qualità delle acque è incluso nei contenuti del corso?",
+    "suggestion": "Riguarda l'arricchimento di nutrienti nelle acque.",
+    "options": [
+      "L'eutrofizzazione",
+      "La desalinizzazione industriale",
+      "La potabilizzazione domestica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contenuti figura la valutazione della qualità delle acque e l'eutrofizzazione.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-008",
+    "topic": "bio-chimica",
+    "question": "A quale corso di laurea è rivolto l'insegnamento di Chimica e Biochimica degli Inquinanti?",
+    "suggestion": "La sigla è SAN.",
+    "options": [
+      "Scienze per l'Ambiente e la Natura (SAN)",
+      "Scienze e Tecnologie Alimentari",
+      "Medicina Veterinaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'insegnamento (6 CFU) è rivolto al corso di laurea in Scienze per l'Ambiente e la Natura (SAN).",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-009",
+    "topic": "bio-chimica",
+    "question": "Quale categoria di contaminanti, indicata tra i contenuti, è associata alle sfide del futuro?",
+    "suggestion": "Sono contaminanti di recente attenzione.",
+    "options": [
+      "I contaminanti emergenti",
+      "I gas nobili",
+      "I sali da cucina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contenuti del corso figurano i contaminanti emergenti e le sfide del futuro.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-010",
+    "topic": "bio-chimica",
+    "question": "Quale comportamento dei contaminanti nel suolo è esplicitamente trattato per insetticidi ed erbicidi?",
+    "suggestion": "Riguarda quanto a lungo restano attivi nel suolo.",
+    "options": [
+      "Il loro comportamento e la loro persistenza nel suolo",
+      "La loro sintesi industriale su larga scala",
+      "Il loro impiego come fertilizzanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contenuti il corso tratta il comportamento e la persistenza di insetticidi ed erbicidi nel suolo.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-011",
+    "topic": "bio-chimica",
+    "question": "Quale processo, citato tra i contenuti, riguarda la capacità dell'ambiente di ridurre la contaminazione senza intervento umano?",
+    "suggestion": "Il termine contiene la parola «naturale».",
+    "options": [
+      "L'attenuazione naturale",
+      "La filtrazione meccanica",
+      "L'incenerimento controllato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contenuti figurano i fenomeni di attenuazione naturale, oltre all'azione, trasformazione e trasporto degli inquinanti.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'insegnamento di Chimica e Biochimica degli Inquinanti vale ___ CFU.",
+    "answers": [["6", "sei"]],
+    "suggestion": "Una sola cifra.",
+    "explanation": "Il corso di Chimica e Biochimica degli Inquinanti vale 6 CFU.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i contenuti relativi all'inquinamento atmosferico e al trasferimento alle falde, il corso tratta le piogge ___.",
+    "answers": [["acide"]],
+    "suggestion": "Causate da ossidi di zolfo e azoto.",
+    "explanation": "Tra i contenuti del corso figurano le piogge acide, la diffusione degli inquinanti nelle acque superficiali e il loro trasferimento alle falde.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i contenuti del corso sono trattati i metalli potenzialmente ___, pesanti e non.",
+    "answers": [["tossici"]],
+    "suggestion": "Aggettivo che indica la nocività per gli organismi.",
+    "explanation": "Il corso tratta i metalli potenzialmente tossici, pesanti e non.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-012",
+    "topic": "bio-chimica",
+    "question": "Come sono organizzate le attività didattiche del corso?",
+    "suggestion": "Due tipologie integrate tra loro.",
+    "options": [
+      "Tramite «lezioni» e «seminari» integrati tra loro",
+      "Esclusivamente con esercitazioni di laboratorio",
+      "Solo tramite tirocinio esterno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il corso è organizzato con «lezioni» e «seminari» integrati tra loro, con docenti ufficiali e docenti dei seminari.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-013",
+    "topic": "bio-chimica",
+    "question": "Tra i contaminanti inorganici e i rischi per la salute, quali due elementi sono trattati in modo specifico nel corso?",
+    "suggestion": "Un metallo liquido e un semimetallo.",
+    "options": [
+      "Il mercurio e l'arsenico",
+      "Il sodio e il potassio",
+      "Il calcio e il magnesio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'ambito di bioaccumulo, bioconcentrazione e rischi per la salute, il corso tratta in modo specifico il mercurio e l'arsenico.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  }
+]

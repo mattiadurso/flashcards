@@ -87,6 +87,54 @@ Either a flat array of question objects, or `{ "questions": [...] }`. The flat a
 }
 ```
 
+### 2b. Fill-in-the-blank questions (`type: "fill"`)
+
+A second question type asks the student to **type** the missing word(s) into the sentence instead of picking from options. There are **no options** — the answer is free text, matched **case-, accent- and space-insensitively** (so `Biomagnificazione`, `biomagnificazione` and ` biomagnificazione ` all pass).
+
+```jsonc
+{
+  "id": "bci-ddt-fill-001",            // REQUIRED, unique (use a "-fill-" segment by convention)
+  "type": "fill",                       // REQUIRED — this is what switches the card to text-entry
+  "topic": "bio-chimica",
+  "question": "Il DDT si accumula nei tessuti ___ degli organismi per la sua natura lipofila.",
+  "answers": [                          // REQUIRED — one entry per blank, in order
+    ["adiposi", "grassi"]               //   each entry = array of accepted spellings/synonyms
+  ],
+  "suggestion": "Pensa a dove finiscono le sostanze lipofile in un organismo.",
+  "explanation": "Essendo lipofilo, il DDT si concentra nel tessuto adiposo.",
+  "difficulty": "medium",
+  "source": "DDT 2026.pdf"
+}
+```
+
+Fill rules:
+
+| Field      | Rule |
+|------------|------|
+| `type`     | Must be the literal string `"fill"`. Omit it (or any other value) for normal multiple-choice questions. |
+| `question` | Mark each blank with a run of underscores — **exactly three: `___`**. The number of blanks must equal `answers.length`. Keep blanks to **one or two words**; prefer a single blank. |
+| `answers`  | An array with **one entry per blank, in source order**. Each entry is an **array of accepted strings** — include reasonable variants (synonym, singular/plural, acronym vs. full form). The first string is shown as "the" correct answer in the feedback. |
+| `options` / `correctIndex` | **Must NOT be present** on a fill question. |
+
+- Choose blanks that test a real concept (the name of a process, a key substance, a number+unit) — never a trivial filler word like an article or preposition.
+- All other fields (`id`, `topic`, `suggestion`, `explanation`, `difficulty`, `source`) behave exactly as for multiple-choice. A correct fill answer requires **every** blank to be right.
+
+Worked fill example — from the paragraph *"…la concentrazione di un contaminante persistente aumenta passando da un livello trofico al successivo."*:
+
+```json
+{
+  "id": "bci-intro-fill-007",
+  "type": "fill",
+  "topic": "bio-chimica",
+  "question": "Il processo per cui la concentrazione di un contaminante aumenta lungo la catena trofica è detto ___.",
+  "answers": [["biomagnificazione", "biomagnification"]],
+  "suggestion": "Non è il semplice accumulo in un singolo organismo, ma l'aumento da un anello all'altro.",
+  "explanation": "La biomagnificazione è l'aumento di concentrazione di un contaminante salendo di livello trofico.",
+  "difficulty": "medium",
+  "source": "Aneggi (1).pdf"
+}
+```
+
 ### Field rules
 
 | Field          | Rule |
@@ -195,7 +243,8 @@ Run through this list before adding a new batch:
 
 - [ ] Each `id` is unique across **every** file in `questions/`.
 - [ ] Every question is in Italian; every JSON key is in English.
-- [ ] Every question has 2–4 options and a valid `correctIndex`.
+- [ ] Every multiple-choice question has 2–4 options and a valid `correctIndex`.
+- [ ] Every `"type": "fill"` question has **as many `___` blanks as `answers` entries**, no `options`/`correctIndex`, and each blank lists its accepted spellings.
 - [ ] No "tutte le precedenti" / "nessuna delle precedenti".
 - [ ] Distractors are domain-plausible, not throwaways.
 - [ ] Each `suggestion` (when present) is a real hint and does **not** reveal or name the correct option.

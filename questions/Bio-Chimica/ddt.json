@@ -1,0 +1,348 @@
+[
+  {
+    "id": "bci-ddt-001",
+    "topic": "bio-chimica",
+    "question": "Su quale sistema dell'insetto agisce il DDT?",
+    "suggestion": "È lo stesso sistema bersaglio di molti veleni di contatto.",
+    "options": [
+      "Sul sistema digerente",
+      "Sul sistema nervoso",
+      "Sul sistema respiratorio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il DDT agisce sul sistema nervoso degli insetti; Müller ricevette il Nobel per la sua efficacia come veleno di contatto contro gli artropodi.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-002",
+    "topic": "bio-chimica",
+    "question": "Quali proprietà chimico-fisiche rendono il DDT problematico per l'ambiente nonostante la sua bassa solubilità in acqua?",
+    "suggestion": "Pensa alla sua stabilità e al perché non si degrada.",
+    "options": [
+      "È molto reattivo e si degrada in poche ore",
+      "È molto stabile, poco reattivo e idrofobico (pochissimo solubile in acqua)",
+      "È volatile e scompare rapidamente dall'ambiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il DDT è molto stabile, poco reattivo e idrofobico: questa persistenza, unita alla liposolubilità, ne favorisce l'accumulo negli organismi lungo la catena alimentare.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-003",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza tra bioconcentrazione e bioaccumulazione (biomagnificazione)?",
+    "suggestion": "Una avviene dal mezzo circostante, l'altra attraverso la dieta.",
+    "options": [
+      "La bioconcentrazione avviene tramite la catena alimentare, la bioaccumulazione dal mezzo",
+      "La bioconcentrazione avviene concentrando dal mezzo circostante, la bioaccumulazione attraverso la catena alimentare",
+      "Sono due termini perfettamente sinonimi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si parla di bioconcentrazione quando gli organismi concentrano gli inquinanti dal mezzo circostante, di bioaccumulazione/biomagnificazione quando il processo avviene attraverso la catena alimentare.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-004",
+    "topic": "bio-chimica",
+    "question": "Perché i rapaci sono gli uccelli più colpiti dagli effetti del DDT?",
+    "suggestion": "Dipende dalla loro posizione nella rete trofica.",
+    "options": [
+      "Perché vivono solo in ambienti molto inquinati",
+      "Perché sono in cima alla catena alimentare, dove la concentrazione di contaminanti è massima",
+      "Perché hanno un metabolismo del calcio più lento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La biomagnificazione fa aumentare la concentrazione lungo la catena alimentare; i rapaci, in cima alla catena, sono i più esposti.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-005",
+    "topic": "bio-chimica",
+    "question": "Qual è l'effetto del DDE, metabolita del DDT, sugli uccelli?",
+    "suggestion": "Riguarda le uova e la riproduzione.",
+    "options": [
+      "L'assottigliamento del guscio delle uova",
+      "L'aumento della massa corporea degli adulti",
+      "L'accelerazione della schiusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il DDT interferisce col metabolismo del calcio e il suo metabolita DDE causa l'assottigliamento del guscio delle uova, riducendo la fertilità già a basse dosi.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-006",
+    "topic": "bio-chimica",
+    "question": "Come si spiega che la più alta concentrazione di POP come il DDT non si trovi necessariamente vicino al luogo di rilascio?",
+    "suggestion": "Coinvolge temperatura, evaporazione e circolazione atmosferica.",
+    "options": [
+      "I POP precipitano subito al suolo nel punto di emissione",
+      "Nelle regioni calde evaporano e, trasportati dall'atmosfera, condensano e si accumulano nelle regioni fredde (grasshopper effect)",
+      "I POP sono distrutti dalla luce solare prima di spostarsi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle regioni calde i POP evaporano e salgono in atmosfera; entrano nella circolazione globale (grasshopper effect) e nelle regioni fredde condensano e si accumulano.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-007",
+    "topic": "bio-chimica",
+    "question": "Quali effetti sono stati osservati negli alligatori del Lake Apopka esposti al DDT?",
+    "suggestion": "Riguarda lo sviluppo sessuale e ormonale.",
+    "options": [
+      "Aumento della taglia corporea e maggiore aggressività",
+      "Malformazioni degli organi sessuali, alterazioni ormonali e fallimento della schiusa delle uova",
+      "Sviluppo di una corazza più spessa"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Lake Apopka gli alligatori maschi mostravano testosterone ridotto e falli ridotti, le femmine estradiolo doppio; l'80-95% delle uova non si schiudeva. Il DDE mima l'estradiolo.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-008",
+    "topic": "bio-chimica",
+    "question": "Come agiscono i disruttori endocrini come il DDT/DDE sull'organismo?",
+    "suggestion": "Interferiscono con un sistema di segnalazione interno.",
+    "options": [
+      "Modificano le normali risposte ormonali",
+      "Bloccano esclusivamente la respirazione cellulare",
+      "Aumentano la solubilità in acqua dei grassi"
+    ],
+    "correctIndex": 0,
+    "explanation": "I disruttori endocrini modificano le normali risposte ormonali; il DDE mima l'azione dell'estradiolo causando un calo della sintesi di androgeni in alcuni vertebrati.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'uso del DDT nel mondo è stato ristretto dalla Convenzione di ___ del 2004, ratificata da oltre 170 paesi.",
+    "answers": [["stoccolma", "stockholm"]],
+    "suggestion": "È la convenzione internazionale sui POP.",
+    "explanation": "La Convenzione di Stoccolma (2004) ha ristretto l'uso del DDT, oggi permesso solo per il 'vector control' contro insetti portatori di patogeni.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Trattare una popolazione di insetti con un insetticida esercita una forte ___ a favore dei pochi individui resistenti.",
+    "answers": [["selezione"]],
+    "suggestion": "È un meccanismo evolutivo.",
+    "explanation": "L'insetticida seleziona gli individui resistenti; le prime zanzare resistenti al DDT furono trovate in India nel 1959 e oggi la resistenza compare dopo pochi mesi.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Lungo la catena alimentare la concentrazione di contaminanti come il DDT aumenta: questo fenomeno è detto ___.",
+    "answers": [["biomagnificazione", "bioaccumulazione", "biomagnificazione (biomagnification)"]],
+    "suggestion": "Mette a maggior rischio le specie in cima alla catena.",
+    "explanation": "La biomagnificazione (bioaccumulazione attraverso la catena alimentare) fa crescere la concentrazione di contaminanti, con rischio massimo per le specie al vertice trofico.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il libro ___, pubblicato nel 1962, denunciò gli effetti ambientali dei pesticidi come il DDT.",
+    "answers": [["silent spring", "primavera silenziosa"]],
+    "suggestion": "Il titolo evoca una primavera senza canto di uccelli.",
+    "explanation": "La pubblicazione di 'Silent Spring' (1962) segnò la presa di coscienza sui danni del DDT, negli stessi anni in cui l'aquila di mare era a rischio estinzione.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Negli uccelli il DDT interferisce con il metabolismo del ___, alterando la formazione del guscio delle uova.",
+    "answers": [["calcio", "ca"]],
+    "suggestion": "È il principale costituente minerale del guscio.",
+    "explanation": "Il DDT interferisce col metabolismo del calcio; il metabolita DDE assottiglia il guscio delle uova, riducendo la fertilità dei rapaci.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-009",
+    "topic": "bio-chimica",
+    "question": "Chi dimostrò nel 1939 l'efficacia del DDT come insetticida, ricevendo poi il Nobel?",
+    "suggestion": "Lavorava nei laboratori della Geigy.",
+    "options": [
+      "O. Ziegler",
+      "P. H. Müller",
+      "Curtis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il DDT fu sintetizzato nel 1874 da O. Ziegler, ma fu P. H. Müller, nel 1939 alla Geigy, a dimostrarne l'efficacia come insetticida; nel 1948 ricevette il Nobel.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-010",
+    "topic": "bio-chimica",
+    "question": "Quale effetto ebbe l'uso del DDT sui casi di malaria tra il 1946 e il 1950?",
+    "suggestion": "Il DDT colpisce mosche e zanzare vettrici di malattie.",
+    "options": [
+      "I casi rimasero invariati",
+      "I casi scesero da 400.000 a quasi zero",
+      "I casi raddoppiarono"
+    ],
+    "correctIndex": 1,
+    "explanation": "Essendo tossico per zanzare e mosche vettrici di malattie, dal 1946 al 1950 il DDT fece scendere i casi di malaria riportati da 400.000 a quasi zero.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-011",
+    "topic": "bio-chimica",
+    "question": "Perché prima del DDT gli insetticidi efficaci ed economici a base di arsenico erano problematici?",
+    "suggestion": "Pensa alla loro tossicità per organismi non bersaglio.",
+    "options": [
+      "Erano tossici per gli umani e gli animali",
+      "Erano del tutto inefficaci",
+      "Evaporavano troppo lentamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli unici insetticidi efficaci ed economici prima del DDT erano composti di arsenico, tossici per gli umani e gli animali; gli altri prodotti naturali erano costosi.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-012",
+    "topic": "bio-chimica",
+    "question": "A quale scala geografica appartiene l'inquinamento da POP come il DDT, che si diffonde a livello globale?",
+    "suggestion": "Va oltre la scala locale e regionale.",
+    "options": [
+      "Scala locale",
+      "Scala planetaria",
+      "Scala regionale"
+    ],
+    "correctIndex": 1,
+    "explanation": "I POP (DDT, policlorurati), il buco dell'ozono e i gas serra sono esempi di inquinamento a scala planetaria, diffuso dal trasporto atmosferico.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-013",
+    "topic": "bio-chimica",
+    "question": "Cosa fu scoperto riguardo al declino delle popolazioni di foche grigie?",
+    "suggestion": "Riguarda l'accumulo di un pesticida e dei suoi metaboliti.",
+    "options": [
+      "Era dovuto a abnormi concentrazioni di DDT e dei suoi metaboliti",
+      "Era dovuto alla pesca eccessiva",
+      "Era dovuto a piogge acide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jensen e Jansson (1976) scoprirono che il declino delle foche grigie era dovuto a abnormi concentrazioni di DDT e dei suoi metaboliti.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-014",
+    "topic": "bio-chimica",
+    "question": "Quale fu osservato nelle femmine giovani di alligatore del Lake Apopka a 6 mesi?",
+    "suggestion": "Riguarda un ormone sessuale femminile.",
+    "options": [
+      "Concentrazioni di estradiolo doppie rispetto al normale e morfologia ovarica anomala",
+      "Testosterone raddoppiato",
+      "Assenza completa di ovaie"
+    ],
+    "correctIndex": 0,
+    "explanation": "A 6 mesi le femmine di alligatore avevano estradiolo plasmatico doppio del normale e morfologia ovarica anomala; i maschi avevano testosterone ridotto e falli ridotti.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-015",
+    "topic": "bio-chimica",
+    "question": "Quanto DDT contengono ancora gli esseri umani dei paesi industrializzati, secondo gli studi sul latte materno?",
+    "suggestion": "È un valore dell'ordine di pochi mg/kg.",
+    "options": [
+      "Circa 3 mg/kg",
+      "Circa 400 mg/kg",
+      "Concentrazioni nulle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Secondo gli studi sui livelli di DDT nel latte materno umano, gli esseri umani dei paesi industrializzati ne contengono ancora circa 3 mg/kg.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il nome chimico esteso del DDT è dicloro-difenil-___.",
+    "answers": [["tricloroetano"]],
+    "suggestion": "Termina con un etano triclorurato.",
+    "explanation": "DDT è l'acronimo di dicloro-difenil-tricloroetano, composto molto stabile e idrofobico ad azione specifica per gli insetti.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il DDT fu bandito negli Stati Uniti nel ___.",
+    "answers": [["1973"]],
+    "suggestion": "Anni Settanta, prima della Convenzione di Stoccolma.",
+    "explanation": "Il DDT fu bandito negli Stati Uniti nel 1973; l'uso nel mondo fu poi ristretto dalla Convenzione di Stoccolma (2004).",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Oggi l'uso del DDT è permesso solo per scopi di '___ control', cioè per eliminare insetti che trasmettono patogeni.",
+    "answers": [["vector", "vettori"]],
+    "suggestion": "In inglese indica gli organismi che trasmettono malattie.",
+    "explanation": "Il DDT è oggi permesso solo per il 'vector control', l'eliminazione di insetti che trasmettono patogeni nelle abitazioni e per limitati usi esterni.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'inquinamento a scala ___ ha effetti confinati in un'area limitata di decine di km2, come lo smog fotochimico o le zone minerarie.",
+    "answers": [["locale"]],
+    "suggestion": "È l'opposto della scala planetaria.",
+    "explanation": "L'inquinamento a scala locale ha effetti confinati in aree limitate (decine di km2): smog fotochimico, rifiuti industriali, sversamenti, zone minerarie, PFAS nelle falde.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il metabolita del DDT che mima l'azione dell'estradiolo causando un calo della sintesi di androgeni è il ___.",
+    "answers": [["dde"]],
+    "suggestion": "È lo stesso che assottiglia il guscio delle uova.",
+    "explanation": "Il DDE, metabolita del DDT, mima l'azione dell'estradiolo causando un calo della sintesi di androgeni in alcuni vertebrati; assottiglia anche il guscio delle uova.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra il 1950 e il 1980 furono prodotte circa 1,8 milioni di ___ di DDT nel mondo.",
+    "answers": [["tonnellate"]],
+    "suggestion": "È l'unità di massa usata su grande scala.",
+    "explanation": "Dopo la seconda guerra mondiale il DDT divenne la soluzione universale: dal 1950 al 1980 furono prodotte 1,8 milioni di tonnellate.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  }
+]

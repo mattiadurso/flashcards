@@ -1,0 +1,360 @@
+[
+  {
+    "id": "bci-edc-001",
+    "topic": "bio-chimica",
+    "question": "Secondo la definizione di Kavlock et al. (1996), cosa sono i disruttori endocrini (EDC)?",
+    "suggestion": "Sono agenti che vengono dall'esterno dell'organismo.",
+    "options": [
+      "Ormoni naturali prodotti in eccesso dalle ghiandole endocrine",
+      "Agenti esogeni che interferiscono con sintesi, secrezione, trasporto, legame o eliminazione degli ormoni naturali",
+      "Enzimi endogeni che catalizzano la degradazione degli steroidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli EDC sono definiti come agenti esogeni che interferiscono con sintesi, secrezione, trasporto, legame o eliminazione degli ormoni naturali responsabili di omeostasi, riproduzione, sviluppo o comportamento.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-002",
+    "topic": "bio-chimica",
+    "question": "Nel meccanismo d'azione diretto degli EDC, qual e la differenza tra un agonista e un antagonista?",
+    "suggestion": "Pensa a chi imita l'ormone e a chi blocca il recettore.",
+    "options": [
+      "L'agonista blocca i recettori, l'antagonista simula l'azione degli ormoni naturali",
+      "L'agonista simula l'azione degli ormoni naturali, l'antagonista blocca i recettori",
+      "Entrambi alterano solo la biosintesi degli ormoni senza legarsi ai recettori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel meccanismo diretto, gli agonisti (es. etinilestradiolo, nonilfenolo) simulano l'azione degli ormoni naturali aumentando la risposta, mentre gli antagonisti (es. tamoxifen, DDE) bloccano i recettori diminuendo la risposta.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-003",
+    "topic": "bio-chimica",
+    "question": "Perche un EDC con meccanismo indiretto puo alterare i livelli ormonali senza legarsi direttamente ai recettori?",
+    "suggestion": "Agisce a monte, sulla disponibilita dell'ormone.",
+    "options": [
+      "Perche aumenta solo il numero dei recettori disponibili",
+      "Perche influenza la biosintesi, il metabolismo o la disponibilita degli ormoni naturali",
+      "Perche degrada esclusivamente gli HSP nel nucleo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il meccanismo indiretto agisce sulla concentrazione dell'ormone o sull'omeostasi, influenzando biosintesi, metabolismo o disponibilita degli ormoni naturali, ad esempio bloccando la trasformazione degli androgeni in estrogeni.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "A causa della loro azione stimolatoria sullo sviluppo delle ghiandole mammarie, la mancata omeostasi degli ___ e stata collegata a un aumento del rischio di cancro al seno.",
+    "answers": [["estrogeni"]],
+    "suggestion": "Sono gli ormoni sessuali femminili.",
+    "explanation": "Gli estrogeni stimolano lo sviluppo delle ghiandole mammarie; la perdita della loro omeostasi e associata a maggior rischio di cancro al seno.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il recettore nucleare e normalmente presente in forma non attiva legato a strutture proteiche definite ___ (Heat Shock Protein).",
+    "answers": [["HSP", "heat shock protein"]],
+    "suggestion": "Sono proteine \"da shock termico\".",
+    "explanation": "Nel meccanismo dei recettori nucleari, il recettore inattivo e legato alle HSP; l'arrivo dell'ormone ne permette l'attivazione e il legame allo steroid response element (SRE) sul DNA.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I ___ sono prodotti naturali ad attivita estrogenica, classificati in due gruppi principali: isoflavoni e lignani.",
+    "answers": [["fitoestrogeni"]],
+    "suggestion": "Sono estrogeni di origine vegetale.",
+    "explanation": "I fitoestrogeni sono prodotti naturali, relativamente deboli, classificati principalmente in isoflavoni (es. genisteina della soia) e lignani.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-004",
+    "topic": "bio-chimica",
+    "question": "Come si comporta il bisfenolo A (BPA) rispetto all'attivita ormonale?",
+    "suggestion": "Confrontalo con la potenza del 17b-estradiolo.",
+    "options": [
+      "E un estrogeno forte, 4-6 volte piu potente del 17b-estradiolo",
+      "E un estrogeno debole e anti-androgeno, con potenza 4-6 volte inferiore al 17b-estradiolo",
+      "E privo di qualsiasi attivita estrogenica o androgenica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il BPA (2,2-bis(4-idrossifenil)propano) e un estrogeno debole e anti-androgeno, con potenza 4-6 volte inferiore al 17b-estradiolo; e usato nei policarbonati e all'interno delle lattine per alimenti.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-005",
+    "topic": "bio-chimica",
+    "question": "Quale effetto e stato osservato nei molluschi marini femmina esposti a composti organostannici come il TBT?",
+    "suggestion": "Il TBT ha proprieta androgeniche.",
+    "options": [
+      "Femminilizzazione e raddoppio degli ovidotti",
+      "Imposex, ovvero la graduale virilizzazione delle femmine fino alla sterilizzazione",
+      "Nessuna alterazione riproduttiva osservabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il TBT, dotato di proprieta androgeniche, causa mascolinizzazione dei molluschi femmina e l'imposex: una graduale virilizzazione che progredisce in 6 stadi, con sterilizzazione agli stadi 5 e 6.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-006",
+    "topic": "bio-chimica",
+    "question": "Per quale motivo l'esposizione agli EDC durante lo sviluppo embrionale e considerata piu problematica rispetto all'esposizione in eta adulta?",
+    "suggestion": "Pensa ai meccanismi omeostatici dell'adulto.",
+    "options": [
+      "Perche nell'adulto i meccanismi omeostatici normali possono compensare l'esposizione, mentre durante lo sviluppo no",
+      "Perche l'embrione elimina i tossici piu velocemente dell'adulto",
+      "Perche gli ormoni non sono ancora attivi durante lo sviluppo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'adulto l'esposizione puo essere compensata dai normali meccanismi omeostatici e quindi non dare effetti rilevabili; durante lo sviluppo questi meccanismi mancano, rendendo l'esposizione molto piu problematica, anche con conseguenze a lungo termine.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-007",
+    "topic": "bio-chimica",
+    "question": "Cosa indica la comparsa di vitellogenina nel plasma di pesci maschi esposti a estrogeni in acque inquinate?",
+    "suggestion": "La vitellogenina e normalmente prodotta solo nelle femmine.",
+    "options": [
+      "Un aumento della produzione di sperma",
+      "L'induzione anomala di una proteina tipicamente femminile, segno di femminilizzazione",
+      "Una maggiore resistenza agli inquinanti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vitellogenina e normalmente indotta dagli estrogeni endogeni nelle femmine (sintesi epatica per il tuorlo). Nei maschi esposti a estrogeni esogeni si accumula nel plasma: e una proteina \"femminile\" indicatrice di femminilizzazione (intersex/ovotesti).",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-008",
+    "topic": "bio-chimica",
+    "question": "Quale classe di proteine G attiva l'adenilato ciclasi favorendo la sintesi di cAMP?",
+    "suggestion": "La lettera che le distingue richiama \"stimolatorie\".",
+    "options": [
+      "Le proteine Gi",
+      "Le proteine Gs",
+      "Le proteine Gq"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra le quattro classi di proteine G, le Gs attivano l'adenilato ciclasi (e quindi la sintesi di cAMP), mentre le Gi la inibiscono e le Gq attivano le fosfolipasi.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I surfattanti alchil-fenol-polietossilati (APEs), per degradazione, danno origine al ___, composto estrogenico presente nelle acque superficiali.",
+    "answers": [["4-octilfenolo", "octilfenolo"]],
+    "suggestion": "E un fenolo con catena ottilica.",
+    "explanation": "Gli APEs usati in detergenti, pitture e pesticidi si degradano a 4-octilfenolo, un composto estrogenico che interferisce con lo sviluppo dei testicoli e causa caratteri femminili nei pesci maschio a valle dei depuratori.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-009",
+    "topic": "bio-chimica",
+    "question": "Perche il sistema endocrino dei vertebrati inferiori e degli invertebrati e particolarmente vulnerabile agli EDC ambientali?",
+    "suggestion": "Pensa a come viene determinato il sesso in questi organismi.",
+    "options": [
+      "Perche il sesso e determinato solo dai cromosomi sessuali, come nei mammiferi",
+      "Perche i meccanismi di determinazione e differenziazione sessuale possono essere influenzati da fattori ambientali come temperatura e sostanze a attivita ormonale",
+      "Perche non possiedono alcun recettore ormonale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mentre in mammiferi e uccelli il sesso genetico e definito dai cromosomi sessuali, nei vertebrati inferiori e negli invertebrati la determinazione e differenziazione sessuale sono meno caratterizzate e possono essere influenzate da fattori ambientali come la temperatura e sostanze esogene a attivita ormonale.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-010",
+    "topic": "bio-chimica",
+    "question": "Quale sostanza fu ritenuta responsabile del blocco dello sviluppo del pene negli alligatori del Lake Apopka in Florida?",
+    "suggestion": "E un noto insetticida organoclorurato.",
+    "options": [
+      "Il bisfenolo A",
+      "Il DDT, in seguito a uno sversamento",
+      "Il tributiltin (TBT)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel Lake Apopka (Florida) il blocco dello sviluppo del pene negli alligatori fu attribuito a uno sversamento di DDT, esempio di malformazione degli organi sessuali causata da EDC nella fauna selvatica.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-011",
+    "topic": "bio-chimica",
+    "question": "Quale ghiandola endocrina ha la funzione di regolare l'attivita di altre ghiandole?",
+    "suggestion": "E spesso definita la \"ghiandola maestra\".",
+    "options": [
+      "La tiroide",
+      "La ghiandola pituitaria",
+      "La paratiroide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra le principali ghiandole endocrine, la ghiandola pituitaria ha funzione regolatrice di altre ghiandole; la tiroide controlla il metabolismo e la paratiroide regola il calcio nel sangue.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-012",
+    "topic": "bio-chimica",
+    "question": "Secondo la definizione dell'EU (1998), cosa sono i disruttori endocrini?",
+    "suggestion": "La definizione include esplicitamente anche la progenie dell'organismo.",
+    "options": [
+      "Ormoni steroidi che sostengono la funzione riproduttiva femminile",
+      "Composti esogeni che influenzano negativamente la salute di un organismo sano o la sua progenie interferendo con le sue funzioni",
+      "Enzimi che catalizzano la trasformazione degli androgeni in estrogeni"
+    ],
+    "correctIndex": 1,
+    "explanation": "La definizione EU (1998) descrive gli EDC come composti esogeni che influenzano negativamente la salute di un organismo sano o la sua progenie interferendo con le sue funzioni.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-013",
+    "topic": "bio-chimica",
+    "question": "Quale tra queste e una caratteristica dei recettori ormonali descritta nel meccanismo di simulazione?",
+    "suggestion": "Pensa a cosa limita la risposta quando l'ormone e in eccesso.",
+    "options": [
+      "Bassa affinita e assenza di specificita",
+      "Saturabilita, elevata affinita e specificita sterica e farmacologica",
+      "Capacita di degradare le HSP nel citoplasma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le caratteristiche dei recettori sono: saturabilita, elevata affinita, specificita sterica e farmacologica, e correlazione con la risposta biologica.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-014",
+    "topic": "bio-chimica",
+    "question": "Quale composto organostannico, usato come biocida nelle vernici nautiche, e definito uno dei xenobiotici piu tossici mai prodotti e introdotti deliberatamente nell'ambiente?",
+    "suggestion": "E un composto dello stagno usato dal 1970 sulle carene.",
+    "options": [
+      "Il trifenilstagno (TPT)",
+      "Il tributilstagno (TBT)",
+      "Il bisfenolo A"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il tributilstagno (TBT), usato dal 1970 come biocida nel trattamento delle carene, e il composto piu tossico tra quelli dello stagno (tossicita acuta, teratogenicita, immunotossicita) ed e descritto come uno dei xenobiotici piu tossici mai introdotti deliberatamente nell'ambiente.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-015",
+    "topic": "bio-chimica",
+    "question": "Quale enzima, bersaglio dell'azione di TBT e TPT, catalizza la trasformazione degli androgeni (androstendione, testosterone) in estrogeni?",
+    "suggestion": "E noto anche come CYP19.",
+    "options": [
+      "La 3-beta-idrossisteroido-deidrogenasi",
+      "L'aromatasi (CYP19)",
+      "La 17-alfa-idrossilasi"
+    ],
+    "correctIndex": 1,
+    "explanation": "TBT e TPT agiscono inibendo l'aromatasi (CYP19), l'enzima che converte androstendione e testosterone in estrone e 17-beta-estradiolo; cosi alterano la formazione degli organi sessuali femminili.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-016",
+    "topic": "bio-chimica",
+    "question": "Quale sindrome di alterazioni nelle chiocciole marine e d'acqua dolce e indotta dal bisfenolo A (BPA) e dall'octilfenolo (OP)?",
+    "suggestion": "Comporta la formazione di organi femminili supplementari, come una seconda vagina.",
+    "options": [
+      "L'imposex con virilizzazione delle femmine",
+      "La sindrome delle \"superfemales\"",
+      "La femminilizzazione dei maschi (ovotesti)"
+    ],
+    "correctIndex": 1,
+    "explanation": "BPA e octilfenolo inducono nelle chiocciole la sindrome delle \"superfemales\": formazione di organi femminili supplementari (es. seconda vagina), malformazione dell'ovidotto e stimolazione della produzione di oociti e uova.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-017",
+    "topic": "bio-chimica",
+    "question": "In quali prodotti d'uso comune sono presenti i parabeni (metil, propil, etil, butilparaben), sospettati di attivita estrogenica?",
+    "suggestion": "Pensa ai cosmetici e ai prodotti per l'igiene.",
+    "options": [
+      "Vernici nautiche e preservanti del legno",
+      "Shampoo, smalti, deodoranti, creme e altri cosmetici",
+      "Policarbonati e lattine per alimenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "I parabeni (metil, propil, etil, butilparaben) sono usati in shampoo, condizionatori, smalti, fondotinta, maschere di bellezza, creme e deodoranti; hanno debole azione estrogena e sono associati a tumori alla mammella.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-018",
+    "topic": "bio-chimica",
+    "question": "Quale effetto sulla qualita dello sperma e stato documentato dal British Medical Journal nel periodo 1940-1990?",
+    "suggestion": "Si confronta la concentrazione di spermatozoi tra il 1940 e il 1990.",
+    "options": [
+      "Un aumento da 66 a 113 milioni/mL",
+      "Una diminuzione in numero e volume, da 113 a 66 milioni/mL",
+      "Nessuna variazione significativa nel tempo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il British Medical Journal ha documentato, tra il 1940 e il 1990, una diminuzione in numero e volume dello sperma: da 113 milioni/mL (1940) a 66 milioni/mL (1990); uno studio danese stimava un declino di circa il 2% per anno.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel meccanismo dei recettori nucleari, una volta attivato dall'ormone, il recettore si lega a una sequenza del DNA definita ___ (steroid response element).",
+    "answers": [["SRE", "steroid response element"]],
+    "suggestion": "L'acronimo deriva da \"elemento di risposta agli steroidi\".",
+    "explanation": "Il recettore nucleare attivato dall'ormone si lega allo steroid response element (SRE) presso il promotore sul DNA, avviando la trascrizione e la risposta fenotipica.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'esempio di trasduzione del segnale con i recettori a serpentina coinvolge le proteine G, che attivano l'adenilato ciclasi e quindi la sintesi del secondo messaggero ___.",
+    "answers": [["cAMP", "AMP ciclico"]],
+    "suggestion": "E l'AMP ciclico.",
+    "explanation": "Nella via di trasduzione dei recettori accoppiati a proteine G, le proteine Gs attivano l'adenilato ciclasi che genera cAMP (AMP ciclico); ogni cAMP attiva una proteina kinasi A che fosforila un enzima.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La ___ e la genisteina della soia sono esempi di isoflavoni, uno dei due gruppi principali di fitoestrogeni.",
+    "answers": [["biocanina A", "biocanina"]],
+    "suggestion": "E un isoflavone il cui nome inizia con \"bioc\".",
+    "explanation": "Tra gli isoflavoni il PDF cita la genisteina (soia), l'indol-3-carbinolo (crucifere) e la biocanina A; l'altro gruppo principale di fitoestrogeni e quello dei lignani.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Negli alligatori del Lake Apopka e nei gabbiani dei Grandi Laghi, l'interferenza con lo sviluppo sessuale maschile e stata attribuita all'insetticida organoclorurato ___.",
+    "answers": [["DDT"]],
+    "suggestion": "E lo stesso insetticida responsabile dello sversamento in Florida.",
+    "explanation": "Il DDT fu collegato al blocco dello sviluppo del pene negli alligatori del Lake Apopka e, nei gabbiani (Herring Gulls) dei Grandi Laghi, all'interferenza con lo sviluppo sessuale maschile, con nidi occupati da due femmine.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf"
+  }
+]

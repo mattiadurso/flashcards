@@ -1,0 +1,356 @@
+[
+  {
+    "id": "bci-pte-001",
+    "topic": "bio-chimica",
+    "question": "Perché gli elementi potenzialmente tossici (PTE) inorganici rappresentano un rischio per la salute umana anche nel lungo periodo?",
+    "suggestion": "Pensa a cosa li distingue dagli inquinanti organici.",
+    "options": [
+      "Perché evaporano rapidamente dal suolo",
+      "Perché non possono essere degradati da processi metabolici e sono persistenti nel suolo",
+      "Perché vengono rapidamente trasformati in composti innocui"
+    ],
+    "correctIndex": 1,
+    "explanation": "I PTE sono inorganici, non degradabili dal metabolismo e in genere poco mobili: rimangono persistenti nel suolo, costituendo un rischio di lungo periodo.",
+    "difficulty": "easy",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-002",
+    "topic": "bio-chimica",
+    "question": "Secondo la classificazione di Pearson, a cosa si riferiscono i termini 'hard' e 'soft' applicati ad acidi e basi?",
+    "suggestion": "Riguarda una proprietà degli orbitali elettronici.",
+    "options": [
+      "Alla durezza meccanica del metallo solido",
+      "Alla polarizzabilità degli orbitali elettronici",
+      "Alla temperatura di fusione dell'elemento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella classificazione di Pearson hard e soft indicano la polarizzabilità degli orbitali elettronici; le interazioni favorite sono soft-soft e hard-hard.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-003",
+    "topic": "bio-chimica",
+    "question": "Quale tra queste interazioni è favorita secondo la regola di Pearson, come nella formazione di HgS?",
+    "suggestion": "Hg2+ è un acido soft e S2- una base soft.",
+    "options": [
+      "Soft acido con hard base",
+      "Soft acido con soft base",
+      "Hard acido con soft base"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sono favorite le interazioni soft-soft (es. Hg2+ + S2- → HgS) e hard-hard (es. Fe3+ + 3OH- → Fe(OH)3).",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-004",
+    "topic": "bio-chimica",
+    "question": "Nella classificazione di Goldschmidt, come sono definiti gli elementi affini allo zolfo e quindi presenti nei solfuri?",
+    "suggestion": "Una delle quattro 'famiglie' geochimiche.",
+    "options": [
+      "Litofili",
+      "Calcofili",
+      "Siderofili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo Goldschmidt i calcofili sono affini allo zolfo (solfuri); i litofili ai silicati, i siderofili al ferro, gli atmofili sono volatili.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-005",
+    "topic": "bio-chimica",
+    "question": "Perché i PTE nelle loro forme naturali (geogeniche) sono generalmente poco tossici?",
+    "suggestion": "Lega la tossicità alla solubilità e mobilità.",
+    "options": [
+      "Perché nelle rocce sono in genere poco solubili, quindi poco mobili",
+      "Perché in natura si trovano sempre in concentrazioni nulle",
+      "Perché le rocce ignee ne sono prive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle forme naturali i PTE sono in genere poco solubili e poco mobili, quindi poco tossici; l'alterazione delle rocce (weathering) ne aumenta la solubilità.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-006",
+    "topic": "bio-chimica",
+    "question": "Quali rocce sono in genere più ricche di PTE, come i serpentini ricchi di Cr e Ni?",
+    "suggestion": "Si tratta di una delle grandi categorie litologiche.",
+    "options": [
+      "Le rocce sedimentarie",
+      "Le rocce ignee",
+      "Le arenarie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le rocce ignee sono in genere più ricche di PTE; un esempio sono i serpentini, ricchi di Cr e Ni.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le fonti di contaminazione da PTE si distinguono in naturali (o geogeniche) e ___.",
+    "answers": [["antropogeniche", "antropiche", "antropogenica"]],
+    "suggestion": "Sono quelle legate alle attività umane.",
+    "explanation": "Le fonti antropogeniche includono attività minerarie, industriali, militari, deposizioni atmosferiche e attività agricole.",
+    "difficulty": "easy",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le concentrazioni soglia fissate per legge oltre le quali un suolo è considerato contaminato sono dette Concentrazioni ___ di Contaminazione (CSC).",
+    "answers": [["soglia"]],
+    "suggestion": "L'acronimo è CSC.",
+    "explanation": "Le CSC (Concentrazioni Soglia di Contaminazione) variano in base alla destinazione d'uso: aree residenziali, industriali o agricole.",
+    "difficulty": "easy",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La ___ è definita come l'identificazione e la quantificazione delle diverse forme o fasi in cui un elemento si trova.",
+    "answers": [["speciazione", "speciation"]],
+    "suggestion": "Dipende da mineralogia e chimica del suolo.",
+    "explanation": "La speciazione (Tack e Verloo, 1995) descrive le diverse forme chimiche di un elemento e determina biodisponibilità, solubilità e mobilità.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nelle procedure di estrazione sequenziale (SEP) i metalli più ___ vengono rimossi nelle prime frazioni, proseguendo in ordine decrescente.",
+    "answers": [["mobili", "mobile"]],
+    "suggestion": "È la proprietà legata alla solubilità e disponibilità.",
+    "explanation": "Reagenti diversi sciolgono selettivamente le diverse specie chimiche: i metalli più mobili escono per primi, poi quelli via via meno mobili.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La tecnica di ___ termica per la speciazione è impiegata solo per il mercurio: riscaldando il campione tutto l'Hg viene ridotto a Hg0.",
+    "answers": [["desorbimento", "desorzione"]],
+    "suggestion": "In inglese 'thermal desorption'.",
+    "explanation": "Il desorbimento termico (only for Hg) riscalda da 20 a 800 °C riducendo tutto l'Hg a Hg0, poi rilevato per assorbimento atomico.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-007",
+    "topic": "bio-chimica",
+    "question": "Quale categoria di reagenti viene utilizzata per solubilizzare la frazione legata agli ossidi di Fe e Mn nelle estrazioni sequenziali?",
+    "suggestion": "Servono a portare in soluzione gli ossidi.",
+    "options": [
+      "Agenti ossidanti forti",
+      "Agenti riducenti e leganti (es. idrossilammina, ditionito, ossalato)",
+      "Acidi minerali concentrati come HF"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per gli ossidi di Fe/Mn si usano agenti riducenti (idrossilammina, ditionito di sodio) e complessanti (ossalato/acido ossalico).",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-008",
+    "topic": "bio-chimica",
+    "question": "Quale tra queste è indicata come una principale limitazione della speciazione chimica mediante estrazioni?",
+    "suggestion": "Riguarda l'affidabilità dei reagenti e dei risultati.",
+    "options": [
+      "L'eccessiva selettività dei reagenti",
+      "La mancanza di selettività dei reagenti e la ridistribuzione dei metalli solubilizzati",
+      "L'impossibilità di seccare il campione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra i limiti: dissoluzione incompleta di alcune fasi, scarsa selettività dei reagenti, ri-adsorbimento e ridistribuzione dei metalli, modifiche durante la preparazione e mancanza di controllo di qualità.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-009",
+    "topic": "bio-chimica",
+    "question": "Quale di questi elementi è classificato come metalloide tra i PTE più comuni?",
+    "suggestion": "Non è un metallo vero e proprio ma ha proprietà intermedie.",
+    "options": [
+      "Piombo (Pb)",
+      "Arsenico (As)",
+      "Cadmio (Cd)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra i PTE i metalloidi includono As, Sb, Se, Mo, Cr(VI) e F; Pb e Cd sono invece metalli.",
+    "difficulty": "easy",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-010",
+    "topic": "bio-chimica",
+    "question": "Secondo la classificazione di Pearson, in quale categoria rientrano lo ione Hg2+ e l'Ag+?",
+    "suggestion": "Hanno orbitali molto polarizzabili e si legano allo zolfo.",
+    "options": [
+      "Acidi hard",
+      "Acidi soft",
+      "Basi hard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cu+, Ag+, Au+, Hg+, Hg2+, Cd2+ e Pt2+ sono acidi soft (accettori), con orbitali molto polarizzabili.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-011",
+    "topic": "bio-chimica",
+    "question": "Nella classificazione di Goldschmidt, come sono definiti gli elementi affini al ferro, presenti nel nucleo terrestre?",
+    "suggestion": "Il nome richiama il ferro.",
+    "options": [
+      "Atmofili",
+      "Siderofili",
+      "Litofili"
+    ],
+    "correctIndex": 1,
+    "explanation": "I siderofili sono affini al ferro (nucleo terrestre); i litofili ai silicati, i calcofili allo zolfo, gli atmofili sono volatili (atmosfera).",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-012",
+    "topic": "bio-chimica",
+    "question": "Quale processo aumenta in genere la solubilità dei PTE contenuti nelle rocce?",
+    "suggestion": "È l'alterazione delle rocce per agenti atmosferici.",
+    "options": [
+      "La cristallizzazione magmatica",
+      "I processi di alterazione delle rocce (weathering)",
+      "La compattazione dei sedimenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "I processi di alterazione delle rocce (weathering) determinano in genere un aumento della solubilità dei PTE, rendendoli più mobili.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-013",
+    "topic": "bio-chimica",
+    "question": "Da quali PTE è caratterizzata la contaminazione legata alle attività militari, come proiettili e bossoli?",
+    "suggestion": "Pensa ai metalli usati per munizioni.",
+    "options": [
+      "Solo Hg e Cd",
+      "As, Cu, Mn, Mo, Ni, Pb, Sb, U e Zn",
+      "Solo Cr e Se"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le attività militari (proiettili, bossoli e propellente) rilasciano As, Cu, Mn, Mo, Ni, Pb, Sb, U e Zn.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-014",
+    "topic": "bio-chimica",
+    "question": "Secondo le CSC, per quale destinazione d'uso del suolo sono ammesse in genere le concentrazioni soglia più elevate?",
+    "suggestion": "Confronta aree residenziali, agricole e industriali.",
+    "options": [
+      "Aree residenziali",
+      "Aree industriali",
+      "Aree agricole"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le CSC per le aree industriali sono nettamente più alte (es. Pb 1000 mg/kg) rispetto a aree residenziali (100) e agricole (100).",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-015",
+    "topic": "bio-chimica",
+    "question": "Quali PTE sono indicati come privi di barriere ('No Barriers') nel passaggio lungo la catena alimentare verso l'uomo, costituendo un rischio alimentare elevato?",
+    "suggestion": "Includono una forma esavalente del cromo e una forma organica del mercurio.",
+    "options": [
+      "Tl, Cr(VI) e MeHg",
+      "Cu, Zn e Fe",
+      "Ca, Mg e K"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tl, Cr(VI) e MeHg sono indicati come 'No Barriers' nel rischio alimentare per l'uomo: passano senza ostacoli lungo la catena trofica.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-016",
+    "topic": "bio-chimica",
+    "question": "Quale reagente è impiegato per estrarre la frazione residuale dei metalli nelle estrazioni sequenziali?",
+    "suggestion": "Serve un acido capace di attaccare i silicati.",
+    "options": [
+      "Acqua distillata",
+      "Acido fluoridrico (HF), acido nitrico (HNO3), acido cloridrico (HCl) o loro miscele",
+      "Sali neutri come MgCl2"
+    ],
+    "correctIndex": 1,
+    "explanation": "La frazione residuale richiede acidi forti: HF, HNO3, HCl o loro miscele, capaci di dissolvere la matrice silicatica.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-017",
+    "topic": "bio-chimica",
+    "question": "Quale tecnica di speciazione in fase solida è applicabile solo al mercurio?",
+    "suggestion": "Sfrutta il riscaldamento progressivo del campione.",
+    "options": [
+      "La diffrazione a raggi X (XRD)",
+      "Il desorbimento termico (thermal desorption)",
+      "La spettroscopia Mössbauer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il desorbimento termico (TD) è indicato come applicabile only for Hg: riscaldando da 20 a 800 °C tutto l'Hg è ridotto a Hg0.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Gli elementi potenzialmente tossici sono detti anche metalli ___, in inglese 'heavy metals'.",
+    "answers": [["pesanti"]],
+    "suggestion": "Traduce 'heavy metals'.",
+    "explanation": "Tra i sinonimi di PTE: metalli pesanti (heavy metals), metalli potenzialmente tossici (PTM), elementi in traccia (TE), metalli di transizione (TM).",
+    "difficulty": "easy",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le rocce ___ sono in genere più ricche di PTE, come i serpentini ricchi di Cr e Ni.",
+    "answers": [["ignee", "magmatiche"]],
+    "suggestion": "Sono rocce di origine magmatica.",
+    "explanation": "Le rocce ignee sono in genere più ricche di PTE; un esempio sono i serpentini, ricchi di Cr e Ni.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La frazione ___ nelle estrazioni sequenziali comprende le specie metalliche debolmente trattenute sulla superficie del suolo e rilasciabili per scambio ionico.",
+    "answers": [["scambiabile", "exchangeable"]],
+    "suggestion": "In inglese 'exchangeable'.",
+    "explanation": "La frazione scambiabile (exchangeable) include i metalli trattenuti da deboli interazioni elettrostatiche e rilasciabili per scambio ionico.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella miniera di Raibl i minerali utili più importanti erano costituiti da galena e da ___ (o sfalerite), uno dei solfuri più abbondanti in natura.",
+    "answers": [["blenda", "sfalerite"]],
+    "suggestion": "È il solfuro di zinco.",
+    "explanation": "Alla miniera di Raibl (Cave del Predil) i minerali utili erano blenda (sfalerite) e galena, con prevalenza della blenda.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  }
+]

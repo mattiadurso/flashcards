@@ -9,7 +9,16 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=23" />
+  <link rel="stylesheet" href="styles.css?v=27" />
+  <script>
+    // Apply the saved day/night choice before first paint so returning
+    // night-mode users don't get a white flash. The toggle (app.js) keeps it
+    // in sync afterwards; default is day/light.
+    try {
+      if (localStorage.getItem('giud_studia.theme.v1') === 'dark')
+        document.documentElement.setAttribute('data-theme', 'dark');
+    } catch (e) {}
+  </script>
 </head>
 <body>
   <header class="topbar">
@@ -17,6 +26,22 @@
       <h1 class="title" id="title" role="button" tabindex="0"
           title="Torna alla schermata iniziale">✨ Giud's Flashcards ✨</h1>
       <div class="top-actions">
+        <!-- iOS-style sliding switch: the white knob slides across the track and
+             carries a sun in day mode, a moon in night mode. -->
+        <button id="theme-toggle" class="theme-switch" type="button"
+                role="switch" aria-checked="false"
+                title="Attiva la modalità notte" aria-label="Attiva la modalità notte">
+          <span class="theme-switch-thumb" aria-hidden="true">
+            <svg class="theme-icon theme-icon--sun" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+              <circle cx="12" cy="12" r="4.2" />
+              <path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5L19 19M19 5l-1.5 1.5M6.5 17.5L5 19" />
+            </svg>
+            <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z" />
+            </svg>
+          </span>
+        </button>
         <button id="new-session-btn" class="ghost-btn"
                 title="Cambia argomenti, difficoltà o numero di domande" hidden>‹ Nuova sessione</button>
         <button id="restore-flagged-btn" class="ghost-btn ghost-btn--warn"
@@ -157,6 +182,6 @@
   <div id="emoji-pop" class="emoji-pop" aria-hidden="true" hidden></div>
 
   <script src="praise.js?v=4"></script>
-  <script src="app.js?v=24"></script>
+  <script src="app.js?v=28"></script>
 </body>
 </html>

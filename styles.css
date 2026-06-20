@@ -45,17 +45,64 @@
   --radius-sm: 14px;
 }
 
-/* Dark-mode override intentionally disabled — site stays light and colorful
-   in every browser (Safari/VS Code dark schemes were rendering it all black). */
+/* Day/Night is a manual choice, NOT driven by prefers-color-scheme — the header
+   toggle sets data-theme on <html> and we persist it. Night just swaps the token
+   values below; every component reads the same var() names so nothing else
+   changes. (data-theme="dark" outranks the light :root, so it always wins.) */
+:root[data-theme="dark"] {
+  color-scheme: dark;
 
-/* Force light regardless of the OS/browser dark *mode*. The page defines only
-   light tokens, so there is nothing to invert; this re-asserts color-scheme so
-   no UA dark canvas or form-control theming can leak in even when the browser
-   is set to Dark. (A third-party dark-mode *extension* repaints the page after
-   this CSS and cannot be stopped from here — whitelist the site in it.) */
+  --accent: #0A84FF;
+  --accent-2: #5E5CE6;
+  --accent-press: #409CFF;
+  --green: #30D158;
+  --red: #FF453A;
+  --amber: #FFD60A;
+
+  /* surfaces */
+  --bg-solid: #0E1116;
+  --bg: #12151C;
+  --bg-2: #0A0C11;
+  --card-bg: #1A1D25;
+  --card-soft: #222633;
+
+  /* text */
+  --text: #F2F3F7;
+  --text-muted: #9DA0AB;
+
+  /* lines */
+  --border: rgba(255, 255, 255, 0.14);
+
+  /* tints — accent/status tints nudged up a touch so they read on a dark card;
+     the neutral "text" tints flip to white so dividers/keycaps stay visible. */
+  --tint-accent-08: rgba(10, 132, 255, 0.16);
+  --tint-accent-12: rgba(10, 132, 255, 0.22);
+  --tint-accent-18: rgba(10, 132, 255, 0.30);
+  --tint-accent-2-10: rgba(94, 92, 230, 0.18);
+  --tint-amber-10: rgba(255, 214, 10, 0.16);
+  --tint-amber-45: rgba(255, 214, 10, 0.45);
+  --tint-text-04: rgba(255, 255, 255, 0.05);
+  --tint-text-06: rgba(255, 255, 255, 0.08);
+  --tint-text-08: rgba(255, 255, 255, 0.10);
+  --tint-green-18: rgba(48, 209, 88, 0.22);
+  --tint-green-45: rgba(48, 209, 88, 0.45);
+  --tint-red-18:   rgba(255, 69, 58, 0.22);
+  --tint-red-45:   rgba(255, 69, 58, 0.45);
+  --topbar-bg: rgba(14, 17, 22, 0.78);
+
+  --shadow: 0 14px 40px rgba(0, 0, 0, 0.55);
+  --shadow-btn: 0 6px 18px rgba(10, 132, 255, 0.40);
+}
+
+/* When no explicit choice is stored the page stays light even if the OS is in
+   Dark mode — re-assert color-scheme so no UA dark canvas / control theming
+   leaks into the default day look. */
 @media (prefers-color-scheme: dark) {
-  :root { color-scheme: light; }
-  html, body { background-color: var(--bg-solid); color: var(--text); }
+  :root:not([data-theme="dark"]) {
+    color-scheme: light;
+    background-color: var(--bg-solid);
+    color: var(--text);
+  }
 }
 
 * { box-sizing: border-box; }
@@ -134,6 +181,60 @@ body {
   display: flex;
   gap: 8px;
   align-items: center;
+}
+
+/* Day/Night toggle styled as an iOS sliding switch. The button is the track;
+   a white knob slides from the sky-blue "day" end to the indigo "night" end,
+   carrying the matching icon. data-theme on <html> drives the slide. */
+.theme-switch {
+  position: relative;
+  flex-shrink: 0;
+  width: 52px;
+  height: 30px;
+  padding: 0;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  background: linear-gradient(135deg, #8FD3FF, #5AC8FA);  /* day: sky */
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.06);
+  transition: background 0.3s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+:root[data-theme="dark"] .theme-switch {
+  background: linear-gradient(135deg, #3A3A6E, #16152F);  /* night: indigo */
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.10);
+}
+.theme-switch:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* The sliding knob. Travel = track 52 − knob 24 − 3 − 3 = 22px. */
+.theme-switch-thumb {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.28);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+:root[data-theme="dark"] .theme-switch-thumb { transform: translateX(22px); }
+.theme-switch:active .theme-switch-thumb { width: 27px; }  /* subtle iOS stretch */
+
+.theme-icon { width: 15px; height: 15px; display: block; }
+.theme-icon--sun { color: #FF9F0A; }
+.theme-icon--moon { display: none; color: #5E5CE6; }
+:root[data-theme="dark"] .theme-icon--sun { display: none; }
+:root[data-theme="dark"] .theme-icon--moon { display: block; }
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-switch, .theme-switch-thumb { transition: none; }
 }
 
 .ghost-btn {
@@ -239,20 +340,72 @@ body {
 .ms-action:hover { background: var(--tint-accent-08); }
 .ms-group { padding: 4px 0; }
 .ms-group + .ms-group { border-top: 1px solid var(--border); }
-.ms-group-head, .ms-item {
+
+/* Head row: select-all checkbox + a fold button that fills the rest of the row. */
+.ms-group-head {
   display: flex;
   align-items: center;
   gap: 8px;
+  padding-left: 8px;
+}
+.ms-group-head > input {
+  width: 17px;
+  height: 17px;
+  accent-color: var(--accent);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.ms-group-toggle {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  border: none;
+  font: inherit;
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--text);
   padding: 7px 8px;
   border-radius: 10px;
   cursor: pointer;
+  text-align: left;
+}
+.ms-group-toggle:hover { background: var(--tint-text-04); }
+.ms-group-name { flex: 1; }
+.ms-group-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+/* Chevron from two borders: points right when folded, rotates down when open. */
+.ms-group-chevron {
+  width: 7px;
+  height: 7px;
+  margin-right: 2px;
+  border-right: 2px solid var(--text-muted);
+  border-bottom: 2px solid var(--text-muted);
+  transform: rotate(-45deg);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.ms-group:not(.collapsed) .ms-group-chevron { transform: rotate(45deg); }
+.ms-group.collapsed .ms-group-body { display: none; }
+
+.ms-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 8px 7px 30px;
+  border-radius: 10px;
+  cursor: pointer;
   font-size: 14px;
+  font-weight: 400;
   color: var(--text);
 }
-.ms-group-head { font-weight: 700; }
-.ms-item { padding-left: 22px; font-weight: 400; }
-.ms-group-head:hover, .ms-item:hover { background: var(--tint-text-04); }
-.ms-group-head input, .ms-item input {
+.ms-item:hover { background: var(--tint-text-04); }
+.ms-item input {
   width: 17px;
   height: 17px;
   accent-color: var(--accent);
@@ -552,6 +705,52 @@ body {
   0%   { background: var(--tint-red-45); }
   100% { background: var(--tint-red-18); }
 }
+
+/* ---------- fill-in-the-blank ---------- */
+
+/* Inline text box that replaces each "___" inside the question. Sits on the
+   accent-tinted baseline so it reads as a gap to complete, not a separate field. */
+.fill-input {
+  appearance: none;
+  font: inherit;
+  font-size: inherit;
+  color: var(--text);
+  background: var(--tint-accent-08);
+  border: none;
+  border-bottom: 2px solid var(--accent);
+  border-radius: 6px 6px 0 0;
+  padding: 1px 8px;
+  margin: 0 2px;
+  min-width: 4ch;
+  text-align: center;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.fill-input:focus {
+  outline: none;
+  background: var(--tint-accent-12);
+}
+.fill-input--correct {
+  background: var(--tint-green-18);
+  border-bottom-color: var(--green);
+  color: var(--text);
+}
+.fill-input--wrong {
+  background: var(--tint-red-18);
+  border-bottom-color: var(--red);
+  color: var(--text);
+}
+/* the expected word shown after a wrong blank */
+.fill-correct {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 8px;
+  font-size: 0.85em;
+  color: var(--green);
+  background: var(--tint-green-18);
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.fill-submit { width: 100%; }
 
 /* playful little wiggle/bounce on the card when an option is tapped */
 .card.bounce { animation: card-bounce 0.42s ease; }

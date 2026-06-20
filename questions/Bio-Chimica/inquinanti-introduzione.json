@@ -1,0 +1,352 @@
+[
+  {
+    "id": "bci-intro-001",
+    "topic": "bio-chimica",
+    "question": "Cosa studia principalmente la chimica ambientale riguardo alle specie chimiche presenti nell'ambiente?",
+    "suggestion": "Non si limita a misurarle: ne segue anche cosa accade nel tempo.",
+    "options": [
+      "Identifica e misura le specie chimiche e ne studia destino ed effetti sull'ambiente",
+      "Sintetizza nuovi composti industriali a basso costo",
+      "Si occupa esclusivamente della tossicità acuta sull'uomo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La chimica ambientale identifica e misura le specie chimiche naturali e antropiche, ne studia il destino (tempo di residenza, trasformazioni) e gli effetti sull'ambiente.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-002",
+    "topic": "bio-chimica",
+    "question": "Perché negli anni '60 e '70 il detto \"la soluzione dell'inquinamento sta nella diluizione\" entrò in crisi?",
+    "suggestion": "Alcune sostanze resistono a lungo all'azione di luce, acqua, aria e microrganismi.",
+    "options": [
+      "Perché la diluizione era troppo costosa da realizzare",
+      "Perché molte sostanze risultarono persistenti e non assimilate dalla natura",
+      "Perché i sistemi naturali diluivano le sostanze troppo rapidamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si comprese che molte sostanze sono persistenti, cioè resistono a lungo all'azione di luce, acqua, aria e microrganismi, e quindi non vengono assimilate.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-003",
+    "topic": "bio-chimica",
+    "question": "Quale di questi è citato come esempio classico di agente persistente?",
+    "suggestion": "È un noto pesticida ormai vietato.",
+    "options": [
+      "Il glucosio",
+      "Il DDT",
+      "L'acido citrico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra gli agenti persistenti il testo cita pesticidi come il DDT, i CFC, forme tossiche del mercurio elementare, PCB e diossine.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-004",
+    "topic": "bio-chimica",
+    "question": "Perché la strategia \"end of the pipe\" non risolve definitivamente il problema dell'inquinamento?",
+    "suggestion": "Pensa a dove finiscono gli inquinanti dopo essere stati raccolti.",
+    "options": [
+      "Perché aumenta la produzione di sostanze tossiche alla fonte",
+      "Perché gli inquinanti non sono distrutti ma solo resi meno tossici o depositati altrove",
+      "Perché richiede la sostituzione dei solventi organici con acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'end of the pipe si basa sul recupero e non sulla riduzione: gli inquinanti non vengono distrutti ma resi meno tossici o depositati integri in un ambiente diverso da quello d'origine.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-005",
+    "topic": "bio-chimica",
+    "question": "In cosa consiste l'approccio della \"chimica verde\" rispetto al controllo dell'inquinamento?",
+    "suggestion": "Sposta l'intervento all'inizio della catena produttiva.",
+    "options": [
+      "Riformula i processi sintetici affinché non generino sottoprodotti tossici",
+      "Raccoglie e smaltisce i rifiuti tossici già prodotti",
+      "Diluisce i sottoprodotti tossici fino a livelli sicuri"
+    ],
+    "correctIndex": 0,
+    "explanation": "La chimica verde riformula i processi sintetici per non generare sottoprodotti tossici, spostando l'intervento all'inizio della catena (immissione zero).",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-006",
+    "topic": "bio-chimica",
+    "question": "Quale di questi è un esempio concreto di strategia di chimica verde?",
+    "suggestion": "Riguarda la scelta del solvente in un processo.",
+    "options": [
+      "Aumentare la diluizione degli scarichi industriali",
+      "Sostituire i solventi organici con acqua",
+      "Depositare gli inquinanti in un ambiente diverso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra gli esempi di chimica verde: sostituzione dei solventi organici con acqua, dei metalli pesanti nella catalisi con sostanze non dannose e progettazione di prodotti riciclabili.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-007",
+    "topic": "bio-chimica",
+    "question": "Perché valutare le trasformazioni che una sostanza subisce nell'ambiente è di importanza prioritaria?",
+    "suggestion": "Le trasformazioni non vanno sempre nella stessa direzione in termini di rischio.",
+    "options": [
+      "Perché tutte le trasformazioni rendono le sostanze innocue",
+      "Perché alcune trasformazioni attenuano il rischio ma altre generano derivati ancora più pericolosi",
+      "Perché le trasformazioni non modificano mai il tempo di residenza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alcune trasformazioni (idrolisi, ossidazioni, fotolisi, microbiologiche) portano a prodotti innocui, ma esistono processi che trasformano un inquinante in un derivato ancora più pericoloso.",
+    "difficulty": "hard",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-008",
+    "topic": "bio-chimica",
+    "question": "Cosa si intende per \"mobilità ambientale\" di una sostanza nelle fasi di studio dell'inquinamento?",
+    "suggestion": "Riguarda il passaggio tra aria, acqua, suolo e biota.",
+    "options": [
+      "La velocità con cui la sostanza viene sintetizzata in laboratorio",
+      "Il modo in cui la sostanza si ripartisce ed è trasferita ai diversi comparti ambientali",
+      "La sua capacità di resistere alla luce solare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mobilità ambientale descrive come una sostanza possa ripartirsi ed essere trasferita ai diversi comparti: atmosfera, acqua, suolo e sedimento, biota.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-001",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Molte sostanze non vengono assimilate dalla natura perché sono ___, cioè resistono per lunghi periodi all'azione di luce, acqua, aria e microrganismi.",
+    "answers": [["persistenti", "persistente", "persistenza"]],
+    "suggestion": "Resistono a lungo alla degradazione.",
+    "explanation": "La persistenza è la resistenza prolungata all'azione di luce, acqua, aria e microrganismi.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-002",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La strategia che riformula i processi sintetici per non generare sottoprodotti tossici, spostando l'intervento all'inizio della catena, è detta chimica ___.",
+    "answers": [["verde", "green"]],
+    "suggestion": "Un colore associato all'ecologia.",
+    "explanation": "La chimica verde mira a non generare sottoprodotti tossici riformulando i processi alla fonte.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella definizione delle fasi di studio, valutare le trasformazioni di una sostanza permette di stimare il suo tempo di ___ medio nei vari comparti ambientali.",
+    "answers": [["residenza", "permanenza"]],
+    "suggestion": "Quanto a lungo la sostanza permane in un comparto.",
+    "explanation": "Le trasformazioni determinano il tempo di residenza medio della sostanza nei diversi comparti ambientali.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Definire la natura dell'inquinamento corrisponde all'analisi ___, mentre definirne il livello corrisponde all'indagine quantitativa.",
+    "answers": [["qualitativa"]],
+    "suggestion": "Si oppone a \"quantitativa\".",
+    "explanation": "L'analisi qualitativa definisce la natura dell'inquinamento, la mappatura l'estensione e l'indagine quantitativa il livello.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-009",
+    "topic": "bio-chimica",
+    "question": "Quale tema NON rientra tra gli argomenti del programma del corso di Chimica e Biochimica degli Inquinanti?",
+    "suggestion": "Pensa a cosa il programma elenca davvero: acque, atmosfera, idrocarburi...",
+    "options": [
+      "Qualità delle acque e ciclo idrologico",
+      "Idrocarburi, PCB e diossine",
+      "Genetica delle popolazioni di mammiferi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il programma comprende introduzione alla chimica ambientale, proprietà chimico-fisiche, processi di degradazione, idrocarburi, PCB e diossine, detergenti, qualità delle acque, inquinamento atmosferico e incidenti chimici; non la genetica delle popolazioni.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-010",
+    "topic": "bio-chimica",
+    "question": "Tra i detergenti, quale classificazione dei tensioattivi è prevista dal programma del corso?",
+    "suggestion": "Si distinguono in base alla carica della testa polare.",
+    "options": [
+      "Anionici, cationici, non ionici e anfoteri",
+      "Solidi, liquidi e gassosi",
+      "Acidi, basici e neutri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il programma classifica i tensioattivi in anionici, cationici, non ionici e anfoteri, trattando anche ABS, LAS, contaminazione ambientale, tossicità e biodegradazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-011",
+    "topic": "bio-chimica",
+    "question": "Quali tipi di trasformazione in ambiente non biologico sono elencati nel programma?",
+    "suggestion": "Includono fenomeni termici, luminosi e l'azione dell'acqua.",
+    "options": [
+      "Fotosintesi, respirazione e fermentazione",
+      "Combustione, reazioni fotochimiche e idrolisi",
+      "Cristallizzazione, sublimazione e fusione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra le trasformazioni in ambiente non biologico il programma cita combustione, calore di reazione, reazioni fotochimiche e idrolisi.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-012",
+    "topic": "bio-chimica",
+    "question": "Quale testo è indicato come consigliato per il corso, oltre agli appunti di lezione?",
+    "suggestion": "Un manuale di chimica ambientale edito da Zanichelli.",
+    "options": [
+      "Baird e Cann, Chimica ambientale, Zanichelli",
+      "Lehninger, Principi di biochimica, Zanichelli",
+      "Atkins, Chimica fisica, Zanichelli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i testi consigliati figurano gli appunti di lezione, i file forniti durante il corso e il manuale di Colin Baird e Michael Cann, Chimica ambientale, Zanichelli, 2013.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-013",
+    "topic": "bio-chimica",
+    "question": "Riguardo agli idrocarburi, quali aspetti il programma prevede di studiare?",
+    "suggestion": "Va dalla definizione fino agli effetti sugli organismi.",
+    "options": [
+      "Solo la loro sintesi industriale",
+      "Definizione, contaminazione ambientale, proprietà chimico-fisiche, distribuzione ambientale e tossicità",
+      "Esclusivamente il loro impiego come combustibili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per gli idrocarburi il programma prevede definizione, contaminazione ambientale, proprietà chimico-fisiche, distribuzione ambientale e tossicità.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-014",
+    "topic": "bio-chimica",
+    "question": "Secondo il programma, in base a quali criteri viene classificato l'inquinamento delle acque?",
+    "suggestion": "Due criteri: da dove proviene e cosa contiene.",
+    "options": [
+      "In base all'origine e in funzione degli inquinanti",
+      "In base al colore e all'odore dell'acqua",
+      "In base alla temperatura e alla profondità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il programma classifica l'inquinamento delle acque in base all'origine e in funzione degli inquinanti presenti.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-015",
+    "topic": "bio-chimica",
+    "question": "L'argomento sugli incidenti in impianti chimici, secondo il programma, prevede principalmente:",
+    "suggestion": "Si guarda al passato per capire cause e gestione.",
+    "options": [
+      "L'analisi di casi storicamente rilevanti, le cause e gli interventi di gestione ed emergenza",
+      "La progettazione di nuovi impianti di sintesi",
+      "Il calcolo economico dei danni assicurativi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il programma sugli incidenti in impianti chimici comprende l'analisi di casi storicamente rilevanti, le cause degli incidenti e gli interventi di gestione ed emergenza.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-016",
+    "topic": "bio-chimica",
+    "question": "Quale proprietà delle sostanze NON è esplicitamente elencata tra le proprietà chimico-fisiche del programma?",
+    "suggestion": "Il programma cita stati e passaggi di stato, legami, pH, solubilità...",
+    "options": [
+      "Solubilità",
+      "pH",
+      "Conducibilità elettrica dei metalli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra le proprietà chimico-fisiche il programma elenca stato della materia, passaggi di stato, legami chimici, acidi e basi, pH, solubilità e bioaccumulazione; non la conducibilità dei metalli.",
+    "difficulty": "hard",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i processi di degradazione, il programma distingue le trasformazioni in ambiente non biologico da quelle in ambiente ___.",
+    "answers": [["biologico"]],
+    "suggestion": "Coinvolge organismi viventi.",
+    "explanation": "Il programma tratta i processi di degradazione sia in ambiente non biologico sia in ambiente biologico.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il programma include lo studio del ciclo ___ dell'acqua nell'ambito della qualità delle acque.",
+    "answers": [["idrologico"]],
+    "suggestion": "Riguarda il movimento dell'acqua tra i comparti terrestri.",
+    "explanation": "La parte sulla qualità delle acque comprende il ciclo idrologico dell'acqua, qualità e utilizzo, e le fonti di inquinamento.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i detergenti, il programma cita due tipi di tensioattivi anionici indicati con le sigle ABS e ___.",
+    "answers": [["LAS"]],
+    "suggestion": "Alchilbenzensolfonati lineari.",
+    "explanation": "Nella parte sui detergenti il programma cita ABS e LAS tra i tensioattivi, insieme a contaminazione ambientale, tossicità e biodegradazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nelle proprietà chimico-fisiche, il programma distingue i legami chimici intramolecolari da quelli ___.",
+    "answers": [["intermolecolari", "intermolecolare"]],
+    "suggestion": "Legami deboli che tengono unite le molecole.",
+    "explanation": "Il programma tratta i legami chimici intramolecolari e intermolecolari nell'ambito delle proprietà chimico-fisiche.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il programma include tra le trasformazioni anche le cinetiche di trasformazione e degradazione e la ___ dei contaminanti.",
+    "answers": [["volatilizzazione"]],
+    "suggestion": "Il passaggio di un contaminante alla fase vapore.",
+    "explanation": "I processi di degradazione e trasformazione comprendono cinetiche di trasformazione e degradazione e volatilizzazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra le proprietà chimico-fisiche, il programma include lo studio di acidi e basi e del ___.",
+    "answers": [["pH"]],
+    "suggestion": "Indice che misura l'acidità di una soluzione.",
+    "explanation": "Le proprietà chimico-fisiche del programma comprendono acidi e basi e pH, oltre a stati della materia, legami, solubilità e bioaccumulazione.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  }
+]

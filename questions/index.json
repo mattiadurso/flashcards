@@ -185,6 +185,168 @@
           "count": 39
         }
       ]
+    },
+    {
+      "topic": "bio-chimica",
+      "label": "Bio-Chimica",
+      "files": [
+        {
+          "species": "Inquinanti — introduzione",
+          "file": "Bio-Chimica/inquinanti-introduzione.json",
+          "source": "Aneggi (1) — Introduzione.pdf",
+          "count": 26
+        },
+        {
+          "species": "Destino degli inquinanti nell'ambiente",
+          "file": "Bio-Chimica/destino-inquinanti.json",
+          "source": "Aneggi (2) — Destino degli inquinanti.pdf",
+          "count": 26
+        },
+        {
+          "species": "Proprietà chimico-fisiche dei contaminanti",
+          "file": "Bio-Chimica/proprieta-chimico-fisiche.json",
+          "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf",
+          "count": 28
+        },
+        {
+          "species": "Processi di trasformazione",
+          "file": "Bio-Chimica/processi-trasformazione.json",
+          "source": "Aneggi (4) — Processi di trasformazione.pdf",
+          "count": 26
+        },
+        {
+          "species": "Idrocarburi e petrolio",
+          "file": "Bio-Chimica/idrocarburi-petrolio.json",
+          "source": "Aneggi (5) — Idrocarburi e petrolio.pdf",
+          "count": 26
+        },
+        {
+          "species": "PCB e diossine",
+          "file": "Bio-Chimica/pcb-diossine.json",
+          "source": "Aneggi (6) — PCB e diossine.pdf",
+          "count": 26
+        },
+        {
+          "species": "Detergenti e tensioattivi",
+          "file": "Bio-Chimica/detergenti-tensioattivi.json",
+          "source": "Aneggi (7) — Detergenti e tensioattivi.pdf",
+          "count": 30
+        },
+        {
+          "species": "Qualità delle acque",
+          "file": "Bio-Chimica/qualita-acque.json",
+          "source": "Aneggi (8) — Qualità delle acque.pdf",
+          "count": 29
+        },
+        {
+          "species": "Inquinamento atmosferico",
+          "file": "Bio-Chimica/inquinamento-atmosferico.json",
+          "source": "Aneggi (9) — Inquinamento atmosferico.pdf",
+          "count": 26
+        },
+        {
+          "species": "Elementi potenzialmente tossici (PTE)",
+          "file": "Bio-Chimica/pte-metalli.json",
+          "source": "CBI — Elementi potenzialmente tossici (PTE).pdf",
+          "count": 26
+        },
+        {
+          "species": "Mercurio",
+          "file": "Bio-Chimica/mercurio.json",
+          "source": "Mercurio.pdf",
+          "count": 26
+        },
+        {
+          "species": "Il caso del DDT",
+          "file": "Bio-Chimica/ddt.json",
+          "source": "DDT 2026.pdf",
+          "count": 26
+        },
+        {
+          "species": "Disruttori endocrini",
+          "file": "Bio-Chimica/disruttori-endocrini.json",
+          "source": "Disruttori endocrini.pdf",
+          "count": 26
+        },
+        {
+          "species": "Ripartizione tra fasi ambientali",
+          "file": "Bio-Chimica/ripartizione-fasi.json",
+          "source": "Ripartizione tra fasi.pdf",
+          "count": 28
+        },
+        {
+          "species": "Cenni di tossicologia",
+          "file": "Bio-Chimica/tossicologia.json",
+          "source": "Tossicità 2026.pdf",
+          "count": 26
+        },
+        {
+          "species": "Eutrofizzazione",
+          "file": "Bio-Chimica/eutrofizzazione.json",
+          "source": "Eutrofizzazione.pdf",
+          "count": 26
+        },
+        {
+          "species": "Contaminanti marino-costieri",
+          "file": "Bio-Chimica/contaminanti-costieri.json",
+          "source": "Contaminanti marino-costieri.pdf",
+          "count": 26
+        },
+        {
+          "species": "Seminario — plastiche e microplastiche",
+          "file": "Bio-Chimica/seminario-plastiche.json",
+          "source": "Seminario — Plastiche e microplastiche.pdf",
+          "count": 26
+        },
+        {
+          "species": "Seminario — ragni ed ecotossicologia",
+          "file": "Bio-Chimica/seminario-ragni.json",
+          "source": "Seminario — Ragni ed ecotossicologia.pdf",
+          "count": 27
+        },
+        {
+          "species": "Bioconcentrazione e bioaccumulo (Kow)",
+          "file": "Bio-Chimica/bioaccumulo-kow.json",
+          "source": "Bioaccumulo_Kow.pptx",
+          "count": 26
+        },
+        {
+          "species": "Adsorbimento e isoterme",
+          "file": "Bio-Chimica/isoterme-adsorbimento.json",
+          "source": "Isoterme_Adsorbimento.pptx",
+          "count": 29
+        },
+        {
+          "species": "CBI — introduzione al corso",
+          "file": "Bio-Chimica/cbi-introduzione.json",
+          "source": "CBI_Introduzione.pptx",
+          "count": 18
+        },
+        {
+          "species": "Micro e nanoplastiche",
+          "file": "Bio-Chimica/microplastiche.json",
+          "source": "Microplastiche.pptx",
+          "count": 26
+        },
+        {
+          "species": "NAPL (fasi liquide non acquose)",
+          "file": "Bio-Chimica/napl.json",
+          "source": "NAPL.pptx",
+          "count": 27
+        },
+        {
+          "species": "Incidenti in impianti chimici",
+          "file": "Bio-Chimica/incidenti-impianti-chimici.json",
+          "source": "Aneggi (10) — Incidenti in impianti chimici.pdf",
+          "count": 36
+        },
+        {
+          "species": "Contaminanti nel biota",
+          "file": "Bio-Chimica/contaminanti-biota.json",
+          "source": "Contaminanti nel biota.pdf",
+          "count": 37
+        }
+      ]
     }
   ]
 }
