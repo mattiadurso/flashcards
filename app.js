@@ -4,6 +4,7 @@
 // non-repeating session with localStorage-backed "already seen" tracking.
 
 const SEEN_KEY = 'giud_studia.seen.v1';
+const CORRECT_KEY = 'giud_studia.correct.v1';   // ids answered correctly = "mastered" (retired from the pool)
 const FLAGGED_KEY = 'giud_studia.flagged.v1';
 const LENGTH_KEY = 'giud_studia.length.v1';
 const SELECTION_KEY = 'giud_studia.topics.v1';
@@ -55,6 +56,13 @@ function removeKey(key) {
 const loadSeen = () => loadSet(SEEN_KEY);
 const saveSeen = (set) => saveSet(SEEN_KEY, set);
 const clearSeen = () => removeKey(SEEN_KEY);
+
+// "Mastered" ids: questions answered correctly at least once. These are the ones
+// retired from future sessions — questions answered WRONG stay out of this set, so
+// they keep getting re-proposed until you finally get them right.
+const loadCorrect = () => loadSet(CORRECT_KEY);
+const saveCorrect = (set) => saveSet(CORRECT_KEY, set);
+const clearCorrect = () => removeKey(CORRECT_KEY);
 
 const loadFlagged = () => loadSet(FLAGGED_KEY);
 const saveFlagged = (set) => saveSet(FLAGGED_KEY, set);
@@ -235,21 +243,25 @@ function matchesFilters(q, flagged) {
 }
 
 function applyFilters() {
-  const seen = loadSeen();
+  const correct = loadCorrect();
   const flagged = loadFlagged();
   state.filtered = state.bank.filter(q => matchesFilters(q, flagged));
 
-  // Auto-reset if every filtered question is already seen.
-  const unseen = state.filtered.filter(q => !seen.has(q.id));
+  // The pool is every filtered question NOT yet answered correctly — i.e. unseen
+  // questions PLUS ones previously answered wrong, so mistakes keep coming back.
+  // Auto-reset once the whole slice has been mastered.
+  const pending = state.filtered.filter(q => !correct.has(q.id));
   let pool;
-  if (unseen.length === 0 && state.filtered.length > 0) {
-    // wipe seen IDs that belong to this filtered slice, then start over
+  if (pending.length === 0 && state.filtered.length > 0) {
+    // every question in this slice is mastered → clear the slice's "correct" ids
+    // and the matching "seen" ids, then start the whole slice over.
     const filteredIds = new Set(state.filtered.map(q => q.id));
-    const remaining = [...seen].filter(id => !filteredIds.has(id));
-    saveSeen(new Set(remaining));
+    saveCorrect(new Set([...correct].filter(id => !filteredIds.has(id))));
+    const seen = loadSeen();
+    saveSeen(new Set([...seen].filter(id => !filteredIds.has(id))));
     pool = [...state.filtered];
   } else {
-    pool = unseen;
+    pool = pending;
   }
 
   shuffle(pool);
@@ -348,6 +360,49 @@ function groupedEntries() {
   return groups;
 }
 
+// Per-file mastery tally: file path -> { total, correct }, where `correct` counts
+// questions answered correctly at least once. Drives the stats shown on each
+// species row and group header in the setup screen.
+function fileStats() {
+  const correct = loadCorrect();
+  const m = new Map();
+  for (const q of state.bank) {
+    let s = m.get(q._file);
+    if (!s) { s = { total: 0, correct: 0 }; m.set(q._file, s); }
+    s.total += 1;
+    if (correct.has(q.id)) s.correct += 1;
+  }
+  return m;
+}
+
+// "12/30" — correct-over-total ratio, or empty when there's nothing to count.
+function formatStat(correct, total) {
+  if (!total) return '';
+  return `${correct}/${total}`;
+}
+
+// Refresh the correctness badge on every species row and group header from the
+// current "mastered" set. Cheap; called whenever we (re)enter the setup screen.
+function refreshTopicsStats() {
+  const stats = fileStats();
+  els.topicsPanel.querySelectorAll('.ms-item-stat').forEach(el => {
+    const s = stats.get(el.dataset.file) || { total: 0, correct: 0 };
+    el.textContent = formatStat(s.correct, s.total);
+    el.classList.toggle('done', s.total > 0 && s.correct === s.total);
+  });
+  const groups = groupedEntries();
+  els.topicsPanel.querySelectorAll('.ms-group-stat').forEach(el => {
+    const items = groups.get(el.dataset.group) || [];
+    let correct = 0, total = 0;
+    for (const it of items) {
+      const s = stats.get(it.file);
+      if (s) { correct += s.correct; total += s.total; }
+    }
+    el.textContent = formatStat(correct, total);
+    el.classList.toggle('done', total > 0 && correct === total);
+  });
+}
+
 // Restore the saved selection (intersected with what actually loaded);
 // default to everything selected.
 function initSelection() {
@@ -409,10 +464,13 @@ function buildTopicsControl() {
     const gcount = document.createElement('span');     // "selected / total", kept fresh in refreshTopicsChecks
     gcount.className = 'ms-group-count';
     gcount.dataset.group = label;
+    const gstat = document.createElement('span');      // "correct / total · %", kept fresh in refreshTopicsStats
+    gstat.className = 'ms-group-stat';
+    gstat.dataset.group = label;
     const chev = document.createElement('span');
     chev.className = 'ms-group-chevron';
     chev.setAttribute('aria-hidden', 'true');
-    toggle.append(gname, gcount, chev);
+    toggle.append(gname, gstat, gcount, chev);
     toggle.addEventListener('click', () => {
       const open = !group.classList.toggle('collapsed');
       toggle.setAttribute('aria-expanded', String(open));
@@ -439,8 +497,12 @@ function buildTopicsControl() {
         onSelectionChanged();
       });
       const nm = document.createElement('span');
+      nm.className = 'ms-item-name';
       nm.textContent = it.species;
-      row.append(cb, nm);
+      const stat = document.createElement('span');     // per-species "correct / total · %"
+      stat.className = 'ms-item-stat';
+      stat.dataset.file = it.file;
+      row.append(cb, stat, nm);   // checkbox, then stat, then species name
       body.appendChild(row);
     }
     group.appendChild(body);
@@ -450,6 +512,7 @@ function buildTopicsControl() {
 
   els.difficultyField.hidden = !state.hasDifficulty;
   refreshTopicsChecks();
+  refreshTopicsStats();
 }
 
 function setAllSelected(on) {
@@ -535,17 +598,17 @@ function buildCountPresets() {
 
 // Counts for the current topic + difficulty selection (flagged excluded):
 //   total     — all matching questions
-//   answered  — how many already seen
-//   available — the pool the next session draws from: unseen questions, or —
-//               once everything has been seen — the whole set, since
-//               applyFilters() auto-resets the "seen" slice in that case.
+//   correct   — how many have been answered correctly (mastered)
+//   available — the pool the next session draws from: questions not yet mastered
+//               (unseen + previously-wrong), or — once everything is mastered —
+//               the whole set, since applyFilters() auto-resets in that case.
 function selectionCounts() {
   const flagged = loadFlagged();
-  const seen = loadSeen();
+  const correctSet = loadCorrect();
   const filtered = state.bank.filter(q => matchesFilters(q, flagged));
-  const answered = filtered.filter(q => seen.has(q.id)).length;
-  const unseen = filtered.length - answered;
-  return { total: filtered.length, answered, available: unseen === 0 ? filtered.length : unseen };
+  const correct = filtered.filter(q => correctSet.has(q.id)).length;
+  const pending = filtered.length - correct;
+  return { total: filtered.length, correct, available: pending === 0 ? filtered.length : pending };
 }
 
 // Set the session length from a preset chip; persist and re-highlight.
@@ -564,9 +627,9 @@ function refreshCountActive() {
 // Refresh the "N disponibili" hint, the visible presets, and whether "Inizia"
 // is enabled, from the real pool size.
 function updateAvailableCount() {
-  const { answered, available: n } = selectionCounts();
-  els.countHint.textContent = n
-    ? (answered ? `${answered} già viste · ${n} disponibili` : `${n} domande disponibili`)
+  const { correct, total, available: n } = selectionCounts();
+  els.countHint.textContent = total
+    ? `${correct}/${total} corrette · ${n} da ripassare`
     : 'Nessuna domanda per questa selezione';
   els.startBtn.disabled = n === 0;
   // hide presets that meet or exceed the pool (they'd behave like "Tutte"),
@@ -592,6 +655,7 @@ function showSetupScreen() {
   els.difficultyPills.querySelectorAll('input[type=checkbox]').forEach(cb => {
     cb.checked = state.selectedDifficulties.has(cb.value);
   });
+  refreshTopicsStats();   // reflect the just-finished session's results
   updateAvailableCount();
 }
 
@@ -886,10 +950,14 @@ function gradeResult(q, isCorrect) {
     a.total += 1;
     if (isCorrect) a.correct += 1;
 
-    // mark seen
+    // mark seen, and track mastery: a correct answer retires the question; a wrong
+    // answer drops it back out of "mastered" so it gets re-proposed next session.
     const seen = loadSeen();
     seen.add(q.id);
     saveSeen(seen);
+    const correct = loadCorrect();
+    if (isCorrect) correct.add(q.id); else correct.delete(q.id);
+    saveCorrect(correct);
 
     // affectionate mid-quiz nudge (streak milestone or periodic encouragement)
     const nudge = pickNudge();
@@ -1084,6 +1152,7 @@ function startSession() {
 function refreshAfterDataChange() {
   if (!els.setupScreen.hidden) {
     updateFlaggedBadge();
+    refreshTopicsStats();
     updateAvailableCount();
   } else {
     startSession();
@@ -1130,8 +1199,9 @@ function bindEvents() {
   });
 
   els.resetBtn.addEventListener('click', () => {
-    if (!confirm('Reset "già viste"?\n\nLe domande segnalate come errate restano nascoste — usa "Ripristina segnalate" per riaverle.')) return;
+    if (!confirm('Reset dei progressi?\n\nAzzera "già viste" e le risposte corrette: riparti da zero su tutte le domande.\nLe domande segnalate come errate restano nascoste — usa "Ripristina segnalate" per riaverle.')) return;
     clearSeen();
+    clearCorrect();
     refreshAfterDataChange();
   });
 
