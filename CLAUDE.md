@@ -87,9 +87,79 @@ Build everything, then end your reply with (a) the exact commands to launch it o
 
 ---
 
+## Repository map
+
+> **Read this first.** This section is the single source of truth for *where things
+> live*. A new session should be able to orient itself from this map alone. The
+> annotated tree below reflects the repo as it actually is — note it has grown
+> past the original brief above (two-level `questions/<Subject>/` folders, a nested
+> `index.json`, `praise.js`, hidden easter eggs, and no `images/` folder yet).
+
+```
+flashcards/                      ← repo root (GitHub repo is "flashcards"; was "giud_studia" — see note below)
+  index.html                     ← the only page; markup + header controls (theme toggle, Reset, Restore flagged)
+  styles.css                     ← all styling; light/dark via data-theme + prefers-color-scheme
+  app.js                         ← all app logic (~1300 lines): load manifest → fetch banks → quiz loop
+  praise.js                      ← end-of-session encouragement phrases (Italian); picked by score band
+  QUESTION_FORMAT.md             ← AUTHORITATIVE spec for question JSON + index.json manifest schema
+  README.md                      ← how to run the site (local server) + the "generate questions" workflow
+  start-mac.command              ← double-click launcher: starts python http.server + opens browser (macOS)
+  start-windows.bat              ← same for Windows
+  CLAUDE.md                      ← this file (project brief + conventions + this map)
+
+  docs/                          ← source material, organised by macro-subject (one folder per subject)
+    Anatomia_e_Biologia/         ← course 1: each lecture is a "NN name.pdf" plus an extracted "NN name.txt"
+    Bio-Chimica/                 ← course 2: PDFs and .pptx source decks
+  questions/                     ← the question banks the website actually loads
+    index.json                   ← MANIFEST. Lists every bank file; a file not listed here is invisible to the site
+    Anatomia_e_Biologia/         ← one JSON bank per species/lecture (cervo.json, capriolo.json, …)
+    Bio-Chimica/                 ← one JSON bank per topic (mercurio.json, ddt.json, …)
+    easter-eggs.json             ← hidden "bonus" questions; deliberately NOT in index.json; spliced in at random
+  tests/
+    test_question_banks.py       ← validates every bank + index.json against QUESTION_FORMAT.md (plain python3)
+    README.md                    ← how to run/extend the tests
+  .githooks/pre-commit           ← runs the tests; blocks commit on failure (enable: git config core.hooksPath .githooks)
+```
+
+**Core files — what each does**
+
+- `index.html` — single screen. Header holds the day/dark **theme toggle**, **Reset progress**, and **Restore flagged** buttons; an inline `<script>` applies the saved theme before paint to avoid a flash. Body is the card, the topic/difficulty filter ("Argomenti"), and the session-complete screen.
+- `app.js` — everything: reads `questions/index.json`, fetches each listed bank, merges into one in-memory `state.bank`, then runs a non-repeating quiz. Supports multiple-choice **and** `fill` (fill-in-the-blank) questions, per-question **flagging**, a **"mastered"** pool (ids answered correctly are retired), a session-length selector, and topic groups that fold/unfold. Easter eggs load separately and are spliced into the queue with a small probability.
+- `praise.js` — arrays of Italian phrases keyed to score bands (`PRAISE_PERFECT` / `PRAISE` / `PRAISE_GOOD` / `PRAISE_OK` / `PRAISE_LOW`); `app.js` picks one at session end.
+- `QUESTION_FORMAT.md` — the contract for question files **and** the `index.json` manifest. When touching either, treat this doc as authoritative and keep it, the banks, and the tests in agreement.
+
+**Data flow / how questions reach the screen**
+
+1. `app.js` fetches `questions/index.json` (the manifest).
+2. The manifest's real shape is **nested**: `{ "topics": [ { "topic", "label", "files": [ { "species", "file", "source", "count" }, … ] } ] }`. (`app.js` also still accepts the legacy flat `[{ topic, file }]` array.) Full field docs live in QUESTION_FORMAT.md → "`questions/index.json`".
+3. Each `file` path is relative to `questions/` (e.g. `Anatomia_e_Biologia/daino.json`). All banks are fetched and merged into one in-memory bank.
+4. The "Argomenti" filter shows one selectable entry per `species`, grouped under its `label`.
+5. `questions/easter-eggs.json` is fetched on its own (not via the manifest) and kept out of the score.
+
+**Key facts & gotchas a new session needs**
+
+- **No build, no deps.** Vanilla HTML/CSS/JS; tests are plain `python3`. Open via a local server (fetch is blocked on `file://`) — see README.
+- **The manifest is load-bearing.** Adding a `questions/<Subject>/<file>.json` does nothing until you add its `{ species, file, source, count }` entry to the right `topics[].files` array in `index.json`. This is the reusability workflow's one required edit.
+- **localStorage key prefix is `giud_studia.`** (e.g. `giud_studia.seen.v1`, `.correct.v1`, `.flagged.v1`, `.length.v1`, `.topics.v1`, `.theme.v1`, `.folds.v1`). Keep this prefix despite the repo rename — changing it wipes everyone's saved progress. (See the `repo-moved-to-flashcards` memory.)
+- **`images/` does not exist yet.** The `image` field is supported by the schema and the app, but no question uses it and there's no `images/` folder. Create `images/<subject>/` only when a question actually needs a visual.
+- **Two question types:** standard multiple-choice and `fill` (fill-in-the-blank). See QUESTION_FORMAT.md before authoring either.
+
 ## Development conventions
 
 These apply to every change in this repo, in any future session.
+
+### Keep the Repository map current — required after every change
+
+The **Repository map** above must stay accurate. Whenever a change alters the
+repo's *structure or where-is-what* — adding/removing/renaming a file or folder,
+changing what a core file does, changing the `index.json` manifest shape, adding a
+question type or field, adding an `images/` folder, changing a localStorage key,
+etc. — update the Repository map (and any other affected part of this file) **in
+the same change**, so a future session still needs only `CLAUDE.md` to orient
+itself. A purely content-level edit (e.g. adding more questions to an existing
+bank, or a new bank that follows the existing pattern) does not need a map edit,
+but adding a *new macro-subject folder* or a new top-level file does. If in doubt,
+update it. Treat an out-of-date map as a bug.
 
 ### Code readability — Google style guides
 
@@ -105,7 +175,7 @@ Key points to keep applying: descriptive `camelCase` names (JS) / `snake_case` (
 
 When you **add or change a behaviour**, add or update a test for it under `tests/`. Don't ship new functionality untested.
 
-- Tests live in `tests/` and run on plain `python3` (no dependencies, no npm), matching the project's "no build tools" constraint.
+- Tests live in `tests/` and run on plain `python3` (no dependencies, no npm), matching the project's "no build tools" constraint. Add one for every new feature you add.
 - Run them with `python3 -m unittest discover -s tests` (or `python3 tests/test_question_banks.py` to also see non-blocking style warnings).
 - A **pre-commit git hook** (`.githooks/pre-commit`) runs the tests automatically and blocks the commit if any fail. Enable it once per clone with `git config core.hooksPath .githooks`.
 - The current suite (`tests/test_question_banks.py`) validates the question banks and `index.json` against QUESTION_FORMAT.md — the contract the website depends on. When you add a new kind of question field, manifest shape, or app behaviour with a checkable data contract, extend these tests to cover it.
