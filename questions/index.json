@@ -251,6 +251,12 @@
           "count": 26
         },
         {
+          "species": "Biodisponibilità dei contaminanti del suolo",
+          "file": "Bio-Chimica/biodisponibilita.json",
+          "source": "CBI_Biodisponibilità.pdf",
+          "count": 35
+        },
+        {
           "species": "Mercurio",
           "file": "Bio-Chimica/mercurio.json",
           "source": "Mercurio.pdf",
