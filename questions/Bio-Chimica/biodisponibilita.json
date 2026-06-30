@@ -5,11 +5,11 @@
     "question": "In ecotossicologia, come si definisce la biodisponibilità di una sostanza chimica?",
     "suggestion": "Non è la quantità totale presente, ma solo quella che può davvero agire su un organismo.",
     "options": [
-      "La concentrazione totale del contaminante misurata nel suolo",
       "La frazione della sostanza disponibile per un'azione biologica, come l'assorbimento",
-      "La quantità di contaminante legata in modo stabile alla fase solida del suolo"
+      "La concentrazione totale del contaminante presente nel suolo, in ogni sua forma",
+      "La quota di contaminante legata stabilmente alla fase solida e non più mobile"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "La biodisponibilità è la frazione di una sostanza presente nell'ambiente che risulta disponibile per un'azione biologica (ad es. l'assorbimento), non il contenuto totale né la quota immobilizzata.",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
@@ -20,11 +20,11 @@
     "question": "Perché nel suolo la frazione biodisponibile di un contaminante è spesso piccola rispetto al contenuto totale?",
     "suggestion": "Pensa a cosa fanno i componenti solidi del suolo nei confronti del contaminante.",
     "options": [
-      "Perché i componenti solidi del suolo adsorbono, ritengono e immobilizzano gran parte del contaminante",
-      "Perché la maggior parte del contaminante evapora rapidamente verso l'atmosfera",
-      "Perché i microrganismi del suolo degradano quasi del tutto il contaminante presente"
+      "Perché gran parte del contaminante evapora rapidamente dal suolo verso l'atmosfera sovrastante",
+      "Perché i componenti solidi del suolo adsorbono e immobilizzano gran parte del contaminante",
+      "Perché i microrganismi del suolo degradano quasi del tutto il contaminante in poco tempo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Adsorbimento, ritenzione e immobilizzazione da parte dei componenti solidi del suolo trattengono buona parte del contaminante, lasciando biodisponibile solo una frazione ridotta del totale.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -35,11 +35,11 @@
     "question": "A quale concetto tossicologico è strettamente legata la biodisponibilità di un contaminante?",
     "suggestion": "Più frazione biodisponibile significa più sostanza che effettivamente raggiunge l'organismo.",
     "options": [
-      "Alla volatilità della sostanza espressa dalla tensione di vapore",
-      "Alla relazione concentrazione/effetto, cioè alla risposta 'dose-risposta'",
-      "Alla solubilità della sostanza nei grassi espressa dal Kow"
+      "Alla volatilità della sostanza, espressa dalla sua tensione di vapore caratteristica",
+      "Alla solubilità nei lipidi della sostanza, espressa dal coefficiente di ripartizione Kow",
+      "Alla relazione tra concentrazione ed effetto, cioè alla risposta «dose-risposta»"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "La biodisponibilità è in relazione con la concentrazione effettivamente attiva sull'organismo e quindi con l'effetto «dose-risposta», su cui si basano parametri come NOAEL e LOAEL.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -50,11 +50,11 @@
     "question": "Che cosa indica il parametro NOAEL ricavato dai test di tossicità?",
     "suggestion": "È una soglia di esposizione: la più alta ancora 'sicura'.",
     "options": [
-      "Il livello di esposizione più basso al quale compaiono i primi effetti avversi significativi",
       "Il livello di esposizione più alto al quale non si osservano effetti avversi significativi",
-      "La dose che provoca la morte del 50% degli animali da esperimento"
+      "Il livello di esposizione più basso al quale compaiono i primi effetti avversi significativi",
+      "La dose che provoca la morte del 50% degli animali da esperimento entro il test"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Il NOAEL (No Observed Adverse Effect Level) è il livello di esposizione più alto al quale non si rilevano incrementi biologicamente o statisticamente significativi di effetti avversi rispetto al controllo.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -65,11 +65,11 @@
     "question": "Qual è la differenza concettuale tra NOAEL e NOEL?",
     "suggestion": "Una soglia conta qualunque effetto osservabile, l'altra solo quelli che peggiorano l'organismo.",
     "options": [
-      "Il NOAEL considera solo gli effetti avversi, mentre il NOEL considera qualsiasi effetto osservato anche non avverso",
-      "Il NOEL si misura sull'uomo, mentre il NOAEL si misura solo su modelli animali",
-      "Il NOAEL riguarda esposizioni acute, mentre il NOEL riguarda solo esposizioni croniche"
+      "Il NOEL si misura sull'uomo esposto, mentre il NOAEL solo su modelli animali di laboratorio",
+      "Il NOAEL considera solo gli effetti avversi, il NOEL ogni effetto osservato anche non avverso",
+      "Il NOAEL riguarda le esposizioni acute, mentre il NOEL solo quelle croniche e prolungate"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il NOAEL si riferisce al più alto livello senza effetti avversi, mentre il NOEL al più alto livello senza alcun effetto osservato: distinguerli richiede una chiara definizione di «effetto avverso».",
     "difficulty": "hard",
     "source": "CBI_Biodisponibilità.pdf"
@@ -80,11 +80,11 @@
     "question": "Come si definisce un 'effetto avverso' in tossicologia?",
     "suggestion": "Non basta un cambiamento qualsiasi: deve compromettere la funzionalità dell'organismo.",
     "options": [
-      "Qualsiasi variazione biochimica misurabile, indipendentemente dalle conseguenze sull'organismo",
-      "Un cambiamento che porta a un peggioramento delle funzioni dell'organismo o della sua capacità di risposta",
-      "Una variazione che diventa rilevante solo quando è statisticamente significativa"
+      "Una qualsiasi variazione biochimica misurabile, a prescindere dalle conseguenze sull'organismo",
+      "Una variazione che diventa rilevante solo quando risulta anche statisticamente significativa",
+      "Un cambiamento che peggiora le funzioni dell'organismo o la sua capacità di risposta"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Un effetto avverso è un cambiamento biochimico, morfologico o fisiologico che peggiora le funzioni dell'organismo o ne riduce la capacità di rispondere a un ulteriore stimolo ambientale.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -95,11 +95,11 @@
     "question": "Perché un effetto 'biologicamente significativo' non coincide con uno 'statisticamente significativo'?",
     "suggestion": "Un dato può raggiungere la significatività nei numeri senza incidere sulla salute del sistema.",
     "options": [
+      "Perché un effetto statisticamente significativo può non avere alcun impatto reale sullo stato di salute",
       "Perché un effetto statisticamente significativo ha sempre un impatto marcato sul benessere dell'organismo",
-      "Perché un effetto statisticamente significativo può non avere alcun impatto reale sullo stato di salute del sistema biologico",
-      "Perché solo gli effetti biologicamente significativi possono essere rilevati dai test statistici"
+      "Perché solo gli effetti biologicamente significativi possono essere rilevati dai test statistici usati"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Un effetto biologicamente significativo incide realmente sul benessere dell'organismo; uno statisticamente significativo può emergere dai numeri pur non avendo alcun impatto sullo stato di salute del sistema.",
     "difficulty": "hard",
     "source": "CBI_Biodisponibilità.pdf"
@@ -110,7 +110,11 @@
     "topic": "bio-chimica",
     "question": "Il termine ___ indica la frazione di contaminante che può entrare in contatto con un organismo animale (spesso l'uomo) e interagire con esso.",
     "answers": [
-      ["bioaccessibilità", "bio-accessibilità", "bioaccessibilita"]
+      [
+        "bioaccessibilità",
+        "bio-accessibilità",
+        "bioaccessibilita"
+      ]
     ],
     "suggestion": "Non è la stessa cosa della biodisponibilità: riguarda il 'venire in contatto', non l'essere assimilato.",
     "explanation": "La bio-accessibilità esprime la frazione di contaminante che può entrare in contatto con un organismo animale (in genere l'uomo) e interagire con esso.",
@@ -123,11 +127,11 @@
     "question": "Perché la biodisponibilità è un concetto fortemente legato all'organismo 'target'?",
     "suggestion": "La stessa frazione di suolo non è 'disponibile' allo stesso modo per un batterio, una pianta o l'uomo.",
     "options": [
-      "Perché la frazione che un organismo riesce ad assorbire dipende dalla sua fisiologia e dalle sue barriere",
-      "Perché ogni organismo modifica chimicamente il contaminante prima di assorbirlo",
-      "Perché solo gli esseri umani sono in grado di assorbire i contaminanti del suolo"
+      "Perché ogni organismo trasforma chimicamente il contaminante prima ancora di assorbirlo",
+      "Perché la frazione che un organismo assorbe dipende dalla sua fisiologia e dalle sue barriere",
+      "Perché solo gli esseri umani sono in grado di assorbire i contaminanti presenti nel suolo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "La biodisponibilità dipende dall'organismo bersaglio (microrganismi, piante, animali, uomo): ciascuno ha barriere chimiche, fisiche e biologiche diverse che determinano quanto contaminante riesce effettivamente ad assorbire.",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
@@ -138,11 +142,11 @@
     "question": "Perché nel sistema suolo-pianta l'assorbimento di un contaminante può essere limitato?",
     "suggestion": "La pianta non è un recipiente passivo: può ostacolare l'ingresso del contaminante in più modi.",
     "options": [
-      "Perché la pianta degrada completamente il contaminante non appena lo assorbe",
-      "Perché possono esistere barriere chimiche, fisiche e biologiche come scarso assorbimento, estrusione o confinamento nelle radici",
-      "Perché il contaminante nel suolo è sempre presente solo in forma totalmente insolubile"
+      "Perché la pianta degrada in modo completo il contaminante non appena lo ha assorbito",
+      "Perché nel suolo il contaminante è sempre presente solo in una forma totalmente insolubile",
+      "Perché possono agire barriere come scarso assorbimento, estrusione o confinamento nelle radici"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Nel sistema suolo-pianta intervengono barriere chimiche, fisiche e biologiche (scarso assorbimento, estrusione del contaminante, confinamento nelle radici) che limitano il passaggio del contaminante nella pianta.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -153,11 +157,11 @@
     "question": "Quale tra questi è uno dei principali usi degli indicatori di biodisponibilità?",
     "suggestion": "Servono soprattutto a stimare quanto un sito sia davvero pericoloso.",
     "options": [
-      "Stabilire il prezzo di mercato dei terreni agricoli contaminati",
       "Valutare il rischio di un sito contaminato e l'efficacia delle azioni di bonifica",
-      "Misurare la fertilità complessiva del suolo indipendentemente dai contaminanti"
+      "Stabilire il prezzo di mercato dei terreni agricoli che risultano contaminati",
+      "Misurare la fertilità complessiva del suolo a prescindere dai contaminanti presenti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Gli indicatori di biodisponibilità servono alla valutazione del rischio di un sito (risk assessment), a definire priorità di intervento e a valutare l'efficacia della bonifica e le conseguenze di operazioni sul suolo.",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
@@ -168,9 +172,9 @@
     "question": "Quale dei seguenti è un limite riconosciuto degli indicatori di biodisponibilità?",
     "suggestion": "Pensa a quanto può cambiare la misura a seconda di dove e quando la fai, e di chi scegli come bersaglio.",
     "options": [
-      "La perfetta riproducibilità che impedisce di cogliere le differenze tra siti",
+      "La perfetta riproducibilità, che impedisce di cogliere le differenze reali tra i siti",
       "L'elevata variabilità spazio-temporale e la scelta spesso soggettiva dell'organismo target",
-      "L'impossibilità tecnica di estrarre qualsiasi frazione del contaminante dal suolo"
+      "L'impossibilità tecnica di estrarre qualunque frazione del contaminante dal suolo"
     ],
     "correctIndex": 1,
     "explanation": "Tra i limiti principali ci sono l'elevata variabilità spazio-temporale degli indicatori, la scelta soggettiva dell'organismo target, l'individuazione dei livelli soglia e i costi/tempi analitici.",
@@ -184,10 +188,10 @@
     "suggestion": "Si gioca tutto sull'uso di soluzioni e reagenti diversi.",
     "options": [
       "Sull'estrazione della soluzione del suolo mediante coppe porose e centrifugazione",
-      "Sulla solubilità del contaminante in diversi tipi di soluzioni e reagenti",
-      "Sull'uso di organismi vivi per campionare la frazione disponibile"
+      "Sull'impiego di organismi vivi per campionare la frazione effettivamente disponibile",
+      "Sulla solubilità del contaminante in diversi tipi di soluzioni e di reagenti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Le metodiche chimiche stimano la frazione biodisponibile sfruttando la solubilità del contaminante in vari estraenti; quelle fisiche separano la soluzione del suolo, quelle biologiche usano organismi indicatori.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -198,9 +202,9 @@
     "question": "Su cosa si basano le metodiche biologiche per stimare la biodisponibilità di un contaminante?",
     "suggestion": "In questo caso a 'misurare' è un essere vivente.",
     "options": [
-      "Sull'impiego di organismi diversi (licheni, lombrichi, artropodi, piante) per campionare la frazione biodisponibile",
+      "Sull'impiego di organismi diversi, come licheni, lombrichi, artropodi e piante",
       "Sull'applicazione di tecniche spettroscopiche alla soluzione estratta dal suolo",
-      "Sulla dissoluzione del contaminante in acidi forti diluiti e agenti chelanti"
+      "Sulla dissoluzione del contaminante in acidi forti diluiti e in agenti chelanti"
     ],
     "correctIndex": 0,
     "explanation": "Le metodiche biologiche utilizzano organismi (licheni, lombrichi, artropodi, piante, cavie) per 'campionare' la frazione di contaminante effettivamente biodisponibile.",
@@ -213,9 +217,9 @@
     "question": "Perché gli indicatori di biodisponibilità sono molto più sviluppati per i PTE inorganici che per i contaminanti organici?",
     "suggestion": "Una categoria ha metodi validati; l'altra è ferma alla ricerca, per ragioni legate alla complessità chimica.",
     "options": [
-      "Perché i contaminanti organici non sono mai biodisponibili nel suolo",
-      "Perché per gli organici l'elevata diversità chimica e le molte interazioni col suolo impediscono un metodo di estrazione standard",
-      "Perché i PTE inorganici sono presenti solo in concentrazioni troppo basse per essere misurati"
+      "Perché i contaminanti organici non risultano mai biodisponibili una volta nel suolo",
+      "Perché per gli organici l'elevata diversità chimica impedisce un'estrazione standard",
+      "Perché i PTE inorganici sono presenti in concentrazioni troppo basse per essere misurati"
     ],
     "correctIndex": 1,
     "explanation": "Per gli PTE inorganici esistono molti metodi validati; per gli organici l'elevata diversità chimica delle molecole e l'ampio spettro di interazioni con le fasi solide del suolo impediscono di definire un processo di estrazione standard.",
@@ -228,11 +232,11 @@
     "question": "A quale scopo si impiegano agenti complessanti come EDTA e DTPA come estraenti dei PTE dal suolo?",
     "suggestion": "Sono molecole che 'legano' i metalli e così li staccano dalla fase solida.",
     "options": [
-      "A precipitare i PTE rendendoli insolubili e non più assorbibili",
-      "A mobilizzare i PTE dal suolo estraendone la frazione potenzialmente solubile e biodisponibile",
-      "A neutralizzare il pH del suolo senza interagire con i metalli"
+      "A precipitare i PTE rendendoli insolubili e quindi non più assorbibili dagli organismi",
+      "A neutralizzare il pH del suolo senza interagire chimicamente con i metalli presenti",
+      "A mobilizzare i PTE estraendone la frazione potenzialmente solubile e biodisponibile"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "I chelanti EDTA e DTPA complessano i metalli e li mobilizzano dalla fase solida del suolo, estraendo la frazione potenzialmente solubile/biodisponibile; il DTPA in particolare è adatto a suoli neutri o calcarei.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -244,8 +248,8 @@
     "suggestion": "Cerca l'organismo che vive a contatto col terreno tra opzioni di ambienti diversi.",
     "options": [
       "Il lombrico, che vive nel suolo e ne accumula i contaminanti",
-      "Il plancton marino prelevato dalle acque costiere",
-      "Il corallo delle barriere tropicali"
+      "Il plancton, prelevato dalle acque marine costiere aperte",
+      "Il corallo, che costruisce le barriere dei mari tropicali"
     ],
     "correctIndex": 0,
     "explanation": "Tra gli organismi indicatori di biodisponibilità nel suolo si usano il lombrico, il porcellio (Porcellio scaber), i licheni e i muschi: organismi a stretto contatto con il comparto terrestre.",
@@ -258,7 +262,9 @@
     "topic": "bio-chimica",
     "question": "L'ingestione deliberata di particelle di suolo da parte di un organismo è chiamata ___.",
     "answers": [
-      ["geofagia"]
+      [
+        "geofagia"
+      ]
     ],
     "suggestion": "È un termine composto da 'terra' e 'mangiare'.",
     "explanation": "La geofagia è l'ingestione deliberata di suolo; insieme all'ingestione non intenzionale è una via diretta di esposizione, particolarmente rilevante nei bambini piccoli.",
@@ -271,11 +277,11 @@
     "question": "Quali sono le tre vie dirette di esposizione dell'uomo ai contaminanti del suolo?",
     "suggestion": "Sono i modi in cui il suolo entra direttamente in contatto con il corpo, senza passare da acqua o cibo.",
     "options": [
+      "Consumo di alimenti, consumo di bevande e bioaccumulo nella catena trofica",
       "Ingestione di particelle di suolo, inalazione e assorbimento dermico",
-      "Consumo di alimenti, consumo di bevande e bioaccumulo trofico",
-      "Contaminazione delle falde, deposizione atmosferica e dilavamento"
+      "Contaminazione delle falde, deposizione atmosferica e dilavamento del suolo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Le vie dirette sono l'ingestione di particelle di suolo, l'inalazione di particelle sospese e l'assorbimento dermico; alimenti e bevande sono invece vie indirette.",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
@@ -286,11 +292,11 @@
     "question": "Perché l'ingestione di particelle di suolo è una via di esposizione particolarmente rilevante nei bambini piccoli?",
     "suggestion": "Pensa ai comportamenti tipici dei più piccoli rispetto al terreno e agli oggetti.",
     "options": [
-      "Perché i bambini hanno un apparato digerente che assorbe selettivamente i metalli pesanti",
-      "Perché sono più spesso a contatto con il terreno e tendono a mettere in bocca oggetti e suolo",
-      "Perché nei bambini la frazione biodisponibile dei contaminanti è chimicamente più elevata"
+      "Perché hanno un apparato digerente che assorbe in modo selettivo i metalli pesanti ingeriti",
+      "Perché nei bambini la frazione biodisponibile dei contaminanti risulta chimicamente più elevata",
+      "Perché sono più spesso a contatto col terreno e tendono a portare alla bocca oggetti e suolo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "I bambini sono spesso a contatto con il terreno e hanno la tendenza a portare alla bocca oggetti e a ingerire suolo, rendendo l'ingestione una via di esposizione particolarmente importante per loro.",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
@@ -301,11 +307,11 @@
     "question": "Qual è considerata la principale via di esposizione dell'uomo ai metalli pesanti presenti nel suolo?",
     "suggestion": "Pensa al percorso che porta il metallo dal terreno fino al piatto.",
     "options": [
-      "L'assorbimento dermico per contatto diretto con il terreno",
-      "L'inalazione delle polveri minerali sospese nell'aria",
-      "Il consumo di cibo attraverso il trasferimento suolo-pianta degli elementi"
+      "Il consumo di cibo attraverso il trasferimento suolo-pianta degli elementi",
+      "L'assorbimento dermico per contatto diretto e prolungato con il terreno",
+      "L'inalazione delle polveri minerali fini sospese nell'aria ambiente"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Il consumo di alimenti, tramite il trasferimento suolo-pianta, è la via principale: si stima contribuisca a oltre il 90% dell'esposizione dell'uomo ai metalli pesanti del suolo, ben più di inalazione e contatto dermico.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -316,9 +322,9 @@
     "question": "Che cosa distingue un test di bioaccessibilità in-vitro da uno in-vivo?",
     "suggestion": "Uno usa un animale reale, l'altro riproduce in laboratorio le condizioni dell'organismo.",
     "options": [
-      "Il test in-vitro alimenta cavie con suolo contaminato, mentre l'in-vivo usa solo soluzioni di laboratorio",
-      "Il test in-vitro simula in laboratorio il tratto digestivo, mentre l'in-vivo usa animali alimentati con suolo contaminato",
-      "I test in-vitro e in-vivo misurano entrambi la concentrazione totale e non la frazione accessibile"
+      "L'in-vitro alimenta cavie con suolo contaminato, l'in-vivo usa solo soluzioni di laboratorio",
+      "L'in-vitro simula in laboratorio il tratto digestivo, l'in-vivo usa animali nutriti con suolo",
+      "Entrambi misurano la concentrazione totale del contaminante e non la frazione accessibile"
     ],
     "correctIndex": 1,
     "explanation": "I test in-vivo somministrano suolo contaminato ad animali (cavie); i test in-vitro, come i PBET, riproducono in laboratorio il tratto digestivo per stimare la frazione bioaccessibile.",
@@ -331,11 +337,11 @@
     "question": "Quali fasi del tratto digestivo riproduce il protocollo UBM (Unified BARGE Method) per la bioaccessibilità per ingestione?",
     "suggestion": "Segue il percorso del cibo dalla bocca all'intestino.",
     "options": [
-      "Solo la fase gastrica, a pH 2 e 37 °C",
-      "Le fasi salivare, gastrica e duodenale (intestinale)",
-      "Le fasi salivare e polmonare, per simulare ingestione e inalazione insieme"
+      "Soltanto la fase gastrica, condotta a pH 2 e alla temperatura di 37 °C",
+      "Le fasi salivare e polmonare, per simulare insieme ingestione e inalazione",
+      "Le fasi salivare, gastrica e duodenale, in sequenza lungo il tratto digestivo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Il protocollo UBM del BARGE simula in sequenza la fase salivare, quella gastrica e quella duodenale (intestinale) del tratto digestivo umano per stimare la frazione bioaccessibile per ingestione.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -346,11 +352,11 @@
     "question": "Nei test PBET, in che modo si simulano la fase gastrica e quella intestinale?",
     "suggestion": "La differenza chiave tra le due fasi è il pH: acido nello stomaco, neutralizzato nell'intestino.",
     "options": [
-      "Fase gastrica a pH neutro con bile, fase intestinale a pH 2 con pepsina",
-      "Fase gastrica a pH 2 con pepsina e acidi, fase intestinale neutralizzata a pH 7 con bile e pancreatina",
-      "Entrambe le fasi a pH 7, variando solo la temperatura tra 20 °C e 37 °C"
+      "Fase gastrica a pH 2 con pepsina e acidi, fase intestinale neutralizzata a pH 7 con bile",
+      "Fase gastrica a pH neutro con bile, fase intestinale a pH 2 con pepsina e acidi",
+      "Entrambe le fasi a pH 7, variando solo la temperatura tra 20 °C e 37 °C del bagno"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Nei PBET la fase gastrica usa pepsina e acidi organici a pH 2 e 37 °C, mentre la fase intestinale neutralizza con NaHCO3 a pH 7 aggiungendo estratto di bile e pancreatina, sempre a 37 °C.",
     "difficulty": "hard",
     "source": "CBI_Biodisponibilità.pdf"
@@ -361,11 +367,11 @@
     "question": "Negli studi di bioaccessibilità per inalazione, perché ci si concentra sul particolato inferiore a 10 µm (PM10, PM2,5, PM1)?",
     "suggestion": "Conta quanto in profondità una particella riesce ad arrivare nell'apparato respiratorio.",
     "options": [
-      "Perché solo le particelle fini possono depositarsi nei dotti tracheo-bronchiali e raggiungere gli alveoli",
-      "Perché le particelle fini sedimentano subito e non vengono mai inalate",
-      "Perché le particelle più grandi di 10 µm sono le uniche capaci di raggiungere i polmoni"
+      "Perché le particelle fini sedimentano subito e in pratica non vengono mai inalate dall'uomo",
+      "Perché solo le particelle fini si depositano nei dotti tracheo-bronchiali e raggiungono gli alveoli",
+      "Perché solo le particelle più grandi di 10 µm riescono davvero a raggiungere i polmoni profondi"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Il particolato inferiore a 10 µm può depositarsi nei dotti tracheo-bronchiali e raggiungere gli alveoli; le particelle più grandi vengono intercettate nella regione naso-faringea e tendono a sedimentare.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -376,11 +382,11 @@
     "question": "Per quali contaminanti il contatto dermico rappresenta un'importante via di esposizione?",
     "suggestion": "Pensa a sostanze in grado di provocare sensibilizzazione e irritazione cutanea, anche cancerogene.",
     "options": [
-      "Per i gas atmosferici come ozono e biossido di zolfo",
-      "Per gli idrocarburi policiclici aromatici e PTE quali cromo, nichel, piombo e zinco",
-      "Per i nutrienti come azoto e fosforo responsabili dell'eutrofizzazione"
+      "Per i gas atmosferici, come l'ozono e il biossido di zolfo respirabili",
+      "Per i nutrienti, come l'azoto e il fosforo che causano l'eutrofizzazione",
+      "Per gli idrocarburi policiclici aromatici e PTE come cromo, nichel e piombo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Il contatto dermico è una via importante per gli idrocarburi policiclici aromatici e per PTE come cromo, nichel, piombo e zinco, capaci di provocare sensibilizzazione, irritazione e possibili effetti cancerogeni.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -391,9 +397,9 @@
     "question": "Su quale base sono attualmente regolamentate le concentrazioni delle sostanze organiche nel suolo?",
     "suggestion": "Per gli organici manca un metodo standard di estrazione, quindi la norma ripiega su una misura più semplice.",
     "options": [
-      "Esclusivamente sulla base delle loro concentrazioni totali",
-      "Sulla sola frazione bioaccessibile misurata con i test PBET",
-      "Sulla base della frazione biodisponibile per i lombrichi"
+      "Esclusivamente sulla base delle loro concentrazioni totali nel suolo",
+      "Sulla sola frazione bioaccessibile misurata con i test in vitro PBET",
+      "Sulla frazione biodisponibile stimata tramite i lombrichi del suolo"
     ],
     "correctIndex": 0,
     "explanation": "Pur sapendo che non tutte le sostanze organiche del suolo sono biodisponibili, oggi le concentrazioni degli organici sono regolamentate solo sulla base del contenuto totale, perché la loro diversità chimica impedisce un'estrazione standard come per i PTE.",
@@ -406,9 +412,9 @@
     "question": "Perché simulare la bioaccessibilità per inalazione è più complesso che per ingestione?",
     "suggestion": "L'apparato respiratorio ha più vie d'ingresso e meccanismi di pulizia che lo stomaco non ha.",
     "options": [
-      "Perché l'apparato respiratorio assorbe i contaminanti più lentamente dell'intestino",
-      "Perché entrano in gioco la doppia via di naso e bocca, la fisiologia e i sistemi muco-ciliari di pulizia dei dotti respiratori",
-      "Perché il particolato inalato non interagisce mai con i fluidi dell'organismo"
+      "Perché l'apparato respiratorio assorbe i contaminanti molto più lentamente dell'intestino",
+      "Perché entrano in gioco la doppia via di naso e bocca e i sistemi muco-ciliari di pulizia",
+      "Perché il particolato inalato in pratica non interagisce mai con i fluidi dell'organismo"
     ],
     "correctIndex": 1,
     "explanation": "Riprodurre l'inalazione è complesso per la duplice via d'ingresso (naso e bocca), la fisiologia delle vie respiratorie e i sistemi muco-ciliari di pulizia, difficili da simulare in vitro; si usano fluidi sintetici bronchiali (pH 7,4) e lisosomiali (pH 4,5).",
@@ -421,11 +427,11 @@
     "question": "Che cosa indica il parametro LOAEL nei test di tossicità?",
     "suggestion": "È il gradino subito sopra il NOAEL: la soglia a cui qualcosa di brutto comincia a vedersi.",
     "options": [
-      "Il livello di esposizione più alto al quale non si osserva alcun effetto avverso",
-      "Il livello di esposizione più basso al quale si osserva un effetto avverso significativo",
-      "Il livello di esposizione che provoca effetti reversibili solo in metà della popolazione"
+      "Il livello di esposizione più alto al quale non si osserva ancora alcun effetto avverso",
+      "Il livello di esposizione che provoca effetti reversibili in metà della popolazione esposta",
+      "Il livello di esposizione più basso al quale si osserva un effetto avverso significativo"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Il LOAEL (Lowest Observed Adverse Effect Level) è il più basso livello di esposizione al quale si osserva un effetto avverso significativo; sta immediatamente sopra il NOAEL nella curva dose-risposta.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -436,11 +442,11 @@
     "question": "Quale frazione di PTE viene mobilizzata dal suolo usando soluzioni saline diluite come CaCl2 o NH4NO3?",
     "suggestion": "Sono i sali a 'scambiare' i cationi metallici trattenuti debolmente.",
     "options": [
-      "La frazione complessata in modo stabile dalla sostanza organica",
       "La frazione solubile e scambiabile, debolmente trattenuta dal suolo",
+      "La frazione complessata in modo stabile dalla sostanza organica del suolo",
       "La frazione inclusa nel reticolo cristallino dei minerali primari"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Le soluzioni saline diluite (es. 0.01 M CaCl2, 1 M NH4NO3) estraggono la frazione solubile e scambiabile dei PTE, quella debolmente trattenuta e potenzialmente fito-disponibile.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -451,11 +457,11 @@
     "question": "Perché si ricorre ai 'plant test' (esperimenti in serra, lisimetro o pieno campo) per valutare la biodisponibilità dei PTE per le piante?",
     "suggestion": "Un estraente chimico stima un potenziale; far crescere davvero la pianta misura l'assorbimento reale.",
     "options": [
-      "Perché misurano direttamente l'assorbimento reale del contaminante da parte della pianta viva, non solo una stima chimica",
       "Perché sono più rapidi ed economici di una semplice estrazione con sali diluiti",
+      "Perché misurano l'assorbimento reale del contaminante da parte della pianta viva",
       "Perché eliminano del tutto la variabilità spazio-temporale tipica degli indicatori"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "I plant test usano la pianta stessa come indicatore biologico, misurando l'assorbimento reale dei PTE in condizioni confinate (serra, lisimetro) o di pieno campo; gli estraenti chimici forniscono invece solo una stima della frazione potenzialmente disponibile.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -466,11 +472,11 @@
     "question": "Come ottengono diversi paesi europei le soglie di rischio dei PTE 'biodisponibili' nel suolo?",
     "suggestion": "Non si basano sul contenuto totale, ma su una frazione estratta con un reagente concordato.",
     "options": [
-      "Misurando la concentrazione totale dell'elemento previa digestione in acidi forti",
-      "Estraendo una frazione biodisponibile con soluzioni saline standard come 1 M NH4NO3 o 0.1 M NaNO3",
-      "Calcolando la frazione disponibile dal solo valore di pH del suolo"
+      "Misurando la concentrazione totale dell'elemento dopo digestione in acidi forti",
+      "Calcolando la frazione disponibile dal solo valore di pH misurato nel suolo",
+      "Estraendo la frazione biodisponibile con soluzioni saline come 1 M NH4NO3"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Le soglie di rischio per i PTE biodisponibili (Germania, Austria, Slovacchia, Svizzera...) si basano sulla frazione estratta con soluzioni saline standardizzate, tipicamente 1 M NH4NO3 o 0.1 M NaNO3, non sul contenuto totale.",
     "difficulty": "hard",
     "source": "CBI_Biodisponibilità.pdf"
@@ -481,11 +487,11 @@
     "question": "Da quale tipo di prove derivano i principali test in vitro di bioaccessibilità per contatto dermico?",
     "suggestion": "L'industria li aveva messi a punto per un problema quotidiano: metalli che si sciolgono nel sudore.",
     "options": [
-      "Dai test di tossicità acuta per ingestione condotti su cavie",
-      "Dai test dermatologici industriali per la dissoluzione di allergeni metallici nel sudore",
-      "Dalle prove di lisciviazione dei rifiuti granulari in acqua satura di CO2"
+      "Dai test dermatologici industriali per la dissoluzione di allergeni nel sudore",
+      "Dai test di tossicità acuta per ingestione condotti su cavie da laboratorio",
+      "Dalle prove di lisciviazione dei rifiuti granulari in acqua satura di anidride carbonica"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "I test di bioaccessibilità dermica derivano dai test dermatologici industriali (es. NIHS 96-10 dell'industria orologiera svizzera, EN 1811 per il nichel) ideati per valutare la dissoluzione di allergeni metallici da parte del sudore.",
     "difficulty": "medium",
     "source": "CBI_Biodisponibilità.pdf"
@@ -496,11 +502,11 @@
     "question": "Quali fluidi sintetici si impiegano negli studi di bioaccessibilità per inalazione?",
     "suggestion": "Si imitano due ambienti diversi del polmone: uno quasi neutro e uno nettamente acido.",
     "options": [
-      "Un fluido bronchiale a pH neutro (7,4) e un fluido lisosomiale dei macrofagi a pH acido (4,5)",
-      "Un fluido salivare e uno gastrico a pH 2, come nei test per ingestione",
-      "Un solo fluido neutro a pH 7, identico per tutte le regioni respiratorie"
+      "Un fluido salivare e uno gastrico a pH 2, gli stessi usati nei test per ingestione",
+      "Un fluido bronchiale a pH neutro (7,4) e un fluido lisosomiale a pH acido (4,5)",
+      "Un solo fluido neutro a pH 7, identico per tutte le regioni dell'apparato respiratorio"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Si usano due fluidi sintetici respiratori: quello di rivestimento dell'epitelio bronchiale a pH neutro (7,4) e quello lisosomiale dei macrofagi alveolari a pH acido (4,5), per riprodurre i diversi ambienti polmonari.",
     "difficulty": "hard",
     "source": "CBI_Biodisponibilità.pdf"
@@ -511,11 +517,11 @@
     "question": "A cosa sono legate le vie indirette di esposizione dell'uomo ai contaminanti del suolo?",
     "suggestion": "Il contaminante non arriva dal suolo direttamente, ma passa prima in altri comparti ambientali.",
     "options": [
-      "All'inalazione e all'assorbimento dermico delle particelle di suolo",
-      "Al passaggio degli elementi dal suolo agli altri comparti, in particolare acqua e alimenti",
-      "Alla sola ingestione deliberata di suolo (geofagia)"
+      "All'inalazione e all'assorbimento dermico delle particelle di suolo sospese",
+      "Alla sola ingestione deliberata di particelle di suolo, cioè alla geofagia",
+      "Al passaggio degli elementi dal suolo ad altri comparti, in particolare acqua e alimenti"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Le vie indirette dipendono dal passaggio dei contaminanti dal suolo agli altri comparti ambientali con cui interagisce, soprattutto l'acqua (acque superficiali e falde) e gli alimenti (catena alimentare).",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
