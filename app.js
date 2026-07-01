@@ -428,12 +428,19 @@ const els = {
 // ---------- topics multi-select ----------
 
 // Group the manifest entries by topic label -> [{ file, species }].
+// Groups and the species within each are sorted alphabetically (locale-aware,
+// case-insensitive) so the "Argomenti" list reads A→Z regardless of manifest order.
 function groupedEntries() {
-  const groups = new Map();
+  const byLabel = new Map();
   for (const e of state.entries) {
     const label = e.label || e.topic;
-    if (!groups.has(label)) groups.set(label, []);
-    groups.get(label).push({ file: e.file, species: e.species || e.file });
+    if (!byLabel.has(label)) byLabel.set(label, []);
+    byLabel.get(label).push({ file: e.file, species: e.species || e.file });
+  }
+  const byName = (a, b) => a.species.localeCompare(b.species, 'it', { sensitivity: 'base' });
+  const groups = new Map();
+  for (const label of [...byLabel.keys()].sort((a, b) => a.localeCompare(b, 'it', { sensitivity: 'base' }))) {
+    groups.set(label, byLabel.get(label).sort(byName));
   }
   return groups;
 }
