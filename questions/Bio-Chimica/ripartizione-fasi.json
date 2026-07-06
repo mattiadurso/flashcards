@@ -382,5 +382,397 @@
     "explanation": "Tra i meccanismi di adsorbimento alle superfici, le interazioni di Van der Waals sono non-specifiche, a differenza di dipolo-dipolo, legame a H, interazioni ioniche, legami con gruppi reattivi e complessazione con gruppi superficiali.",
     "difficulty": "medium",
     "source": "Ripartizione tra fasi.pdf"
+  },
+  {
+    "id": "bci-ripart-021",
+    "topic": "bio-chimica",
+    "question": "Confrontando i coefficienti di ripartizione sedimento-acqua Kp di formaldeide (2), benzene (100) e DDT (300000), cosa indica il valore molto elevato del DDT?",
+    "suggestion": "Kp = Cs/Ca: un valore alto significa molta sostanza sul solido e poca in acqua.",
+    "options": [
+      "Che il DDT e molto idrofobo e si ripartisce fortemente nel sedimento rispetto all'acqua",
+      "Che il DDT e molto solubile in acqua e tende a restare disciolto anziche legarsi al sedimento",
+      "Che il DDT e molto volatile e passa rapidamente dal sedimento alla fase gassosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Kp e il rapporto Cs/Ca: un valore altissimo (300000 per il DDT contro 2 della formaldeide) indica forte idrofobicita, quindi il composto si concentra nel sedimento/sostanza organica invece di restare disciolto in acqua.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.3"
+  },
+  {
+    "id": "bci-ripart-022",
+    "topic": "bio-chimica",
+    "question": "Nella forma della legge di Henry per i gas (concentrazione del gas disciolto = KH x p), da quale grandezza dipende direttamente la concentrazione del gas in soluzione?",
+    "suggestion": "La 'p' nella formula indica una grandezza della fase gassosa sovrastante.",
+    "options": [
+      "Dalla temperatura di ebollizione del gas alla pressione atmosferica",
+      "Dal volume totale del liquido in cui il gas si scioglie",
+      "Dalla pressione parziale del gas sovrastante la soluzione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Secondo conc = KH x p, la concentrazione del gas disciolto e proporzionale alla sua pressione parziale (p) nella fase gassosa; KH e la costante caratteristica della coppia soluto-solvente, dipendente dalla temperatura.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.7"
+  },
+  {
+    "id": "bci-ripart-023",
+    "topic": "bio-chimica",
+    "question": "Come e definita la forma adimensionale della costante di Henry (K'H)?",
+    "suggestion": "E un rapporto tra due concentrazioni all'equilibrio: guarda quale sta al numeratore.",
+    "options": [
+      "Come il prodotto tra la concentrazione in aria e la solubilita in acqua",
+      "Come il rapporto tra la concentrazione in aria e quella in acqua all'equilibrio",
+      "Come il rapporto tra la concentrazione in acqua e quella in aria all'equilibrio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La forma adimensionale K'H = [A]aria / [A]acqua e il rapporto delle concentrazioni della sostanza tra aria e acqua all'equilibrio; l'opzione invertita (acqua/aria) descriverebbe l'affinita opposta.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.9"
+  },
+  {
+    "id": "bci-ripart-024",
+    "topic": "bio-chimica",
+    "question": "In base alla costante di Henry, come si classifica un composto con KH inferiore a 3x10^-7 atm m3/mol?",
+    "suggestion": "Valori molto bassi di KH indicano scarsa tendenza a lasciare l'acqua.",
+    "options": [
+      "Come volatile in soluzione acquosa",
+      "Come moderatamente volatile in soluzione acquosa",
+      "Come meno volatile dell'acqua stessa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella classificazione basata su KH, valori < 3x10^-7 corrispondono a composti meno volatili dell'acqua; man mano che KH cresce si passa a lentamente, moderatamente e infine volatile in soluzione acquosa (> 10^-3).",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.13"
+  },
+  {
+    "id": "bci-ripart-025",
+    "topic": "bio-chimica",
+    "question": "Tra benzene (KH 10^-0.65), fenantrene (10^-2.85) e fenolo (10^-4.59), quale composto tende maggiormente a sfuggire dall'acqua verso l'aria?",
+    "suggestion": "Piu alta e la costante di Henry, maggiore e il passaggio verso l'aria.",
+    "options": [
+      "Il fenolo, perche ha la costante di Henry piu bassa dei tre",
+      "Il benzene, perche ha la costante di Henry piu alta dei tre",
+      "Il fenantrene, perche ha una costante di Henry intermedia tra gli altri due"
+    ],
+    "correctIndex": 1,
+    "explanation": "La costante di Henry misura la ripartizione aria-acqua: il benzene, con KH piu alta (10^-0.65), passa piu facilmente in aria; il fenolo (10^-4.59), con KH piu bassa, resta soprattutto in acqua.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.12"
+  },
+  {
+    "id": "bci-ripart-026",
+    "topic": "bio-chimica",
+    "question": "Fenantrene e antracene hanno lo stesso peso molecolare (178.2) ma l'antracene e molto meno solubile (10^-6.60 contro 10^-5.20 M): cosa evidenzia questo confronto?",
+    "suggestion": "Se il peso molecolare e identico, la differenza deve venire da qualcos'altro della molecola.",
+    "options": [
+      "Che la solubilita in acqua e determinata unicamente dal peso molecolare",
+      "Che la solubilita in acqua dipende anche dalla struttura molecolare, non solo dal peso",
+      "Che la solubilita in acqua cresce all'aumentare del peso molecolare, a prescindere dalla struttura"
+    ],
+    "correctIndex": 1,
+    "explanation": "A parita di peso molecolare (178.2) l'antracene e assai meno solubile del fenantrene: la solubilita non dipende solo dal peso molecolare ma anche dalla geometria/struttura della molecola (disposizione degli anelli), che ne modifica l'idrofobicita.",
+    "difficulty": "hard",
+    "source": "Ripartizione tra fasi.pdf p.18"
+  },
+  {
+    "id": "bci-ripart-027",
+    "topic": "bio-chimica",
+    "question": "Nel modello di fugacita (Level I) il DDT si distribuisce per circa il 97.6% nel suolo: quale combinazione di proprieta lo spiega?",
+    "suggestion": "Pensa a un composto che sfugge sia dall'acqua sia dall'aria.",
+    "options": [
+      "Alta solubilita in acqua e alta volatilita, che lo mantengono disciolto e in aria",
+      "Elevata idrofobicita e bassa volatilita, che lo legano alla sostanza organica del suolo",
+      "Bassa idrofobicita e alta tensione di vapore, che lo spingono verso la fase gassosa atmosferica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il DDT e molto idrofobo (poco solubile, Kp altissimo) e poco volatile: non resta in acqua ne evapora, quindi si accumula nella sostanza organica del suolo, dove il modello Level I lo colloca per oltre il 97%.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.26"
+  },
+  {
+    "id": "bci-ripart-028",
+    "topic": "bio-chimica",
+    "question": "Nel modello di fugacita (Level I) il benzene si trova per circa il 99% in aria: quale proprieta lo spiega meglio?",
+    "suggestion": "Guarda la sua tensione di vapore e la costante di Henry, non la sorption.",
+    "options": [
+      "L'elevata solubilita in acqua, che lo trattiene disciolto nella fase acquosa del sistema",
+      "L'elevato coefficiente Kp, che lo lega ai sedimenti del sistema",
+      "L'elevata tensione di vapore e volatilita, che lo portano in fase gassosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il benzene ha alta tensione di vapore e una costante di Henry relativamente alta: e volatile, quindi nel Level I si ripartisce quasi totalmente in aria, a differenza del DDT (suolo) e della formaldeide (acqua).",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.31"
+  },
+  {
+    "id": "bci-ripart-029",
+    "topic": "bio-chimica",
+    "question": "Perche nel modello di fugacita (Level I) la formaldeide si distribuisce per oltre il 99% nell'acqua?",
+    "suggestion": "La formaldeide e miscibile con l'acqua ed estremamente solubile.",
+    "options": [
+      "Perche e estremamente solubile in acqua (400 g/L) e con essa miscibile",
+      "Perche e molto idrofoba e sfugge dall'acqua verso i sedimenti del sistema",
+      "Perche ha una tensione di vapore bassissima e resta adsorbita al suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formaldeide e estremamente solubile (400 g/L) e miscibile con l'acqua: la sua altissima affinita per la fase acquosa la porta a distribuirsi per oltre il 99% nell'acqua nel modello Level I.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.33"
+  },
+  {
+    "id": "bci-ripart-030",
+    "topic": "bio-chimica",
+    "question": "Tra benzene (0.125 atm), tricloroetene (0.08 atm) e fenantrene (1.6x10^-7 atm), quale composto puro ha la maggiore tendenza a passare in fase gassosa?",
+    "suggestion": "La tensione di vapore misura direttamente questa tendenza.",
+    "options": [
+      "Il fenantrene, perche ha la tensione di vapore piu bassa dei tre",
+      "Il tricloroetene, perche ha una tensione di vapore intermedia tra gli altri due",
+      "Il benzene, perche ha la tensione di vapore piu alta dei tre"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tensione di vapore misura la tendenza di un liquido/solido puro a evaporare: il benzene (0.125 atm) e il piu alto e quindi il piu volatile, mentre il fenantrene (1.6x10^-7 atm) e quasi non volatile.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.24"
+  },
+  {
+    "id": "bci-ripart-031",
+    "topic": "bio-chimica",
+    "question": "Perche il sorbimento (Kd) del tetraclorofenolo a un sedimento diminuisce all'aumentare del pH oltre il suo pKa (circa 6.94)?",
+    "suggestion": "Sopra il pKa cambia la forma prevalente della molecola: neutra o carica?",
+    "options": [
+      "Perche aumenta la frazione ionizzata, meno idrofoba e quindi meno sorbita alla sostanza organica",
+      "Perche aumenta la frazione neutra, meno idrofoba e quindi meno sorbita alla sostanza organica",
+      "Perche diminuisce la costante dielettrica dell'acqua, che aumenta la solubilita del composto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sopra il pKa (6.94) prevale la forma anionica (TCP-): essendo carica e piu idrofila, si sorbe molto meno alla sostanza organica rispetto alla forma neutra, quindi il Kd cala all'aumentare del pH.",
+    "difficulty": "hard",
+    "source": "Ripartizione tra fasi.pdf p.42"
+  },
+  {
+    "id": "bci-ripart-032",
+    "topic": "bio-chimica",
+    "question": "Considerando i valori di pKa (pentaclorofenolo 4.60, fenolo 9.89), quale composto e piu acido e si ionizza gia a pH piu bassi?",
+    "suggestion": "Un pKa piu basso indica un acido piu forte.",
+    "options": [
+      "Il fenolo, che si ionizza a valori di pH piu bassi del pentaclorofenolo",
+      "Il pentaclorofenolo, che si ionizza a valori di pH piu bassi del fenolo",
+      "I due composti si ionizzano allo stesso pH, essendo entrambi fenoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un pKa piu basso corrisponde a un acido piu forte: il pentaclorofenolo (pKa 4.60), grazie ai cinque cloro elettron-attrattori, e molto piu acido del fenolo (pKa 9.89) e si dissocia gia a pH piu bassi.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.41"
+  },
+  {
+    "id": "bci-ripart-033",
+    "topic": "bio-chimica",
+    "question": "Come sono trattenuti i cationi organici dal suolo tramite la capacita di scambio cationico (CSC)?",
+    "suggestion": "Confrontali con i cationi inorganici: il legame e piu o meno forte?",
+    "options": [
+      "Piu debolmente dei cationi inorganici presenti nel suolo",
+      "Con la stessa intensita degli anioni inorganici presenti nel suolo",
+      "Piu fortemente dei cationi inorganici presenti nel suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il suolo trattiene i cationi tramite la CSC; i cationi organici vengono trattenuti ancora piu fortemente di quelli inorganici, mentre gli anioni sono respinti dalle superfici cariche negativamente.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.39"
+  },
+  {
+    "id": "bci-ripart-034",
+    "topic": "bio-chimica",
+    "question": "Cosa caratterizza un'isoterma di adsorbimento dal punto di vista termodinamico?",
+    "suggestion": "Il nome stesso 'iso-terma' contiene la risposta.",
+    "options": [
+      "E ottenuta a temperatura costante, facendo variare la concentrazione del soluto",
+      "E ottenuta a pressione costante, facendo variare la temperatura del sistema",
+      "E ottenuta a concentrazione costante, facendo variare la temperatura del sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un'isoterma descrive l'adsorbimento a temperatura costante (trasformazione isotermica): si mette in relazione la concentrazione sorbita con quella in soluzione mantenendo fissa la temperatura.",
+    "difficulty": "easy",
+    "source": "Ripartizione tra fasi.pdf p.43"
+  },
+  {
+    "id": "bci-ripart-035",
+    "topic": "bio-chimica",
+    "question": "Nella costruzione sperimentale di un'isoterma, cosa si analizza dopo aver raggiunto l'equilibrio e separato le fasi per centrifugazione o filtrazione?",
+    "suggestion": "Si misura direttamente solo una delle due fasi, poi si ricava l'altra.",
+    "options": [
+      "La pressione di vapore della sostanza nella fase gassosa sovrastante",
+      "La concentrazione della sostanza nella fase acquosa separata",
+      "La temperatura di ebollizione della sospensione sedimento-acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dopo l'equilibrio si separano le fasi (centrifugazione/filtrazione) e si analizza la fase acquosa (Ca); da questa e dal bilancio di massa si ricava la concentrazione sorbita sul solido (Cs).",
+    "difficulty": "easy",
+    "source": "Ripartizione tra fasi.pdf p.44"
+  },
+  {
+    "id": "bci-ripart-036",
+    "topic": "bio-chimica",
+    "question": "Nel modello di Langmuir (isoterma di tipo L), cosa rappresentano i parametri KL e Cmax?",
+    "suggestion": "Uno e legato all'energia del legame, l'altro alla saturazione della superficie.",
+    "options": [
+      "KL la solubilita del soluto e Cmax la sua tensione di vapore",
+      "KL la frazione di carbonio organico e Cmax il volume dei pori",
+      "KL una costante legata all'energia di adsorbimento e Cmax lo strato monomolecolare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'equazione di Langmuir Cs = (KL Cmax Ca)/(1 + KL Ca), KL e una costante legata all'energia di adsorbimento e Cmax la capacita massima corrispondente alla saturazione dello strato monomolecolare.",
+    "difficulty": "hard",
+    "source": "Ripartizione tra fasi.pdf p.56"
+  },
+  {
+    "id": "bci-ripart-037",
+    "topic": "bio-chimica",
+    "question": "Perche lo stesso composto (2,4-dinitrotoluene) segue un'isoterma di Langmuir sulla montmorillonite ma di Freundlich sulle cellule di Burkholderia?",
+    "suggestion": "A cambiare non e la molecola, ma cio su cui si adsorbe.",
+    "options": [
+      "Perche il tipo di isoterma dipende dalla natura della superficie sorbente",
+      "Perche il tipo di isoterma dipende solo dalla temperatura del sistema",
+      "Perche il tipo di isoterma dipende solo dal peso molecolare del soluto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La forma dell'isoterma non dipende solo dal soluto ma anche dal sorbente: lo stesso 2,4-dinitrotoluene da una isoterma di Langmuir sulla montmorillonite e una di Freundlich sulle cellule batteriche, perche le superfici hanno siti e affinita diversi.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.58"
+  },
+  {
+    "id": "bci-ripart-038",
+    "topic": "bio-chimica",
+    "question": "In un'acqua torbida superficiale il tetracloroetene (PCE, Kd 10^2) resta quasi tutto disciolto (fw circa 1), a differenza del PCB (Kd 10^7): perche?",
+    "suggestion": "Confronta quanto fortemente ciascuno si lega ai solidi sospesi.",
+    "options": [
+      "Perche il suo Kd e molto piu basso, quindi si sorbe pochissimo ai solidi sospesi",
+      "Perche il suo Kd e molto piu alto, quindi si sorbe fortemente ai solidi sospesi",
+      "Perche la sua solubilita in acqua e trascurabile rispetto a quella del PCB"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con fw = 1/(1 + Kd Ms/Vw), il PCE ha Kd molto basso (10^2) e quindi si sorbe pochissimo ai solidi sospesi, restando quasi interamente disciolto (fw circa 1); il PCB, con Kd 10^7, viene invece in buona parte sorbito.",
+    "difficulty": "hard",
+    "source": "Ripartizione tra fasi.pdf p.54"
+  },
+  {
+    "id": "bci-ripart-039",
+    "topic": "bio-chimica",
+    "question": "Perche la solubilita in acqua e uno dei fattori piu importanti nel trasporto degli inquinanti nel sottosuolo?",
+    "suggestion": "Cio che e disciolto puo viaggiare con l'acqua che si muove nel terreno.",
+    "options": [
+      "Perche stabilisce la temperatura di ebollizione dell'inquinante nel terreno",
+      "Perche determina la capacita dell'inquinante di sciogliersi ed essere trasportato dall'acqua",
+      "Perche fissa la pressione di vapore dell'inquinante nella fase gassosa del suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La solubilita rappresenta la quantita massima di sostanza che si scioglie in acqua: piu una sostanza e solubile, piu facilmente passa in soluzione e viene trasportata dalle acque di infiltrazione nel sottosuolo.",
+    "difficulty": "easy",
+    "source": "Ripartizione tra fasi.pdf p.17"
+  },
+  {
+    "id": "bci-ripart-040",
+    "topic": "bio-chimica",
+    "question": "Perche il coefficiente di ripartizione normalizzato Koc risulta molto simile per suoli e sedimenti diversi?",
+    "suggestion": "E una caratteristica della molecola, non del terreno.",
+    "options": [
+      "Perche dipende dal contenuto di argilla, simile in tutti i suoli analizzati",
+      "Perche e una proprieta del composto, legata alla sua idrofobicita, non del suolo",
+      "Perche dipende dalla temperatura, simile in tutti i suoli analizzati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il Koc (= Kp/foc) e una proprieta del composto, legata alla sua idrofobicita, e non del suolo: normalizzando sul carbonio organico si eliminano le differenze tra terreni, quindi il valore resta pressoche costante per suoli diversi.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.51"
+  },
+  {
+    "id": "bci-ripart-041",
+    "topic": "bio-chimica",
+    "question": "Nel grafico che lega log Koc a log Kow, perche il pirene si colloca molto piu in alto del benzene?",
+    "suggestion": "Pensa a quale dei due sfugge di piu dall'acqua.",
+    "options": [
+      "Perche il pirene e piu solubile in acqua, quindi ha un Koc piu alto del benzene",
+      "Perche il pirene e piu volatile del benzene, quindi ha un Koc piu alto",
+      "Perche il pirene e piu idrofobo (Kow maggiore), quindi ha un Koc piu alto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il sorbimento (Koc) puo essere predetto dal Kow, parametro dell'idrofobicita: log Koc cresce linearmente con log Kow. Il pirene, molto piu idrofobo del benzene, ha un Kow (e quindi un Koc) piu alto e si colloca in alto sulla retta.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.47"
+  },
+  {
+    "id": "bci-ripart-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La capacita del suolo di trattenere i cationi grazie alle superfici cariche negativamente e detta capacita di ___ cationico (CSC).",
+    "answers": [["scambio"]],
+    "suggestion": "In inglese si dice 'exchange'.",
+    "explanation": "La capacita di scambio cationico (CSC) e la proprieta del suolo di trattenere e scambiare i cationi sulle superfici cariche negativamente; i cationi organici sono trattenuti piu fortemente di quelli inorganici.",
+    "difficulty": "easy",
+    "source": "Ripartizione tra fasi.pdf p.39"
+  },
+  {
+    "id": "bci-ripart-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il modello di ___ (Level I) descrive come una sostanza si distribuisce all'equilibrio tra i comparti ambientali (aria, acqua, suolo, sedimento).",
+    "answers": [["fugacita", "fugacità"]],
+    "suggestion": "Deriva dal concetto di 'tendenza a fuggire' da una fase.",
+    "explanation": "Il modello di fugacita (Level I) stima la distribuzione all'equilibrio di una sostanza tra i comparti ambientali; ad esempio colloca il DDT quasi tutto nel suolo, il benzene in aria e la formaldeide in acqua.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.26"
+  },
+  {
+    "id": "bci-ripart-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel modello di Langmuir il parametro ___ rappresenta la capacita massima corrispondente alla saturazione dello strato monomolecolare di soluto adsorbito.",
+    "answers": [["Cmax", "C max"]],
+    "suggestion": "E il valore a cui tende il plateau della curva di tipo L.",
+    "explanation": "Nell'isoterma di Langmuir (tipo L), Cmax e la concentrazione massima adsorbibile, raggiunta quando lo strato monomolecolare e saturo e non restano piu siti disponibili; KL e invece legata all'energia di adsorbimento.",
+    "difficulty": "hard",
+    "source": "Ripartizione tra fasi.pdf p.56"
+  },
+  {
+    "id": "bci-ripart-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il coefficiente di partizione octanolo-acqua, usato come parametro dell'idrofobicita per predire il sorbimento, si indica con ___.",
+    "answers": [["Kow"]],
+    "suggestion": "Ha 'o' di octanolo e 'w' di water nel pedice.",
+    "explanation": "Il Kow e il coefficiente di partizione octanolo-acqua: quantifica l'idrofobicita di un composto e permette di predire il sorbimento al sedimento, poiche log Koc cresce linearmente con log Kow.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.47"
+  },
+  {
+    "id": "bci-ripart-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il fenomeno per cui una sostanza si lega a una superficie senza penetrare nella matrice e detto ___.",
+    "answers": [["adsorbimento"]],
+    "suggestion": "Non confonderlo con l'assorbimento, in cui la sostanza penetra nel volume.",
+    "explanation": "Nell'adsorbimento la sostanza si lega a una superficie (es. cristalli di argilla), mentre nell'assorbimento penetra all'interno della matrice (es. sostanza organica del suolo).",
+    "difficulty": "easy",
+    "source": "Ripartizione tra fasi.pdf p.29"
+  },
+  {
+    "id": "bci-ripart-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La forte affinita per il soluto che caratterizza l'isoterma di tipo L (Langmuir) e detta ___.",
+    "answers": [["chemiadsorbimento", "chemioadsorbimento", "chemisorbimento"]],
+    "suggestion": "Indica un legame piu forte e specifico del semplice adsorbimento fisico.",
+    "explanation": "Nell'isoterma di tipo L (Langmuir) c'e forte affinita per il soluto (chemiadsorbimento): la pendenza diminuisce man mano che i siti si occupano, fino alla saturazione dello strato monomolecolare.",
+    "difficulty": "hard",
+    "source": "Ripartizione tra fasi.pdf p.56"
+  },
+  {
+    "id": "bci-ripart-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Un aumento degli ioni disciolti fa crescere la costante ___ della soluzione, riducendo la solubilita delle sostanze poco polari (salting out).",
+    "answers": [["dielettrica"]],
+    "suggestion": "E la stessa costante che compare nella legge di Coulomb per i mezzi.",
+    "explanation": "L'aumento di ioni disciolti aumenta la costante dielettrica dell'acqua e riduce la solubilita delle sostanze poco polari, che tendono a sfuggire dalla soluzione (salting out); di conseguenza aumentano Kd e costante di Henry.",
+    "difficulty": "medium",
+    "source": "Ripartizione tra fasi.pdf p.20"
   }
 ]

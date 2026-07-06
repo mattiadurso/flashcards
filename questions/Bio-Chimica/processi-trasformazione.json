@@ -360,5 +360,374 @@
     "explanation": "I dodici POP prioritari includono pesticidi organoclorurati (DDT, aldrin, dieldrin, ecc.), PCB, PCDD e PCDF.",
     "difficulty": "medium",
     "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-020",
+    "topic": "bio-chimica",
+    "question": "Nell'ossidazione attraverso combustione, quale agente ossida il materiale organico?",
+    "suggestion": "Pensa a cosa serve una fiamma per innescare il processo e a cosa 'brucia' insieme al combustibile.",
+    "options": [
+      "L'acqua ambientale, che scinde la molecola organica in frammenti più piccoli",
+      "La radiazione ultravioletta assorbita dai gruppi cromofori insaturi presenti nella molecola",
+      "L'ossigeno atmosferico, con l'innesco di un fenomeno di ignizione come una fiamma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella combustione il materiale organico è ossidato dall'ossigeno atmosferico, ma occorre un fenomeno di ignizione (scintille o fiamme) per avviare la reazione; l'acqua e la radiazione UV riguardano rispettivamente idrolisi e fototrasformazioni.",
+    "difficulty": "easy",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-021",
+    "topic": "bio-chimica",
+    "question": "Perché la combustione di sostanze organiche come legno e petrolio è così rilevante per la società umana?",
+    "suggestion": "Ricorda che la reazione è esotermica: cosa se ne ricava di utile?",
+    "options": [
+      "Perché rappresenta una delle maggiori fonti energetiche utilizzate dalla nostra società",
+      "Perché assorbe grandi quantità di calore dall'ambiente circostante, che viene così raffreddato",
+      "Perché genera prodotti più tossici e persistenti dei materiali di partenza"
+    ],
+    "correctIndex": 0,
+    "explanation": "La combustione di sostanze organiche come legno e petrolio è esotermica e costituisce una delle maggiori fonti energetiche utilizzate dalla nostra società; non assorbe calore né mira a produrre sostanze più tossiche.",
+    "difficulty": "easy",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-022",
+    "topic": "bio-chimica",
+    "question": "Quale tra le seguenti strutture si comporta da cromoforo, assorbendo radiazioni con variazione dei livelli energetici della molecola?",
+    "suggestion": "I cromofori hanno insaturazioni; cerca la struttura con doppi legami coniugati.",
+    "options": [
+      "Il gruppo ossidrilico −OH",
+      "Il gruppo etereo R−O−R",
+      "Il gruppo amminico R−NH₂",
+      "L'anello aromatico benzenico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra i cromofori rientrano C=O, C=S, C=C e l'anello benzenico; i gruppi −OH, R−O−R e R−NH₂ sono invece non cromofori.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-023",
+    "topic": "bio-chimica",
+    "question": "Nella reazione fotochimica dell'ozono (O₃ + hν → O + O₂), quali prodotti si formano per assorbimento della radiazione?",
+    "suggestion": "La molecola non si ossida né si idrata: si spezza semplicemente in due frammenti di ossigeno.",
+    "options": [
+      "Ozono e idrogeno molecolare, con rilascio di calore nell'atmosfera",
+      "Ossigeno atomico e ossigeno molecolare, per scissione fotochimica della molecola",
+      "Anidride carbonica e acqua, gli stessi prodotti della combustione completa del metano"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fotolisi dell'ozono (a circa 320 nm) scinde O₃ in ossigeno atomico (O) e ossigeno molecolare (O₂); non produce CO₂/H₂O né idrogeno.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-024",
+    "topic": "bio-chimica",
+    "question": "Nella reazione fotochimica H₂CO + hν → H₂ + CO, cosa provoca la radiazione incidente sulla molecola?",
+    "suggestion": "È una fototrasformazione, non una combustione né un'idrolisi: la molecola si rompe.",
+    "options": [
+      "L'addizione di una molecola d'acqua, con formazione di un gruppo ossidrilico",
+      "L'ossidazione completa a CO₂ e H₂O, con rilascio di energia termica",
+      "La frammentazione della molecola in idrogeno molecolare e monossido di carbonio"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'assorbimento della radiazione (a circa 370 nm) provoca la frammentazione fotochimica della molecola in H₂ e CO; non si tratta di idrolisi né di combustione.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-025",
+    "topic": "bio-chimica",
+    "question": "Sotto quali due forme l'energia può attivare i reagenti in un processo chimico di trasformazione?",
+    "suggestion": "Una forma è tipica della combustione, l'altra delle reazioni fotochimiche.",
+    "options": [
+      "Come pressione meccanica applicata al sistema oppure come variazione del pH",
+      "Come calore, ad esempio nella combustione, oppure come radiazione assorbita",
+      "Come sola radiazione infrarossa oppure come raffreddamento del sistema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ogni processo chimico richiede che i reagenti siano attivati: l'energia può presentarsi come calore (ad esempio nella combustione) o come radiazione assorbita.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-026",
+    "topic": "bio-chimica",
+    "question": "Cosa accade a un elettrone quando un atomo assorbe una quantità di energia sufficiente?",
+    "suggestion": "L'assorbimento porta 'in alto': pensa alla direzione della transizione energetica.",
+    "options": [
+      "Passa dallo stato fondamentale a uno stato eccitato a energia maggiore",
+      "Passa dallo stato eccitato allo stato fondamentale, emettendo radiazione",
+      "Resta nello stato fondamentale ma aumenta la propria massa a riposo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con l'assorbimento di energia l'elettrone passa dallo stato fondamentale a uno stato eccitato; il passaggio inverso, con emissione di radiazione, avviene in fase di emissione.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-027",
+    "topic": "bio-chimica",
+    "question": "Nella legge di Lambert-Beer log(I₀/I) = A, cosa rappresentano rispettivamente I₀ e I?",
+    "suggestion": "Sono le due intensità luminose ai due lati della soluzione attraversata.",
+    "options": [
+      "La concentrazione iniziale e quella finale della specie chimica in soluzione",
+      "Il coefficiente di estinzione molare e il cammino ottico attraversato dalla luce",
+      "L'intensità della luce incidente e quella della luce trasmessa dalla soluzione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella legge di Lambert-Beer I₀ è l'intensità della luce incidente e I quella della luce trasmessa; il coefficiente di estinzione molare è ε e il cammino ottico è l.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-028",
+    "topic": "bio-chimica",
+    "question": "Quale tra questi fattori influenza il tempo di persistenza di una sostanza soggetta a degradazione?",
+    "suggestion": "Pensa alle condizioni chimico-fisiche del comparto che accelerano o rallentano la reazione.",
+    "options": [
+      "La pressione atmosferica media e l'umidità relativa dell'aria sovrastante",
+      "La massa molare e il colore dei prodotti di degradazione formati",
+      "La temperatura e la disponibilità di acqua e di ossigeno nel sistema",
+      "La sola concentrazione iniziale della sostanza al momento del rilascio"
+    ],
+    "correctIndex": 2,
+    "explanation": "I fattori che influenzano i tempi di persistenza sono pH, temperatura, disponibilità di acqua e disponibilità di ossigeno; la concentrazione iniziale non modifica il tempo di semivita di un processo di primo ordine.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-029",
+    "topic": "bio-chimica",
+    "question": "In quale intervallo temporale possono variare le costanti di velocità di degradazione delle sostanze chimiche?",
+    "suggestion": "Il testo sottolinea quanto siano estremamente variabili da un composto all'altro.",
+    "options": [
+      "In un intervallo ristretto, sempre compreso tra pochi minuti e poche ore",
+      "In un intervallo molto ampio, da pochi giorni fino a diversi anni",
+      "In un intervallo fisso e identico per tutti i composti organici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le costanti di velocità di degradazione sono estremamente variabili e possono spaziare da pochi giorni a diversi anni a seconda del composto e delle condizioni.",
+    "difficulty": "easy",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-030",
+    "topic": "bio-chimica",
+    "question": "Quali due processi sono coinvolti nella volatilizzazione di una sostanza dall'acqua?",
+    "suggestion": "Prima la sostanza deve raggiungere la superficie, poi deve lasciarla.",
+    "options": [
+      "La diffusione fino all'interfaccia acqua-aria e il passaggio dall'interfaccia all'atmosfera",
+      "La frammentazione idrolitica della molecola e la successiva ossidazione fotochimica dei frammenti",
+      "L'assorbimento di radiazione UV e l'emissione di calore verso l'atmosfera sovrastante"
+    ],
+    "correctIndex": 0,
+    "explanation": "La volatilizzazione coinvolge la diffusione all'interfaccia acqua-aria e il successivo passaggio dall'interfaccia all'atmosfera; non implica idrolisi né fototrasformazioni.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-031",
+    "topic": "bio-chimica",
+    "question": "Nell'equazione della diffusione Cₜ = C₀·e^(−Kt/D), cosa rappresenta il termine D?",
+    "suggestion": "È una grandezza geometrica legata a dove si trova la sostanza rispetto alla superficie.",
+    "options": [
+      "La costante di scambio tra la sostanza e il comparto atmosferico",
+      "La concentrazione della sostanza disciolta al tempo iniziale t = 0",
+      "La profondità della sostanza rispetto alla superficie del comparto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'equazione della diffusione D è la profondità della sostanza rispetto alla superficie, mentre K è la costante di scambio e C₀ la concentrazione iniziale.",
+    "difficulty": "hard",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-032",
+    "topic": "bio-chimica",
+    "question": "Nell'equazione della diffusione Cₜ = C₀·e^(−Kt/D), cosa indica il termine K?",
+    "suggestion": "Regola quanto rapidamente la sostanza si trasferisce da un comparto all'altro.",
+    "options": [
+      "La profondità della sostanza rispetto alla superficie dell'acqua",
+      "La costante di scambio che governa il trasferimento della sostanza",
+      "Il tempo di semivita della sostanza nel comparto acquatico"
+    ],
+    "correctIndex": 1,
+    "explanation": "K è la costante di scambio che regola il trasferimento della sostanza; D è invece la profondità rispetto alla superficie.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-033",
+    "topic": "bio-chimica",
+    "question": "Considerando il tempo di semivita in acqua (D = 1 m), quale tra questi composti è il più persistente?",
+    "suggestion": "Confronta i valori in ore: più alto è il valore, maggiore è la persistenza.",
+    "options": [
+      "Il mercurio, con un tempo di semivita di circa 7,5 ore",
+      "L'n-ottano, con un tempo di semivita di circa 5,6 ore",
+      "Il DDT, con un tempo di semivita di circa 73,9 ore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella tabella dei tempi di semivita in acqua (D = 1 m) il DDT ha il valore più alto (73,9 ore), contro le 5,6 dell'n-ottano e le 7,5 del mercurio: è quindi il più persistente.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-034",
+    "topic": "bio-chimica",
+    "question": "Nello sversamento di petrolio in mare, quale processo agisce prevalentemente sulle scale temporali più brevi (ore-giorni)?",
+    "suggestion": "Riguarda le frazioni più leggere e volatili che lasciano rapidamente la macchia.",
+    "options": [
+      "L'evaporazione delle frazioni più leggere del petrolio verso l'atmosfera",
+      "La sedimentazione dei residui più pesanti sul fondale marino",
+      "La biodegradazione microbica della macchia di petrolio lungo tutta la colonna d'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'evoluzione di uno sversamento di petrolio l'evaporazione agisce sui tempi più brevi (ore-giorni), mentre sedimentazione e biodegradazione dominano sulle scale più lunghe (mesi-anni).",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-035",
+    "topic": "bio-chimica",
+    "question": "Nello sversamento di petrolio in mare, quali processi dominano invece sulle scale temporali più lunghe (mesi-anni)?",
+    "suggestion": "Sono i processi 'lenti', che richiedono l'azione degli organismi o la deposizione sul fondo.",
+    "options": [
+      "L'evaporazione e la diffusione delle frazioni volatili in atmosfera",
+      "La dispersione e la dissoluzione della macchia nella colonna d'acqua",
+      "La biodegradazione microbica e la sedimentazione sul fondale marino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Biodegradazione e sedimentazione agiscono sulle scale temporali più lunghe (mesi-anni), mentre evaporazione, dispersione e dissoluzione operano su tempi più brevi (ore-giorni).",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-036",
+    "topic": "bio-chimica",
+    "question": "Nell'elenco dei dodici POP prioritari, a quale sostanza corrisponde l'acronimo HCB?",
+    "suggestion": "L'acronimo richiama sei atomi di cloro su un anello aromatico.",
+    "options": [
+      "Al bifenile policlorurato, impiegato come isolante industriale",
+      "All'esaclorobenzene, un pesticida organoclorurato aromatico",
+      "All'eptacloro, un insetticida organoclorurato ciclodienico"
+    ],
+    "correctIndex": 1,
+    "explanation": "HCB indica l'esaclorobenzene, uno dei pesticidi organoclorurati tra i dodici POP; il bifenile policlorurato è il PCB e l'eptacloro è un altro composto della lista.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-037",
+    "topic": "bio-chimica",
+    "question": "Quale tra le seguenti sostanze NON rientra tra i dodici POP prioritari della convenzione di Stoccolma?",
+    "suggestion": "Cerca il composto che non è un organoclorurato tra quelli storicamente messi al bando.",
+    "options": [
+      "L'aldrin, pesticida organoclorurato ciclodienico",
+      "Il mirex, pesticida organoclorurato clorurato",
+      "Il toxafene, miscela organoclorurata insetticida",
+      "L'atrazina, erbicida della famiglia delle triazine"
+    ],
+    "correctIndex": 3,
+    "explanation": "I dodici POP prioritari sono DDT, aldrin, dieldrin, endrin, eptacloro, clordano, mirex, esaclorobenzene, toxafene, PCB, PCDD e PCDF; l'atrazina è un erbicida triazinico non incluso nella lista.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-038",
+    "topic": "bio-chimica",
+    "question": "Perché i POP possono provocare gravi danni sia vicino sia lontano dalla loro fonte di emissione?",
+    "suggestion": "Ricorda una delle proprietà chiave della loro definizione, legata al movimento in atmosfera.",
+    "options": [
+      "Perché si degradano rapidamente liberando prodotti di degradazione tossici sul luogo stesso di rilascio",
+      "Perché la loro tossicità aumenta proporzionalmente con la temperatura dell'aria",
+      "Perché sono soggetti a trasporto atmosferico transfrontaliero a lungo raggio con deposizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "I POP sono propensi al trasporto atmosferico transfrontaliero a lungo raggio e alla successiva deposizione, per cui possono danneggiare la salute e l'ambiente anche lontano dalla fonte; la rapida degradazione è incompatibile con la loro persistenza.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-039",
+    "topic": "bio-chimica",
+    "question": "Che tipo di legge cinetica segue generalmente la diffusione nel processo di volatilizzazione?",
+    "suggestion": "Dipende dalla sola concentrazione della sostanza che diffonde.",
+    "options": [
+      "Una legge cinetica del primo ordine",
+      "Una legge cinetica del secondo ordine",
+      "Una legge cinetica di ordine zero"
+    ],
+    "correctIndex": 0,
+    "explanation": "La diffusione segue generalmente una legge cinetica del primo ordine, descritta da Cₜ = C₀·e^(−Kt/D).",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Ciascuna molecola è caratterizzata da uno stato energetico di riferimento chiamato stato ___ .",
+    "answers": [["fondamentale"]],
+    "suggestion": "È lo stato a energia minima, opposto a quello eccitato.",
+    "explanation": "Ogni molecola possiede uno stato energetico chiamato fondamentale; l'assorbimento di radiazione da parte dei cromofori può portarla a uno stato eccitato.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella reazione fotochimica dell'ozono O₃ + hν → O + O₂, la molecola assorbe radiazione a una lunghezza d'onda di circa ___ nm.",
+    "answers": [["320"]],
+    "suggestion": "È un valore nell'ultravioletto, poco superiore a 300 nm.",
+    "explanation": "La fotolisi dell'ozono avviene per assorbimento di radiazione a circa 320 nm, che scinde O₃ in O e O₂.",
+    "difficulty": "hard",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella tabella dei tempi di semivita in acqua (D = 1 m), il DDT presenta il valore più elevato, pari a circa ___ ore.",
+    "answers": [["73.9", "73,9"]],
+    "suggestion": "È un valore prossimo alle 74 ore, molto superiore a n-ottano e mercurio.",
+    "explanation": "Il DDT ha un tempo di semivita in acqua (D = 1 m) di circa 73,9 ore, il più alto della tabella (n-ottano 5,6; mercurio 7,5).",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La volatilizzazione consiste nel passaggio di una sostanza da un comparto all'altro, ad esempio dall'acqua all'___ .",
+    "answers": [["atmosfera", "aria"]],
+    "suggestion": "È il comparto gassoso sovrastante l'interfaccia.",
+    "explanation": "La volatilizzazione è il trasferimento di una sostanza da un comparto ambientale a un altro, tipicamente dall'acqua all'atmosfera.",
+    "difficulty": "easy",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Quando il bioaccumulo di una sostanza tossica avviene direttamente dall'ambiente in cui l'organismo vive, il fenomeno è detto ___ .",
+    "answers": [["bioconcentrazione"]],
+    "suggestion": "È l'assorbimento diretto dall'ambiente, non tramite la dieta.",
+    "explanation": "Il bioaccumulo diretto dall'ambiente è la bioconcentrazione; quello che avviene tramite l'ingestione lungo le catene trofiche è la biomagnificazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
+  },
+  {
+    "id": "bci-trasf-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La convenzione di Stoccolma individua un gruppo di ___ inquinanti organici persistenti considerati prioritari.",
+    "answers": [["dodici", "12"]],
+    "suggestion": "È lo stesso numero di sostanze richiamato nell'elenco DDT, aldrin, dieldrin, ecc.",
+    "explanation": "La convenzione di Stoccolma prevede regole per porre fine a produzione e uso di dodici POP prioritari (DDT, aldrin, dieldrin, endrin, eptacloro, clordano, mirex, HCB, toxafene, PCB, PCDD, PCDF).",
+    "difficulty": "medium",
+    "source": "Aneggi (4) — Processi di trasformazione.pdf"
   }
 ]

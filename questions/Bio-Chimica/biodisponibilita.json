@@ -525,5 +525,537 @@
     "explanation": "Le vie indirette dipendono dal passaggio dei contaminanti dal suolo agli altri comparti ambientali con cui interagisce, soprattutto l'acqua (acque superficiali e falde) e gli alimenti (catena alimentare).",
     "difficulty": "easy",
     "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-035",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza nella curva dose-risposta tra elementi essenziali ed elementi non essenziali (PTE)?",
+    "suggestion": "Un elemento di cui l'organismo ha bisogno mostra un intervallo utile prima di diventare tossico; un elemento inutile no.",
+    "options": [
+      "Gli elementi essenziali hanno un intervallo benefico prima della soglia tossica, i PTE solo effetti dannosi crescenti",
+      "I PTE mostrano un intervallo benefico a basse dosi, mentre gli elementi essenziali solo effetti dannosi crescenti",
+      "Entrambe le categorie presentano un identico intervallo benefico seguito dalla stessa soglia di tossicità e di letalità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per gli elementi essenziali la curva mostra una zona di carenza, una normale/benefica e poi tossica-letale al crescere della dose; per i PTE (non essenziali) manca l'intervallo benefico e si passa da 'normale' direttamente a tossico e letale.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-036",
+    "topic": "bio-chimica",
+    "question": "Nella curva dose-risposta di un elemento essenziale, dove si collocano i valori di NOAEL e LOAEL?",
+    "suggestion": "Segnano il punto in cui l'aumento della dose smette di essere tollerato e comincia a fare danno.",
+    "options": [
+      "Al confine tra l'intervallo 'normale' e quello 'tossico' delle concentrazioni",
+      "Al confine tra l'intervallo 'carente' e quello 'normale' delle concentrazioni",
+      "All'interno dell'intervallo 'letale', ben oltre la soglia di tossicità acuta"
+    ],
+    "correctIndex": 0,
+    "explanation": "NOAEL e LOAEL si trovano al limite superiore dell'intervallo 'normale', dove la risposta passa da tollerata a tossica: il NOAEL è l'ultimo livello senza effetti avversi, il LOAEL il primo con effetti avversi.",
+    "difficulty": "hard",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-037",
+    "topic": "bio-chimica",
+    "question": "Su cosa si basano le metodiche fisiche per stimare la frazione biodisponibile di un contaminante?",
+    "suggestion": "Qui non si usano né reagenti solubilizzanti né organismi, ma si separa e si analizza direttamente la soluzione del suolo.",
+    "options": [
+      "Sull'impiego di organismi come licheni e lombrichi per campionare la frazione disponibile",
+      "Sull'estrazione della soluzione del suolo con coppe porose, centrifugazione e tecniche spettroscopiche",
+      "Sulla solubilità del contaminante in diverse soluzioni saline diluite e in agenti chelanti selettivi come EDTA"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le metodiche fisiche isolano la soluzione del suolo mediante coppe porose, centrifugazione o diffusione in materiali sintetici, e vi applicano tecniche spettroscopiche; le chimiche sfruttano la solubilità in estraenti, le biologiche usano organismi.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-038",
+    "topic": "bio-chimica",
+    "question": "Perché l'estrazione con sola acqua (H2O) fornisce una frazione di PTE dalla composizione molto variabile?",
+    "suggestion": "La soluzione circolante non è isolata: scambia continuamente con il solido del suolo e con le radici.",
+    "options": [
+      "Perché l'acqua dissolve rapidamente e in modo completo tutta la frazione legata ai minerali primari del suolo",
+      "Perché l'acqua modifica il pH del suolo facendo precipitare i metalli in forme stabili e non più mobili",
+      "Perché la composizione della soluzione circolante varia col contatto con la fase solida e l'assorbimento radicale di ioni e acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'acqua estrae gli elementi della soluzione circolante, la cui composizione chimica è molto variabile per via del contatto con una fase solida diversificata e dell'assorbimento di ioni e acqua da parte delle piante.",
+    "difficulty": "hard",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-039",
+    "topic": "bio-chimica",
+    "question": "Perché l'acido acetico, tra gli estraenti acidi, può aumentare il rilascio di PTE dal suolo?",
+    "suggestion": "Non conta solo l'acidità: l'anione che si libera è in grado di 'legare' i metalli.",
+    "options": [
+      "Perché la capacità complessante dell'anione acetato favorisce il rilascio dei metalli dalla fase solida",
+      "Perché il suo pH molto basso dissolve completamente i minerali argillosi presenti nel suolo",
+      "Perché ossida i metalli portandoli in stati di valenza più solubili nell'acqua di estrazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel caso dell'acido acetico la capacità complessante dell'anione acetato contribuisce ad aumentare il rilascio di PTE dal suolo, oltre al semplice effetto del pH acido.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-040",
+    "topic": "bio-chimica",
+    "question": "In quali suoli è particolarmente indicato l'agente chelante DTPA per stimare la biodisponibilità dei PTE?",
+    "suggestion": "È stato sviluppato in combinazione con CaCl2 e trietanolamina tamponata a pH 7,3.",
+    "options": [
+      "Nei suoli fortemente acidi e molto ricchi di sostanza organica",
+      "Nei suoli sabbiosi poveri e a bassissima capacità di scambio",
+      "Nei suoli calcarei e a pH neutro o sub-alcalino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il DTPA, in combinazione con CaCl2 e trietanolamina a pH 7,3, è stato messo a punto per valutare la biodisponibilità in suoli calcarei e a pH neutro; è quindi più adatto ai suoli da sub-acidi ad alcalini.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-041",
+    "topic": "bio-chimica",
+    "question": "Quale grandezza si determina con il metodo APAT-ISS che pone il suolo a contatto con acqua in rapporto 1:2 per 24 ore?",
+    "suggestion": "È il parametro che i software di analisi di rischio usano per descrivere come il contaminante si distribuisce tra suolo e acqua.",
+    "options": [
+      "La concentrazione totale del contaminante dopo mineralizzazione acida del campione",
+      "Il coefficiente di ripartizione solido-liquido (Kd) del contaminante",
+      "La frazione scambiabile estraibile con soluzioni saline diluite standard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il metodo APAT-ISS (Prot. 011376), con estrazione 1:2 dopo 24 ore di contatto, serve a determinare sperimentalmente il coefficiente di ripartizione solido-liquido (Kd), usato nei software per l'analisi di rischio sito-specifica.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-042",
+    "topic": "bio-chimica",
+    "question": "Perché il metodo normato DIN 19730 (1M NH4NO3) ha un'efficienza di estrazione più bassa nei suoli alcalini?",
+    "suggestion": "In ambiente alcalino il catione del sale estraente non resta stabile.",
+    "options": [
+      "Perché lo ione ammonio si decompone liberando ammoniaca, riducendo l'estrazione",
+      "Perché nei suoli alcalini i PTE sono già del tutto lisciviati verso le falde profonde",
+      "Perché il pH alcalino aumenta la solubilità dei nitrati saturando la soluzione estraente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei suoli alcalini lo ione ammonio del NH4NO3 tende a decomporsi con liberazione di ammoniaca: viene così a mancare il catione scambiatore e l'efficienza di estrazione dei PTE cala.",
+    "difficulty": "hard",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-043",
+    "topic": "bio-chimica",
+    "question": "Quale rapporto di estrazione suolo:soluzione caratterizza la fase gastrica del test PBET?",
+    "suggestion": "È un rapporto molto diluito, con pochissimo suolo in molta soluzione acida.",
+    "options": [
+      "Un rapporto 1:2, con 24 ore di contatto a temperatura ambiente",
+      "Un rapporto 1:10, in un'unica estrazione a pH neutro con acqua",
+      "Un rapporto 1:100, con pepsina e acidi organici a pH 2"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fase gastrica del PBET usa un rapporto di estrazione suolo:soluzione di 1:100, con pepsina e acidi organici (citrico, malico, lattico, acetico) a pH 2, 37 °C, per circa 1 ora.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-044",
+    "topic": "bio-chimica",
+    "question": "Oltre al biochimismo, cosa riproducono i test PBET del tratto digestivo umano?",
+    "suggestion": "Simulano anche le condizioni operative reali della digestione e lavorano solo sulla parte fine del suolo.",
+    "options": [
+      "La flora batterica intestinale e i tempi di transito nel colon",
+      "La pressione osmotica e la peristalsi meccanica dello stomaco",
+      "I tempi e le temperature della digestione, usando la frazione granulometrica <500 µm"
+    ],
+    "correctIndex": 2,
+    "explanation": "I test PBET simulano il tratto digestivo umano nel biochimismo, nei tempi e nelle temperature, utilizzando la frazione granulometrica di suolo inferiore a 500 µm.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-045",
+    "topic": "bio-chimica",
+    "question": "Nei test PBET, perché la quantità di Pb e Zn estratta è minore nella fase intestinale rispetto a quella gastrica?",
+    "suggestion": "Tra le due fasi cambia soprattutto il pH: da acido a neutro.",
+    "options": [
+      "Perché nella fase gastrica i metalli non sono ancora entrati in contatto con il suolo",
+      "Perché nella fase intestinale la neutralizzazione a pH 7 riduce la solubilità dei metalli",
+      "Perché la pancreatina e la bile della fase intestinale degradano chimicamente i metalli pesanti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fase gastrica è fortemente acida (pH 2) e mobilizza molto metallo; passando alla fase intestinale la neutralizzazione con NaHCO3 a pH 7 abbassa la solubilità di Pb e Zn, che risultano quindi meno estratti.",
+    "difficulty": "hard",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-046",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza concettuale tra biodisponibilità e bioaccessibilità di un contaminante?",
+    "suggestion": "Una riguarda il 'poter venire in contatto', l'altra l'essere davvero assimilato e usato dall'organismo.",
+    "options": [
+      "La bioaccessibilità è la frazione che può contattare l'organismo, la biodisponibilità quella davvero assorbita e coinvolta nel metabolismo",
+      "La biodisponibilità riguarda solo i vegetali, mentre la bioaccessibilità è definita unicamente per gli animali e per l'uomo",
+      "La bioaccessibilità indica il contenuto totale del suolo, mentre la biodisponibilità è la frazione immobilizzata sulla fase solida e non più mobile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bioaccessibilità è la frazione di contaminante che può entrare in contatto con un organismo (spesso l'uomo) e interagire con esso; la biodisponibilità è la porzione che l'organismo assorbe effettivamente e che viene coinvolta nel suo metabolismo.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-047",
+    "topic": "bio-chimica",
+    "question": "Oltre alla geofagia, quali sono esempi di ingestione non intenzionale di suolo da parte dell'uomo?",
+    "suggestion": "Pensa al suolo che 'arriva' in bocca senza volerlo: sulle mani, sul cibo, o sospeso nell'aria.",
+    "options": [
+      "Suolo aderente alle dita o a vegetali non lavati e particelle di suolo sospese nell'aria",
+      "Il consumo di acqua di falda contaminata e di pesce proveniente da acque dolci",
+      "L'assorbimento di polveri attraverso la pelle durante il lavoro nei campi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ingestione può essere deliberata (geofagia) o non intenzionale: suolo aderente alle dita o a vegetali non lavati e ingestione di particelle di suolo presenti in sospensione nell'aria.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-048",
+    "topic": "bio-chimica",
+    "question": "Che cosa accade alla maggior parte delle polveri minerali inalate dall'uomo?",
+    "suggestion": "Solo una minoranza arriva davvero in profondità nei polmoni; il resto prende un'altra strada.",
+    "options": [
+      "Raggiungono direttamente gli alveoli polmonari e vi si depositano quasi tutte",
+      "Vengono espulse subito con l'espirazione senza alcun contatto con le mucose",
+      "Vengono bloccate e in gran parte ingerite, e solo alcune particelle raggiungono i polmoni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anche se una parte delle polveri minerali inalate può raggiungere i polmoni, la maggior parte viene intercettata, bloccata e finisce ingerita: per questo inalazione e ingestione sono vie collegate.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-049",
+    "topic": "bio-chimica",
+    "question": "Perché l'assorbimento dermico è una via di esposizione difficile da valutare?",
+    "suggestion": "Non basta un modello: per stimarlo servono misure fatte direttamente sul passaggio attraverso la pelle.",
+    "options": [
+      "Perché non contribuisce mai in modo apprezzabile all'esposizione complessiva dell'uomo",
+      "Perché richiede studi e misure dirette dell'assorbimento, di difficile quantificazione",
+      "Perché la pelle assorbe in modo identico tutti i contaminanti, rendendo inutile ogni confronto"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'assorbimento dermico può essere importante in alcuni casi, ma è di difficile quantificazione perché richiede studi e misure dirette del passaggio dei contaminanti attraverso la pelle.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-050",
+    "topic": "bio-chimica",
+    "question": "Come si suddividono i test in-vitro PBET usati per la bioaccessibilità per ingestione?",
+    "suggestion": "La distinzione riguarda se le condizioni restano ferme o cambiano durante la prova.",
+    "options": [
+      "In test acidi e in test alcalini",
+      "In test statici e in test dinamici",
+      "In test salivari e in test dermici"
+    ],
+    "correctIndex": 1,
+    "explanation": "I test in-vitro PBET (Physiologically Based Extraction Test) per l'ingestione si distinguono in test statici e test dinamici a seconda di come vengono gestite le condizioni di estrazione.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-051",
+    "topic": "bio-chimica",
+    "question": "Quale condizione di sudore simula il test dermatologico NIHS 96-10 rispetto al test EN 1811?",
+    "suggestion": "Uno riproduce il sudore acido delle ghiandole eccrine, l'altro un sudore quasi neutro.",
+    "options": [
+      "Un sudore alcalino a pH 9, contro un sudore fortemente acido nel test EN 1811",
+      "Entrambi lo stesso sudore neutro a pH 7 tipico delle ghiandole apocrine",
+      "Un sudore acido a pH 4,7, contro il sudore neutro a pH 6,5 del test EN 1811"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il test NIHS 96-10 (industria orologiera svizzera) simula il sudore acido delle ghiandole eccrine a pH 4,7; il test EN 1811, per il rilascio di nichel, usa un sudore neutro a pH 6,5.",
+    "difficulty": "hard",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-052",
+    "topic": "bio-chimica",
+    "question": "A quale scopo è stato messo a punto il test EN 1811 di bioaccessibilità dermica?",
+    "suggestion": "Nasce dal problema degli oggetti metallici che rilasciano un allergene ben noto a contatto con la pelle.",
+    "options": [
+      "A misurare la dissoluzione degli idrocarburi policiclici aromatici nel sudore acido",
+      "A quantificare l'assorbimento di piombo attraverso la pelle degli operai",
+      "A valutare il rilascio di nichel da oggetti metallici a contatto con il sudore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il test EN 1811 è stato messo a punto per valutare il rilascio di nichel da oggetti metallici e la sua bioaccessibilità a contatto con il sudore neutro (pH 6,5).",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-053",
+    "topic": "bio-chimica",
+    "question": "A cosa corrispondono gli 'essudati radicali' impiegati come estraenti selettivi dei PTE?",
+    "suggestion": "L'obiettivo è imitare ciò che le radici rilasciano davvero nel suolo attorno a sé.",
+    "options": [
+      "A soluzioni saline concentrate che scambiano i cationi metallici trattenuti",
+      "A forti agenti ossidanti che dissolvono la sostanza organica del suolo",
+      "A una miscela di acidi organici, per riprodurre il rilascio dalle radici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra gli estraenti chimici singoli e selettivi, gli essudati radicali sono una miscela di acidi organici che simula le sostanze rilasciate dalle radici nella rizosfera.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-054",
+    "topic": "bio-chimica",
+    "question": "Quali categorie di organismi 'target' determinano la biodisponibilità di un contaminante?",
+    "suggestion": "Vanno dai più piccoli decompositori del suolo fino a noi.",
+    "options": [
+      "Microrganismi, piante, animali ed esseri umani",
+      "Solo le piante coltivate e gli animali da allevamento di interesse economico",
+      "Esclusivamente i microrganismi decompositori presenti nel suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biodisponibilità è interdipendente dall'organismo target: microrganismi (batteri, funghi, protozoi), piante, animali selvatici o d'allevamento ed esseri umani, ciascuno con barriere e capacità di assorbimento diverse.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-055",
+    "topic": "bio-chimica",
+    "question": "Oltre alla valutazione del rischio, a cosa servono gli indicatori di biodisponibilità nella gestione del suolo agricolo?",
+    "suggestion": "Interventi come irrigare, concimare o lavorare il terreno possono cambiare quanto contaminante diventa disponibile.",
+    "options": [
+      "A stabilire la resa produttiva ottimale delle colture da reddito",
+      "A certificare la qualità organolettica dei prodotti agricoli raccolti",
+      "A valutare le conseguenze di concimazioni, irrigazione, sommersione e lavorazioni del suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra gli usi degli indicatori di biodisponibilità c'è la valutazione delle possibili conseguenze di operazioni sul suolo come concimazioni, irrigazione, sommersione e lavorazioni, che possono modificare la frazione disponibile.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-056",
+    "topic": "bio-chimica",
+    "question": "Quale di questi rientra tra i limiti riconosciuti degli indicatori di biodisponibilità?",
+    "suggestion": "Pensa a quanto è difficile fissare un valore-limite condiviso e tradurlo in una norma.",
+    "options": [
+      "La totale assenza di costi e di tempi per le analisi di laboratorio",
+      "La difficoltà nell'individuare i livelli soglia e le criticità a livello normativo",
+      "La perfetta uniformità dei valori misurati nello spazio e nel tempo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra i limiti figurano l'elevata variabilità spazio-temporale, la scelta soggettiva dell'organismo target, l'individuazione dei livelli soglia, i costi/tempi analitici e le difficoltà a livello normativo.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-057",
+    "topic": "bio-chimica",
+    "question": "Su quale criterio si basa la soglia di rischio dei PTE biodisponibili adottata dalla Svizzera (0.1M NaNO3)?",
+    "suggestion": "A differenza di altri paesi che guardano alla pianta, qui interessa come l'elemento si muove nell'ambiente.",
+    "options": [
+      "Sulla mobilità ambientale dell'elemento estratto",
+      "Sulla concentrazione totale dell'elemento nel profilo del suolo",
+      "Sulla sola crescita delle piante coltivate in condizioni di serra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella tabella delle soglie europee la Svizzera usa l'estraente 0.1M NaNO3 con impatto valutato in termini di mobilità ambientale dell'elemento, mentre altri paesi (Germania, Austria, Slovacchia) si riferiscono a crescita o concentrazione nelle piante.",
+    "difficulty": "hard",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-058",
+    "topic": "bio-chimica",
+    "question": "Secondo la definizione generale, cosa comporta la biodisponibilità di una specie chimica per un organismo?",
+    "suggestion": "Non basta che la sostanza ci sia: deve poter entrare e prendere parte a ciò che avviene nell'organismo.",
+    "options": [
+      "La semplice presenza della sostanza nell'ambiente che circonda l'organismo",
+      "La potenzialità di assorbirla e che essa sia coinvolta nel suo metabolismo",
+      "L'accumulo permanente della sostanza sulla superficie esterna dell'organismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per biodisponibilità si intende la potenzialità di un organismo di assorbire una specie chimica, dagli alimenti o dall'ambiente, e che tale specie venga coinvolta nel metabolismo dell'organismo stesso.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-059",
+    "topic": "bio-chimica",
+    "question": "A cosa serve la prova normata UNI-EN 12457-2, con acqua satura di CO2 in rapporto 1:10?",
+    "suggestion": "È una prova a singolo stadio pensata per materiali di scarto, non per il suolo agricolo.",
+    "options": [
+      "A misurare la frazione totale del contaminante dopo mineralizzazione acida",
+      "A valutare la bioaccessibilità gastrica del contaminante ingerito con il suolo contaminato",
+      "A eseguire una prova di lisciviazione a singolo stadio di rifiuti granulari e fanghi"
+    ],
+    "correctIndex": 2,
+    "explanation": "La UNI-EN 12457-2:2004, con acqua satura in CO2 in rapporto 1:10, è una prova di conformità a singolo stadio per la lisciviazione di rifiuti granulari e fanghi, e stima la frazione solubile/biodisponibile per la pianta.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-060",
+    "topic": "bio-chimica",
+    "question": "Quali componenti simulano l'ambiente digestivo nella fase gastrica del test PBET?",
+    "suggestion": "Servono un enzima proteolitico e vari acidi organici a pH fortemente acido.",
+    "options": [
+      "Liquidi salivari artificiali con amilasi e mucine a pH neutro",
+      "Bicarbonato di sodio, estratto di bile e pancreatina a pH 7",
+      "Pepsina e acidi organici come citrico, malico, lattico e acetico a pH 2"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fase gastrica del PBET impiega pepsina e acidi organici (citrico, malico, lattico e acetico) a pH 2 e 37 °C; la fase intestinale usa invece NaHCO3, bile e pancreatina a pH 7.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-003",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il coefficiente Kd, determinato con il metodo APAT-ISS, esprime la ___ solido-liquido del contaminante tra suolo e acqua.",
+    "answers": [
+      [
+        "ripartizione",
+        "partizione"
+      ]
+    ],
+    "suggestion": "Descrive come il contaminante si 'divide' tra la fase solida del suolo e la fase acquosa.",
+    "explanation": "Il Kd è il coefficiente di ripartizione solido-liquido: misura come un contaminante si distribuisce tra la fase solida del suolo e la soluzione acquosa, e viene usato nei software di analisi di rischio.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-004",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il protocollo UBM per la bioaccessibilità è sviluppato dal BARGE, sigla che sta per ___ Research Group of Europe.",
+    "answers": [
+      [
+        "Bioaccessibility",
+        "bioaccessibilità",
+        "bioaccessibilita"
+      ]
+    ],
+    "suggestion": "Il gruppo europeo prende il nome proprio dal parametro che studia: la frazione che può entrare in contatto con l'organismo.",
+    "explanation": "BARGE è l'acronimo di 'Bioaccessibility Research Group of Europe', il gruppo che ha sviluppato il protocollo UBM (Unified BARGE Bioaccessibility Method).",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-005",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella fase gastrica del test PBET il pH della soluzione è portato al valore fortemente acido di ___.",
+    "answers": [
+      [
+        "2",
+        "pH 2"
+      ]
+    ],
+    "suggestion": "È lo stesso valore di acidità dei succhi gastrici, molto più basso del neutro.",
+    "explanation": "La fase gastrica del PBET si conduce a pH 2, 37 °C per circa un'ora, con pepsina e acidi organici, per riprodurre le condizioni acide dello stomaco.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I test PBET utilizzano la frazione granulometrica di suolo inferiore a ___ µm.",
+    "answers": [
+      [
+        "500"
+      ]
+    ],
+    "suggestion": "È la frazione fine, quella che più facilmente aderisce alle mani e viene ingerita.",
+    "explanation": "I test PBET lavorano sulla frazione granulometrica <500 µm del suolo, quella più rilevante per l'ingestione accidentale.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella fase intestinale del PBET la neutralizzazione a pH 7 si ottiene aggiungendo ___.",
+    "answers": [
+      [
+        "NaHCO3",
+        "bicarbonato di sodio",
+        "bicarbonato"
+      ]
+    ],
+    "suggestion": "È lo stesso sale basico che tampona l'acidità in molti antiacidi.",
+    "explanation": "Nella fase intestinale del PBET si neutralizza a pH 7 con NaHCO3 (bicarbonato di sodio) e si aggiungono estratto di bile e pancreatina, a 37 °C.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Negli studi di bioaccessibilità per inalazione si considera solo il particolato con diametro inferiore a ___ µm.",
+    "answers": [
+      [
+        "10"
+      ]
+    ],
+    "suggestion": "È la soglia che definisce il PM10, l'unico che arriva in profondità nei polmoni.",
+    "explanation": "Si considera il particolato <10 µm (PM10, PM2,5, PM1) perché è quello che può depositarsi nei dotti tracheo-bronchiali e raggiungere gli alveoli; le particelle più grandi vengono intercettate a monte.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Gli elementi potenzialmente tossici di origine inorganica presenti nel suolo sono indicati con la sigla ___.",
+    "answers": [
+      [
+        "PTE"
+      ]
+    ],
+    "suggestion": "È la categoria per cui esistono molti metodi di biodisponibilità validati, a differenza degli organici.",
+    "explanation": "Con PTE (Potentially Toxic Elements) si indicano gli elementi inorganici potenzialmente tossici; per essi gli indicatori di biodisponibilità sono molti e validati, mentre per gli organici sono ancora in fase di ricerca.",
+    "difficulty": "easy",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il test EN 1811 è stato messo a punto per valutare il rilascio di ___ da oggetti metallici a contatto con il sudore.",
+    "answers": [
+      [
+        "nichel",
+        "Ni"
+      ]
+    ],
+    "suggestion": "È il metallo responsabile di molte allergie da contatto, ad esempio con bigiotteria e bottoni.",
+    "explanation": "Il test EN 1811 valuta il rilascio di nichel (Ni) da oggetti metallici e la sua bioaccessibilità a contatto con il sudore neutro (pH 6,5).",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
+  },
+  {
+    "id": "bci-biodisp-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella fase gastrica del test PBET la digestione proteica è simulata con l'enzima ___.",
+    "answers": [
+      [
+        "pepsina"
+      ]
+    ],
+    "suggestion": "È l'enzima proteolitico che lo stomaco usa in ambiente acido.",
+    "explanation": "La fase gastrica del PBET impiega pepsina insieme ad acidi organici (citrico, malico, lattico, acetico) a pH 2, per riprodurre la digestione gastrica.",
+    "difficulty": "medium",
+    "source": "CBI_Biodisponibilità.pdf"
   }
 ]

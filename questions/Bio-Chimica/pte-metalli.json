@@ -352,5 +352,371 @@
     "explanation": "Alla miniera di Raibl (Cave del Predil) i minerali utili erano blenda (sfalerite) e galena, con prevalenza della blenda.",
     "difficulty": "hard",
     "source": "CBI — Elementi potenzialmente tossici (PTE).pdf"
+  },
+  {
+    "id": "bci-pte-018",
+    "topic": "bio-chimica",
+    "question": "Come variano l'energia di ionizzazione e l'affinità elettronica procedendo da sinistra a destra lungo un periodo della tavola?",
+    "suggestion": "Lega l'andamento a come cambia il raggio atomico nella stessa direzione.",
+    "options": [
+      "Aumentano entrambe, mentre il raggio atomico diminuisce",
+      "Diminuiscono entrambe, mentre il raggio atomico aumenta",
+      "Aumenta solo l'affinità elettronica, mentre il raggio resta costante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lungo un periodo, da sinistra a destra, energia di ionizzazione ed affinità elettronica aumentano mentre il raggio atomico diminuisce; il carattere metallico cresce invece verso il basso a sinistra.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 4"
+  },
+  {
+    "id": "bci-pte-019",
+    "topic": "bio-chimica",
+    "question": "Verso quali atomi donatori mostrano preferenza i metalli 'hard' come Na+, Ca2+ e Fe3+?",
+    "suggestion": "Ricorda la sequenza dei ligandi preferiti dai metalli passando da hard a soft.",
+    "options": [
+      "Verso lo zolfo (S), formando legami a spiccato carattere covalente",
+      "Verso l'ossigeno (O), formando legami a spiccato carattere ionico",
+      "Verso l'azoto (N), con carattere di legame di tipo intermedio"
+    ],
+    "correctIndex": 1,
+    "explanation": "I metalli hard preferiscono donatori con ossigeno (legame ionico); i soft preferiscono lo zolfo (legame covalente) e gli intermedi l'azoto.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 6"
+  },
+  {
+    "id": "bci-pte-020",
+    "topic": "bio-chimica",
+    "question": "Perché i metalli 'hard' tendono ad essere più mobili nel suolo rispetto ai metalli 'soft'?",
+    "suggestion": "Collega il tipo di legame (ionico o covalente) alla reversibilità del legame stesso.",
+    "options": [
+      "Perché formano legami prevalentemente covalenti, molto stabili e poco reversibili",
+      "Perché hanno orbitali molto polarizzabili che li ancorano saldamente ai solfuri",
+      "Perché formano legami prevalentemente ionici, più deboli e più reversibili"
+    ],
+    "correctIndex": 2,
+    "explanation": "Passando da hard a soft il legame diventa da ionico a covalente e la mobilità da elevata a bassa (fixed): i metalli hard, con legami ionici reversibili, restano più mobili.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 6"
+  },
+  {
+    "id": "bci-pte-021",
+    "topic": "bio-chimica",
+    "question": "Nella classificazione di Goldschmidt, cosa caratterizza gli elementi atmofili?",
+    "suggestion": "Il nome richiama il comparto ambientale dove questi elementi 'preferiscono abitare'.",
+    "options": [
+      "Sono affini al ferro e migrano verso il nucleo terrestre",
+      "Sono elementi volatili e si concentrano nell'atmosfera terrestre",
+      "Sono affini allo zolfo e formano solfuri nella crosta terrestre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo Goldschmidt gli atmofili sono elementi volatili (atmosfera); i siderofili sono affini al ferro (nucleo), i calcofili allo zolfo, i litofili ai silicati.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 7"
+  },
+  {
+    "id": "bci-pte-022",
+    "topic": "bio-chimica",
+    "question": "La concia delle pelli e la cromatura dei metalli sono attività industriali associate soprattutto alla contaminazione da quale elemento?",
+    "suggestion": "Pensa al metallo che dà il nome a uno dei due processi citati.",
+    "options": [
+      "Mercurio (Hg)",
+      "Cromo (Cr)",
+      "Cadmio (Cd)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sia la cromatura sia la concia delle pelli (leather tanning) impiegano composti di cromo, che diventa così un tipico contaminante di queste filiere industriali.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 10"
+  },
+  {
+    "id": "bci-pte-023",
+    "topic": "bio-chimica",
+    "question": "Quale PTE è associato in particolare a patologie renali e a fragilità delle ossa (bone embrittlement)?",
+    "suggestion": "È lo stesso metallo usato in batterie e pigmenti, spesso citato accanto al piombo.",
+    "options": [
+      "Piombo (Pb)",
+      "Arsenico (As)",
+      "Cadmio (Cd)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cadmio provoca danni a cuore e reni e fragilità ossea; il piombo agisce soprattutto sul sistema nervoso, l'arsenico è cancerogeno e provoca lesioni cutanee.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 13"
+  },
+  {
+    "id": "bci-pte-024",
+    "topic": "bio-chimica",
+    "question": "Perché storicamente il piombo si accumulava nei suoli lungo le strade, con concentrazioni decrescenti allontanandosi dalla carreggiata?",
+    "suggestion": "Pensa da dove proveniva il piombo e come raggiungeva il suolo vicino alle strade.",
+    "options": [
+      "Per le deposizioni atmosferiche dai gas di scarico degli autoveicoli",
+      "Per il dilavamento dei fertilizzanti fosfatici impiegati nei campi",
+      "Per la risalita capillare dalle rocce serpentinitiche sottostanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il piombo dei carburanti veniva emesso con i gas di scarico e si depositava dall'atmosfera sul suolo vicino alle strade: la concentrazione è massima presso la carreggiata e cala con la distanza.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 12"
+  },
+  {
+    "id": "bci-pte-025",
+    "topic": "bio-chimica",
+    "question": "Gli scarti minerari di Cave del Predil costituiscono un rischio ecologico perché ricchi soprattutto di quali metalli, presenti in diverse forme chimiche?",
+    "suggestion": "Ricorda quali erano i due minerali utili estratti nella miniera (galena e blenda).",
+    "options": [
+      "Mercurio e arsenico",
+      "Nichel e cromo",
+      "Zinco e piombo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli scarti derivano dalla lavorazione di blenda (ZnS) e galena (PbS): sono perciò ricchissimi di Zn e Pb, presenti come solfuri, solfati e carbonati.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 21"
+  },
+  {
+    "id": "bci-pte-026",
+    "topic": "bio-chimica",
+    "question": "Nel destino di una specie chimica inorganica nel suolo, quale comparto funge da crocevia centrale che scambia con tutte le altre fasi?",
+    "suggestion": "È la fase attraverso cui gli ioni transitano prima di essere assorbiti, precipitati o dilavati.",
+    "options": [
+      "La sostanza organica del suolo (humus e sostanze umiche)",
+      "La soluzione circolante del suolo (soil solution)",
+      "Gli ossidi di ferro e di manganese e i minerali argillosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La soluzione del suolo è il comparto centrale: scambia con piante, sostanza organica, argille, carbonati, ossidi e acqua tramite assorbimento, precipitazione, complessazione e dilavamento.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 24"
+  },
+  {
+    "id": "bci-pte-027",
+    "topic": "bio-chimica",
+    "question": "Perché elementi come Cu, Zn, Mn e Ni raramente raggiungono l'uomo in eccesso attraverso le piante?",
+    "suggestion": "Esiste una barriera che protegge l'uomo danneggiando prima la pianta stessa.",
+    "options": [
+      "Perché restano del tutto insolubili nella soluzione del suolo e non vengono mai assorbiti dalle radici",
+      "Perché vengono bloccati nelle radici e non traslocano mai ai semi",
+      "Perché una barriera di fitotossicità danneggia la pianta prima dell'accumulo eccessivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per B, Co, Cu, Mn, Ni e Zn agisce una 'phytotoxicity barrier': la pianta risulta danneggiata prima di accumularne quantità pericolose per l'uomo, a differenza dei 'No Barriers' (Tl, Cr(VI), MeHg).",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 25"
+  },
+  {
+    "id": "bci-pte-028",
+    "topic": "bio-chimica",
+    "question": "Da cosa dipendono principalmente il rischio e l'entità degli effetti avversi dei metalli tossici nel suolo?",
+    "suggestion": "Non basta quanto metallo c'è: conta in quali forme si trova e quanto è disponibile.",
+    "options": [
+      "Dalla concentrazione totale nel suolo, indipendentemente dalla forma chimica",
+      "Dalla loro biodisponibilità, solubilità e mobilità nel suolo",
+      "Dalla sola massa atomica dell'elemento considerato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli effetti avversi dipendono da biodisponibilità, solubilità e mobilità, cioè dalla speciazione, non dalla sola concentrazione totale dell'elemento.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 28"
+  },
+  {
+    "id": "bci-pte-029",
+    "topic": "bio-chimica",
+    "question": "Nella speciazione fisica dei PTE, in quali frazioni viene suddiviso un elemento?",
+    "suggestion": "Si basa sulle dimensioni fisiche, non sulla reattività chimica delle forme.",
+    "options": [
+      "Solubile, colloidale e particolata",
+      "Estrazione chimica, modelli matematici e speciazione in fase solida",
+      "Scambiabile, legata ai carbonati e residuale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La speciazione fisica distingue le frazioni solubile, colloidale e particolata; le altre opzioni descrivono la speciazione chimica e le frazioni delle estrazioni sequenziali.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 32"
+  },
+  {
+    "id": "bci-pte-030",
+    "topic": "bio-chimica",
+    "question": "Qual è il principio delle estrazioni con singolo reagente per la speciazione dei metalli?",
+    "suggestion": "Il reagente è scelto per 'imitare' un particolare comportamento del suolo.",
+    "options": [
+      "Dissolvere in un unico passaggio tutte le fasi minerali e organiche del suolo",
+      "Usare reagenti che simulano specifici meccanismi di sorbimento/desorbimento",
+      "Separare le particelle per dimensione mediante centrifugazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'estrazione con singolo reagente si estrae l'elemento con reagenti (acqua, sali neutri, acido acetico, DTPA/EDTA...) che simulano determinati meccanismi di sorbimento/desorbimento.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 34"
+  },
+  {
+    "id": "bci-pte-031",
+    "topic": "bio-chimica",
+    "question": "Nelle estrazioni sequenziali, quale reagente è tipicamente usato per solubilizzare la frazione legata ai carbonati?",
+    "suggestion": "Serve una soluzione moderatamente acida capace di sciogliere CaCO3.",
+    "options": [
+      "Idrossilammina cloridrato in ambiente riducente",
+      "Perossido di idrogeno in acido nitrico diluito",
+      "Acetato di sodio acidificato con acido acetico a pH circa 5"
+    ],
+    "correctIndex": 2,
+    "explanation": "La frazione carbonatica (acido-solubile) si estrae con acetato di sodio acidificato con acido acetico (pH ~5), che scioglie CaCO3; l'idrossilammina serve per gli ossidi, l'H2O2 per la sostanza organica.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 39"
+  },
+  {
+    "id": "bci-pte-032",
+    "topic": "bio-chimica",
+    "question": "Con quali reagenti si attacca la frazione legata alla sostanza organica (frazione ossidabile)?",
+    "suggestion": "Per liberare i metalli legati all'organico bisogna ossidarlo.",
+    "options": [
+      "Agenti riducenti come ditionito di sodio e idrossilammina",
+      "Agenti ossidanti come acqua ossigenata (H2O2) e ipoclorito (NaClO)",
+      "Sali neutri come MgCl2 e KNO3 in soluzione tampone"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sostanza organica viene demolita da agenti ossidanti (H2O2 con HNO3 diluito, NaClO); riducenti e sali neutri servono invece per ossidi di Fe/Mn e per la frazione scambiabile.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 44"
+  },
+  {
+    "id": "bci-pte-033",
+    "topic": "bio-chimica",
+    "question": "Nell'estrazione della frazione legata agli ossidi, perché gli ossidi di Mn vengono attaccati prima di quelli cristallini di Fe?",
+    "suggestion": "L'ordine segue la facilità con cui i diversi ossidi si lasciano ridurre.",
+    "options": [
+      "Perché gli ossidi di Mn sono più facilmente riducibili",
+      "Perché gli ossidi di Mn sono sempre più abbondanti nel suolo",
+      "Perché gli ossidi cristallini di Fe sono più solubili in acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "La frazione riducibile si affronta in ordine di riducibilità: prima gli ossidi di Mn (facilmente riducibili), poi gli ossidi di Fe amorfi (intermedi) e infine quelli cristallini (difficilmente riducibili).",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 38"
+  },
+  {
+    "id": "bci-pte-034",
+    "topic": "bio-chimica",
+    "question": "Nel protocollo europeo BCR, quale reagente viene impiegato nel primo step di estrazione?",
+    "suggestion": "È lo stesso acido debole usato anche per la frazione carbonatica.",
+    "options": [
+      "Acqua regia (miscela di HCl e HNO3)",
+      "Idrossilammina cloridrato acidificata con HNO3",
+      "Acido acetico 0,11 mol/l"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il protocollo BCR inizia con acido acetico 0,11 mol/l; segue l'idrossilammina cloridrato, poi H2O2/NH4OAc e infine l'acqua regia per la frazione residuale.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 49"
+  },
+  {
+    "id": "bci-pte-035",
+    "topic": "bio-chimica",
+    "question": "Cosa distingue le tecniche di speciazione in fase solida dalle estrazioni chimiche?",
+    "suggestion": "Pensa se il campione debba o meno essere sciolto prima dell'analisi.",
+    "options": [
+      "Determinano le specie chimiche direttamente nel solido (in-situ), senza dissoluzione",
+      "Richiedono sempre la previa dissoluzione del campione in acidi forti concentrati come HF",
+      "Misurano soltanto la concentrazione totale dell'elemento nel campione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le tecniche di speciazione in fase solida (XRD, XANES/EXAFS, XRF, Mössbauer...) identificano le specie in-situ nel solido sfruttando sonde energetiche, senza dissolvere il campione.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 58"
+  },
+  {
+    "id": "bci-pte-036",
+    "topic": "bio-chimica",
+    "question": "Nel desorbimento termico applicato al mercurio, come si distinguono le diverse specie di Hg presenti nel campione?",
+    "suggestion": "Ogni specie rilascia il suo mercurio a una soglia termica propria.",
+    "options": [
+      "Dal colore assunto dal campione durante il riscaldamento",
+      "Dalla temperatura caratteristica a cui ciascuna specie rilascia Hg0",
+      "Dalla massa complessivamente persa al termine dell'analisi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ogni specie di Hg desorbe a una temperatura caratteristica (Hg0 ~87 °C, HgCl2 ~157 °C, HgS ~310 °C, HgSO4 ~546 °C): dal picco di rilascio di Hg0 si risale alla specie presente.",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 62"
+  },
+  {
+    "id": "bci-pte-037",
+    "topic": "bio-chimica",
+    "question": "Perché la spettroscopia XANES al K-edge del Cr permette di distinguere il Cr(VI) dal Cr(III)?",
+    "suggestion": "Osserva la differenza nella regione di pre-soglia (pre-edge) legata alla geometria di coordinazione.",
+    "options": [
+      "Perché il Cr(VI), in coordinazione tetraedrica, mostra un intenso picco di pre-edge",
+      "Perché il Cr(III), in coordinazione ottaedrica, assorbe a energie nettamente più elevate",
+      "Perché soltanto il Cr(VI) è rilevabile mediante assorbimento atomico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Cr(VI) è coordinato tetraedricamente e mostra un intenso picco di pre-edge nello spettro XANES, assente/debole nel Cr(III) ottaedrico: l'altezza del picco permette anche di stimare la percentuale di Cr(VI).",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 66"
+  },
+  {
+    "id": "bci-pte-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Per descrivere la mobilità degli ioni metallici nella soluzione del suolo occorre comprendere la ___ dei metalli tra fase solida e fase liquida.",
+    "answers": [["partizione", "ripartizione", "partitioning"]],
+    "suggestion": "In inglese si dice 'partitioning'.",
+    "explanation": "La partizione (partitioning) descrive come un metallo si distribuisce tra la fase solida e la soluzione del suolo, e ne determina la mobilità e la biodisponibilità.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 28"
+  },
+  {
+    "id": "bci-pte-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra le tipologie di quantificazione della speciazione, la frazione di elemento effettivamente assimilabile dagli organismi è detta frazione ___.",
+    "answers": [["biodisponibile", "biodisponibilità"]],
+    "suggestion": "È la quota realmente 'disponibile' per gli esseri viventi.",
+    "explanation": "La quantificazione della speciazione distingue frazioni totale, pseudo-totale, solubile, scambiabile e biodisponibile: quest'ultima è quella realmente assimilabile dagli organismi.",
+    "difficulty": "easy",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 27"
+  },
+  {
+    "id": "bci-pte-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel protocollo BCR la frazione residuale finale viene attaccata con ___ (miscela di HCl e HNO3).",
+    "answers": [["acqua regia", "aqua regia"]],
+    "suggestion": "È la miscela HCl : HNO3 in rapporto 3:1.",
+    "explanation": "Nel protocollo BCR l'ultimo step (residuale) impiega acqua regia (secondo la norma ISO 11466), capace di attaccare anche la matrice più recalcitrante.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 49"
+  },
+  {
+    "id": "bci-pte-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Una delle procedure di estrazione sequenziale più classiche è quella proposta nel 1979 da ___.",
+    "answers": [["Tessier"]],
+    "suggestion": "È l'autore che dà il nome allo schema del 1979, poi affiancato dal protocollo BCR.",
+    "explanation": "Lo schema di Tessier et al. (1979) è uno dei metodi di estrazione sequenziale di riferimento, alla base di molte procedure successive (Amacher 1996, Burton 2005, BCR).",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 47"
+  },
+  {
+    "id": "bci-pte-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Secondo la distinzione hard/soft, i metalli soft come Hg2+ e Cd2+ preferiscono legarsi a ligandi contenenti ___.",
+    "answers": [["zolfo", "S"]],
+    "suggestion": "È l'elemento dei solfuri, verso cui i metalli soft mostrano grande affinità.",
+    "explanation": "I metalli soft prediligono donatori con zolfo (S), mentre gli hard preferiscono l'ossigeno e gli intermedi l'azoto: per questo Hg2+ e Cd2+ si legano tipicamente ai solfuri.",
+    "difficulty": "medium",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 6"
+  },
+  {
+    "id": "bci-pte-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La regione dello spettro di assorbimento a raggi X che analizza la struttura fine estesa oltre la soglia, fornendo informazioni sulla coordinazione, è detta ___.",
+    "answers": [["EXAFS"]],
+    "suggestion": "È l'acronimo di 'Extended X-ray Absorption Fine Structure', complementare allo XANES.",
+    "explanation": "L'EXAFS (Extended X-ray Absorption Fine Structure) analizza la struttura fine estesa oltre la soglia di assorbimento e informa su distanze e numero di atomi coordinati; lo XANES riguarda invece la regione vicino alla soglia (stato di ossidazione).",
+    "difficulty": "hard",
+    "source": "CBI — Elementi potenzialmente tossici (PTE).pdf slide 64"
   }
 ]

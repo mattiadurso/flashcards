@@ -360,5 +360,369 @@
     "explanation": "Gli idroperossidi si degradano per via termica o con luce ultravioletta con rottura omolitica del legame (ROOH → RO· + ·OH), generando radicali che attaccano altri idrocarburi.",
     "difficulty": "hard",
     "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-020",
+    "topic": "bio-chimica",
+    "question": "Quale descrizione corrisponde all'aspetto naturale del petrolio negli strati superiori della crosta terrestre?",
+    "suggestion": "Pensa allo stato fisico e al colore tipico del greggio.",
+    "options": [
+      "Un solido cristallino e incolore, presente in profondità nel mantello terrestre",
+      "Un liquido infiammabile e denso, di colore marrone scuro o verdognolo",
+      "Un gas inodore e trasparente, diffuso negli strati alti dell'atmosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il petrolio è un liquido infiammabile e denso, di colore marrone scuro o verdognolo, che si trova in alcuni punti negli strati superiori della crosta terrestre.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-021",
+    "topic": "bio-chimica",
+    "question": "Oltre che come combustibile e carburante, in quale altro modo viene impiegato il petrolio?",
+    "suggestion": "Pensa a cosa serve nell'industria chimica di trasformazione.",
+    "options": [
+      "Come materia prima per plastiche e prodotti chimici quali fertilizzanti, fibre tessili e coloranti",
+      "Come fertilizzante azotato sparso tal quale sui campi senza alcuna lavorazione chimica",
+      "Come ammendante naturale che arricchisce direttamente di nutrienti i suoli agricoli poveri e degradati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il petrolio è usato anche come materia prima per la produzione di materie plastiche e prodotti chimici (fertilizzanti, fibre tessili, vernici e coloranti, additivi alimentari): sono prodotti derivati, non il greggio sparso tal quale.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-022",
+    "topic": "bio-chimica",
+    "question": "Cosa comporta la combustione incompleta degli idrocarburi del petrolio?",
+    "suggestion": "Se l'ossidazione non è completa, restano prodotti a metà.",
+    "options": [
+      "La formazione di solo vapore acqueo e anidride carbonica, senza alcun residuo inquinante",
+      "La formazione di prodotti parzialmente combusti che vengono poi rilasciati in atmosfera",
+      "La totale mineralizzazione degli idrocarburi in zolfo elementare e metano gassoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "La combustione incompleta porta alla formazione di prodotti parzialmente combusti che vengono rilasciati in atmosfera; la combustione completa darebbe invece solo CO₂ e acqua.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-023",
+    "topic": "bio-chimica",
+    "question": "Come è strutturato un tiofene, uno dei composti dello zolfo presenti nel petrolio?",
+    "suggestion": "È un anello aromatico in cui uno degli atomi dell'anello è cambiato.",
+    "options": [
+      "È un analogo del benzene in cui un atomo di carbonio è sostituito da uno di zolfo",
+      "È un analogo del metano in cui tutti gli idrogeni sono sostituiti da atomi di zolfo",
+      "È un analogo dell'acqua in cui l'ossigeno è sostituito da due atomi di zolfo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tiofene è un analogo del benzene in cui un atomo di carbonio dell'anello è sostituito da uno di zolfo; mercaptani (R-SH) e solfuri (R-S-R) sono invece analoghi di alcoli ed eteri con lo zolfo al posto dell'ossigeno.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-024",
+    "topic": "bio-chimica",
+    "question": "In quale frazione del petrolio tendono a concentrarsi i composti contenenti zolfo e azoto?",
+    "suggestion": "Sono impurezze legate ai componenti più pesanti.",
+    "options": [
+      "Nella frazione gassosa più leggera, che evapora già a temperatura ambiente",
+      "In modo uniforme in tutte le frazioni, a prescindere dal peso molecolare",
+      "Nella frazione bassobollente destinata a diventare benzina per automobili",
+      "Nella frazione altobollente, quella a più alto peso molecolare"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sia i composti contenenti zolfo sia quelli contenenti azoto tendono a concentrarsi nella frazione altobollente, cioè quella a più alto peso molecolare.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-025",
+    "topic": "bio-chimica",
+    "question": "Per quali impieghi è utilizzato il gasolio ottenuto dalla distillazione del greggio?",
+    "suggestion": "È un liquido denso, con 14-20 atomi di carbonio.",
+    "options": [
+      "Come propellente per aerei a reazione e per grandi impianti di riscaldamento industriale",
+      "Come combustibile per motori diesel e per il riscaldamento domestico degli edifici",
+      "Come solvente per la preparazione della gomma e nella produzione di detersivi liquidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il gasolio (14-20 atomi di carbonio, condensa a 250-350 °C) è un liquido denso utilizzato come combustibile per motori diesel e per il riscaldamento domestico. Il propellente per aerei a reazione è il kerosene.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-026",
+    "topic": "bio-chimica",
+    "question": "Quale caratteristica distingue la nafta tra i prodotti della distillazione del petrolio?",
+    "suggestion": "Pensa a un liquido colorato usato anche per lavorare la gomma.",
+    "options": [
+      "È un liquido giallo usato come combustibile e come solvente per la preparazione della gomma",
+      "È un gas incolore impiegato soprattutto come propellente per gli aerei a reazione",
+      "È un semisolido scuro utilizzato per produrre asfalti e bitumi per la pavimentazione stradale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La nafta (8-12 atomi di carbonio, condensa a 70-160 °C) è una sostanza liquida gialla usata come combustibile e come solvente per la preparazione della gomma, oltre che per produrre plastiche, farmaci, pesticidi e fertilizzanti.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-027",
+    "topic": "bio-chimica",
+    "question": "In cosa il cracking catalitico si differenzia da quello termico riguardo alle condizioni operative?",
+    "suggestion": "L'uso di un catalizzatore permette di 'abbassare l'asticella'.",
+    "options": [
+      "Opera a temperature e pressioni più elevate, spingendosi fino a 800 °C e 100 atmosfere",
+      "Opera a temperature e pressioni più basse grazie all'impiego di un catalizzatore",
+      "Opera in totale assenza di calore, sfruttando unicamente la luce ultravioletta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cracking catalitico usa un catalizzatore che consente di operare a temperature e pressioni più basse (fino a 500 °C e 2-4 atmosfere); quello termico arriva invece a 800 °C e fino a 100 atmosfere.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-028",
+    "topic": "bio-chimica",
+    "question": "Cosa comporta, per il funzionamento del motore, un carburante con elevato numero di ottano?",
+    "suggestion": "Alto numero di ottano significa maggiore resistenza alla detonazione.",
+    "options": [
+      "Si innesca facilmente per la sola pressione del pistone, senza bisogno della scintilla delle candele",
+      "Resiste alla detonazione e si accende con la scintilla delle candele, non per pressione",
+      "Brucia solo se addizionato di zolfo, che ne abbassa la temperatura di accensione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un elevato numero di ottano indica maggiore resistenza alla detonazione: c'è meno rischio che il carburante si inneschi per la semplice pressione del pistone, e per accendersi necessita della scintilla delle candele.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-029",
+    "topic": "bio-chimica",
+    "question": "Quali reazioni caratterizzano il processo di reforming catalitico delle benzine?",
+    "suggestion": "Si riarrangiano le catene e si formano anelli aromatici.",
+    "options": [
+      "Isomerizzazione e aromatizzazione degli idrocarburi",
+      "Idrolisi e saponificazione degli idrocarburi",
+      "Polimerizzazione e solfonazione delle catene idrocarburiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il processo di reforming catalitico è caratterizzato da isomerizzazione e aromatizzazione, con cui si aumenta il numero di ottano delle benzine migliorandone le qualità come carburante.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-030",
+    "topic": "bio-chimica",
+    "question": "Quale tra queste è la principale fonte sistematica di inquinamento da idrocarburi in mare?",
+    "suggestion": "È un'operazione ordinaria delle navi cisterna, non un incidente.",
+    "options": [
+      "Il riversamento improvviso da petroliere coinvolte in incidenti di navigazione",
+      "Lo scarico a mare di acque di zavorra da parte di navi cisterna e petroliere",
+      "La ricaduta di ceneri vulcaniche ricche di idrocarburi dopo grandi eruzioni"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'inquinamento sistematico è dovuto soprattutto allo scarico a mare di acque di zavorra da parte di navi cisterna e petroliere; il riversamento accidentale da incidenti è solo circa il 10%.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-031",
+    "topic": "bio-chimica",
+    "question": "Secondo la ripartizione delle fonti, quale voce contribuisce maggiormente all'inquinamento da idrocarburi in mare?",
+    "suggestion": "È la voce legata alle attività produttive di terra e ai centri abitati.",
+    "options": [
+      "Gli scarichi industriali e i deflussi urbani, con circa il 37% del totale",
+      "Gli incidenti alle navi cisterna, con circa il 33% del totale",
+      "Le sorgenti naturali di idrocarburi, con circa il 12% del totale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli scarichi industriali e i deflussi urbani rappresentano la quota maggiore (circa 37%), seguiti dalle operazioni navali (33%); gli incidenti alle navi cisterna sono circa il 12% e le sorgenti naturali circa il 7%.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-032",
+    "topic": "bio-chimica",
+    "question": "A cosa sono dovute, nella maggior parte dei casi, le fuoriuscite nocive dai giacimenti di petrolio sulla terraferma?",
+    "suggestion": "Non è un fatto naturale, ma un problema di gestione degli impianti.",
+    "options": [
+      "A eventi sismici imprevedibili che fratturano improvvisamente le rocce serbatoio",
+      "Alla cattiva progettazione, gestione e manutenzione degli impianti di estrazione",
+      "All'eccessiva profondità dei pozzi, che rende impossibile qualsiasi controllo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei giacimenti su terraferma le fuoriuscite nocive sono dovute, nella maggior parte dei casi, alla cattiva progettazione, gestione e manutenzione degli impianti.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-033",
+    "topic": "bio-chimica",
+    "question": "Che fine fanno le frazioni più pesanti del petrolio dopo un versamento in mare?",
+    "suggestion": "Non evaporano: pensa a cosa succede a lungo termine sul fondale.",
+    "options": [
+      "Evaporano completamente nell'arco di pochi giorni disperdendosi nell'atmosfera",
+      "Restano indefinitamente in superficie formando una pellicola sottile e trasparente",
+      "Formano grumi difficilmente degradabili che affondano lentamente sul fondo marino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le frazioni più pesanti vagano sulla superficie del mare fino a formare grumi difficilmente degradabili che affondano lentamente fino a raggiungere il fondo marino; a evaporare in pochi giorni sono invece le frazioni più volatili.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-034",
+    "topic": "bio-chimica",
+    "question": "Perché la dispersione è uno dei processi più significativi dopo una fuoriuscita di petrolio?",
+    "suggestion": "Pensa a cosa muove le chiazze e a dove le porta.",
+    "options": [
+      "Perché onde, vento e correnti spostano le chiazze verso le coste danneggiando coralli e mangrovie",
+      "Perché trasforma chimicamente il petrolio in composti ossigenati del tutto innocui per gli ecosistemi",
+      "Perché fa precipitare subito il greggio sul fondale, sottraendolo del tutto agli organismi di superficie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella dispersione le onde, il vento e le correnti muovono le chiazze di petrolio verso le coste, dove possono danneggiare coralli e mangrovie; la dispersione non trasforma chimicamente il greggio.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-035",
+    "topic": "bio-chimica",
+    "question": "Perché nelle emulsioni olio-in-acqua (O/W) i processi di trasformazione microbica e di fotodegradazione risultano più veloci?",
+    "suggestion": "Molte gocce piccole espongono più 'bersaglio' agli agenti degradanti.",
+    "options": [
+      "Perché le numerose gocce disperse offrono un'area superficiale totale molto grande",
+      "Perché l'acqua isola le gocce di petrolio proteggendole dall'attacco dei batteri",
+      "Perché le gocce si fondono in un'unica massa compatta a bassa superficie esposta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'emulsione O/W le particelle di petrolio (0,1-1 mm) sono disperse in acqua e la loro area superficiale totale può essere molto grande, massimizzando la velocità dei processi di trasformazione microbiologica e di fotodegradazione.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-036",
+    "topic": "bio-chimica",
+    "question": "Quale effetto ha l'esposizione prolungata alla luce solare sul petrolio versato in mare?",
+    "suggestion": "La fotoossidazione crea composti ossigenati più pesanti.",
+    "options": [
+      "Ne riduce la densità e lo schiarisce, favorendone la completa evaporazione",
+      "Ne aumenta la densità e il colore scuro per la formazione di composti ossigenati pesanti",
+      "Lo rende del tutto insolubile in acqua, impedendone la degradazione microbica"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'esposizione alla luce porta a un aumento della densità e del colore scuro del petrolio, dovuto alla formazione di composti ossigenati a più alto peso molecolare attraverso la ricombinazione radicalica.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-037",
+    "topic": "bio-chimica",
+    "question": "Quali effetti provoca il petrolio sugli organismi marini a concentrazioni inferiori alla soglia letale?",
+    "suggestion": "Sotto la dose letale gli effetti non spariscono, ma cambiano natura.",
+    "options": [
+      "La morte immediata di tutti gli individui adulti esposti alla sostanza",
+      "Nessun effetto rilevabile, perché sotto la soglia letale il petrolio è inerte",
+      "Cambiamenti comportamentali e fisiologici, come alterazioni del nuoto e della respirazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per concentrazioni al di sotto della soglia letale si osservano cambiamenti comportamentali (come la capacità di nuotare) ed effetti fisiologici (variazioni di respirazione, crescita, capacità cardiaca).",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-038",
+    "topic": "bio-chimica",
+    "question": "Da quali fattori dipende la degradazione microbica dei componenti del petrolio?",
+    "suggestion": "Contano sia 'chi' degrada sia le condizioni ambientali.",
+    "options": [
+      "Solo dalla densità del greggio, che ne determina interamente la velocità di degradazione",
+      "Esclusivamente dalla temperatura dell'acqua marina, a prescindere dai microrganismi",
+      "Unicamente dalla presenza di luce ultravioletta, che innesca l'azione dei microrganismi",
+      "Dal tipo di microrganismi presenti e dalla concentrazione di ossigeno e nutrienti"
+    ],
+    "correctIndex": 3,
+    "explanation": "La degradazione microbica dipende dal tipo di microrganismi presenti e dalla concentrazione di ossigeno e di nutrienti; gli n-alcani più piccoli sono degradati facilmente in condizioni aerobiche, più difficilmente in ambienti anossici.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I composti organici dello zolfo di formula R-SH presenti nel petrolio sono chiamati ___ .",
+    "answers": [["mercaptani", "mercaptano", "tioli"]],
+    "suggestion": "Composti solforati con gruppo -SH, analoghi degli alcoli.",
+    "explanation": "I mercaptani (R-SH) sono composti organici dello zolfo, analoghi degli alcoli in cui l'ossigeno è sostituito dallo zolfo; insieme a solfuri e tiofeni fanno parte dei composti solforati del petrolio.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella distillazione la frazione con 5-10 atomi di carbonio, che condensa a 20-70 °C, dà origine alle ___ .",
+    "answers": [["benzine", "benzina"]],
+    "suggestion": "Carburante leggero per automobili e aerei.",
+    "explanation": "Le benzine hanno 5-10 atomi di carbonio e condensano a 20-70 °C; sono usate come carburante per automobili ed aerei e nella produzione di materie plastiche e detersivi.",
+    "difficulty": "easy",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La reazione di reforming, oltre a un alcano a peso molecolare maggiore, libera anche ___ molecolare (H₂).",
+    "answers": [["idrogeno"]],
+    "suggestion": "Il gas biatomico più leggero, sottoprodotto della sintesi.",
+    "explanation": "Secondo la reazione CₘH₂ₘ₊₂ + CₙH₂ₙ₊₂ → Cₘ₊ₙH₂(ₘ₊ₙ)₊₂ + H₂, il reforming produce un alcano più pesante liberando idrogeno molecolare.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Durante la fotoossidazione i gruppi metilen-benzilici sono facilmente ossidati con formazione di ___ .",
+    "answers": [["idroperossidi", "idroperossido"]],
+    "suggestion": "Composti perossidici del tipo R-OOH.",
+    "explanation": "I gruppi metilen-benzilici si ossidano facilmente formando idroperossidi; questi sono più solubili in acqua dei composti di partenza e si degradano per via termica o UV con rottura omolitica, generando radicali.",
+    "difficulty": "hard",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La tossicità del petrolio, espressa come LC50, varia in un intervallo che va da 0,1 a ___ mg/l.",
+    "answers": [["100"]],
+    "suggestion": "Estremo superiore dell'intervallo di effetti letali.",
+    "explanation": "Gli effetti letali del petrolio, espressi come LC50, variano in un range da 0,1 a 100 mg/l; gli organismi adulti risentono in genere meno della tossicità.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "In base ai dati di solubilità, il benzene è circa ___ volte più solubile in acqua dell'n-esano.",
+    "answers": [["200", "duecento"]],
+    "suggestion": "Un valore dell'ordine delle centinaia.",
+    "explanation": "Il benzene ha solubilità in acqua pari a 1780 g/m³ contro i 9,5 g/m³ dell'n-esano: risulta quindi circa 200 volte più solubile.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
+  },
+  {
+    "id": "bci-idro-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le molecole contenenti azoto, zolfo e ossigeno sono più ___ e rappresentano le frazioni più solubili del petrolio.",
+    "answers": [["polari", "polare"]],
+    "suggestion": "Il carattere elettrico che favorisce la solubilità in acqua.",
+    "explanation": "Le molecole contenenti N, S e O sono più polari e per questo costituiscono le frazioni più solubili del petrolio, a differenza degli idrocarburi apolari.",
+    "difficulty": "medium",
+    "source": "Aneggi (5) — Idrocarburi e petrolio.pdf"
   }
 ]

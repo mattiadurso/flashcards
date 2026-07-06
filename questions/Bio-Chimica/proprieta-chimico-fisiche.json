@@ -382,5 +382,397 @@
     "explanation": "La legge di Henry è usata per prevedere la volatilizzazione di contaminanti quali solventi organici, VOC e composti industriali.",
     "difficulty": "medium",
     "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf"
+  },
+  {
+    "id": "bci-propcf-020",
+    "topic": "bio-chimica",
+    "question": "Come cambia il carattere di un legame tra due atomi all'aumentare della differenza di elettronegatività?",
+    "suggestion": "Pensa a come sono trattati gli elettroni: condivisi o spostati.",
+    "options": [
+      "Passa da covalente puro (elettroni condivisi in modo uguale) a covalente polare fino a ionico (elettroni trasferiti)",
+      "Passa da ionico (elettroni trasferiti) a covalente polare fino a covalente puro (elettroni condivisi in modo uguale)",
+      "Resta covalente puro e cambia soltanto la distanza di legame tra i nuclei dei due atomi coinvolti"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'aumentare della differenza di elettronegatività cresce il carattere ionico: si passa dal covalente non polare (condivisione uguale) al covalente polare (condivisione diseguale) fino al legame ionico (trasferimento degli elettroni).",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.4"
+  },
+  {
+    "id": "bci-propcf-021",
+    "topic": "bio-chimica",
+    "question": "Quali sostanze presentano in genere le temperature di fusione ed ebollizione più elevate?",
+    "suggestion": "Contano la natura del legame, la polarità e la massa della molecola.",
+    "options": [
+      "Le sostanze apolari, quelle a basso peso molecolare e con momento di dipolo nullo",
+      "I composti ionici, le sostanze polari e quelle ad alto peso molecolare",
+      "I gas nobili e le piccole molecole biatomiche a bassa massa molare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Composti ionici, sostanze polari e sostanze ad alto peso molecolare hanno temperature di fusione ed ebollizione più elevate rispetto a sostanze non polari e a basso peso molecolare.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.7"
+  },
+  {
+    "id": "bci-propcf-022",
+    "topic": "bio-chimica",
+    "question": "Da quali due fattori è influenzata la temperatura di ebollizione nei composti polari?",
+    "suggestion": "Uno riguarda la separazione delle cariche, l'altro la taglia della molecola.",
+    "options": [
+      "Dal momento di dipolo e dalla dimensione (peso molecolare) della molecola",
+      "Dalla costante dielettrica del solvente e dal pH della soluzione ospitante",
+      "Dal numero di legami idrogeno interni e dalla carica netta della molecola"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei composti polari la temperatura di ebollizione è influenzata dal momento di dipolo e dalla dimensione (peso molecolare) della molecola.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.7"
+  },
+  {
+    "id": "bci-propcf-023",
+    "topic": "bio-chimica",
+    "question": "Perché l'ammoniaca (NH3, μ=1.46 D) bolle a -33 °C, a temperatura intermedia tra acqua e metano di peso molecolare simile?",
+    "suggestion": "A peso molecolare simile, guarda dove si colloca il suo valore di μ.",
+    "options": [
+      "Perché il suo peso molecolare è intermedio tra quello dell'acqua e quello del metano",
+      "Perché il suo momento di dipolo è intermedio tra quello dell'acqua e quello del metano",
+      "Perché forma un numero di legami covalenti intermedio tra quelli di acqua e metano"
+    ],
+    "correctIndex": 1,
+    "explanation": "A parità di peso molecolare la T di ebollizione segue il momento di dipolo: l'NH3 (μ=1.46) è intermedia tra l'acqua (μ=1.84, 100 °C) e il metano apolare (μ=0, -161.5 °C), quindi bolle a -33 °C.",
+    "difficulty": "hard",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.8"
+  },
+  {
+    "id": "bci-propcf-024",
+    "topic": "bio-chimica",
+    "question": "Come varia la solubilità in acqua di una sostanza non polare all'aumentare del suo peso molecolare?",
+    "suggestion": "L'acqua è polare: una molecola apolare più grande le è più o meno affine?",
+    "options": [
+      "Aumenta, perché una molecola più grande interagisce maggiormente con l'acqua polare",
+      "Resta costante, perché la solubilità dipende solo dalla polarità e mai dalla massa",
+      "Diminuisce, perché all'aumentare del peso molecolare cala l'affinità con l'acqua polare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per una sostanza non polare la solubilità in acqua diminuisce all'aumentare del peso molecolare: la molecola apolare è poco affine al solvente polare, tanto meno quanto più è grande.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.10"
+  },
+  {
+    "id": "bci-propcf-025",
+    "topic": "bio-chimica",
+    "question": "Come varia la solubilità di un gas in acqua all'aumentare della pressione?",
+    "suggestion": "Ricorda la proporzionalità diretta della legge di Henry.",
+    "options": [
+      "Aumenta, in accordo con la proporzionalità diretta tra concentrazione e pressione parziale",
+      "Diminuisce, perché la maggiore pressione spinge il gas fuori dalla soluzione liquida",
+      "Resta invariata, perché la solubilità del gas dipende soltanto dalla temperatura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per la legge di Henry (Cgas=kH·Pgas) la solubilità di un gas in acqua aumenta all'aumentare della pressione, essendo direttamente proporzionale alla pressione parziale.",
+    "difficulty": "easy",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.11"
+  },
+  {
+    "id": "bci-propcf-026",
+    "topic": "bio-chimica",
+    "question": "Secondo Brønsted e Lowry, come si definisce un acido?",
+    "suggestion": "Riguarda il destino dello ione H+: chi lo dà e chi lo prende.",
+    "options": [
+      "Una sostanza capace di legare a sé e trattenere lo ione H+ presente in soluzione",
+      "Una sostanza in grado di generare, cedere e liberare ioni H+ in soluzione",
+      "Una sostanza che in acqua aumenta la concentrazione degli ioni OH– (idrossido)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per Brønsted e Lowry l'acido è la sostanza in grado di generare, cedere e liberare ioni H+; legare a sé lo ione H+ è invece la definizione di base, mentre aumentare gli OH– è la definizione di base secondo Arrhenius.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.15"
+  },
+  {
+    "id": "bci-propcf-027",
+    "topic": "bio-chimica",
+    "question": "In cosa differisce la definizione di base da quella di acido secondo Brønsted e Lowry?",
+    "suggestion": "Le due specie hanno un ruolo opposto rispetto al protone H+.",
+    "options": [
+      "La base cede lo ione H+, mentre l'acido lo lega e lo trattiene a sé",
+      "La base lega a sé lo ione H+, mentre l'acido lo genera e lo cede",
+      "La base e l'acido cedono entrambi ioni H+, ma la base in quantità maggiore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo Brønsted e Lowry la base ha la capacità di legare a sé lo ione H+, mentre l'acido lo genera e lo cede: hanno ruoli opposti rispetto al protone.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.15"
+  },
+  {
+    "id": "bci-propcf-028",
+    "topic": "bio-chimica",
+    "question": "Cosa distingue un acido forte da un acido debole in soluzione acquosa?",
+    "suggestion": "Pensa a quanta parte dell'acido si scinde in ioni.",
+    "options": [
+      "L'acido forte si dissocia praticamente al 100%, il debole solo parzialmente",
+      "L'acido forte si dissocia parzialmente, il debole invece quasi completamente",
+      "Entrambi si dissociano al 100%, ma l'acido forte lo fa più rapidamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un acido forte si dissocia quasi al 100%, mentre un acido debole si dissocia solo parzialmente, formando un equilibrio tra forma dissociata e indissociata.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.16"
+  },
+  {
+    "id": "bci-propcf-029",
+    "topic": "bio-chimica",
+    "question": "Perché una soluzione con pH < 7 è considerata acida?",
+    "suggestion": "Il pH è -log[H3O+]: un pH basso a cosa corrisponde in concentrazione?",
+    "options": [
+      "Perché ha una concentrazione di ioni H3O+ maggiore di quella dell'acqua neutra",
+      "Perché ha una concentrazione di ioni OH– maggiore di quella dell'acqua neutra",
+      "Perché ha uguali concentrazioni di ioni H3O+ e OH– ma un basso peso molecolare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Essendo pH = -log[H3O+], un pH < 7 corrisponde a una concentrazione di ioni H3O+ superiore a quella dell'acqua neutra (pH 7): la soluzione è acida.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.17"
+  },
+  {
+    "id": "bci-propcf-030",
+    "topic": "bio-chimica",
+    "question": "Cosa rappresenta il fattore di bioconcentrazione (BCF) di una sostanza in un pesce?",
+    "suggestion": "È un rapporto all'equilibrio tra due ambienti, non una velocità.",
+    "options": [
+      "La velocità con cui il pesce metabolizza ed elimina la sostanza dai propri tessuti",
+      "La costante di equilibrio tra la concentrazione della sostanza nel pesce e nell'acqua",
+      "La quantità totale di sostanza ingerita dal pesce lungo l'intera catena trofica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il BCF è la costante di equilibrio tra la concentrazione della sostanza chimica in un pesce e quella nell'acqua circostante.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.23"
+  },
+  {
+    "id": "bci-propcf-031",
+    "topic": "bio-chimica",
+    "question": "In quali condizioni il BCF descrive l'accumulo di una sostanza in un pesce?",
+    "suggestion": "Vale quando l'unica via d'ingresso è passiva, non l'alimentazione.",
+    "options": [
+      "Quando la sostanza viene assunta dal pesce principalmente attraverso l'alimentazione",
+      "Quando la sola fonte della sostanza per il pesce è il meccanismo della diffusione",
+      "Quando la sostanza è prodotta dal metabolismo interno del pesce stesso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il BCF descrive l'accumulo quando la sola fonte della sostanza per il pesce è la diffusione; l'ingresso tramite alimentazione riguarda invece la biomagnificazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.23"
+  },
+  {
+    "id": "bci-propcf-032",
+    "topic": "bio-chimica",
+    "question": "Cosa comporta un aumento del coefficiente di partizione Kow di un composto?",
+    "suggestion": "Kow misura l'affinità per la fase organica rispetto all'acqua.",
+    "options": [
+      "Un aumento della sua solubilità nei lipidi e quindi della tendenza ad accumularsi",
+      "Un aumento della sua solubilità in acqua e quindi una più rapida eliminazione",
+      "Una diminuzione della sua affinità sia per i lipidi sia per l'acqua circostante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un aumento del Kow corrisponde a una maggiore solubilità nei lipidi, quindi a una maggiore tendenza del composto ad accumularsi nei tessuti grassi.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.23"
+  },
+  {
+    "id": "bci-propcf-033",
+    "topic": "bio-chimica",
+    "question": "Come varia la tensione di vapore dei clorobenzeni all'aumentare del numero di atomi di cloro?",
+    "suggestion": "Confronta triclorobenzene e pentaclorobenzene sulla stessa scala.",
+    "options": [
+      "Aumenta, come mostra il passaggio dal triclorobenzene al pentaclorobenzene",
+      "Diminuisce, come mostra il passaggio dal triclorobenzene al pentaclorobenzene",
+      "Resta costante, perché la tensione di vapore non dipende dalla struttura molecolare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tensione di vapore dei clorobenzeni diminuisce all'aumentare degli atomi di cloro: il triclorobenzene ha v.p. ≈10^-1.36 atm, il pentaclorobenzene ≈10^-3.8 atm a 20 °C.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.24"
+  },
+  {
+    "id": "bci-propcf-034",
+    "topic": "bio-chimica",
+    "question": "Che relazione lega il log Kow dei clorobenzeni alla loro area superficiale molecolare?",
+    "suggestion": "Più grande è la superficie apolare, più il composto è lipofilo.",
+    "options": [
+      "Il log Kow diminuisce all'aumentare dell'area superficiale della molecola",
+      "Il log Kow non mostra alcuna correlazione con l'area superficiale molecolare",
+      "Il log Kow aumenta all'aumentare dell'area superficiale della molecola"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il log Kow dei clorobenzeni cresce linearmente con l'area superficiale molecolare: dal monoclorobenzene (piccola) all'esaclorobenzene (grande, ≈209 Å²) il log Kow aumenta.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.25"
+  },
+  {
+    "id": "bci-propcf-035",
+    "topic": "bio-chimica",
+    "question": "A cosa serve disporre delle proprietà chimico-fisiche di una serie di composti omologhi?",
+    "suggestion": "Se i dati seguono un andamento regolare, i valori mancanti si possono stimare.",
+    "options": [
+      "A predire per interpolazione le proprietà dei composti della serie privi di dati sperimentali",
+      "A dimostrare che i composti omologhi hanno tutti proprietà chimico-fisiche identiche",
+      "A misurare direttamente le proprietà di composti di serie chimiche completamente diverse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Note le proprietà di una serie di composti omologhi, si possono predire per interpolazione quelle dei composti della stessa serie per i quali mancano dati sperimentali.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.24"
+  },
+  {
+    "id": "bci-propcf-036",
+    "topic": "bio-chimica",
+    "question": "Di che natura è la forza che costituisce un legame chimico?",
+    "suggestion": "Dipende dall'attrazione tra cariche.",
+    "options": [
+      "Di natura gravitazionale, legata alla massa dei nuclei dei due atomi coinvolti",
+      "Di natura elettrostatica, che tiene uniti più atomi in una molecola o cristallo",
+      "Di natura magnetica, generata dallo spin degli elettroni condivisi tra gli atomi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il legame chimico è una forza di natura elettrostatica che tiene uniti più atomi in una molecola o in un cristallo (legami forti) o più molecole allo stato condensato (legami deboli).",
+    "difficulty": "easy",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.3"
+  },
+  {
+    "id": "bci-propcf-037",
+    "topic": "bio-chimica",
+    "question": "Cosa caratterizza un legame covalente non polare (nonpolar covalent)?",
+    "suggestion": "Confronta come vengono trattati gli elettroni nei tre tipi di legame.",
+    "options": [
+      "Gli elettroni di legame vengono condivisi in modo uguale tra i due atomi",
+      "Gli elettroni di legame vengono trasferiti completamente da un atomo all'altro",
+      "Gli elettroni di legame vengono condivisi in modo diseguale tra i due atomi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel covalente non polare gli elettroni sono condivisi in modo uguale; la condivisione diseguale caratterizza il covalente polare, mentre il trasferimento completo caratterizza il legame ionico.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.4"
+  },
+  {
+    "id": "bci-propcf-038",
+    "topic": "bio-chimica",
+    "question": "Perché in una molecola formata da due atomi uguali non si instaura un'interazione dipolo-dipolo permanente?",
+    "suggestion": "L'interazione dipolo-dipolo richiede due atomi con diversa attrazione per gli elettroni.",
+    "options": [
+      "Perché i due atomi uguali attraggono gli elettroni con la stessa forza, senza separare le cariche",
+      "Perché i due atomi uguali trasferiscono completamente gli elettroni, formando due ioni distinti",
+      "Perché i due atomi uguali non condividono affatto una coppia di elettroni tra loro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il dipolo-dipolo nasce dalla differente capacità di due atomi diversi di attrarre gli elettroni; se gli atomi sono uguali attraggono allo stesso modo, i baricentri delle cariche coincidono e la molecola è apolare.",
+    "difficulty": "hard",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.5"
+  },
+  {
+    "id": "bci-propcf-039",
+    "topic": "bio-chimica",
+    "question": "Come si collocano le forze di van der Waals rispetto al legame idrogeno in termini di energia?",
+    "suggestion": "Il legame idrogeno è la più forte delle interazioni tra molecole.",
+    "options": [
+      "Hanno un'energia superiore, essendo le interazioni intermolecolari più forti in assoluto",
+      "Hanno un'energia inferiore rispetto al legame idrogeno e alle interazioni dipolo-dipolo",
+      "Hanno la stessa energia del legame idrogeno, da cui differiscono solo per la geometria"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le forze di van der Waals sono di energia inferiore rispetto alle interazioni precedenti (dipolo-dipolo e legame idrogeno), che è la più forte tra le interazioni tra molecole.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.6"
+  },
+  {
+    "id": "bci-propcf-040",
+    "topic": "bio-chimica",
+    "question": "Quale tipo di forza tiene assieme le molecole non polari allo stato condensato?",
+    "suggestion": "Nascono dal moto continuo degli elettroni, non da cariche permanenti.",
+    "options": [
+      "Il legame idrogeno tra atomi di idrogeno di molecole apolari adiacenti",
+      "L'attrazione ionica tra cariche permanenti opposte delle molecole apolari",
+      "Le forze di dispersione di London, somma di deboli dipoli istantanei indotti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le molecole non polari sono tenute assieme dalle forze di dispersione di London: dipoli istantanei che inducono dipoli su molecole vicine; la loro somma genera una risultante attrattiva.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.6"
+  },
+  {
+    "id": "bci-propcf-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Man mano che aumenta la differenza di ___ tra due atomi, il carattere del legame diventa progressivamente più ionico.",
+    "answers": [["elettronegatività", "elettronegativita"]],
+    "suggestion": "La proprietà che misura quanto un atomo attrae gli elettroni di legame.",
+    "explanation": "All'aumentare della differenza di elettronegatività il legame acquista carattere ionico crescente, passando da covalente puro a covalente polare a ionico.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.4"
+  },
+  {
+    "id": "bci-propcf-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il BCF descrive l'accumulo in un pesce quando la sola fonte della sostanza è il meccanismo della ___.",
+    "answers": [["diffusione"]],
+    "suggestion": "Il passaggio passivo della sostanza dall'acqua ai tessuti, non l'ingestione.",
+    "explanation": "Il fattore di bioconcentrazione vale quando la sola fonte della sostanza per il pesce è la diffusione dall'acqua circostante.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.23"
+  },
+  {
+    "id": "bci-propcf-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Secondo Brønsted e Lowry una base è una sostanza che ha la capacità di ___ a sé lo ione H+.",
+    "answers": [["legare"]],
+    "suggestion": "L'acido lo cede, la base compie l'azione opposta sullo ione H+.",
+    "explanation": "Per Brønsted e Lowry la base è la sostanza capace di legare a sé lo ione H+, mentre l'acido lo genera e lo cede.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.15"
+  },
+  {
+    "id": "bci-propcf-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Una soluzione è considerata neutra quando il suo pH è pari a ___.",
+    "answers": [["7", "sette"]],
+    "suggestion": "Il valore centrale della scala, tipico dell'acqua pura.",
+    "explanation": "A pH 7 la soluzione è neutra; pH < 7 indica soluzioni acide e pH > 7 soluzioni basiche.",
+    "difficulty": "easy",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.17"
+  },
+  {
+    "id": "bci-propcf-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La legge di Henry è fondamentale per comprendere gli scambi ___-acqua negli ecosistemi.",
+    "answers": [["atmosfera"]],
+    "suggestion": "L'interfaccia tra la fase gassosa dell'aria e quella liquida.",
+    "explanation": "La legge di Henry è fondamentale per comprendere gli scambi atmosfera-acqua, oltre a cicli biogeochimici, qualità dell'acqua e comportamento degli inquinanti.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.14"
+  },
+  {
+    "id": "bci-propcf-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le proprietà di composti omologhi privi di dati sperimentali possono essere predette per ___ a partire dagli altri membri della serie.",
+    "answers": [["interpolazione"]],
+    "suggestion": "Stima di un valore intermedio a partire da dati noti che seguono un andamento.",
+    "explanation": "Note le proprietà di una serie di composti omologhi, quelle mancanti si stimano per interpolazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.24"
+  },
+  {
+    "id": "bci-propcf-fill-016",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La polarità di un composto può essere misurata come momento di dipolo oppure come costante ___.",
+    "answers": [["dielettrica"]],
+    "suggestion": "Grandezza che descrive la risposta di un mezzo a un campo elettrico.",
+    "explanation": "La polarità si misura come costante dielettrica o come momento di dipolo di un composto.",
+    "difficulty": "medium",
+    "source": "Aneggi (3) — Proprietà chimico-fisiche.pdf p.15"
   }
 ]

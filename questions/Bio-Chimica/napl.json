@@ -375,5 +375,382 @@
     "explanation": "Se l'inquinante ha una componente volatile, il campionamento spaziale della fase gassosa (CO2, CH4, alcani volatili, solventi clorurati) aiuta a definire la sorgente e il movimento in profondità.",
     "difficulty": "medium",
     "source": "NAPL.pptx"
+  },
+  {
+    "id": "bci-napl-023",
+    "topic": "bio-chimica",
+    "question": "Cosa indica l'acronimo BTEX, riferito ad alcuni LNAPL di interesse ambientale?",
+    "suggestion": "Quattro idrocarburi aromatici volatili.",
+    "options": [
+      "Benzene, toluene, etilbenzene e xileni",
+      "Benzene, tetracloroetilene, etano e xileni",
+      "Butano, toluene, etilbenzene e xantina"
+    ],
+    "correctIndex": 0,
+    "explanation": "BTEX indica benzene, toluene, etilbenzene e xileni, idrocarburi aromatici classificati tra i LNAPL importanti dal punto di vista ambientale.",
+    "difficulty": "easy",
+    "source": "NAPL.pptx slide 3"
+  },
+  {
+    "id": "bci-napl-024",
+    "topic": "bio-chimica",
+    "question": "In quale unità si esprime tipicamente la densità di un fluido non miscibile con l'acqua, parametro che ne condiziona il comportamento nel terreno?",
+    "suggestion": "Massa su volume, alla scala del grammo e del centimetro cubo.",
+    "options": [
+      "In grammi per litro (g/L)",
+      "In grammi per centimetro cubo (g/cm³)",
+      "In chilogrammi per metro cubo (kg/m³)"
+    ],
+    "correctIndex": 1,
+    "explanation": "La densità del fluido è espressa in g/cm³ e, confrontata con quella dell'acqua, distingue i LNAPL (densità minore) dai DNAPL (densità maggiore).",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 2"
+  },
+  {
+    "id": "bci-napl-025",
+    "topic": "bio-chimica",
+    "question": "Qual è la corretta successione delle zone del profilo verticale del terreno, dalla superficie verso il basso?",
+    "suggestion": "Si parte dalla zona biologicamente attiva e si arriva alla roccia che ferma l'acqua.",
+    "options": [
+      "Frangia capillare, zona satura, zona insatura, evapotraspirazione",
+      "Zona satura, frangia capillare, zona insatura, evapotraspirazione",
+      "Evapotraspirazione, zona insatura, frangia capillare, zona satura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dall'alto verso il basso si susseguono la zona di evapotraspirazione, la zona insatura (vadosa), la frangia capillare e la zona satura (acquifero), che poggia sul substrato impermeabile.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 6"
+  },
+  {
+    "id": "bci-napl-026",
+    "topic": "bio-chimica",
+    "question": "Quale intervallo di spessore può assumere la zona vadosa (insatura)?",
+    "suggestion": "Molto variabile, anche di ordini di grandezza.",
+    "options": [
+      "Da meno di un metro fino a diverse decine di metri",
+      "Sempre superiore alle diverse centinaia di metri",
+      "Un valore costante di circa un metro ovunque"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo spessore della zona vadosa può variare da meno di un metro a diverse decine di metri, in funzione del contesto idrogeologico.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 7"
+  },
+  {
+    "id": "bci-napl-027",
+    "topic": "bio-chimica",
+    "question": "In che modo l'umidità del suolo influisce sullo spostamento di piccole quantità di LNAPL nella zona vadosa?",
+    "suggestion": "Il movimento è aiutato dall'acqua che percola.",
+    "options": [
+      "I suoli asciutti accelerano la percolazione e quindi favoriscono la discesa del LNAPL",
+      "I suoli asciutti ritardano la percolazione e quindi ostacolano lo spostamento del LNAPL",
+      "L'umidità del suolo non ha alcun effetto sulla percolazione né sul movimento del LNAPL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo spostamento del LNAPL è aiutato dalla percolazione dell'acqua piovana; i suoli asciutti ritardano la percolazione e quindi ne rallentano il movimento.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 8"
+  },
+  {
+    "id": "bci-napl-028",
+    "topic": "bio-chimica",
+    "question": "Che effetto ha l'adsorbimento sul comportamento dei NAPL nel suolo?",
+    "suggestion": "Agisce sulla frazione che passa in fase gassosa.",
+    "options": [
+      "Aumenta la solubilità del NAPL nell'acqua di falda, riducendone la fase pura e la volatilizzazione",
+      "Non modifica né la fase vapore né la velocità con cui il NAPL volatilizza",
+      "Influenza la concentrazione del vapore nell'aria tellurica e la velocità di volatilizzazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'adsorbimento sulla fase solida influenza la concentrazione del vapore dei NAPL nell'aria tellurica e la velocità di volatilizzazione.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 10"
+  },
+  {
+    "id": "bci-napl-029",
+    "topic": "bio-chimica",
+    "question": "Come si comportano i composti polari in un suolo umido rispetto alla volatilizzazione?",
+    "suggestion": "I composti polari 'apprezzano' l'acqua del suolo.",
+    "options": [
+      "Interagiscono meglio con il suolo umido, riducendo la loro tendenza a volatilizzare",
+      "Restano preferenzialmente in fase vapore, aumentando la loro volatilizzazione",
+      "Non risentono dell'umidità perché essa agisce solo sui composti non polari"
+    ],
+    "correctIndex": 0,
+    "explanation": "I composti polari interagiscono meglio con un suolo umido e tendono a restare in soluzione; i composti non polari, al contrario, rimangono preferenzialmente in fase vapore.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 10"
+  },
+  {
+    "id": "bci-napl-030",
+    "topic": "bio-chimica",
+    "question": "Tra quali comparti del suolo si ripartisce un NAPL nel definire gli equilibri di ripartizione?",
+    "suggestion": "Un solido, un gas e un liquido.",
+    "options": [
+      "Fase solida, acqua di falda satura e substrato impermeabile",
+      "Fase solida, aria tellurica e soluzione del terreno",
+      "Frangia capillare, zona vadosa e livello piezometrico"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ripartizione di un NAPL nel suolo avviene tra fase solida, aria tellurica (fase gassosa) e soluzione del terreno (fase acquosa).",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 10"
+  },
+  {
+    "id": "bci-napl-031",
+    "topic": "bio-chimica",
+    "question": "Come varia la ripartizione di un NAPL nel suolo tra basse e alte concentrazioni?",
+    "suggestion": "Ad alte concentrazioni compare qualcosa in più.",
+    "options": [
+      "È lineare solo alle alte concentrazioni, mentre alle basse l'eccesso forma una fase liquida organica separata",
+      "È sempre lineare, indipendentemente dalla concentrazione del contaminante",
+      "È lineare alle basse concentrazioni, mentre alle alte l'eccesso forma una fase liquida organica separata"
+    ],
+    "correctIndex": 2,
+    "explanation": "A basse concentrazioni la ripartizione è lineare; alle alte concentrazioni sono presenti quattro fasi e l'eccesso costituisce una fase liquida organica separata.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 16"
+  },
+  {
+    "id": "bci-napl-032",
+    "topic": "bio-chimica",
+    "question": "Cosa accade all'acqua di falda a contatto con un LNAPL stratificato sulla superficie dell'acquifero?",
+    "suggestion": "L'acqua ne assorbe una parte e la trasporta.",
+    "options": [
+      "Si satura del contaminante e lo diffonde nel senso della dispersione orizzontale",
+      "Rimane del tutto priva di contaminante perché il LNAPL è immiscibile",
+      "Trascina il LNAPL in profondità fino allo strato impermeabile di fondo"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'acqua di falda si satura del contaminante e lo diffonde nel senso della dispersione orizzontale; le variazioni dell'altezza della falda favoriscono ulteriormente questa dispersione.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 20"
+  },
+  {
+    "id": "bci-napl-033",
+    "topic": "bio-chimica",
+    "question": "Quali gas si analizzano nel campionamento della fase gassosa per seguire una contaminazione con componente volatile?",
+    "suggestion": "Prodotti di degradazione e composti clorurati leggeri.",
+    "options": [
+      "Ossigeno, azoto e argon presenti nell'aria atmosferica del suolo",
+      "CO2, CH4, altri alcani volatili e solventi clorurati",
+      "Soli PCB e olii lubrificanti in fase disciolta nella falda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel campionamento della fase gassosa si analizzano CO2, CH4 o altri alcani volatili, solventi clorurati ecc., utili a definire sorgente e movimento in profondità.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 28"
+  },
+  {
+    "id": "bci-napl-034",
+    "topic": "bio-chimica",
+    "question": "Quali fattori sono chiave nel trasporto dei contaminanti in falda?",
+    "suggestion": "Dove va l'acqua e quanto velocemente.",
+    "options": [
+      "Il colore e l'odore del contaminante disperso nell'acquifero",
+      "La sola temperatura atmosferica al momento dello sversamento",
+      "La direzione e il flusso dell'acquifero"
+    ],
+    "correctIndex": 2,
+    "explanation": "La direzione e il flusso dell'acquifero sono fattori chiave del trasporto dei contaminanti in falda.",
+    "difficulty": "easy",
+    "source": "NAPL.pptx slide 31"
+  },
+  {
+    "id": "bci-napl-035",
+    "topic": "bio-chimica",
+    "question": "Perché nell'esperimento in colonna la curva di avanzamento reale ha forma a S invece che a gradino?",
+    "suggestion": "Un fenomeno di rimescolamento anticipa l'arrivo del tracciante.",
+    "options": [
+      "Per effetto della dispersione, che fa comparire il tracciante in uscita già prima del tempo di percorrenza medio",
+      "Perché il tracciante reagisce col suolo e viene distrutto prima di uscire dalla colonna",
+      "Perché in assenza di dispersione il tracciante non attraverserebbe affatto la colonna"
+    ],
+    "correctIndex": 0,
+    "explanation": "In assenza di dispersione la curva sarebbe a gradino; la dispersione determina la classica curva a S, con concentrazione non nulla in uscita anche prima del tempo di percorrenza medio.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 45"
+  },
+  {
+    "id": "bci-napl-036",
+    "topic": "bio-chimica",
+    "question": "Come si conduce l'esperimento della curva di avanzamento (breakthrough) in colonna?",
+    "suggestion": "Si segue un tracciante immesso all'inizio.",
+    "options": [
+      "Si riempie la colonna di suolo con aria completamente secca e si misura nel tempo la pressione del gas che ne fuoriesce dalla base",
+      "In una colonna satura d'acqua si immette al tempo t=0 un tracciante e se ne misura la concentrazione in uscita nel tempo",
+      "Si versa il contaminante puro sulla sommità e si pesa il residuo che il suolo trattiene"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si usa una colonna cilindrica riempita di suolo e satura d'acqua: al tempo t=0 si introduce una piccola quantità di sostanza e si misura la sua concentrazione nell'acqua in uscita in funzione del tempo, ottenendo la curva di avanzamento.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 45"
+  },
+  {
+    "id": "bci-napl-037",
+    "topic": "bio-chimica",
+    "question": "Come influisce la tessitura del suolo sul movimento dell'acqua al suo interno?",
+    "suggestion": "Confronta un suolo sciolto con uno compatto.",
+    "options": [
+      "L'acqua si muove più lentamente in un suolo sciolto che in uno a tessitura compatta",
+      "La tessitura non incide: l'acqua si muove alla stessa velocità in ogni suolo",
+      "L'acqua si muove più rapidamente in un suolo sciolto che in uno a tessitura compatta"
+    ],
+    "correctIndex": 2,
+    "explanation": "In un suolo sciolto l'acqua si muove più rapidamente che in un suolo a tessitura compatta, dove i tempi di attraversamento sono nettamente più lunghi.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 48"
+  },
+  {
+    "id": "bci-napl-038",
+    "topic": "bio-chimica",
+    "question": "Oltre al ferro zerovalente, quali altri riducenti possono agire sui solventi clorurati nelle barriere reattive?",
+    "suggestion": "Uno ione del ferro e un gas.",
+    "options": [
+      "Lo ione Fe2+ e l'idrogeno",
+      "Lo ione Cl- e l'ossigeno",
+      "Lo ione Ca2+ e l'azoto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle barriere reattive il ferro zerovalente è l'agente riducente principale; Fe2+ e idrogeno sono altri possibili riducenti per i solventi clorurati.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 42"
+  },
+  {
+    "id": "bci-napl-039",
+    "topic": "bio-chimica",
+    "question": "Nell'espressione della solubilità effettiva Si_eff = Xi · Si0 per una miscela di NAPL, cosa rappresenta il termine Xi?",
+    "suggestion": "Una grandezza che dipende dalla composizione della miscela.",
+    "options": [
+      "La solubilità del composto puro riportata in letteratura",
+      "La frazione molare del composto nella miscela",
+      "La densità del composto rispetto a quella dell'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Si_eff = Xi · Si0, Xi è la frazione molare del componente nella miscela e Si0 la solubilità del composto puro; perciò la solubilità effettiva è inferiore a quella del puro.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 17"
+  },
+  {
+    "id": "bci-napl-040",
+    "topic": "bio-chimica",
+    "question": "Come si classifica la tecnica di bonifica 'pump and treat'?",
+    "suggestion": "L'acqua viene estratta e trattata fuori dall'acquifero.",
+    "options": [
+      "Un trattamento in situ basato su barriere reattive permeabili al ferro zerovalente",
+      "Un intervento di sola dispersione naturale senza trattamento",
+      "Un trattamento ex situ, in cui l'acqua estratta è trattata in superficie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il pump and treat è un trattamento ex situ: l'acqua di falda viene estratta con pozzi di pompaggio (abbassando la falda) e trattata in superficie.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 36"
+  },
+  {
+    "id": "bci-napl-041",
+    "topic": "bio-chimica",
+    "question": "Nell'esperimento in colonna, a cosa corrisponde il ritardo con cui la variazione imposta in testa si ripresenta in uscita?",
+    "suggestion": "Al tempo medio impiegato ad attraversare la colonna.",
+    "options": [
+      "Al tempo di percorrenza medio della colonna, pari a nAL/Q",
+      "Al tempo di dimezzamento del tracciante lungo la colonna",
+      "Al tempo necessario perché il suolo si saturi completamente d'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "In assenza di dispersione la variazione si ripresenterebbe con un ritardo pari al tempo di percorrenza medio della lunghezza della colonna, nAL/Q.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 45"
+  },
+  {
+    "id": "bci-napl-042",
+    "topic": "bio-chimica",
+    "question": "Quali parametri fissano il limite teorico del NAPL nelle diverse fasi del suolo?",
+    "suggestion": "Uno per il vapore, uno per il disciolto, uno per l'adsorbito.",
+    "options": [
+      "Viscosità, densità e conducibilità idraulica",
+      "Tensione di vapore, solubilità e adsorbimento",
+      "Pressione idraulica, porosità e frazione molare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il limite teorico nelle diverse fasi è dato dalla tensione di vapore (fase vapore), dalla solubilità (disciolto) e dall'adsorbimento (adsorbito).",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 16"
+  },
+  {
+    "id": "bci-napl-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'aria contenuta nei pori del suolo, in cui si concentra il vapore dei NAPL, è detta aria ___.",
+    "answers": [["tellurica"]],
+    "suggestion": "Aggettivo che richiama la Terra/il suolo.",
+    "explanation": "L'aria tellurica è l'aria presente nei pori del suolo; il suo contenuto di vapore dipende dall'adsorbimento e dalla volatilizzazione dei NAPL.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 10"
+  },
+  {
+    "id": "bci-napl-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I composti solubili trasportati dalle acque d'infiltrazione tendono ad allargarsi e approfondirsi nell'acquifero secondo le leggi della dispersione ___.",
+    "answers": [["idrodinamica"]],
+    "suggestion": "Aggettivo che unisce acqua e moto.",
+    "explanation": "I composti solubili si diffondono nell'acquifero secondo le leggi della dispersione idrodinamica, mentre gli immiscibili restano in fase separata.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 4"
+  },
+  {
+    "id": "bci-napl-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La zona vadosa si estende dal piano campagna fino alla zona ___ (o acquifero) sottostante.",
+    "answers": [["freatica"]],
+    "suggestion": "Termine legato alla falda satura.",
+    "explanation": "La zona insatura o vadosa è la porzione di terreno compresa tra il piano campagna e la zona freatica (acquifero) sottostante.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 7"
+  },
+  {
+    "id": "bci-napl-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel profilo verticale del terreno, lo strato più profondo che arresta la migrazione verticale dei DNAPL è il substrato ___.",
+    "answers": [["impermeabile"]],
+    "suggestion": "Non lascia passare l'acqua.",
+    "explanation": "Il substrato impermeabile chiude in basso il profilo del terreno: un DNAPL vi si arresta e, se lo strato è pendente, scivola lentamente lungo di esso.",
+    "difficulty": "easy",
+    "source": "NAPL.pptx slide 6"
+  },
+  {
+    "id": "bci-napl-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La superficie superiore della zona satura, che segna il tetto dell'acquifero, è detta livello ___.",
+    "answers": [["piezometrico"]],
+    "suggestion": "Si misura con i piezometri.",
+    "explanation": "Il livello piezometrico segna la superficie della zona satura (acquifero) nel profilo verticale del terreno.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 6"
+  },
+  {
+    "id": "bci-napl-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "In assenza di dispersione, la curva di avanzamento del tracciante in uscita dalla colonna dovrebbe avere forma a ___.",
+    "answers": [["gradino"]],
+    "suggestion": "Una variazione netta, tutto o niente.",
+    "explanation": "Senza dispersione la variazione imposta in testa si ripresenterebbe identica, con un ritardo, dando una curva a gradino; la dispersione la trasforma nella tipica curva a S.",
+    "difficulty": "hard",
+    "source": "NAPL.pptx slide 45"
+  },
+  {
+    "id": "bci-napl-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nell'espressione Si_eff = Xi · Si0, il termine Si0 rappresenta la solubilità del composto ___, reperibile in letteratura.",
+    "answers": [["puro"]],
+    "suggestion": "Non in miscela.",
+    "explanation": "Si0 è la solubilità del composto puro (da letteratura); moltiplicata per la frazione molare Xi dà la solubilità effettiva del componente nella miscela.",
+    "difficulty": "medium",
+    "source": "NAPL.pptx slide 17"
   }
 ]

@@ -356,5 +356,371 @@
     "explanation": "Il DDT fu collegato al blocco dello sviluppo del pene negli alligatori del Lake Apopka e, nei gabbiani (Herring Gulls) dei Grandi Laghi, all'interferenza con lo sviluppo sessuale maschile, con nidi occupati da due femmine.",
     "difficulty": "medium",
     "source": "Disruttori endocrini.pdf"
+  },
+  {
+    "id": "bci-edc-019",
+    "topic": "bio-chimica",
+    "question": "In quali sedi vengono prodotti principalmente gli androgeni, la classe degli ormoni sessuali maschili?",
+    "suggestion": "Pensa sia a una ghiandola surrenale sia alle gonadi maschili.",
+    "options": [
+      "Nella corteccia surrenale e nei testicoli",
+      "Nella ghiandola pineale e nelle ovaie",
+      "Nella tiroide e nella ghiandola pituitaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli androgeni sono descritti come una classe di ormoni maschili prodotti nella corteccia surrenale e nei testicoli; pineale, ovaie, tiroide e pituitaria hanno altre funzioni.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf p.4"
+  },
+  {
+    "id": "bci-edc-020",
+    "topic": "bio-chimica",
+    "question": "Quale delle seguenti rientra tra le funzioni riproduttive del testosterone?",
+    "suggestion": "Cerca un'azione tipicamente maschile, opposta allo sviluppo femminile.",
+    "options": [
+      "La produzione e il rilascio periodico degli ovuli",
+      "L'impianto dell'embrione e il suo successivo sviluppo",
+      "La soppressione dello sviluppo delle gonadi femminili"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra le funzioni del testosterone il PDF elenca la soppressione dello sviluppo delle gonadi femminili, la produzione dello sperma e la comparsa dei caratteri sessuali secondari maschili; ovulazione e impianto dipendono invece da progesterone e 17β-estradiolo.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.5"
+  },
+  {
+    "id": "bci-edc-021",
+    "topic": "bio-chimica",
+    "question": "Quali processi riproduttivi sono regolati dal progesterone e dal 17β-estradiolo?",
+    "suggestion": "Sono gli ormoni che governano la sfera riproduttiva femminile.",
+    "options": [
+      "Produzione degli ovuli, impianto dell'embrione, parto e allattamento",
+      "Produzione dello sperma, libido e caratteri sessuali secondari maschili",
+      "Soppressione delle gonadi maschili, discesa dei testicoli e spermatogenesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Progesterone e 17β-estradiolo regolano produzione e rilascio degli ovuli, impianto e sviluppo dell'embrione, parto e allattamento e i caratteri sessuali femminili; le altre opzioni descrivono azioni del testosterone.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf p.5"
+  },
+  {
+    "id": "bci-edc-022",
+    "topic": "bio-chimica",
+    "question": "Quale funzione svolge la ghiandola pineale tra le principali ghiandole endocrine?",
+    "suggestion": "Pensa al ritmo sonno-veglia e all'avvio della maturazione sessuale.",
+    "options": [
+      "Regola la concentrazione di calcio nel sangue",
+      "Modera i bioritmi e stimola la pubertà",
+      "Regola il bilancio dei liquidi nell'organismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ghiandola pineale modera i bioritmi e stimola la pubertà; il controllo del calcio spetta alla paratiroide e il bilancio dei liquidi alle ghiandole surrenali.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.3"
+  },
+  {
+    "id": "bci-edc-023",
+    "topic": "bio-chimica",
+    "question": "Quali alterazioni sono state associate all'esposizione delle rane all'atrazina?",
+    "suggestion": "Pensa a un effetto anti-androgeno sui maschi e alla comparsa di caratteri di entrambi i sessi.",
+    "options": [
+      "Aumento del testosterone e ingrossamento della laringe nei maschi, con virilizzazione accentuata",
+      "Riduzione del testosterone e comparsa di rane intersessuali (ermafrodite)",
+      "Sterilità completa dei maschi senza alcuna modifica delle gonadi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negli studi sulle rane (Hayes et al. 2002) l'atrazina è stata associata a riduzione delle dimensioni della laringe e dei livelli di testosterone nei maschi e a un aumento di individui intersessuali (ermafroditi) in popolazioni selvatiche e di laboratorio.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf p.76"
+  },
+  {
+    "id": "bci-edc-024",
+    "topic": "bio-chimica",
+    "question": "Perché, all'aumentare della concentrazione dei recettori, serve meno ormone per ottenere lo stesso effetto?",
+    "suggestion": "Ragiona su quante interazioni ormone-recettore sono possibili quando i recettori sono numerosi.",
+    "options": [
+      "Perché un maggior numero di recettori aumenta la risposta a parità di ormone",
+      "Perché i recettori in eccesso degradano l'ormone riducendone la disponibilità",
+      "Perché a molti recettori corrisponde una minore affinità per l'ormone"
+    ],
+    "correctIndex": 0,
+    "explanation": "La curva dose-risposta dipende dalla concentrazione del recettore: quando i recettori aumentano cresce anche l'effetto dell'ormone, quindi ne serve meno per la stessa risposta. A bassi livelli di recettore la risposta massima non raggiunge nemmeno l'EC90.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf p.13"
+  },
+  {
+    "id": "bci-edc-025",
+    "topic": "bio-chimica",
+    "question": "Cosa caratterizza l'andamento non monotonico della curva dose-risposta osservato con il DES sul peso della prostata?",
+    "suggestion": "L'effetto non cresce sempre con la dose: considera cosa accade alle dosi intermedie rispetto a quelle alte.",
+    "options": [
+      "L'effetto cresce in modo proporzionale e continuo all'aumentare della dose",
+      "Le dosi intermedie aumentano l'effetto mentre le dosi alte lo diminuiscono",
+      "Solo le dosi più alte producono un effetto, assente a dosi basse e intermedie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nello studio di vom Saal (1997) sul DES le dosi intermedie aumentavano il peso della prostata mentre le dosi alte lo riducevano: un andamento non monotonico, opposto a una semplice relazione crescente dose-effetto.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf p.19"
+  },
+  {
+    "id": "bci-edc-026",
+    "topic": "bio-chimica",
+    "question": "In quale modo, secondo il meccanismo indiretto, un disruttore può agire sulla concentrazione dell'ormone?",
+    "suggestion": "Il meccanismo indiretto non tocca direttamente il legame al recettore.",
+    "options": [
+      "Legandosi direttamente al recettore nucleare e attivando la trascrizione",
+      "Alterando la sintesi dell'ormone o la regolazione dei recettori",
+      "Aumentando l'affinità del recettore per lo steroid response element"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel meccanismo indiretto il disruttore agisce sulla concentrazione dell'ormone o sull'omeostasi: reagisce con l'ormone, altera il meccanismo di sintesi dell'ormone o altera la regolazione dei recettori, senza legarsi direttamente al recettore.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.15"
+  },
+  {
+    "id": "bci-edc-027",
+    "topic": "bio-chimica",
+    "question": "Perché la via di trasduzione mediata dalle proteine G produce un'amplificazione del segnale?",
+    "suggestion": "Considera quanti bersagli attiva ogni singolo elemento della cascata.",
+    "options": [
+      "Perché ogni recettore attiva una sola proteina G, che genera una sola molecola di cAMP senza amplificazione",
+      "Perché il segnale viene trasmesso senza intermediari direttamente al DNA",
+      "Perché ogni recettore attiva più proteine G, ciascuna più adenilato ciclasi e più cAMP"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'amplificazione nasce dalla cascata: ogni recettore attiva più proteine G, ogni proteina G più molecole di adenilato ciclasi, ogni adenilato ciclasi più cAMP e ogni cAMP una proteina kinasi A che fosforila un enzima.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.17"
+  },
+  {
+    "id": "bci-edc-028",
+    "topic": "bio-chimica",
+    "question": "Quale funzione svolgono le proteine Gq nella trasduzione del segnale?",
+    "suggestion": "Non agiscono sull'adenilato ciclasi ma su un'altra classe di enzimi.",
+    "options": [
+      "Attivano le fosfolipasi nella via di segnalazione",
+      "Inibiscono l'adenilato ciclasi riducendo il cAMP",
+      "Attivano l'adenilato ciclasi stimolando il cAMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra le quattro classi di proteine G, le Gq attivano le fosfolipasi; le Gs attivano l'adenilato ciclasi (sintesi di cAMP) e le Gi la inibiscono, mentre G12 e G13 hanno attività non nota.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.16"
+  },
+  {
+    "id": "bci-edc-029",
+    "topic": "bio-chimica",
+    "question": "Quale effetto sono in grado di produrre i fitoestrogeni negli erbivori?",
+    "suggestion": "Sono estrogeni deboli: pensa a come possono incidere sulla sfera riproduttiva.",
+    "options": [
+      "Alterazioni della fertilità, fino alla sterilizzazione",
+      "Un aumento della massa muscolare e del peso corporeo",
+      "Un'accelerazione della crescita delle corna nei maschi"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fitoestrogeni, prodotti naturali ad attività estrogenica presenti da sempre nella dieta, possono influenzare la fertilità degli erbivori, con effetti che vanno dall'aumento della fertilità alla sterilizzazione.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.22"
+  },
+  {
+    "id": "bci-edc-030",
+    "topic": "bio-chimica",
+    "question": "Che effetto hanno gli isoflavoni della soia sulla maturazione sessuale?",
+    "suggestion": "L'effetto è opposto nei due sessi.",
+    "options": [
+      "Accelerano la maturazione sia nei maschi sia nelle femmine",
+      "Ritardano la maturazione nei maschi e la accelerano nelle femmine",
+      "Ritardano la maturazione sia nei maschi sia nelle femmine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli isoflavoni della soia impediscono/ritardano la maturazione sessuale dei maschi e accelerano quella delle femmine; il PDF ricorda anche che i livelli in un lattante allattato con latte di soia possono essere migliaia di volte più alti.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.24"
+  },
+  {
+    "id": "bci-edc-031",
+    "topic": "bio-chimica",
+    "question": "Come si colloca l'attività estrogenica degli ftalati rispetto a quella del 17β-estradiolo?",
+    "suggestion": "Confronta la loro potenza con quella del bisfenolo A, di poco più forte.",
+    "options": [
+      "Sono estrogeni deboli, con potenza 6-8 volte inferiore al 17β-estradiolo",
+      "Sono estrogeni forti, con potenza 6-8 volte superiore al 17β-estradiolo",
+      "Sono anti-estrogeni, con potenza pari a quella del 17β-estradiolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli ftalati sono estrogeni deboli, con potenza 6-8 volte inferiore al 17β-estradiolo; il BPA, di poco più potente, è 4-6 volte inferiore.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.27"
+  },
+  {
+    "id": "bci-edc-032",
+    "topic": "bio-chimica",
+    "question": "Quali effetti sono stati osservati nei ratti esposti agli ftalati durante la gestazione?",
+    "suggestion": "Gli ftalati agiscono in senso anti-androgeno sull'apparato maschile.",
+    "options": [
+      "Aumento del peso dei testicoli e mascolinizzazione dei capezzoli nelle femmine",
+      "Riduzione del peso dei testicoli e femminilizzazione dei capezzoli maschili",
+      "Aumento del peso del feto e pubertà anticipata nei maschi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nello studio sui ratti (0.75 g/kg dal 14° giorno di gestazione) gli ftalati riducevano l'aumento di peso, il peso del feto e quello dei testicoli (~35%) e femminilizzavano i capezzoli maschili (fino all'87%).",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.41"
+  },
+  {
+    "id": "bci-edc-033",
+    "topic": "bio-chimica",
+    "question": "In quale impiego industriale è utilizzato principalmente il bisfenolo A (BPA)?",
+    "suggestion": "Pensa alle plastiche trasparenti e ai rivestimenti interni delle lattine.",
+    "options": [
+      "Come biocida nelle vernici antivegetative per le carene delle navi",
+      "Come ritardante di fiamma aggiunto ai mangimi animali",
+      "Nella produzione di plastiche policarbonate e resine epossidiche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il BPA è impiegato soprattutto (~95%) nella produzione di plastiche policarbonate e resine epossidiche, usate per contenitori riutilizzabili e per il rivestimento interno di lattine e coperchi; il biocida navale è invece il TBT.",
+    "difficulty": "easy",
+    "source": "Disruttori endocrini.pdf p.27"
+  },
+  {
+    "id": "bci-edc-034",
+    "topic": "bio-chimica",
+    "question": "In che modo l'effluente delle cartiere (kraft pulpmill) può mascolinizzare le femmine del pesce zanzara?",
+    "suggestion": "La trasformazione avviene nell'ambiente e coinvolge composti vegetali presenti nello scarico.",
+    "options": [
+      "Rilasciando direttamente testosterone sintetico nelle acque di scarico",
+      "I fitosteroli dell'effluente vengono convertiti in androgeni dai microrganismi",
+      "Bloccando l'aromatasi (CYP19) e impedendo così la sintesi di estrogeni nelle femmine"
+    ],
+    "correctIndex": 1,
+    "explanation": "I fitosteroli presenti nell'effluente delle cartiere vengono trasformati in androgeni steroidei C19 per azione dei microrganismi ambientali; questi androgeni mascolinizzano anatomia e comportamento delle femmine di pesce zanzara.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf p.72"
+  },
+  {
+    "id": "bci-edc-035",
+    "topic": "bio-chimica",
+    "question": "Quale effetto è stato osservato nella prole di ratti femmina esposti a 1 µg/kg di diossina?",
+    "suggestion": "Pensa a un'alterazione dei tempi e dello sviluppo degli organi sessuali.",
+    "options": [
+      "Nascita di femmine con pubertà ritardata e genitali anomali",
+      "Nascita di femmine con pubertà anticipata e maggiore fertilità",
+      "Nascita di maschi con un aumento del numero di spermatozoi"
+    ],
+    "correctIndex": 0,
+    "explanation": "A 1 µg/kg la diossina causava nella prole femmine con pubertà ritardata e genitali anomali e maschi con minor numero di spermatozoi, ritardo della discesa dei testicoli e comportamento sessuale alterato; a 0.1 µg/kg/giorno diminuivano fertilità e peso della prole.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.60"
+  },
+  {
+    "id": "bci-edc-036",
+    "topic": "bio-chimica",
+    "question": "Cosa provocò l'episodio del Michigan del 1973 collegato alla pubertà precoce?",
+    "suggestion": "Una sostanza estranea finì per errore nella catena alimentare umana.",
+    "options": [
+      "Lo sversamento di un insetticida organoclorurato in un lago",
+      "L'aggiunta accidentale ai mangimi di un ritardante di fiamma contenente PBBs",
+      "La contaminazione dell'acqua potabile con composti organostannici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel Michigan (1973) un ritardante di fiamma contenente difenilpolibromurati (PBBs) fu aggiunto per errore ai mangimi e oltre 4.000 persone consumarono carne contaminata; l'episodio è citato tra i fattori collegati alla pubertà precoce.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.61"
+  },
+  {
+    "id": "bci-edc-037",
+    "topic": "bio-chimica",
+    "question": "Quale comportamento ambientale caratterizza i composti organostannici come TBT e TPT?",
+    "suggestion": "Pensa alla loro persistenza e alla tendenza a legarsi al materiale in sospensione.",
+    "options": [
+      "Si degradano rapidamente in acqua e non danno luogo ad alcuna bioaccumulazione negli organismi",
+      "Restano disciolti in acqua senza legarsi ai sedimenti",
+      "Si degradano lentamente, si adsorbono alle particelle e bioaccumulano"
+    ],
+    "correctIndex": 2,
+    "explanation": "I composti organo-stannici si degradano lentamente, si adsorbono alle particelle sospese accumulandosi nei sedimenti e danno luogo a bioaccumulazione, con fattori molto elevati in vari organismi acquatici.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.49"
+  },
+  {
+    "id": "bci-edc-038",
+    "topic": "bio-chimica",
+    "question": "Quali effetti furono osservati per la prima volta nel 1979 sulle ostriche di Arcachon esposte al TBT?",
+    "suggestion": "Riguardano sia la capacità riproduttiva sia la forma del guscio.",
+    "options": [
+      "Inibizione della riproduzione e deformazioni del guscio",
+      "Accelerazione della crescita e ispessimento del guscio",
+      "Aumento della fertilità e produzione di perle anomale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel 1979 ad Arcachon (Francia) il TBT causò i primi effetti nocivi documentati sulle ostriche, con enorme danno economico: inibizione della riproduzione e deformazioni del guscio (formazione di camere e 'balling').",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.55"
+  },
+  {
+    "id": "bci-edc-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Gli EDC possono attivare il canale ionico spermatozoo-specifico ___, desensibilizzando lo spermatozoo verso il progesterone e le prostaglandine.",
+    "answers": [["CatSper"]],
+    "suggestion": "È un canale del calcio localizzato nella coda dello spermatozoo.",
+    "explanation": "Gli EDC attivano il canale spermatozoo-specifico CatSper elevando il Ca2+ e desensibilizzando lo spermatozoo verso progesterone e prostaglandine, ormoni rilasciati dalle cellule che circondano l'oocita, con possibile compromissione della fecondazione.",
+    "difficulty": "hard",
+    "source": "Disruttori endocrini.pdf p.64"
+  },
+  {
+    "id": "bci-edc-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I composti organostannici TBT e TPT sono stati banditi nella UE a partire dal ___.",
+    "answers": [["2003"]],
+    "suggestion": "È un anno dei primi anni Duemila.",
+    "explanation": "TBT e TPT sono stati banditi nella UE dal 2003, ma si trovano ancora a concentrazioni elevate nei sedimenti e il loro monitoraggio è difficile, tanto che si preferisce l'uso di bioindicatori.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.53"
+  },
+  {
+    "id": "bci-edc-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i due gruppi principali di fitoestrogeni, i lignani sono particolarmente abbondanti nei semi di ___ (flaxseed).",
+    "answers": [["lino"]],
+    "suggestion": "È la pianta da cui si ottiene anche l'omonimo olio e la fibra tessile.",
+    "explanation": "I lignani (matairesinolo, secoisolariciresinolo, enterolactone, enterodiolo) sono uno dei due gruppi principali di fitoestrogeni e hanno come fonte tipica i semi di lino (flaxseed); l'altro gruppo è quello degli isoflavoni.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.23"
+  },
+  {
+    "id": "bci-edc-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'aumento della mancata discesa dei testicoli nei neonati maschi è indicato con il termine ___.",
+    "answers": [["criptorchidismo", "cryptorchidism"]],
+    "suggestion": "Il termine deriva dal greco 'testicolo nascosto'.",
+    "explanation": "Il criptorchidismo (non-descending testes) è tra le malformazioni genitali in aumento nei neonati maschi segnalate dal rapporto WHO/UNEP 2012, insieme all'ipospadia.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.66"
+  },
+  {
+    "id": "bci-edc-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La malformazione peniena in aumento nei neonati maschi, dovuta a un'apertura anomala dell'uretra, è chiamata ___.",
+    "answers": [["ipospadia", "hypospadias"]],
+    "suggestion": "È il difetto peniano citato accanto al criptorchidismo.",
+    "explanation": "L'ipospadia (hypospadias) è la malformazione peniena caratterizzata da un'apertura uretrale anomala; il rapporto WHO/UNEP 2012 la elenca tra le malformazioni genitali maschili in aumento.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.66"
+  },
+  {
+    "id": "bci-edc-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Per il monitoraggio biologico degli effetti del TBT si utilizza come biomonitor il gasteropode ___ littorea, misurandone l'indice di intersex.",
+    "answers": [["Littorina"]],
+    "suggestion": "È una comune chiocciola di mare, la 'littorina'.",
+    "explanation": "Nel monitoraggio degli effetti biologici del TBT si impiega come biomonitor Littorina littorea, misurando l'indice di intersex (ISI); valori dell'indice pari a 1 corrispondono alla sterilità.",
+    "difficulty": "medium",
+    "source": "Disruttori endocrini.pdf p.59"
   }
 ]

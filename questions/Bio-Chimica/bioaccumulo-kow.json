@@ -364,5 +364,368 @@
     "explanation": "Nel calcolo della ripartizione (es. toluene) il contributo del grasso è Cw·Kow·0.05·Vpesce: per sostanze idrofobiche (Kow alto) domina la frazione lipidica, pur essendo solo il 5% in volume.",
     "difficulty": "hard",
     "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-021",
+    "topic": "bio-chimica",
+    "question": "Perché nel fitoplancton l'eptaclorobifenile (HCB) mostra un BCF più alto (72444) del tetraclorobifenile (TCB, 25119)?",
+    "suggestion": "Confronta il numero di atomi di cloro delle due molecole e collegalo all'idrofobicità.",
+    "options": [
+      "Perché il maggior numero di atomi di cloro lo rende meno idrofobico e più solubile in acqua",
+      "Perché il minor numero di atomi di cloro ne aumenta l'affinità per i tessuti lipidici",
+      "Perché il maggior numero di atomi di cloro lo rende più idrofobico e più affine ai lipidi"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'HCB, più clorurato del TCB, è più idrofobico e si ripartisce maggiormente nei lipidi dell'organismo, dando un BCF più alto (72444 contro 25119).",
+    "difficulty": "hard",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-022",
+    "topic": "bio-chimica",
+    "question": "Tra i composti misurati in Daphnia magna, perché il cloruro di manganese ha il BCF più basso (911) rispetto a benzo(a)pirene (12762) e ftalato (5200)?",
+    "suggestion": "Pensa alla differenza di polarità tra un sale metallico e un idrocarburo policiclico.",
+    "options": [
+      "Perché è un sale a carattere polare, con scarsa affinità per i tessuti lipidici",
+      "Perché è un composto organico apolare che viene rapidamente metabolizzato",
+      "Perché ha un peso molecolare troppo elevato per attraversare le membrane branchiali e accumularsi nei tessuti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cloruro di manganese è un sale polare (idrofilo): si ripartisce poco nei lipidi, quindi il suo BCF è nettamente inferiore a quello dei composti organici idrofobici come il benzo(a)pirene.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-023",
+    "topic": "bio-chimica",
+    "question": "Dallo studio su 16 composti idrofobici, quale relazione emerge tra log Kow e log BCF?",
+    "suggestion": "Se il Kow misura l'idrofobicità, cosa ti aspetti per la tendenza ad accumularsi?",
+    "options": [
+      "Una correlazione inversa: al crescere del log Kow il log BCF diminuisce",
+      "Una correlazione positiva: al crescere del log Kow cresce anche il log BCF",
+      "Nessuna correlazione apprezzabile tra i due parametri considerati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per i composti idrofobici log BCF cresce all'aumentare di log Kow: più una sostanza è idrofobica, più tende a bioconcentrarsi negli organismi.",
+    "difficulty": "easy",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-024",
+    "topic": "bio-chimica",
+    "question": "Nel caso dell'1,2-dimetilbenzene (log Kow = 3.16), cosa esprime la relazione log Klip/w ≈ log Kow?",
+    "suggestion": "L'ottanolo è usato proprio come surrogato di quale fase corporea?",
+    "options": [
+      "Che la ripartizione lipidi/acqua è molto più bassa di quella prevista dal Kow, che la sovrastima nettamente",
+      "Che il Kow misura solo la volatilità della sostanza e non la sua ripartizione",
+      "Che la ripartizione nei lipidi è ben approssimata dal coefficiente ottanolo/acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fino a log Kow ≈ 6 la ripartizione grasso/acqua (Klip/w) è ben approssimata dal Kow: per l'1,2-dimetilbenzene log Klip/w ≈ log Kow = 3.16.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-025",
+    "topic": "bio-chimica",
+    "question": "Nel calcolo del clorobenzene (Kow≈832) in un pesce, perché il grasso trattiene la quota maggiore (83.2 dei 84.91 µg/dm³) pur essendo solo il 5% del volume?",
+    "suggestion": "Nel termine del grasso compare un fattore che negli altri termini non c'è: qual è?",
+    "options": [
+      "Perché l'acqua, all'85% del volume, respinge attivamente il contaminante verso il grasso",
+      "Perché l'aria (3% del volume) satura di contaminante lo cede lentamente al grasso",
+      "Perché l'alto Kow amplifica il contributo lipidico (Cw·Kow·0.05) nonostante il volume ridotto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il termine lipidico Cw·Kow·0.05·V contiene il Kow elevato (~832): questo fattore moltiplicativo fa sì che il grasso domini l'accumulo pur rappresentando solo il 5% del volume.",
+    "difficulty": "hard",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-026",
+    "topic": "bio-chimica",
+    "question": "Nell'esempio del clorobenzene, perché 1 kg di pesce corrisponde a circa 1.11 dm³?",
+    "suggestion": "Il volume si ottiene dividendo la massa per la densità.",
+    "options": [
+      "Perché la densità del pesce è 0.9 kg/L, quindi 1 kg occupa 1/0.9 ≈ 1.11 dm³",
+      "Perché la densità del pesce è 1.11 kg/L, valore che moltiplica direttamente la massa",
+      "Perché la densità 0.9 kg/L implica che 1 kg occupi 0.9 dm³ di volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con densità 0.9 kg/L, 1 kg di pesce occupa 1/0.9 ≈ 1.11 dm³; per questo la concentrazione passa da 84.91 µg/dm³ a 94.34 µg/kg.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-027",
+    "topic": "bio-chimica",
+    "question": "Nelle cinetiche di bioaccumulazione, cosa distingue l'assorbimento branchiale dall'assunzione con la dieta?",
+    "suggestion": "Una via passa per l'acqua, l'altra per il cibo.",
+    "options": [
+      "Le branchie assorbono attivamente il contaminante legato al cibo solido, mentre la dieta introduce quello disciolto in soluzione",
+      "Le branchie assorbono passivamente il contaminante disciolto in soluzione, la dieta quello legato al cibo solido",
+      "Le branchie assorbono attivamente solo i metalli, la dieta solo i composti organici disciolti"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'assorbimento branchiale è passivo e riguarda il contaminante disciolto in soluzione; l'assunzione con la dieta introduce il contaminante legato al cibo solido.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-028",
+    "topic": "bio-chimica",
+    "question": "Nel needlefish il BAF (≈666 mila) supera di molto il BCF (≈13 mila): come si spiega questa differenza?",
+    "suggestion": "Quale dei due fattori tiene conto anche del cibo?",
+    "options": [
+      "Il BAF è più basso del BCF perché esclude i composti disciolti dal calcolo",
+      "Il BCF sovrastima l'accumulo perché include anche l'apporto della dieta",
+      "Il BAF include tutti i meccanismi di assorbimento, compresa la dieta, che il BCF trascura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il BCF considera solo l'assorbimento dal mezzo; il BAF somma tutte le vie, inclusa la dieta, e risulta perciò molto maggiore (666 mila contro 13 mila).",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-029",
+    "topic": "bio-chimica",
+    "question": "Quale differenza c'è tra il coefficiente Kow e il coefficiente Koc?",
+    "suggestion": "Uno riguarda i tessuti, l'altro il suolo.",
+    "options": [
+      "Il Kow descrive l'idrofobicità, il Koc l'affinità verso suolo e sedimenti",
+      "Il Kow descrive l'affinità verso il suolo, il Koc l'idrofobicità della sostanza",
+      "Entrambi descrivono l'idrofobicità, ma il Koc è riferito solo ai metalli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Kow (ottanolo/acqua) descrive le caratteristiche idrofobiche; il Koc (carbonio organico/acqua) descrive l'affinità verso suolo e sedimenti delle sostanze organiche non polari.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-030",
+    "topic": "bio-chimica",
+    "question": "Che rapporto lega la lunghezza della catena alifatica lineare di una molecola al suo log Kow?",
+    "suggestion": "Più parte apolare significa più affinità per l'ottanolo.",
+    "options": [
+      "Catene più lunghe abbassano il log Kow, aumentando la solubilità in acqua",
+      "Catene più lunghe aumentano il log Kow, accrescendo l'idrofobicità",
+      "La lunghezza della catena non influenza il valore del log Kow"
+    ],
+    "correctIndex": 1,
+    "explanation": "All'allungarsi della catena alifatica lineare cresce l'idrofobicità e quindi il log Kow, come mostra la relazione tra i due parametri.",
+    "difficulty": "easy",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-031",
+    "topic": "bio-chimica",
+    "question": "Su quali proprietà si basa la stima del Kow a partire dalla struttura chimica di una molecola?",
+    "suggestion": "Si tratta di contributi additivi legati ai gruppi e ai legami della molecola.",
+    "options": [
+      "Sul solo peso molecolare complessivo, a prescindere dai gruppi funzionali presenti",
+      "Sul punto di fusione e sul colore, che riassumono la geometria della molecola",
+      "Unicamente sulla presenza di atomi di alogeno, ignorando la restante struttura",
+      "Su frammenti molecolari, anelli aromatici, ramificazioni e legami H intramolecolari"
+    ],
+    "correctIndex": 3,
+    "explanation": "La stima strutturale del Kow considera contributi come i frammenti molecolari, i doppi legami e anelli aromatici, le ramificazioni, i fattori elettronici e i legami H intramolecolari.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-032",
+    "topic": "bio-chimica",
+    "question": "Perché il metodo RP-HPLC per stimare il Kow deve essere calibrato con composti a Kow noto?",
+    "suggestion": "Serve una scala di riferimento per tradurre la ritenzione in Kow.",
+    "options": [
+      "Per convertire i tempi di ritenzione misurati in valori di Kow tramite una relazione nota",
+      "Per eliminare del tutto il contributo della fase stazionaria C18 dal calcolo del fattore di capacità k",
+      "Per rendere idrofili i soluti idrofobici prima dell'iniezione in colonna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il metodo lega il fattore di capacità k al Kow: servono standard a Kow noto, scelti per similarità con l'analita, per tarare questa relazione e ricavare il Kow incognito.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-033",
+    "topic": "bio-chimica",
+    "question": "Nel metodo sperimentale con imbuti separatori, come si determina il Kow dopo l'equilibrio tra le due fasi?",
+    "suggestion": "Bisogna quantificare quanto soluto è finito in una delle due fasi.",
+    "options": [
+      "Misurando la variazione di volume della fase ottanolica prima e dopo l'agitazione",
+      "Misurando la concentrazione del soluto in una fase (di solito quella acquosa) raccolta",
+      "Misurando il tempo impiegato dalle due fasi per separarsi completamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dopo agitazione ed equilibrio si raccoglie una fase (di norma quella acquosa) e se ne misura la concentrazione (UV-Vis, HPLC, GC); da qui si ricava la ripartizione tra le fasi.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-034",
+    "topic": "bio-chimica",
+    "question": "Perché i coefficienti di ripartizione sono sempre più usati per descrivere il comportamento di una sostanza?",
+    "suggestion": "Il loro vantaggio è la lettura rapida della distribuzione tra fasi.",
+    "options": [
+      "Perché misurano direttamente la tossicità acuta della sostanza sugli organismi",
+      "Perché danno un'idea immediata della tendenza a migrare da una fase all'altra",
+      "Perché forniscono il tempo esatto di degradazione nel suolo e nell'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "I coefficienti di ripartizione sono apprezzati perché offrono un'indicazione immediata della tendenza di una sostanza a passare da una fase all'altra (acqua, lipidi, suolo).",
+    "difficulty": "easy",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-035",
+    "topic": "bio-chimica",
+    "question": "Per il toluene si hanno KH = 0.28 e Kow = 490: cosa indica questo forte squilibrio tra i due valori?",
+    "suggestion": "Confronta quale coefficiente è molto più grande e a quale fase si riferisce.",
+    "options": [
+      "Che il toluene si ripartisce molto più nel grasso che nell'aria dell'organismo",
+      "Che il toluene tende soprattutto a volatilizzare nella fase aeriforme",
+      "Che il toluene resta quasi interamente disciolto nella fase acquosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Kow elevato (490) rispetto al KH basso (0.28) indica che il toluene si ripartisce fortemente nella frazione lipidica dell'organismo piuttosto che nell'aria o nell'acqua.",
+    "difficulty": "hard",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-036",
+    "topic": "bio-chimica",
+    "question": "Per il fitoplancton Anabaena spp. si riporta flip = 0.053: cosa rappresenta questo valore nel calcolo del BCF?",
+    "suggestion": "'lip' richiama la componente in cui si accumulano le sostanze idrofobiche.",
+    "options": [
+      "La frazione di superficie cellulare disponibile per lo scambio con l'acqua",
+      "La frazione di contaminante degradato dall'organismo per via metabolica",
+      "La frazione lipidica dell'organismo in cui si ripartisce il contaminante"
+    ],
+    "correctIndex": 2,
+    "explanation": "flip è la frazione di lipidi dell'organismo (0.053 per Anabaena): è la fase in cui si concentra il contaminante idrofobico e che governa il BCF.",
+    "difficulty": "hard",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-037",
+    "topic": "bio-chimica",
+    "question": "Nel bilancio cinetico della bioaccumulazione, quale via rappresenta l'eliminazione vera e propria del contaminante?",
+    "suggestion": "Distingui l'uscita fisica del contaminante dalla sua semplice diluizione.",
+    "options": [
+      "La crescita dell'organismo, che ne riduce la concentrazione per diluizione",
+      "L'escrezione con feci e urine, che allontana fisicamente il contaminante",
+      "L'assorbimento branchiale, che ne governa l'ingresso dalla soluzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'escrezione con feci e urine è l'eliminazione reale del contaminante; la crescita è solo una 'pseudo-eliminazione' (diluizione) e l'assorbimento branchiale è una via d'ingresso.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-038",
+    "topic": "bio-chimica",
+    "question": "Da quali fattori dipende la complessità del fenomeno di bioaccumulazione lungo la catena alimentare?",
+    "suggestion": "Non è solo questione di concentrazione ambientale: contano abitudini e natura dell'elemento.",
+    "options": [
+      "Dalla dieta, dal comportamento dell'organismo e dal tipo di elemento coinvolto",
+      "Esclusivamente dalla concentrazione del contaminante disciolto nel mezzo acquatico circostante",
+      "Solo dalla taglia corporea e dalla temperatura dell'ambiente circostante"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bioaccumulazione dipende dalla dieta, dal comportamento dell'organismo e anche dal tipo di elemento: per questo si osservano biomagnificazione, bioriduzione o regolazione a seconda dei casi.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-039",
+    "topic": "bio-chimica",
+    "question": "Nella misura del Kow con le due fasi ottanolo e acqua, in che stato si trovano i due solventi all'equilibrio?",
+    "suggestion": "I due liquidi non sono del tutto immiscibili: cosa succede al contatto prolungato?",
+    "options": [
+      "Le due fasi restano perfettamente pure, ciascuna del tutto priva di tracce dell'altro solvente presente",
+      "Ciascuna fase è satura dell'altro solvente (ottanolo saturo d'acqua e acqua satura di ottanolo)",
+      "L'ottanolo si scioglie completamente nell'acqua formando una sola fase omogenea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel sistema di misura le due fasi coesistono reciprocamente sature: l'ottanolo è saturo d'acqua e l'acqua è satura di n-ottanolo, condizione necessaria per un Kow all'equilibrio.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il coefficiente di ripartizione carbonio organico/acqua, che descrive l'affinità di una sostanza verso il suolo e i sedimenti, si indica con la sigla ___.",
+    "answers": [["Koc", "K oc"]],
+    "suggestion": "È analogo al Kow ma riferito al carbonio organico del suolo.",
+    "explanation": "Il Koc (coefficiente di ripartizione carbonio organico/acqua) descrive l'affinità verso suolo e sedimenti delle sostanze organiche non polari.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nelle cinetiche di bioaccumulazione l'assorbimento passivo dei composti disciolti in soluzione avviene attraverso le ___.",
+    "answers": [["branchie"]],
+    "suggestion": "Sono gli organi respiratori dei pesci.",
+    "explanation": "L'assorbimento branchiale è la via passiva con cui il pesce assume il contaminante disciolto in soluzione.",
+    "difficulty": "easy",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il Kow di una sostanza può essere calcolato a partire dalla sua solubilità e dal suo punto di ___.",
+    "answers": [["fusione"]],
+    "suggestion": "È la temperatura a cui un solido diventa liquido.",
+    "explanation": "Il calcolo del Kow può partire dalla solubilità della sostanza e dal suo punto di fusione.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il fitoplancton del genere ___ spp. è stato utilizzato per misurare i fattori di bioconcentrazione dei PCB.",
+    "answers": [["Anabaena"]],
+    "suggestion": "È un cianobatterio filamentoso d'acqua dolce.",
+    "explanation": "I BCF dei PCB (TCB e HCB) sono stati misurati nel fitoplancton Anabaena spp.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "In RP-HPLC il sistema deve essere ___ con composti a Kow noto, scelti per la loro similarità con le molecole studiate.",
+    "answers": [["calibrato", "tarato"]],
+    "suggestion": "Serve una scala di riferimento con standard noti.",
+    "explanation": "Per ricavare il Kow incognito dai tempi di ritenzione il sistema RP-HPLC va calibrato con standard a Kow noto.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La colonna usata in RP-HPLC ha una fase stazionaria non polare formata da una catena idrocarburica ___ legata a un supporto inerte.",
+    "answers": [["C18", "C-18"]],
+    "suggestion": "È una catena a diciotto atomi di carbonio.",
+    "explanation": "La fase stazionaria della RP-HPLC è una lunga catena idrocarburica C18 legata permanentemente al supporto inerte.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
+  },
+  {
+    "id": "bci-bioac-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel needlefish il fattore di biomagnificazione (BMF) misurato è pari a ___, valore che conferma la magnificazione essendo maggiore di 1.",
+    "answers": [["4"]],
+    "suggestion": "È un numero intero a una sola cifra.",
+    "explanation": "Il BMF del needlefish è 4: essendo maggiore di 1 indica magnificazione lungo la catena alimentare.",
+    "difficulty": "medium",
+    "source": "Bioaccumulo_Kow.pptx"
   }
 ]

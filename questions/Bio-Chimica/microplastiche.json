@@ -361,5 +361,374 @@
     "explanation": "L'ingestione è favorita da dimensioni comparabili a quelle di plancton e sedimenti e da strategie di alimentazione non selettive (in base a dimensione o colore).",
     "difficulty": "medium",
     "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-022",
+    "topic": "bio-chimica",
+    "question": "Quale ruolo possono avere alcuni network batterici (es. Phormidium, Hyphomonas, Chloroflexi) che colonizzano le superfici delle microplastiche?",
+    "suggestion": "Pensa alle molecole di cui questi batteri sono specialisti.",
+    "options": [
+      "Riducono la densità delle particelle rendendole più galleggianti e stabili in superficie",
+      "Degradano gli idrocarburi disciolti ma non hanno alcun effetto sulle microplastiche stesse",
+      "Degradano gli idrocarburi e possono accelerare la degradazione delle microplastiche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sulle superfici crescono biofilm di network batterici specializzati nella degradazione degli idrocarburi (Phormidium, Hyphomonas, Chloroflexi, Myxococcales), che possono accelerare la degradazione delle microplastiche.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-023",
+    "topic": "bio-chimica",
+    "question": "Come si distinguono i valori di inquinamento medio ed elevato da microplastiche lungo le coste?",
+    "suggestion": "Le due soglie sono espresse in elementi per kg.",
+    "options": [
+      "Medio tra 1 e 100 elementi per kg, elevato tra 100 e 400 elementi per kg",
+      "Medio tra 100 e 400 elementi per kg, elevato tra 400 e 1000 elementi per kg",
+      "Medio tra 0.05 e 0.9 elementi per m³, elevato tra 1 e 100 elementi per m³"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sulle coste i valori di inquinamento medio sono tra 1 e 100 elementi per kg, quelli elevati tra 100 e 400 elementi per kg; i valori in elementi per m³ si riferiscono invece al carico dei fiumi.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-024",
+    "topic": "bio-chimica",
+    "question": "In quali comparti dell'ambiente marino si distribuiscono le microplastiche?",
+    "suggestion": "Non restano confinate a un solo livello del mare.",
+    "options": [
+      "Solo alla superficie del mare, dove restano intrappolate dalla tensione superficiale",
+      "Alla superficie del mare, nella colonna d'acqua e sui sedimenti del fondale",
+      "Esclusivamente nei sedimenti del fondale, dove precipitano per la loro densità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'ambiente marino le microplastiche si trovano alla superficie del mare, all'interno della colonna d'acqua e sui sedimenti del fondale.",
+    "difficulty": "easy",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-025",
+    "topic": "bio-chimica",
+    "question": "Perché il polietilene tende a galleggiare mentre il polistirene tende ad affondare in acqua di mare?",
+    "suggestion": "Confronta la densità dei due polimeri con quella dell'acqua (~1 g/cm³).",
+    "options": [
+      "Perché il polietilene ha densità superiore a 1 g/cm³, il polistirene inferiore a 1 g/cm³",
+      "Perché il polietilene assorbe più acqua del polistirene, aumentando la propria densità",
+      "Perché il polistirene subisce sempre biofouling, mentre il polietilene non lo subisce mai",
+      "Perché il polietilene ha densità inferiore a 1 g/cm³, il polistirene superiore a 1 g/cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il polietilene ha densità di circa 0.81-0.85 g/cm³ (inferiore all'acqua, quindi galleggia), mentre il polistirene ha densità di circa 1.24-1.41 g/cm³ (superiore all'acqua, quindi affonda).",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-026",
+    "topic": "bio-chimica",
+    "question": "Cosa dimostra il ritrovamento di elevate quantità di ftalati nel grasso di Balaenoptera physalus?",
+    "suggestion": "I ftalati non sono prodotti dall'animale: da dove arrivano?",
+    "options": [
+      "Che i ftalati vengono prodotti dal metabolismo naturale dei grandi cetacei filtratori",
+      "Che gli additivi delle plastiche possono essere rilasciati e accumularsi nei tessuti animali",
+      "Che i ftalati rendono le microplastiche biodegradabili nell'apparato digerente dei grandi cetacei"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inquinanti e additivi vengono rilasciati dalle plastiche: elevate quantità di ftalati sono state rilevate nel grasso della balenottera comune (Balaenoptera physalus), a riprova dell'accumulo di additivi nei tessuti.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-027",
+    "topic": "bio-chimica",
+    "question": "Tra i metalli pesanti rilevati sulle microplastiche, quali raggiungono le concentrazioni più elevate (fino a circa 300 µg/g)?",
+    "suggestion": "Il gruppo più concentrato include ferro e zinco.",
+    "options": [
+      "Cadmio, cromo, cobalto e nichel, fino a circa 80 µg/g",
+      "Mercurio, arsenico, stagno e bario, fino a circa 300 µg/g",
+      "Alluminio, ferro, rame, piombo e zinco, fino a circa 300 µg/g"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alluminio, ferro, rame, piombo e zinco arrivano fino a circa 300 µg/g, mentre cadmio, cromo, cobalto e nichel raggiungono valori inferiori (fino a circa 80 µg/g).",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-028",
+    "topic": "bio-chimica",
+    "question": "Quali contaminanti organici persistenti sono stati rilevati adsorbiti sulle microplastiche?",
+    "suggestion": "Sono classici inquinanti idrofobici e persistenti, non nutrienti né biomolecole.",
+    "options": [
+      "Idrocarburi policiclici aromatici (IPA), PCB e DDT",
+      "Diossine, furani e idrocarburi leggeri volatili",
+      "Composti perfluorurati (PFAS), triclosan e microcistine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contaminanti adsorbiti sulle microplastiche il deck cita IPA (1076-3007 ng/g), PCB (31-605 ng/g) e DDT (2-106 ng/g), oltre a pesticidi organoclorurati.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-029",
+    "topic": "bio-chimica",
+    "question": "Cosa evidenzia l'ECHA riguardo agli oltre 400 additivi e pigmenti presenti nelle plastiche?",
+    "suggestion": "Molti hanno effetti sul sistema ormonale e non vengono rilasciati tutti in una volta.",
+    "options": [
+      "Che sono tutti biodegradabili e vengono eliminati rapidamente dall'ambiente marino",
+      "Che molti sono disruttori endocrini (EDCs) e vengono rilasciati lentamente dalle plastiche",
+      "Che nessuno è registrato dal REACH perché prodotti in quantità inferiori a 100 t/anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ECHA segnala oltre 400 additivi/pigmenti, molti registrati dal REACH e prodotti in più di 100 t/anno; molti sono disruttori endocrini (EDCs) rilasciati lentamente dalle plastiche.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-030",
+    "topic": "bio-chimica",
+    "question": "Perché densità, biofouling e flocculazione determinano quale tipologia di organismi viene danneggiata dalle microplastiche?",
+    "suggestion": "Questi fattori decidono dove finiscono fisicamente le particelle.",
+    "options": [
+      "Perché modificano il colore delle particelle, rendendole visibili solo ad alcuni predatori",
+      "Perché degradano chimicamente le particelle, che diventano tossiche solo per alcune specie",
+      "Perché determinano dove si collocano le particelle nella colonna d'acqua e nei sedimenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tipologia di organismi danneggiati dipende da densità, biofouling e flocculazione: questi fattori regolano la posizione delle particelle (superficie, colonna d'acqua, fondale) e quindi quali gruppi trofici le incontrano.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-031",
+    "topic": "bio-chimica",
+    "question": "Quali gruppi ecologici rientrano tra le principali classi di organismi danneggiati dalle microplastiche?",
+    "suggestion": "Il danno non riguarda solo i predatori o solo i produttori primari.",
+    "options": [
+      "Detritivori, filtratori, organismi planctonici, pesci, uccelli e mammiferi marini",
+      "Esclusivamente predatori apicali come tonni, odontoceti e grandi uccelli marini",
+      "Soltanto produttori primari come alghe, cianobatteri e diatomee fotosintetiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le principali classi danneggiate comprendono detritivori (policheti, anfipodi, crostacei), filtratori (cetacei, molluschi, oloturie), organismi planctonici, pesci, uccelli marini e mammiferi marini.",
+    "difficulty": "easy",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-032",
+    "topic": "bio-chimica",
+    "question": "Perché i modelli di accumulazione di contaminanti come i PCB in Arenicola marina devono oggi essere aggiornati?",
+    "suggestion": "C'è una nuova via di ingresso dei contaminanti legata ai sedimenti.",
+    "options": [
+      "Perché i PCB sono stati vietati e non contribuiscono più all'accumulo nei sedimenti",
+      "Perché Arenicola marina ha smesso di ingerire sedimenti a causa dell'inquinamento",
+      "Perché il biofouling impedisce ormai ai contaminanti di legarsi stabilmente alle microplastiche",
+      "Perché devono includere il contributo dell'ingestione di micro e nanoplastiche contaminate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lo schema di accumulazione dei PCB in Arenicola marina è stato ampliato per includere l'ingestione di microplastiche contenute nei sedimenti: i modelli devono ora considerare il contributo di micro e nanoplastiche.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-033",
+    "topic": "bio-chimica",
+    "question": "In quale condizione si verifica l'accumulo di microplastiche lungo le coste?",
+    "suggestion": "Coincide con la fase in cui la spiaggia guadagna sedimento, non con quella in cui lo perde.",
+    "options": [
+      "Durante le fasi di erosione della spiaggia, quando la sabbia viene asportata dal moto ondoso",
+      "Durante i periodi di crescita della spiaggia, quando essa si accresce con nuovi apporti di sabbia",
+      "Durante le mareggiate invernali, che disperdono in mare le particelle depositate sulla linea di battigia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sulle coste l'accumulo di microplastiche si osserva quando c'è un periodo di crescita della spiaggia, cioè quando la spiaggia si accresce trattenendo nuovi apporti.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-034",
+    "topic": "bio-chimica",
+    "question": "Da quali fonti provengono molte delle microfibre plastiche disperse nell'ambiente?",
+    "suggestion": "Pensa ai tessuti sintetici lavati e a dove finiscono le acque reflue.",
+    "options": [
+      "Da fibre di riciclo (es. pile) e dagli impianti di depurazione delle acque urbane",
+      "Dalla fotodegradazione atmosferica dei polimeri, che condensano poi in microfibre",
+      "Dalla sintesi diretta di nanoparticelle ingegnerizzate da parte dell'industria tessile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il deck cita le fibre da riciclo (es. pile) e le fibre disperse dagli impianti di depurazione delle acque di una metropoli (Parigi) come fonti di microfibre.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-035",
+    "topic": "bio-chimica",
+    "question": "Cosa avviene alle superfici delle plastiche durante i processi di alterazione e frammentazione?",
+    "suggestion": "Non restano identiche a quelle del polimero vergine.",
+    "options": [
+      "Diventano perfettamente lisce e impermeabili, riducendo l'adesione di sostanze esterne",
+      "Si ricoprono di uno strato biodegradabile che le protegge da ulteriori frammentazioni",
+      "Vengono modificate, cambiando le proprietà di interazione con l'ambiente circostante"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante l'alterazione e la frammentazione le superfici delle plastiche si modificano, cambiandone le proprietà e favorendo interazioni (come l'adsorbimento) con l'ambiente.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-036",
+    "topic": "bio-chimica",
+    "question": "Oltre ai batteri, quali organismi fotosintetici colonizzano le superfici delle microplastiche formando nuovi habitat?",
+    "suggestion": "Sono microrganismi acquatici capaci di fotosintesi.",
+    "options": [
+      "Funghi saprofiti e muffe filamentose specializzate nella degradazione dei polimeri plastici",
+      "Cianobatteri fotosintetici (es. Phormidium, Rivularia) e diatomee (es. Navicula, Nitzschia)",
+      "Protozoi ciliati e rotiferi che si nutrono direttamente delle particelle plastiche sospese"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra i colonizzatori dei biofilm ci sono cianobatteri fotosintetici (Phormidium, Rivularia) e diatomee (Navicula, Nitzschia, Sellaphora, Stauroneis, Chaetoceros), che contribuiscono a creare nuovi habitat.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-037",
+    "topic": "bio-chimica",
+    "question": "Quale polimero assorbe più facilmente gli esaclorocicloesani (HCH)?",
+    "suggestion": "Non è quello più affine ai PAH aromatici né a quelli più idrofobici.",
+    "options": [
+      "Il polipropilene",
+      "Il polistirene",
+      "Il polietilene"
+    ],
+    "correctIndex": 0,
+    "explanation": "La natura del polimero ha un effetto selettivo: il polipropilene assorbe più facilmente gli esaclorocicloesani (HCH), mentre il polistirene predilige gli aromatici e il polietilene i PAH più idrofobici.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-038",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza tra gli 'additivi' e i 'contaminanti' associati alle microplastiche?",
+    "suggestion": "Una categoria è messa dentro in fabbrica, l'altra viene catturata dall'esterno.",
+    "options": [
+      "Gli additivi sono adsorbiti dall'ambiente, i contaminanti sono aggiunti durante la produzione",
+      "Gli additivi sono sempre inorganici, mentre i contaminanti sono sempre di natura organica",
+      "Gli additivi si trovano solo nelle plastiche primarie, i contaminanti solo in quelle secondarie",
+      "Gli additivi sono aggiunti durante la produzione, i contaminanti sono adsorbiti dall'ambiente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gli additivi (es. bisfenolo A, ftalati, PBDE) sono incorporati nella plastica in fase di produzione, mentre i contaminanti (es. IPA, PCB, DDT) vengono adsorbiti dall'ambiente sulla superficie delle particelle.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-039",
+    "topic": "bio-chimica",
+    "question": "A quale categoria di additivi appartiene l'octabenzone rilevato sulle microplastiche?",
+    "suggestion": "Serve a schermare il polimero da un tipo di radiazione.",
+    "options": [
+      "Ai plasticizzanti, che aumentano la flessibilità e la lavorabilità del materiale",
+      "Agli antiossidanti, che rallentano l'ossidazione del polimero nel corso del tempo",
+      "Ai filtri UV, che proteggono il polimero dalla degradazione da radiazione solare"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'octabenzone è citato tra i filtri UV, additivi che proteggono il polimero dalla degradazione indotta dalla radiazione ultravioletta.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-040",
+    "topic": "bio-chimica",
+    "question": "Perché il tipo di corona che riveste le nanoplastiche è biologicamente rilevante?",
+    "suggestion": "La corona condiziona il modo in cui la particella entra nella cellula.",
+    "options": [
+      "Perché ne aumenta la densità, facendole precipitare rapidamente sui sedimenti del fondale",
+      "Perché influenza il meccanismo con cui le nanoparticelle penetrano all'interno delle cellule",
+      "Perché le rende biodegradabili, permettendone la digestione da parte degli enzimi digestivi cellulari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le nanoparticelle penetrano nelle cellule con meccanismi diversi (passivo per osmosi, attivo mediato da recettori) che dipendono anche dal tipo di corona che le riveste.",
+    "difficulty": "hard",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-041",
+    "topic": "bio-chimica",
+    "question": "Perché organismi detritivori come Arenicola marina sono particolarmente esposti alle microplastiche?",
+    "suggestion": "Conta il modo in cui si procurano il cibo dal fondale.",
+    "options": [
+      "Perché ingeriscono i sedimenti, in cui le microplastiche tendono ad accumularsi",
+      "Perché filtrano grandi volumi d'acqua, trattenendo le particelle in sospensione",
+      "Perché predano zooplancton contaminato, concentrando le particelle lungo la catena"
+    ],
+    "correctIndex": 0,
+    "explanation": "I detritivori come Arenicola marina si nutrono ingerendo i sedimenti, dove le microplastiche si accumulano; per questo ne assumono quantità rilevanti (le altre modalità descrivono filtratori e predatori).",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'additivo delle plastiche rilevato con una media di 35 ng/g, ma con valori anomali fino a 700 ng/g, è il ___ A.",
+    "answers": [["bisfenolo", "bisphenol"]],
+    "suggestion": "Un noto interferente endocrino usato per plastiche e resine.",
+    "explanation": "Il bisfenolo A (BPA), rilevato in media a 35 ng/g (fino a 700 ng/g), è un additivo delle plastiche e un noto disruttore endocrino.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Elevate quantità di ___ sono state rilevate nel grasso di Balaenoptera physalus, a dimostrazione del rilascio di additivi negli organismi.",
+    "answers": [["ftalati"]],
+    "suggestion": "Additivi plasticizzanti che rendono flessibili le plastiche.",
+    "explanation": "Nel grasso della balenottera comune (Balaenoptera physalus) sono state rilevate elevate quantità di ftalati, plasticizzanti rilasciati dalle plastiche.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Molti additivi delle plastiche sono sostanze registrate dal regolamento europeo ___, prodotte in oltre 100 tonnellate all'anno.",
+    "answers": [["REACH"]],
+    "suggestion": "L'acronimo del regolamento UE sulle sostanze chimiche.",
+    "explanation": "Oltre 400 additivi e pigmenti sono impiegati nelle plastiche; molti sono registrati dal regolamento REACH e prodotti in più di 100 t/anno, e molti sono disruttori endocrini.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il processo inverso del biofouling, che permette alle microplastiche di tornare in superficie, è detto ___.",
+    "answers": [["de-fouling", "defouling", "de fouling"]],
+    "suggestion": "Ha un prefisso che indica la rimozione dello strato biologico.",
+    "explanation": "Il de-fouling è il processo inverso del biofouling: riduce la densità acquisita e consente alle microplastiche di risalire in superficie.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Oltre alla densità e al biofouling, il processo di aggregazione in fiocchi che concorre a determinare quali organismi vengono danneggiati è la ___.",
+    "answers": [["flocculazione"]],
+    "suggestion": "Aggregazione delle particelle in 'fiocchi' che ne modifica il comportamento in acqua.",
+    "explanation": "La tipologia di organismi danneggiati dipende da densità, biofouling e flocculazione, cioè l'aggregazione delle particelle in fiocchi che ne influenza la distribuzione.",
+    "difficulty": "medium",
+    "source": "Microplastiche.pptx"
+  },
+  {
+    "id": "bci-micro-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'enorme accumulo di rifiuti plastici che si forma nell'Oceano Pacifico è noto come Great Pacific garbage ___.",
+    "answers": [["patch"]],
+    "suggestion": "Termine inglese che indica una 'chiazza' o zona di accumulo.",
+    "explanation": "Il Great Pacific garbage patch è una vasta area di accumulo di rifiuti plastici nell'Oceano Pacifico, esempio macroscopico dell'inquinamento da plastiche.",
+    "difficulty": "easy",
+    "source": "Microplastiche.pptx"
   }
 ]

@@ -362,5 +362,369 @@
     "explanation": "Si riteneva che i sistemi naturali trasformassero le sostanze in sostanze innocue già presenti in natura, e che la diluizione le portasse a livelli non pericolosi.",
     "difficulty": "easy",
     "source": "Aneggi (2) — Destino degli inquinanti.pdf"
+  },
+  {
+    "id": "bci-destino-016",
+    "topic": "bio-chimica",
+    "question": "Cosa si intende per sostanza \"persistente\" secondo il corso?",
+    "suggestion": "Pensa alla capacità di resistere nel tempo agli agenti naturali.",
+    "options": [
+      "Una sostanza che si diluisce rapidamente fino a concentrazioni non pericolose",
+      "Una sostanza che resiste a lungo all'azione di luce, acqua, aria e microrganismi",
+      "Una sostanza trasformata dai sistemi naturali in composti innocui presenti in natura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una sostanza è persistente quando resiste per lunghi periodi all'azione della luce, dell'acqua, dell'aria o dei microrganismi, e proprio per questo non viene assimilata dai sistemi naturali.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.2"
+  },
+  {
+    "id": "bci-destino-017",
+    "topic": "bio-chimica",
+    "question": "In quale periodo divenne chiaro che molte sostanze non vengono assimilate dall'ambiente perché persistenti?",
+    "suggestion": "Sono i decenni in cui esplose l'attenzione ambientale del dopoguerra.",
+    "options": [
+      "All'inizio dell'Ottocento",
+      "Negli anni '20 e '30",
+      "Negli anni '90 e 2000",
+      "Negli anni '60 e '70"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fu negli anni '60 e '70 che divenne chiaro che molte sostanze restano nell'ambiente perché persistenti, superando l'idea che la sola diluizione risolvesse l'inquinamento.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.2"
+  },
+  {
+    "id": "bci-destino-018",
+    "topic": "bio-chimica",
+    "question": "Quale elenco riporta correttamente esempi di agenti persistenti citati dal corso?",
+    "suggestion": "Pensa a pesticidi, gas refrigeranti e composti clorurati industriali.",
+    "options": [
+      "Ossigeno, azoto, anidride carbonica e vapore acqueo",
+      "DDT, CFC, forme tossiche del mercurio, PCB e diossine",
+      "Cloruro di sodio, glucosio, urea e bicarbonato di sodio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra gli agenti persistenti il corso cita pesticidi come il DDT, i CFC usati come refrigeranti, le forme tossiche del mercurio elementare, i PCB e le diossine.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.2"
+  },
+  {
+    "id": "bci-destino-019",
+    "topic": "bio-chimica",
+    "question": "A quale impiego erano associati i CFC citati tra gli agenti persistenti?",
+    "suggestion": "Un uso legato al freddo e alla refrigerazione.",
+    "options": [
+      "Erano impiegati come pesticidi agricoli",
+      "Erano impiegati come catalizzatori industriali",
+      "Erano impiegati come fluidi refrigeranti"
+    ],
+    "correctIndex": 2,
+    "explanation": "I CFC (clorofluorocarburi) erano sostanze utilizzate come fluidi refrigeranti; la loro persistenza li ha resi un problema ambientale.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.2"
+  },
+  {
+    "id": "bci-destino-020",
+    "topic": "bio-chimica",
+    "question": "Nello schema della crescita di un inquinante, cosa segue la \"dispersione non omogenea\"?",
+    "suggestion": "L'inquinante finisce per accumularsi dove c'è vita.",
+    "options": [
+      "La concentrazione negli organismi viventi",
+      "La diluizione uniforme in tutti i comparti ambientali",
+      "La degradazione chimica spontanea della sostanza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nello schema, persistenza e liberazione portano a crescita e dispersione non omogenea, che culmina nella concentrazione negli organismi viventi.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.3"
+  },
+  {
+    "id": "bci-destino-021",
+    "topic": "bio-chimica",
+    "question": "In cosa consiste la strategia della chimica verde?",
+    "suggestion": "Agisce a monte, cambiando il processo produttivo stesso.",
+    "options": [
+      "Nel recuperare a valle gli inquinanti già generati dal processo produttivo industriale",
+      "Nel diluire i sottoprodotti tossici fino a concentrazioni non pericolose",
+      "Nel riformulare i processi sintetici così da non generare sottoprodotti tossici"
+    ],
+    "correctIndex": 2,
+    "explanation": "La chimica verde riformula i processi sintetici in modo che non generino sottoprodotti tossici, spostando l'intervento all'inizio della catena; il recupero a valle descrive invece l'end of the pipe.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.6"
+  },
+  {
+    "id": "bci-destino-022",
+    "topic": "bio-chimica",
+    "question": "Rispetto all'end of the pipe, dove sposta l'intervento la chimica verde?",
+    "suggestion": "Non alla fine del tubo, ma dove tutto comincia.",
+    "options": [
+      "Alla fine del processo, sui rifiuti già prodotti",
+      "All'inizio della catena produttiva",
+      "Durante il trasporto e lo stoccaggio dei rifiuti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La chimica verde sposta l'intervento all'inizio della catena, prevenendo la formazione dei sottoprodotti tossici, mentre l'end of the pipe agisce a valle sui rifiuti già generati.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.6"
+  },
+  {
+    "id": "bci-destino-023",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza di fondo tra \"end of the pipe\" e chimica verde?",
+    "suggestion": "Una recupera ciò che è già stato prodotto, l'altra evita di produrlo.",
+    "options": [
+      "L'end of the pipe previene la formazione dei rifiuti, mentre la chimica verde li recupera a valle",
+      "L'end of the pipe recupera i rifiuti già prodotti, la chimica verde ne previene la formazione",
+      "Entrambe agiscono solo sui rifiuti già dispersi nell'ambiente, ma con costi diversi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'end of the pipe si basa sul recupero dei rifiuti già generati; la chimica verde ne previene la formazione riformulando il processo. La prima opzione inverte i due approcci.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf pp.4-6"
+  },
+  {
+    "id": "bci-destino-024",
+    "topic": "bio-chimica",
+    "question": "Quali sono i compiti fondamentali della chimica ambientale?",
+    "suggestion": "Prima riconoscere le sostanze, poi seguirle nel tempo e infine valutarne le conseguenze.",
+    "options": [
+      "Identificare e misurare le sostanze, studiarne destino ed effetti sull'ambiente",
+      "Sintetizzare nuove molecole, brevettarle e commercializzarle su scala industriale",
+      "Diluire gli scarichi, seppellire i rifiuti e monitorare i costi di smaltimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "La chimica ambientale identifica e misura le specie chimiche (naturali e antropiche), ne studia il destino (tempo di residenza, trasformazioni) e ne studia gli effetti sull'ambiente.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.9"
+  },
+  {
+    "id": "bci-destino-025",
+    "topic": "bio-chimica",
+    "question": "Cosa comprende lo studio del \"destino\" di una sostanza nell'ambiente?",
+    "suggestion": "Riguarda quanto a lungo resta e come cambia.",
+    "options": [
+      "Il suo prezzo di mercato e la sua disponibilità commerciale",
+      "Il suo tempo di residenza e le trasformazioni che subisce",
+      "Il suo colore, il suo odore e il suo stato fisico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studiare il destino di una sostanza significa valutarne il tempo di residenza e le trasformazioni che subisce nell'ambiente.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.9"
+  },
+  {
+    "id": "bci-destino-026",
+    "topic": "bio-chimica",
+    "question": "Qual è la prima fase nello studio di un caso di inquinamento?",
+    "suggestion": "Prima di misurare bisogna organizzare come raccogliere i dati.",
+    "options": [
+      "Validare i dati ai fini della difendibilità legale dei risultati",
+      "Valutare le trasformazioni più significative subite dalla sostanza",
+      "Progettare una strategia di campionamento e raccolta dati"
+    ],
+    "correctIndex": 2,
+    "explanation": "La prima fase è progettare un'opportuna strategia di campionamento e raccolta dati, prima di definire natura, estensione e livello dell'inquinamento.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
+  },
+  {
+    "id": "bci-destino-027",
+    "topic": "bio-chimica",
+    "question": "A quale fase corrisponde la definizione della \"natura\" dell'inquinamento?",
+    "suggestion": "Riguarda quali sostanze sono presenti, non quanto.",
+    "options": [
+      "All'analisi qualitativa",
+      "Alla mappatura dell'estensione",
+      "All'indagine quantitativa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Definire la natura dell'inquinamento (quali sostanze) corrisponde all'analisi qualitativa; l'estensione si definisce con la mappatura e il livello con l'indagine quantitativa.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
+  },
+  {
+    "id": "bci-destino-028",
+    "topic": "bio-chimica",
+    "question": "Con quale termine si indica la determinazione del \"livello\" dell'inquinamento?",
+    "suggestion": "Riguarda quanto inquinante è presente.",
+    "options": [
+      "Analisi qualitativa",
+      "Mappatura del territorio",
+      "Indagine quantitativa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il livello dell'inquinamento si stabilisce tramite l'indagine quantitativa, distinta dall'analisi qualitativa (natura) e dalla mappatura (estensione).",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
+  },
+  {
+    "id": "bci-destino-029",
+    "topic": "bio-chimica",
+    "question": "Perché lo studio delle trasformazioni di un inquinante è di importanza prioritaria?",
+    "suggestion": "Non tutte le trasformazioni riducono il rischio.",
+    "options": [
+      "Perché ogni trasformazione porta sempre a prodotti secondari innocui",
+      "Perché alcune trasformazioni possono generare derivati ancora più pericolosi",
+      "Perché le trasformazioni eliminano sempre e del tutto la sostanza dall'ambiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alcune sostanze si trasformano in prodotti innocui, ma esistono anche processi che trasformano un inquinante in un derivato ancora più pericoloso: per questo lo studio delle trasformazioni è prioritario.",
+    "difficulty": "hard",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
+  },
+  {
+    "id": "bci-destino-030",
+    "topic": "bio-chimica",
+    "question": "Cosa si valuta insieme alle trasformazioni più significative subite da una sostanza?",
+    "suggestion": "Quanto tempo la sostanza permane nei diversi comparti.",
+    "options": [
+      "Il costo di smaltimento in discarica controllata",
+      "La quota di mercato dei prodotti che la contengono",
+      "Il numero minimo di campionamenti da effettuare",
+      "Il tempo di residenza medio nei vari comparti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oltre alle trasformazioni più significative si valuta il conseguente tempo di residenza medio della sostanza nei vari comparti ambientali.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
+  },
+  {
+    "id": "bci-destino-031",
+    "topic": "bio-chimica",
+    "question": "Che tipo di relazione lega la distribuzione degli agenti chimici nell'ambiente e le loro proprietà chimico-fisiche?",
+    "suggestion": "Ciascuna delle due influenza l'altra.",
+    "options": [
+      "Nessuna relazione: sono aspetti del tutto indipendenti tra loro",
+      "Una relazione a senso unico: solo la distribuzione determina le proprietà chimico-fisiche",
+      "Una relazione reciproca: distribuzione e proprietà si influenzano a vicenda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distribuzione degli agenti chimici e proprietà chimico-fisiche sono legate da una relazione reciproca: le proprietà governano la distribuzione, e la distribuzione va letta alla luce delle proprietà.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.11"
+  },
+  {
+    "id": "bci-destino-032",
+    "topic": "bio-chimica",
+    "question": "Nello schema causale del corso, quali fenomeni esemplificano la fase \"trasformazioni e distribuzione nell'ambiente\"?",
+    "suggestion": "Riguardano quanto una sostanza dura e quanto si accumula.",
+    "options": [
+      "Solubilità e tensione di vapore",
+      "Persistenza e bioaccumulo",
+      "Tossicità ed effetti sulla riproduzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fase \"trasformazioni e distribuzione\" è esemplificata da persistenza e bioaccumulo; solubilità e tensione di vapore sono proprietà chimico-fisiche, mentre tossicità ed effetti sulla riproduzione sono effetti biologici.",
+    "difficulty": "hard",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.12"
+  },
+  {
+    "id": "bci-destino-033",
+    "topic": "bio-chimica",
+    "question": "All'azione di quali agenti naturali resistono le sostanze persistenti?",
+    "suggestion": "Elementi e organismi che normalmente degradano le sostanze.",
+    "options": [
+      "Luce, acqua, aria e microrganismi",
+      "Sali, acidi e basi presenti nel suolo",
+      "Temperatura, pressione e umidità atmosferica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le sostanze persistenti resistono per lunghi periodi all'azione della luce, dell'acqua, dell'aria o dei microrganismi, e per questo non vengono assimilate.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.2"
+  },
+  {
+    "id": "bci-destino-034",
+    "topic": "bio-chimica",
+    "question": "Le specie chimiche di cui si occupa la chimica ambientale sono di quale origine?",
+    "suggestion": "Non solo quelle prodotte dall'uomo.",
+    "options": [
+      "Solo di origine antropica",
+      "Solo di origine naturale",
+      "Sia naturale sia antropica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La chimica ambientale identifica e misura le specie chimiche sia naturali sia di origine antropica presenti nell'ambiente.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.9"
+  },
+  {
+    "id": "bci-destino-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le sostanze persistenti resistono per lunghi periodi all'azione della luce, dell'acqua, dell'aria o dei ___.",
+    "answers": [["microrganismi", "microorganismi"]],
+    "suggestion": "Organismi invisibili a occhio nudo che normalmente degradano le sostanze.",
+    "explanation": "Sono dette persistenti perché resistono a lungo anche all'azione dei microrganismi, oltre che di luce, acqua e aria.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.2"
+  },
+  {
+    "id": "bci-destino-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La chimica verde consiste nella riformulazione dei processi ___ in modo che non generino sottoprodotti tossici.",
+    "answers": [["sintetici", "sintetico"]],
+    "suggestion": "I processi di sintesi con cui si producono le sostanze.",
+    "explanation": "Riformulando i processi sintetici a monte si evita di generare sottoprodotti tossici, spostando l'intervento all'inizio della catena.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.6"
+  },
+  {
+    "id": "bci-destino-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra gli esempi di chimica verde vi è la sostituzione dei solventi organici con ___.",
+    "answers": [["acqua"]],
+    "suggestion": "Il solvente più comune e innocuo presente in natura.",
+    "explanation": "La chimica verde propone di sostituire i solventi organici con acqua, meno pericolosa per l'ambiente.",
+    "difficulty": "easy",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.6"
+  },
+  {
+    "id": "bci-destino-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Studiare il destino di una sostanza significa valutarne le trasformazioni e il tempo di ___ nei comparti ambientali.",
+    "answers": [["residenza"]],
+    "suggestion": "Indica quanto a lungo la sostanza permane in un comparto.",
+    "explanation": "Il destino di una sostanza comprende le trasformazioni che subisce e il tempo di residenza medio nei vari comparti.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf pp.9-10"
+  },
+  {
+    "id": "bci-destino-fill-016",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Definire la natura dell'inquinamento, cioè quali sostanze sono presenti, corrisponde all'analisi ___.",
+    "answers": [["qualitativa"]],
+    "suggestion": "Riguarda 'quali' sostanze, non 'quanto'.",
+    "explanation": "La natura dell'inquinamento si stabilisce con l'analisi qualitativa, mentre il livello si determina con l'indagine quantitativa.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
+  },
+  {
+    "id": "bci-destino-fill-017",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella fase \"trasformazioni e distribuzione\" dello schema, oltre alla persistenza il corso cita il ___.",
+    "answers": [["bioaccumulo"]],
+    "suggestion": "L'accumulo progressivo di una sostanza in un organismo.",
+    "explanation": "La fase trasformazioni e distribuzione nell'ambiente è esemplificata da persistenza e bioaccumulo.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.12"
+  },
+  {
+    "id": "bci-destino-fill-018",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Risalire all'origine dell'inquinamento significa distinguere un incidente isolato da un rilascio continuo da sorgente ___.",
+    "answers": [["puntiforme"]],
+    "suggestion": "Una sorgente localizzata in un punto preciso.",
+    "explanation": "Risalire all'origine significa capire se l'inquinamento deriva da un incidente isolato o da un rilascio continuo da una sorgente puntiforme.",
+    "difficulty": "medium",
+    "source": "Aneggi (2) — Destino degli inquinanti.pdf p.10"
   }
 ]

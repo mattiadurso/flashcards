@@ -344,5 +344,367 @@
     "explanation": "Dopo la seconda guerra mondiale il DDT divenne la soluzione universale: dal 1950 al 1980 furono prodotte 1,8 milioni di tonnellate.",
     "difficulty": "easy",
     "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-016",
+    "topic": "bio-chimica",
+    "question": "La DL50 (LD50) del DDT è di circa 115 mg/kg: cosa implica questo valore relativamente alto per l'uomo?",
+    "suggestion": "Una DL50 alta indica una bassa tossicità acuta.",
+    "options": [
+      "Un uomo di 60 kg dovrebbe ingerirne più di 8 g per rischiare la morte",
+      "Un uomo di 60 kg rischierebbe la morte già con pochi milligrammi ingeriti",
+      "Un uomo di 60 kg subirebbe effetti letali solo per contatto con la pelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "La DL50 di 115 mg/kg è relativamente alta: per avere il 50% di probabilità di morire un uomo di 60 kg dovrebbe ingerirne più di 8 g. Per questo il DDT era ritenuto poco tossico per i mammiferi.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-017",
+    "topic": "bio-chimica",
+    "question": "Su quale bersaglio molecolare agiscono il DDT e i piretroidi nel neurone dell'insetto?",
+    "suggestion": "Agiscono sulla trasmissione dell'impulso nervoso, non sulla trasmissione chimica della sinapsi.",
+    "options": [
+      "Sull'enzima acetilcolinesterasi (AChE) della sinapsi",
+      "Sul canale del sodio voltaggio-dipendente (Vg-Na+) presinaptico",
+      "Sul recettore nicotinico dell'acetilcolina della cellula postsinaptica"
+    ],
+    "correctIndex": 1,
+    "explanation": "DDT e piretroidi agiscono sul canale del sodio voltaggio-dipendente (Vg-Na+) del neurone presinaptico (resistenza kdr); organofosfati e carbammati invece inibiscono l'acetilcolinesterasi (AChE).",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-018",
+    "topic": "bio-chimica",
+    "question": "Nel caso del Borneo, quale catena di eventi seguì l'uso del DDT contro le zanzare della malaria?",
+    "suggestion": "Pensa agli effetti a catena sulla rete trofica, non a un avvelenamento diretto.",
+    "options": [
+      "Uccise le vespe parassite e i bruchi proliferarono divorando i tetti di paglia",
+      "Eliminò i gechi predatori e le zanzare, prive di nemici naturali, tornarono a diffondersi",
+      "Contaminò l'acqua potabile provocando direttamente un'epidemia di peste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il DDT uccise le vespe parassite del bruco mangia-paglia (i tetti crollarono) e, accumulandosi nei gechi mangiati dai gatti, uccise i gatti: i ratti proliferarono causando un focolaio di peste.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-019",
+    "topic": "bio-chimica",
+    "question": "Nella catena alimentare acquatica, come varia la concentrazione di DDT nei rapaci ittiofagi (falchi pescatori) rispetto all'acqua?",
+    "suggestion": "Ricorda il verso della biomagnificazione lungo i livelli trofici.",
+    "options": [
+      "È più bassa, perché il DDT si diluisce salendo di livello trofico",
+      "È simile, perché il DDT si distribuisce in modo uniforme nell'ecosistema",
+      "È molto più alta, circa 25 ppm contro 0,000003 ppm dell'acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per biomagnificazione la concentrazione sale da 0,000003 ppm nell'acqua a ~0,04 nello zooplancton, 0,5 nei pesci piccoli, 2 nei grandi e circa 25 ppm nei rapaci ittiofagi.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-020",
+    "topic": "bio-chimica",
+    "question": "A quale dose il DDT provoca già una diminuzione della fertilità negli uccelli, pur risultando letale solo a dosi molto più alte?",
+    "suggestion": "La riproduzione è compromessa molto prima della dose letale.",
+    "options": [
+      "A dosi di 10-15 mg/kg, ben prima della soglia tossica di 400 mg/kg",
+      "A dosi di 115 mg/kg, appena sotto la soglia tossica di 400 mg/kg",
+      "A dosi di 400 mg/kg, cioè alla stessa soglia della tossicità letale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il DDT è tossico per gli uccelli a 400 mg/kg, ma già a 10-15 mg/kg si osserva una diminuzione della fertilità legata all'assottigliamento del guscio delle uova.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-021",
+    "topic": "bio-chimica",
+    "question": "Da cosa sono causate principalmente le piogge acide?",
+    "suggestion": "Pensa a quale ossido è più abbondante e più solubile in acqua.",
+    "options": [
+      "Essenzialmente dai clorofluorocarburi (CFC) e in parte minore dall'anidride carbonica",
+      "Essenzialmente dagli ossidi d'azoto (NOx) e in parte minore dagli ossidi di zolfo (SOx)",
+      "Essenzialmente dagli ossidi di zolfo (SOx) e in parte minore dagli ossidi d'azoto (NOx)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le piogge acide sono causate essenzialmente dagli ossidi di zolfo (SOx), che formano H2SO4, e in parte minore dagli ossidi d'azoto (NOx), che formano HNO3.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-022",
+    "topic": "bio-chimica",
+    "question": "Perché gli ossidi di zolfo si depositano vicino alle zone di emissione mentre gli ossidi d'azoto viaggiano più lontano?",
+    "suggestion": "Confronta le costanti di Henry (solubilità) dei due gas.",
+    "options": [
+      "L'SO2 è molto solubile (K°H 1,2) e precipita presto, i NOx poco solubili (0,012) restano in atmosfera",
+      "L'SO2 è più leggero dell'aria e sale subito, i NOx più pesanti ricadono lontano trascinati dai venti",
+      "L'SO2 reagisce con l'ozono distruggendosi, mentre i NOx restano del tutto inerti in aria"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'SO2, molto solubile (K°H 1,2 mol/kg·bar), si deposita presto e vicino alle fonti (deposizioni secche); i NOx, meno solubili (K°H 0,012), restano più a lungo in atmosfera e si depositano più lontano.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-023",
+    "topic": "bio-chimica",
+    "question": "Cosa caratterizza l'inquinamento a scala regionale rispetto a quello locale?",
+    "suggestion": "Si colloca tra la scala locale e quella planetaria.",
+    "options": [
+      "Effetti a lungo raggio su centinaia di km2, che possono valicare i confini degli stati",
+      "Effetti confinati in poche decine di km2 attorno alla fonte di emissione",
+      "Effetti diffusi sull'intero pianeta tramite la circolazione atmosferica e oceanica globale"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'inquinamento a scala regionale ha effetti a lungo raggio su centinaia di km2 che possono valicare i confini degli stati; quello locale è confinato a decine di km2, quello planetario è globale.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-024",
+    "topic": "bio-chimica",
+    "question": "Quale tra questi è un esempio di inquinamento a scala regionale?",
+    "suggestion": "Cerca un fenomeno che valica i confini nazionali senza essere globale.",
+    "options": [
+      "Lo smog fotochimico da traffico cittadino e riscaldamento",
+      "I PFAS presenti nelle falde acquifere",
+      "Le piogge acide da centrali termoelettriche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Piogge acide (da centrali termoelettriche), radionuclidi da incidenti nucleari e particolato atmosferico sono esempi di scala regionale; smog fotochimico e PFAS nelle falde sono a scala locale.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-025",
+    "topic": "bio-chimica",
+    "question": "Con quali effetti sull'uomo sono stati ipoteticamente associati i disruttori endocrini come il DDT?",
+    "suggestion": "Pensa a effetti legati all'alterazione degli equilibri ormonali sessuali.",
+    "options": [
+      "Maggiore massa muscolare, densità ossea più alta e crescita accelerata negli adulti",
+      "Tumori a testicoli e seno, calo degli spermatozoi e pubertà precoce nelle femmine",
+      "Riduzione delle allergie, immunità più forte e migliore fertilità nella popolazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "È stato ipotizzato che i disruttori endocrini siano associati ad aumento di tumori a testicoli e seno, diminuzione degli spermatozoi, alterazioni del rapporto tra i sessi e pubertà precoce nelle femmine.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-026",
+    "topic": "bio-chimica",
+    "question": "Quale effetto dell'esposizione a tracce di DDT si osserva nei pesci maschi in acque inquinate da reflui?",
+    "suggestion": "Riguarda un'alterazione dello sviluppo sessuale.",
+    "options": [
+      "Un aumento della taglia e della velocità di accrescimento",
+      "Lo sviluppo di scaglie più spesse e maggiore resistenza",
+      "Femminizzazione o mascolinizzazione, con comparsa di ovotesti"
+    ],
+    "correctIndex": 2,
+    "explanation": "In acque inquinate da fognature e reflui industriali o zootecnici, l'esposizione a tracce di DDT causa femminizzazione o mascolinizzazione dei pesci maschi, con comparsa di ovotesti.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-027",
+    "topic": "bio-chimica",
+    "question": "Quale effetto del DDT è stato osservato nei gabbiani (Herring Gulls) dei Grandi Laghi?",
+    "suggestion": "Riguarda un'alterazione dello sviluppo sessuale dei maschi.",
+    "options": [
+      "Nidi più grandi e un maggiore successo riproduttivo delle coppie",
+      "Interferenza con lo sviluppo sessuale maschile e nidi occupati da due femmine",
+      "Migrazioni anticipate e abbandono precoce dei siti di nidificazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei gabbiani dei Grandi Laghi il DDT ha interferito con lo sviluppo sessuale maschile, con nidi occupati da due femmine; un'esposizione anche breve nei periodi critici dello sviluppo può avere conseguenze durature.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-028",
+    "topic": "bio-chimica",
+    "question": "Perché un'esposizione anche breve al DDT può avere conseguenze gravi e durature negli animali?",
+    "suggestion": "Pensa alla sensibilità delle fasi precoci dello sviluppo.",
+    "options": [
+      "Perché il DDT si accumula solo nell'età adulta, quando gli organi sono già formati",
+      "Perché in periodi critici dello sviluppo embrionale altera lo sviluppo in modo permanente",
+      "Perché provoca un avvelenamento acuto immediato che uccide rapidamente l'embrione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un'esposizione anche breve durante i periodi critici dello sviluppo embrionale può avere conseguenze a lungo termine, perché altera in modo permanente lo sviluppo (ad esempio sessuale) dell'organismo.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-029",
+    "topic": "bio-chimica",
+    "question": "In quale paese fu brevettato per la prima volta il DDT come insetticida, nel 1940?",
+    "suggestion": "È il paese dei laboratori Geigy dove lavorava Müller.",
+    "options": [
+      "Negli Stati Uniti",
+      "In Gran Bretagna",
+      "In Svizzera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il DDT fu brevettato nel 1940 in Svizzera (dove Müller lavorava alla Geigy), due anni dopo in Gran Bretagna e nel 1943 negli USA.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-030",
+    "topic": "bio-chimica",
+    "question": "L'idea che 'la soluzione all'inquinamento sia la diluizione' è smentita soprattutto da quale fenomeno?",
+    "suggestion": "Gli organismi possono concentrare ciò che l'ambiente diluisce.",
+    "options": [
+      "Dalla bioconcentrazione dei contaminanti negli organismi viventi",
+      "Dalla rapida degradazione dei contaminanti persistenti nell'acqua",
+      "Dalla totale insolubilità dei contaminanti, che li rende inerti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anche se diluiti nell'ambiente, i contaminanti persistenti vengono concentrati dagli organismi (bioconcentrazione) e lungo la catena alimentare: la diluizione non risolve il problema.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-031",
+    "topic": "bio-chimica",
+    "question": "Quale specie simbolo era a rischio di estinzione tra il 1960 e il 1970 a causa del DDT?",
+    "suggestion": "È l'uccello raffigurato nello stemma degli Stati Uniti.",
+    "options": [
+      "L'aquila calva (Bald Eagle), simbolo degli Stati Uniti",
+      "Il falco pellegrino, simbolo della fauna europea",
+      "Il condor delle Ande, simbolo del Sud America"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra il 1960 e il 1970 l'aquila calva (Bald Eagle), simbolo nazionale degli USA, era a rischio di estinzione per gli effetti del DDT sul guscio delle uova.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-032",
+    "topic": "bio-chimica",
+    "question": "Oltre ai POP, quali altri fenomeni sono citati come inquinamento a scala planetaria?",
+    "suggestion": "Cerca fenomeni che riguardano l'intera atmosfera terrestre.",
+    "options": [
+      "Lo smog fotochimico e i reflui zootecnici non gestiti",
+      "Il buco dell'ozono (NOx e CFC) e i gas serra",
+      "Le piogge acide e il particolato atmosferico"
+    ],
+    "correctIndex": 1,
+    "explanation": "A scala planetaria si citano i POP (DDT, policlorurati), il buco dell'ozono (NOx e CFC) e i gas serra; smog e reflui sono locali, piogge acide e particolato regionali.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-033",
+    "topic": "bio-chimica",
+    "question": "Attraverso quale trasformazione gli ossidi d'azoto contribuiscono alle piogge acide?",
+    "suggestion": "Pensa all'acido nitrico come prodotto finale.",
+    "options": [
+      "NO2 viene ridotto ad ammoniaca (NH3), che neutralizza l'acidità",
+      "NO2 reagisce con lo zolfo formando direttamente H2SO4",
+      "NO2 viene ossidato ad HNO3, che in acqua libera H+ e NO3-"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli ossidi d'azoto vengono ossidati (NO2 → HNO3); in acqua l'acido nitrico si dissocia in H+ e NO3-, contribuendo all'acidità delle piogge. Gli SOx danno invece H2SO4.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-034",
+    "topic": "bio-chimica",
+    "question": "Cosa permette ai POP di diffondersi su scala planetaria, lontano dal luogo di rilascio?",
+    "suggestion": "Pensa al trasporto atmosferico secondo la direzione dei venti.",
+    "options": [
+      "L'elevata solubilità in acqua, che li trasporta lungo i fiumi",
+      "La circolazione troposferica globale, che li trasporta in atmosfera",
+      "La rapida degradazione, che genera frammenti volatili e mobili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il trasporto atmosferico (circolazione troposferica globale, secondo la direzione dei venti) diffonde le sostanze persistenti su scala planetaria; è la persistenza e la volatilità, non la solubilità, a permetterlo.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Quando i POP entrano nella circolazione atmosferica globale saltando da una regione all'altra, si parla di '___ effect'.",
+    "answers": [["grasshopper", "grass hopper", "cavalletta"]],
+    "suggestion": "Il nome inglese richiama il salto di un insetto.",
+    "explanation": "Il 'grasshopper effect' descrive il trasporto a lunga distanza dei POP, che evaporano nelle regioni calde, entrano nella circolazione atmosferica globale e condensano in quelle fredde.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il libro 'Silent Spring' del 1962 fu scritto dalla biologa Rachel ___.",
+    "answers": [["carson"]],
+    "suggestion": "È il cognome dell'autrice statunitense.",
+    "explanation": "'Silent Spring' (1962) di Rachel Carson denunciò gli effetti ambientali dei pesticidi come il DDT, segnando la nascita della coscienza ambientalista.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Ossidandosi in atmosfera, gli ossidi di zolfo (SO2) formano acido ___, responsabile dell'acidità delle piogge.",
+    "answers": [["solforico"]],
+    "suggestion": "Ha formula H2SO4.",
+    "explanation": "L'SO2 viene ossidato ad H2SO4 (acido solforico), che in acqua si dissocia in 2H+ e SO4^2-, principale responsabile delle piogge acide.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "In Borneo l'accumulo di DDT nei gechi, mangiati dai gatti, provocò la morte dei gatti e un'epidemia di ___.",
+    "answers": [["peste"]],
+    "suggestion": "La stessa malattia diffusa storicamente dai ratti.",
+    "explanation": "Morti i gatti per il DDT accumulato nei gechi, i ratti proliferarono causando un focolaio di peste: un classico esempio di effetti a catena non previsti.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-016",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'inquinamento a scala regionale interessa aree dell'ordine di ___ di km2.",
+    "answers": [["centinaia"]],
+    "suggestion": "Un ordine di grandezza superiore alle decine di km2 della scala locale.",
+    "explanation": "La scala regionale riguarda effetti a lungo raggio su centinaia di km2, che possono valicare i confini degli stati; la scala locale è confinata a decine di km2.",
+    "difficulty": "medium",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-017",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il DDT fu sintetizzato per la prima volta nel ___ dal chimico tedesco O. Ziegler.",
+    "answers": [["1874"]],
+    "suggestion": "Molti decenni prima che se ne scoprisse l'uso come insetticida.",
+    "explanation": "Il DDT fu sintetizzato nel 1874 da O. Ziegler; solo nel 1939 Müller ne dimostrò l'efficacia come insetticida.",
+    "difficulty": "easy",
+    "source": "DDT 2026.pdf"
+  },
+  {
+    "id": "bci-ddt-fill-018",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella circolazione troposferica globale, le celle che trasportano l'aria a ridosso dell'equatore sono dette celle di ___.",
+    "answers": [["hadley"]],
+    "suggestion": "Prendono il nome dallo scienziato che le descrisse.",
+    "explanation": "La circolazione troposferica globale (celle di Hadley, celle di media latitudine, celle polari) trasporta i POP su scala planetaria secondo la direzione dei venti.",
+    "difficulty": "hard",
+    "source": "DDT 2026.pdf"
   }
 ]

@@ -392,5 +392,416 @@
     "explanation": "Alcuni esperimenti hanno dimostrato che i furani coinvolti negli incidenti presentavano una tossicità, su base grammo/grammo, 500 volte superiore rispetto a quella dei PCB puri.",
     "difficulty": "hard",
     "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-021",
+    "topic": "bio-chimica",
+    "question": "Qual è la differenza tra isomeri e congeneri dei PCB?",
+    "suggestion": "Uno dei due termini abbraccia tutti gli schemi di sostituzione possibili.",
+    "options": [
+      "Gli isomeri hanno un numero diverso di cloruri, mentre i congeneri hanno lo stesso numero in posizioni differenti",
+      "Gli isomeri comprendono tutti gli schemi di sostituzione, mentre i congeneri hanno solo numero di cloruri diverso",
+      "Gli isomeri hanno lo stesso numero di cloruri in posizioni diverse, mentre i congeneri comprendono tutti gli schemi di sostituzione",
+      "Gli isomeri differiscono per il numero di anelli, mentre i congeneri differiscono per la posizione dei cloruri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli isomeri hanno lo stesso numero di cloruri sostituiti ma in posizioni diverse; i congeneri sono tutti i composti ottenibili con ogni possibile schema di sostituzione (numero e posizione dei Cl), da cui i 209 congeneri dei PCB.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-022",
+    "topic": "bio-chimica",
+    "question": "In quali condizioni il benzene si trasforma in difenile, precursore dei PCB?",
+    "suggestion": "Servono temperature elevatissime e un catalizzatore metallico particolare.",
+    "options": [
+      "Riscaldato a 750 °C con un catalizzatore a base di piombo, con liberazione di H₂",
+      "Riscaldato a 750 °C con cloruro ferrico come catalizzatore, con liberazione di HCl",
+      "A temperatura ambiente con un catalizzatore a base di piombo, con liberazione di H₂",
+      "Riscaldato a 250 °C con cloruro di alluminio come catalizzatore, con liberazione di Cl₂"
+    ],
+    "correctIndex": 0,
+    "explanation": "A 750 °C, con catalizzatore a base di piombo, il benzene scinde i legami C-H e due anelli si uniscono a dare il difenile liberando H₂; il cloruro ferrico interviene invece nella successiva clorurazione del difenile.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-023",
+    "topic": "bio-chimica",
+    "question": "Nella numerazione degli atomi di carbonio di un PCB, a quale carbonio si assegna il numero 1?",
+    "suggestion": "Riguarda il legame che tiene uniti i due anelli.",
+    "options": [
+      "Al carbonio che porta il primo atomo di cloro sostituito lungo l'anello fenilico",
+      "Al carbonio di un anello che è legato a un carbonio dell'altro anello",
+      "Al carbonio più lontano dal legame che unisce i due anelli fenilici",
+      "Al carbonio che porta il sostituente cloro con il numero più alto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La numerazione inizia dal carbonio di un anello legato a un carbonio dell'altro anello (a cui si assegna l'1); gli altri carboni vengono poi numerati in sequenza attorno all'anello.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-024",
+    "topic": "bio-chimica",
+    "question": "Come si distinguono i sistemi chiusi dai sistemi aperti nell'impiego dei PCB?",
+    "suggestion": "In un caso il PCB è confinato in un apparecchio, nell'altro è disperso nel prodotto.",
+    "options": [
+      "I sistemi chiusi li impiegavano come additivi per vernici, quelli aperti come fluidi dielettrici nei trasformatori",
+      "I sistemi chiusi li disperdevano come ritardanti di fiamma, quelli aperti li sigillavano nei trasformatori elettrici di potenza",
+      "Entrambi li impiegavano come fluidi dielettrici sigillati all'interno dei trasformatori elettrici",
+      "I sistemi chiusi li usavano come fluidi dielettrici nei trasformatori, quelli aperti come additivi e ritardanti di fiamma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nei sistemi chiusi i PCB erano fluidi dielettrici confinati in apparecchiature elettriche (trasformatori); nei sistemi aperti erano additivi dispersi nel prodotto (antiparassitari, ritardanti di fiamma, isolanti, vernici), con maggiore rischio di rilascio ambientale.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-025",
+    "topic": "bio-chimica",
+    "question": "Come sono definite chimicamente le diossine?",
+    "suggestion": "Conta il numero di anelli, la loro planarità e gli atomi che li collegano.",
+    "options": [
+      "Una serie di 209 composti aromatici biciclici collegati direttamente da un legame carbonio-carbonio tra gli anelli",
+      "Una serie di 210 composti alifatici planari collegati da uno o due atomi di azoto",
+      "Una serie di 210 composti aromatici triciclici planari collegati da uno o due atomi di ossigeno",
+      "Una serie di 75 composti aromatici triciclici collegati da un singolo atomo di zolfo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le diossine sono 210 composti aromatici, triciclici e planari, collegati da uno o due atomi di ossigeno, con grado di clorurazione da 1 a 8; i 209 congeneri e la struttura biciclica sono invece propri dei PCB.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-026",
+    "topic": "bio-chimica",
+    "question": "Quali sono le tre principali fonti di esposizione dell'uomo alle diossine?",
+    "suggestion": "Una riguarda gli incidenti, una i lavoratori, una la popolazione generale.",
+    "options": [
+      "Accidentale, occupazionale e ambientale",
+      "Alimentare, respiratoria e cutanea",
+      "Industriale, agricola e domestica",
+      "Acuta, cronica e subcronica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le tre fonti principali sono quella accidentale (incidenti), quella occupazionale (lavoratori esposti, es. produzione di pesticidi) e quella ambientale, che interessa ampie fasce di popolazione soprattutto attraverso il cibo.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-027",
+    "topic": "bio-chimica",
+    "question": "Quali processi chimici che coinvolgono i cloruri rappresentano una fonte di diossine?",
+    "suggestion": "Distinguili dalle fonti legate alla combustione.",
+    "options": [
+      "La produzione di materie plastiche, la raffinazione del greggio di petrolio e la sintesi dell'ammoniaca",
+      "La produzione di composti organoclorurati, lo sbiancamento della pasta di legno e le cartiere",
+      "La combustione dei rifiuti urbani, gli incendi boschivi e le eruzioni vulcaniche",
+      "La fusione dei metalli ferrosi, la produzione del cemento e la combustione del legno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra le fonti chimiche che coinvolgono i cloruri rientrano la produzione di composti organoclorurati, lo sbiancamento della pasta di legno e le cartiere; combustioni, incendi ed eruzioni appartengono invece alla categoria dei processi di combustione.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-028",
+    "topic": "bio-chimica",
+    "question": "Quale categoria contribuisce con la percentuale maggiore alle emissioni di diossine da combustione?",
+    "suggestion": "È la categoria legata a caldaie, turbine e motori a combustione interna.",
+    "options": [
+      "Il trattamento e lo smaltimento dei rifiuti, con circa il 13%",
+      "La combustione non industriale, con circa il 10%",
+      "I processi produttivi industriali, con circa il 26%",
+      "La combustione industriale, con circa il 42%"
+    ],
+    "correctIndex": 3,
+    "explanation": "La combustione industriale (caldaie, turbine, motori a combustione interna, forni di processo) contribuisce con circa il 42%, davanti ai processi produttivi (26%), al trattamento rifiuti (13%) e alla combustione non industriale (10%).",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-029",
+    "topic": "bio-chimica",
+    "question": "Come si può evitare la formazione di diossina durante la combustione di sostanza organica in presenza di cloruri?",
+    "suggestion": "Il problema è la combustione incompleta: pensa a cosa la rende completa.",
+    "options": [
+      "Aggiungendo cloruri in eccesso in modo da saturare la reazione di combustione",
+      "Abbassando la temperatura di fiamma così da rallentare progressivamente la reazione di combustione",
+      "Assicurando una combustione completa con temperature di fiamma estremamente elevate",
+      "Interrompendo bruscamente la combustione prima del raffreddamento dei fumi"
+    ],
+    "correctIndex": 2,
+    "explanation": "La produzione di diossina è inevitabile bruciando sostanza organica in presenza di cloruri, ma si può evitare garantendo una combustione completa con temperature di fiamma estremamente elevate; l'abbassamento della temperatura ne favorisce invece la formazione.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-030",
+    "topic": "bio-chimica",
+    "question": "Come variano le proprietà dei clorobifenili passando dal bifenile al decaclorobifenile?",
+    "suggestion": "Più cloro significa molecola più pesante e più affine ai grassi.",
+    "options": [
+      "Diminuiscono peso molecolare, log Kow e punto di fusione, mentre aumenta la solubilità",
+      "Aumentano peso molecolare, log Kow e punto di fusione, mentre calano solubilità e tensione di vapore",
+      "Aumentano solubilità in acqua e tensione di vapore, mentre calano log Kow e peso molecolare",
+      "Restano invariati il log Kow e la solubilità, mentre aumentano la tensione di vapore e il punto di fusione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dal bifenile (PM 154, log Kow 3.76) al decaclorobifenile (PM 498, log Kow 8.20) crescono peso molecolare, log Kow e punto di fusione, mentre la solubilità in acqua e la tensione di vapore diminuiscono drasticamente.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-031",
+    "topic": "bio-chimica",
+    "question": "Del carico totale di PCB presente nell'ambiente, in quale comparto si trova la frazione maggiore?",
+    "suggestion": "Ne sono state trovate tracce persino sul fondo degli oceani.",
+    "options": [
+      "Circa il 60% nell'idrosfera, in particolare negli oceani",
+      "Circa il 39% nell'atmosfera come vapore e particolato",
+      "Circa il 60% nei terreni, legato alla frazione organica del suolo",
+      "Circa l'1% nell'idrosfera e la restante parte nell'atmosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Del carico ambientale di PCB circa il 60% si trova nell'idrosfera (soprattutto negli oceani), il 39% nei terreni e solo l'1% nell'atmosfera, che pur essendo poco carica è cruciale per il trasporto a distanza.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-032",
+    "topic": "bio-chimica",
+    "question": "Come si comportano i PCB rispetto all'assorbimento della luce?",
+    "suggestion": "Il fatto che siano incolori dice già qualcosa sul visibile.",
+    "options": [
+      "Assorbono fortemente la luce visibile e per questo appaiono intensamente colorati",
+      "Assorbono fortemente gli UV indipendentemente dal loro grado di clorurazione",
+      "Sono incolori, non assorbono la luce visibile e assorbono solo debolmente gli UV",
+      "Non assorbono né la luce visibile né gli UV in nessuna condizione ambientale"
+    ],
+    "correctIndex": 2,
+    "explanation": "I PCB sono incolori: non assorbono le radiazioni visibili e assorbono solo debolmente gli UV, con una lunghezza d'onda che dipende da numero e posizione dei cloruri; per questo le fototrasformazioni contano solo per i congeneri altamente clorurati.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-033",
+    "topic": "bio-chimica",
+    "question": "Perché la reazione dei PCB con i radicali OH· in atmosfera segue una cinetica di pseudo-primo ordine?",
+    "suggestion": "Uno dei due reagenti è presente a concentrazione praticamente immutata.",
+    "options": [
+      "Perché la concentrazione di OH· in atmosfera è approssimativamente costante nel tempo",
+      "Perché la concentrazione di PCB in fase vapore resta praticamente costante per tutta la durata della reazione",
+      "Perché la velocità di reazione non dipende dalla concentrazione dei reagenti",
+      "Perché i due reagenti sono sempre presenti alla stessa identica concentrazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "La reazione è del secondo ordine (velocità = k[PCB][OH·]), ma poiché la concentrazione di OH· in atmosfera è pressoché costante, la velocità dipende di fatto solo dai PCB e la cinetica diventa di pseudo-primo ordine.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-034",
+    "topic": "bio-chimica",
+    "question": "Perché i pentaclorobifenili hanno un tempo di vita nella stratosfera più lungo dei diclorobifenili?",
+    "suggestion": "La reattività cambia con il grado di clorurazione.",
+    "options": [
+      "Perché i congeneri meno clorurati sono in generale i meno reattivi",
+      "Perché i pentaclorobifenili sono più solubili in acqua e reagiscono più lentamente",
+      "Perché i diclorobifenili non reagiscono affatto con i radicali OH·",
+      "Perché i congeneri più clorurati sono meno reattivi e persistono più a lungo"
+    ],
+    "correctIndex": 3,
+    "explanation": "I congeneri maggiormente clorurati sono meno reattivi: i diclorobifenili hanno un tempo di vita in stratosfera di 5-11 giorni, mentre i pentaclorobifenili resistono 60-120 giorni.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-035",
+    "topic": "bio-chimica",
+    "question": "Perché all'aumentare del grado di cloro-sostituzione le diossine diventano più reattive alla fototrasformazione?",
+    "suggestion": "Osserva come si sposta la lunghezza d'onda di assorbimento nello spettro UV/VIS.",
+    "options": [
+      "Perché diminuisce la lunghezza d'onda di assorbimento e la molecola assorbe meno energia",
+      "Perché aumenta la lunghezza d'onda di assorbimento e la molecola assorbe più energia solare",
+      "Perché la molecola diventa più solubile in acqua e quindi più esposta alla luce",
+      "Perché la rottura del legame C-Cl diventa impossibile e l'energia si accumula"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle diossine, all'aumentare del numero di cloro-sostituenti cresce la lunghezza d'onda alla quale si osserva assorbimento: ciò significa maggiore assorbimento di energia solare e quindi maggiore reattività fotochimica.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-036",
+    "topic": "bio-chimica",
+    "question": "Come biotrasformano i mammiferi i PCB e le diossine grazie alle monoossigenasi?",
+    "suggestion": "Il prefisso 'mono' indica quanti ossigeni vengono incorporati.",
+    "options": [
+      "Incorporando due atomi di ossigeno e provocando l'apertura dell'anello aromatico",
+      "Rimuovendo un atomo di cloro per sostituirlo con un atomo di idrogeno",
+      "Incorporando un atomo di ossigeno molecolare e formando un anello con tre ossigeni",
+      "Legando direttamente l'acido glucuronico all'anello aromatico ancora intatto"
+    ],
+    "correctIndex": 2,
+    "explanation": "I mammiferi possiedono monoossigenasi che incorporano un solo atomo di ossigeno molecolare nel substrato, portando alla formazione di un anello contenente tre ossigeni; le diossigenasi batteriche ne incorporano invece due.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-037",
+    "topic": "bio-chimica",
+    "question": "Come rende la biotrasformazione batterica le diossine più facilmente eliminabili dall'organismo?",
+    "suggestion": "Pensa a come cambia la polarità e quindi la solubilità in acqua.",
+    "options": [
+      "Formando derivati idrossilici più polari e solubili in acqua, legabili all'acido glucuronico",
+      "Aumentando il numero di atomi di cloro e di conseguenza la lipofilicità del composto",
+      "Formando composti planari capaci di legarsi fortemente ai recettori cellulari",
+      "Trasformandole in dibenzofurani nettamente più stabili e ambientalmente persistenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biotrasformazione produce derivati idrossilici, più polari e quindi più solubili in acqua; questi si legano facilmente a composti come l'acido glucuronico formando molecole idrosolubili, che vengono poi eliminate dall'organismo.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-038",
+    "topic": "bio-chimica",
+    "question": "Cosa indica il valore di LD50 di circa 10 g/kg di una miscela di Aroclor nei ratti?",
+    "suggestion": "Un LD50 elevato corrisponde a una tossicità acuta contenuta.",
+    "options": [
+      "Che i PCB risultano nettamente più tossici del DDT a parità di dose ingerita",
+      "Che i PCB possiedono una tossicità acuta per l'uomo estremamente elevata",
+      "Che bastano piccolissime quantità ingerite per causare la morte degli animali",
+      "Che i PCB hanno una tossicità acuta piuttosto bassa, simile a quella dell'aspirina"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'elevato LD50 (~10 g/kg) indica una bassa tossicità acuta: la miscela di Aroclor è meno tossica del DDT e ha un valore LD50 simile a quello dell'aspirina; la preoccupazione maggiore riguarda gli effetti a lungo termine.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-039",
+    "topic": "bio-chimica",
+    "question": "Perché i PCB con atomi di cloro in posizione orto non riescono a diventare complanari?",
+    "suggestion": "Gli atomi di cloro sono molto più grandi degli idrogeni: pensa allo spazio che occupano.",
+    "options": [
+      "Perché il cloro in orto è troppo piccolo per bloccare la rotazione degli anelli",
+      "Perché l'ingombro sterico dei cloro in orto inibisce la rotazione degli anelli fenilici",
+      "Perché i cloro in orto rendono la molecola molto più solubile in acqua",
+      "Perché la posizione orto elimina del tutto il legame che unisce i due anelli"
+    ],
+    "correctIndex": 1,
+    "explanation": "I cloro in orto, adiacenti al legame tra i due anelli, sono molto più grandi degli idrogeni e con il loro ingombro sterico bloccano la rotazione: la molecola non riesce a diventare planare, a differenza dei PCB non-orto complanari, i più tossici.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-040",
+    "topic": "bio-chimica",
+    "question": "Cosa hanno mostrato i test sui porcellini d'India riguardo alla tossicità della 2,3,7,8-TCDD?",
+    "suggestion": "Il confronto è con uno dei congeneri di PCB più tossici, l'esaclorobifenile complanare.",
+    "options": [
+      "Che è 500 volte più tossica dei PCDF puri coinvolti negli incidenti",
+      "Che ha una tossicità del tutto identica a quella del 3,3',4,4',5,5'-esaclorobifenile",
+      "Che è 200 volte più tossica del 3,3',4,4',5,5'-esaclorobifenile complanare",
+      "Che è 200 volte meno tossica dell'octaclorodibenzodiossina"
+    ],
+    "correctIndex": 2,
+    "explanation": "I test sui porcellini d'India hanno mostrato che la 2,3,7,8-TCDD è 200 volte più tossica del 3,3',4,4',5,5'-esaclorobifenile, che è pur sempre uno dei congeneri di PCB più tossici per via della sua complanarità.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nell'esempio dei Grandi Laghi, la concentrazione di PCB nelle uova di gabbiano reale è di circa ___ ppm.",
+    "answers": [
+      [
+        "124"
+      ]
+    ],
+    "suggestion": "È il valore all'apice della catena, partendo da 0,0025 ppm nel fitoplancton.",
+    "explanation": "Nell'esempio di biomagnificazione dei Grandi Laghi si passa da 0,0025 ppm nel fitoplancton a 124 ppm nelle uova di gabbiano reale, circa 50000 volte di più.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella molecola della diossina, gli atomi di carbonio legati all'anello centrale sono chiamati carboni ___.",
+    "answers": [
+      [
+        "alfa",
+        "alpha"
+      ]
+    ],
+    "suggestion": "Sono le posizioni 1, 4, 6 e 9, contrapposte a quelle esterne.",
+    "explanation": "I carboni legati all'anello centrale (posizioni 1, 4, 6, 9) sono detti carboni alfa, mentre quelli esterni sono i carboni beta; le diossine più tossiche hanno 3-4 cloro in beta e pochi o nessuno in alfa.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Per gli oli contaminati da bassi livelli di PCB, l'alternativa all'incenerimento è la ___ chimica.",
+    "answers": [
+      [
+        "decomposizione"
+      ]
+    ],
+    "suggestion": "Consiste nel rimuovere il cloro con sodio o potassio.",
+    "explanation": "Per basse contaminazioni si ricorre alla decomposizione chimica: sodio o potassio rimuovono il cloro dai PCB sotto forma di NaCl o KCl, innocui, convertendo la porzione idrocarburica.",
+    "difficulty": "easy",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il tempo di vita (TL) è il tempo necessario perché la concentrazione di un composto si riduca a circa il ___ % del valore iniziale.",
+    "answers": [
+      [
+        "37"
+      ]
+    ],
+    "suggestion": "Corrisponde alla frazione 1/e del valore di partenza.",
+    "explanation": "Il tempo di vita TL è definito come il tempo necessario perché la concentrazione si riduca a 1/e, cioè a circa il 37% del valore iniziale; ne consegue che TL = 1/k'.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella sintesi industriale, il tetraclorobenzene reagisce con NaOH dando il 2,4,5-___.",
+    "answers": [
+      [
+        "triclorofenolo"
+      ]
+    ],
+    "suggestion": "È l'intermedio da cui, come reazione collaterale, si forma la diossina.",
+    "explanation": "Nella sintesi dell'acido 2,4,5-triclorofenossiacetico, il tetraclorobenzene reagisce con NaOH dando il 2,4,5-triclorofenolo; due anioni triclorofenossilici possono poi reagire tra loro formando la diossina.",
+    "difficulty": "hard",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
+  },
+  {
+    "id": "bci-pcb-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella diossina l'anello centrale a sei elementi porta due atomi di ___ in posizione para, come nella 1,4-diossina.",
+    "answers": [
+      [
+        "ossigeno"
+      ]
+    ],
+    "suggestion": "Sono gli stessi atomi che distinguono le PCDD dai dibenzofurani.",
+    "explanation": "L'anello centrale della diossina ha due atomi di ossigeno collocati in posizione para l'uno rispetto all'altro, come nella 1,4-diossina (p-diossina); i dibenzofurani ne hanno invece uno solo.",
+    "difficulty": "medium",
+    "source": "Aneggi (6) — PCB e diossine.pdf"
   }
 ]

@@ -361,5 +361,413 @@
     "explanation": "La concentrazione di saturazione dell'ossigeno disciolto si esprime con la legge di Henry (p = H·x), dove H è il coefficiente di Henry che dipende dalla temperatura.",
     "difficulty": "hard",
     "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-022",
+    "topic": "bio-chimica",
+    "question": "Che cosa comprende il ciclo idrologico dell'acqua all'interno dell'idrosfera terrestre?",
+    "suggestion": "Non è solo un movimento nello spazio: pensa anche ai cambiamenti di stato fisico.",
+    "options": [
+      "Soltanto i flussi di trasporto dell'acqua tra i vari luoghi di residenza dell'idrosfera",
+      "Soltanto le trasformazioni dell'acqua da uno stato fisico all'altro",
+      "I flussi tra i luoghi di residenza e le trasformazioni tra gli stati fisici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il ciclo idrologico consiste nella circolazione dell'acqua nell'idrosfera e include sia i flussi che la trasportano da un luogo di residenza all'altro, sia le trasformazioni da uno stato fisico all'altro.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-023",
+    "topic": "bio-chimica",
+    "question": "Cosa distingue le sostanze sospese da quelle galleggianti nelle acque usate?",
+    "suggestion": "Fai riferimento alla densità rispetto all'acqua e a cosa le tiene in sospensione.",
+    "options": [
+      "Le sospese sono insolubili di densità uguale o superiore all'acqua, tenute su dalla turbolenza",
+      "Le sospese sono composti insolubili più leggeri dell'acqua che restano stabilmente in superficie",
+      "Le sospese sono organismi animali e vegetali presenti naturalmente nell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le sostanze sospese sono insolubili di densità uguale o superiore a quella dell'acqua, mantenute in sospensione dalla turbolenza; le galleggianti (oli, grassi, schiume) sono insolubili più leggere dell'acqua, mentre gli organismi sono i materiali biologici.",
+    "difficulty": "easy",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-024",
+    "topic": "bio-chimica",
+    "question": "A quali obiettivi principali sono finalizzati i processi di trattamento delle acque reflue prima dello sversamento?",
+    "suggestion": "Non si tratta di diluire, ma di agire direttamente sulle sostanze inquinanti.",
+    "options": [
+      "Aumentare la temperatura e la salinità per accelerare la sedimentazione dei solidi",
+      "Diluire gli inquinanti aggiungendo grandi volumi di acqua pulita al refluo",
+      "Separare, trasformare e recuperare le sostanze inquinanti presenti nel refluo"
+    ],
+    "correctIndex": 2,
+    "explanation": "I processi di trattamento delle acque reflue sono finalizzati a separare, trasformare e recuperare le sostanze inquinanti, così da evitare che inquinino i corpi idrici recettori.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-025",
+    "topic": "bio-chimica",
+    "question": "Secondo la definizione data, in cosa consiste l'inquinamento idrico?",
+    "suggestion": "La chiave è che l'alterazione può dipendere sia dalla quantità sia dalla qualità delle sostanze immesse.",
+    "options": [
+      "Nella sola immissione di sostanze tossiche che pregiudicano in modo diretto la potabilità dell'acqua",
+      "Nel naturale arricchimento di sali minerali dovuto al lento dilavamento delle rocce e del suolo circostante il corpo idrico",
+      "In un'alterazione dell'ecosistema per immissione di sostanze che per quantità o qualità ne modificano le caratteristiche"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'inquinamento idrico è un'alterazione dell'ecosistema acquatico dovuta all'immissione di sostanze che, per quantità e/o qualità, ne modificano una o più caratteristiche pregiudicandone gli usi.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-026",
+    "topic": "bio-chimica",
+    "question": "Su quali due basi può essere classificato l'inquinamento idrico?",
+    "suggestion": "Da dove viene l'inquinante, oppure di che tipo è: due criteri diversi.",
+    "options": [
+      "In base alle sorgenti di origine oppure in base alla tipologia di inquinanti",
+      "In base alla temperatura oppure in base al pH del corpo idrico recettore",
+      "In base al colore oppure in base alla torbidità delle acque reflue immesse nel recettore"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'inquinamento idrico può essere classificato in base alle sorgenti da cui trae origine oppure in base alla tipologia degli inquinanti; temperatura, pH, colore e torbidità sono invece parametri di caratterizzazione.",
+    "difficulty": "easy",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-027",
+    "topic": "bio-chimica",
+    "question": "Perché il carico inquinante delle acque reflue agricole e zootecniche è più elevato di quello urbano, pur avendo composizione simile?",
+    "suggestion": "Il confronto riguarda in particolare alcune forme di un nutriente presente in quantità maggiore.",
+    "options": [
+      "Per la maggiore presenza di metalli pesanti derivanti dai concimi minerali largamente usati",
+      "Per l'elevata carica microbica con presenza di patogeni di origine ospedaliera",
+      "Per il particolare riferimento alle forme di azoto organico e ammoniacale presenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le acque reflue agricole e zootecniche contengono sostanze organiche e composti di azoto e fosforo come quelle urbane, ma con un carico inquinante più elevato, con particolare riferimento alle forme di azoto organico e ammoniacale.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-028",
+    "topic": "bio-chimica",
+    "question": "In che modo solfati e cloruri in concentrazioni elevate agiscono sul corpo idrico recettore?",
+    "suggestion": "Distingui gli effetti sulla salinità da quelli tossici o eutrofizzanti di altre sostanze.",
+    "options": [
+      "Esplicano una spiccata tossicità specifica in funzione della loro speciazione",
+      "Ne modificano la salinità senza esplicare tossicità, con possibili alterazioni irreversibili",
+      "Ne aumentano il potere eutrofizzante arricchendolo di nutrienti azotati e fosfatici in eccesso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Solfati e cloruri in concentrazioni elevate modificano la salinità dell'ambiente ricevente senza esplicare tossicità, ma possono produrre alterazioni irreversibili nei corpi idrici delicati a debole ricambio; la tossicità da speciazione è propria dei metalli, l'eutrofizzazione dei composti di azoto e fosforo.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-029",
+    "topic": "bio-chimica",
+    "question": "Perché i composti organici di sintesi rappresentano un problema di inquinamento particolare?",
+    "suggestion": "Pensa ai loro effetti sulla salute e a cosa comporta la loro scarsa degradabilità nel tempo.",
+    "options": [
+      "Sono rapidamente biodegradabili ma sottraggono comunque grandi quantità di ossigeno disciolto",
+      "Sono spesso cancerogeni e mutageni e si accumulano nella biosfera per la scarsa degradabilità",
+      "Incrementano rapidamente la salinità e la durezza dei corpi idrici riceventi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Molti composti organici di sintesi sono riconosciuti cancerogeni e mutageni anche a concentrazioni ridotte e, per la scarsa adattabilità ai meccanismi naturali di degradazione, si accumulano a vari livelli nella biosfera.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-030",
+    "topic": "bio-chimica",
+    "question": "Perché i solidi sospesi di origine organica vengono classificati tra le sostanze organiche biodegradabili?",
+    "suggestion": "Considera qual è il loro effetto prevalente sull'ambiente ricevente.",
+    "options": [
+      "Perché il loro effetto principale nell'ambiente ricevente è la sottrazione di ossigeno",
+      "Perché esplicano una tossicità specifica dipendente dal pH dell'ambiente ricevente",
+      "Perché derivano da attività estrattive e dalla lavorazione degli inerti minerali"
+    ],
+    "correctIndex": 0,
+    "explanation": "I solidi sospesi di origine organica sono biodegradabili e il loro effetto principale nell'ambiente ricevente è la sottrazione di ossigeno; quelli di origine metallica esplicano tossicità dipendente dal pH, quelli minerali derivano da attività estrattive.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-031",
+    "topic": "bio-chimica",
+    "question": "Oltre a ridurre l'ossigeno disciolto, quale effetto tipico produce l'inquinamento termico di origine industriale?",
+    "suggestion": "Pensa a cosa favorisce l'alta temperatura nelle fognature e negli impianti, soprattutto d'estate.",
+    "options": [
+      "Favorisce fenomeni settici nelle fognature e deficienze di ossigeno negli impianti di depurazione",
+      "Aumenta la solubilità dell'ossigeno migliorando l'efficienza dei processi depurativi",
+      "Provoca la precipitazione dei metalli pesanti annullandone del tutto la tossicità"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'inquinamento termico, causato da scarichi ad elevata temperatura essenzialmente industriali, altera i processi biologici, favorisce fenomeni settici in fognatura e può causare deficienze di ossigeno negli impianti di depurazione, soprattutto nel periodo estivo.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-032",
+    "topic": "bio-chimica",
+    "question": "In quale caso l'inquinamento microbiologico delle acque reflue risulta particolarmente pericoloso?",
+    "suggestion": "Pensa a una fonte di reflui in cui possono essere presenti agenti patogeni particolarmente insidiosi.",
+    "options": [
+      "Quando i reflui provengono da industrie metallurgiche e da concerie con scarichi metallici",
+      "Quando i reflui contengono elevate concentrazioni di solventi organici cancerogeni",
+      "Quando i reflui provengono da ospedali per malattie infettive privi di accurata disinfezione"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'inquinamento microbiologico, legato agli scarichi urbani o zootecnici, è particolarmente pericoloso nel caso di reflui provenienti da ospedali o case di cura per malattie infettive che non effettuino un'accurata disinfezione.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-033",
+    "topic": "bio-chimica",
+    "question": "Cosa si può affermare con certezza sui composti fenolici presenti nelle acque superficiali?",
+    "suggestion": "Riflettono un'attività umana, e attenzione ai loro effetti sugli animali.",
+    "options": [
+      "Sono di origine naturale e derivano dalla decomposizione della materia vegetale",
+      "Sono di origine antropica e presentano elevata tossicità verso le specie animali",
+      "Sono di origine minerale e derivano dal dilavamento delle rocce del suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle acque superficiali la presenza di fenoli è certamente di origine antropica e i composti fenolici sono caratterizzati da elevata tossicità nei confronti delle specie animali.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-034",
+    "topic": "bio-chimica",
+    "question": "Quale caratteristica distingue gli oli minerali quanto a tossicità nelle acque superficiali?",
+    "suggestion": "Non sono i più tossici, ma incidono su un aspetto organolettico dell'acqua.",
+    "options": [
+      "Presentano un'elevata tossicità diretta anche quando sono del tutto privi di additivi",
+      "Non presentano elevata tossicità, salvo additivi, ma danno sapore e odore sgradevoli",
+      "Sono privi di effetti organolettici ma alterano in modo marcato il pH dell'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli oli minerali, derivati del petrolio, non presentano elevata tossicità a meno che non contengano additivi, ma conferiscono all'acqua sapore e odore sgradevoli.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-035",
+    "topic": "bio-chimica",
+    "question": "Qual è l'effetto principale dei grassi animali e vegetali sciolti in un corpo idrico?",
+    "suggestion": "Pensa a cosa succede all'interfaccia tra acqua e atmosfera, più che a effetti tossici.",
+    "options": [
+      "Alterano gli scambi gassosi tra atmosfera e liquido, senza tossicità diretta",
+      "Esplicano una marcata tossicità diretta sugli organismi acquatici presenti",
+      "Provocano un forte abbassamento del pH per formazione di acidi grassi liberi"
+    ],
+    "correctIndex": 0,
+    "explanation": "I grassi animali e vegetali hanno la caratteristica di alterare gli scambi gassosi tra atmosfera e liquido, ma non presentano problemi di tossicità diretta.",
+    "difficulty": "easy",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-036",
+    "topic": "bio-chimica",
+    "question": "Nell'ossidazione biologica della materia organica, a quale forma viene portato il carbonio ridotto?",
+    "suggestion": "Il carbonio raggiunge il suo stato energetico più basso, un gas ben noto.",
+    "options": [
+      "A carbonati insolubili che precipitano sul fondo del corpo idrico",
+      "A CO2, il suo stato energetico più basso, per azione metabolica dei microrganismi",
+      "A metano per fermentazione da parte dei batteri anaerobici facoltativi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel caso più semplice il carbonio ridotto della materia organica viene ossidato al suo stato energetico più basso, cioè CO2, attraverso l'azione metabolica di alcuni microrganismi, principalmente batteri.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-037",
+    "topic": "bio-chimica",
+    "question": "Cosa caratterizza i microrganismi facoltativi coinvolti nella biodegradazione?",
+    "suggestion": "Il termine suggerisce una certa versatilità rispetto alla disponibilità di ossigeno.",
+    "options": [
+      "Vivono esclusivamente in assenza di ossigeno libero nell'ambiente",
+      "Possono vivere sia in presenza sia in assenza di ossigeno libero",
+      "Necessitano sempre di assumere ossigeno libero dall'ambiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "I microrganismi facoltativi possono vivere in entrambe le condizioni: gli aerobici richiedono ossigeno libero, gli anaerobici vivono in sua assenza, i facoltativi si adattano a entrambe.",
+    "difficulty": "easy",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-038",
+    "topic": "bio-chimica",
+    "question": "Perché il BOD ultimo, a differenza del BOD a tempo finito, non dipende dalla temperatura?",
+    "suggestion": "Considera che a tempo infinito viene ossidata comunque tutta la stessa frazione di sostanza.",
+    "options": [
+      "Perché a tempo infinito i microrganismi cessano del tutto la loro attività metabolica",
+      "Perché esprime la misura indiretta di tutta la sostanza organica biodegradabile presente",
+      "Perché la temperatura condiziona solo la frazione azotata e non quella carboniosa ossidata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il BOD ultimo non dipende dalla temperatura perché rappresenta una misura indiretta di tutta la sostanza organica biodegradabile del campione; la temperatura influenza solo la velocità con cui il BOD si sviluppa nel tempo.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-039",
+    "topic": "bio-chimica",
+    "question": "Come si ottiene il valore del BOD5 di un campione?",
+    "suggestion": "Confronta la stessa grandezza misurata in due momenti diversi dell'incubazione.",
+    "options": [
+      "Ossidando chimicamente il campione a caldo con un ossidante forte in ambiente acido",
+      "Dalla differenza tra l'ossigeno disciolto misurato al tempo zero e dopo 5 giorni di incubazione",
+      "Misurando il carbonio organico totale prima e dopo l'aggiunta di batteri nitrificanti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il BOD5 si ottiene dalla differenza tra l'ossigeno disciolto misurato al tempo zero e quello misurato dopo un'incubazione di 5 giorni al buio a 20 °C (BOD5 = D1 - D2); l'ossidazione chimica a caldo è invece la base del COD.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-040",
+    "topic": "bio-chimica",
+    "question": "Cosa misura il COD e con quale modalità di ossidazione?",
+    "suggestion": "A differenza del BOD, l'ossidazione qui non è affidata a microrganismi.",
+    "options": [
+      "L'ossigeno necessario per ossidare biologicamente la sola frazione organica biodegradabile del campione",
+      "L'ossigeno per ossidare chimicamente sostanze organiche e inorganiche con un ossidante forte a caldo",
+      "La quantità totale di carbonio organico del campione convertita in CO2 per via enzimatica batterica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il COD rappresenta la quantità di ossigeno necessaria per ossidare chimicamente le sostanze organiche e inorganiche (biodegradabili e non) presenti nel campione, mediante un ossidante forte in ambiente acido e a caldo.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-041",
+    "topic": "bio-chimica",
+    "question": "Nella determinazione del COD, a quante moli di ossigeno corrisponde 1 mole di bicromato di potassio consumata?",
+    "suggestion": "È un valore superiore a 1: il fattore stechiometrico che collega ossidante e ossigeno.",
+    "options": [
+      "0,5 moli di O2",
+      "1 mole di O2",
+      "2 moli di O2",
+      "1,5 moli di O2"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tenendo conto che 1 mole di bicromato di potassio consumata corrisponde a 1,5 moli di O2, si risale al consumo di ossigeno del campione di acqua in esame.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-042",
+    "topic": "bio-chimica",
+    "question": "Nella determinazione del COD, come si individua il punto finale della titolazione del dicromato residuo?",
+    "suggestion": "Serve un indicatore che cambi colore quando lo ione bicromato scompare.",
+    "options": [
+      "Dalla variazione di colore dovuta all'indicatore ferroina alla scomparsa dello ione bicromato",
+      "Dalla comparsa di un precipitato bianco di cloruro di mercurio nel campione analizzato",
+      "Dallo sviluppo di gas che segnala il completo consumo dell'acido solforico aggiunto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il dicromato non reagito viene titolato con solfato ferroso-ammonico; la fine della titolazione, cioè la scomparsa dello ione bicromato, è segnalata dalla variazione di colore dovuta all'indicatore ferroina.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-043",
+    "topic": "bio-chimica",
+    "question": "Perché nei reflui industriali si preferisce spesso il COD al BOD5?",
+    "suggestion": "Nei reflui industriali la misura biologica può risultare poco affidabile.",
+    "options": [
+      "Perché il COD misura la sola frazione biodegradabile in modo più rapido e preciso",
+      "Perché il COD richiede cinque giorni di incubazione a 20 °C esattamente come il BOD5",
+      "Perché il BOD5 non è facilmente determinabile o è influenzato dai contaminanti presenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La misura del COD è significativa nei reflui industriali, dove il BOD5 non è facilmente determinabile o è influenzato dalla presenza di contaminanti (composti tossici o inibenti la biomassa); inoltre il COD è una prova rapida di poche ore.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel secondo contributo del BOD, l'ossidazione della frazione azotata della sostanza organica è detta ___.",
+    "answers": [["nitrificazione"]],
+    "suggestion": "È il processo che dà origine alla caratteristica 'gobba' nella curva del BOD.",
+    "explanation": "La nitrificazione è l'ossidazione della frazione azotata della sostanza organica e costituisce il secondo contributo del consumo di ossigeno nella curva del BOD.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nei corpi idrici il naturale processo di dissoluzione di nuovo ossigeno per scambio con l'atmosfera è detto ___.",
+    "answers": [["riossigenazione"]],
+    "suggestion": "È il fenomeno che compensa il consumo di ossigeno dovuto all'ossidazione biologica.",
+    "explanation": "La riossigenazione è il processo naturale di dissoluzione di nuovo ossigeno in acqua per effetto dello scambio con l'atmosfera; se non compensa il consumo si possono determinare condizioni anaerobiche.",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Dal punto di vista chimico gli oli e i grassi animali e vegetali sono ___.",
+    "answers": [["gliceridi"]],
+    "suggestion": "Quelli a basso peso molecolare sono liquidi (oli), quelli a elevato peso molecolare sono solidi (grassi).",
+    "explanation": "Oli e grassi animali e vegetali sono gliceridi: i gliceridi a basso peso molecolare sono liquidi (oli), quelli a elevato peso molecolare sono solidi (grassi).",
+    "difficulty": "medium",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra le misure indirette della sostanza organica, la sigla ___ indica il carbonio organico totale.",
+    "answers": [["toc"]],
+    "suggestion": "È l'acronimo inglese di Total Organic Carbon.",
+    "explanation": "Il TOC (carbonio organico totale) è una delle determinazioni analitiche indirette usate per valutare la sostanza organica, insieme a COD, TOD, BOD e ThOD.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I composti organici molto resistenti alla degradazione o demolizione biologica sono detti ___.",
+    "answers": [["refrattari"]],
+    "suggestion": "Sono spesso composti sintetizzati dall'uomo e raramente costituiscono una frazione significativa della massa organica.",
+    "explanation": "I composti molto resistenti alla degradazione biologica sono considerati refrattari; sono spesso di sintesi e raramente rappresentano una frazione significativa della massa organica totale.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella titolazione del dicromato residuo per il COD, il punto finale è segnalato dall'indicatore ___.",
+    "answers": [["ferroina"]],
+    "suggestion": "È l'indicatore che vira di colore quando scompare lo ione bicromato.",
+    "explanation": "La fine della titolazione del dicromato non reagito, con solfato ferroso-ammonico, è data dalla variazione di colore provocata dall'indicatore ferroina.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
+  },
+  {
+    "id": "bci-acque-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Se il campione per il BOD non contiene un'adeguata flora batterica, si introducono microrganismi mediante ___.",
+    "answers": [["inoculo"]],
+    "suggestion": "Questa aggiunta può a sua volta apportare una piccola quantità di sostanza organica di cui tener conto.",
+    "explanation": "Se il campione non contiene un'adeguata flora batterica atta a biodegradare la sostanza organica, occorre introdurla tramite inoculo, tenendo conto dell'eventuale apporto di sostanza organica.",
+    "difficulty": "hard",
+    "source": "Aneggi (8) — Qualità delle acque.pdf"
   }
 ]

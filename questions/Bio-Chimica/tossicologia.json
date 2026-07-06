@@ -360,5 +360,367 @@
     "explanation": "Tra i composti saggiati su Gambusia affinis, il resmethrin ha la LC50 piu bassa (6.93 g/L), quindi la maggiore tossicita, molto piu del malathion (200 g/L) e del deet (235.000 g/L).",
     "difficulty": "hard",
     "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-020",
+    "topic": "bio-chimica",
+    "question": "Nella curva dose-risposta, qual e la differenza tra NOAEL e LOAEL?",
+    "suggestion": "Uno segna la soglia senza effetti, l'altro la comparsa del primo effetto avverso.",
+    "options": [
+      "Il NOAEL e la dose minima con effetto avverso, il LOAEL la dose massima priva di effetti osservabili",
+      "Il NOAEL e il LOAEL indicano entrambi la dose che uccide il 50% degli organismi esposti",
+      "Il NOAEL e la dose massima senza effetti avversi osservabili, il LOAEL la dose minima con effetto avverso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il NOAEL (No Observed Adverse Effect Level) e la dose piu alta a cui non si osserva alcun effetto avverso; il LOAEL (Lowest Observed Adverse Effect Level) e la dose piu bassa a cui compare un effetto avverso. Nella curva il LOAEL sta subito sopra il NOAEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-021",
+    "topic": "bio-chimica",
+    "question": "Da quali parametri vengono calcolati indici di sicurezza come ADI, RfD e DNEL?",
+    "suggestion": "Non si parte dalla dose letale, ma dalle soglie di effetto avverso.",
+    "options": [
+      "Dalla LD50 e dalla LC50 misurate direttamente sulle popolazioni animali esposte",
+      "Dal NOAEL o dal LOAEL, punto di partenza per definire la dose sicura per l'uomo",
+      "Dalla EC50 correlata al coefficiente di partizione octanolo-acqua (Kow)"
+    ],
+    "correctIndex": 1,
+    "explanation": "ADI, RfD e DNEL sono calcolati partendo dal NOAEL o dal LOAEL, che costituiscono il punto di partenza per identificare il livello di dose massimo a cui l'uomo puo essere esposto senza conseguenze (la 'safe dose').",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-022",
+    "topic": "bio-chimica",
+    "question": "A cosa servono indici come ADI, RfD e DNEL nella valutazione tossicologica?",
+    "suggestion": "Pensa a una soglia 'sicura' per l'uomo, non a una misura di letalita.",
+    "options": [
+      "A identificare la dose massima a cui l'uomo puo essere esposto senza conseguenze",
+      "A stimare la dose che provoca la morte nel 50% degli organismi esposti",
+      "A misurare la concentrazione letale mediana per gli organismi dell'ambiente acquatico"
+    ],
+    "correctIndex": 0,
+    "explanation": "ADI, RfD e DNEL servono a definire il livello di dose massimo a cui l'uomo puo essere esposto senza riportare conseguenze (la 'safe dose'); vengono ricavati da NOAEL o LOAEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-023",
+    "topic": "bio-chimica",
+    "question": "Cosa indica la RfD (Reference Dose)?",
+    "suggestion": "Il nome stesso richiama un valore di 'riferimento' per l'uomo.",
+    "options": [
+      "La concentrazione letale mediana misurata negli organismi acquatici",
+      "La dose di riferimento per l'esposizione umana giornaliera",
+      "La dose minima che produce un effetto avverso osservabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "La RfD (Reference Dose) e la dose di riferimento per l'esposizione umana; come ADI e DNEL viene calcolata a partire dal NOAEL o dal LOAEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-024",
+    "topic": "bio-chimica",
+    "question": "Cosa rappresenta il DNEL (Derived No Effect Level)?",
+    "suggestion": "E una dose 'soglia', derivata dalle soglie di effetto avverso.",
+    "options": [
+      "La dose che provoca la morte nel 50% della popolazione esposta",
+      "La concentrazione efficace mediana correlata al coefficiente Kow",
+      "La dose soglia di esposizione umana derivata da NOAEL o LOAEL"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il DNEL (Derived No Effect Level) e la dose soglia di esposizione umana; come ADI e RfD e derivato dal NOAEL o dal LOAEL per definire una 'safe dose'.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-025",
+    "topic": "bio-chimica",
+    "question": "Nella scala dei danni alle risorse viventi, a quale livello corrisponde una LC50/96h compresa tra 0,01 e 1 mg/l?",
+    "suggestion": "E il secondo gradino piu alto della scala, subito sotto 'estremamente tossico'.",
+    "options": [
+      "Livello 4 - altamente tossico (LC50/96h tra 0,01 e 1 mg/l)",
+      "Livello 2 - debolmente tossico (LC50/96h tra 10 e 100 mg/l)",
+      "Livello 0 - non pericoloso (LC50/96h superiore a 1000 mg/l)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una LC50/96h tra 0,01 e 1 mg/l corrisponde al livello 4, 'altamente tossico', subito sotto il livello 5 'estremamente tossico' (< 0,01 mg/l).",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-026",
+    "topic": "bio-chimica",
+    "question": "Nella scala di pericolosita per le risorse viventi, una LC50/96h compresa tra 10 e 100 mg/l corrisponde a quale livello?",
+    "suggestion": "E un gradino basso della scala, ma non il piu basso.",
+    "options": [
+      "Livello 4 - altamente tossico (LC50/96h tra 0,01 e 1 mg/l)",
+      "Livello 1 - praticamente non tossico (LC50/96h tra 100 e 1000 mg/l)",
+      "Livello 2 - debolmente tossico (LC50/96h tra 10 e 100 mg/l)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una LC50/96h tra 10 e 100 mg/l corrisponde al livello 2, 'debolmente tossico'; sopra (100-1000 mg/l) c'e il livello 1 'praticamente non tossico'.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-027",
+    "topic": "bio-chimica",
+    "question": "Secondo la scala dei danni alle risorse viventi, come e classificata una sostanza con LC50/96h superiore a 1000 mg/l?",
+    "suggestion": "E il gradino piu basso in assoluto, ancora piu blando di 'praticamente non tossico'.",
+    "options": [
+      "Livello 1 - praticamente non tossico (LC50/96h tra 100 e 1000 mg/l)",
+      "Livello 0 - non pericoloso (LC50/96h superiore a 1000 mg/l)",
+      "Livello 2 - debolmente tossico (LC50/96h tra 10 e 100 mg/l)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una LC50/96h > 1000 mg/l corrisponde al livello 0, 'non pericoloso'; tra 100 e 1000 mg/l si ha invece il livello 1 'praticamente non tossico'.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-028",
+    "topic": "bio-chimica",
+    "question": "Confrontando le LD50 della tabella, quale sostanza e piu tossica per via acuta tra caffeina e nicotina?",
+    "suggestion": "Una LD50 piu bassa indica maggiore tossicita: ne basta meno per uccidere.",
+    "options": [
+      "La caffeina, che ha una LD50 di 0,3 g/kg",
+      "La nicotina, che ha una LD50 di 0,053 g/kg",
+      "Hanno la stessa tossicita, con LD50 di circa 0,3 g/kg"
+    ],
+    "correctIndex": 1,
+    "explanation": "La nicotina (LD50 = 0,053 g/kg) e piu tossica della caffeina (LD50 = 0,3 g/kg): a LD50 piu bassa corrisponde maggiore tossicita acuta.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-029",
+    "topic": "bio-chimica",
+    "question": "Confrontando l'alcool etilico (LD50 14 g/kg) e il cloruro di sodio (LD50 3 g/kg), quale affermazione e corretta?",
+    "suggestion": "La sostanza con LD50 piu bassa e quella di cui ne serve meno per uccidere.",
+    "options": [
+      "L'alcool etilico e piu tossico, perche ha una LD50 nettamente piu elevata del sale",
+      "Hanno la stessa tossicita acuta, essendo entrambi composti molto comuni",
+      "Il cloruro di sodio e piu tossico, perche ne basta una dose minore per uccidere"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cloruro di sodio (LD50 = 3 g/kg) e piu tossico per via acuta dell'alcool etilico (LD50 = 14 g/kg): una LD50 piu bassa significa che ne basta meno per uccidere la meta della popolazione.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-030",
+    "topic": "bio-chimica",
+    "question": "Tra vitamina A (LD50 2 g/kg) e nitrito di sodio (LD50 0,085 g/kg), quale e piu tossica per via acuta?",
+    "suggestion": "Confronta i due valori: il piu basso segnala la maggiore tossicita.",
+    "options": [
+      "Il nitrito di sodio, perche ha una LD50 nettamente piu bassa",
+      "La vitamina A, perche ha una LD50 di 2 g/kg",
+      "Sono ugualmente tossici per via acuta alle dosi indicate in tabella"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il nitrito di sodio (LD50 = 0,085 g/kg) e molto piu tossico della vitamina A (LD50 = 2 g/kg): a parita di via, la LD50 piu bassa indica maggiore tossicita acuta.",
+    "difficulty": "easy",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-031",
+    "topic": "bio-chimica",
+    "question": "Nella tabella su Gambusia affinis, quale composto risulta il piu tossico in assoluto?",
+    "suggestion": "Cerca la LC50 piu bassa dell'intera tabella, non solo tra gli insetticidi piretroidi.",
+    "options": [
+      "Il picrotoxin, con LC50 di 8.360 µg/L",
+      "L'endosulfan, con LC50 di 3.20 µg/L",
+      "Il cyanofenphos, con LC50 di 1.510 µg/L"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'endosulfan ha la LC50 piu bassa dell'intera tabella (3.20 µg/L), quindi la maggiore tossicita, inferiore persino a quella del resmethrin (6.93 µg/L).",
+    "difficulty": "hard",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-032",
+    "topic": "bio-chimica",
+    "question": "Tra i composti saggiati su Gambusia affinis, quale e il meno tossico?",
+    "suggestion": "Il meno tossico e quello che richiede la concentrazione piu alta per uccidere.",
+    "options": [
+      "Il resmethrin, con LC50 di 6.93 µg/L",
+      "Il malathion, con LC50 di 200 µg/L",
+      "Il deet, con LC50 di 235.000 µg/L"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il deet ha la LC50 di gran lunga piu alta (235.000 µg/L), quindi la minore tossicita: ne serve una concentrazione enorme per uccidere il 50% dei pesci, rispetto al malathion (200 µg/L) e al resmethrin (6.93 µg/L).",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-033",
+    "topic": "bio-chimica",
+    "question": "Cosa suggerisce la correlazione tra log(LC50)^-1 e log Kow ricavata dai dati su Gambusia affinis?",
+    "suggestion": "Il segno positivo della pendenza lega tossicita e idrofobicita nella stessa direzione.",
+    "options": [
+      "Che a maggiore idrofobicita (log Kow piu alto) tende a corrispondere maggiore tossicita",
+      "Che la tossicita diminuisce nettamente all'aumentare dell'idrofobicita (log Kow) del composto",
+      "Che tossicita e idrofobicita del composto sono grandezze del tutto indipendenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La relazione log(LC50)^-1 = 0.64 log Kow + 3.7 ha pendenza positiva: al crescere del log Kow (idrofobicita) cresce log(LC50)^-1, cioe la tossicita. La correlazione (R2 = 0.43) e specifica per l'organismo.",
+    "difficulty": "hard",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-034",
+    "topic": "bio-chimica",
+    "question": "Il picrotoxin ha un log Kow molto basso (0,10): secondo la correlazione trovata su Gambusia, come ci si aspetta sia la sua tossicita?",
+    "suggestion": "Applica il verso della correlazione: basso Kow, quindi bassa idrofobicita.",
+    "options": [
+      "Elevata, poiche un basso log Kow implica sempre e comunque un'alta tossicita",
+      "Bassa, poiche a un basso log Kow tende a corrispondere minore tossicita",
+      "Pari a quella dell'endosulfan, nonostante il log Kow molto diverso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiche tossicita e log Kow sono correlati positivamente, il basso log Kow del picrotoxin (0,10) corrisponde a bassa tossicita: infatti ha una delle LC50 piu alte (8.360 µg/L).",
+    "difficulty": "hard",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-035",
+    "topic": "bio-chimica",
+    "question": "Nell'esempio dell'EC50 su Gambusia, quale effetto non letale viene usato per definire la concentrazione efficace?",
+    "suggestion": "La EC50 riguarda un effetto diverso dalla morte: qui coinvolge la riproduzione.",
+    "options": [
+      "La mortalita diretta del 50% degli individui esposti",
+      "La riduzione della velocita di nuoto degli individui adulti",
+      "La riduzione della deposizione di uova (uova per femmina)"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'EC50 misura un effetto non necessariamente letale: nell'esempio e la concentrazione alla quale il 50% degli animali riduce la deposizione di uova, un effetto sulla riproduzione.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-036",
+    "topic": "bio-chimica",
+    "question": "Nei grafici 'uova per femmina' su Gambusia, cosa indicano rispettivamente NOAEC e LOAEC?",
+    "suggestion": "Sono le versioni 'in concentrazione' delle soglie senza effetto e con primo effetto.",
+    "options": [
+      "La concentrazione senza effetti osservabili e la piu bassa con effetti sulla riproduzione",
+      "La concentrazione letale mediana e la concentrazione efficace mediana sulla riproduzione",
+      "La dose accettabile giornaliera e la dose di riferimento per l'esposizione umana"
+    ],
+    "correctIndex": 0,
+    "explanation": "NOAEC e la concentrazione senza effetti osservabili e LOAEC la piu bassa a cui si osserva un effetto (qui sulla deposizione di uova): sono gli analoghi 'in concentrazione' di NOAEL e LOAEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-037",
+    "topic": "bio-chimica",
+    "question": "Perche l'alcool assunto durante la gravidanza e un esempio di effetto tossico che colpisce la prole?",
+    "suggestion": "Pensa a un danno che si trasmette allo sviluppo del feto, non alla sola madre.",
+    "options": [
+      "Perche la barriera materno-fetale accelera l'eliminazione dell'etanolo nel feto",
+      "Perche provoca la sindrome alcolica fetale, con alterazioni dello sviluppo del feto",
+      "Perche il feto sviluppa una tolleranza che protegge la madre dagli effetti dell'etanolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli effetti delle sostanze tossiche possono colpire anche la prole: l'alcool in gravidanza provoca la sindrome alcolica fetale, con alterazioni dello sviluppo del feto (es. testa piccola, tratti del viso alterati).",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-038",
+    "topic": "bio-chimica",
+    "question": "Quando sono disponibili dati di tossicita adeguati per uno o piu componenti di una miscela pericolosa, come si procede alla classificazione?",
+    "suggestion": "Non basta il componente dominante: si combinano i dati dei componenti noti.",
+    "options": [
+      "Si usa la tossicita combinata dei componenti per assegnare una categoria con la sommatoria",
+      "Si classifica la miscela in base al solo componente presente in maggiore percentuale in peso",
+      "Si considera la miscela non pericolosa se almeno uno dei suoi componenti risulta di per sé non tossico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando ci sono dati adeguati per uno o piu componenti, la loro tossicita combinata viene usata per assegnare a quella porzione di miscela una categoria di tossicita acuta, secondo il metodo della sommatoria.",
+    "difficulty": "hard",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella curva dose-risposta, la dose piu alta a cui non si osserva alcun effetto avverso e indicata con l'acronimo ___ (No Observed Adverse Effect Level).",
+    "answers": [["NOAEL"]],
+    "suggestion": "L'acronimo inizia con 'NO', come 'nessun effetto avverso osservato'.",
+    "explanation": "Il NOAEL (No Observed Adverse Effect Level) e la dose piu alta a cui non si osserva alcun effetto avverso; insieme al LOAEL e il punto di partenza per calcolare ADI, RfD e DNEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella curva dose-risposta, la dose piu bassa a cui si osserva un effetto avverso e detta ___ (Lowest Observed Adverse Effect Level).",
+    "answers": [["LOAEL"]],
+    "suggestion": "L'acronimo inizia con 'LO', da 'lowest', cioe la piu bassa con effetto.",
+    "explanation": "Il LOAEL (Lowest Observed Adverse Effect Level) e la dose piu bassa a cui compare un effetto avverso; nella curva dose-risposta sta subito sopra il NOAEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "La dose accettabile di esposizione umana giornaliera e indicata con la sigla ___ (Acceptable Daily Intake).",
+    "answers": [["ADI"]],
+    "suggestion": "In inglese 'Acceptable Daily Intake': tre lettere.",
+    "explanation": "L'ADI (Acceptable Daily Intake) e la dose accettabile di esposizione umana giornaliera; come RfD e DNEL viene calcolata a partire da NOAEL o LOAEL.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nell'elenco della tossicita acuta, il ___ di sodio ha una LD50 di 0,006 g/kg, tra i valori piu bassi della lista.",
+    "answers": [["cianuro"]],
+    "suggestion": "E un noto veleno che blocca la respirazione cellulare.",
+    "explanation": "Il cianuro di sodio ha LD50 = 0,006 g/kg, tra i valori piu bassi (piu tossici) della tabella, vicino alla stricnina (0,002) e all'aflatossina B1 (0,007).",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le alterazioni dello sviluppo causate dall'alcool assunto in gravidanza costituiscono la sindrome ___ fetale.",
+    "answers": [["alcolica"]],
+    "suggestion": "Prende il nome dalla sostanza responsabile assunta dalla madre.",
+    "explanation": "L'esposizione prenatale all'alcool provoca la sindrome alcolica fetale (Fetal Alcohol Syndrome), con alterazioni dello sviluppo del feto: e un esempio di effetto tossico che colpisce la prole e non solo chi assume la sostanza.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il principio di Paracelso in latino afferma: \"Dosis sola facit ut ___ non sit\".",
+    "answers": [["venenum"]],
+    "suggestion": "E la parola latina per 'veleno'.",
+    "explanation": "La frase latina di Paracelso \"Dosis sola facit ut venenum non sit\" significa che e solo la dose a fare in modo che qualcosa non sia veleno: ogni sostanza e tossica a seconda della quantita.",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
+  },
+  {
+    "id": "bci-tox-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella scala dei danni alle risorse viventi, una sostanza e classificata come 'non pericolosa' (livello 0) quando la sua LC50/96h supera ___ mg/l.",
+    "answers": [["1000"]],
+    "suggestion": "E la soglia piu alta della scala, oltre il livello 'praticamente non tossico'.",
+    "explanation": "Il livello 0 ('non pericoloso') corrisponde a LC50/96h > 1000 mg/l; tra 100 e 1000 mg/l si ha invece il livello 1 ('praticamente non tossico').",
+    "difficulty": "medium",
+    "source": "Tossicità 2026.pdf"
   }
 ]

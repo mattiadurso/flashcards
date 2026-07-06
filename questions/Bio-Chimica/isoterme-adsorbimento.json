@@ -407,5 +407,415 @@
     "explanation": "Nel coefficiente di ripartizione suolo/acqua Kd = Cs/Cw, con Cs concentrazione nel suolo in mg/kg e Cw concentrazione in acqua in mg/L.",
     "difficulty": "medium",
     "source": "Isoterme_Adsorbimento.pptx"
+  },
+  {
+    "id": "bci-ads-023",
+    "topic": "bio-chimica",
+    "question": "Quale effetto ha l'adsorbimento sulla mobilità degli elementi tossici nel suolo?",
+    "suggestion": "Pensa a cosa succede quando una specie viene trattenuta sulla fase solida.",
+    "options": [
+      "Ne aumenta la mobilità, favorendone il trasporto nella fase liquida",
+      "Ne lascia invariata la mobilità, senza trattenerli sulla fase solida",
+      "Ne riduce la mobilità, trattenendoli sulla fase solida del suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra le finalità dell'adsorbimento c'è la riduzione della mobilità degli elementi tossici: trattenuti sulla fase solida, migrano meno nella fase liquida.",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 2"
+  },
+  {
+    "id": "bci-ads-024",
+    "topic": "bio-chimica",
+    "question": "Che cosa distingue l'adsorbimento dall'assorbimento?",
+    "suggestion": "Uno è un fenomeno di superficie, l'altro riguarda il volume del solido.",
+    "options": [
+      "L'adsorbimento avviene sulla superficie del solido, l'assorbimento nel suo volume interno",
+      "L'adsorbimento avviene nel volume interno del solido, l'assorbimento solo sulla sua superficie esterna",
+      "Entrambi avvengono in superficie ma con meccanismi di legame differenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'adsorbimento è un'interazione sulla superficie di un solido; l'assorbimento comporta invece la penetrazione del soluto nel volume. Quando non è chiaro quale dei due avvenga si usa il termine «sorption».",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 3"
+  },
+  {
+    "id": "bci-ads-025",
+    "topic": "bio-chimica",
+    "question": "Quale assunzione fa la teoria di Langmuir sulle molecole di soluto adsorbite?",
+    "suggestion": "Riguarda le interazioni reciproche tra le molecole sulla superficie.",
+    "options": [
+      "Che le molecole di soluto interagiscono fortemente tra loro sulla superficie",
+      "Che le molecole di soluto non interagiscono tra loro sulla superficie",
+      "Che le molecole di soluto formano più strati sovrapposti sulla superficie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tra le assunzioni di Langmuir c'è l'assenza di interazioni tra le molecole di soluto adsorbite; questo, insieme all'energia costante e al massimo di adsorbimento, definisce il modello.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 13"
+  },
+  {
+    "id": "bci-ads-026",
+    "topic": "bio-chimica",
+    "question": "A cosa corrisponde il massimo di adsorbimento previsto dalla teoria di Langmuir?",
+    "suggestion": "Pensa a quanti strati di soluto possono formarsi sulla superficie a saturazione.",
+    "options": [
+      "Alla formazione di più strati molecolari sovrapposti sulla superficie dell'adsorbente",
+      "All'occupazione dei soli siti a energia più elevata dell'adsorbente",
+      "Alla decrescita logaritmica dell'energia libera di adsorbimento",
+      "Alla saturazione dei siti con uno strato monomolecolare sull'adsorbente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Per Langmuir esiste un massimo di adsorbimento (saturazione dei siti) corrispondente a uno strato monomolecolare; non si formano strati sovrapposti e i siti hanno tutti la stessa energia.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 13"
+  },
+  {
+    "id": "bci-ads-027",
+    "topic": "bio-chimica",
+    "question": "Cosa implica l'assunzione di energia di adsorbimento costante nella teoria di Langmuir?",
+    "suggestion": "Se tutti i siti hanno la stessa energia, come si può definire la superficie?",
+    "options": [
+      "Che i siti hanno energie diverse e vengono occupati in ordine di affinità",
+      "Che la superficie dell'adsorbente è omogenea, con siti equivalenti",
+      "Che l'energia libera decresce logaritmicamente con l'adsorbimento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Energia di adsorbimento costante significa che la superficie è omogenea, cioè i siti sono tutti equivalenti. L'energia decrescente e l'occupazione in ordine di affinità sono invece assunzioni di Freundlich.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 13"
+  },
+  {
+    "id": "bci-ads-028",
+    "topic": "bio-chimica",
+    "question": "Nell'equazione di Langmuir, cosa rappresenta il parametro b (o Xmax)?",
+    "suggestion": "È un valore limite, legato alla saturazione dei siti.",
+    "options": [
+      "L'affinità della superficie dell'adsorbente verso il soluto disciolto in soluzione",
+      "La costante di affinità che regola la pendenza iniziale della curva",
+      "La massima quantità di sostanza che può essere adsorbita a saturazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'equazione di Langmuir b (Xmax) è la massima quantità di sostanza adsorbibile; K è invece la costante di affinità, e l'affinità della superficie (1/n) compare nel modello di Freundlich.",
+    "difficulty": "hard",
+    "source": "Isoterme_Adsorbimento.pptx slide 14"
+  },
+  {
+    "id": "bci-ads-029",
+    "topic": "bio-chimica",
+    "question": "Nell'equazione di Freundlich, cosa rappresenta il parametro K?",
+    "suggestion": "È definito rispetto a una concentrazione di riferimento particolare.",
+    "options": [
+      "La quantità di soluto adsorbita alla concentrazione unitaria di soluto",
+      "L'affinità della superficie dell'adsorbente verso il soluto disciolto in soluzione",
+      "La massima quantità di soluto adsorbibile alla saturazione dei siti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'equazione di Freundlich K è la quantità adsorbita alla concentrazione unitaria; l'affinità della superficie è 1/n, mentre la massima quantità a saturazione (b, Xmax) è un concetto del modello di Langmuir.",
+    "difficulty": "hard",
+    "source": "Isoterme_Adsorbimento.pptx slide 16"
+  },
+  {
+    "id": "bci-ads-030",
+    "topic": "bio-chimica",
+    "question": "Nello studio sull'adsorbimento del 2,4-dinitrofenolo, quale modello descrive l'adsorbimento sulla sola caolinite?",
+    "suggestion": "L'aggiunta di sostanza organica cambia il tipo di isoterma osservato.",
+    "options": [
+      "Il modello di Freundlich, come per la caolinite con sostanza organica",
+      "Il modello di Langmuir, mentre la caolinite con sostanza organica segue Freundlich",
+      "Il modello di Langmuir, come per la caolinite con sostanza organica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'esempio (Ortega-Calvo et al., 1999) l'adsorbimento sulla sola caolinite segue un'isoterma di Langmuir, mentre sulla caolinite con sostanza organica segue un'isoterma di Freundlich.",
+    "difficulty": "hard",
+    "source": "Isoterme_Adsorbimento.pptx slide 21"
+  },
+  {
+    "id": "bci-ads-031",
+    "topic": "bio-chimica",
+    "question": "Nell'equazione di Freundlich, cosa comporta il caso n = 1?",
+    "suggestion": "Collega questo caso particolare al coefficiente di ripartizione suolo/acqua.",
+    "options": [
+      "L'isoterma assume forma sigmoidale tipica delle basse concentrazioni",
+      "L'affinità cresce logaritmicamente all'aumentare della concentrazione",
+      "L'adsorbimento raggiunge subito la saturazione dei siti disponibili",
+      "L'isoterma assume forma lineare, come nel coefficiente di ripartizione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con n = 1 l'equazione di Freundlich assume forma lineare, che corrisponde all'isoterma di tipo «C» e al coefficiente di ripartizione suolo/acqua Kd; per n > 1 la forma è non-lineare.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 17"
+  },
+  {
+    "id": "bci-ads-032",
+    "topic": "bio-chimica",
+    "question": "Nella descrizione dei tipi di isoterma, a cosa corrisponde l'«affinità»?",
+    "suggestion": "È una caratteristica geometrica della curva dell'isoterma.",
+    "options": [
+      "Alla concentrazione del soluto all'equilibrio con la fase solida",
+      "Alla pendenza della curva dell'isoterma",
+      "Alla massa di adsorbente impiegata nel batch test"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'affinità è definita come la pendenza della curva dell'isoterma: alta affinità significa pendenza iniziale ripida (tipo «L» o «H»), bassa affinità pendenza iniziale ridotta (tipo «S»).",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 10"
+  },
+  {
+    "id": "bci-ads-033",
+    "topic": "bio-chimica",
+    "question": "Cosa distingue un'isoterma di tipo «H» da una di tipo «L»?",
+    "suggestion": "Entrambe hanno alta affinità iniziale, ma una è ancora più estrema.",
+    "options": [
+      "La «H» ha affinità iniziale ancora più elevata, con rimozione quasi totale del soluto",
+      "La «H» ha affinità iniziale che cresce con l'aumento dell'adsorbimento",
+      "La «H» ha affinità costante e indipendente dalla concentrazione del soluto"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'isoterma «H» è un caso estremo della «L»: affinità così elevata che quasi tutto il soluto è rimosso. L'affinità crescente caratterizza la «S», quella costante la «C».",
+    "difficulty": "hard",
+    "source": "Isoterme_Adsorbimento.pptx slide 10"
+  },
+  {
+    "id": "bci-ads-034",
+    "topic": "bio-chimica",
+    "question": "Nei diagrammi delle isoterme, cosa rappresentano rispettivamente X e m nel rapporto X/m?",
+    "suggestion": "Uno è riferito al soluto, l'altro all'adsorbente.",
+    "options": [
+      "X la massa di adsorbente solido e m la quantità di soluto adsorbito",
+      "X la concentrazione all'equilibrio e m la massa di soluto in soluzione",
+      "X la quantità di soluto adsorbito e m la massa di adsorbente solido"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel rapporto X/m riportato nelle isoterme, X è la quantità di soluto adsorbito [mg] e m è la massa di adsorbente solido [kg]; in ascissa si mette C, la concentrazione all'equilibrio [mg/l].",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 8"
+  },
+  {
+    "id": "bci-ads-035",
+    "topic": "bio-chimica",
+    "question": "Nel batch test, cosa si fa dopo l'equilibratura per determinare la concentrazione finale del soluto?",
+    "suggestion": "Occorre isolare la fase liquida prima di misurarla.",
+    "options": [
+      "Si scalda la soluzione per far evaporare il soluto ancora disciolto",
+      "Si aggiunge altro adsorbente fino a raggiungere la saturazione completa",
+      "Si separa il solido dalla soluzione e si misura la concentrazione residua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dopo l'equilibratura il solido viene separato dalla soluzione e si misura la concentrazione finale (C); la differenza (Ci - C) per il volume dà la quantità adsorbita.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 7"
+  },
+  {
+    "id": "bci-ads-036",
+    "topic": "bio-chimica",
+    "question": "Cosa esprime il coefficiente di ripartizione Koc?",
+    "suggestion": "È riferito a una specifica componente del suolo, non al suolo intero.",
+    "options": [
+      "Il rapporto tra la concentrazione nella sostanza organica del suolo e in acqua",
+      "Il rapporto tra la concentrazione totale nel suolo e quella in acqua",
+      "Il rapporto tra la concentrazione in ottanolo e quella in acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Koc è il coefficiente di ripartizione carbonio organico/acqua: Coc (concentrazione nella sostanza organica) su Cw. Il rapporto suolo totale/acqua è il Kd; ottanolo/acqua è il Kow.",
+    "difficulty": "hard",
+    "source": "Isoterme_Adsorbimento.pptx slide 20"
+  },
+  {
+    "id": "bci-ads-037",
+    "topic": "bio-chimica",
+    "question": "In quali condizioni il Kd può essere espresso come coefficiente Koc (C organico/acqua)?",
+    "suggestion": "Dipende da quanta sostanza organica contiene il suolo.",
+    "options": [
+      "Quando il suolo è privo di sostanza organica e ricco di minerali argillosi",
+      "Quando il carbonio organico del suolo supera l'1% in peso",
+      "Quando il carbonio organico del suolo è inferiore all'1% in peso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se il carbonio organico del suolo è > 1% in peso, l'adsorbimento delle molecole organiche avviene quasi esclusivamente sulla sostanza organica e il Kd può essere espresso come Koc.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 20"
+  },
+  {
+    "id": "bci-ads-038",
+    "topic": "bio-chimica",
+    "question": "A cosa si riferisce il coefficiente di ripartizione Kow usato per stimare il Koc?",
+    "suggestion": "Il pedice «ow» richiama due liquidi tra cui si ripartisce il soluto.",
+    "options": [
+      "Alla ripartizione del soluto tra suolo e acqua",
+      "Alla ripartizione del soluto tra sostanza organica e acqua",
+      "Alla ripartizione del soluto tra ottanolo e acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il Kow è il coefficiente di ripartizione ottanolo/acqua, indice di idrofobicità; il Koc può essere stimato dalla sua correlazione con il Kow. Suolo/acqua è il Kd, C organico/acqua è il Koc.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 20"
+  },
+  {
+    "id": "bci-ads-039",
+    "topic": "bio-chimica",
+    "question": "Quale coppia rappresenta i due processi opposti nella ripartizione solido/liquido di un soluto?",
+    "suggestion": "Uno lega il soluto alla superficie, l'altro lo rilascia.",
+    "options": [
+      "Adsorbimento e desorbimento",
+      "Adsorbimento e assorbimento",
+      "Dissoluzione e precipitazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'adsorbimento lega il soluto alla superficie dell'adsorbente, il desorbimento è il suo rilascio: sono i due processi opposti. Assorbimento riguarda invece la penetrazione nel volume del solido.",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 4"
+  },
+  {
+    "id": "bci-ads-040",
+    "topic": "bio-chimica",
+    "question": "In quali unità può essere espressa la densità di adsorbimento?",
+    "suggestion": "È una quantità riferita alla superficie o alla massa dell'adsorbente.",
+    "options": [
+      "In kg m-3 oppure g cm-3, riferite alla densità del solido",
+      "In mol m-2 oppure mg g-1, riferite a superficie o massa",
+      "In mg L-1 oppure mol L-1, riferite al volume di soluzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La densità di adsorbimento è la quantità di soluto adsorbito per superficie (mol m-2, mg cm-2) o per massa (mol g-1, mg g-1) di adsorbente; non è una densità di massa né una concentrazione in soluzione.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 4"
+  },
+  {
+    "id": "bci-ads-041",
+    "topic": "bio-chimica",
+    "question": "Qual è lo scopo dei diagrammi delle isoterme di adsorbimento?",
+    "suggestion": "Pensa a cosa descrivono in termini quantitativi.",
+    "options": [
+      "Descrivere qualitativamente il colore del soluto adsorbito sull'adsorbente",
+      "Descrivere quantitativamente quanto un soluto interagisce con l'adsorbente",
+      "Determinare la temperatura ottimale del processo di adsorbimento nel suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "I diagrammi delle isoterme descrivono in termini quantitativi quanto un soluto interagisce su un adsorbente solido, riportando la quantità adsorbita (X/m) in funzione della concentrazione all'equilibrio (C).",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 8"
+  },
+  {
+    "id": "bci-ads-042",
+    "topic": "bio-chimica",
+    "question": "Secondo la teoria di Freundlich, come varia l'energia libera di adsorbimento all'aumentare dell'adsorbimento?",
+    "suggestion": "I siti più favoriti si occupano per primi: cosa resta poi da occupare?",
+    "options": [
+      "Aumenta linearmente man mano che i siti vengono occupati",
+      "Rimane costante perché tutti i siti hanno la stessa energia",
+      "Cresce logaritmicamente fino alla saturazione dei siti",
+      "Decresce logaritmicamente man mano che l'adsorbimento procede"
+    ],
+    "correctIndex": 3,
+    "explanation": "In Freundlich i siti hanno energia decrescente: occupati prima i più favoriti, l'energia libera di adsorbimento decresce logaritmicamente. L'energia costante è invece un'assunzione di Langmuir.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 13"
+  },
+  {
+    "id": "bci-ads-043",
+    "topic": "bio-chimica",
+    "question": "Oltre allo scambio cationico, quale altro tipo di scambio ionico è un meccanismo di adsorbimento?",
+    "suggestion": "Riguarda ioni di carica opposta a quella dei cationi.",
+    "options": [
+      "Scambio anionico",
+      "Scambio termico",
+      "Scambio osmotico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i meccanismi chimici di interazione figurano sia lo scambio cationico sia lo scambio anionico; scambio termico e osmotico non sono meccanismi di adsorbimento.",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 6"
+  },
+  {
+    "id": "bci-ads-044",
+    "topic": "bio-chimica",
+    "question": "Nel batch test, cosa indica il simbolo Sm?",
+    "suggestion": "È una delle grandezze note fissate all'inizio della prova, riferita al solido.",
+    "options": [
+      "Il volume noto della soluzione impiegata nella prova",
+      "La concentrazione iniziale nota del soluto in soluzione",
+      "La quantità nota di solido adsorbente impiegata"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel batch test Sm è la quantità nota di solido adsorbente, equilibrata con un volume noto V di soluzione a concentrazione iniziale nota Ci.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 7"
+  },
+  {
+    "id": "bci-ads-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "L'adsorbimento consiste in un'interazione che avviene sulla ___ di un solido.",
+    "answers": [["superficie"]],
+    "suggestion": "Da qui la distinzione con l'assorbimento, che riguarda il volume.",
+    "explanation": "L'adsorbimento è per definizione un'interazione sulla superficie di un solido; l'assorbimento comporta invece la penetrazione nel volume del solido.",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 4"
+  },
+  {
+    "id": "bci-ads-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i meccanismi molecolari dell'adsorbimento, le deboli forze attrattive intermolecolari sono le forze di ___.",
+    "answers": [["Van der Waals", "van der waals"]],
+    "suggestion": "Prendono il nome da un fisico olandese.",
+    "explanation": "Le forze di Van der Waals sono una delle interazioni molecolari elencate tra i meccanismi di adsorbimento, insieme a scambio ionico, legami covalenti e a idrogeno e interazioni dipolari.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 6"
+  },
+  {
+    "id": "bci-ads-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Secondo la teoria di Langmuir, alla saturazione dei siti si forma sull'adsorbente uno strato ___.",
+    "answers": [["monomolecolare", "monostrato", "monomolecular"]],
+    "suggestion": "Un solo strato di molecole, non strati sovrapposti.",
+    "explanation": "In Langmuir il massimo di adsorbimento corrisponde alla saturazione dei siti con uno strato monomolecolare (monostrato); non si formano strati multipli sovrapposti.",
+    "difficulty": "hard",
+    "source": "Isoterme_Adsorbimento.pptx slide 13"
+  },
+  {
+    "id": "bci-ads-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il coefficiente di ripartizione suolo/acqua si indica con la sigla ___.",
+    "answers": [["Kd"]],
+    "suggestion": "Corrisponde a un'isoterma lineare di tipo «C» (n = 1).",
+    "explanation": "Il Kd è il coefficiente di ripartizione suolo/acqua, pari a Cs/Cw, associato a un'isoterma di tipo «C» (lineare, n = 1).",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 19"
+  },
+  {
+    "id": "bci-ads-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il coefficiente di ripartizione ottanolo/acqua, usato per stimare il Koc, si indica con la sigla ___.",
+    "answers": [["Kow"]],
+    "suggestion": "Il pedice richiama ottanolo (o) e acqua (w).",
+    "explanation": "Il Kow è il coefficiente di ripartizione ottanolo/acqua; la stima del Koc può essere ottenuta dalla sua correlazione con il Kow.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 20"
+  },
+  {
+    "id": "bci-ads-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel modello di Freundlich la forma dell'equazione è non-lineare quando il parametro n è ___ di 1.",
+    "answers": [["maggiore", "superiore"]],
+    "suggestion": "Il caso opposto (n = 1) restituisce la forma lineare.",
+    "explanation": "Nell'equazione di Freundlich la forma è non-lineare per n > 1 (n maggiore di 1) e diventa lineare per n = 1.",
+    "difficulty": "medium",
+    "source": "Isoterme_Adsorbimento.pptx slide 16"
+  },
+  {
+    "id": "bci-ads-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le due equazioni più comuni per descrivere matematicamente le isoterme sono quella di Langmuir e quella di ___.",
+    "answers": [["Freundlich"]],
+    "suggestion": "Lo scienziato ipotizza siti illimitati a energia decrescente.",
+    "explanation": "I due modelli matematici più comuni per le isoterme sono quello di Langmuir (siti finiti a energia costante) e quello di Freundlich (siti illimitati a energia decrescente).",
+    "difficulty": "easy",
+    "source": "Isoterme_Adsorbimento.pptx slide 11"
   }
 ]

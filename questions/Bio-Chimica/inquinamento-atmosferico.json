@@ -329,5 +329,369 @@
     "explanation": "Il PM10 è in parte emesso direttamente (primario) e in parte si forma in atmosfera attraverso meccanismi chimico-fisici da ossidi di azoto, ossidi di zolfo, composti organici volatili e ammoniaca (secondario).",
     "difficulty": "hard",
     "source": "Aneggi (9) — Inquinamento atmosferico.pdf"
+  },
+  {
+    "id": "bci-atm-019",
+    "topic": "bio-chimica",
+    "question": "Quale delle seguenti è indicata come fonte naturale di inquinamento atmosferico?",
+    "suggestion": "Pensa a fenomeni che avvengono anche senza l'intervento dell'uomo.",
+    "options": [
+      "Il traffico veicolare urbano",
+      "L'uso di solventi industriali",
+      "Le eruzioni vulcaniche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra le fonti naturali il corso cita eruzioni vulcaniche, incendi boschivi ed erosione del suolo; traffico e uso di solventi sono invece fonti antropiche.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.2"
+  },
+  {
+    "id": "bci-atm-020",
+    "topic": "bio-chimica",
+    "question": "Quale attività rappresenta una fonte antropica di inquinamento atmosferico?",
+    "suggestion": "Individua la fonte legata direttamente alle attività dell'uomo.",
+    "options": [
+      "Gli incendi boschivi di origine naturale",
+      "L'erosione del suolo e delle rocce",
+      "Le eruzioni vulcaniche esplosive",
+      "Il riscaldamento domestico a combustione"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra le fonti antropiche il corso elenca impianti industriali, traffico veicolare, uso di solventi, riscaldamento domestico e agricoltura-allevamento; incendi, erosione ed eruzioni sono fonti naturali.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.3"
+  },
+  {
+    "id": "bci-atm-021",
+    "topic": "bio-chimica",
+    "question": "Secondo la definizione generale, su quali elementi impattano i composti immessi con l'inquinamento atmosferico?",
+    "suggestion": "La definizione elenca sia effetti sanitari sia effetti su ambiente e beni costruiti.",
+    "options": [
+      "Sulla salute umana, sugli ecosistemi e sui manufatti",
+      "Solo sulla salute umana e sugli animali domestici",
+      "Solo sugli ecosistemi acquatici e sul suolo agricolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'inquinamento atmosferico è l'alterazione delle condizioni naturali dell'aria dovuta a emissioni di composti dannosi per la salute umana, gli ecosistemi e i manufatti.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.4"
+  },
+  {
+    "id": "bci-atm-022",
+    "topic": "bio-chimica",
+    "question": "A quale categoria di inquinanti appartiene la CO2 (biossido di carbonio)?",
+    "suggestion": "Pensa al suo ruolo nel riscaldamento del clima più che nella qualità dell'aria locale.",
+    "options": [
+      "Agli ossidi di zolfo responsabili delle piogge acide",
+      "Ai gas climalteranti, detti anche gas serra",
+      "Alle polveri sottili di origine secondaria"
+    ],
+    "correctIndex": 1,
+    "explanation": "La CO2 è il principale gas climalterante (gas serra); CO, SOx, NOx, ozono troposferico, polveri sottili e benzene sono raggruppati tra gli 'altri gas'.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.5"
+  },
+  {
+    "id": "bci-atm-023",
+    "topic": "bio-chimica",
+    "question": "Cosa indica il termine 'climalteranti' riferito ai gas serra come la CO2?",
+    "suggestion": "Scomponi la parola: 'clima' unito a 'alterare'.",
+    "options": [
+      "Che alterano il clima del pianeta",
+      "Che si formano soltanto d'inverno",
+      "Che derivano solo dal traffico"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Climalteranti' significa che alterano il clima: i gas serra come la CO2 sono raggruppati per il loro effetto sul clima, distinti dagli 'altri gas' (CO, SOx, NOx, ozono, polveri, benzene).",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.5"
+  },
+  {
+    "id": "bci-atm-024",
+    "topic": "bio-chimica",
+    "question": "Quale gruppo corrisponde agli 'altri gas' inquinanti, distinti dai gas serra?",
+    "suggestion": "Escludi sia i normali costituenti dell'aria sia gli altri gas climalteranti.",
+    "options": [
+      "CO, SOx, NOx, ozono troposferico, polveri sottili e benzene",
+      "Azoto, ossigeno, argon e vapore acqueo dei costituenti naturali",
+      "Metano, protossido d'azoto e vapore acqueo saturo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Accanto ai gas serra il corso elenca tra gli 'altri gas' inquinanti CO, SOx, NOx, ozono troposferico, polveri sottili e benzene; azoto, ossigeno e argon sono normali costituenti dell'aria.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.5"
+  },
+  {
+    "id": "bci-atm-025",
+    "topic": "bio-chimica",
+    "question": "Quale intervento umano è un esempio di impatto sull'ambiente fisico?",
+    "suggestion": "L'ambiente fisico riguarda modifiche a strutture e morfologia del territorio.",
+    "options": [
+      "L'uso di detergenti, deodoranti, solventi e medicine",
+      "La costruzione di dighe, canali e barriere ai venti",
+      "Gli allevamenti e le coltivazioni intensive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sull'ambiente fisico l'uomo impatta con dighe, canali, fiumi interrati, miniere, barriere ai venti, dragaggi ed erosione delle coste; detergenti e medicine riguardano l'ambiente chimico, gli allevamenti quello biologico.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.6"
+  },
+  {
+    "id": "bci-atm-026",
+    "topic": "bio-chimica",
+    "question": "Quale di questi è citato come impatto dell'uomo sull'ambiente chimico?",
+    "suggestion": "L'ambiente chimico riguarda le sostanze immesse, non le modifiche fisiche del territorio né gli effetti biologici.",
+    "options": [
+      "I dragaggi, i fiumi interrati e l'erosione delle coste marine",
+      "Le mutazioni e la selezione delle specie viventi",
+      "Le emissioni industriali, i rifiuti e il fumo di sigaretta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sull'ambiente chimico incidono emissioni industriali e veicolari, rifiuti urbani e agricoli, detergenti, fumo di sigaretta e medicine; dragaggi ed erosione delle coste sono impatti fisici, mutazioni e selezione impatti biologici.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.6"
+  },
+  {
+    "id": "bci-atm-027",
+    "topic": "bio-chimica",
+    "question": "Quale inquinante è associato al maggior numero di morti premature nel mondo?",
+    "suggestion": "Confronta i due ordini di grandezza citati: milioni contro centinaia di migliaia.",
+    "options": [
+      "L'ozono, con circa 220.000 morti premature",
+      "Il PM2,5, con circa 2,9 milioni di morti premature",
+      "Il benzene, con circa 2,9 milioni di morti premature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il PM2,5 è associato a circa 2,9 milioni di morti premature, l'ozono a circa 220.000; il benzene non è quantificato in quel dato.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.8"
+  },
+  {
+    "id": "bci-atm-028",
+    "topic": "bio-chimica",
+    "question": "Perché oggi l'interesse si è acceso anche sui micro-contaminanti, oltre agli inquinanti tradizionali?",
+    "suggestion": "Il loro rilievo non dipende dalla quantità presente nell'aria.",
+    "options": [
+      "Perché hanno ormai sostituito del tutto i macro-inquinanti tradizionali",
+      "Perché, pur presenti in quantità minime, impattano fortemente sull'uomo",
+      "Perché sono gli unici a causare morti premature nel mondo"
+    ],
+    "correctIndex": 1,
+    "explanation": "I micro-contaminanti sono presenti in quantità minime ma impattano fortemente sull'uomo; i macro-inquinanti tradizionali continuano comunque a causare morti premature.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.8"
+  },
+  {
+    "id": "bci-atm-029",
+    "topic": "bio-chimica",
+    "question": "Quale delle seguenti sostanze è elencata tra i macro-inquinanti atmosferici?",
+    "suggestion": "I macro-inquinanti comprendono i gas e le polveri presenti in concentrazioni relativamente elevate.",
+    "options": [
+      "L'idrogeno solforato (H2S)",
+      "Il benzo(a)pirene (BaP)",
+      "Il mercurio (Hg)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i macro-inquinanti il corso elenca O3, NO2, NO, SO2, H2S, CO, polveri sospese, PM10 e PM2,5; BaP e mercurio sono invece micro-inquinanti.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.9"
+  },
+  {
+    "id": "bci-atm-030",
+    "topic": "bio-chimica",
+    "question": "Quale famiglia di composti rientra tra i micro-inquinanti atmosferici?",
+    "suggestion": "Si tratta di composti organici complessi presenti in tracce.",
+    "options": [
+      "Gli ossidi di azoto (NO, NO2)",
+      "Il monossido di carbonio (CO)",
+      "Le polveri sospese e il PM10",
+      "I PCB, le PCDD e le PCDF"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra i micro-inquinanti figurano IPA (BaP), COV, freon, metalli pesanti, mercurio, IC clorurati/alogenati e OCP, PCB, PCDD, PCDF; ossidi di azoto e polveri sono macro-inquinanti.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.10"
+  },
+  {
+    "id": "bci-atm-031",
+    "topic": "bio-chimica",
+    "question": "Perché i composti organici volatili (COV) sono definiti precursori dell'ozono?",
+    "suggestion": "Un precursore è ciò che sta a monte della formazione di una sostanza.",
+    "options": [
+      "Perché reagendo in atmosfera contribuiscono a formare ozono",
+      "Perché si liberano dalla decomposizione dell'ozono troposferico",
+      "Perché neutralizzano l'ozono già presente nella troposfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "I COV sono precursori dell'ozono perché, reagendo con gli NOx grazie alla radiazione solare, ne favoriscono la formazione; non derivano dall'ozono né lo neutralizzano.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.10"
+  },
+  {
+    "id": "bci-atm-032",
+    "topic": "bio-chimica",
+    "question": "A quale categoria di inquinanti appartiene il freon?",
+    "suggestion": "È elencato accanto a IPA, mercurio e composti alogenati.",
+    "options": [
+      "Ai macro-inquinanti gassosi come SO2 e CO",
+      "Ai micro-inquinanti dell'atmosfera",
+      "Ai normali costituenti naturali dell'aria"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il freon compare nell'elenco dei micro-inquinanti, insieme a IPA, benzene, formaldeide, metalli pesanti, mercurio e composti clorurati/alogenati.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.10"
+  },
+  {
+    "id": "bci-atm-033",
+    "topic": "bio-chimica",
+    "question": "Come è classificato il mercurio (Hg) presente in atmosfera?",
+    "suggestion": "Pensa alle concentrazioni tipiche dei metalli pesanti nell'aria.",
+    "options": [
+      "Come un macro-inquinante, al pari delle polveri sospese",
+      "Come un micro-inquinante presente in tracce",
+      "Come un componente maggioritario dell'aria pulita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il mercurio è elencato tra i micro-inquinanti (metalli pesanti/metallo-organici), presenti in quantità minime; le polveri sospese sono invece macro-inquinanti.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.10"
+  },
+  {
+    "id": "bci-atm-034",
+    "topic": "bio-chimica",
+    "question": "Oltre ad azoto e ossigeno, quali gas costituiscono il restante ~1% dell'atmosfera?",
+    "suggestion": "Sono gas nobili e composti presenti in tracce, elencati dopo N2 e O2.",
+    "options": [
+      "Argon, anidride carbonica e neon",
+      "Idrogeno solforato, metano e ozono in parti uguali",
+      "Ozono troposferico e polveri sottili in sospensione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il restante ~1% è costituito da Ar, CO2, Ne e altri gas in tracce (elio, metano, cripto, idrogeno); azoto (~78%) e ossigeno (~21%) dominano la composizione.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.13"
+  },
+  {
+    "id": "bci-atm-035",
+    "topic": "bio-chimica",
+    "question": "Quale gas serra naturale è presente nell'atmosfera solo in tracce, circa lo 0,038%?",
+    "suggestion": "Nonostante la bassa concentrazione, ha un forte ruolo climatico.",
+    "options": [
+      "L'ossigeno (O2)",
+      "L'anidride carbonica (CO2)",
+      "L'azoto (N2)"
+    ],
+    "correctIndex": 1,
+    "explanation": "La CO2 è presente solo in tracce (~0,038%) ma è il principale gas serra; azoto (~78%) e ossigeno (~21%) sono i costituenti maggioritari dell'aria.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.13"
+  },
+  {
+    "id": "bci-atm-036",
+    "topic": "bio-chimica",
+    "question": "Quale fenomeno rientra tra le alterazioni dell'aria a livello locale e a basse quote?",
+    "suggestion": "Distingui i fenomeni globali da quelli concentrati in aree ristrette.",
+    "options": [
+      "Il buco dello strato di ozono nella stratosfera terrestre",
+      "L'effetto serra su scala planetaria",
+      "L'inquinamento nei grandi centri urbani e industriali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le alterazioni a livello locale comprendono l'inquinamento nelle città e nei grandi centri urbani e industriali; effetto serra e buco dell'ozono sono invece alterazioni su scala planetaria.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.17"
+  },
+  {
+    "id": "bci-atm-037",
+    "topic": "bio-chimica",
+    "question": "Perché l'effetto serra è classificato diversamente dall'inquinamento urbano da traffico?",
+    "suggestion": "La differenza sta nell'estensione geografica del fenomeno.",
+    "options": [
+      "Perché l'effetto serra agisce su scala planetaria, mentre lo smog urbano resta locale",
+      "Perché l'effetto serra è un fenomeno naturale privo di cause antropiche",
+      "Perché lo smog urbano interessa l'intero pianeta, l'effetto serra solo le città"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'effetto serra rientra nelle alterazioni su scala planetaria, mentre l'inquinamento urbano è un'alterazione a livello locale e a basse quote; è l'estensione del fenomeno a distinguerli.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.17"
+  },
+  {
+    "id": "bci-atm-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra le fonti naturali di inquinamento atmosferico rientrano le eruzioni vulcaniche, gli incendi boschivi e l'___ del suolo.",
+    "answers": [["erosione"]],
+    "suggestion": "È il logoramento e l'asportazione dello strato superficiale del terreno.",
+    "explanation": "Le fonti naturali comprendono eruzioni vulcaniche, incendi boschivi ed erosione del suolo.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.2"
+  },
+  {
+    "id": "bci-atm-fill-010",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Secondo la definizione del corso, l'inquinamento atmosferico danneggia la salute umana, gli ecosistemi e i ___.",
+    "answers": [["manufatti", "manufatto"]],
+    "suggestion": "Sono i beni e le opere costruite dall'uomo.",
+    "explanation": "L'inquinamento atmosferico è l'alterazione delle condizioni naturali dell'aria, dannosa per salute umana, ecosistemi e manufatti.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.4"
+  },
+  {
+    "id": "bci-atm-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I gas responsabili dell'aumento dell'effetto serra, come la CO2, sono detti gas climalteranti o gas ___.",
+    "answers": [["serra"]],
+    "suggestion": "Prende il nome dall'effetto che amplificano.",
+    "explanation": "La CO2 e gli altri gas climalteranti sono chiamati anche gas serra.",
+    "difficulty": "easy",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.5"
+  },
+  {
+    "id": "bci-atm-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Gli inquinanti tradizionali restano gravi: il PM2,5 è associato a circa 2,9 ___ di morti premature nel mondo.",
+    "answers": [["milioni", "milione"]],
+    "suggestion": "È un ordine di grandezza molto superiore alle 220.000 attribuite all'ozono.",
+    "explanation": "Il PM2,5 causa circa 2,9 milioni di morti premature, l'ozono circa 220.000.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.8"
+  },
+  {
+    "id": "bci-atm-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "I composti organici volatili (COV) sono considerati i ___ dell'ozono troposferico.",
+    "answers": [["precursori", "precursore"]],
+    "suggestion": "Sono le sostanze che stanno a monte della sua formazione.",
+    "explanation": "I COV, reagendo con gli NOx grazie alla radiazione solare, sono precursori dell'ozono troposferico.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.10"
+  },
+  {
+    "id": "bci-atm-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella composizione dell'atmosfera, dopo azoto e ossigeno il gas più abbondante è l'___, con circa lo 0,934%.",
+    "answers": [["argon", "argo"]],
+    "suggestion": "È un gas nobile inerte.",
+    "explanation": "Dopo azoto (~78%) e ossigeno (~21%), l'argon è il gas più abbondante, con circa lo 0,934%.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.13"
+  },
+  {
+    "id": "bci-atm-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Gli idrocarburi policiclici aromatici, tra cui il benzo(a)pirene (BaP), sono indicati con la sigla ___.",
+    "answers": [["IPA"]],
+    "suggestion": "È l'acronimo italiano di 'idrocarburi policiclici aromatici'.",
+    "explanation": "Gli idrocarburi policiclici aromatici (IPA), tra cui il BaP, sono elencati tra i micro-inquinanti atmosferici.",
+    "difficulty": "medium",
+    "source": "Aneggi (9) — Inquinamento atmosferico.pdf p.10"
   }
 ]

@@ -248,5 +248,201 @@
     "explanation": "Nell'ambito di bioaccumulo, bioconcentrazione e rischi per la salute, il corso tratta in modo specifico il mercurio e l'arsenico.",
     "difficulty": "medium",
     "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-014",
+    "topic": "bio-chimica",
+    "question": "Quale fenomeno, tra i contenuti del corso, riguarda l'adesione degli inquinanti alle superfici solide del suolo?",
+    "suggestion": "Non è un assorbimento in profondità: gli inquinanti restano sulla superficie.",
+    "options": [
+      "I fenomeni di adsorbimento sulle superfici solide",
+      "I fenomeni di volatilizzazione verso l'atmosfera",
+      "I fenomeni di precipitazione come sali insolubili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i contenuti figurano i fenomeni di adsorbimento, cioè l'adesione degli inquinanti alle superfici delle particelle solide del suolo; volatilizzazione e precipitazione sono altri processi ambientali ma non quelli indicati in questo punto del programma.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-015",
+    "topic": "bio-chimica",
+    "question": "Quali sono le tre matrici ambientali la cui contaminazione viene introdotta all'inizio del programma?",
+    "suggestion": "Le tre grandi matrici ambientali di base.",
+    "options": [
+      "Acqua dolce, sedimenti e biota",
+      "Atmosfera, oceani e ghiacci polari",
+      "Aria, acqua e suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il corso si apre con l'introduzione all'inquinamento di aria, acqua e suolo, le tre matrici ambientali fondamentali.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-016",
+    "topic": "bio-chimica",
+    "question": "In base alla loro natura chimica, come sono distinti i contaminanti trattati nel corso?",
+    "suggestion": "La distinzione di base dipende dalla presenza o meno del carbonio.",
+    "options": [
+      "In contaminanti volatili e non volatili",
+      "In contaminanti organici ed inorganici",
+      "In contaminanti naturali ed antropici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il programma tratta separatamente i contaminanti organici ed inorganici; le classificazioni per volatilità o per origine non sono quelle usate in questo punto del corso.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-017",
+    "topic": "bio-chimica",
+    "question": "Oltre alle competenze tecniche, quale capacità rivolta alla società rientra tra gli obiettivi del corso?",
+    "suggestion": "Riguarda il saper divulgare le problematiche ambientali.",
+    "options": [
+      "La capacità di redigere autonomamente normative ambientali",
+      "La capacità di progettare impianti di depurazione delle acque",
+      "La capacità di eseguire analisi chimiche certificate di laboratorio",
+      "La capacità di comunicazione delle problematiche verso il pubblico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra gli obiettivi del corso è esplicitata la capacità di comunicazione delle problematiche verso il pubblico; progettazione di impianti, normazione e analisi certificate non figurano tra gli obiettivi dichiarati.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-018",
+    "topic": "bio-chimica",
+    "question": "In quali giorni della settimana si tengono le lezioni del corso?",
+    "suggestion": "Due giorni, il secondo è il venerdì.",
+    "options": [
+      "Lunedì e giovedì",
+      "Martedì e venerdì",
+      "Mercoledì e venerdì"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'orario del corso prevede lezioni il mercoledì e il venerdì, dalle 8.30 alle 10.30.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-019",
+    "topic": "bio-chimica",
+    "question": "Chi sono i docenti ufficiali del corso, distinti dai docenti dei seminari?",
+    "suggestion": "Non compaiono tra i relatori dei seminari.",
+    "options": [
+      "La prof.ssa De Nobili e il dott. Tomat",
+      "Il prof. Contin e la prof.ssa Aneggi",
+      "La prof.ssa Pellegrini e il dott. Acquavita"
+    ],
+    "correctIndex": 1,
+    "explanation": "I docenti ufficiali sono il prof. Contin e la prof.ssa Aneggi; De Nobili, Tomat e Acquavita figurano invece tra i docenti dei seminari.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-020",
+    "topic": "bio-chimica",
+    "question": "Dove viene reso disponibile agli studenti il materiale didattico del corso?",
+    "suggestion": "La stessa piattaforma usata anche per il ricevimento.",
+    "options": [
+      "Caricato sul Team del corso su Microsoft Teams",
+      "Distribuito come dispensa cartacea in segreteria",
+      "Pubblicato su una piattaforma Moodle di ateneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le slide di lezione e l'altro materiale bibliografico sono caricati sul Team del corso (Microsoft Teams), piattaforma usata anche per il ricevimento.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-021",
+    "topic": "bio-chimica",
+    "question": "Quale manuale di chimica ambientale è indicato tra i libri di testo del corso?",
+    "suggestion": "Edito da Zanichelli, autori Baird e Cann.",
+    "options": [
+      "Manahan, «Chimica dell'ambiente», Piccin",
+      "Atkins, «Chimica fisica», Zanichelli",
+      "Brown, «Chimica: la scienza centrale», EdiSES",
+      "Baird e Cann, «Chimica ambientale», Zanichelli"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra i testi consigliati figura Baird C., Cann M., «Chimica ambientale», Zanichelli, 2013; gli altri sono manuali di chimica generale o fisica non inclusi in bibliografia.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-022",
+    "topic": "bio-chimica",
+    "question": "Quale pubblicazione della FAO sull'inquinamento del suolo è inclusa nella bibliografia del corso?",
+    "suggestion": "Il titolo parla di una realtà «nascosta».",
+    "options": [
+      "«Soil pollution: A hidden reality» (FAO, 2018)",
+      "«The state of the world's soil resources» (FAO, 2015)",
+      "«Global assessment of soil pollution» (FAO, 2021)"
+    ],
+    "correctIndex": 0,
+    "explanation": "In bibliografia è indicato «Soil pollution: A hidden reality» (Rodriguez-Eugenio, McLaughlin, Pennock; FAO, 2018); gli altri titoli FAO non fanno parte dei testi del corso.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-023",
+    "topic": "bio-chimica",
+    "question": "Quale obiettivo del corso riguarda in modo specifico i dati sperimentali sugli inquinanti?",
+    "suggestion": "Non si tratta di produrre i dati, ma di valutarli con spirito critico.",
+    "options": [
+      "Produrre nuovi dati mediante campagne di monitoraggio ambientale sul campo",
+      "Archiviare i dati storici in banche dati pubbliche consultabili",
+      "Selezionare ed analizzare criticamente i dati sui principali inquinanti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra gli obiettivi vi è saper selezionare ed analizzare criticamente i dati sui principali inquinanti di acque e suoli; la produzione e l'archiviazione dei dati non sono obiettivi dichiarati del corso.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-006",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i contenuti su bioaccumulo e rischi per la salute, il corso tratta anche la ___.",
+    "answers": [["bioconcentrazione"]],
+    "suggestion": "Termine affine al bioaccumulo, inizia con «bio».",
+    "explanation": "Il programma include bioaccumulo, bioconcentrazione e rischi per la salute.",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-007",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il corso è erogato dal Dipartimento di Scienze AgroAlimentari, Ambientali e Animali, identificato dalla sigla ___.",
+    "answers": [["DI4A"]],
+    "suggestion": "Sigla di quattro caratteri contenente un numero.",
+    "explanation": "Il dipartimento di riferimento è il DI4A (Dipartimento di Scienze AgroAlimentari, Ambientali e Animali).",
+    "difficulty": "medium",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-008",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il ricevimento studenti avviene, oltre che in ufficio previo appuntamento, tramite chat su Microsoft ___.",
+    "answers": [["Teams"]],
+    "suggestion": "La stessa piattaforma su cui è caricato il materiale del corso.",
+    "explanation": "Il ricevimento avviene tramite chat su Microsoft Teams oppure in ufficio previo appuntamento.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
+  },
+  {
+    "id": "bci-cbiintro-fill-009",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Le lezioni del corso, il mercoledì e il venerdì, si tengono dalle 8.30 alle ___.",
+    "answers": [["10.30", "10:30"]],
+    "suggestion": "Due ore dopo l'inizio.",
+    "explanation": "L'orario delle lezioni è mercoledì e venerdì dalle 8.30 alle 10.30.",
+    "difficulty": "easy",
+    "source": "CBI_Introduzione.pptx"
   }
 ]

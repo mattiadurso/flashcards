@@ -348,5 +348,229 @@
     "explanation": "Le proprietà chimico-fisiche del programma comprendono acidi e basi e pH, oltre a stati della materia, legami, solubilità e bioaccumulazione.",
     "difficulty": "easy",
     "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-017",
+    "topic": "bio-chimica",
+    "question": "Secondo lo schema introduttivo del corso, quali tre proprietà definiscono i POPS?",
+    "suggestion": "Guarda le tre parole al centro del ciclo e le tre icone in basso.",
+    "options": [
+      "Sono volatili, reattivi e facilmente idrosolubili",
+      "Sono persistenti, tossici e bioaccumulabili",
+      "Sono polari, biodegradabili e a rapida emivita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo schema definisce i POPS come sostanze persistenti (chimicamente stabili), tossiche e bioaccumulabili; volatilità, idrosolubilità e rapida degradazione sono proprietà opposte a quelle che li rendono problematici.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-018",
+    "topic": "bio-chimica",
+    "question": "Perché i POPS possono essere soggetti a trasporto a lunga distanza attraverso aria, acqua e suolo?",
+    "suggestion": "Collega la loro stabilità chimica al fatto che non si degradano durante il tragitto.",
+    "options": [
+      "Perché la loro persistenza li mantiene integri durante il trasporto",
+      "Perché la loro elevata reattività li spinge a migrare rapidamente tra i comparti",
+      "Perché la loro idrosolubilità li vincola stabilmente alle particelle di suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La stabilità chimica (persistenza) fa sì che i POPS non si degradino durante il tragitto, così possono percorrere lunghe distanze in aria, acqua e suolo; la reattività li degraderebbe e l'idrosolubilità li tratterrebbe nel suolo.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-019",
+    "topic": "bio-chimica",
+    "question": "Nel ciclo ambientale dei POPS, quali sono indicate come principali fonti di immissione?",
+    "suggestion": "Pensa alle attività umane produttive e ai loro scarti.",
+    "options": [
+      "Le eruzioni vulcaniche, gli incendi naturali e le maree",
+      "La fotosintesi, la respirazione e la decomposizione dei suoli",
+      "L'industria, l'agricoltura e i rifiuti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo schema indica come fonti dei POPS l'industria, l'agricoltura e i rifiuti; i processi naturali elencati nelle altre opzioni non sono le fonti antropiche rappresentate.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-020",
+    "topic": "bio-chimica",
+    "question": "Perché i POPS tendono a depositarsi nei tessuti grassi degli organismi?",
+    "suggestion": "La parola 'bioaccumulabili' richiama l'affinità con una certa classe di tessuti.",
+    "options": [
+      "Perché sono idrofili e vengono filtrati con difficoltà dai reni",
+      "Perché la loro natura lipofila li fa concentrare nel tessuto adiposo",
+      "Perché reagiscono chimicamente legandosi alle proteine muscolari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Essendo lipofili, i POPS si sciolgono e si accumulano nei grassi: da qui il 'deposito nei tessuti grassi' dello schema. Non sono idrofili né si legano stabilmente alle proteine muscolari.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-021",
+    "topic": "bio-chimica",
+    "question": "In quale contesto lo schema colloca il bioaccumulo e la biomagnificazione dei POPS?",
+    "suggestion": "Non nell'atmosfera né negli impianti, ma dove gli organismi si mangiano tra loro.",
+    "options": [
+      "Lungo la catena alimentare, salendo di livello trofico",
+      "Durante il solo trasporto atmosferico a lunga distanza",
+      "Nella fase di combustione all'interno degli impianti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo schema associa bioaccumulo e biomagnificazione alla catena alimentare: la concentrazione cresce passando ai livelli trofici superiori. Il trasporto atmosferico e la combustione riguardano altre fasi del ciclo.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-022",
+    "topic": "bio-chimica",
+    "question": "L'icona 'chemical stability' associata ai POPS richiama quale delle loro proprietà?",
+    "suggestion": "Una sostanza stabile resiste a qualcosa nel tempo.",
+    "options": [
+      "La tendenza a reagire rapidamente con l'ossigeno atmosferico",
+      "L'elevata volatilità alle normali temperature ambientali",
+      "La persistenza, cioè la resistenza alla degradazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "La stabilità chimica corrisponde alla persistenza: i POPS resistono a lungo alla degradazione da parte di luce, acqua, aria e microrganismi. Reattività e volatilità descrivono comportamenti opposti.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-023",
+    "topic": "bio-chimica",
+    "question": "Oltre alla stabilità chimica e al bioaccumulo, quale terza proprietà lo schema evidenzia come critica per i POPS?",
+    "suggestion": "È il motivo per cui, una volta accumulati, provocano danno.",
+    "options": [
+      "La radioattività",
+      "La tossicità",
+      "L'acidità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le tre icone dello schema sono stabilità chimica, tossicità e bioaccumulo: è la tossicità a rendere dannoso l'accumulo dei POPS negli organismi. Radioattività e acidità non sono tra le proprietà rappresentate.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-024",
+    "topic": "bio-chimica",
+    "question": "Perché la combinazione di persistenza e natura lipofila rende i POPS particolarmente pericolosi?",
+    "suggestion": "Metti insieme 'non si degrada' e 'si scioglie nei grassi' e segui la catena alimentare.",
+    "options": [
+      "Perché, non degradandosi e sciogliendosi nei grassi, si concentrano lungo la catena trofica",
+      "Perché, reattivi e idrosolubili, vengono rapidamente eliminati ed escreti dagli organismi",
+      "Perché, volatili e instabili, restano confinati nell'atmosfera senza entrare negli organismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una sostanza che non si degrada (persistente) e si accumula nei grassi (lipofila) permane negli organismi e si concentra salendo di livello trofico. Le altre opzioni descrivono sostanze che verrebbero eliminate o non entrerebbero nella catena alimentare.",
+    "difficulty": "hard",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-025",
+    "topic": "bio-chimica",
+    "question": "Secondo il programma, oltre alla qualità delle acque quale altro comparto ambientale ha un capitolo dedicato all'inquinamento?",
+    "suggestion": "Il comparto che respiriamo.",
+    "options": [
+      "Il sottosuolo profondo e le falde geotermiche",
+      "La biosfera dei fondali oceanici profondi",
+      "L'atmosfera e l'aria che respiriamo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il programma dedica un punto specifico all'inquinamento dell'atmosfera, accanto alla qualità delle acque. Falde geotermiche e fondali oceanici non compaiono come capitoli del programma.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-026",
+    "topic": "bio-chimica",
+    "question": "Secondo la procedura per gli esami con misure compensative, con quale anticipo va contattato il Servizio Inclusione di Ateneo?",
+    "suggestion": "Si misura in giorni lavorativi, poco più di una settimana.",
+    "options": [
+      "Almeno 10 giorni lavorativi prima dell'esame",
+      "Almeno 3 giorni lavorativi prima dell'esame",
+      "Almeno 30 giorni lavorativi prima dell'esame"
+    ],
+    "correctIndex": 0,
+    "explanation": "La procedura richiede di contattare il Servizio Inclusione almeno 10 giorni lavorativi prima dell'esame, indicando nome dell'insegnamento e data. Tre giorni sarebbero insufficienti, trenta non sono richiesti.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-027",
+    "topic": "bio-chimica",
+    "question": "Quale aspetto è previsto specificamente nello studio dei PCB e delle diossine ma non è elencato per gli idrocarburi?",
+    "suggestion": "Riguarda il modo di denominare in modo sistematico questi composti.",
+    "options": [
+      "La nomenclatura sistematica",
+      "La distribuzione ambientale",
+      "La tossicità sugli organismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per PCB e diossine il programma aggiunge la nomenclatura, mentre definizione, contaminazione, proprietà chimico-fisiche, distribuzione ambientale e tossicità sono aspetti comuni anche agli idrocarburi.",
+    "difficulty": "hard",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-028",
+    "topic": "bio-chimica",
+    "question": "Perché l'agricoltura figura tra le principali fonti di POPS nell'ambiente?",
+    "suggestion": "Ricorda che tra gli agenti persistenti citati dal corso c'è un noto pesticida.",
+    "options": [
+      "Per il rilascio di nutrienti come azoto e fosforo responsabili dell'eutrofizzazione",
+      "Per l'impiego di pesticidi persistenti come alcuni composti organoclorurati",
+      "Per l'elevata produzione di anidride carbonica dei campi coltivati"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'agricoltura immette POPS soprattutto attraverso pesticidi persistenti (come il DDT e altri organoclorurati). L'eccesso di nutrienti e la CO2 causano altri problemi ambientali (eutrofizzazione, effetto serra), non rientrano tra i POPS.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nello schema, i due processi con cui i POPS si concentrano negli organismi lungo la catena alimentare sono il bioaccumulo e la ___.",
+    "answers": [["biomagnificazione", "biomagnification"]],
+    "suggestion": "Non il semplice accumulo in un individuo, ma l'aumento da un anello all'altro della catena.",
+    "explanation": "Accanto al bioaccumulo, lo schema indica la biomagnificazione: la concentrazione del contaminante cresce salendo di livello trofico.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Secondo lo schema, il trasporto a lunga distanza dei POPS avviene attraverso tre vie: aria, acqua e ___.",
+    "answers": [["suolo"]],
+    "suggestion": "Il comparto terrestre solido su cui camminiamo.",
+    "explanation": "Lo schema indica aria, acqua e suolo come vie del trasporto a lunga distanza dei POPS.",
+    "difficulty": "easy",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra le proprietà chimico-fisiche, il programma elenca la solubilità e, come proprietà legata all'accumulo negli organismi, la ___.",
+    "answers": [["bioaccumulazione", "bioaccumulo"]],
+    "suggestion": "È la proprietà richiamata anche dai POPS come 'bioaccumulabili'.",
+    "explanation": "Il programma include la bioaccumulazione tra le proprietà chimico-fisiche, accanto a stato della materia, legami, pH e solubilità.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
+  },
+  {
+    "id": "bci-intro-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nella parte sui detergenti, oltre a contaminazione ambientale e tossicità, il programma studia la ___ dei tensioattivi.",
+    "answers": [["biodegradazione", "biodegradabilità"]],
+    "suggestion": "La capacità di essere demoliti dai microrganismi.",
+    "explanation": "Il programma tratta la biodegradazione dei tensioattivi, cioè la loro demolizione da parte dei microrganismi, determinante per la loro persistenza ambientale.",
+    "difficulty": "medium",
+    "source": "Aneggi (1) — Introduzione.pdf"
   }
 ]

@@ -348,5 +348,371 @@
     "explanation": "Nel disastro di Minamata (1956) il metilmercurio si accumulò nei pesci fino a 100 mg/kg, intossicando la popolazione locale che se ne cibava.",
     "difficulty": "easy",
     "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-017",
+    "topic": "bio-chimica",
+    "question": "Perché i campioni di suolo e vegetali destinati all'analisi del mercurio vengono essiccati a bassa temperatura (circa 45 °C)?",
+    "suggestion": "Ricorda quanto è basso il punto di ebollizione del mercurio rispetto ad altri metalli.",
+    "options": [
+      "Per evitare la volatilizzazione del mercurio, che sottostimerebbe la misura",
+      "Per accelerare la macinazione a secco dei campioni nel mulino a biglie",
+      "Per favorire la metilazione microbica del mercurio nei tessuti vegetali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il mercurio è volatile: essiccare a bassa temperatura evita che parte del metallo evapori durante la preparazione, mantenendo attendibile la misura; le altre opzioni non riguardano la perdita di analita.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-018",
+    "topic": "bio-chimica",
+    "question": "Perché nella patata dolce il tubero presenta concentrazioni di mercurio molto più basse rispetto alle radici?",
+    "suggestion": "Chiediti da quale organo la pianta assorbe realmente il mercurio dal suolo.",
+    "options": [
+      "Perché il tubero riceve il mercurio traslocato dalle foglie tramite il floema",
+      "Perché il tubero, a differenza delle radici, non assorbe il mercurio dal suolo",
+      "Perché per legge la parte edibile della pianta non può accumulare mercurio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il mercurio è assorbito dalle radici, non dal tubero: quest'ultimo, pur essendo sotterraneo, ne accumula pochissimo. Il floema porta zuccheri, non mercurio, e non esistono limiti di legge che 'proteggano' l'organo edibile.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-019",
+    "topic": "bio-chimica",
+    "question": "Negli ortaggi a foglia larga come lattuga e radicchio, perché le foglie esterne contengono più mercurio di quelle interne?",
+    "suggestion": "Pensa a quale foglia è più esposta all'aria rispetto a quella protetta all'interno del cespo.",
+    "options": [
+      "Perché le foglie interne traslocano attivamente il mercurio verso le radici",
+      "Perché le foglie esterne ricevono più mercurio attraverso il floema",
+      "Perché le foglie esterne assorbono il mercurio direttamente dall'atmosfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le foglie esterne, più esposte all'aria, captano il mercurio atmosferico (Hg0 vapore), quindi ne concentrano di più; le interne, schermate, ne accumulano meno. Il floema non trasporta mercurio.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-020",
+    "topic": "bio-chimica",
+    "question": "In frumento e mais coltivati in suoli aerobici, in quale forma il mercurio viene principalmente assorbito dalle radici?",
+    "suggestion": "In condizioni aerobiche non c'è la metilazione tipica dei suoli sommersi.",
+    "options": [
+      "Come metilmercurio CH3Hg+ prodotto dai batteri anaerobi",
+      "Come mercurio inorganico, sotto forma di ione Hg2+",
+      "Come mercurio elementare Hg0 allo stato di vapore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei suoli aerobici il mercurio è presente come inorganico e le radici assorbono lo ione Hg2+; il metilmercurio si forma invece nei suoli anaerobici sommersi (es. riso), mentre l'Hg0 riguarda l'assorbimento fogliare atmosferico.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-021",
+    "topic": "bio-chimica",
+    "question": "Quale quota delle emissioni annue di mercurio a livello globale è di origine antropica?",
+    "suggestion": "È una frazione maggioritaria, ma non la totalità.",
+    "options": [
+      "Circa il 50-75%",
+      "Circa il 10-25%",
+      "Circa il 90-100%"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'emissione di origine antropica annua è stimata al 50-75%; il resto proviene da fonti naturali (vulcani, sorgenti geotermali, incendi, minerali). Non è quindi né minoritaria né totale.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-022",
+    "topic": "bio-chimica",
+    "question": "A quanto ammontano approssimativamente le emissioni atmosferiche antropogeniche annue di mercurio a livello globale?",
+    "suggestion": "L'ordine di grandezza è delle migliaia di tonnellate.",
+    "options": [
+      "Circa 200 tonnellate all'anno",
+      "Circa 2.000 tonnellate all'anno",
+      "Circa 20.000 tonnellate all'anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le emissioni atmosferiche antropogeniche annue globali sono di circa 2.000 tonnellate; gli altri due valori differiscono di un ordine di grandezza in difetto o in eccesso.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-023",
+    "topic": "bio-chimica",
+    "question": "Nel ciclo del mercurio, quale prodotto genera la demetilazione riduttiva del metilmercurio?",
+    "suggestion": "Distinguila dalla demetilazione ossidativa, che porta invece allo ione mercurico.",
+    "options": [
+      "Lo ione mercurico Hg2+",
+      "Il solfuro di mercurio HgS",
+      "Il mercurio elementare Hg0"
+    ],
+    "correctIndex": 2,
+    "explanation": "La demetilazione riduttiva converte il metilmercurio in Hg0 elementare; quella ossidativa produce invece Hg2+. La formazione di HgS è un processo distinto, legato allo zolfo.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-024",
+    "topic": "bio-chimica",
+    "question": "Quale processo del ciclo del mercurio è descritto come molto più spinto nel sedimento che nella colonna d'acqua?",
+    "suggestion": "È lo stesso processo che rende il mercurio molto più tossico entrando nella catena trofica.",
+    "options": [
+      "La metilazione",
+      "La foto-riduzione",
+      "La volatilizzazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "La metilazione, operata dai batteri anaerobi nei sedimenti anossici e ricchi di sostanza organica, è molto più intensa nel sedimento; la foto-riduzione richiede luce e la volatilizzazione avviene soprattutto da suolo e acqua.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-025",
+    "topic": "bio-chimica",
+    "question": "Da dove deriva principalmente il mercurio presente nell'ambiente acquatico?",
+    "suggestion": "Pensa allo scambio con il comparto in cui il mercurio è trasportato per lunghe distanze.",
+    "options": [
+      "Dalla lisciviazione diretta dei minerali di cinabro",
+      "Dalla demetilazione del metilmercurio operata dai pesci",
+      "Dagli scambi aria-acqua, come Hg0 e Hg2+ legato al particolato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il mercurio dell'ambiente acquatico deriva principalmente dagli scambi aria-acqua (Hg0 e Hg2+ legato al particolato in sospensione), riflesso del trasporto atmosferico a lunga distanza; le altre vie sono marginali o inventate.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-026",
+    "topic": "bio-chimica",
+    "question": "In quale comparto si registrano le concentrazioni di mercurio nettamente più elevate?",
+    "suggestion": "Confronta un ambiente naturale diluito con uno scarico puntuale non depurato.",
+    "options": [
+      "Nelle acque di scarico industriali contaminate",
+      "Nei mari e negli oceani aperti al largo delle coste",
+      "Nelle acque di falda profonde e protette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le acque di scarico industriali contaminate arrivano a circa 280.000 ng/L, ordini di grandezza oltre mari e oceani (0,05-3,2 ng/L) o falde (0,1-16 ng/L), dove il mercurio è molto diluito.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-027",
+    "topic": "bio-chimica",
+    "question": "Quale valore di mercurio caratterizza un suolo considerato 'normale', lontano da fonti di contaminazione?",
+    "suggestion": "Distinguilo dai valori tipici dei giacimenti e delle miniere, molto più alti.",
+    "options": [
+      "Meno di 100 µg/kg, cioè meno di 0,1 mg/kg",
+      "Tra 1 e 100 mg/kg, come in prossimità di un giacimento",
+      "Oltre 1.500 mg/kg, come nelle miniere di mercurio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un suolo normale contiene meno di 100 µg/kg (<0,1 mg/kg); in prossimità di un giacimento si sale a 1-100 mg/kg e in una miniera oltre 1.500 mg/kg. La crosta terrestre ha in media 50 µg/kg.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-028",
+    "topic": "bio-chimica",
+    "question": "Quali sono gli organi bersaglio principali del mercurio inorganico nell'uomo?",
+    "suggestion": "Non è il metilmercurio: qui il danno colpisce soprattutto gli organi emuntori e digestivi.",
+    "options": [
+      "Il tessuto adiposo, per la natura lipofila del composto",
+      "Esclusivamente il sistema nervoso centrale, con atassia",
+      "I reni e il fegato, con gastriti emorragiche e danni renali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il mercurio inorganico ha come organi bersaglio reni, fegato, sistema nervoso, immunitario e riproduttivo, con gastriti emorragiche, coliti e danni renali; il metilmercurio, invece, è selettivo per il sistema nervoso centrale.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-029",
+    "topic": "bio-chimica",
+    "question": "Come si colloca l'emivita del metilmercurio nell'uomo (50-70 giorni) rispetto a quella del mercurio inorganico (30-60 giorni)?",
+    "suggestion": "Un tempo di permanenza maggiore favorisce l'accumulo dell'organico.",
+    "options": [
+      "È mediamente più lunga",
+      "È mediamente più breve",
+      "È praticamente identica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il metilmercurio ha emivita di 50-70 giorni, superiore ai 30-60 giorni dell'inorganico: permane più a lungo nell'organismo, coerentemente con la sua maggiore tendenza al bioaccumulo.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-030",
+    "topic": "bio-chimica",
+    "question": "Oltre che per ingestione e inalazione dei vapori, in quale altro modo il mercurio può introdursi nell'organismo?",
+    "suggestion": "Il mercurio è in grado di superare una barriera che di solito protegge dagli inquinanti.",
+    "options": [
+      "Soltanto attraverso ferite aperte della cute",
+      "Non è in grado di superare la barriera cutanea",
+      "Per semplice contatto, attraversando la pelle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il mercurio può entrare anche per semplice contatto, essendo in grado di attraversare la pelle integra; non servono quindi ferite né la via cutanea è preclusa.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-031",
+    "topic": "bio-chimica",
+    "question": "Attraverso quale via idrica la contaminazione da mercurio del SIN Caffaro-Torviscosa raggiunse la laguna di Grado-Marano?",
+    "suggestion": "Segui il percorso dello scarico industriale fino al corso d'acqua che sfocia in laguna.",
+    "options": [
+      "Attraverso il fiume Isonzo, per dilavamento delle sponde",
+      "Attraverso il fiume Idrijca, proveniente dalla Slovenia",
+      "Attraverso il Canale Banduzzi, confluente nel fiume Ausa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo sversamento avveniva nel Canale Banduzzi, che confluiva nel fiume Ausa portando il mercurio fino alla laguna di Grado-Marano; l'Isonzo e l'Idrijca sono legati ad altre fonti (miniera di Idrija).",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-032",
+    "topic": "bio-chimica",
+    "question": "Circa quante tonnellate di mercurio furono sversate negli scarichi industriali dall'impianto cloro-soda del SIN Caffaro-Torviscosa?",
+    "suggestion": "L'ordine di grandezza è di alcune centinaia di tonnellate.",
+    "options": [
+      "Circa 186 tonnellate",
+      "Circa 35 tonnellate",
+      "Circa 2.500 tonnellate"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'impianto cloro-soda sversò circa 186 tonnellate di Hg (Arpa Fvg, 2012) con gli scarichi industriali; gli altri valori confondono con dati di scala diversa.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-033",
+    "topic": "bio-chimica",
+    "question": "Nell'ex miniera di Idrija, delle circa 127.000 tonnellate di mercurio estratte, quante furono disperse nell'ambiente?",
+    "suggestion": "È una quota intermedia tra il totale estratto e la parte entrata nel sistema fluviale.",
+    "options": [
+      "Circa 12.000 tonnellate",
+      "Circa 35.000 tonnellate",
+      "Circa 2.500 tonnellate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delle 127.000 t estratte, circa 35.000 t furono disperse nell'ambiente e di queste circa 12.000 t entrarono nel sistema fluviale; 2.500 kg/anno è invece l'input annuo nel reticolo idrografico.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-034",
+    "topic": "bio-chimica",
+    "question": "La speciazione chimica indica che nel suolo delle sponde dell'Isonzo il mercurio è quasi totalmente presente in quale frazione?",
+    "suggestion": "È la forma legata allo zolfo, tipica del minerale di mercurio.",
+    "options": [
+      "Legato alla sostanza organica (frazione OM)",
+      "Come solfuro di mercurio HgS (frazione cinabrica)",
+      "Nella frazione scambiabile e solubile (EXC)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel suolo delle sponde dell'Isonzo il mercurio è praticamente tutto nella frazione HgS (cinabrica), poco mobile; nel sedimento del canale Banduzzi prevale invece la frazione legata alla sostanza organica.",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-035",
+    "topic": "bio-chimica",
+    "question": "Quale tra questi è un obiettivo esplicito della Convenzione di Minamata?",
+    "suggestion": "La Convenzione punta a ridurre e controllare mercurio, non a incentivarlo.",
+    "options": [
+      "Sostituire gli impianti cloro-soda con nuove miniere di mercurio",
+      "Consentire liberamente l'importazione di prodotti contenenti mercurio",
+      "Stoccare in modo sicuro il mercurio e limitarne il commercio"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Convenzione di Minamata mira a stoccare in sicurezza il mercurio, limitarne il commercio, ridurne emissioni e usi e vietare nuove miniere; le altre opzioni vanno nella direzione opposta ai suoi obiettivi.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-036",
+    "topic": "bio-chimica",
+    "question": "Perché, secondo le conclusioni, gli ortaggi a foglia come lattuga, radicchio e spinacio meritano attenzione per il mercurio?",
+    "suggestion": "Considera sia il consumo umano diretto sia la destinazione zootecnica.",
+    "options": [
+      "Perché accumulano il mercurio soprattutto nei semi e nei frutti edibili",
+      "Perché il tubero sotterraneo concentra il mercurio atmosferico assorbito",
+      "Perché sono alimenti umani e mangime per poligastrici come bovini e ovini"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le foglie assorbono mercurio atmosferico e questi ortaggi sono consumati dall'uomo e dati in pasto ai poligastrici (bovini, ovini): l'attenzione nasce dalla via alimentare, non dai semi (che ne contengono pochissimo) né dai tuberi.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-011",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel ciclo del mercurio, dal suolo l'Hg può tornare in atmosfera per ___ sotto forma di Hg0 elementare.",
+    "answers": [["volatilizzazione", "volatizzazione"]],
+    "suggestion": "È il passaggio del mercurio elementare dallo stato liquido a quello di vapore.",
+    "explanation": "Dal suolo il mercurio rientra in atmosfera per volatilizzazione come Hg0; altre vie di uscita dal suolo sono la lisciviazione, il dilavamento e l'ingresso nella catena trofica.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-012",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nei sedimenti anossici la metilazione del mercurio è operata dai batteri ___-riduttori (SRB).",
+    "answers": [["solfato", "solfati"]],
+    "suggestion": "Sfruttano lo ione con zolfo e ossigeno come accettore di elettroni in assenza di ossigeno.",
+    "explanation": "In ambiente anossico e ricco di sostanza organica i batteri solfato-riduttori (SRB) convertono il mercurio inorganico in metilmercurio.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-013",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Tra i sette isotopi stabili del mercurio, il più abbondante in natura è il 202Hg, con un'abbondanza del ___ %.",
+    "answers": [["29,6", "29.6"]],
+    "suggestion": "È poco meno di un terzo del totale.",
+    "explanation": "Il mercurio ha sette isotopi stabili; il 202Hg è il più abbondante con il 29,6%, seguito dal 200Hg (23,3%) e dal 199Hg (17%).",
+    "difficulty": "hard",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-014",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nell'uomo il mercurio inorganico ha un'emivita di 30-60 giorni, mentre il metilmercurio di circa ___ giorni.",
+    "answers": [["50-70", "50 70", "50-70 giorni"]],
+    "suggestion": "L'organico permane un po' più a lungo dell'inorganico.",
+    "explanation": "L'emivita del metilmercurio nell'uomo è di 50-70 giorni, superiore a quella dell'inorganico (30-60 giorni), il che ne favorisce l'accumulo.",
+    "difficulty": "medium",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-015",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Nel Nord Adriatico la contaminazione da Hg interessa la laguna di Grado-Marano, il Golfo di Trieste e le sponde del fiume ___.",
+    "answers": [["isonzo"]],
+    "suggestion": "È il fiume che a valle raccoglie anche il mercurio proveniente dalla Slovenia.",
+    "explanation": "I tre ambiti contaminati del bacino nord-adriatico sono il sistema lagunare di Grado-Marano, il Golfo di Trieste e le sponde del fiume Isonzo.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
+  },
+  {
+    "id": "bci-hg-fill-016",
+    "type": "fill",
+    "topic": "bio-chimica",
+    "question": "Il punto di ebollizione del mercurio è di ___ °C.",
+    "answers": [["357"]],
+    "suggestion": "Lo trovi tra le proprietà fisiche, accanto al punto di fusione negativo.",
+    "explanation": "Il mercurio ha punto di ebollizione di 357 °C e punto di fusione di -38,9 °C: a temperatura ambiente è quindi liquido.",
+    "difficulty": "easy",
+    "source": "Mercurio.pdf"
   }
 ]
