@@ -1,0 +1,2255 @@
+[
+  {
+    "id": "suoli-fondamenti-composizione-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale composizione approssimativa descrive un suolo di riferimento?",
+    "suggestion": "Distingui la fase solida minerale e organica dallo spazio occupato da acqua e aria.",
+    "options": [
+      "45% materiale minerale, 5% sostanza organica e 50% spazio dei pori",
+      "25% materiale minerale, 25% sostanza organica e 50% spazio dei pori",
+      "50% materiale minerale, 30% sostanza organica e 20% spazio dei pori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un suolo di riferimento contiene circa 45% di materiale minerale, 5% di sostanza organica e 50% di pori, occupati in proporzioni variabili da acqua e aria.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.2"
+  },
+  {
+    "id": "suoli-fondamenti-sistema-aperto-002",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il suolo è definito un sistema aperto in equilibrio dinamico?",
+    "suggestion": "Considera sia gli scambi con l'esterno sia i processi che avvengono nel profilo.",
+    "options": [
+      "Perché riceve e cede materia ed energia mentre subisce trasformazioni e traslocazioni",
+      "Perché conserva sempre invariati acqua, aria e minerali indipendentemente dall'ambiente",
+      "Perché scambia soltanto gas con l'atmosfera ma non materiali con l'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il suolo riceve deposizioni, residui e apporti di falda, e perde materiali per erosione, lisciviazione o volatilizzazione; al suo interno avvengono anche trasformazioni e traslocazioni.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.2"
+  },
+  {
+    "id": "suoli-fondamenti-sedimento-003",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale caratteristica distingue soprattutto un suolo da un sedimento?",
+    "suggestion": "Pensa al luogo in cui il materiale si è trasformato e alla sua organizzazione.",
+    "options": [
+      "Il suolo deriva da alterazione in situ e può formare aggregati strutturati",
+      "Il suolo è sempre trasportato da acqua o vento e privo di aggregati naturali",
+      "Il sedimento deriva sempre da roccia madre in situ e forma orizzonti pedogenetici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il sedimento è materiale trasportato e deposto altrove; il suolo si forma in situ dall'alterazione del substrato e può sviluppare aggregati e orizzonti.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.2"
+  },
+  {
+    "id": "suoli-fondamenti-definizione-moderna-004",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Nella definizione moderna di suolo, perché il termine “usually” è importante?",
+    "suggestion": "La definizione deve poter includere anche ambienti estremi.",
+    "options": [
+      "Rende obbligatoria la presenza continua di liquidi, gas e organismi viventi",
+      "Permette di includere suoli che non ospitano sempre liquidi, gas o biota",
+      "Limita il concetto di suolo ai soli terreni coltivati dall'uomo"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'avverbio “usually” evita che la presenza di liquidi, gas e biota sia un requisito assoluto, includendo anche suoli estremi, polari o extraterrestri.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.3"
+  },
+  {
+    "id": "suoli-fondamenti-servizi-alluvioni-005",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Come contribuisce il suolo alla regolazione delle alluvioni?",
+    "suggestion": "Collega la porosità alla velocità con cui l'acqua raggiunge i corsi d'acqua.",
+    "options": [
+      "Assorbe l'acqua e ne ritarda il deflusso superficiale",
+      "Impermeabilizza il terreno e accelera il deflusso superficiale",
+      "Trasforma direttamente l'acqua in vapore durante le piogge intense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Assorbendo e trattenendo parte dell'acqua, il suolo riduce e ritarda il deflusso, contribuendo alla regolazione delle piene.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.3"
+  },
+  {
+    "id": "suoli-fondamenti-non-rinnovabile-006",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il suolo è una risorsa non rinnovabile alla scala dei tempi umani?",
+    "suggestion": "Confronta il tempo necessario per formarlo con la durata delle attività umane.",
+    "options": [
+      "Perché la sua formazione richiede da decine a migliaia di anni",
+      "Perché non contiene organismi capaci di trasformare la sostanza organica",
+      "Perché può formarsi soltanto in presenza di rocce vulcaniche recenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formazione del suolo è molto lenta rispetto ai tempi delle decisioni e delle attività umane; per questo una perdita può essere irreversibile nella pratica.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.3"
+  },
+  {
+    "id": "suoli-fondamenti-impermeabilizzazione-007",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale minaccia corrisponde all'impermeabilizzazione del suolo?",
+    "suggestion": "Pensa alla copertura permanente della superficie con materiali artificiali.",
+    "options": [
+      "L'accumulo di lettiera non decomposta nei suoli forestali",
+      "La copertura permanente con superfici come asfalto e cemento",
+      "La formazione di aggregati stabili grazie a radici e microrganismi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'impermeabilizzazione, o sealing, è la copertura permanente del suolo con superfici artificiali che ostacolano infiltrazione, scambi gassosi e funzioni biologiche.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.4"
+  },
+  {
+    "id": "suoli-fondamenti-alterazione-fisica-008",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale affermazione descrive correttamente l'alterazione fisica della roccia?",
+    "suggestion": "Valuta se cambiano solo le dimensioni o anche i minerali presenti.",
+    "options": [
+      "Frantuma la roccia senza modificarne la composizione chimica e mineralogica",
+      "Trasforma direttamente i silicati in nuovi minerali argillosi idrati",
+      "Rimuove esclusivamente i cationi basici lasciando intatta la struttura"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'alterazione fisica disgrega la roccia in frammenti più piccoli senza cambiarne composizione chimica o mineralogica; l'alterazione chimica modifica invece entrambe.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.4"
+  },
+  {
+    "id": "suoli-fondamenti-substrati-alcalini-009",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale materiale parentale tende a generare suoli con pH elevato?",
+    "suggestion": "Cerca il substrato ricco di calcio, magnesio e carbonati.",
+    "options": [
+      "Un substrato acido che libera soprattutto silice durante l'alterazione",
+      "Un substrato alcalino ricco di carbonati e dolomia",
+      "Un substrato siliceo povero di cationi alcalino-terrosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Substrati ricchi di carbonati di calcio e magnesio, inclusa la dolomia, favoriscono suoli neutri o alcalini.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.5"
+  },
+  {
+    "id": "suoli-fondamenti-rocce-sedimentarie-010",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché le rocce sedimentarie sono substrati pedogenetici molto diffusi?",
+    "suggestion": "Confronta la loro abbondanza in volume con la porzione di superficie terrestre ricoperta.",
+    "options": [
+      "Perché ricoprono circa il 75% della superficie terrestre pur essendo poco abbondanti in volume",
+      "Perché costituiscono quasi tutta la crosta terrestre e non subiscono alterazione chimica",
+      "Perché si formano solo in regioni tropicali con precipitazioni molto abbondanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le rocce sedimentarie rappresentano circa il 5% della crosta in volume, ma ricoprono circa il 75% della sua superficie e quindi sono substrati pedogenetici comuni.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.4"
+  },
+  {
+    "id": "suoli-tessitura-scheletro-011",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale frazione viene definita scheletro del suolo?",
+    "suggestion": "La soglia distingue la terra fine dalla frazione grossolana.",
+    "options": [
+      "Le particelle con diametro inferiore a 0,002 mm",
+      "Le particelle con diametro compreso tra 0,002 e 2 mm",
+      "Le particelle con diametro superiore a 2 mm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo scheletro, o frazione grossolana, comprende ghiaia, ciottoli e pietrisco con diametro superiore a 2 mm; le analisi tessiturali standard considerano la terra fine.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.10"
+  },
+  {
+    "id": "suoli-tessitura-classificazioni-012",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è la differenza principale tra le classificazioni I.S.S.S. e U.S.D.A. della tessitura?",
+    "suggestion": "Osserva il limite convenzionale tra limo e sabbia.",
+    "options": [
+      "Il limite argilla-limo cambia da 0,002 a 0,005 mm",
+      "Il limite limo-sabbia è 0,02 mm per I.S.S.S. e 0,05 mm per U.S.D.A.",
+      "Il limite sabbia-ghiaia cambia da 2 mm a 5 mm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Entrambi i sistemi pongono il limite dell'argilla a 0,002 mm e quello dello scheletro a 2 mm, ma differiscono sul confine fra limo e sabbia.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.10"
+  },
+  {
+    "id": "suoli-tessitura-sabbia-lisciviazione-013",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Per quale combinazione di proprietà i suoli sabbiosi perdono facilmente azoto per lisciviazione?",
+    "suggestion": "Unisci il tipo di pori alla ridotta capacità di trattenere acqua e nutrienti.",
+    "options": [
+      "Elevata macroporosità e bassa superficie specifica riducono la ritenzione",
+      "Elevata microporosità e alta CSC bloccano i nutrienti in superficie",
+      "Bassa permeabilità e abbondanti colloidi rallentano il moto dell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "I suoli sabbiosi hanno pori grandi, elevata permeabilità e poca superficie reattiva: l'acqua percola rapidamente e trattiene poco gli elementi dilavabili.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.11"
+  },
+  {
+    "id": "suoli-tessitura-loess-014",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa sono i depositi di loess?",
+    "suggestion": "Riguardano una frazione granulometrica intermedia trasportata dal vento.",
+    "options": [
+      "Depositi eolici omogenei formati prevalentemente da particelle limose",
+      "Accumuli marini di argille saline formati nelle lagune costiere",
+      "Frammenti grossolani lasciati dai ghiacciai durante il loro ritiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il loess è un deposito eolico di particelle limose, spesso profondo e fertile, originato dal trasporto del vento su grandi distanze.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.11"
+  },
+  {
+    "id": "suoli-tessitura-limo-problemi-015",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché un suolo limoso può causare asfissia radicale quando è umido?",
+    "suggestion": "Considera cosa succede ai pori e alla permeabilità dopo il compattamento.",
+    "options": [
+      "Perché il limo aumenta sempre la macroporosità e fa drenare troppo rapidamente",
+      "Perché tende a compattarsi, diventare fangoso e ridurre il passaggio dell'aria",
+      "Perché le particelle limose rilasciano ammoniaca tossica in presenza d'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei suoli limosi il compattamento riduce la porosità e la permeabilità, favorendo ristagno idrico e scarsità di ossigeno per le radici.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.12"
+  },
+  {
+    "id": "suoli-tessitura-argilla-superficie-016",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Da quale caratteristica deriva soprattutto l'elevata reattività chimica dell'argilla?",
+    "suggestion": "Pensa alla superficie disponibile per trattenere acqua, ioni e molecole organiche.",
+    "options": [
+      "Dalla superficie specifica molto elevata delle particelle fini lamellari",
+      "Dalla presenza esclusiva di macropori che espellono l'acqua in eccesso",
+      "Dalla totale assenza di cariche elettriche sulle particelle mineralogiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le argille hanno una superficie specifica che può arrivare a centinaia di m²/g, da cui derivano adsorbimento di acqua, ioni e composti organici.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.12"
+  },
+  {
+    "id": "suoli-tessitura-argilla-nutrienti-017",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché i suoli argillosi tendono a trattenere meglio K⁺ e NH₄⁺ rispetto ai suoli sabbiosi?",
+    "suggestion": "Collega le superfici cariche alla capacità di scambio cationico.",
+    "options": [
+      "Perché hanno alta CSC e numerosi siti negativi che adsorbono cationi",
+      "Perché hanno pori grandi che aumentano il drenaggio e la lisciviazione",
+      "Perché contengono meno minerali e quindi meno superfici di reazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le superfici argillose, generalmente cariche negativamente, trattengono cationi come potassio e ammonio in forma scambiabile, limitandone le perdite.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.13"
+  },
+  {
+    "id": "suoli-tessitura-micropori-018",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale funzione svolgono soprattutto i micropori di 2–50 µm?",
+    "suggestion": "Sono la riserva che resta dopo il drenaggio dell'acqua gravitica.",
+    "options": [
+      "Favoriscono il drenaggio immediato dell'acqua in eccesso",
+      "Trattengono acqua disponibile per piante, peli radicali e microrganismi",
+      "Ospitano solo aria e non possono essere riempiti dall'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "I micropori della riserva idrica trattengono acqua contro la gravità in una forma generalmente disponibile a piante, batteri, ife e peli radicali.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.13"
+  },
+  {
+    "id": "suoli-tessitura-capillarita-019",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Secondo la legge di Jurin, come varia la risalita capillare al diminuire del raggio dei pori?",
+    "suggestion": "La relazione è inversa rispetto alla dimensione del capillare.",
+    "options": [
+      "Diminuisce, perché nei pori stretti prevale sempre la gravità",
+      "Resta costante, perché dipende solo dalla densità dell'acqua",
+      "Aumenta, perché l'altezza di risalita è inversamente proporzionale al raggio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei pori più stretti le forze di adesione e coesione producono una maggiore risalita capillare; per questo i suoli fini si riforniscono più facilmente dalla falda.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.14"
+  },
+  {
+    "id": "suoli-tessitura-fill-capacita-campo-001",
+    "type": "fill",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "La massima quantità d'acqua trattenuta dal suolo dopo il drenaggio dell'eccesso gravitazionale è la ___ ?",
+    "answers": [
+      [
+        "capacità di campo",
+        "capacita di campo"
+      ]
+    ],
+    "suggestion": "È il riferimento idrico opposto al punto di appassimento permanente.",
+    "explanation": "Alla capacità di campo, l'acqua gravitica è già drenata mentre i micropori restano pieni d'acqua trattenuta.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.13"
+  },
+  {
+    "id": "suoli-tessitura-acqua-disponibile-020",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa rappresenta l'acqua disponibile per le piante?",
+    "suggestion": "Confronta due stati idrici che delimitano il serbatoio sfruttabile dalle radici.",
+    "options": [
+      "L'acqua compresa tra capacità di campo e punto di appassimento permanente",
+      "L'acqua presente soltanto nelle crepe e nei macropori drenanti",
+      "L'acqua adsorbita negli ultra-micropori e trattenuta troppo saldamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'acqua disponibile è la differenza fra l'acqua trattenuta alla capacità di campo e quella residua al punto di appassimento permanente.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.14-15"
+  },
+  {
+    "id": "suoli-struttura-tessitura-differenza-021",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale differenza distingue tessitura e struttura del suolo?",
+    "suggestion": "Una riguarda le dimensioni delle particelle, l'altra il modo in cui sono organizzate.",
+    "options": [
+      "La tessitura descrive sabbia, limo e argilla; la struttura descrive gli aggregati",
+      "La tessitura descrive solo gli aggregati; la struttura descrive i minerali presenti",
+      "La tessitura cambia subito con l'aratura; la struttura non cambia mai"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tessitura è una proprietà intrinseca e stabile della composizione granulometrica; la struttura riguarda l'organizzazione delle particelle in aggregati.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.19"
+  },
+  {
+    "id": "suoli-struttura-ped-022",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Per quale motivo una zolla prodotta dall'aratura non è necessariamente un ped?",
+    "suggestion": "La distinzione dipende dall'origine dell'unità strutturale.",
+    "options": [
+      "Perché un ped deve derivare da processi naturali, non da lavorazioni meccaniche",
+      "Perché un ped è sempre composto soltanto da sabbia e non da sostanza organica",
+      "Perché una zolla meccanica contiene necessariamente carbonati solubili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un ped è un aggregato pedogenico naturale, formato da processi biologici, fisico-chimici o climatici; una zolla artificiale può avere forma simile ma origine diversa.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.20"
+  },
+  {
+    "id": "suoli-struttura-cementanti-023",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale combinazione favorisce la stabilità degli aggregati del suolo?",
+    "suggestion": "Cerca agenti che uniscono argille, particelle limose e sostanza organica.",
+    "options": [
+      "Humus, ife fungine, cationi polivalenti e ossidi di ferro",
+      "Solo acqua gravitica, aria tellurica e nitrato disciolto",
+      "Sodio scambiabile, dispersione colloidale e compattazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sostanza organica, microrganismi, cationi polivalenti e ossidi di Fe favoriscono la coesione e la resistenza degli aggregati alle forze disgreganti.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.20"
+  },
+  {
+    "id": "suoli-struttura-colonnare-024",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale struttura è tipica di un orizzonte ricco di sodio scambiabile?",
+    "suggestion": "Confronta gli aggregati verticali con sommità arrotondata alle altre forme strutturali.",
+    "options": [
+      "Struttura granulare, tipica degli orizzonti A ricchi di radici",
+      "Struttura colonnare, con sommità arrotondata degli aggregati",
+      "Struttura a grani singoli, tipica delle dune sabbiose"
+    ],
+    "correctIndex": 1,
+    "explanation": "La struttura colonnare è associata agli orizzonti sodici: il Na⁺ provoca dispersione e successiva riaggregazione in colonne con cappello arrotondato.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.21"
+  },
+  {
+    "id": "suoli-struttura-densita-apparente-025",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa segnala un'elevata densità apparente del suolo?",
+    "suggestion": "Ricorda che il volume di riferimento comprende anche i pori presenti in campo.",
+    "options": [
+      "Elevata porosità e ottima circolazione di acqua e radici",
+      "Scarsa porosità e forte compattazione sfavorevole alle radici",
+      "Un contenuto necessariamente alto di sostanza organica torbosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un'alta densità apparente indica che, nel volume totale del suolo, i pori sono pochi: aumenta la compattazione e diminuiscono penetrazione radicale e circolazione idrica.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.22"
+  },
+  {
+    "id": "suoli-struttura-stock-carbonio-026",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Per stimare lo stock di carbonio di un orizzonte nel volume reale di campo, quale densità va usata?",
+    "suggestion": "Il volume da rappresentare comprende anche lo spazio dei pori.",
+    "options": [
+      "La densità reale della sola fase solida minerale",
+      "La densità apparente che include la porosità",
+      "La densità dell'acqua contenuta nei micropori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stock di carbonio in campo si calcola usando la densità apparente, perché esprime la massa secca nel volume totale realmente occupato dal suolo.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.22"
+  },
+  {
+    "id": "suoli-tessitura-nastrino-027",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Nel metodo del nastrino, che cosa indica un nastro lungo oltre 5 cm prima di rompersi?",
+    "suggestion": "La lunghezza del nastro aumenta insieme alla plasticità della frazione fine.",
+    "options": [
+      "Un basso contenuto di argilla tipico delle sabbie",
+      "Un contenuto argilloso elevato tipico delle classi argillose",
+      "Una tessitura esclusivamente limosa e priva di sabbia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un nastro forte oltre 5 cm indica una tessitura argillosa, perché l'argilla conferisce al campione plasticità e coesione.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.19"
+  },
+  {
+    "id": "suoli-tessitura-diffrazione-laser-028",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Nella diffrazione laser, quale particella produce un angolo di diffrazione maggiore?",
+    "suggestion": "Il fascio devia maggiormente quando incontra oggetti di dimensione minore.",
+    "options": [
+      "Una particella più piccola",
+      "Una particella più grande",
+      "Ogni particella produce lo stesso angolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella granulometria laser, le particelle piccole producono angoli di diffrazione maggiori, mentre quelle grandi deviano la luce di meno.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.18"
+  },
+  {
+    "id": "suoli-minerali-tetraedro-silicio-029",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è l'unità strutturale fondamentale dei silicati?",
+    "suggestion": "È costituita da un catione centrale e quattro ossigeni ai vertici.",
+    "options": [
+      "Un tetraedro con Si⁴⁺ circondato da quattro O²⁻",
+      "Un ottaedro con Si⁴⁺ circondato da sei OH⁻",
+      "Un cubo con Ca²⁺ circondato da otto O²⁻"
+    ],
+    "correctIndex": 0,
+    "explanation": "La struttura di base dei silicati è il tetraedro SiO₄, che può condividere ossigeni e formare strutture mineralogiche diverse.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.25"
+  },
+  {
+    "id": "suoli-minerali-fillosilicati-to-030",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché i fillosilicati di tipo TO (1:1) sono in genere non espandibili?",
+    "suggestion": "Osserva il legame che si instaura fra uno strato e il successivo.",
+    "options": [
+      "I legami a idrogeno interstrato impediscono l'ingresso di acqua e cationi",
+      "Gli strati sono separati da molti cationi idratati facilmente mobili",
+      "La struttura contiene soltanto sabbia grossolana e nessun foglio cristallino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei fillosilicati 1:1 i legami a idrogeno tra strati ostacolano la penetrazione di acqua e cationi nello spazio interstrato, impedendo il rigonfiamento.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.29"
+  },
+  {
+    "id": "suoli-minerali-fillosilicati-tot-031",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Come sono disposti i fogli nella struttura TOT (2:1) dei fillosilicati?",
+    "suggestion": "Il foglio centrale è diverso dai due fogli esterni.",
+    "options": [
+      "Un foglio ottaedrico è racchiuso fra due fogli tetraedrici",
+      "Un foglio tetraedrico è racchiuso fra due fogli ottaedrici",
+      "Tre fogli tetraedrici sono impilati senza fogli ottaedrici"
+    ],
+    "correctIndex": 0,
+    "explanation": "La struttura TOT contiene un foglio ottaedrico centrale racchiuso fra due fogli tetraedrici.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.29"
+  },
+  {
+    "id": "suoli-minerali-isomorfismo-carica-032",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale conseguenza produce la sostituzione di Si⁴⁺ con Al³⁺ in un foglio tetraedrico?",
+    "suggestion": "Confronta la carica positiva del catione entrante con quella del catione sostituito.",
+    "options": [
+      "Genera un deficit di carica positiva, cioè una carica negativa permanente",
+      "Genera un eccesso di carica positiva che respinge tutti i cationi",
+      "Non modifica mai il bilancio di carica del reticolo cristallino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sostituendo un catione +4 con uno +3 si genera una carica negativa strutturale, compensata da cationi scambiabili adsorbiti sul minerale.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.30"
+  },
+  {
+    "id": "suoli-minerali-isomorfismo-espansione-033",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché l'isomorfismo prevalente nei fogli ottaedrici favorisce l'espansione delle argille 2:1?",
+    "suggestion": "Valuta quanto le cariche negative risultanti siano vicine ai cationi interstrato.",
+    "options": [
+      "Le cariche sono più lontane dall'interstrato e trattengono meno saldamente i cationi",
+      "Le cariche sono sulle cavità tetraedriche e bloccano il potassio fra gli strati",
+      "L'isomorfismo ottaedrico elimina completamente la carica negativa del reticolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando la sostituzione è ottaedrica, le cariche negative sono meno vicine ai cationi interstrato; acqua e cationi idratati possono quindi entrare più facilmente.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.30"
+  },
+  {
+    "id": "suoli-minerali-kaolinite-034",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale insieme di proprietà caratterizza la kaolinite?",
+    "suggestion": "È un fillosilicato 1:1 tipico di ambienti molto alterati.",
+    "options": [
+      "Carica permanente quasi nulla, CSC bassa e comportamento non rigonfiabile",
+      "Carica permanente molto alta, CSC elevata e forte rigonfiamento",
+      "Assenza di fogli cristallini, con pori grandi e drenaggio molto rapido"
+    ],
+    "correctIndex": 0,
+    "explanation": "La kaolinite è un minerale 1:1 non espandibile, con bassa superficie specifica e CSC bassa, diffuso nei suoli vecchi e intensamente alterati.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.31"
+  },
+  {
+    "id": "suoli-minerali-smectite-035",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale caratteristica distingue le smectiti dagli altri fillosilicati comuni?",
+    "suggestion": "Considera l'acqua nello spazio interstrato e le conseguenze sulla superficie interna.",
+    "options": [
+      "Sono fortemente espandibili e possiedono CSC e superficie specifica molto elevate",
+      "Sono prive di sostituzioni isomorfe e restano sempre non espandibili",
+      "Sono costituite da un unico foglio ottaedrico senza spazio interstrato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle smectiti l'acqua si intercala facilmente fra gli strati, producendo forte rigonfiamento; la superficie interna e la CSC risultano molto elevate.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.31"
+  },
+  {
+    "id": "suoli-minerali-miche-potassio-036",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché le miche sono non espandibili nonostante la struttura TOT?",
+    "suggestion": "Il catione interstrato ha bassa idratazione e si adatta alle cavità della rete.",
+    "options": [
+      "Il K⁺ interstrato unisce saldamente gli strati TOT e non si idrata facilmente",
+      "Il Ca²⁺ interstrato forma una grande sfera idrata che separa gli strati",
+      "Gli strati TOT sono assenti e sostituiti da legami covalenti tridimensionali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il potassio si inserisce nelle cavità esagonali del foglio tetraedrico e mantiene uniti gli strati TOT, impedendo la dilatazione tipica delle smectiti.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.31"
+  },
+  {
+    "id": "suoli-minerali-vertisuoli-037",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale processo causa il continuo rimescolamento nei Vertisuoli?",
+    "suggestion": "Pensa ai cicli stagionali delle argille espandibili.",
+    "options": [
+      "L'alternanza di contrazione e rigonfiamento produce fessure e turbazione",
+      "L'erosione eolica accumula sabbia fine negli orizzonti profondi",
+      "La carbonatazione cementa il profilo e blocca i movimenti delle particelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei Vertisuoli le smectiti si contraggono durante l'essiccamento e si espandono al reidratarsi; le tensioni di taglio rimescolano il materiale del profilo.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.32-33"
+  },
+  {
+    "id": "suoli-ph-scala-logaritmica-038",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa implica una diminuzione di una unità di pH?",
+    "suggestion": "La scala non è lineare: ragiona in termini di potenze di dieci.",
+    "options": [
+      "La concentrazione di H⁺ aumenta di dieci volte",
+      "La concentrazione di H⁺ aumenta di una sola unità percentuale",
+      "La concentrazione di H⁺ si dimezza esattamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il pH è il logaritmo negativo dell'attività degli ioni H⁺: una variazione di una unità corrisponde a un fattore dieci nella loro concentrazione.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.34"
+  },
+  {
+    "id": "suoli-ph-fosforo-disponibilita-039",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "In quale intervallo di pH il fosforo è in genere più disponibile per le piante?",
+    "suggestion": "Evita sia la fissazione con Fe e Al sia la precipitazione con Ca.",
+    "options": [
+      "Tra pH 3 e 4, dove il fosfato resta completamente libero",
+      "Tra pH 6 e 7, dove sono minori le principali forme di fissazione",
+      "Oltre pH 9, dove tutti i fosfati di calcio sono molto solubili"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pH 6–7 si riducono sia l'adsorbimento su ossidi di Fe e Al tipico dei suoli acidi sia la precipitazione con Ca tipica dei suoli calcarei.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.55"
+  },
+  {
+    "id": "suoli-ph-micronutrienti-040",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Come cambia in generale la solubilità di Fe, Mn, Cu e Zn quando il pH del suolo diminuisce?",
+    "suggestion": "Sono micronutrienti metallici che tendono a precipitare nei suoli alcalini.",
+    "options": [
+      "Aumenta, con un maggior rischio di eccesso o tossicità",
+      "Diminuisce, perché formano sempre sali più insolubili",
+      "Resta identica, perché il pH influenza solo l'azoto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fe, Mn, Cu e Zn diventano in genere più solubili in condizioni acide, mentre a pH elevato possono precipitare e causare carenze.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.34"
+  },
+  {
+    "id": "suoli-ph-alluminio-tossico-041",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché l'alluminio diventa un importante fattore limitante nei suoli con pH inferiore a 5?",
+    "suggestion": "Considera quale specie di alluminio si libera dalla fase solida.",
+    "options": [
+      "Perché si solubilizza Al³⁺, che danneggia radici e assorbimento di nutrienti",
+      "Perché Al(OH)₃ precipita e blocca completamente i pori del suolo",
+      "Perché l'alluminio si trasforma in un anione che liscivia con il nitrato"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pH basso aumenta la solubilità di Al³⁺, specie fitotossica che danneggia le radici e interferisce con l'assorbimento di Ca e P.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.35"
+  },
+  {
+    "id": "suoli-ph-acidita-attiva-042",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale componente dell'acidità del suolo viene misurata direttamente dal pH in acqua?",
+    "suggestion": "È la piccola quota di protoni già presenti nella fase liquida dei pori.",
+    "options": [
+      "L'acidità attiva della soluzione del suolo",
+      "L'acidità di riserva legata covalentemente",
+      "L'acidità potenziale di azoto e zolfo ridotti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il pH in acqua misura l'acidità attiva, cioè gli H⁺ nella soluzione del suolo; questa è solo una piccola parte dell'acidità totale.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.36"
+  },
+  {
+    "id": "suoli-ph-kcl-043",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il pH misurato in KCl è normalmente più basso del pH misurato in acqua?",
+    "suggestion": "Il sale aggiunto interagisce con i cationi trattenuti sulle superfici colloidali.",
+    "options": [
+      "Il K⁺ sposta H⁺ e Al³⁺ scambiabili dalle superfici verso la soluzione",
+      "Il Cl⁻ trasforma tutto il calcio in carbonato insolubile",
+      "L'acqua distillata contiene sempre più protoni della soluzione di KCl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il K⁺ del KCl scambia con H⁺ e Al³⁺ adsorbiti, portandoli in soluzione e includendo una parte dell'acidità scambiabile nella misura.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.36"
+  },
+  {
+    "id": "suoli-ph-carbonati-tampone-044",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Come reagisce il sistema tampone dei carbonati a un apporto di H⁺ in un suolo calcareo?",
+    "suggestion": "Osserva la reazione fra calcite e protoni nella soluzione.",
+    "options": [
+      "La calcite si dissolve e consuma H⁺ formando Ca²⁺ e bicarbonato",
+      "Il carbonato precipita subito e libera altri H⁺ nella soluzione",
+      "Il calcio si volatilizza e rimuove l'acidità come gas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dissoluzione della calcite consuma gli H⁺ aggiunti e produce Ca²⁺ e HCO₃⁻, contrastando l'acidificazione del suolo calcareo.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.37"
+  },
+  {
+    "id": "suoli-ph-suolo-sodico-045",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché i suoli dominati da carbonato di sodio possono diventare impermeabili e improduttivi?",
+    "suggestion": "Considera l'effetto del sodio sulla carica delle argille e sul pH.",
+    "options": [
+      "L'elevato pH favorisce deflocculazione delle argille e degrado della struttura",
+      "Il carbonato di sodio cementa stabilmente tutti i macropori del suolo",
+      "Il sodio aumenta la CSC e impedisce ogni perdita di nutrienti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Na₂CO₃ rende il pH molto alcalino; il Na⁺ favorisce dispersione e deflocculazione delle argille, con perdita di struttura e permeabilità.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.38"
+  },
+  {
+    "id": "suoli-cariche-permanenti-046",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Da quale meccanismo derivano le cariche permanenti nei minerali argillosi?",
+    "suggestion": "Sono cariche create durante la formazione del reticolo, non dalla soluzione circostante.",
+    "options": [
+      "Dalle sostituzioni isomorfe di cationi con valenza diversa",
+      "Dalla protonazione dei gruppi superficiali a pH acido",
+      "Dalla dissoluzione dei sali nella soluzione del suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le cariche permanenti sono difetti strutturali dovuti a sostituzioni isomorfe, quindi non dipendono dal pH della soluzione del suolo.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.44"
+  },
+  {
+    "id": "suoli-cariche-caolinite-047",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Come cambia la capacità di scambio della caolinite quando il pH diventa fortemente acido?",
+    "suggestion": "I gruppi di bordo possono acquistare protoni e cambiare segno di carica.",
+    "options": [
+      "Diminuisce la CSC e può aumentare la capacità di trattenere anioni",
+      "Aumenta soltanto la CSC perché ogni sito diventa più negativo",
+      "Resta identica perché la caolinite possiede solo cariche permanenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pH basso i gruppi di bordo della caolinite si protonano: la carica negativa diminuisce e, se la superficie diventa positiva, aumenta lo scambio anionico.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.45"
+  },
+  {
+    "id": "suoli-cariche-pzc-048",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa accade a un ossido di ferro o alluminio quando il pH è inferiore al suo punto di zero carica?",
+    "suggestion": "Sotto questa soglia la protonazione dei gruppi superficiali prevale.",
+    "options": [
+      "La superficie tende a essere positiva e può trattenere anioni",
+      "La superficie tende a essere negativa e può trattenere solo cationi",
+      "La superficie perde ogni reattività e non adsorbe alcuno ione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sotto il PZC gli ossidi di Fe e Al sono prevalentemente protonati e positivi, perciò possono funzionare come scambiatori anionici.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.46"
+  },
+  {
+    "id": "suoli-cariche-oxisols-049",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale effetto è tipico di un Oxisol acido ricco di ossidi di Fe e Al?",
+    "suggestion": "Confronta il comportamento di anioni come il fosfato con quello di cationi nutritivi.",
+    "options": [
+      "Trattiene bene i fosfati ma può perdere Ca²⁺, Mg²⁺ e K⁺ per lisciviazione",
+      "Trattiene soltanto cationi e lascia lisciviare completamente i fosfati",
+      "Ha cariche tutte permanenti e indipendenti dal pH"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei suoli acidi dominati da ossidi, le cariche positive trattengono anioni come il fosfato, mentre la bassa CSC favorisce la perdita di cationi nutritivi.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.46"
+  },
+  {
+    "id": "suoli-cariche-sostanza-organica-050",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la CSC della sostanza organica aumenta all'aumentare del pH?",
+    "suggestion": "Pensa alla perdita di protoni da gruppi carbossilici e fenolici.",
+    "options": [
+      "I gruppi funzionali si deprotonano e sviluppano più cariche negative",
+      "Gli acidi umici diventano neutri e perdono tutte le interazioni ioniche",
+      "Il pH elevato trasforma direttamente l'humus in minerali argillosi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con pH crescente, gruppi carbossilici e fenolici della sostanza organica cedono H⁺ e diventano negativi, aumentando la capacità di trattenere cationi.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.47"
+  },
+  {
+    "id": "suoli-azoto-forma-organica-051",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "In quale forma si trova oltre il 90% dell'azoto nello strato superficiale del suolo?",
+    "suggestion": "Non è subito assimilabile dalle piante e deve subire una trasformazione microbica.",
+    "options": [
+      "In forma organica",
+      "Come nitrato libero",
+      "Come azoto molecolare disciolto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La maggior parte dell'azoto superficiale è organica e deve essere mineralizzata per diventare disponibile alle piante.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.48"
+  },
+  {
+    "id": "suoli-azoto-fill-ammonio-001",
+    "type": "fill",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "A pH inferiore a 9,25, la forma azotata che predomina nella soluzione del suolo è lo ione ___ ?",
+    "answers": [
+      [
+        "ammonio",
+        "nh4+",
+        "nh₄+"
+      ]
+    ],
+    "suggestion": "È la forma ionica della coppia in equilibrio con l'ammoniaca gassosa.",
+    "explanation": "Sotto pH 9,25 prevale NH₄⁺; al di sopra di quella soglia aumenta NH₃, che può essere persa per volatilizzazione.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.50"
+  },
+  {
+    "id": "suoli-azoto-ammonificazione-052",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa produce l'ammonificazione della sostanza organica azotata?",
+    "suggestion": "È il passaggio in cui decompositori trasformano proteine e composti affini.",
+    "options": [
+      "Ione ammonio, insieme a CO₂ e acqua in condizioni aerobiche",
+      "Nitrato, senza alcun intermedio ammoniacale",
+      "Azoto molecolare, senza intervento di microrganismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Batteri, funghi e attinomiceti degradano i composti organici azotati e rilasciano NH₄⁺; in aerobiosi si formano anche CO₂ e acqua.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.50"
+  },
+  {
+    "id": "suoli-azoto-ammonio-fissazione-053",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale destino rende NH₄⁺ temporaneamente non disponibile allo scambio nel suolo?",
+    "suggestion": "Cerca il processo che lo intrappola nella struttura di alcune argille 2:1.",
+    "options": [
+      "La fissazione interstratale in illiti e smectiti",
+      "L'adsorbimento scambiabile sui colloidi umici",
+      "L'assorbimento diretto da parte delle radici"
+    ],
+    "correctIndex": 0,
+    "explanation": "NH₄⁺ può entrare negli interstrati delle argille 2:1 e diventare non scambiabile, a differenza della frazione adsorbita reversibilmente sui colloidi.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.51"
+  },
+  {
+    "id": "suoli-azoto-nitrificazione-054",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale trasformazione descrive la nitrificazione?",
+    "suggestion": "È un processo aerobico che procede attraverso il nitrito.",
+    "options": [
+      "Ossidazione di NH₄⁺ a NO₃⁻ con NO₂⁻ come intermedio",
+      "Riduzione di NO₃⁻ a N₂ con produzione di N₂O",
+      "Conversione di N₂ atmosferico in ammoniaca nei noduli radicali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella nitrificazione, microrganismi chemioautotrofi ossidano l'ammonio a nitrito e poi a nitrato; il processo richiede ossigeno e produce H⁺.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.51"
+  },
+  {
+    "id": "suoli-azoto-nitrato-lisciviazione-055",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il nitrato è facilmente perso per lisciviazione?",
+    "suggestion": "Valuta la sua carica rispetto alle superfici normalmente negative del suolo.",
+    "options": [
+      "È un anione poco adsorbito dalle superfici negative e resta mobile in soluzione",
+      "È un catione fortemente trattenuto nelle cavità delle argille 2:1",
+      "Precipita sempre con il calcio prima di raggiungere la falda"
+    ],
+    "correctIndex": 0,
+    "explanation": "NO₃⁻ è un anione molto mobile e in genere poco trattenuto dalle superfici negative del suolo; l'acqua di percolazione lo trasporta quindi facilmente in profondità.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.52"
+  },
+  {
+    "id": "suoli-azoto-denitrificazione-056",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quali condizioni favoriscono maggiormente la denitrificazione?",
+    "suggestion": "Servono un accettore di elettroni alternativo, una fonte di energia e poco ossigeno.",
+    "options": [
+      "Saturazione idrica, carbonio organico disponibile e nitrato",
+      "Suolo ben aerato, poco carbonio organico e assenza di nitrato",
+      "pH molto alcalino, carbonati e forte riscaldamento solare"
+    ],
+    "correctIndex": 0,
+    "explanation": "In anaerobiosi i batteri denitrificanti usano NO₃⁻ come accettore finale di elettroni e lo riducono fino a N₂, con possibili intermedi NO e N₂O.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.52-53"
+  },
+  {
+    "id": "suoli-azoto-rapporto-cn-057",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa accade dopo l'aggiunta di un residuo organico con rapporto C:N superiore a 25:1?",
+    "suggestion": "I decompositori devono ottenere azoto anche fuori dal substrato aggiunto.",
+    "options": [
+      "I microrganismi immobilizzano NH₄⁺ e NO₃⁻ riducendo temporaneamente la disponibilità",
+      "L'azoto in eccesso viene subito liberato come NH₄⁺ per le piante",
+      "Il rapporto C:N non influenza il bilancio dell'azoto nel suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un residuo povero di N obbliga i microrganismi a sottrarre azoto minerale dal suolo per costruire biomassa, provocando immobilizzazione temporanea.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.53"
+  },
+  {
+    "id": "suoli-fosforo-adsorbimento-058",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Su quali costituenti avviene soprattutto l'adsorbimento specifico del fosfato nei suoli acidi?",
+    "suggestion": "Pensa alle superfici reattive ricche di metalli trivalenti.",
+    "options": [
+      "Sugli ossidi e idrossidi di ferro e alluminio",
+      "Sui granuli di quarzo e sulla sabbia grossolana",
+      "Esclusivamente sulle molecole di acqua gravitica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il fosfato forma legami diretti di sfera interna con gli ossidi e gli idrossidi di Fe e Al, venendo fortemente trattenuto nella fase solida.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.54"
+  },
+  {
+    "id": "suoli-fosforo-retrogradazione-059",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa causa la retrogradazione del fosforo in un suolo calcareo?",
+    "suggestion": "Considera la reazione fra fosfato solubile e calcio in ambiente alcalino.",
+    "options": [
+      "La precipitazione progressiva del fosfato in composti calcici poco solubili",
+      "La riduzione del fosfato a fosforo gassoso nella rizosfera",
+      "L'adsorbimento esclusivo del fosfato sui minerali di quarzo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei suoli calcarei il fosfato reagisce con Ca²⁺ formando fosfati calcici progressivamente meno solubili, fino a forme quasi insolubili come l'apatite.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.55"
+  },
+  {
+    "id": "suoli-humus-orizzonte-ol-060",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale caratteristica identifica l'orizzonte organico OL?",
+    "suggestion": "È lo strato iniziale della lettiera, con residui vegetali ancora ben riconoscibili.",
+    "options": [
+      "Residui riconoscibili per il 90–100% e componente umificata inferiore al 10%",
+      "Materiale umificato superiore al 70% con residui vegetali quasi assenti",
+      "Argilla illuviale rivestita da cutans lucidi sulle superfici dei ped"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'orizzonte OL è la lettiera superficiale: foglie, rami e altri residui restano in gran parte riconoscibili e la componente umificata è inferiore al 10%.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.56"
+  },
+  {
+    "id": "suoli-humus-orizzonte-of-061",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale condizione descrive meglio l'orizzonte OF?",
+    "suggestion": "È uno stadio intermedio fra lettiera riconoscibile e materiale molto umificato.",
+    "options": [
+      "Materiale frammentato con componente umificata compresa fra 10% e 30%",
+      "Materiale fresco con componente umificata sempre inferiore al 5%",
+      "Materiale minerale saturo d'acqua senza residui organici riconoscibili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'orizzonte OF i residui sono frammentati e scoloriti; la frazione umificata è compresa approssimativamente fra il 10% e il 30%.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.57"
+  },
+  {
+    "id": "suoli-humus-orizzonte-oh-062",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale proprietà rende riconoscibile un orizzonte OH?",
+    "suggestion": "È lo stadio più avanzato tra gli orizzonti organici di superficie.",
+    "options": [
+      "La sostanza organica fine umificata è dominante e i residui riconoscibili sono scarsi",
+      "La sabbia grossolana domina e rende impossibile ogni trasformazione biologica",
+      "Il contenuto di carbonati supera quello della sostanza organica"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'orizzonte OH è ricco di materiale umificato scuro e deiezioni; i residui vegetali riconoscibili sono pochi o assenti.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.57"
+  },
+  {
+    "id": "suoli-humus-mull-mor-063",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale differenza contrappone meglio le forme di humus Mull e Mor?",
+    "suggestion": "Confronta pH, organismi dominanti e incorporazione della materia organica nel minerale.",
+    "options": [
+      "Nel Mull i lombrichi incorporano sostanza organica; nel Mor dominano funghi in condizioni acide",
+      "Nel Mull dominano solo funghi acido-tolleranti; nel Mor i lombrichi sono molto abbondanti",
+      "Nel Mull e nel Mor la sostanza organica è sempre assente dall'orizzonte A"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Mull si forma in condizioni più favorevoli alla fauna e all'incorporazione organo-minerale; il Mor è acido, con attività faunistica limitata e decomposizione soprattutto fungina.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.59-60"
+  },
+  {
+    "id": "suoli-humus-tangel-064",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale condizione diagnostica è tipica del Tangel?",
+    "suggestion": "È una forma montana su substrati calcarei, con molto materiale organico ma poco orizzonte A.",
+    "options": [
+      "Orizzonti OF e OH spessi e orizzonte A inferiore alla metà dello spessore di OH",
+      "Orizzonte A molto spesso e assenza completa di strati organici superficiali",
+      "Saturazione idrica permanente con accumulo di torba sotto un orizzonte H"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Tangel presenta OF e OH complessivamente spessi, spesso su calcare, e un orizzonte A ridotto: A è inferiore alla metà dello spessore di OH.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.60"
+  },
+  {
+    "id": "suoli-fauna-macrofauna-065",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale gruppo appartiene alla macrofauna del suolo?",
+    "suggestion": "La classificazione usa la larghezza corporea e i gruppi più grandi superano 2 mm.",
+    "options": [
+      "Lombrichi, isopodi e millepiedi",
+      "Batteri, funghi e protozoi",
+      "Acari, collemboli e enchitreidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La macrofauna comprende organismi oltre 2 mm, fra cui isopodi, diplopodi, lombrichi, coleotteri e molluschi; i gruppi più piccoli rientrano nella micro- o mesofauna.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.62"
+  },
+  {
+    "id": "suoli-fauna-lombrichi-anecici-066",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è il contributo tipico dei lombrichi anecici alla funzionalità del suolo?",
+    "suggestion": "Sono vermi grandi che collegano superficie e profondità lungo gallerie durevoli.",
+    "options": [
+      "Scavano gallerie verticali permanenti che favoriscono aria e acqua",
+      "Restano esclusivamente nella lettiera senza entrare nel suolo minerale",
+      "Vivono nei micropori e non spostano mai materiale nel profilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I lombrichi anecici si muovono verticalmente fra superficie e strati profondi, creando gallerie che migliorano aerazione, infiltrazione e trasporto di materiale.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.64"
+  },
+  {
+    "id": "suoli-fauna-micorrize-067",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale scambio rende vantaggiosa la simbiosi micorrizica?",
+    "suggestion": "Il fungo esplora più suolo della radice, mentre la pianta fissa carbonio con la fotosintesi.",
+    "options": [
+      "Il fungo fornisce acqua e minerali, mentre la pianta fornisce carboidrati",
+      "Il fungo fornisce zuccheri, mentre la pianta fornisce azoto atmosferico",
+      "La pianta fornisce acqua, mentre il fungo trasforma la radice in roccia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le ife micorriziche ampliano il volume di suolo esplorato, soprattutto per l'assorbimento del P; in cambio il fungo riceve carboidrati prodotti dalla pianta.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.65-66"
+  },
+  {
+    "id": "suoli-microbiomassa-cruna-068",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la biomassa microbica viene definita “cruna dell'ago” dei cicli biogeochimici?",
+    "suggestion": "Pensa al passaggio obbligato di carbonio e azoto verso forme disponibili alle piante.",
+    "options": [
+      "Perché gran parte di C e N organici deve transitare attraverso i microrganismi",
+      "Perché è l'unica frazione del suolo che non contiene mai azoto",
+      "Perché impedisce sempre la mineralizzazione della sostanza organica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biomassa microbica trasforma i residui e, attraverso il proprio turnover, rilascia nutrienti minerali: è un nodo centrale dei cicli di C e N.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.66"
+  },
+  {
+    "id": "suoli-microbi-autoctoni-zimogeni-069",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Come rispondono i microrganismi zimogeni a un apporto di carbonio fresco?",
+    "suggestion": "Sono organismi copiotrofi con strategia r, diversi dagli autoctoni oligotrofi.",
+    "options": [
+      "Crescono rapidamente e poi declinano quando il substrato facile si esaurisce",
+      "Mantengono una crescita invariabile perché usano solo humus recalcitrante",
+      "Smettono di metabolizzare finché non diminuisce il carbonio disponibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli zimogeni rispondono rapidamente a substrati organici freschi con un picco di crescita e attività; gli autoctoni mantengono invece un'attività più lenta e costante.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.67-68"
+  },
+  {
+    "id": "suoli-microbi-fumigazione-estrazione-070",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è il principio del metodo di fumigazione-estrazione per la biomassa microbica?",
+    "suggestion": "Si confrontano due campioni dopo aver lisato le cellule di uno di essi.",
+    "options": [
+      "Il carbonio estratto dal campione fumigato viene confrontato con quello non fumigato",
+      "Si misura la massa di sabbia dopo aver eliminato tutti i microrganismi",
+      "Si conta al microscopio ogni cellula presente in un grammo di suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cloroformio lisa le membrane microbiche; la differenza nel carbonio estraibile fra campione fumigato e controllo stima il carbonio della biomassa microbica.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.68"
+  },
+  {
+    "id": "suoli-microbi-atp-071",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la misura dell'ATP è un indice dell'attività microbica istantanea?",
+    "suggestion": "L'ATP è presente nelle cellule vive e si degrada rapidamente dopo la morte.",
+    "options": [
+      "La luce emessa dal sistema luciferina-luciferasi è proporzionale all'ATP",
+      "L'ATP si accumula solo nella materia organica inerte e non nelle cellule",
+      "La sua concentrazione misura esclusivamente il contenuto di argilla del suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ATP delle cellule lisate reagisce nel sistema luciferina-luciferasi: la bioluminescenza emessa è proporzionale all'ATP e quindi alla biomassa attiva.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.69"
+  },
+  {
+    "id": "suoli-profilo-orizzonte-072",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa definisce un orizzonte di suolo?",
+    "suggestion": "È uno strato del profilo riconoscibile rispetto a quelli adiacenti.",
+    "options": [
+      "Uno strato con proprietà relativamente omogenee e distinto dagli strati vicini",
+      "Qualsiasi frammento di roccia più grande di 2 mm trovato nel profilo",
+      "Una zona del suolo che contiene sempre soltanto materia organica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un orizzonte è uno strato parallelo o subparallelo alla superficie, relativamente omogeneo per proprietà come colore, tessitura, struttura o pH e diverso dagli altri.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.71"
+  },
+  {
+    "id": "suoli-profilo-orizzonte-e-073",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Per quale processo un orizzonte E appare impoverito di argilla, ferro e alluminio?",
+    "suggestion": "Il nome del processo indica l'asportazione dagli strati superiori.",
+    "options": [
+      "Eluviazione",
+      "Illuviazione",
+      "Umificazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'orizzonte E è eluviale: perde per dilavamento argille silicate, Fe e Al e resta relativamente arricchito in particelle sabbiose e limose.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.72"
+  },
+  {
+    "id": "suoli-profilo-orizzonte-b-074",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale caratteristica può identificare un orizzonte B?",
+    "suggestion": "È uno strato profondo dove possono accumularsi materiali provenienti dall'alto o formati in situ.",
+    "options": [
+      "L'accumulo di argilla, Fe, Al, humus, carbonati, gesso o silice",
+      "La presenza esclusiva di lettiera fresca non decomposta",
+      "La roccia dura non attraversabile da radici e strumenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un orizzonte B mostra alterazione o accumulo illuviale di numerosi costituenti e ha perso in gran parte la struttura del materiale parentale.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.72"
+  },
+  {
+    "id": "suoli-profilo-munsell-075",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quali tre parametri compongono un codice colore Munsell del suolo?",
+    "suggestion": "Distingui colore principale, luminosità e intensità del colore.",
+    "options": [
+      "Hue, Value e Chroma",
+      "Tessitura, struttura e porosità",
+      "pH, Eh e conducibilità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il sistema Munsell esprime il colore con Hue (tonalità), Value (brillantezza) e Chroma (saturazione), per esempio 7.5YR 4/4.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.73"
+  },
+  {
+    "id": "suoli-sostanza-organica-mineralizzazione-076",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale trasformazione caratterizza la mineralizzazione aerobica della sostanza organica?",
+    "suggestion": "Distinguila dalla formazione di nuove sostanze umiche stabili.",
+    "options": [
+      "Ossidazione in CO₂, acqua e ioni minerali assimilabili",
+      "Formazione esclusiva di composti aromatici molto recalcitranti",
+      "Trasformazione diretta della sostanza organica in quarzo e feldspati"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mineralizzazione ossida la materia organica e restituisce CO₂, acqua e nutrienti minerali come NH₄⁺, PO₄³⁻ e SO₄²⁻.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.79"
+  },
+  {
+    "id": "suoli-sostanza-organica-frazioni-077",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale frazione umica è solubile sia in ambiente alcalino sia in ambiente acido?",
+    "suggestion": "È la frazione con colore più chiaro e minore complessità molecolare.",
+    "options": [
+      "Gli acidi fulvici",
+      "Gli acidi umici",
+      "L'umina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli acidi fulvici sono solubili sia in acido sia in alcali; gli acidi umici sono insolubili in acido e l'umina è insolubile in entrambi.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.80"
+  },
+  {
+    "id": "suoli-sostanza-organica-chelazione-078",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale effetto ha la chelazione di un metallo da parte della sostanza organica?",
+    "suggestion": "Confronta la forma complessata con lo ione metallico libero in soluzione.",
+    "options": [
+      "Può mantenerlo più solubile e meno reattivo o tossico",
+      "Lo trasforma sempre in un gas che lascia il suolo",
+      "Lo converte direttamente in una particella di argilla 2:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un chelato può mantenere il metallo in soluzione anche a pH elevato e ridurne la reattività della forma libera, migliorando disponibilità o limitando tossicità.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.81"
+  },
+  {
+    "id": "suoli-sostanza-organica-rothc-079",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale pool del modello Roth-C è considerato inerte e non soggetto a decomposizione?",
+    "suggestion": "Tra i cinque pool, uno rappresenta materiale organico stabilissimo.",
+    "options": [
+      "IOM, Inert Organic Matter",
+      "DPM, Decomposable Plant Material",
+      "BIO, Biomassa microbica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel modello Roth-C, IOM è la materia organica inerte; gli altri pool hanno velocità di decomposizione diverse e contribuiscono alla dinamica del carbonio.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.82-83"
+  },
+  {
+    "id": "suoli-csc-adsorbimento-080",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale processo governa la capacità di scambio cationico del suolo?",
+    "suggestion": "Distingui il trattenimento su una superficie dalla penetrazione all'interno di una fase.",
+    "options": [
+      "L'adsorbimento dei cationi sulle superfici colloidali",
+      "L'assorbimento dei cationi nel nucleo dei minerali",
+      "La volatilizzazione dei cationi verso l'atmosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "La CSC dipende dall'adsorbimento elettrostatico di cationi sui siti superficiali di argille e sostanza organica, non dal loro assorbimento interno.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.84"
+  },
+  {
+    "id": "suoli-csc-stechiometria-081",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale scambio rispetta il principio di equivalenza di carica nel complesso di scambio?",
+    "suggestion": "Confronta il numero di cariche, non soltanto il numero di ioni.",
+    "options": [
+      "Due K⁺ possono essere scambiati con un Ca²⁺",
+      "Un K⁺ può essere scambiato con un Ca²⁺",
+      "Un Ca²⁺ può essere scambiato con tre K⁺"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo scambio cationico è stechiometrico rispetto alla carica: due cationi monovalenti equivalgono a un catione bivalente come Ca²⁺.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.84"
+  },
+  {
+    "id": "suoli-csc-serie-liotropica-082",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Per quale motivo Al³⁺ è trattenuto più fortemente di Na⁺ nel complesso di scambio?",
+    "suggestion": "La selettività dipende soprattutto da valenza e dimensione dello ione idratato.",
+    "options": [
+      "Ha valenza maggiore e un raggio idratato che consente maggiore attrazione",
+      "È un anione e viene quindi trattenuto dalle superfici negative",
+      "Ha sempre una sfera di idratazione più grande di qualsiasi altro catione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella serie liotropica, cationi ad alta valenza e con raggio idratato minore si avvicinano di più alle superfici negative e sono trattenuti più fortemente.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.85-86"
+  },
+  {
+    "id": "suoli-csc-ph-083",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la CSC effettiva aumenta spesso quando aumenta il pH del suolo?",
+    "suggestion": "La risposta riguarda soprattutto i gruppi funzionali pH-dipendenti.",
+    "options": [
+      "I gruppi acidi di humus e bordi minerali si deprotonano e diventano negativi",
+      "Le argille 2:1 perdono le loro cariche permanenti a pH neutro",
+      "Il pH trasforma tutti i cationi bivalenti in anioni mobili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con l'aumentare del pH, i siti pH-dipendenti di sostanza organica, bordi delle argille e ossidi perdono H⁺ e sviluppano cariche negative aggiuntive.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.87"
+  },
+  {
+    "id": "suoli-csc-saturazione-basica-084",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa indica un grado di saturazione basica elevato?",
+    "suggestion": "Confronta i siti occupati da Ca²⁺, Mg²⁺ e K⁺ con quelli occupati da H⁺ e Al³⁺.",
+    "options": [
+      "Una prevalenza di basi cationiche e un suolo tendenzialmente meno acido",
+      "Una prevalenza di H⁺ e Al³⁺ e un suolo necessariamente molto acido",
+      "L'assenza completa di cationi sul complesso di scambio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un GSB elevato indica che molti siti di scambio sono occupati da Ca²⁺, Mg²⁺, K⁺ e altri cationi basici, invece che da H⁺ e Al³⁺.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.88"
+  },
+  {
+    "id": "suoli-redox-pourbaix-085",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale informazione fornisce un diagramma di Pourbaix per un elemento nel suolo?",
+    "suggestion": "Mette in relazione una variabile acido-base con una variabile ossido-riduttiva.",
+    "options": [
+      "Le forme chimiche stabili in funzione di Eh e pH",
+      "La percentuale di sabbia, limo e argilla nel profilo",
+      "La quantità di carbonio fissata dalle piante in un anno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il diagramma Eh-pH mostra i campi di stabilità delle specie chimiche di un elemento al variare delle condizioni redox e dell'acidità.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.92"
+  },
+  {
+    "id": "suoli-redox-tea-086",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale sequenza segue la respirazione microbica in un suolo sommerso quando l'ossigeno si esaurisce?",
+    "suggestion": "Gli accettori terminali sono usati nell'ordine dell'energia che rendono disponibile.",
+    "options": [
+      "O₂, NO₃⁻, Mn⁴⁺, Fe³⁺, SO₄²⁻, CO₂",
+      "CO₂, SO₄²⁻, Fe³⁺, Mn⁴⁺, NO₃⁻, O₂",
+      "Fe³⁺, O₂, CO₂, NO₃⁻, SO₄²⁻, Mn⁴⁺"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con la diminuzione dell'Eh vengono usati prima O₂ e nitrato, poi Mn e Fe ossidati, quindi solfato e infine CO₂ nella metanogenesi.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.93"
+  },
+  {
+    "id": "suoli-redox-sommersione-ph-087",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Verso quale intervallo tende a convergere il pH di suoli acidi e alcalini durante la sommersione prolungata?",
+    "suggestion": "Le riduzioni consumano H⁺, mentre la CO₂ disciolta acidifica.",
+    "options": [
+      "Verso valori prossimi a pH 6,5–7,0",
+      "Verso pH 2 in tutti i suoli",
+      "Verso pH 12 in tutti i suoli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il consumo di H⁺ nelle riduzioni tende ad alzare il pH dei suoli acidi, mentre la CO₂ abbassa quello dei suoli alcalini; i valori convergono verso la neutralità.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.94"
+  },
+  {
+    "id": "suoli-redox-aerenchima-088",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è la funzione principale dell'aerenchima nelle piante che crescono in suoli sommersi?",
+    "suggestion": "È un tessuto con grandi spazi d'aria che collega le parti aeree alle radici.",
+    "options": [
+      "Trasporta ossigeno alle radici e crea una piccola zona ossica nella rizosfera",
+      "Accumula nitrato nelle foglie impedendo la denitrificazione nel suolo",
+      "Trasforma Fe²⁺ direttamente in carbonato di calcio all'interno della radice"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'aerenchima consente il trasporto di O₂ fino alle radici sommerse; la perdita radiale di ossigeno crea una zona ossica e può formare placche ferriche.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.94"
+  },
+  {
+    "id": "suoli-redox-metanogenesi-089",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quando può iniziare la metanogenesi in un suolo sommerso?",
+    "suggestion": "È l'ultima via respiratoria anaerobica, dopo l'esaurimento degli altri accettori inorganici.",
+    "options": [
+      "Dopo l'esaurimento di O₂, nitrato, Mn, Fe e solfato a Eh molto negativo",
+      "Appena il suolo riceve ossigeno dall'atmosfera nelle prime ore di sommersione",
+      "Solo in suoli con pH superiore a 11 e senza sostanza organica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli archei metanogeni agiscono in condizioni molto riducenti, quando gli altri TEA sono esauriti, utilizzando soprattutto acetato o CO₂ con H₂.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.96"
+  },
+  {
+    "id": "suoli-pedogenesi-processi-090",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale insieme comprende le quattro categorie fondamentali dei processi pedogenetici?",
+    "suggestion": "Distingui ingressi, perdite, spostamenti interni e cambiamenti della materia.",
+    "options": [
+      "Addizione, rimozione, traslocazione e trasformazione",
+      "Evaporazione, fotosintesi, sedimentazione e fermentazione",
+      "Aerazione, irrigazione, concimazione e lavorazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "I processi pedogenetici fondamentali sono addizione di materiali, rimozione dal sistema, traslocazione interna e trasformazione chimico-biologica.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.98"
+  },
+  {
+    "id": "suoli-pedogenesi-tempo-091",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale tendenza si osserva in genere con l'avanzare della pedogenesi in ambienti lisciviati?",
+    "suggestion": "Pensa a basi, silice, ossidi di Fe e Al e acidità.",
+    "options": [
+      "Aumentano ossidi di Fe e Al, mentre basi e silice tendono a diminuire",
+      "Aumentano basi e silice, mentre Fe e Al scompaiono completamente",
+      "Tutte le proprietà restano identiche perché il materiale parentale non cambia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con il tempo l'alterazione e la lisciviazione eliminano basi e silice, mentre gli ossidi di Fe e Al si accumulano relativamente e l'acidità tende ad aumentare.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.98"
+  },
+  {
+    "id": "suoli-salinita-sodicita-092",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale differenza fondamentale distingue salinità e sodicità del suolo?",
+    "suggestion": "Una proprietà riguarda i sali nella soluzione, l'altra il sodio nel complesso di scambio.",
+    "options": [
+      "La salinità è eccesso di sali solubili; la sodicità è dominanza di Na⁺ scambiabile",
+      "La salinità è eccesso di argilla; la sodicità è eccesso di sostanza organica",
+      "La salinità riguarda solo il pH; la sodicità riguarda solo la tessitura"
+    ],
+    "correctIndex": 0,
+    "explanation": "La salinità misura l'accumulo di sali nella soluzione del suolo, mentre la sodicità indica l'occupazione dei siti di scambio da parte del sodio.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.107"
+  },
+  {
+    "id": "suoli-salinita-sodico-usda-093",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale combinazione identifica un suolo sodico secondo la classificazione USDA riportata?",
+    "suggestion": "È il caso con poco sale totale ma molto sodio di scambio e pH alto.",
+    "options": [
+      "EC < 4 dS m⁻¹, ESP > 15%, SAR > 15 e pH > 8,5",
+      "EC > 4 dS m⁻¹, ESP < 15%, SAR < 15 e pH < 8,5",
+      "EC < 4 dS m⁻¹, ESP < 15%, SAR < 15 e pH < 8,5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il suolo sodico ha elevata sodicità ma bassa forza ionica: il doppio strato diffuso resta espanso e le argille si disperdono, peggiorando la struttura.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.108"
+  },
+  {
+    "id": "suoli-salinita-stress-osmotico-094",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è il primo meccanismo con cui l'elevata salinità limita l'assorbimento di acqua da parte delle radici?",
+    "suggestion": "Riguarda il potenziale idrico della soluzione del suolo, prima della tossicità specifica degli ioni.",
+    "options": [
+      "Lo stress osmotico rende più negativo il potenziale idrico della soluzione",
+      "La salinità trasforma l'acqua del suolo in una fase gassosa non assorbibile",
+      "Il sale elimina direttamente tutti i micropori dalla matrice argillosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'aumento dei soluti abbassa il potenziale idrico della soluzione del suolo e ostacola l'ingresso dell'acqua nelle radici; si aggiungono poi tossicità di Na⁺ e Cl⁻.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.109"
+  },
+  {
+    "id": "suoli-salinita-gesso-095",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il gesso è usato per correggere un suolo sodico?",
+    "suggestion": "Fornisce un catione bivalente capace di sostituire il sodio nei siti di scambio.",
+    "options": [
+      "Il Ca²⁺ sostituisce Na⁺ e il solfato di sodio formato può essere lisciviato",
+      "Il gesso trasforma Na⁺ in un gas e lo elimina senza bisogno di drenaggio",
+      "Il CaSO₄ aumenta la sodicità per rendere le argille più disperse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il gesso apporta Ca²⁺, che sostituisce Na⁺ sullo scambiatore; il Na₂SO₄ solubile deve poi essere rimosso dal profilo con acqua e drenaggio efficaci.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.110"
+  },
+  {
+    "id": "suoli-processi-argilluviazione-096",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale evidenza morfologica segnala l'argilluviazione in un orizzonte Bt?",
+    "suggestion": "Cerca il rivestimento orientato lasciato dall'argilla che si è depositata nei pori e sui ped.",
+    "options": [
+      "Cutans, cioè patine lucide di argilla sulle superfici strutturali",
+      "Fessure di essiccamento riempite esclusivamente da sabbia grossolana",
+      "Cristalli bianchi di sale formati da evaporazione superficiale"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'argilluviazione trasporta argilla verso il basso; nell'orizzonte Bt l'illuviazione è spesso riconoscibile per i cutans orientati su ped e pareti dei pori.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.113"
+  },
+  {
+    "id": "suoli-processi-podzolizzazione-097",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale sequenza di orizzonti è tipica di un suolo podzolizzato?",
+    "suggestion": "Cerca prima un orizzonte eluviale chiaro e poi uno di accumulo organo-metallico.",
+    "options": [
+      "E albico sopra un B spodico, come Bh, Bs o Bhs",
+      "O sopra A e poi direttamente roccia R senza orizzonti minerali",
+      "A calcico sopra un E ricco di carbonati e un C salino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella podzolizzazione gli acidi organici mobilizzano Fe, Al e sostanza organica: l'orizzonte E si schiarisce e in profondità si forma un B spodico.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.114"
+  },
+  {
+    "id": "suoli-classificazione-suffissi-098",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa indica il suffisso minore “w” nella designazione Bw?",
+    "suggestion": "La lettera richiama il termine inglese weak.",
+    "options": [
+      "Debole pedogenesi e alterazione in situ senza accumulo illuviale significativo",
+      "Un accumulo illuviale di argilla traslocata dagli orizzonti superiori",
+      "Una saturazione idrica prolungata con riduzione del ferro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il suffisso w indica un orizzonte cambico: presenta sviluppo di colore o struttura per alterazione locale, ma non accumuli illuviali rilevanti.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.119"
+  },
+  {
+    "id": "suoli-classificazione-wrb-099",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale differenza distingue la WRB dalla Soil Taxonomy secondo il testo?",
+    "suggestion": "Confronta i criteri diagnostici e l'uso delle informazioni climatiche.",
+    "options": [
+      "La WRB non usa parametri climatici e si basa su proprietà rilevabili in campo",
+      "La WRB usa soltanto il regime di temperatura e non gli orizzonti diagnostici",
+      "La WRB classifica i suoli esclusivamente in base alla specie vegetale presente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La WRB organizza Reference Soil Groups e qualificatori su proprietà osservabili e misurabili, senza usare i parametri climatici come criteri diagnostici.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.120-121"
+  },
+  {
+    "id": "suoli-classificazione-epipedon-100",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale criterio distingue l'epipedon mollico dall'epipedon umbrico?",
+    "suggestion": "Le due superfici sono entrambe scure e ricche di carbonio: cambia la proporzione di basi di scambio.",
+    "options": [
+      "Il mollico ha saturazione basica almeno del 50%, l'umbrico inferiore al 50%",
+      "Il mollico è sempre saturo d'acqua, l'umbrico non è mai organico",
+      "Il mollico è vulcanico, l'umbrico deriva obbligatoriamente da calcare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mollico e umbrico sono simili per spessore e colore, ma il mollico ha GSB ≥ 50%, mentre l'umbrico ha saturazione basica inferiore.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.124-125"
+  },
+  {
+    "id": "suoli-rocce-sedimenti-classazione-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché un deposito morenico è considerato un esempio di sedimento scarsamente classato?",
+    "suggestion": "Pensa al tipo di trasporto (ghiacciaio) e a cosa succede quando il materiale non viene selezionato per dimensione.",
+    "options": [
+      "Perché contiene clasti di dimensioni molto diverse, dall'argilla ai massi, non selezionati dal ghiacciaio",
+      "Perché il ghiaccio arrotonda uniformemente ogni clasto, producendo particelle di forma sempre sferica e liscia",
+      "Perché il trasporto fluviale seleziona sempre le particelle per peso, producendo una grana costantemente fine"
+    ],
+    "correctIndex": 0,
+    "explanation": "La classazione descrive l'uniformità dimensionale delle particelle; i depositi morenici, non selezionati per dimensione dal trasporto glaciale, contengono clasti di ogni taglia (da argilla a massi), quindi sono un esempio tipico di sedimento scarsamente classato.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.6"
+  },
+  {
+    "id": "suoli-rocce-sio2-classificazione-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Su quale base chimica si distinguono rocce felsiche, intermedie, mafiche e ultramafiche?",
+    "suggestion": "Il criterio è lo stesso ossido che dà il nome ai silicati.",
+    "options": [
+      "Sul contenuto percentuale di Al2O3, che aumenta dalle felsiche verso le ultramafiche",
+      "Sul contenuto percentuale di SiO2, che diminuisce dalle felsiche verso le ultramafiche",
+      "Sulla dimensione dei singoli cristalli, un aspetto indipendente dalla chimica del magma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le rocce magmatiche si classificano in base al contenuto in SiO2: superiore al 65% nelle felsiche, tra 45 e 50% nelle mafiche, inferiore al 45% nelle ultramafiche; il contenuto in SiO2 determina anche la temperatura di solidificazione.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.6"
+  },
+  {
+    "id": "suoli-minerali-indicatori-resistenti-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché epidoto, tormalina, zircone e rutilo sono usati come minerali 'indicatori' negli studi pedologici?",
+    "suggestion": "Pensa a cosa succede ai minerali meno resistenti mentre il suolo invecchia.",
+    "options": [
+      "Perché si alterano molto più in fretta di tutti gli altri minerali e scompaiono già nei primissimi stadi di pedogenesi",
+      "Perché sono i minerali assoluti più abbondanti nella frazione sabbiosa dei suoli giovani e poco alterati",
+      "Perché resistono fortemente all'alterazione e la loro abbondanza relativa segnala il grado di alterazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Questi minerali secondari sono fortemente resistenti all'alterazione chimica: la loro concentrazione relativa, che aumenta man mano che i minerali meno resistenti si alterano, permette di valutare il grado di alterazione subito da un suolo.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.7"
+  },
+  {
+    "id": "suoli-silicati-legame-sio-ionico-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il legame Si-O conferisce ai silicati una struttura tanto varia e robusta?",
+    "suggestion": "Considera la posizione di questo legame lungo la scala che va dal covalente puro allo ionico puro.",
+    "options": [
+      "Perché ha carattere circa per metà covalente e per metà ionico, unendo robustezza e direzionalità",
+      "Perché è un legame quasi interamente covalente, come quello tra carbonio e idrogeno nei composti organici",
+      "Perché è un legame quasi interamente ionico, come quello tra potassio e ossigeno nei sali fortemente polari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Silicio e ossigeno hanno una differenza di elettronegatività di circa 1,7, corrispondente a un legame Si-O con circa il 50% di carattere ionico: questa natura mista dà robustezza e direzionalità, alla base della diversità strutturale dei silicati.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.23"
+  },
+  {
+    "id": "suoli-silicati-coordinazione-silicio-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il silicio si coordina con quattro atomi di ossigeno in disposizione tetraedrica e non ottaedrica?",
+    "suggestion": "Confronta il rapporto tra il raggio ionico di Si4+ e quello di O2- con le soglie del numero di coordinazione.",
+    "options": [
+      "Perché il silicio possiede sempre carica ionica +6, valore compatibile soltanto con quattro legami covalenti",
+      "Perché il rapporto tra il suo raggio ionico e quello dell'ossigeno ricade nell'intervallo che impone coordinazione 4",
+      "Perché il rapporto tra il suo raggio ionico e quello dell'ossigeno supera sempre la soglia che impone coordinazione 8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con raggio 0,040 nm il rapporto r_Si/r_O è circa 0,32, valore compreso nell'intervallo 0,22-0,41 che, secondo il modello delle sfere rigide, impone coordinazione tetraedrica a quattro ossigeni.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.24"
+  },
+  {
+    "id": "suoli-silicati-coordinazione-alluminio-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché nei fillosilicati l'alluminio occupa tipicamente siti ottaedrici, coordinato con sei ossigeni?",
+    "suggestion": "Il rapporto tra il raggio di Al3+ e quello di O2- è maggiore di quello del silicio.",
+    "options": [
+      "Perché l'alluminio ha carica negativa e viene per questo attratto da sei distinti cationi di ossigeno",
+      "Perché il suo rapporto tra raggio ionico e raggio dell'ossigeno risulta sempre esattamente identico a quello del silicio",
+      "Perché il suo rapporto raggio ionico/raggio dell'ossigeno ricade nell'intervallo che impone coordinazione 6"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con raggio 0,050 nm, il rapporto r_Al/r_O è circa 0,45, compreso nell'intervallo 0,41-0,73 che corrisponde a coordinazione ottaedrica a sei ossigeni, anche se l'alluminio può occupare siti tetraedrici in alcune strutture.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.24"
+  },
+  {
+    "id": "suoli-silicati-nesosilicati-olivina-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché l'olivina è classificata come nesosilicato?",
+    "suggestion": "Guarda se i tetraedri SiO4 condividono ossigeni tra loro oppure no.",
+    "options": [
+      "Perché i suoi tetraedri SiO4 sono unità isolate, tenute insieme solo da cationi come Fe2+ e Mg2+",
+      "Perché i suoi tetraedri SiO4 condividono sempre tutti e quattro gli ossigeni con i tetraedri adiacenti",
+      "Perché i suoi tetraedri SiO4 formano lunghe catene lineari infinite unite da ossigeni pontanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei nesosilicati come l'olivina i tetraedri SiO4 non condividono ossigeni tra loro: restano isole strutturali isolate, neutralizzate da cationi bivalenti come Fe2+ e Mg2+ in coordinazione ottaedrica.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.26"
+  },
+  {
+    "id": "suoli-silicati-inosilicati-catena-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è la differenza strutturale principale tra pirosseni e anfiboli?",
+    "suggestion": "Uno dei due gruppi raddoppia la catena tetraedrica rispetto all'altro.",
+    "options": [
+      "I pirosseni hanno tetraedri isolati, mentre gli anfiboli formano anelli chiusi di sei tetraedri",
+      "I pirosseni hanno una catena tetraedrica singola, gli anfiboli una catena doppia unita lateralmente",
+      "I pirosseni condividono tutti gli ossigeni in tre dimensioni, gli anfiboli restano tetraedri isolati"
+    ],
+    "correctIndex": 1,
+    "explanation": "I pirosseni sono inosilicati a catena singola (ogni tetraedro condivide due ossigeni), mentre gli anfiboli sono inosilicati a catena doppia, con due catene collegate lateralmente per condivisione di ossigeni alternati.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.26"
+  },
+  {
+    "id": "suoli-fillosilicati-foglio-diottaedrico-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa distingue un foglio ottaedrico diottaedrico da uno triottaedrico?",
+    "suggestion": "Confronta quanti dei tre siti ottaedrici disponibili sono effettivamente occupati.",
+    "options": [
+      "Nel diottaedrico tutti i siti sono occupati da cationi bivalenti, mentre nel triottaedrico restano sempre vacanti",
+      "Nel diottaedrico i cationi centrali sono sempre monovalenti, mentre nel triottaedrico sono sempre tetravalenti",
+      "Nel diottaedrico solo due siti su tre sono occupati da cationi trivalenti; nel triottaedrico lo sono tutti e tre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel foglio diottaedrico (es. gibbsite, Al3+) solo due siti su tre risultano occupati per bilanciare la carica; nel foglio triottaedrico (es. brucite, Mg2+) tutti e tre i siti sono occupati, poiché il catione bivalente porta una carica minore.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.28"
+  },
+  {
+    "id": "suoli-acidi-pioggia-naturale-ph-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché l'acqua piovana ha un pH naturalmente acido (circa 5,6) anche in assenza di inquinamento?",
+    "suggestion": "Pensa a quale gas atmosferico si scioglie sempre nell'acqua delle precipitazioni.",
+    "options": [
+      "Perché la CO2 atmosferica si scioglie nell'acqua formando acido carbonico, che si dissocia parzialmente in H+",
+      "Perché l'ossigeno atmosferico reagisce direttamente con l'acqua formando perossido di idrogeno, un composto piuttosto acido",
+      "Perché l'azoto atmosferico si scioglie nell'acqua formando acido nitrico anche senza alcuna combustione"
+    ],
+    "correctIndex": 0,
+    "explanation": "La CO2 atmosferica si discioglie nell'acqua piovana formando acido carbonico (H2CO3), che dissociandosi parzialmente libera H+: applicando la costante di Henry e la Ka dell'acido carbonico si ottiene un pH naturale di circa 5,59.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.39"
+  },
+  {
+    "id": "suoli-acidi-piogge-acide-soglia-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Al di sotto di quale valore una precipitazione viene classificata come pioggia acida?",
+    "suggestion": "Il confine è legato al pH naturale dell'acqua piovana dovuto alla sola CO2 atmosferica.",
+    "options": [
+      "pH 7,0, il valore convenzionalmente definito di piena neutralità lungo l'intera scala logaritmica del pH",
+      "pH 5,6, il valore naturale dell'acqua piovana dovuto alla sola CO2 atmosferica disciolta",
+      "pH 3,0, una soglia usata soltanto per definire i suoli più fortemente solfatici e acidi in assoluto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le piogge acide sono precipitazioni con pH inferiore a 5,6: questo valore corrisponde al pH naturale dell'acqua piovana dovuto alla sola CO2 atmosferica, non alla neutralità né alla soglia dei suoli solfatici.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.39-40"
+  },
+  {
+    "id": "suoli-acidi-nitrificazione-h-stoichiometria-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quante moli di H+ vengono complessivamente rilasciate nitrificando una mole di NH4+ a NO3-?",
+    "suggestion": "Il processo avviene in due fasi (Nitrosomonas, poi Nitrobacter), ciascuna produttrice di protoni.",
+    "options": [
+      "1 mole di H+, prodotta interamente nella sola fase finale del processo completo",
+      "2 moli di H+, prodotte esclusivamente da Nitrobacter durante la seconda fase",
+      "4 moli di H+, sommando le due fasi mediate da Nitrosomonas e poi da Nitrobacter"
+    ],
+    "correctIndex": 2,
+    "explanation": "La nitrificazione avviene in due fasi (NH4+→NO2- con Nitrosomonas, poi NO2-→NO3- con Nitrobacter), ciascuna delle quali libera 2 moli di H+: complessivamente si liberano 4 moli di H+ per mole di NH4+ nitrificato.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.41"
+  },
+  {
+    "id": "suoli-acidi-assorbimento-no3-nh4-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché l'assorbimento di ione ammonio da parte delle radici acidifica la rizosfera, mentre l'assorbimento di nitrato la alcalinizza?",
+    "suggestion": "La cellula deve bilanciare la carica entrata scambiandola con uno ione di segno opposto.",
+    "options": [
+      "Per bilanciare la carica, la radice rilascia H+ assorbendo NH4+ e HCO3- assorbendo NO3-",
+      "Per bilanciare la carica, la radice rilascia OH- assorbendo NH4+ e H+ assorbendo NO3-",
+      "L'assorbimento di NH4+ e di NO3- non altera mai il bilancio di carica della cellula radicale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per mantenere l'equilibrio elettrico, la radice rilascia H+ quando assorbe il catione NH4+ (acidificando la rizosfera) e HCO3- quando assorbe l'anione NO3- (alcalinizzandola), come dimostrato sperimentalmente con indicatori colorimetrici del pH.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.41"
+  },
+  {
+    "id": "suoli-acidi-solfatici-pirite-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il drenaggio di un suolo potenzialmente acido solfatico può abbassare il pH fino a valori di 2,5?",
+    "suggestion": "Il drenaggio espone all'aria un minerale di ferro e zolfo che era stabile solo in assenza di ossigeno.",
+    "options": [
+      "Perché il drenaggio dissolve rapidamente la calcite presente, liberando anidride carbonica acida",
+      "Perché l'ossigeno ossida la pirite accumulata nel suolo, liberando grandi quantità di acido solforico",
+      "Perché l'assenza d'acqua concentra semplicemente i sali solubili già presenti nella soluzione del suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "In condizioni anaerobiche si accumula pirite (FeS2); quando il suolo viene drenato ed esposto all'ossigeno, la pirite si ossida producendo grandi quantità di H2SO4, che può abbassare il pH fino a circa 2,5.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.42"
+  },
+  {
+    "id": "suoli-azoto-forme-organiche-amminoacidi-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale forma di azoto organico è la più abbondante nel suolo?",
+    "suggestion": "È il costituente fondamentale delle proteine, con un gruppo amminico e uno carbossilico.",
+    "options": [
+      "L'acido teicoico, un polimero tipico delle pareti dei batteri Gram-positivi",
+      "Le mucoproteine, secrete dai microrganismi del suolo stesso",
+      "Gli amminoacidi, i costituenti fondamentali delle proteine del suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli amminoacidi, costituenti fondamentali delle proteine, rappresentano la forma di azoto organico più abbondante nel suolo; acido teicoico e mucoproteine sono presenti ma in quantità minori.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.49"
+  },
+  {
+    "id": "suoli-azoto-stabilizzazione-chimica-fisica-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale meccanismo di stabilizzazione dell'azoto organico nel suolo è di tipo fisico anziché chimico?",
+    "suggestion": "Uno dei meccanismi rende l'azoto inaccessibile per motivi di dimensione dei pori, non per legami chimici.",
+    "options": [
+      "La diffusione delle molecole azotate nei micropori, dove gli enzimi extracellulari non arrivano",
+      "L'incorporazione dell'azoto nelle molecole umiche tramite reazione chimica con chinoni e tannini vegetali",
+      "La formazione di complessi organo-metallici tra l'azoto e i policationi di Fe3+ o Al3+"
+    ],
+    "correctIndex": 0,
+    "explanation": "La diffusione nei micropori è l'unico meccanismo di stabilizzazione fisica: rende le molecole azotate fisicamente inaccessibili agli enzimi per motivi dimensionali. Umificazione e complessazione con Fe/Al sono invece meccanismi chimici.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.49"
+  },
+  {
+    "id": "suoli-humus-deiezioni-macro-turricoli-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Da quali organismi derivano le deiezioni macroscopiche (turricoli) di natura organo-minerale?",
+    "suggestion": "Sono i lombrichi che si muovono anche in profondità, non solo nella lettiera superficiale.",
+    "options": [
+      "Dai collemboli e dagli acari, che si nutrono quasi esclusivamente di funghi superficiali",
+      "Dai vermi anecici ed endogei, che ingeriscono grandi quantità di suolo organo-minerale",
+      "Dai vermi epigei, confinati alla sola lettiera senza mai toccare la frazione minerale"
+    ],
+    "correctIndex": 1,
+    "explanation": "I turricoli sono deiezioni organo-minerali prodotte dai lombrichi anecici ed endogei, che ingeriscono e trasformano grandi quantità di suolo, contribuendo alla formazione di aggregati stabili nell'orizzonte A.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.58"
+  },
+  {
+    "id": "suoli-humus-orizzonte-a-strutture-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è la differenza tra un orizzonte A bio-macro-strutturato e uno di giustapposizione?",
+    "suggestion": "Una struttura nasce dall'attività dei lombrichi, l'altra dalla sola presenza fisica di frammenti separati.",
+    "options": [
+      "Nel bio-macro-strutturato manca sempre la sostanza organica, mentre la giustapposizione ne è ricca",
+      "Nel bio-macro-strutturato la struttura è sempre lamellare, in quella di giustapposizione colonnare",
+      "Nel bio-macro-strutturato i lombrichi incorporano materia organica e minerale insieme"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'orizzonte bio-macro-strutturato ha struttura grumosa-glomerulare grazie all'incorporazione attiva di materia organica e minerale da parte dei lombrichi; nella giustapposizione, tipica di debole attività biologica, le particelle organiche restano semplicemente a contatto con le deiezioni di artropodi senza integrarsi.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.58"
+  },
+  {
+    "id": "suoli-humus-sistemi-terrestri-istici-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale orizzonte diagnostico distingue i sistemi di humus istici da quelli terrestri?",
+    "suggestion": "Il sistema istico si sviluppa in condizioni di saturazione idrica stagionale o permanente.",
+    "options": [
+      "La presenza di un orizzonte anA o H, tipico di condizioni di saturazione idrica del suolo",
+      "La presenza di un orizzonte A o AE, tipico di condizioni aerobiche del tutto prive di saturazione",
+      "La presenza di un orizzonte anaA, tipico solo di ambienti di marea e fondali marini"
+    ],
+    "correctIndex": 0,
+    "explanation": "I sistemi terrestri (Mull, Moder, Mor, Amphi, Tangel) hanno orizzonti A o AE diagnostici; i sistemi istici, che si sviluppano in torbiere e paludi, sono identificati da un orizzonte anA o H; i sistemi acquatici da un orizzonte anaA.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.61"
+  },
+  {
+    "id": "suoli-pedofauna-categorie-edafiche-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "A quale categoria di organismi edafici appartiene il lombrico, che vive nel suolo per l'intero ciclo biologico?",
+    "suggestion": "È la categoria opposta a quella degli organismi che entrano nel suolo solo temporaneamente.",
+    "options": [
+      "Ai geofili attivi temporanei (GAT), che vivono nel suolo solo in alcune fasi larvali",
+      "Ai geobionti (Gb), organismi permanentemente presenti nel suolo per tutta la vita",
+      "Ai geofili inattivi temporanei (GIT), che entrano nel suolo solo per svernare"
+    ],
+    "correctIndex": 1,
+    "explanation": "I geobionti vivono permanentemente nel suolo lungo l'intero ciclo biologico, e il lombrico ne è l'esempio più rappresentativo; i GAT e i GIT, al contrario, occupano il suolo solo temporaneamente, in fase attiva o di quiescenza.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.63"
+  },
+  {
+    "id": "suoli-pedofauna-rete-trofica-livelli-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "A quale livello trofico della rete alimentare del suolo appartengono gli acari predatori e i collemboli fungivori?",
+    "suggestion": "Si nutrono di organismi che a loro volta si nutrono dei residui organici.",
+    "options": [
+      "Ai consumatori primari, che si nutrono direttamente dei residui organici freschi",
+      "Ai consumatori terziari, che predano esclusivamente altri organismi predatori",
+      "Ai consumatori secondari, che predano gli organismi consumatori primari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acari predatori e collemboli fungivori sono consumatori secondari, che predano i consumatori primari (batteri, funghi, detritivori); i consumatori terziari, come coleotteri predatori e pseudo-scorpioni, si collocano un livello più in alto.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.63"
+  },
+  {
+    "id": "suoli-descrizione-buca-pedologica-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la buca pedologica è preferita al sondaggio a carotaggio per la descrizione di un profilo di suolo?",
+    "suggestion": "Confronta quanto di ciascun orizzonte resta visibile con i due metodi.",
+    "options": [
+      "Perché mette in luce l'intera sequenza degli orizzonti per una descrizione più dettagliata",
+      "Perché richiede sempre uno scavo meccanico più economico della carotatura manuale",
+      "Perché non richiede in alcun caso la registrazione delle informazioni identificative del sito"
+    ],
+    "correctIndex": 0,
+    "explanation": "La buca pedologica, scavata fino a 1-2 metri, espone l'intera sequenza degli orizzonti e permette una descrizione dettagliata; il sondaggio a carotaggio fornisce solo campioni cilindrici, con una descrizione meno completa.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.70"
+  },
+  {
+    "id": "suoli-descrizione-nastrino-argilla-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Nel metodo del nastrino, quale lunghezza del nastro indica una tessitura di classe argillosa?",
+    "suggestion": "È la stessa soglia usata anche nel metodo di stima descritto per la tessitura del terreno.",
+    "options": [
+      "Un nastro debole e corto, inferiore a 2,5 centimetri prima di spezzarsi",
+      "Un nastro forte, oltre 5 centimetri di lunghezza prima della rottura",
+      "Nessun nastro: solo una pallina compatta di sabbia franca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un nastro forte oltre 5 cm indica classi argillose (argilla sabbiosa, limosa o argilla); un nastro inferiore a 2,5 cm indica invece classi di tipo franco o franco-sabbioso.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.74"
+  },
+  {
+    "id": "suoli-descrizione-effervescenza-hcl-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa indica una forte effervescenza con formazione di schiuma quando si applica HCl al 10% su un campione di suolo?",
+    "suggestion": "L'intensità della reazione è proporzionale al contenuto di un particolare minerale.",
+    "options": [
+      "Un'assenza pressoché totale di carbonati, cioè la classe definita non calcareo",
+      "Un contenuto di sostanza organica molto elevato, del tutto indipendente dai carbonati",
+      "Un contenuto di carbonati elevato, nella classe fortemente o estremamente calcareo"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'effervescenza con HCl deriva dalla reazione CaCO3 + 2HCl → CO2 + H2O + CaCl2: una reazione intensa con formazione di schiuma indica una classe fortemente o estremamente calcarea (10-25% o oltre il 25% di carbonati).",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.75"
+  },
+  {
+    "id": "suoli-organica-fattore-conversione-corg-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché per stimare la sostanza organica totale del suolo si moltiplica il carbonio organico misurato per circa 1,75?",
+    "suggestion": "Il carbonio è solo una delle componenti chimiche della sostanza organica.",
+    "options": [
+      "Perché il carbonio è solo il 45-55% della composizione elementare della sostanza organica",
+      "Perché il carbonio organico misurato in laboratorio risulta sempre fortemente sottostimato del 75%",
+      "Perché la sostanza organica contiene sempre il 75% di carbonati da sottrarre al totale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sostanza organica contiene mediamente il 45-55% di carbonio, insieme a ossigeno, idrogeno, azoto e fosforo: il fattore 1,75 permette di risalire al totale a partire dal solo carbonio organico, più agevole da misurare in laboratorio.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.76"
+  },
+  {
+    "id": "suoli-organica-superficie-contributo-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la sostanza organica contribuisce alla reattività chimica del suolo molto più di quanto suggerisca il suo peso?",
+    "suggestion": "Confronta la sua percentuale in peso con la sua quota di superficie reattiva totale.",
+    "options": [
+      "Perché pesa quanto l'argilla ma possiede una superficie reattiva praticamente nulla e trascurabile",
+      "Perché, pur pesando circa il 3% del suolo, fornisce circa il 46% della superficie reattiva",
+      "Perché costituisce il 50% del peso del suolo, più di sabbia, limo e argilla insieme"
+    ],
+    "correctIndex": 1,
+    "explanation": "In un suolo agrario medio la sostanza organica pesa solo circa il 3%, ma fornisce circa il 46% della superficie reattiva totale, paragonabile a quella dell'argilla (53%): la sua importanza funzionale va ben oltre la sua abbondanza in peso.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.77"
+  },
+  {
+    "id": "suoli-organica-cellulosa-amido-legami-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché la cellulosa è molto più resistente alla degradazione microbica rispetto all'amido, pur essendo entrambi polimeri di glucosio?",
+    "suggestion": "I due polimeri differiscono per il tipo di legame glucosidico e per la struttura che ne deriva.",
+    "options": [
+      "Perché è priva di legami glucosidici e si comporta come una proteina strutturale rigida",
+      "Perché i legami 1,4-α-glucosidici la rendono in realtà molto più solubile in acqua rispetto all'amido",
+      "Perché i legami 1,4-β-glucosidici generano catene rigide organizzate in microfibrille compatte"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cellulosa è unita da legami 1,4-β-glucosidici, che impongono catene lineari e rigide organizzate in micelle e microfibrille; l'amido, con legami 1,4-α-glucosidici, ha struttura ramificata e più solubile, quindi più facilmente degradabile.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.78"
+  },
+  {
+    "id": "suoli-organica-lignina-funghi-marciume-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quali organismi sono principalmente responsabili della degradazione della lignina nel suolo?",
+    "suggestion": "Sono un gruppo di funghi noti per l'aspetto che assumono i residui legnosi che degradano.",
+    "options": [
+      "I funghi basidiomiceti del cosiddetto marciume bianco del legno",
+      "I batteri chemioautotrofi responsabili della nitrificazione del suolo",
+      "Gli enchitreidi e i collemboli fungivori degli orizzonti organici"
+    ],
+    "correctIndex": 0,
+    "explanation": "La degradazione della lignina, resa difficile dalla sua struttura irregolare, è condotta principalmente dai funghi basidiomiceti del marciume bianco, attraverso demetilazione, rottura delle catene laterali e dei legami eterei.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.78"
+  },
+  {
+    "id": "suoli-anioni-fosfato-legame-binucleare-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché l'adsorbimento specifico del fosfato sugli ossidi di ferro è considerato praticamente irreversibile?",
+    "suggestion": "Confronta la natura del legame formato con quella di un semplice scambio ionico in doppio strato diffuso.",
+    "options": [
+      "Perché il fosfato precipita sempre e comunque come sale insolubile, indipendentemente dal pH del suolo circostante",
+      "Perché forma un legame binucleare diretto con gli atomi di Fe superficiali, diverso dallo scambio ionico",
+      "Perché il fosfato viene sempre ridotto a fosfina gassosa e completamente allontanato dal suolo circostante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fosfato forma con due gruppi Fe-OH superficiali un legame binucleare a sfera interna (complesso Fe-O-P-O-Fe): questo legame chimico diretto è molto più forte e lento da invertire rispetto al semplice scambio ionico, rendendolo praticamente irreversibile.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.89"
+  },
+  {
+    "id": "suoli-anioni-classi-comportamento-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il nitrato viene facilmente lisciviato mentre il fosfato resta fortemente trattenuto nel suolo?",
+    "suggestion": "Le due categorie di anioni interagiscono in modo molto diverso con le superfici del suolo.",
+    "options": [
+      "Perché il nitrato è adsorbito specificamente, mentre il fosfato resta sempre disciolto in soluzione",
+      "Perché entrambi gli anioni sono trattenuti con la medesima forza dalle superfici cariche del suolo",
+      "Perché il nitrato è debolmente trattenuto, mentre il fosfato è adsorbito specificamente e con forza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il nitrato appartiene alla categoria degli anioni debolmente trattenuti o repulsi, soggetti a lisciviazione, mentre il fosfato appartiene agli anioni fortemente trattenuti per adsorbimento specifico, molto più stabile nella fase solida.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.89"
+  },
+  {
+    "id": "suoli-redox-diffusione-o2-fick-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché un suolo saturo d'acqua diventa rapidamente anossico anche se contiene sostanza organica limitata?",
+    "suggestion": "Confronta la velocità con cui l'ossigeno si muove in acqua rispetto all'aria.",
+    "options": [
+      "Perché il coefficiente di diffusione dell'O2 in acqua è circa 10.000 volte inferiore che in aria",
+      "Perché l'acqua reagisce chimicamente con l'ossigeno disciolto, trasformandolo in ozono",
+      "Perché la saturazione d'acqua aumenta sempre la pressione parziale di ossigeno disponibile nei pori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il coefficiente di diffusione dell'O2 è 1,98×10⁻⁵ m²/s in aria ma solo 1,90×10⁻⁹ m²/s in acqua, circa 10.000 volte più lento: in un suolo saturo il rifornimento di O2 non riesce a compensarne il consumo microbico, portando rapidamente ad anossia.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.90"
+  },
+  {
+    "id": "suoli-redox-potenziale-standard-she-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "A che cosa è riferito per convenzione il potenziale standard di riduzione (E0) di una coppia redox?",
+    "suggestion": "È un elettrodo di riferimento a cui si attribuisce per convenzione valore zero.",
+    "options": [
+      "All'elettrodo di platino saturo in ossigeno, con E0 fissato per convenzione a 1 V",
+      "All'elettrodo standard a idrogeno (SHE), con E0(H+/H2) fissato per convenzione a 0 V",
+      "Alla coppia Fe3+/Fe2+, presa sempre come riferimento universale per tutti i tipi di suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il potenziale standard di riduzione è misurato rispetto all'elettrodo standard a idrogeno (SHE), a cui per convenzione si attribuisce E0(H+/H2) = 0 V; maggiore è E0 di una coppia, maggiore è la sua tendenza a ridursi, cioè il suo potere ossidante.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.91"
+  },
+  {
+    "id": "suoli-redox-zolfo-sommersione-solfuri-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa producono i batteri solfato-riduttori nella zona anossica di un suolo sommerso?",
+    "suggestion": "Usano il solfato come accettore finale di elettroni al posto dell'ossigeno.",
+    "options": [
+      "Ossigeno molecolare, ossidando il solfato SO4²⁻ già in condizioni anaerobiche",
+      "Nitrato, riducendo l'azoto atmosferico disciolto nella soluzione circolante del suolo",
+      "Solfuro di idrogeno (H2S) o la sua forma dissociata HS-, riducendo il solfato SO4²⁻"
+    ],
+    "correctIndex": 2,
+    "explanation": "In condizioni fortemente riducenti i batteri solfato-riduttori usano SO4²⁻ come accettore terminale di elettroni, producendo H2S o HS- a seconda del pH; il solfuro può poi reagire con il Fe2+ formando FeS e, successivamente, pirite.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.95"
+  },
+  {
+    "id": "suoli-pedogenesi-suffisso-plowed-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale suffisso minore indica un orizzonte lavorato meccanicamente dall'uomo, come in un tipico orizzonte agricolo Ap?",
+    "suggestion": "Deriva dal termine inglese per 'arato'.",
+    "options": [
+      "Il suffisso p (plowed), per un orizzonte lavorato meccanicamente",
+      "Il suffisso t (traslocato), per un orizzonte con argilla illuviale",
+      "Il suffisso i (fibric), per materia organica poco decomposta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il suffisso p (plowed) indica un orizzonte lavorato meccanicamente dall'uomo, come nel caso di Ap; t indica accumulo di argilla di illuviazione, mentre i (fibric) indica materiale organico poco decomposto.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.97"
+  },
+  {
+    "id": "suoli-pedogenesi-crioclastismo-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché il crioclastismo è un meccanismo di alterazione fisica particolarmente efficace nelle aree alpine?",
+    "suggestion": "Pensa a come cambia il volume dell'acqua quando ghiaccia dentro una frattura rocciosa.",
+    "options": [
+      "Perché il ghiaccio scioglie sempre chimicamente i minerali, modificandone la composizione originaria e la struttura",
+      "Perché l'acqua che gela nelle fratture aumenta di volume di circa il 9%, esercitando forti pressioni",
+      "Perché le basse temperature aumentano sensibilmente la solubilità dei carbonati nella roccia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il crioclastismo sfrutta l'espansione di circa il 9% che l'acqua subisce ghiacciando: questa espansione esercita pressioni elevatissime nelle fratture rocciose, ampliandole fino alla disgregazione dei blocchi, tipica dei ghiaioni alpini.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.99"
+  },
+  {
+    "id": "suoli-pedogenesi-aria-tellurica-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "In che modo l'aria tellurica differisce tipicamente dall'atmosfera in termini di composizione?",
+    "suggestion": "Pensa a un gas che si accumula per la respirazione e a uno che viene consumato dagli organismi.",
+    "options": [
+      "Contiene meno CO2 e più O2 dell'atmosfera, essendo del tutto priva di ogni vapore acqueo",
+      "Ha esattamente la stessa composizione dell'atmosfera in ogni condizione di umidità",
+      "Contiene più CO2 e meno O2 dell'atmosfera, ed è generalmente satura di vapore acqueo"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'aria tellurica ha una quota di CO2 molto più elevata (0,3-0,6% fino al 3-5%) e una quantità di O2 ridotta (20,3%) rispetto all'atmosfera (N2 79%, O2 21%, CO2 0,032%), ed è generalmente satura di vapore acqueo.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.100"
+  },
+  {
+    "id": "suoli-pedogenesi-biota-effetti-piante-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale dei seguenti è un effetto diretto (non indiretto) delle piante superiori sulla pedogenesi?",
+    "suggestion": "Gli effetti diretti agiscono su acqua, temperatura, redox ed erosione; quelli indiretti passano attraverso la sostanza organica.",
+    "options": [
+      "La riduzione delle fluttuazioni di temperatura del suolo grazie all'ombreggiamento della chioma",
+      "L'aumento del contenuto di sostanza organica per gli apporti di lettiera e radici morte",
+      "L'incremento dell'attività biologica del suolo stimolato dal substrato organico via via disponibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La riduzione delle fluttuazioni termiche per ombreggiamento è un effetto diretto delle piante; l'aumento della sostanza organica e l'incremento dell'attività biologica sono invece effetti indiretti, mediati dagli apporti di lettiera e radici.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.101"
+  },
+  {
+    "id": "suoli-pedogenesi-rainshadow-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa spiega l'effetto di 'ombra pluviometrica' (rainshadow) osservabile su versanti opposti di un rilievo montuoso, come a Tenerife?",
+    "suggestion": "Considera che cosa succede all'aria umida quando è costretta a salire lungo un versante.",
+    "options": [
+      "Entrambi i versanti ricevono la stessa quantità di pioggia, a prescindere dall'esposizione",
+      "Il versante sopravento intercetta l'umidità e piove, il versante sottovento riceve aria già secca",
+      "Il versante sottovento riceve sempre più pioggia perché l'aria si raffredda man mano scendendo di quota"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le catene montuose costringono l'aria umida a salire e raffreddarsi sul versante sopravento, che riceve le precipitazioni; il versante sottovento riceve aria ormai secca, risultando molto più arido, con conseguenze marcate su vegetazione e suoli.",
+    "difficulty": "easy",
+    "source": "Funzionalità ambientale dei suoli.pdf p.102"
+  },
+  {
+    "id": "suoli-pedogenesi-sequenza-argille-piovosita-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale sequenza di minerali argillosi si osserva tipicamente all'aumentare della piovosità e della temperatura, fino alla laterizzazione?",
+    "suggestion": "Il percorso va da argille espandibili tipiche di climi temperati fino a ossidi in climi tropicali molto piovosi.",
+    "options": [
+      "Ossidi e idrossidi di Fe e Al, poi caolinite, infine illite e montmorillonite",
+      "Solo caolinite in ogni condizione climatica, senza variazioni legate alla piovosità",
+      "Illite e montmorillonite, poi caolinite, infine ossidi e idrossidi di Fe e Al"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aumentando piovosità e temperatura si passa da illite e montmorillonite (argille a reticolo espandibile), a caolinite (climi caldi umidi), fino a ossidi e idrossidi di Fe e Al nelle condizioni estreme delle foreste pluviali tropicali (laterizzazione o ferralitizzazione).",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.102-103"
+  },
+  {
+    "id": "suoli-colloidi-effetto-tyndall-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa dimostra l'effetto Tyndall quando un fascio di luce attraversa una sospensione di suolo in acqua distillata?",
+    "suggestion": "Il fenomeno riguarda l'interazione tra luce visibile e particelle troppo piccole per essere viste ma abbastanza grandi da diffondere la luce.",
+    "options": [
+      "La natura colloidale della frazione fine del suolo, le cui particelle diffondono la luce",
+      "L'assenza pressoché totale di argilla e sostanza organica colloidale nel campione",
+      "La completa dissoluzione delle particelle di suolo in una vera e propria soluzione molecolare"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'effetto Tyndall è la diffusione della luce da parte delle particelle colloidali in sospensione: la torbidità e la visibilità del raggio luminoso in una sospensione di suolo confermano la natura colloidale di argille e sostanza organica, assente nelle soluzioni vere.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.104"
+  },
+  {
+    "id": "suoli-colloidi-modello-stern-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Che cosa distingue il modello di Stern del doppio strato diffuso dai modelli di Helmholtz e Gouy-Chapman?",
+    "suggestion": "Il modello più completo combina gli aspetti dei due modelli precedenti.",
+    "options": [
+      "Ignora completamente l'esistenza di ioni adsorbiti sulla superficie colloidale del suolo",
+      "Combina uno strato rigido di ioni adsorbiti con uno strato diffuso a distribuzione variabile",
+      "Prevede che tutti i contro-ioni restino sempre a distanza fissa, come nel modello di Helmholtz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il modello di Stern combina lo strato di Stern (ioni adsorbiti a distanza fissa, come in Helmholtz) con lo strato diffuso di Gouy-Chapman (distribuzione variabile secondo Boltzmann), risultando il più completo per descrivere il doppio strato diffuso reale.",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.105"
+  },
+  {
+    "id": "suoli-colloidi-potere-flocculante-valenza-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Perché gli ioni trivalenti come Al3+ inducono la flocculazione dei colloidi del suolo a concentrazioni molto più basse degli ioni monovalenti?",
+    "suggestion": "Confronta l'effetto della valenza sullo spessore del doppio strato diffuso.",
+    "options": [
+      "Perché gli ioni trivalenti possiedono sempre e comunque una sfera di idratazione più grande di quelli monovalenti",
+      "Perché gli ioni monovalenti si legano covalentemente alle superfici, impedendo così la flocculazione",
+      "Perché una valenza maggiore comprime meglio il doppio strato diffuso, riducendo la repulsione tra le particelle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Secondo la teoria DLVO, all'aumentare della valenza del contro-ione lo spessore del doppio strato diffuso diminuisce: gli ioni trivalenti comprimono il doppio strato molto più efficacemente, favorendo la flocculazione a concentrazioni nettamente inferiori (0,01-0,1 mmol/L contro 25-150 mmol/L dei monovalenti).",
+    "difficulty": "hard",
+    "source": "Funzionalità ambientale dei suoli.pdf p.106"
+  },
+  {
+    "id": "suoli-processi-lisciviazione-fasi-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quali sono le tre fasi microscopiche successive del processo di lisciviazione?",
+    "suggestion": "Le particelle colloidali devono prima separarsi dagli aggregati, poi muoversi, poi fermarsi.",
+    "options": [
+      "Dispersione, traslocazione e infine deposizione in un orizzonte di accumulo profondo",
+      "Ossidazione, riduzione e infine volatilizzazione delle particelle colloidali disperse",
+      "Umificazione, mineralizzazione e infine carbonatazione della sostanza organica presente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lisciviazione si articola in dispersione (separazione delle particelle colloidali dagli aggregati), traslocazione (spostamento lungo il profilo con il flusso d'acqua) e infine deposizione in un orizzonte di accumulo come il Bt.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.112"
+  },
+  {
+    "id": "suoli-processi-carbonatazione-bk-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale orizzonte diagnostico risulta dall'accumulo secondario di carbonati di calcio e magnesio per carbonatazione?",
+    "suggestion": "È indicato con un suffisso minore che richiama il termine tedesco per 'calcare'.",
+    "options": [
+      "L'orizzonte natrico, indicato con la sigla Bn",
+      "L'orizzonte calcico, indicato con la sigla Bk",
+      "L'orizzonte spodico, indicato con la sigla Bs"
+    ],
+    "correctIndex": 1,
+    "explanation": "La carbonatazione, un ciclo di decarbonatazione e successiva riprecipitazione, produce un accumulo di carbonati secondari nell'orizzonte calcico (Bk); se la cementazione è molto intensa si forma un orizzonte petrocalcico (Bkm).",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.115"
+  },
+  {
+    "id": "suoli-processi-gleizzazione-screziature-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "A che cosa sono dovute le screziature rossastre (red mottles) tipiche di un orizzonte soggetto a gleizzazione?",
+    "suggestion": "Il colore segue lo stato di ossidazione del ferro localmente mobilizzato.",
+    "options": [
+      "Alla forma ridotta del ferro (Fe2+), che colora sempre di un rosso intenso l'intera matrice del suolo",
+      "Alla presenza costante di ossidi di manganese, indipendente dallo stato redox del ferro",
+      "Alla forma ossidata del ferro (Fe3+), che compare dove l'ossigeno è temporaneamente disponibile"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella gleizzazione l'alternanza tra ossidazione e riduzione del ferro produce screziature: il colore rosso (red mottles) è associato alla forma ossidata Fe3+, mentre il grigio della matrice (gley) è associato alla forma ridotta Fe2+.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.116"
+  },
+  {
+    "id": "suoli-classificazione-suffisso-o-ossico-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale caratteristica identifica un orizzonte ossico, indicato con il suffisso 'o'?",
+    "suggestion": "È l'esito di un'alterazione così intensa da impoverire fortemente il silicio.",
+    "options": [
+      "Forte alterazione, povertà di sostanza organica e argille 1:1 con accumulo di ossidi di Fe e Al",
+      "Alterazione minima, notevole ricchezza di sostanza organica e prevalenza di argille 2:1 espandibili",
+      "Saturazione idrica permanente, con formazione di uno spesso strato torboso superficiale"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'orizzonte ossico è caratterizzato da un forte grado di alterazione, povertà di sostanza organica, prevalenza di argille 1:1 e marcato accumulo di ossidi di Fe e Al, tipico dei suoli tropicali fortemente evoluti.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.118"
+  },
+  {
+    "id": "suoli-taxonomy-pedon-polypedon-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Qual è la relazione tra pedon e polypedon nella Soil Taxonomy?",
+    "suggestion": "Uno è l'unità minima di osservazione, l'altro un insieme di unità simili e contigue.",
+    "options": [
+      "Il pedon è l'insieme di più polypedon contigui, corrispondente a un'intera regione pedologica",
+      "Il polypedon è l'insieme di più pedon contigui e simili, un individuo di suolo riconoscibile",
+      "Pedon e polypedon sono sinonimi che indicano entrambi l'intero profilo epipedon-endopedon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il pedon è l'unità tridimensionale minima di suolo osservabile; il polypedon è l'insieme di più pedon contigui e simili tra loro, corrispondente a un individuo di suolo riconoscibile sul paesaggio.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf pp.122-123"
+  },
+  {
+    "id": "suoli-taxonomy-regimi-umidita-001",
+    "topic": "funzionalita-ambientale-suoli",
+    "question": "Quale regime di umidità del suolo è tipico dei climi mediterranei, con secchezza totale per almeno 45 giorni consecutivi in estate?",
+    "suggestion": "Il nome del regime richiama la stagione secca ed è diverso da quello dei climi aridi o umidi tutto l'anno.",
+    "options": [
+      "Il regime udico, tipico dei climi umidi con piogge distribuite tutto l'anno",
+      "Il regime aquico, tipico di ambienti saturi d'acqua e privi di ossigeno",
+      "Il regime xerico, tipico dei climi mediterranei con estati calde e secche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il regime xerico è tipico dei climi mediterranei, con inverni freddo-umidi ed estati calde e secche: il suolo è completamente secco per almeno 45 giorni consecutivi in estate, in almeno sei anni su dieci. Il regime udico è tipico di climi umidi tutto l'anno, l'aquico di condizioni sature.",
+    "difficulty": "medium",
+    "source": "Funzionalità ambientale dei suoli.pdf p.126"
+  }
+]

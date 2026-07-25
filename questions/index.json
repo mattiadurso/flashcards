@@ -353,6 +353,18 @@
           "count": 74
         }
       ]
+    },
+    {
+      "topic": "funzionalita-ambientale-suoli",
+      "label": "Funzionalità ambientale dei suoli",
+      "files": [
+        {
+          "species": "Funzionalità ambientale dei suoli",
+          "file": "Funzionalita_ambientale_dei_suoli/funzionalita-ambientale-suoli.json",
+          "source": "docs/Funzionalita_ambientale_dei_suoli/Funzionalità ambientale dei suoli.pdf",
+          "count": 150
+        }
+      ]
     }
   ]
 }

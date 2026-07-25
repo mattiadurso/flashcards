@@ -111,10 +111,14 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
   docs/                          ← source material, organised by macro-subject (one folder per subject)
     Anatomia_e_Biologia/         ← course 1: each lecture is a "NN name.pdf" plus an extracted "NN name.txt"
     Bio-Chimica/                 ← course 2: PDFs and .pptx source decks
+    Funzionalita_ambientale_dei_suoli/
+                                  ← course 3: environmental functions of soils source material
   questions/                     ← the question banks the website actually loads
     index.json                   ← MANIFEST. Lists every bank file; a file not listed here is invisible to the site
     Anatomia_e_Biologia/         ← one JSON bank per species/lecture (cervo.json, capriolo.json, …)
     Bio-Chimica/                 ← one JSON bank per topic (mercurio.json, ddt.json, …)
+    Funzionalita_ambientale_dei_suoli/
+                                  ← bank for the environmental functions of soils course
     easter-eggs.json             ← hidden "bonus" questions; deliberately NOT in index.json; spliced in at random
   tests/
     test_question_banks.py       ← validates every bank + index.json against QUESTION_FORMAT.md (plain python3)
