@@ -1,0 +1,245 @@
+[
+  {
+    "id": "bio-par-fibrille-forma-001",
+    "topic": "biologia",
+    "question": "Perché una cellula giovane con parete primaria tende ad assumere una forma sferica?",
+    "suggestion": "Pensa alla disposizione casuale delle fibrille di cellulosa nella parete primaria.",
+    "options": [
+      "Perché le fibrille di cellulosa sono disposte casualmente, permettendo uniforme cedimento della parete durante la crescita",
+      "Perché il vacuolo esercita pressione soltanto lungo un unico asse preferenziale della cellula, generando un allungamento asimmetrico della parete",
+      "Perché la parete primaria, in questa fase iniziale, è completamente priva di qualunque fibrilla di cellulosa ed è costituita da pectine amorfe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella parete primaria le fibrille di cellulosa sono disposte casualmente in ogni direzione, per cui la spinta del protoplasma o del vacuolo genera una forma tendenzialmente sferica.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 19"
+  },
+  {
+    "id": "bio-par-fibrille-orizzontali-002",
+    "topic": "biologia",
+    "question": "Perché una disposizione prevalentemente orizzontale delle fibrille di cellulosa favorisce una crescita cellulare cilindrica, come nei vasi conduttori?",
+    "suggestion": "Pensa a quale direzione di espansione viene bloccata da fibrille orizzontali.",
+    "options": [
+      "Perché le fibrille orizzontali si dissolvono chimicamente e vengono riassorbite non appena la parete secondaria comincia a formarsi durante la lignificazione",
+      "Perché le fibrille orizzontali impediscono in modo assoluto e permanente ogni ulteriore forma di crescita cellulare in tutte le direzioni",
+      "Perché le fibrille orizzontali oppongono resistenza all'espansione laterale, favorendo la crescita preferenziale in lunghezza della cellula"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una disposizione orizzontale delle fibrille resiste all'espansione laterale, favorendo la crescita lungo l'asse verticale e generando forme cilindriche o parallelepipede tipiche dei vasi.",
+    "difficulty": "hard",
+    "source": "Bio_1.pdf — Lezione 19"
+  },
+  {
+    "id": "bio-par-lignificazione-003",
+    "topic": "biologia",
+    "question": "Perché il legno è considerato un materiale da costruzione così duraturo dal punto di vista biologico?",
+    "suggestion": "Pensa a quanto sia difficile per gli organismi decompositori degradare la lignina.",
+    "options": [
+      "Perché la lignina è una delle sostanze organiche più difficili da degradare per i decompositori",
+      "Perché il legno è composto esclusivamente da cellulosa pura, priva di qualunque tipo di incrostazione polifenolica e minerale",
+      "Perché la lignina depositata nella parete viene continuamente rimossa, riciclata e rigenerata a ogni nuova stagione di crescita"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lignina, una rete complessa di composti polifenolici, è una delle sostanze organiche più difficili da degradare, il che rende il legno un materiale da costruzione eccellente.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 19"
+  },
+  {
+    "id": "bio-par-mineralizzazione-004",
+    "topic": "biologia",
+    "question": "In che modo la mineralizzazione della parete cellulare protegge l'ortica dai predatori?",
+    "suggestion": "Pensa a cosa inserisce l'ortica nei suoi peli per renderli simili ad aghi.",
+    "options": [
+      "I peli mineralizzati con ossidi di silicio agiscono come aghi ipodermici per iniettare sostanze urticanti",
+      "La mineralizzazione rende la pianta otticamente e chimicamente invisibile agli occhi degli erbivori",
+      "La mineralizzazione trasforma progressivamente i peli dell'ortica in strutture fotosintetiche specializzate"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mineralizzazione con ossidi di silicio rende i peli dell'ortica rigidi e cristallini, capaci di agire come aghi ipodermici per iniettare sostanze urticanti.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 19"
+  },
+  {
+    "id": "bio-par-punteggiature-005",
+    "topic": "biologia",
+    "question": "In che modo le cellule vegetali comunicano direttamente tra loro attraverso la parete cellulare, a differenza delle cellule animali?",
+    "suggestion": "Pensa a interruzioni della parete che permettono il collegamento dei citoplasmi.",
+    "options": [
+      "Tramite pori nucleari che si aprono direttamente e stabilmente tra i nuclei di due cellule adiacenti durante l'interfase",
+      "Tramite punteggiature che ospitano plasmodesmi collegando i citoplasmi",
+      "Tramite la completa e definitiva dissoluzione della parete cellulare che separa le cellule vicine, formando un sincizio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le punteggiature sono interruzioni della parete cellulare che permettono il collegamento tra citoplasmi adiacenti, spesso ospitando plasmodesmi che formano la rete simplastica.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 19"
+  },
+  {
+    "id": "bio-par-apoplasto-simplasto-006",
+    "topic": "biologia",
+    "question": "Qual è la differenza tra il trasporto apoplastico e quello simplastico in termini di dispendio energetico?",
+    "suggestion": "Pensa a quale dei due percorsi richiede l'attraversamento di una membrana plasmatica, con conseguente spesa energetica.",
+    "options": [
+      "Il trasporto apoplastico è energeticamente economico e lento, quello simplastico richiede energia per attraversare la membrana plasmatica",
+      "Apoplasto e simplasto indicano in realtà lo stesso identico percorso di trasporto nei tessuti vegetali, osservato semplicemente a scale differenti",
+      "Il trasporto apoplastico richiede sempre un dispendio costante di ATP, mentre quello simplastico è completamente gratuito e spontaneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il trasporto apoplastico avviene fuori dalla cellula per diffusione, a basso costo energetico ma lento; quello simplastico richiede l'attraversamento della membrana plasmatica, con un dispendio energetico per il caricamento dei soluti.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-totipotenza-007",
+    "topic": "biologia",
+    "question": "Perché nelle piante la capacità staminale (totipotenza) si mantiene più a lungo che negli animali?",
+    "suggestion": "Pensa a dove risiedono le cellule totipotenti nel regno vegetale e per quanto tempo restano attive.",
+    "options": [
+      "Perché in realtà le piante non possiedono mai cellule totipotenti, a differenza degli organismi animali",
+      "Perché la totipotenza vegetale si esaurisce sempre e comunque entro la prima settimana di vita della pianta",
+      "Perché nelle piante la totipotenza viene mantenuta a lungo in specifiche zone meristematiche dell'organismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mentre negli animali la capacità staminale si riduce drasticamente con l'età, nelle piante la totipotenza si mantiene a lungo nelle zone meristematiche, permettendo la rigenerazione anche in esemplari maturi.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-fusto-vs-radice-gemme-008",
+    "topic": "biologia",
+    "question": "Come si distingue morfologicamente un tubero come quello della patata da una radice, osservando le sue gemme?",
+    "suggestion": "Pensa alla posizione dei meristemi: periferica nel fusto, più interna nella radice.",
+    "options": [
+      "Il tubero presenta gemme in posizione periferica (gli 'occhi'), tipiche del fusto e non della radice",
+      "Le gemme del tubero si trovano invariabilmente in posizione centrale, esattamente come accade nella radice",
+      "Il tubero, a differenza sia del fusto sia della radice, non presenta mai alcuna gemma visibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Poiché nel fusto i meristemi sono periferici, la presenza di gemme periferiche (gli 'occhi' della patata) identifica il tubero come organo di natura fustale, non radicale.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-statoliti-009",
+    "topic": "biologia",
+    "question": "In che modo la pianta percepisce la forza di gravità a livello dell'apice radicale?",
+    "suggestion": "Pensa a un analogo vegetale degli otoliti dell'orecchio umano.",
+    "options": [
+      "Tramite granuli di amido detti statoliti, che permettono di orientare la radice verso il basso",
+      "Tramite la sola pressione osmotica del vacuolo, indipendentemente da qualunque struttura cellulare specifica o meccanosensore",
+      "Tramite recettori proteici di membrana sensibili unicamente alla direzione della luce solare diretta e ai fotoni blu dello spettro visibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli statoliti, granuli di amido nell'apice radicale, permettono alla pianta di percepire la gravità e orientare la crescita della radice verso il basso, analogamente agli otoliti dell'orecchio umano.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-tre-foglietti-010",
+    "topic": "biologia",
+    "question": "Quali tre tessuti embrionali derivano dall'attività meristematica apicale nelle piante superiori?",
+    "suggestion": "Pensa ai tre destini: tegumento esterno, tessuti interni, e tessuti di conduzione.",
+    "options": [
+      "Protoderma, meristema fondamentale e procambio",
+      "Sughero, felloderma e cambio cribro-vascolare, derivati esclusivamente dalla crescita secondaria",
+      "Soltanto epidermide, xilema e floema, senza alcun tessuto parenchimatico intermedio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il protoderma origina il tessuto tegumentale, il meristema fondamentale i tessuti parenchimatici interni, e il procambio i tessuti di conduzione (xilema e floema).",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-parenchima-acquifero-011",
+    "topic": "biologia",
+    "question": "Che funzione svolgono i parenchimi acquiferi e aeriferi come adattamento ad ambienti estremi?",
+    "suggestion": "Pensa a due esigenze opposte: trattenere acqua in un caso, favorire la diffusione dei gas nell'altro.",
+    "options": [
+      "Entrambi svolgono esclusivamente una funzione fotosintetica primaria, senza alcun ruolo nella gestione di acqua o gas e senza differenziamenti strutturali",
+      "I parenchimi acquiferi accumulano riserve idriche importanti, quelli aeriferi facilitano la diffusione dei gas in tessuti poco ossigenati",
+      "I parenchimi acquiferi servono solo alla sintesi proteica e al metabolismo glucidico, quelli aeriferi solo a quella dei lipidi di riserva"
+    ],
+    "correctIndex": 1,
+    "explanation": "I parenchimi acquiferi accumulano acqua in ambienti aridi (come nelle succulente), mentre i parenchimi aeriferi, con ampi spazi intercellulari, facilitano la diffusione dei gas in ambienti sommersi o poco ossigenati.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 22"
+  },
+  {
+    "id": "bio-par-meristemi-intercalari-012",
+    "topic": "biologia",
+    "question": "A cosa servono i meristemi intercalari tipici delle graminacee (Poaceae)?",
+    "suggestion": "Pensa a una situazione in cui il fusto deve recuperare la posizione eretta dopo un evento meccanico.",
+    "options": [
+      "Permettono al fusto di allungarsi e di recuperare la posizione eretta dopo stress meccanici o ambientali importanti",
+      "Servono esclusivamente a produrre nuove radici avventizie direttamente dal fusto della pianta mediante rizomorfogenesi",
+      "Sostituiscono completamente e in permanenza la funzione fondamentale dei meristemi apicali primari nelle Poaceae graminacee"
+    ],
+    "correctIndex": 0,
+    "explanation": "I meristemi intercalari, situati tra gli internodi nelle Poaceae, permettono al fusto di allungarsi e di recuperare la posizione eretta dopo stress meccanici, come il calpestio.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-lamella-mediana-013",
+    "topic": "biologia",
+    "question": "Perché la degradazione della lamella mediana da parte di funghi e batteri causa il rammollimento dei frutti maturi?",
+    "suggestion": "Pensa alla funzione cementante della lamella mediana tra le cellule adiacenti.",
+    "options": [
+      "Perché la lamella mediana svolge funzione cementante tra cellule, e la sua degradazione compromette la coesione del tessuto",
+      "Perché la lamella mediana rappresenta l'unica fonte di zuccheri e di energia disponibili per la maturazione e la colorazione del frutto",
+      "Perché la sua degradazione blocca in modo definitivo la sintesi di nuova cellulosa nel frutto maturo, arrestando ogni sviluppo ulteriore"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lamella mediana, costituita da acido pectico, svolge una funzione cementante tra cellule adiacenti; la sua degradazione da parte di funghi e batteri porta al rammollimento e alla disintegrazione dei frutti.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-par-fill-001",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il tessuto composto da cellule non differenziate responsabili della crescita della pianta, localizzato negli apici del fusto e delle radici, si chiama tessuto ___.",
+    "answers": [
+      [
+        "meristematico",
+        "meristema"
+      ]
+    ],
+    "suggestion": "Le sue cellule sono totipotenti e si dividono attivamente.",
+    "explanation": "I tessuti meristematici sono composti da cellule non differenziate e totipotenti, responsabili della crescita della pianta.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 20"
+  },
+  {
+    "id": "bio-par-fill-002",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il meristema che, derivando dal procambio, dà origine ai tessuti di conduzione xilema e floema secondari, è il cambio ___.",
+    "answers": [
+      [
+        "cribro-vascolare",
+        "cribrovascolare"
+      ]
+    ],
+    "suggestion": "Il nome richiama sia i tubi cribrosi del floema sia i vasi xilematici.",
+    "explanation": "Il cambio cribro-vascolare, derivante dal procambio, produce xilema e floema secondari durante l'accrescimento secondario.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 21"
+  },
+  {
+    "id": "bio-par-fill-003",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "La modificazione della parete che consiste nella deposizione di sostanze come pectine o mucillagini, tipica degli ambienti acquatici, è detta ___.",
+    "answers": [
+      [
+        "estrusione",
+        "estrusioni"
+      ]
+    ],
+    "suggestion": "È una delle tre modalità di modificazione della parete, insieme a incrostazioni e apposizioni.",
+    "explanation": "Le estrusioni consistono nell'emissione di sostanze come pectine o mucillagini, tipiche di alghe e ambienti acquatici.",
+    "difficulty": "hard",
+    "source": "Bio_1.pdf — Lezione 19"
+  }
+]

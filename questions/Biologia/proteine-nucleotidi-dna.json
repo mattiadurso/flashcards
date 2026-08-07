@@ -1,0 +1,272 @@
+[
+  {
+    "id": "bio-prot-carotenoidi-doppia-funzione-001",
+    "topic": "biologia",
+    "question": "Quale doppia funzione svolgono i carotenoidi come il beta-carotene nel cloroplasto?",
+    "suggestion": "Pensa a due ruoli opposti: catturare energia e allo stesso tempo proteggere da un eccesso di energia.",
+    "options": [
+      "Agiscono soltanto come pigmenti passivi, privi di qualunque funzione fotosintetica o protettiva reale",
+      "Agiscono esclusivamente come riserva energetica di lungo termine accumulata nei semi oleaginosi",
+      "Agiscono sia come antenne per la cattura della luce sia come scudi protettivi antiossidanti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Grazie ai doppi legami coniugati, i carotenoidi possono sia catturare la luce come pigmenti accessori, sia agire da antiossidanti proteggendo dai danni delle specie reattive dell'ossigeno.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-aleuronico-002",
+    "topic": "biologia",
+    "question": "Perché nelle cariossidi delle graminacee le proteine si accumulano nello strato aleuronico?",
+    "suggestion": "Pensa a quale elemento chimico limitante le proteine forniscono per lo sviluppo dell'embrione.",
+    "options": [
+      "Perché lo strato aleuronico è l'unico tessuto della cariosside capace di svolgere fotosintesi attiva",
+      "Perché fungono da riserva di azoto per lo sviluppo embrionale, un elemento limitante assorbito dal suolo",
+      "Perché fungono da riserva di carbonio destinata a essere consumata esclusivamente durante la fotosintesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le proteine nello strato aleuronico costituiscono una riserva di azoto, elemento limitante che le piante assorbono dal suolo, essenziale per lo sviluppo dell'embrione.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-wild-type-003",
+    "topic": "biologia",
+    "question": "Perché le piante coltivate hanno spesso perso i tratti di resistenza tipici delle piante selvatiche (Wild Type)?",
+    "suggestion": "Pensa a cosa privilegia la selezione umana rispetto alla selezione naturale.",
+    "options": [
+      "Perché in realtà le piante selvatiche non hanno mai posseduto veri tratti di resistenza allo stress idrico",
+      "Perché le piante coltivate hanno perso ogni gene funzionale coinvolto nella sintesi proteica di base",
+      "Perché l'uomo ha privilegiato produttività e biomassa, e nell'agroecosistema la competizione è quasi nulla"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'ecosistema agrario la competizione è quasi nulla poiché l'uomo fornisce nutrienti e protezione; questo ha portato nel tempo a privilegiare produttività a scapito dei tratti di resistenza selvatici.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-amminoacidi-chiralita-004",
+    "topic": "biologia",
+    "question": "Quale forma chirale degli amminoacidi utilizza quasi esclusivamente la vita terrestre?",
+    "suggestion": "Pensa alla lettera usata per indicare la forma opposta a quella dominante sulla Terra.",
+    "options": [
+      "Entrambe le forme, D ed L, in eguale proporzione all'interno di ogni proteina cellulare",
+      "La forma D, largamente prevalente nella sintesi proteica di piante e animali terrestri",
+      "La forma L, quasi universalmente selezionata dalla biochimica degli organismi viventi"
+    ],
+    "correctIndex": 2,
+    "explanation": "A causa della chiralità del carbonio centrale, gli amminoacidi esistono in due configurazioni speculari (D ed L); la vita terrestre utilizza quasi esclusivamente la forma L.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-zwitterione-005",
+    "topic": "biologia",
+    "question": "Cosa caratterizza un amminoacido allo stato di zwitterione, a pH neutro?",
+    "suggestion": "Pensa a due gruppi funzionali dell'amminoacido che si ionizzano contemporaneamente in direzioni opposte.",
+    "options": [
+      "Acquisisce una carica netta positiva doppia rispetto al proprio normale stato non ionizzato in soluzione",
+      "Perde completamente ogni carica elettrica, diventando una molecola totalmente neutra e apolare",
+      "Possiede simultaneamente una carica netta positiva e una negativa, derivanti dai gruppi ionizzati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al punto isoelettrico, gli amminoacidi si presentano come zwitterioni, con una doppia carica netta positiva (gruppo amminico) e negativa (gruppo carbossilico) simultanee.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-pellagra-006",
+    "topic": "biologia",
+    "question": "Perché una dieta basata quasi esclusivamente sul mais può portare a carenze nutrizionali come la pellagra?",
+    "suggestion": "Pensa alla qualità nutrizionale in termini di amminoacidi essenziali di un'alimentazione troppo sbilanciata.",
+    "options": [
+      "Perché il mais, a differenza di altri cereali, è del tutto privo di carboidrati assimilabili dall'organismo umano",
+      "Perché diete eccessivamente sbilanciate su un'unica fonte proteica portano a carenze di amminoacidi essenziali",
+      "Perché il mais contiene composti tossici che degradano in modo progressivo tutti gli amminoacidi assunti con altri alimenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La qualità nutrizionale dipende dal contenuto di amminoacidi essenziali; diete sbilanciate come quelle basate quasi esclusivamente sul mais possono portare a carenze gravi come la pellagra.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-simbiosi-azotofissatrice-007",
+    "topic": "biologia",
+    "question": "Perché la simbiosi tra leguminose e batteri azotofissatori come Bradyrhizobium viene inibita in terreni eccessivamente fertilizzati?",
+    "suggestion": "Pensa al costo energetico della simbiosi rispetto alla disponibilità di azoto già presente nel suolo.",
+    "options": [
+      "Perché i fertilizzanti chimici uccidono direttamente i batteri azotofissatori mediante tossicità diretta dei composti azotati sintetici",
+      "Perché la pianta non ha più convenienza energetica a mantenere una simbiosi costosa quando l'azoto è già disponibile",
+      "Perché l'eccesso di fertilizzanti impedisce fisicamente e in modo irreversibile la formazione dei noduli radicali durante la crescita"
+    ],
+    "correctIndex": 1,
+    "explanation": "La simbiosi ha un costo energetico per la pianta; quando l'azoto è già abbondante nel terreno per la fertilizzazione, non c'è più convenienza a mantenere il batterio simbionte.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-struttura-secondaria-008",
+    "topic": "biologia",
+    "question": "Da cosa è stabilizzata la struttura secondaria delle proteine, come l'alfa-elica o il foglietto ripiegato?",
+    "suggestion": "Pensa al tipo di legame debole che si forma tra gruppi carbonilico e amminico del legame peptidico.",
+    "options": [
+      "Da interazioni elettrostatiche tra ioni metallici estranei incorporati nella catena proteica principale",
+      "Da legami covalenti forti stabiliti tra atomi di carbonio adiacenti nella catena laterale",
+      "Da legami a idrogeno tra il gruppo carbonilico e il gruppo amminico del legame peptidico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La struttura secondaria è un primo livello di ripiegamento spaziale, stabilizzato da legami a idrogeno tra l'ossigeno elettronegativo del gruppo carbonilico e l'idrogeno del gruppo amminico.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-quaternaria-rubisco-009",
+    "topic": "biologia",
+    "question": "Cosa hanno in comune Rubisco e ATP sintetasi dal punto di vista della loro organizzazione strutturale?",
+    "suggestion": "Pensa al livello più alto della gerarchia delle strutture proteiche, quello che deriva dall'unione di più subunità.",
+    "options": [
+      "Entrambe sono proteine con struttura quaternaria, derivate dall'associazione di più subunità in complessi multimerici",
+      "Entrambe sono enzimi privi di qualunque struttura tridimensionale stabile o definita durante il corso della loro azione catalitica",
+      "Entrambe sono proteine presenti esclusivamente negli organismi animali, mai in quelli vegetali e nei microrganismi prokarioti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rubisco (8 subunità grandi e 6 piccole) e ATP sintetasi sono esempi di proteine con struttura quaternaria, derivante dall'associazione di più subunità in un complesso multimerico.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-chaperonine-010",
+    "topic": "biologia",
+    "question": "A cosa servono le chaperonine dopo che una proteina ha subito denaturazione da stress termico?",
+    "suggestion": "Pensa a un ambiente protetto in cui la proteina può ripiegarsi correttamente lontano da interferenze.",
+    "options": [
+      "Degradano immediatamente e in modo irreversibile ogni proteina che abbia perso la propria conformazione nativa",
+      "Isolano la proteina denaturata in un ambiente idrofobico protetto, facilitandone il corretto ripiegamento",
+      "Trasformano chimicamente la proteina denaturata in una nuova molecola di acido nucleico funzionale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le chaperonine agiscono come cilindri cavi che isolano la proteina denaturata in un ambiente idrofobico protetto, facilitandone la rinaturazione lontano da interferenze acquose o ioniche.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-nucleotidi-energia-011",
+    "topic": "biologia",
+    "question": "Oltre alla conservazione dell'informazione genetica, quale altro ruolo metabolico fondamentale svolgono i nucleotidi?",
+    "suggestion": "Pensa all'ATP: a quale altra classe di molecole appartiene chimicamente?",
+    "options": [
+      "Fungono da pigmenti fotosintetici accessori, integrando la cattura della luce nei cloroplasti maturi",
+      "Fungono esclusivamente da componenti strutturali rigidi della parete cellulare vegetale",
+      "Fungono da vettori di energia chimica e da messaggeri secondari nella segnalazione cellulare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oltre a costituire DNA e RNA, i nucleotidi come ATP, NADH e NADPH sono indispensabili vettori di energia chimica, e molecole come l'AMP ciclico fungono da messaggeri secondari.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-basi-azotate-012",
+    "topic": "biologia",
+    "question": "Come si distinguono le pirimidine dalle purine tra le basi azotate dei nucleotidi?",
+    "suggestion": "Pensa al numero di anelli che caratterizzano ciascuna categoria.",
+    "options": [
+      "Le pirimidine hanno sempre un doppio anello aromatico, mentre le purine ne possiedono soltanto uno di minori dimensioni",
+      "Le pirimidine (citosina, uracile, timina) hanno un singolo anello, le purine (adenina, guanina) un doppio anello",
+      "Pirimidine e purine differiscono unicamente per il tipo di zucchero pentoso a cui risultano legate nella struttura del nucleotide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le pirimidine (citosina, uracile, timina) sono caratterizzate da un singolo anello, mentre le purine (adenina, guanina) presentano un doppio anello.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-dna-legami-deboli-013",
+    "topic": "biologia",
+    "question": "Perché è funzionalmente vantaggioso che i legami idrogeno tra le basi complementari del DNA siano deboli?",
+    "suggestion": "Pensa a cosa deve poter fare la doppia elica durante la duplicazione o la trascrizione.",
+    "options": [
+      "Perché permettono alla molecola di aprirsi facilmente durante la duplicazione o la trascrizione",
+      "Perché rendono il DNA completamente insensibile a qualunque forma di danno da radiazioni ionizzanti",
+      "Perché impediscono in modo permanente e irreversibile la separazione dei due filamenti della doppia elica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La debolezza dei legami a idrogeno tra le basi, i 'pioli' della scala del DNA, è funzionale perché permette alla molecola di aprirsi facilmente durante duplicazione e trascrizione.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-eucromatina-014",
+    "topic": "biologia",
+    "question": "Che differenza c'è tra eucromatina ed eterocromatina in termini di attività genica?",
+    "suggestion": "Pensa a quale delle due forme è più densa e meno accessibile alla trascrizione.",
+    "options": [
+      "Eucromatina ed eterocromatina indicano in realtà lo stesso stato di condensazione, osservato in momenti diversi del giorno",
+      "L'eucromatina è meno densa e ricca di geni attivamente trascritti, l'eterocromatina è compattata e meno accessibile",
+      "L'eucromatina è presente solo negli organismi procarioti, mentre l'eterocromatina è tipica solo degli eucarioti"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'eucromatina, meno densa, contiene geni attivamente trascritti, mentre l'eterocromatina, altamente compattata, è meno accessibile alla macchina trascrizionale.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-epigenetica-015",
+    "topic": "biologia",
+    "question": "Cosa distingue una modificazione epigenetica, come la metilazione degli istoni, da una mutazione genetica?",
+    "suggestion": "Pensa a cosa viene alterato: la sequenza del DNA oppure la sua espressione.",
+    "options": [
+      "L'epigenetica altera l'espressione dei geni senza modificarne la sequenza, ed è indotta da stress ambientali o alimentari",
+      "L'epigenetica riguarda esclusivamente cambiamenti diretti nella struttura primaria e nella composizione amminoacidica delle proteine cellulari",
+      "L'epigenetica modifica sempre in modo permanente e irreversibile la sequenza nucleotidica del DNA stesso, esattamente come avviene per le mutazioni"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fenomeni epigenetici, come la metilazione degli istoni indotta da stress ambientali, alterano l'espressione dei geni senza mutarne la sequenza, e possono essere trasmessi per alcune generazioni.",
+    "difficulty": "hard",
+    "source": "Bio_1.pdf — Lezione 10"
+  },
+  {
+    "id": "bio-prot-fill-001",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il legame covalente che unisce due amminoacidi, formatosi per disidratazione tra i gruppi acido e basico, si chiama legame ___.",
+    "answers": [
+      [
+        "peptidico"
+      ]
+    ],
+    "suggestion": "È lo stesso legame che dà il nome alle catene di amminoacidi (polipeptidi).",
+    "explanation": "Il legame peptidico è un legame covalente robusto che si forma per disidratazione tra il gruppo carbossilico e il gruppo amminico di due amminoacidi.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-fill-002",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il batterio azotofissatore che stabilisce simbiosi mutualistiche con le leguminose, ricevendo zuccheri in cambio di composti azotati, si chiama ___.",
+    "answers": [
+      [
+        "bradyrhizobium"
+      ]
+    ],
+    "suggestion": "Il nome inizia con 'Brady-'.",
+    "explanation": "Bradyrhizobium è il batterio azotofissatore che stabilisce simbiosi mutualistiche con le leguminose, formando i noduli radicali.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-prot-fill-003",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il dogma che descrive il flusso dell'informazione genetica dal DNA all'RNA e infine alle proteine è detto ___ della genomica.",
+    "answers": [
+      [
+        "dogma"
+      ]
+    ],
+    "suggestion": "È un termine spesso associato a un principio fondamentale e non discutibile in un campo scientifico.",
+    "explanation": "Il dogma centrale della genomica descrive il flusso dell'informazione genetica dal DNA (conservazione) all'RNA (trascrizione) alle proteine (espressione funzionale).",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 10"
+  }
+]

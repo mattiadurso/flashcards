@@ -1,0 +1,183 @@
+[
+  {
+    "id": "bio-lip-pectine-chelazione-001",
+    "topic": "biologia",
+    "question": "In che modo l'acido pectico riesce a stabilizzare gli ioni calcio nella lamella mediana?",
+    "suggestion": "Pensa al tipo di carica presente sui gruppi carbossilici delle catene pectiche.",
+    "options": [
+      "L'acido pectico respinge sistematicamente gli ioni calcio, impedendo qualunque forma di interazione elettrostatica",
+      "L'acido pectico converte chimicamente il calcio in un composto gassoso che poi evapora dalla parete",
+      "I gruppi carbossilici carichi negativamente intrappolano lo ione calcio tramite un legame chelante"
+    ],
+    "correctIndex": 2,
+    "explanation": "I gruppi carbossilici (-COO-) delle catene di acido pectico, carichi negativamente, intrappolano il calcio (Ca2+) tramite un legame chelante, stabilizzando la struttura della lamella mediana.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-succulente-mucillagini-002",
+    "topic": "biologia",
+    "question": "Perché le piante succulente come l'aloe accumulano grandi quantità di mucillagini pectiche nei loro tessuti?",
+    "suggestion": "Pensa alla natura idrofila delle pectine e a cosa serve trattenere in un ambiente desertico.",
+    "options": [
+      "Perché la natura idrofila e igroscopica delle pectine crea riserve idriche che garantiscono la sopravvivenza in ambienti desertici",
+      "Perché le pectine accumulate trasformano gradualmente l'acqua in granuli di amido da consumare durante la stagione secca invernale",
+      "Perché le mucillagini pectiche bloccano completamente la fotosintesi nei tessuti succulenti, riducendo significativamente i consumi energetici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le mucillagini pectiche, grazie alla loro natura idrofila e igroscopica, possono costituire fino al 90-95% del peso del tessuto, garantendo riserve idriche in ambienti desertici.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-dissipatrici-conservatrici-003",
+    "topic": "biologia",
+    "question": "Che differenza c'è tra una strategia ecologica 'dissipatrice' e una 'conservatrice' nella gestione dell'acqua?",
+    "suggestion": "Pensa a due specie citate come esempi opposti: la betulla e le piante dei ghiaioni montani.",
+    "options": [
+      "Le dissipatrici massimizzano traspirazione e assorbimento idrico profondo, le conservatrici trattengono l'acqua con tessuti specializzati",
+      "Le dissipatrici immagazzinano tutta l'acqua assorbita in grandi vacuoli, mentre le conservatrici espongono ampie superfici fogliari",
+      "Le conservatrici assorbono acqua solo dagli strati profondi del suolo, mentre le dissipatrici utilizzano esclusivamente radici aeree esposte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Piante come la betulla o l'eucalipto sono 'dissipatrici' e massimizzano traspirazione e assorbimento idrico, mentre le piante dei ghiaioni montani sono 'conservatrici', con tessuti specializzati nel trattenimento idrico.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-acidi-grassi-stagione-004",
+    "topic": "biologia",
+    "question": "Perché le piante aumentano la proporzione di acidi grassi insaturi nelle membrane durante l'inverno?",
+    "suggestion": "Pensa a come i doppi legami influenzano la forma della catena e quindi la fluidità della membrana.",
+    "options": [
+      "Perché le curvature indotte dai doppi legami degli insaturi preservano la fluidità della membrana a basse temperature",
+      "Perché gli acidi grassi saturi diventano chimicamente tossici per la cellula non appena la temperatura scende sotto zero",
+      "Perché gli acidi grassi insaturi rendono la membrana completamente impermeabile all'acqua durante i mesi freddi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli acidi grassi insaturi, con i loro doppi legami che inducono curvature nella catena, mantengono la membrana fluida anche a basse temperature, evitando che diventi eccessivamente rigida.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-fosfolipidi-anfipatici-005",
+    "topic": "biologia",
+    "question": "Perché i fosfolipidi si organizzano spontaneamente in un doppio strato quando immersi in ambiente acquoso?",
+    "suggestion": "Pensa alla loro natura anfipatica: una parte della molecola ama l'acqua, l'altra la rifugge.",
+    "options": [
+      "Perché i fosfolipidi sono molecole interamente idrofobiche, prive di qualunque affinità chimica con l'acqua circostante",
+      "Perché il glicerolo presente nei fosfolipidi reagisce chimicamente con l'acqua formando una sostanza completamente nuova",
+      "Perché la loro natura anfipatica fa orientare le teste idrofile verso l'esterno e le code idrofobiche verso l'interno"
+    ],
+    "correctIndex": 2,
+    "explanation": "I fosfolipidi hanno una testa idrofila polare e code idrofobiche; in ambiente acquoso si dispongono spontaneamente in un bilayer con le code rivolte verso l'interno, creando una barriera impermeabile.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-acquaporine-006",
+    "topic": "biologia",
+    "question": "Perché il passaggio dell'acqua attraverso la porzione lipidica della membrana richiede proteine specifiche?",
+    "suggestion": "Pensa alla natura chimica della porzione centrale del doppio strato lipidico.",
+    "options": [
+      "Perché le acquaporine servono unicamente a bloccare fisicamente il passaggio dell'acqua, non a facilitarlo",
+      "Perché l'acqua non può attraversare liberamente la porzione lipidica idrofobica al centro della membrana",
+      "Perché l'acqua reagisce spontaneamente con i fosfolipidi formando composti chimici tossici per la cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "La porzione lipidica interna della membrana è idrofobica e impermeabile all'acqua; le acquaporine sono proteine canale specifiche che mediano il passaggio efficiente dell'acqua.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-oleosomi-007",
+    "topic": "biologia",
+    "question": "A cosa serve il guscio proteico che riveste gli oleosomi (sferosomi) nei semi?",
+    "suggestion": "Pensa a cosa succederebbe se le piccole goccioline lipidiche si fondessero tra loro.",
+    "options": [
+      "Impedisce la coalescenza delle goccioline lipidiche, facilitando l'azione delle lipasi durante la degradazione",
+      "Trasforma i lipidi in proteine di riserva utilizzabili durante la germinazione e la crescita della piantula",
+      "Impedisce completamente e in modo permanente l'accesso degli enzimi lipasici al contenuto oleoso del seme maturo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il guscio proteico degli oleosomi impedisce la coalescenza (fusione) delle goccioline lipidiche in masse più grandi, facilitando l'azione delle lipasi durante la degradazione metabolica.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-cuticola-008",
+    "topic": "biologia",
+    "question": "Quali due componenti lipidiche formano insieme la cuticola delle piante terrestri?",
+    "suggestion": "Pensa a due tipi di rivestimento idrofobico citati come componenti della porzione tegumentale esterna.",
+    "options": [
+      "Lignina, il polimero fenolico dello xilema, e suberina, tipica del sughero secondario",
+      "Amido di riserva e cellulosa strutturale della parete cellulare primaria",
+      "Cere epicuticolari e cutina impregnata nelle pareti dell'epidermide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le cere, spesso visibili come pruina sui frutti, e la cutina, che impregna le pareti epidermiche, formano insieme la cuticola, fondamentale per il controllo dell'omeostasi idrica.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-sughero-corteccia-009",
+    "topic": "biologia",
+    "question": "Perché è importante distinguere botanicamente il sughero dalla corteccia propriamente detta?",
+    "suggestion": "Pensa alle diverse funzioni: una è protezione esterna, l'altra è un tessuto interno di nutrimento.",
+    "options": [
+      "Sughero e corteccia sono in realtà termini equivalenti che indicano esattamente lo stesso tipo di tessuto",
+      "Il sughero ha funzione protettiva esterna.",
+      "Il sughero è sempre un tessuto vivo e metabolicamente attivo, mentre la corteccia è sempre un tessuto morto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il sughero, impregnato di suberina, ha funzione protettiva esterna, mentre la corteccia è un tessuto parenchimatico interno coinvolto nel nutrimento e nella riserva, distinto dal punto di vista botanico.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-fitosteroli-010",
+    "topic": "biologia",
+    "question": "In che modo alcuni fitosteroli agiscono come strumenti di difesa chimica contro gli insetti fitofagi?",
+    "suggestion": "Pensa a un ormone dello sviluppo degli insetti che le piante riescono a mimare chimicamente.",
+    "options": [
+      "Rilasciando composti volatili che uccidono istantaneamente qualunque insetto al semplice contatto con la foglia",
+      "Mimando gli ormoni della muta degli insetti, interferendo con i loro stadi giovanili e impedendone lo sviluppo",
+      "Assorbendo rapidamente tutta l'acqua disponibile intorno all'insetto, causandone la disidratazione forzata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alcuni fitosteroli, come il sitosterolo e l'ergosterolo, possono sintetizzare sostanze che mimano gli ormoni della muta degli insetti, interferendo con il loro sviluppo giovanile.",
+    "difficulty": "hard",
+    "source": "Bio_1.pdf — Lezione 9"
+  },
+  {
+    "id": "bio-lip-fill-001",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il tessuto le cui pareti sono impregnate di suberina e polifenoli, alla base della protezione delle strutture legnose secondarie, è il ___.",
+    "answers": [
+      [
+        "sughero"
+      ]
+    ],
+    "suggestion": "È lo stesso materiale usato come isolante termico ed edilizio.",
+    "explanation": "Il sughero è il tessuto le cui pareti sono impregnate di suberina, fondamentale per l'impermeabilizzazione e l'isolamento termico delle strutture legnose secondarie.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 8"
+  },
+  {
+    "id": "bio-lip-fill-002",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il composto derivante dall'esterificazione tra glicerolo e acidi grassi, con eliminazione di molecole d'acqua, si chiama ___.",
+    "answers": [
+      [
+        "trigliceride",
+        "trigliceridi"
+      ]
+    ],
+    "suggestion": "È la principale forma di riserva lipidica nei semi oleaginosi.",
+    "explanation": "I trigliceridi si formano per esterificazione tra glicerolo e acidi grassi con eliminazione di acqua, e costituiscono la principale riserva lipidica energetica.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 8"
+  }
+]

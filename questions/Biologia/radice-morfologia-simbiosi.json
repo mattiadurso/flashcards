@@ -1,0 +1,198 @@
+[
+  {
+    "id": "bio-rad-fittonante-fascicolato-001",
+    "topic": "biologia",
+    "question": "Che differenza c'è tra un apparato radicale fittonante e uno fascicolato?",
+    "suggestion": "Pensa a quale dei due mantiene una radice principale riconoscibile e dominante.",
+    "options": [
+      "Fittonante e fascicolato indicano in realtà lo stesso identico tipo di apparato radicale, osservato in specie diverse in ecosistemi differenti",
+      "Nel fascicolato si riconosce sempre una radice principale dominante e profonda, nel fittonante tutte le radici hanno sviluppo uguale",
+      "Nel fittonante si riconosce sempre una radice principale dominante, nel fascicolato le radici secondarie la uguagliano"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'apparato fittonante mantiene una radice principale dominante e riconoscibile, mentre in quello fascicolato le radici secondarie uguagliano o superano quella principale, tipico delle piante erbacee.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-monopodiale-simpodiale-002",
+    "topic": "biologia",
+    "question": "Cosa succede alla dominanza apicale di un albero quando viene potato all'apice principale?",
+    "suggestion": "Pensa a come la potatura altera gli equilibri ormonali che mantengono la dominanza.",
+    "options": [
+      "Si alterano gli equilibri ormonali, togliendo la dominanza e consentendo alle ramificazioni secondarie di svilupparsi",
+      "La pianta smette istantaneamente e in modo definitivo di crescere in qualunque sua parte aerea e radicale",
+      "La dominanza apicale si trasferisce automaticamente e in modo permanente all'apparato radicale riducendo la crescita aerea"
+    ],
+    "correctIndex": 0,
+    "explanation": "La potatura dell'apice principale altera gli equilibri ormonali che sostenevano la dominanza, permettendo alle ramificazioni secondarie di svilupparsi maggiormente.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-manioca-cianuro-003",
+    "topic": "biologia",
+    "question": "Perché la manioca (Manihot utilissima), da cui si ricava una farina largamente consumata, richiede una lavorazione prima del consumo?",
+    "suggestion": "Pensa a cosa contengono le sue radici tuberose che, idrolizzato, libera una sostanza tossica.",
+    "options": [
+      "Contiene glicosidi cianogenetici che, idrolizzati a pH acido, liberano cianuro",
+      "Contiene concentrazioni potenzialmente letali di caffeina che devono essere eliminate prima del consumo",
+      "Contiene una cellulosa particolarmente indigeribile che va rimossa completamente dalla farina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le radici tuberose della manioca contengono glicosidi cianogenetici che, se idrolizzati nello stomaco a pH acido, liberano cianuro, richiedendo un'apposita lavorazione prima del consumo.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-cuscuta-austori-004",
+    "topic": "biologia",
+    "question": "In che modo la pianta parassita cuscuta si nutre della pianta ospite?",
+    "suggestion": "Pensa a strutture simili a pugnali che si infilano nei tessuti di conduzione dell'ospite.",
+    "options": [
+      "Tramite la fotosintesi, essendo dotata di una quantità di clorofilla molto superiore alla media delle altre piante vascolari",
+      "Tramite austori, strutture simili ad aculei che si infilano nei tessuti di conduzione dell'ospite per succhiarne la linfa",
+      "Tramite normali radici che assorbono nutrienti dal terreno, esattamente come qualunque pianta autotrofa nel suo ciclo vitale"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cuscuta, priva di clorofilla e completamente eterotrofa, utilizza gli austori per infilarsi nei tessuti di conduzione xilematici dell'ospite e succhiarne la linfa grezza.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-edera-epifita-005",
+    "topic": "biologia",
+    "question": "Perché l'edera non viene classificata come pianta parassita nonostante cresca sostenuta da altre piante?",
+    "suggestion": "Pensa alla differenza tra sfruttare un organismo come supporto fisico e sottrargli nutrienti.",
+    "options": [
+      "Perché è una pianta epifita: sfrutta l'altra pianta solo come supporto fisico, senza sottrarle linfa o nutrienti",
+      "Perché l'edera possiede austori molto più deboli di quelli della cuscuta, incapaci di penetrare efficacemente i tessuti dell'ospite",
+      "Perché l'edera, come la cuscuta, è completamente priva di clorofilla funzionale e dunque non necessita di nutrienti e energia propri"
+    ],
+    "correctIndex": 0,
+    "explanation": "A differenza delle piante parassite come la cuscuta, l'edera è epifita: sfrutta l'altra pianta solo come supporto per crescere, senza sottrarle nutrienti tramite austori.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-leghemoglobina-006",
+    "topic": "biologia",
+    "question": "Perché i noduli radicali delle leguminose contengono emoglobina (leghemoglobina) e assumono un colore rosso vivo?",
+    "suggestion": "Pensa a quale condizione ambientale l'enzima nitrogenasi richiede per funzionare, e a come la leghemoglobina la garantisce.",
+    "options": [
+      "La leghemoglobina serve a trasportare e distribuire l'ossigeno in eccesso dai noduli radicali verso le foglie della pianta",
+      "La leghemoglobina è un pigmento accessorio che intercetta la luce per una presunta attività fotosintetica radicale sotterranea",
+      "La leghemoglobina lega l'ossigeno libero creando un ambiente anossico, indispensabile perché la nitrogenasi funzioni"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'enzima nitrogenasi deve lavorare in assenza di ossigeno; la leghemoglobina lega l'ossigeno libero creando le condizioni di anossia necessarie, ed è responsabile del colore rosso vivo dei noduli.",
+    "difficulty": "hard",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-eutrofizzazione-simbiosi-007",
+    "topic": "biologia",
+    "question": "Perché l'eccessiva concimazione dei terreni tende ad annichilire la simbiosi azotofissatrice delle leguminose?",
+    "suggestion": "Pensa alla convenienza energetica della pianta nel mantenere un batterio simbionte quando l'azoto è già abbondante.",
+    "options": [
+      "Perché l'eccesso di concime uccide direttamente e in modo istantaneo il bradyrhizobium presente nei noduli radicali",
+      "Perché la concimazione chimica impedisce fisicamente e da subito la formazione di nuovi noduli radicali nel tessuto radicale",
+      "Perché la pianta trova azoto disperso in eccesso e non ha più convenienza a mantenere il costoso batterio simbionte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con l'eutrofizzazione la pianta trova azoto disperso in abbondanza e, non avendo più convenienza energetica, abbandona la simbiosi con il bradyrhizobium, portando all'annichilimento di queste simbiosi naturali.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-pneumatofori-008",
+    "topic": "biologia",
+    "question": "A cosa servono i pneumatofori prodotti dalle mangrovie che vivono in lagune salate soggette a maree?",
+    "suggestion": "Pensa a cosa serve permeare quando l'acqua sale e sommerge periodicamente le radici.",
+    "options": [
+      "Impediscono in modo pressoché totale all'acqua salata di entrare in contatto diretto con la radice mediante barriere impermeabili",
+      "Servono esclusivamente ad assorbire l'azoto in eccesso e i sali minerali disciolti nell'acqua salmastra circostante",
+      "Sono punti di permeazione del gas che permettono alla radice di respirare quando la marea sommerge il terreno"
+    ],
+    "correctIndex": 2,
+    "explanation": "I pneumatofori delle mangrovie sono canali fuori dal terreno che fungono da punti di permeazione del gas, permettendo la respirazione della radice quando l'innalzamento della marea sommerge il suolo.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-avventizie-mais-009",
+    "topic": "biologia",
+    "question": "Qual è la funzione principale delle radici avventizie del mais, che emergono dal fusto invece che dal periciclo?",
+    "suggestion": "Pensa a un fusto pesante esposto al vento e al rischio di piegarsi.",
+    "options": [
+      "Svolgono esclusivamente una funzione di assorbimento idrico molto più efficiente di quella delle radici principali in condizioni di siccità",
+      "Sostituiscono in pieno la funzione fotosintetica delle foglie quando la pianta è sottoposta a stress idrico o termico",
+      "Svolgono soprattutto una funzione di stabilizzazione meccanica, contrastando il rischio di allettamento del fusto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le radici avventizie del mais, che nascono dal fusto anziché dal periciclo, hanno soprattutto funzione di stabilizzazione meccanica contro il rischio di allettamento causato dal vento.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-radici-trampolo-010",
+    "topic": "biologia",
+    "question": "Perché alcune piante sviluppano radici a trampolo o colonnari?",
+    "suggestion": "Pensa a una struttura che deve sostenere una chioma molto estesa lateralmente, rischiando instabilità.",
+    "options": [
+      "Servono a dare sostegno meccanico a piante con sviluppo laterale molto esteso, altrimenti a rischio di instabilità",
+      "Servono principalmente a impedire quasi del tutto l'assorbimento di acqua dal terreno e dei minerali circostanti",
+      "Servono esclusivamente ad aumentare considerevolmente la superficie fotosintetica complessiva della pianta per la fotosintesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le radici a trampolo o colonnari hanno funzione meccanica, sostenendo piante con ramificazioni molto estese lateralmente che altrimenti avrebbero problemi di stabilità.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-noduli-tumore-vegetale-011",
+    "topic": "biologia",
+    "question": "In che senso i noduli radicali delle leguminose vengono paragonati a 'tumori in senso vegetale'?",
+    "suggestion": "Pensa a cosa distingue un tessuto che prolifera in modo benigno da uno maligno.",
+    "options": [
+      "Sono proliferazioni di tessuto prive di connotazione negativa, che ospitano il batterio in cambio di fotosintati",
+      "Sono vere e proprie neoplasie maligne che danneggiano progressivamente e in modo irreversibile la pianta ospite durante la sua crescita vegetativa",
+      "Sono tessuti già morti che si formano esclusivamente dopo la morte del batterio simbionte all'interno della massa radicale principale"
+    ],
+    "correctIndex": 0,
+    "explanation": "I noduli radicali sono descritti come proliferazioni tissutali (in senso vegetale, non patologico) in cui il batterio si sviluppa mentre la pianta gli fornisce fotosintati in cambio di azoto organico.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-fill-001",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Le radici colonnari che escono dal fusto delle mangrovie per permettere la respirazione in ambienti sommersi si chiamano ___.",
+    "answers": [
+      [
+        "pneumatofori",
+        "pneumatofora"
+      ]
+    ],
+    "suggestion": "Il nome richiama esplicitamente il 'trasporto' dell'aria.",
+    "explanation": "I pneumatofori sono radici specializzate delle mangrovie che fungono da punti di permeazione del gas in ambienti periodicamente sommersi.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  },
+  {
+    "id": "bio-rad-fill-002",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "L'enzima che fissa l'azoto atmosferico all'interno dei noduli radicali, e che deve lavorare in assenza di ossigeno, si chiama ___.",
+    "answers": [
+      [
+        "nitrogenasi"
+      ]
+    ],
+    "suggestion": "Il suo nome deriva direttamente dall'elemento azoto (nitrogeno).",
+    "explanation": "La nitrogenasi è l'enzima che fissa l'azoto atmosferico nei noduli radicali, e richiede un ambiente privo di ossigeno per funzionare.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 31"
+  }
+]

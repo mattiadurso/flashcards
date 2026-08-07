@@ -1,0 +1,183 @@
+[
+  {
+    "id": "bio-chim-fosforo-001",
+    "topic": "biologia",
+    "question": "Perché il ciclo biogeochimico del fosforo è considerato più critico rispetto a quello del carbonio o dell'azoto?",
+    "suggestion": "Pensa a una fase dello stato della materia che il fosforo, a differenza di carbonio e azoto, non riesce ad assumere.",
+    "options": [
+      "Perché il ciclo del fosforo manca di una fase gassosa, rendendo la sua remissione in circolo molto più lenta",
+      "Perché il fosforo non entra mai a far parte della sintesi di DNA, RNA o molecole energetiche come l'ATP, rimanendo biochimicamente inerte",
+      "Perché il fosforo è l'unico macroelemento che manca completamente nell'acronimo CHNOPS insieme allo zolfo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A differenza di carbonio e azoto, il fosforo manca di una fase aeriforme nel suo ciclo, rendendo la sua remissione in circolo negli ecosistemi molto più lenta, con riserve stimate sufficienti per solo circa 150 anni.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-osmolita-002",
+    "topic": "biologia",
+    "question": "Quale differenza esiste tra piante e mammiferi riguardo agli ioni sodio e potassio come osmoliti?",
+    "suggestion": "Pensa a quale ione le piante tendono a percepire come nocivo da escludere.",
+    "options": [
+      "Le piante usano il sodio come osmolita principale esattamente come i mammiferi, mantenendolo ad alta concentrazione nel citoplasma",
+      "Le piante usano il potassio come osmolita principale e percepiscono il sodio come elemento da escludere.",
+      "Le piante escludono sia sodio sia potassio dal proprio metabolismo, affidandosi solo al calcio come osmolita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mentre nei mammiferi il sodio è l'elettrolita principale, le piante utilizzano il potassio come osmolita fondamentale e tendono a escludere o eliminare il sodio, percepito come nocivo.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-semi-disidratazione-003",
+    "topic": "biologia",
+    "question": "Perché i semi devono eliminare quasi totalmente l'acqua per sopravvivere in stato di quiescenza?",
+    "suggestion": "Pensa a quale reazione chimica l'acqua potrebbe innescare prematuramente nelle riserve del seme.",
+    "options": [
+      "Perché l'acqua residua renderebbe i semi troppo pesanti per essere dispersi efficacemente dal vento o dagli animali durante il trasporto",
+      "Perché la presenza di acqua favorirebbe una fotosintesi anticipata all'interno del seme ancora sotterraneo, esaurendo i cotiledoni",
+      "Perché la presenza di acqua innescherebbe prematuramente l'idrolisi delle riserve di amido e proteine prima della germinazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "La degradazione dei polimeri di riserva avviene per idrolisi, un processo che richiede acqua; un seme disidratato evita così di consumare prematuramente le proprie riserve energetiche.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-polarita-acqua-004",
+    "topic": "biologia",
+    "question": "Da cosa deriva la polarità della molecola d'acqua, pur non avendo una carica netta complessiva?",
+    "suggestion": "Pensa a dove si concentra la probabilità di trovare gli elettroni all'interno della molecola.",
+    "options": [
+      "Da una carica netta positiva localizzata stabilmente sull'unico atomo di ossigeno della molecola durante il legame covalente",
+      "Dalla totale assenza di elettroni condivisi tra gli atomi di idrogeno e quello di ossigeno, che rimangono cationici",
+      "Da cariche parziali positive sugli atomi di idrogeno e da una carica parziale negativa sull'atomo di ossigeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La molecola d'acqua presenta cariche parziali (δ+ sugli idrogeni, δ- sull'ossigeno) dovute alla distribuzione asimmetrica degli elettroni, pur avendo carica netta nulla.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-coesione-xilema-005",
+    "topic": "biologia",
+    "question": "Quali proprietà dell'acqua permettono alle sequoie di trasportare la linfa fino a oltre 100 metri di altezza?",
+    "suggestion": "Pensa alle due forze che tengono unite le molecole d'acqua tra loro e alle pareti dei vasi.",
+    "options": [
+      "La bassa densità dell'acqua rispetto agli altri componenti disciolti nella linfa grezza in salita",
+      "La sola capacità dell'acqua di essere pompata attivamente dalle cellule radicali verso l'alto",
+      "L'adesione tra acqua e pareti dei vasi e la coesione tra le molecole d'acqua stesse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adesione (interazione con le pareti dei vasi) e coesione (legami tra molecole d'acqua) formano una colonna liquida continua che non si spezza sotto tensione, permettendo il trasporto a grandi altezze.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-potenziale-osmotico-006",
+    "topic": "biologia",
+    "question": "Perché la presenza di soluti disciolti abbassa l'energia libera dell'acqua?",
+    "suggestion": "Pensa a cosa succede all'energia vibrazionale delle molecole d'acqua quando interagiscono con i soluti.",
+    "options": [
+      "Perché i soluti reagiscono chimicamente con l'acqua, trasformandola gradualmente in un composto diverso mediante idratazione irreversibile",
+      "Perché i soluti aumentano la temperatura complessiva della soluzione, riducendone la reattività chimica e la capacità solvente",
+      "Perché parte dell'energia vibrazionale dell'acqua viene impiegata per interagire con le particelle sciolte"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'acqua che solvata i soluti impiega parte della propria energia vibrazionale in queste interazioni, per cui l'acqua pura possiede l'energia potenziale massima possibile.",
+    "difficulty": "hard",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-idrolisi-condensazione-007",
+    "topic": "biologia",
+    "question": "Qual è la differenza chimica tra la formazione di un polimero per disidratazione e la sua degradazione per idrolisi?",
+    "suggestion": "Pensa a quale delle due reazioni libera acqua e quale invece la richiede.",
+    "options": [
+      "La disidratazione unisce monomeri liberando acqua.",
+      "Entrambe le reazioni liberano sempre una molecola di anidride carbonica come sottoprodotto principale",
+      "La disidratazione richiede l'aggiunta di acqua per formare il polimero, mentre l'idrolisi la libera unendo i monomeri"
+    ],
+    "correctIndex": 0,
+    "explanation": "La polimerizzazione per disidratazione (condensazione) è un processo anabolico che libera acqua; l'idrolisi è un processo catabolico che richiede l'aggiunta di acqua per rompere il legame covalente.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-tetravalenza-carbonio-008",
+    "topic": "biologia",
+    "question": "Perché l'atomo di carbonio è considerato l'elemento d'elezione per la chimica della vita rispetto ad altri elementi come il silicio?",
+    "suggestion": "Pensa al numero di legami covalenti stabili che il carbonio può formare e alla geometria che assumono.",
+    "options": [
+      "Perché il carbonio è l'unico elemento della tavola periodica in grado di formare legami stabili con l'ossigeno",
+      "Perché il carbonio forma quattro legami covalenti stabili disposti secondo una geometria tetraedrica",
+      "Perché il carbonio non può in nessun caso essere sostituito da altri elementi in un composto organico"
+    ],
+    "correctIndex": 1,
+    "explanation": "La capacità del carbonio di formare quattro legami covalenti stabili tramite ibridazione sp3, disposti a tetraedro, gli permette di generare l'enorme varietà di strutture molecolari alla base della vita.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-metano-energia-009",
+    "topic": "biologia",
+    "question": "Perché il metano (CH4) rappresenta il composto organico monocarbonioso a più alto contenuto energetico?",
+    "suggestion": "Pensa alla scala di ossidazione del carbonio e a quale estremo corrisponde il massimo di idrogeno legato.",
+    "options": [
+      "Perché contiene il maggior numero di atomi di ossigeno tra tutti i composti monocarboniosi conosciuti, fino a quattro atomi",
+      "Perché è l'unico composto monocarbonioso completamente privo di legami covalenti stabili e quindi disponibile per la combustione",
+      "Perché è la molecola con il massimo numero di atomi di idrogeno legati al carbonio, cioè allo stato più ridotto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una molecola ricca di idrogeno è altamente energetica; la sostituzione progressiva dell'idrogeno con l'ossigeno (ossidazione) ne riduce il valore energetico, fino al biossido di carbonio, il livello più basso.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-classi-organiche-010",
+    "topic": "biologia",
+    "question": "Quali sono le quattro classi principali di composti organici che il carbonio permette di formare?",
+    "suggestion": "Pensa alle macromolecole fondamentali della biochimica cellulare.",
+    "options": [
+      "Lipidi, sali minerali disciolti, pigmenti fotosintetici e acidi nucleici soltanto",
+      "Carboidrati, minerali strutturali, vitamine idrosolubili e ormoni vegetali",
+      "Carboidrati, lipidi, proteine e nucleotidi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il carbonio permette la formazione delle quattro classi principali di composti organici della vita: carboidrati, lipidi, proteine e nucleotidi.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-fill-001",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "L'acronimo che riassume i macroelementi fondamentali della vita — carbonio, idrogeno, azoto, ossigeno, fosforo e zolfo — è ___.",
+    "answers": [
+      [
+        "chnops",
+        "c.h.n.o.p.s."
+      ]
+    ],
+    "suggestion": "È formato dalle iniziali dei sei elementi in inglese.",
+    "explanation": "CHNOPS riassume i sei macroelementi (carbonio, idrogeno, azoto, ossigeno, fosforo, zolfo) fondamentali per la chimica della vita.",
+    "difficulty": "easy",
+    "source": "Bio_1.pdf — Lezione 5"
+  },
+  {
+    "id": "bio-chim-fill-002",
+    "type": "fill",
+    "topic": "biologia",
+    "question": "Il differenziale energetico che permette il movimento dei fluidi all'interno delle piante, determinato dalla presenza di soluti nell'acqua, è detto potenziale ___.",
+    "answers": [
+      [
+        "osmotico"
+      ]
+    ],
+    "suggestion": "È il potenziale che dipende dal numero di particelle disciolte in soluzione.",
+    "explanation": "Il potenziale osmotico è il motore che permette il movimento dei fluidi nelle piante, generato dalla differenza di energia libera dell'acqua tra ambienti a diversa concentrazione di soluti.",
+    "difficulty": "medium",
+    "source": "Bio_1.pdf — Lezione 5"
+  }
+]

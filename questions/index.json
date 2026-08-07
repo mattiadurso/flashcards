@@ -365,6 +365,102 @@
           "count": 150
         }
       ]
+    },
+    {
+      "topic": "biologia",
+      "label": "Biologia vegetale",
+      "files": [
+        {
+          "species": "Origine della vita ed evoluzione",
+          "file": "Biologia/origine-vita-evoluzione.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 14
+        },
+        {
+          "species": "Chimica di base: acqua e carbonio",
+          "file": "Biologia/chimica-acqua-carbonio.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 12
+        },
+        {
+          "species": "Carboidrati",
+          "file": "Biologia/carboidrati.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 17
+        },
+        {
+          "species": "Lipidi, cere e membrane",
+          "file": "Biologia/lipidi-cere-membrane.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 12
+        },
+        {
+          "species": "Proteine, nucleotidi e DNA",
+          "file": "Biologia/proteine-nucleotidi-dna.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 18
+        },
+        {
+          "species": "La cellula vegetale e i suoi organelli",
+          "file": "Biologia/cellula-organelli.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 21
+        },
+        {
+          "species": "Parete cellulare, tessuti e meristemi",
+          "file": "Biologia/parete-tessuti-meristemi.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 16
+        },
+        {
+          "species": "Tessuti di conduzione e legno",
+          "file": "Biologia/tessuti-conduzione-legno.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 17
+        },
+        {
+          "species": "Radice: morfologia e simbiosi",
+          "file": "Biologia/radice-morfologia-simbiosi.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 13
+        },
+        {
+          "species": "Foglia: anatomia e adattamenti",
+          "file": "Biologia/foglia-anatomia-adattamenti.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 17
+        },
+        {
+          "species": "Membrana e trasporto attivo",
+          "file": "Biologia/membrana-trasporto-attivo.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 14
+        },
+        {
+          "species": "Potenziale idrico e stomi",
+          "file": "Biologia/potenziale-idrico-stomi.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 17
+        },
+        {
+          "species": "Floema e xilema: trasporto a lunga distanza",
+          "file": "Biologia/floema-xilema-trasporto.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 13
+        },
+        {
+          "species": "Respirazione: glicolisi e ciclo di Krebs",
+          "file": "Biologia/respirazione-glicolisi-krebs.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 19
+        },
+        {
+          "species": "Fotosintesi",
+          "file": "Biologia/fotosintesi.json",
+          "source": "docs/Biologia/Bio_1.pdf",
+          "count": 20
+        }
+      ]
     }
   ]
 }
