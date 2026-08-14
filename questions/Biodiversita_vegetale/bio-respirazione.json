@@ -1,0 +1,275 @@
+[
+  {
+    "id": "bvg-res-overview-001",
+    "topic": "biologia-vegetale",
+    "question": "Dal punto di vista chimico, che tipo di reazione è la respirazione cellulare?",
+    "suggestion": "Gli elettroni passano dal glucosio all'ossigeno.",
+    "options": [
+      "Una reazione di ossidoriduzione: il glucosio si ossida e l'ossigeno si riduce ad acqua",
+      "Una reazione di condensazione che unisce glucosio e ossigeno in un polimero organico insolubile",
+      "Una reazione di idrolisi che scinde l'acqua in idrogeno e ossigeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La respirazione è una reazione di ossidoriduzione: gli elettroni sottratti al glucosio (che si ossida) sono trasferiti fino all'ossigeno (che si riduce ad acqua). Il potere riducente è accumulato temporaneamente in NADH2. Si producono CO2, H2O ed energia (ATP).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.79"
+  },
+  {
+    "id": "bvg-res-glicolisi-sede-002",
+    "topic": "biologia-vegetale",
+    "question": "Dove avviene la glicolisi e richiede ossigeno?",
+    "suggestion": "È la fase anaerobia, che si svolge nella parte fluida del citoplasma.",
+    "options": [
+      "Nella matrice mitocondriale e richiede ossigeno libero disponibile",
+      "Nel citosol e non richiede ossigeno (fase anaerobia)",
+      "Nei tilacoidi del cloroplasto, alla luce"
+    ],
+    "correctIndex": 1,
+    "explanation": "La glicolisi avviene interamente nel citosol e non richiede ossigeno (fase anaerobia). Scinde il glucosio in due molecole di piruvato. Il ciclo di Krebs e la catena respiratoria avvengono invece nel mitocondrio (fase aerobia).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.79"
+  },
+  {
+    "id": "bvg-res-glicolisi-bilancio-003",
+    "topic": "biologia-vegetale",
+    "question": "Qual è il guadagno netto della glicolisi per ogni molecola di glucosio?",
+    "suggestion": "Consuma 2 ATP nella fase preparatoria e ne produce 4 nella fase di guadagno.",
+    "options": [
+      "36 ATP e 10 NADH, senza consumo iniziale di ATP iniziale",
+      "Nessun ATP netto, ma 6 CO2 e 6 H2O",
+      "2 ATP netti e 2 NADH (4 ATP prodotti meno 2 consumati)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La glicolisi consuma 2 ATP nella fase preparatoria e ne produce 4 nella fase di guadagno (per fosforilazione a livello di substrato), con un saldo netto di 2 ATP e 2 NADH per glucosio. Il piruvato conserva ancora ~80% dell'energia del glucosio.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.80"
+  },
+  {
+    "id": "bvg-res-fosf-substrato-004",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza la fosforilazione a livello di substrato (es. nella glicolisi)?",
+    "suggestion": "Il fosfato passa direttamente da un substrato all'ADP, senza catena di trasporto né membrane.",
+    "options": [
+      "Un substrato fosforilato trasferisce direttamente il gruppo fosfato all'ADP, senza catena di trasporto elettronica",
+      "L'ATP è sintetizzato dall'ATP sintasi sfruttando il gradiente protonico di membrana interna del mitocondrio o del cloroplasto",
+      "L'ATP si forma solo alla luce, nei tilacoidi del cloroplasto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella fosforilazione a livello di substrato un substrato fosforilato (es. fosfoenolpiruvato) trasferisce direttamente il gruppo fosfato all'ADP, tramite un enzima solubile del citoplasma, senza catena di trasporto elettronica. Si distingue dalla fosforilazione ossidativa e dalla fotofosforilazione, che usano l'ATPasi di membrana.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.80"
+  },
+  {
+    "id": "bvg-res-fermentazione-005",
+    "topic": "biologia-vegetale",
+    "question": "A quale scopo la cellula avvia il piruvato alla fermentazione in assenza di ossigeno?",
+    "suggestion": "Serve a rigenerare un coenzima ossidato indispensabile per proseguire la glicolisi.",
+    "options": [
+      "Per produrre grandi quantità di ATP tramite la catena respiratoria tramite la catena respiratoria mitocondriale aerobia",
+      "Per rigenerare NAD+ (ossidato), indispensabile a mantenere attiva la glicolisi",
+      "Per fissare la CO2 e sintetizzare zuccheri come nella fotosintesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "In assenza di ossigeno manca l'accettore finale di elettroni: la fermentazione (alcolica o lattica) consuma NADH2 riducendo il piruvato (o l'acetaldeide), rigenerando NAD+ ossidato, indispensabile perché la glicolisi possa continuare. Produce solo 2 ATP per glucosio (efficienza ~28%).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.81"
+  },
+  {
+    "id": "bvg-res-fermentazione-alcolica-006",
+    "topic": "biologia-vegetale",
+    "question": "Quali prodotti genera la fermentazione alcolica, tipica dei lieviti e delle radici sommerse?",
+    "suggestion": "Il piruvato è decarbossilato ad acetaldeide, poi ridotto: si liberano un gas e un alcol.",
+    "options": [
+      "Acido lattico, senza liberazione di anidride carbonica",
+      "CO2 e H2O, con ossidazione completa del piruvato",
+      "Etanolo e CO2 (piruvato → acetaldeide → etanolo)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella fermentazione alcolica il piruvato è decarbossilato ad acetaldeide (con liberazione di CO2) dalla piruvato decarbossilasi, poi ridotto a etanolo dall'alcol deidrogenasi (consumando NADH2). È tipica dei lieviti e delle radici sommerse. La fermentazione lattica dà invece lattato.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.81"
+  },
+  {
+    "id": "bvg-res-fill-acetilcoa-007",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La decarbossilazione ossidativa del piruvato nel mitocondrio produce una molecola a due atomi di carbonio legata al coenzima A, l'___.",
+    "answers": [
+      [
+        "acetil-coa",
+        "acetil coa",
+        "acetilcoenzima a",
+        "acetil coenzima a"
+      ]
+    ],
+    "suggestion": "È la molecola che entra nel ciclo di Krebs; crocevia del catabolismo di zuccheri, lipidi e proteine.",
+    "explanation": "L'acetil-CoA (2 atomi di carbonio) si forma dalla decarbossilazione ossidativa del piruvato (piruvico deidrogenasi), con perdita di CO2 e produzione di NADH2. È la molecola che entra nel ciclo di Krebs ed è il crocevia metabolico del catabolismo di carboidrati, lipidi e proteine.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.82"
+  },
+  {
+    "id": "bvg-res-krebs-sede-008",
+    "topic": "biologia-vegetale",
+    "question": "Dove avviene il ciclo di Krebs e quale suo enzima fa eccezione, essendo legato alla membrana?",
+    "suggestion": "Nella matrice del mitocondrio; l'enzima anche parte della catena respiratoria.",
+    "options": [
+      "Nella matrice mitocondriale; la succinico deidrogenasi è legata alla membrana interna (anche complesso II)",
+      "Nel citosol; l'esochinasi è legata alla membrana plasmatica della cellula vegetale, lontano dai mitocondri interni",
+      "Nei tilacoidi; la RuBisCO è legata alle membrane dei grana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ciclo di Krebs avviene nella matrice mitocondriale; i suoi enzimi sono solubili tranne la succinico deidrogenasi, saldamente legata alla membrana interna, dove funge anche da complesso II della catena di trasporto degli elettroni.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.83"
+  },
+  {
+    "id": "bvg-res-krebs-bilancio-009",
+    "topic": "biologia-vegetale",
+    "question": "Quali coenzimi ridotti e quanto ATP produce il ciclo di Krebs per ogni giro (una molecola di acetil-CoA)?",
+    "suggestion": "Tre di un coenzima, uno di un altro, più un ATP a livello di substrato.",
+    "options": [
+      "3 NADH2, 1 FADH2 e 1 ATP (per fosforilazione a livello di substrato)",
+      "1 NADH2 e 36 ATP dalla catena respiratoria prodotti dalla catena della membrana interna",
+      "Solo 2 ATP e nessun coenzima ridotto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ogni giro (una molecola di acetil-CoA) il ciclo di Krebs produce 3 NADH2, 1 FADH2 e 1 ATP (per fosforilazione a livello di substrato), oltre a 2 CO2 dalle decarbossilazioni. L'ossigeno non è coinvolto direttamente: gli accettori sono NAD+ e FAD.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.83"
+  },
+  {
+    "id": "bvg-res-catena-o2-010",
+    "topic": "biologia-vegetale",
+    "question": "Quale ruolo svolge l'ossigeno molecolare al termine della catena di trasporto degli elettroni?",
+    "suggestion": "È l'accettore finale: riceve gli elettroni riducendosi ad acqua.",
+    "options": [
+      "È il donatore iniziale di elettroni al complesso I",
+      "È l'accettore finale di elettroni, riducendosi ad acqua (1/2 O2 + 2 H+ → H2O)",
+      "Non partecipa alla catena, che funziona anche in anaerobiosi anche in totale assenza di ossigeno molecolare"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ossigeno è l'accettore finale di elettroni della catena di trasporto (complesso IV): riceve gli elettroni e si riduce ad acqua (1/2 O2 + 2 H+ → H2O). Senza ossigeno la catena si blocca. Gli elettroni provengono da NADH2 (complesso I) e FADH2 (complesso II).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.84"
+  },
+  {
+    "id": "bvg-res-fadh2-011",
+    "topic": "biologia-vegetale",
+    "question": "Perché il FADH2 rende meno ATP del NADH2 nella catena di trasporto?",
+    "suggestion": "Entra nella catena a un livello energetico più basso, facendo uscire meno protoni.",
+    "options": [
+      "Perché entra a livello del complesso II, a energia inferiore, e fa estrudere meno protoni",
+      "Perché entra al complesso I e fa uscire più protoni del NADH2 ad alta energia direttamente dalla matrice mitocondriale",
+      "Perché il FADH2 non cede affatto elettroni alla catena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il FADH2 (dal succinato) entra nella catena al complesso II, a un livello energetico inferiore rispetto al NADH2 (complesso I): fa quindi estrudere meno protoni dalla matrice, producendo solo ~2 ATP contro i ~3 del NADH2.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.84"
+  },
+  {
+    "id": "bvg-res-kcn-012",
+    "topic": "biologia-vegetale",
+    "question": "Perché il cianuro di potassio (KCN) è un potente veleno mitocondriale?",
+    "suggestion": "Blocca il trasferimento di elettroni a livello dei citocromi finali della catena.",
+    "options": [
+      "Perché stimola eccessivamente la sintesi di ATP fino a esaurire l'ADP disponibile all'interno della cellula respirante",
+      "Perché blocca il trasferimento di elettroni ai citocromi finali, arrestando la catena respiratoria",
+      "Perché idrolizza direttamente tutto l'ATP della cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cianuro di potassio (KCN) inibisce la reazione con cui il citocromo c cede gli elettroni ai citocromi a e a3 (complesso IV): blocca così la catena di trasporto degli elettroni e la respirazione, agendo da veleno mitocondriale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.84"
+  },
+  {
+    "id": "bvg-res-chemiosmotica-013",
+    "topic": "biologia-vegetale",
+    "question": "Secondo la teoria chemiosmotica di Mitchell, come viene immagazzinata l'energia del trasporto elettronico prima della sintesi di ATP?",
+    "suggestion": "I complessi pompano protoni fuori dalla matrice, creando un gradiente attraverso la membrana impermeabile ad H+.",
+    "options": [
+      "Sotto forma di legami covalenti nel glucosio ricostituito ricostituito a partire da CO2 e acqua nel citosol",
+      "Sotto forma di gradiente elettrochimico protonico attraverso la membrana interna (impermeabile agli H+)",
+      "Sotto forma di calore disperso nello spazio intermembrana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo la teoria chemiosmotica, i complessi I, III e IV pompano protoni dalla matrice allo spazio intermembrana; la membrana interna, impermeabile agli H+, ne impedisce il rientro libero. Si forma un gradiente elettrochimico (ΔμH = ΔΨ + ΔpH), energia potenziale usata dall'ATP sintasi per produrre ATP.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.85"
+  },
+  {
+    "id": "bvg-res-atpsintasi-014",
+    "topic": "biologia-vegetale",
+    "question": "Come funziona l'ATP sintasi (complesso V) nella fosforilazione ossidativa?",
+    "suggestion": "I protoni rientrano attraverso un canale facendo ruotare una parte dell'enzima, come una turbina.",
+    "options": [
+      "Il rientro dei protoni fa ruotare il rotore, e la rotazione attiva i siti catalitici che sintetizzano ATP da ADP e Pi",
+      "Idrolizza direttamente il glucosio in due molecole di piruvato",
+      "Trasferisce elettroni dal NADH2 all'ossigeno senza produrre ATP molecolare lungo la catena respiratoria mitocondriale interna"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ATP sintasi ha un canale transmembrana (FO) e una subunità catalitica (F1). Il rientro dei protoni lungo il gradiente attraverso FO fa ruotare il rotore; la rotazione dell'asse attiva i siti catalitici di F1, che sintetizzano ATP da ADP e Pi. Il meccanismo è reversibile (può funzionare da idrolasi).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.85"
+  },
+  {
+    "id": "bvg-res-bilancio-36-015",
+    "topic": "biologia-vegetale",
+    "question": "Quante molecole di ATP produce complessivamente la respirazione aerobia completa di una molecola di glucosio?",
+    "suggestion": "Sommando glicolisi, decarbossilazione, Krebs e catena respiratoria.",
+    "options": [
+      "Solo 2 ATP, come la fermentazione",
+      "Circa 36 ATP (efficienza ~38%)",
+      "Circa 686 ATP, pari alle kcal del glucosio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La respirazione aerobia completa produce circa 36 ATP per glucosio (efficienza ~38%): la fermentazione ne produce solo 2 (~28%). Nota che il NADH2 citosolico rende 2 ATP (via navetta) contro i 3 del NADH2 mitocondriale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.86"
+  },
+  {
+    "id": "bvg-res-regolazione-citrato-016",
+    "topic": "biologia-vegetale",
+    "question": "Come il citrato regola la glicolisi, coordinandola con il ciclo di Krebs?",
+    "suggestion": "È un intermedio di Krebs che inibisce allostericamente un enzima chiave della glicolisi.",
+    "options": [
+      "Il citrato inibisce allostericamente la fosfofruttochinasi, rallentando la glicolisi quando gli intermedi di Krebs abbondano",
+      "Il citrato attiva la glicolisi accelerandola indefinitamente senza alcun controllo da parte degli intermedi del ciclo di Krebs",
+      "Il citrato non ha alcun effetto sulla glicolisi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il citrato (intermedio del ciclo di Krebs) inibisce allostericamente la fosfofruttochinasi, enzima regolativo della glicolisi: quando gli intermedi di Krebs abbondano, la glicolisi rallenta. È una regolazione reciproca che coordina catabolismo e anabolismo secondo le esigenze energetiche.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.86"
+  },
+  {
+    "id": "bvg-res-substrati-alt-017",
+    "topic": "biologia-vegetale",
+    "question": "Come entrano gli acidi grassi (da lipidi di riserva) nella respirazione?",
+    "suggestion": "Vengono convertiti nella molecola crocevia che entra direttamente nel ciclo di Krebs.",
+    "options": [
+      "Vengono convertiti in glucosio e immessi all'inizio della glicolisi per intero",
+      "Vengono convertiti in acetil-CoA e immessi direttamente nel ciclo di Krebs",
+      "Non possono essere usati a scopo energetico dalla cellula vegetale"
+    ],
+    "correctIndex": 1,
+    "explanation": "I lipidi sono idrolizzati ad acidi grassi e glicerolo; gli acidi grassi sono convertiti in acetil-CoA (immesso nel ciclo di Krebs), il glicerolo in un intermedio glicolitico. L'acetil-CoA è il crocevia del catabolismo di carboidrati, lipidi e proteine. I prodotti finali sono sempre CO2, H2O (e NH3 dalle proteine).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.86-87"
+  },
+  {
+    "id": "bvg-res-membrana-h-018",
+    "topic": "biologia-vegetale",
+    "question": "Quale proprietà della membrana mitocondriale interna è indispensabile per la sintesi di ATP?",
+    "suggestion": "Deve trattenere i protoni pompati, per mantenere il gradiente.",
+    "options": [
+      "La sua permeabilità libera a tutti gli ioni, che dissipa i gradienti protonici transmembrana necessari",
+      "La sua impermeabilità agli ioni H+, che permette di mantenere il gradiente protonico",
+      "La totale assenza di proteine di trasporto al suo interno"
+    ],
+    "correctIndex": 1,
+    "explanation": "La membrana mitocondriale interna è impermeabile agli ioni H+: questa proprietà impedisce il rientro libero dei protoni pompati dai complessi, permettendo di mantenere il gradiente elettrochimico che l'ATP sintasi sfrutta per produrre ATP. È selettivamente permeabile solo ad ATP, ADP e piruvato.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.82"
+  }
+]

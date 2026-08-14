@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bvg-xf-coesione-tensione-001",
+    "topic": "biologia-vegetale",
+    "question": "Perché la coesione tra molecole d'acqua è essenziale per il trasporto xilematico sotto tensione?",
+    "suggestion": "Impedisce che la colonna d'acqua aspirata verso l'alto si spezzi.",
+    "options": [
+      "Perché tiene unite le molecole in una catena continua, impedendo che la colonna d'acqua si spezzi mentre viene aspirata",
+      "Perché fa aderire l'acqua alle pareti dei vasi, generando la spinta verso il basso della colonna d'acqua verso il basso del fusto",
+      "Perché riscalda l'acqua favorendone l'evaporazione dalle radici"
+    ],
+    "correctIndex": 0,
+    "explanation": "La coesione (legami idrogeno tra molecole d'acqua) mantiene una catena continua che non si spezza mentre la colonna è aspirata verso l'alto sotto tensione. L'adesione alle pareti dei vasi contribuisce a generare la tensione. Insieme sostengono la teoria CAT (coesione-adesione-tensione).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.69"
+  },
+  {
+    "id": "bvg-xf-microfibrille-002",
+    "topic": "biologia-vegetale",
+    "question": "Come la disposizione radiale delle microfibrille di cellulosa nelle cellule di guardia determina l'apertura dello stoma?",
+    "suggestion": "Quando la cellula si rigonfia, può allungarsi solo in lunghezza, inarcandosi.",
+    "options": [
+      "Le microfibrille radiali fanno rigonfiare la cellula uniformemente, chiudendo il poro",
+      "Le microfibrille lignificano la parete impedendo qualsiasi movimento della cellula di guardia di guardia che delimitano lo stoma fogliare",
+      "Le microfibrille radiali fanno sì che la cellula rigonfia si allunghi in lunghezza e si inarchi, aprendo il poro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le microfibrille di cellulosa sono disposte radialmente attorno al poro: quando la cellula di guardia si rigonfia per l'ingresso d'acqua, l'allungamento avviene in lunghezza (non in larghezza), causando l'inarcamento della cellula e l'apertura del poro stomatico. Le cellule di guardia sono reniformi (dicot) o a manubrio (graminacee).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-paradosso-003",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa consiste il 'paradosso stomatico'?",
+    "suggestion": "Per far entrare la CO2 la pianta deve aprire gli stomi, ma così perde acqua.",
+    "options": [
+      "La pianta non può ottenere CO2 per la fotosintesi senza al contempo perdere acqua per traspirazione",
+      "La pianta perde CO2 ogni volta che chiude gli stomi per conservare acqua atmosferica proveniente dall'ambiente esterno",
+      "La pianta assorbe acqua dagli stomi ma non riesce a farvi entrare la CO2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il paradosso stomatico è che, per far entrare la CO2 necessaria alla fotosintesi, gli stomi devono restare aperti, ma ciò comporta inevitabilmente la perdita di vapore acqueo per traspirazione. La pianta deve quindi bilanciare acquisizione di CO2 e conservazione dell'acqua.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-apertura-k-004",
+    "topic": "biologia-vegetale",
+    "question": "Quale evento cellulare accompagna l'apertura degli stomi in condizioni di luce e buona disponibilità idrica?",
+    "suggestion": "Uno ione entra nelle cellule di guardia richiamando acqua per osmosi.",
+    "options": [
+      "L'uscita di ioni potassio dalle cellule di guardia, che perdono turgore e si affloscia chiudendo il poro stomatico",
+      "L'accumulo di acido abscissico, che gonfia le cellule di guardia",
+      "L'ingresso di ioni potassio (K+) nelle cellule di guardia, che richiama acqua per osmosi e aumenta il turgore"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'apertura degli stomi è associata all'ingresso di ioni potassio (K+) nelle cellule di guardia: ciò abbassa il potenziale osmotico e richiama acqua per osmosi, aumentando il turgore. Gli stomi si aprono con luce, acqua abbondante e bassa CO2 interna; si chiudono al buio, in siccità, con alta CO2 e in presenza di acido abscissico (ABA).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-aba-005",
+    "topic": "biologia-vegetale",
+    "question": "Quale ormone induce la chiusura degli stomi in condizioni di stress idrico?",
+    "suggestion": "È lo stesso ormone che si accumula nei tessuti man mano che il potenziale idrico diventa negativo.",
+    "options": [
+      "L'acido abscissico (ABA)",
+      "L'auxina, che stimola l'allungamento cellulare",
+      "L'etilene, responsabile della maturazione dei frutti"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'acido abscissico (ABA) è il fitormone che induce la chiusura degli stomi in condizioni di stress idrico, riducendo la traspirazione. Si accumula nei tessuti al progredire della disidratazione (potenziale idrico sempre più negativo).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-gradiente-h2o-co2-006",
+    "topic": "biologia-vegetale",
+    "question": "Perché nella foglia l'acqua diffonde molto più rapidamente della CO2 attraverso gli stomi?",
+    "suggestion": "Il gradiente di concentrazione dell'acqua tra interno ed esterno è molto più ripido di quello della CO2.",
+    "options": [
+      "Perché la CO2 è più leggera dell'acqua e diffonde più lentamente",
+      "Perché l'acqua attraversa la cuticola, mentre la CO2 passa solo dagli stomi epidermica impermeabile che riveste la foglia",
+      "Perché il gradiente di concentrazione dell'acqua (~20000 ppm) è molto più ripido di quello della CO2 (~400 ppm)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il gradiente di concentrazione del vapore acqueo tra interno ed esterno della foglia (~20000 ppm) è molto più ripido di quello della CO2 (~400 ppm): per questo la diffusione dell'acqua è molto più rapida. È alla base del paradosso stomatico.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.70-71"
+  },
+  {
+    "id": "bvg-xf-cat-007",
+    "topic": "biologia-vegetale",
+    "question": "Perché il trasporto xilematico è considerato 'passivo' per la pianta secondo la teoria CAT?",
+    "suggestion": "L'energia che lo alimenta viene dal sole (evapotraspirazione), non dal metabolismo della pianta.",
+    "options": [
+      "Perché la pianta spende ATP per pompare l'acqua verso l'alto in ogni vaso",
+      "Perché l'acqua sale spontaneamente per la sola pressione radicale, senza gradiente di potenziale idrico lungo tutta la pianta",
+      "Perché è alimentato dall'energia solare tramite l'evapotraspirazione, senza dispendio metabolico diretto della pianta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella teoria CAT il flusso xilematico è sostenuto dal gradiente di potenziale idrico (dal suolo, ~0, alle foglie, molto negativo), generato dall'evapotraspirazione alimentata dalla radiazione solare: è quindi un trasporto passivo per la pianta, che non spende direttamente energia metabolica.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.71"
+  },
+  {
+    "id": "bvg-xf-caspary-attivo-008",
+    "topic": "biologia-vegetale",
+    "question": "Dove avviene, nella radice, uno dei due passaggi che richiedono trasporto attivo per la linfa grezza?",
+    "suggestion": "Alla barriera suberificata che separa la corteccia dal cilindro centrale.",
+    "options": [
+      "Attraverso la banda del Caspary, dalla corteccia al cilindro centrale",
+      "Attraverso i peli radicali, permeabili e privi di esoderma",
+      "Attraverso la cuticola delle foglie durante la traspirazione delle sole parti aeree"
+    ],
+    "correctIndex": 0,
+    "explanation": "In radice i due passaggi attivi per la linfa grezza sono: dal terreno alle cellule con esoderma cutinizzato, e dalla corteccia al cilindro centrale attraverso la banda del Caspary (che blocca la via apoplastica, obbligando al simplasto). I peli radicali, privi di esoderma, sono invece permeabili.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.72"
+  },
+  {
+    "id": "bvg-xf-guttazione-009",
+    "topic": "biologia-vegetale",
+    "question": "Attraverso quali strutture avviene la guttazione (emissione di gocce d'acqua liquida dalle foglie)?",
+    "suggestion": "Aperture ai margini della foglia collegate direttamente allo xilema, diverse dagli stomi.",
+    "options": [
+      "Attraverso gli stomi, per traspirazione di vapore acqueo sotto forma di solo vapore acqueo invisibile",
+      "Attraverso gli idatodi, aperture collegate al sistema xilematico ai margini delle foglie",
+      "Attraverso le lenticelle del periderma del fusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La guttazione (emissione di gocce d'acqua liquida, di notte o al mattino presto, con suolo ricco d'acqua) avviene attraverso gli idatodi, aperture ai margini fogliari collegate direttamente allo xilema. È favorita dalla pressione radicale, generata dalla concentrazione di soluti nel cilindro centrale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.72-73"
+  },
+  {
+    "id": "bvg-xf-cavitazione-010",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è la cavitazione (embolia) xilematica e perché è dannosa?",
+    "suggestion": "Si formano bolle d'aria nei vasi che interrompono la colonna d'acqua.",
+    "options": [
+      "La formazione di bolle di gas nei vasi, che interrompe la continuità della colonna d'acqua bloccando il flusso",
+      "L'accumulo di zuccheri nel floema che ne occlude i tubi cribrosi",
+      "La lignificazione eccessiva delle pareti che chiude i vasi conduttori impedendo del tutto la conduzione della linfa grezza"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cavitazione (embolia) è la formazione di bolle di gas nei vasi xilematici, che interrompe la continuità della colonna d'acqua e blocca il flusso in quel vaso: è un fenomeno dannoso, frequente d'estate e nei vasi ampi. Nelle gimnosperme le punteggiature areolate col torus isolano i vasi embolizzati.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.73"
+  },
+  {
+    "id": "bvg-xf-anellatura-011",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa dimostra l'esperimento dell'anellatura (rimozione del floema fino allo xilema)?",
+    "suggestion": "Il fusto si ingrossa sopra il taglio: gli assimilati si accumulano non potendo scendere.",
+    "options": [
+      "Che lo xilema trasporta gli zuccheri verso l'alto, accumulandoli sopra il taglio del fusto nella zona posta sopra l'anellatura",
+      "Che il floema trasporta gli assimilati verso il basso: interrotto, il fusto si ingrossa sopra il taglio per accumulo",
+      "Che né xilema né floema trasportano sostanze organiche nella pianta"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'anellatura rimuove il floema lasciando intatto lo xilema: la porzione di fusto sopra il taglio si ingrossa perché gli assimilati (zuccheri) non riescono più a essere trasportati verso il basso, accumulandosi. Dimostra che il trasporto degli assimilati avviene nel floema.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.74"
+  },
+  {
+    "id": "bvg-xf-source-sink-012",
+    "topic": "biologia-vegetale",
+    "question": "Quali organi rappresentano una 'sorgente' (source) e quali un 'pozzo' (sink) nel trasporto floematico?",
+    "suggestion": "La sorgente produce più fotosintati di quanti ne consumi; il pozzo li consuma o accumula.",
+    "options": [
+      "Le foglie adulte sono pozzi; i meristemi e i frutti sono sorgenti",
+      "Le foglie adulte sono sorgenti; meristemi, radici, frutti e semi in sviluppo sono pozzi",
+      "Sorgenti e pozzi coincidono sempre negli stessi organi della pianta durante l'intera vita della pianta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le sorgenti (sources) producono più fotosintati di quanti ne consumino: le foglie adulte e gli organi di riserva in esportazione (semi in germinazione). I pozzi (sinks) consumano o accumulano: meristemi, radici, fusti, foglie immature e organi di riserva in accumulo (tuberi, frutti, semi in sviluppo).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.74"
+  },
+  {
+    "id": "bvg-xf-fill-saccarosio-013",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il principale metabolita di trasporto nel floema, zucchero non riducente formato da glucosio e fruttosio, è il ___.",
+    "answers": [
+      [
+        "saccarosio"
+      ]
+    ],
+    "suggestion": "Da esso derivano, per aggiunta di galattosio, raffinosio e stachiosio.",
+    "explanation": "Il saccarosio (zucchero non riducente, glucosio + fruttosio) è il principale metabolita di trasporto nel floema. Da esso derivano, per aggiunta di unità di galattosio, il raffinosio e lo stachiosio (importanti nel caricamento simplastico).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.75"
+  },
+  {
+    "id": "bvg-xf-cellule-compagne-014",
+    "topic": "biologia-vegetale",
+    "question": "Perché gli elementi del tubo cribroso dipendono dalle cellule compagne?",
+    "suggestion": "A maturità sono privi di nucleo e non possono svolgere da soli tutte le funzioni metaboliche.",
+    "options": [
+      "Perché a maturità sono privi di nucleo e ricevono ATP e metaboliti dalle cellule compagne",
+      "Perché sono cellule morte lignificate incapaci di condurre la linfa a piena maturità nel tessuto floematico",
+      "Perché le cellule compagne producono la lignina che li rinforza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli elementi del tubo cribroso, privi di nucleo a maturità, non svolgono autonomamente tutte le funzioni metaboliche: dipendono dalle cellule compagne (nucleate), che forniscono ATP e metaboliti, connesse tramite plasmodesmi. Nelle gimnosperme il ruolo è svolto dalle cellule albuminose.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.74-75"
+  },
+  {
+    "id": "bvg-xf-caricamento-apoplastico-015",
+    "topic": "biologia-vegetale",
+    "question": "Come avviene l'ingresso degli zuccheri nel floema nel caricamento apoplastico?",
+    "suggestion": "Tramite un cotrasporto con protoni attraverso la membrana: un trasporto attivo secondario.",
+    "options": [
+      "Per semplice diffusione passiva lungo il gradiente, senza alcuna spesa energetica del saccarosio prodotto",
+      "Tramite un simporto saccarosio-H+ attraverso il plasmalemma, un trasporto attivo secondario",
+      "Tramite gli stessi plasmodesmi, per continuità simplastica diretta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel caricamento apoplastico gli zuccheri entrano nel floema tramite un simporto saccarosio-H+ attraverso il plasmalemma: un trasporto attivo secondario che sfrutta il gradiente protonico generato dalle pompe. È tipico di specie erbacee e di climi aridi/boreali.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.76"
+  },
+  {
+    "id": "bvg-xf-polymer-trap-016",
+    "topic": "biologia-vegetale",
+    "question": "Come funziona il caricamento simplastico del floema secondo il meccanismo della 'trappola dei polimeri'?",
+    "suggestion": "Il saccarosio viene trasformato in molecole più grandi che non possono tornare indietro dai plasmodesmi.",
+    "options": [
+      "Il saccarosio viene condensato in raffinosio e stachiosio, troppo grandi per tornare indietro attraverso i plasmodesmi",
+      "Il saccarosio viene idrolizzato in glucosio e fruttosio dalle invertasi apoplastiche",
+      "Il saccarosio viene pompato attivamente contro gradiente da un antiporto H+/saccarosio attraverso il plasmalemma delle cellule del cribro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel caricamento simplastico ('polymer trapping') il saccarosio giunge nelle cellule intermedie tramite plasmodesmi e viene condensato con galattosio in raffinosio e stachiosio, molecole troppo grandi per tornare indietro attraverso gli stessi plasmodesmi (esclusione dimensionale). È tipico di specie arboree e tropicali.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.76"
+  },
+  {
+    "id": "bvg-xf-munch-017",
+    "topic": "biologia-vegetale",
+    "question": "Secondo l'ipotesi del flusso di massa di Münch, che cosa mette in moto la linfa elaborata nel floema?",
+    "suggestion": "Il caricamento del saccarosio richiama acqua per osmosi alle sorgenti, generando una pressione.",
+    "options": [
+      "L'evaporazione dell'acqua dagli stomi, che aspira la linfa dal basso verso l'alto del fusto lungo tutto il tessuto floematico della pianta",
+      "Il caricamento attivo di saccarosio alle sorgenti richiama acqua per osmosi, generando una pressione (flusso di pressione) verso i pozzi",
+      "La sola forza di gravità, che spinge la linfa verso il basso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo Münch, il caricamento attivo di saccarosio alle sorgenti abbassa il potenziale dei soluti e richiama acqua per osmosi (dallo xilema contiguo), generando alta pressione di turgore; lo scaricamento ai pozzi la abbassa. La differenza di pressione (flusso di pressione) sostiene il flusso di massa di acqua e soluti dalle source ai sink.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.77"
+  },
+  {
+    "id": "bvg-xf-scaricamento-invertasi-018",
+    "topic": "biologia-vegetale",
+    "question": "Quale enzima interviene nello scaricamento apoplastico del floema scindendo il saccarosio?",
+    "suggestion": "Idrolizza il saccarosio nei suoi due monosaccaridi (glucosio e fruttosio).",
+    "options": [
+      "L'invertasi, che idrolizza il saccarosio in glucosio e fruttosio",
+      "La RuBisCO, che fissa la CO2 nel ciclo di Calvin",
+      "L'ATP sintasi, che produce ATP dal gradiente protonico transmembrana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nello scaricamento apoplastico l'invertasi idrolizza il saccarosio nei suoi monosaccaridi (glucosio e fruttosio). La rapida metabolizzazione degli zuccheri nella cellula pozzo mantiene alto il gradiente di concentrazione, sostenendo il flusso.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.76"
+  },
+  {
+    "id": "bvg-xf-refilling-019",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolge la pressione radicale nel fenomeno del refilling?",
+    "suggestion": "Rispinge in soluzione le bolle d'aria formatesi per cavitazione, ripristinando la colonna d'acqua.",
+    "options": [
+      "Aumenta la traspirazione fogliare per raffreddare la pianta durante le ore più calde e secche della giornata estiva",
+      "Rispinge in soluzione le bolle d'aria da cavitazione, ripristinando la continuità della colonna d'acqua",
+      "Chiude gli stomi impedendo la perdita di vapore acqueo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il refilling è il ripristino della continuità della colonna d'acqua: la pressione radicale (generata dalla concentrazione di soluti nel cilindro centrale) rispinge in soluzione le bolle d'aria formatesi per cavitazione, riattivando i vasi embolizzati, soprattutto di notte a stomi chiusi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.72-73"
+  },
+  {
+    "id": "bvg-xf-velocita-020",
+    "topic": "biologia-vegetale",
+    "question": "Come si confronta la velocità del flusso floematico con quella della semplice diffusione?",
+    "suggestion": "Il flusso di massa è nettamente più veloce (attorno a 1 m/ora).",
+    "options": [
+      "È identica a quella della diffusione, poiché entrambi seguono gradienti di concentrazione",
+      "È nettamente maggiore della diffusione, attestandosi mediamente attorno a 1 metro all'ora",
+      "È molto più lenta della diffusione, richiedendo anni per pochi centimetri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il flusso floematico, essendo un flusso di massa (non semplice diffusione), è nettamente più veloce: mediamente circa 1 m/ora (0,3–1,5 m/ora). La diffusione pura sarebbe lentissima su lunghe distanze. La velocità si misura con CO2 marcata o sonde fluorescenti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.77"
+  }
+]

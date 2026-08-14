@@ -531,6 +531,30 @@
           "file": "Biodiversita_vegetale/bio-foglia.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
           "count": 17
+        },
+        {
+          "species": "Membrane cellulari, trasporto e potenziale idrico",
+          "file": "Biodiversita_vegetale/bio-membrane-trasporto.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 20
+        },
+        {
+          "species": "Trasporto xilematico e floematico",
+          "file": "Biodiversita_vegetale/bio-xilema-floema.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 20
+        },
+        {
+          "species": "La respirazione cellulare",
+          "file": "Biodiversita_vegetale/bio-respirazione.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 18
+        },
+        {
+          "species": "La fotosintesi",
+          "file": "Biodiversita_vegetale/bio-fotosintesi.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 20
         }
       ]
     }

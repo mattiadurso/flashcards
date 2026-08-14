@@ -1,0 +1,303 @@
+[
+  {
+    "id": "bvg-mem-mosaico-001",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa il modello a mosaico fluido supera il precedente modello di Davson-Danielli della membrana?",
+    "suggestion": "Nel modello vecchio le proteine formavano due strati continui esterni; in quello nuovo no.",
+    "options": [
+      "Nel mosaico fluido le proteine formano due strati continui che racchiudono il doppio strato lipidico",
+      "Nel mosaico fluido le proteine sono disperse e immerse nel doppio strato lipidico, che è fluido",
+      "Nel mosaico fluido la membrana è fatta di sola cellulosa, priva di lipidi e proteine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel modello di Davson-Danielli il bilayer era racchiuso tra due strati continui di proteine; nel modello a mosaico fluido (attuale) le proteine sono disperse e immerse nel doppio strato lipidico, che si trova in uno stato fluido, con domini lipidici attorno alle proteine.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.59"
+  },
+  {
+    "id": "bvg-mem-fluidita-002",
+    "topic": "biologia-vegetale",
+    "question": "Perché in inverno le piante arricchiscono le membrane di acidi grassi insaturi?",
+    "suggestion": "Le catene insaturhe, piegate dai doppi legami, mantengono la membrana fluida anche al freddo.",
+    "options": [
+      "Perché gli acidi grassi insaturi, piegati dai doppi legami, ostacolano l'impaccamento e mantengono la fluidità al freddo",
+      "Perché gli acidi grassi insaturi rendono la membrana più rigida e resistente al gelo anche alle temperature molto basse invernali",
+      "Perché gli acidi grassi insaturi bloccano del tutto il movimento laterale dei lipidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fluidità dipende dal grado di saturazione: le code insature (con doppi legami che le piegano) ostacolano l'impaccamento e aumentano la fluidità. In inverno le piante prevalgono acidi grassi insaturi per mantenere una fluidità adeguata alle basse temperature; in estate prevalgono i saturi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.59"
+  },
+  {
+    "id": "bvg-mem-acquaporine-003",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'acqua ha bisogno delle acquaporine per attraversare rapidamente la membrana?",
+    "suggestion": "L'acqua è polare e l'interno del doppio strato lipidico è idrofobico.",
+    "options": [
+      "Perché l'acqua è apolare e viene respinta dalle teste idrofile dei fosfolipidi",
+      "Perché l'acqua è troppo grande per passare senza essere scissa in idrogeno e ossigeno nei suoi due elementi costitutivi",
+      "Perché l'acqua è polare e non può migrare liberamente attraverso l'interno idrofobico del doppio strato"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'acqua è una molecola polare e non può attraversare liberamente l'interno idrofobico del doppio strato lipidico; le acquaporine sono canali selettivi che formano un poro attraverso cui passa rapidamente solo l'acqua, escludendo i soluti disciolti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.60"
+  },
+  {
+    "id": "bvg-mem-passivo-attivo-004",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue il trasporto passivo dal trasporto attivo attraverso la membrana?",
+    "suggestion": "Uno segue il gradiente senza spendere energia, l'altro può andare contro gradiente spendendo ATP.",
+    "options": [
+      "Il passivo va contro gradiente spendendo ATP, l'attivo segue il gradiente senza energia senza mai spendere energia metabolica",
+      "Il passivo segue il gradiente senza spendere energia, l'attivo può andare contro gradiente spendendo energia (ATP)",
+      "Passivo e attivo richiedono entrambi ATP e vanno sempre secondo gradiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il trasporto passivo (diffusione, diffusione facilitata, osmosi) segue il gradiente di concentrazione senza spesa energetica; il trasporto attivo (contro gradiente, esocitosi/endocitosi) richiede energia, di norma ATP. Solo l'attivo può muovere sostanze da bassa ad alta concentrazione.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.61"
+  },
+  {
+    "id": "bvg-mem-canali-carrier-005",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue un canale da un trasportatore (carrier) nella diffusione facilitata?",
+    "suggestion": "Il carrier riconosce e lega il soluto cambiando forma; il canale è meno selettivo.",
+    "options": [
+      "Il canale lega specificamente il soluto cambiando conformazione, il carrier lascia passare tutto senza alcuna forma di selettività molecolare",
+      "Il canale lascia passare i soluti in base a dimensioni e gradiente, il carrier è più selettivo e cambia conformazione legando il soluto",
+      "Canale e carrier trasportano solo contro gradiente, con spesa di ATP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella diffusione facilitata il canale lascia passare soluti in base alle dimensioni e al gradiente, con scarsa selettività; il carrier (trasportatore) è più selettivo: riconosce e lega il soluto, cambia conformazione e lo trasporta. Entrambi seguono comunque il gradiente (trasporto passivo).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.61"
+  },
+  {
+    "id": "bvg-mem-osmosi-006",
+    "topic": "biologia-vegetale",
+    "question": "In quale direzione si muove l'acqua per osmosi attraverso una membrana semipermeabile?",
+    "suggestion": "Verso la soluzione con più soluto (dove l'acqua libera è meno concentrata).",
+    "options": [
+      "Dalla soluzione ipertonica (più soluto) verso quella ipotonica (meno soluto)",
+      "Dalla soluzione ipotonica (meno soluto) verso quella ipertonica (più soluto)",
+      "L'acqua non si muove mai per osmosi se la membrana è semipermeabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'osmosi l'acqua si muove dal lato in cui è più concentrata (soluzione ipotonica, meno soluto) verso quello in cui è meno concentrata (soluzione ipertonica, più soluto), fino all'equilibrio. Le acquaporine lasciano passare solo l'acqua, trattenendo i soluti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.61-62"
+  },
+  {
+    "id": "bvg-mem-pompe-007",
+    "topic": "biologia-vegetale",
+    "question": "Come funziona il trasporto attivo primario operato dalle pompe protoniche (ATPasi)?",
+    "suggestion": "Idrolizza direttamente l'ATP per spostare protoni contro il loro gradiente.",
+    "options": [
+      "Idrolizza direttamente l'ATP, accoppiandone l'energia al trasporto di protoni (H+) contro gradiente",
+      "Sfrutta il rientro passivo dei protoni per trasportare un'altra molecola già accumulato dalle pompe protoniche primarie",
+      "Trasporta l'acqua per osmosi senza alcuna spesa energetica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il trasporto attivo primario (pompe protoniche, ATPasi/PPasi) idrolizza direttamente l'ATP (o il pirofosfato) accoppiando l'energia al trasporto di protoni H+ contro gradiente. Genera un gradiente elettrochimico (ΔμH+). Il trasporto secondario (simporto) sfrutta invece il rientro dei protoni.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.62"
+  },
+  {
+    "id": "bvg-mem-atpasi-localizzazione-008",
+    "topic": "biologia-vegetale",
+    "question": "Dove è localizzata la V-ATPasi nella cellula vegetale?",
+    "suggestion": "Il nome richiama l'organulo che acidifica il proprio interno con i protoni pompati.",
+    "options": [
+      "Nel plasmalemma (membrana plasmatica), come la P-ATPasi",
+      "Nella membrana del vacuolo (tonoplasto)",
+      "Nella membrana interna dei mitocondri, come la F-ATPasi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La V-ATPasi è localizzata nel tonoplasto (membrana del vacuolo). Le altre ATPasi vegetali: P-ATPasi nel plasmalemma, F-ATPasi nei mitocondri, C-ATPasi nei cloroplasti. Tutte generano o sfruttano gradienti protonici.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.62-63"
+  },
+  {
+    "id": "bvg-mem-simporto-009",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza un sistema di trasporto in simporto?",
+    "suggestion": "Due soluti diversi attraversano la membrana insieme, nella stessa direzione.",
+    "options": [
+      "Due soluti diversi vengono trasportati in direzioni opposte l'uno rispetto all'altro",
+      "Un solo soluto viene trasportato attraverso la membrana",
+      "Due soluti diversi attraversano la membrana insieme, nella stessa direzione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel simporto due soluti diversi attraversano la membrana nella stessa direzione (es. H+ con zuccheri o nitrati). Nell'uniporto viene trasportato un solo soluto; nell'antiporto due soluti carichi vanno in direzioni opposte (es. H+ e K+).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.63"
+  },
+  {
+    "id": "bvg-mem-fill-endocitosi-010",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'inglobamento di particelle solide (come batteri) racchiudendole in una vescicola per invaginazione della membrana è detto ___.",
+    "answers": [
+      [
+        "fagocitosi",
+        "fagocitosi"
+      ]
+    ],
+    "suggestion": "È una delle tre forme di endocitosi; l'analogo per i liquidi è la pinocitosi.",
+    "explanation": "La fagocitosi è l'endocitosi di particelle solide (es. cellule batteriche) racchiuse in una vescicola. Le altre forme sono la pinocitosi (liquidi) e l'endocitosi mediata da recettore (con fossetta rivestita di clatrina).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.64"
+  },
+  {
+    "id": "bvg-mem-calmodulina-011",
+    "topic": "biologia-vegetale",
+    "question": "Quale ruolo svolge il calcio (Ca2+) come messaggero secondario nella segnalazione cellulare?",
+    "suggestion": "Si lega a una proteina specifica formando un complesso che attiva risposte metaboliche.",
+    "options": [
+      "Si lega alla calmodulina formando un complesso che attiva processi enzimatici e genetici di risposta",
+      "È l'ormone primario che viene percepito dal recettore di membrana",
+      "Idrolizza direttamente l'ATP per fornire energia alle pompe protoniche delle membrane plasmatiche cellulari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il calcio ionico (Ca2+) è un messaggero secondario: rilasciato nella cellula dopo la ricezione dell'ormone, si lega alla calmodulina; il complesso calcio-calmodulina attiva processi metabolici di risposta, enzimatici e genetici. Altri messaggeri secondari sono l'AMP ciclico e l'H2O2.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.59-60"
+  },
+  {
+    "id": "bvg-mem-potenziale-componenti-012",
+    "topic": "biologia-vegetale",
+    "question": "Da quali tre componenti è dato il potenziale idrico complessivo (ΨW) di una cellula?",
+    "suggestion": "La relazione è ΨW = ΨG + ΨP + ΨS: gravità, pressione e soluti.",
+    "options": [
+      "Potenziale di gravità (ΨG), potenziale di pressione (ΨP) e potenziale osmotico (ΨS)",
+      "Potenziale elettrico, potenziale luminoso e potenziale termico",
+      "Potenziale di membrana, potenziale d'azione e potenziale di riposo della cellula nervosa animale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il potenziale idrico è ΨW = ΨG + ΨP + ΨS: la componente di gravità (ΨG), di pressione o turgore (ΨP) e osmotica o di soluto (ΨS). L'acqua si muove sempre da potenziale più alto a più basso.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.65"
+  },
+  {
+    "id": "bvg-mem-acqua-pura-013",
+    "topic": "biologia-vegetale",
+    "question": "Qual è per definizione il potenziale idrico dell'acqua pura, e come lo modificano i soluti?",
+    "suggestion": "È il valore di riferimento (zero); i soluti lo abbassano.",
+    "options": [
+      "È positivo e i soluti lo aumentano proporzionalmente alla concentrazione di soluto presente nella soluzione",
+      "È pari a zero (riferimento) e i soluti lo abbassano in modo proporzionale alla concentrazione",
+      "È fortemente negativo e i soluti lo riportano a zero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per definizione il potenziale idrico dell'acqua pura è zero (a livello del mare, 1 atm, 25 °C). La presenza di soluti lo abbassa proporzionalmente alla loro concentrazione (potenziale osmotico ΨS negativo). L'acqua può avere potenziale positivo solo con una pressione applicata.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.65"
+  },
+  {
+    "id": "bvg-mem-osmotico-014",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa dipende il valore del potenziale osmotico (ΨS) di una soluzione?",
+    "suggestion": "Dal numero di particelle di soluto, non dalla loro massa; ed è sempre negativo.",
+    "options": [
+      "Dal numero di particelle di soluto presenti in soluzione; è sempre negativo (< 0)",
+      "Dalla massa totale del soluto disciolto; è sempre positivo (> 0) indipendentemente dal numero di particelle",
+      "Dalla temperatura dell'ambiente esterno; è sempre pari a zero"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il potenziale osmotico ΨS dipende dal numero di particelle di soluto (non dalla loro massa) ed è sempre negativo. I soluti abbassano il potenziale idrico e aumentano l'entropia, riducendo l'energia libera: la cellula richiama così acqua comportandosi come una spugna.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.65"
+  },
+  {
+    "id": "bvg-mem-turgore-015",
+    "topic": "biologia-vegetale",
+    "question": "Perché il potenziale di pressione (turgore, ΨP) è fondamentale per le piante?",
+    "suggestion": "Dà consistenza ai tessuti non lignificati e innesca la crescita per distensione.",
+    "options": [
+      "Perché fornisce l'energia chimica per la sintesi dell'ATP nei tessuti verdi durante la respirazione cellulare aerobia",
+      "Perché conferisce consistenza ai tessuti non lignificati e innesca l'accrescimento per distensione",
+      "Perché blocca del tutto l'ingresso di acqua nelle cellule vive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il potenziale di pressione (turgore, ΨP) è la pressione del contenuto vacuolare contro la parete: conferisce consistenza ai tessuti non lignificati (in piante prive di scheletro rigido) ed è la forza che innesca l'accrescimento per distensione della cellula. Nello xilema può diventare negativo (tensione).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.66"
+  },
+  {
+    "id": "bvg-mem-plasmolisi-016",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa avviene nella plasmolisi di una cellula immersa in una soluzione ipertonica?",
+    "suggestion": "La cellula perde acqua e il plasmalemma si stacca dalla parete.",
+    "options": [
+      "La cellula assorbe acqua fino a scoppiare per eccesso di turgore",
+      "La cellula perde acqua e turgore, con distacco del plasmalemma dalla parete",
+      "La cellula mantiene invariato il proprio volume e il proprio turgore cellulare interno originario"
+    ],
+    "correctIndex": 1,
+    "explanation": "In ambiente ipertonico la cellula perde acqua: il turgore cala e il plasmalemma si stacca dalla parete (plasmolisi), con shock osmotico ed entrata d'aria negli spazi. Avviene soprattutto in alghe e piante acquatiche non impermeabilizzate; nelle piante superiori il fenomeno equivalente è la citorrisi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.66"
+  },
+  {
+    "id": "bvg-mem-abscissico-017",
+    "topic": "biologia-vegetale",
+    "question": "Al progredire della disidratazione (potenziale idrico sempre più negativo), come rispondono conduttanza stomatica e acido abscissico?",
+    "suggestion": "Uno cala per limitare la perdita d'acqua, l'altro si accumula come ormone dello stress idrico.",
+    "options": [
+      "La conduttanza stomatica cala e l'acido abscissico si accumula come ormone dello stress idrico",
+      "La conduttanza stomatica aumenta e l'acido abscissico scompare del tutto dai tessuti progressivamente disidratati",
+      "Entrambi restano costanti, indipendentemente dal potenziale idrico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con la disidratazione si riduce la conduttanza stomatica (gli stomi si chiudono) e la fotosintesi, mentre aumentano l'accumulo di soluti (adattamento osmotico) e dell'acido abscissico, ormone chiave della risposta allo stress idrico. Espansione cellulare e sintesi della parete si arrestano già presto.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.66"
+  },
+  {
+    "id": "bvg-mem-flusso-massa-018",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue il flusso di massa (a lunga distanza) dalla diffusione (a breve distanza)?",
+    "suggestion": "Nella diffusione si sposta selettivamente soluto o solvente; nel flusso di massa si muovono insieme.",
+    "options": [
+      "Nel flusso di massa si sposta selettivamente solo il soluto, nella diffusione soluto e solvente insieme, muovendosi ciascuno secondo il proprio gradiente specifico",
+      "Nel flusso di massa si muovono insieme soluto e solvente nella stessa direzione, nella diffusione le molecole si muovono casualmente e selettivamente",
+      "Flusso di massa e diffusione sono lo stesso processo a scale diverse"
+    ],
+    "correctIndex": 1,
+    "explanation": "A breve distanza prevale la diffusione (movimento casuale, si sposta selettivamente soluto o solvente); a lunga distanza (nel cormo) prevale il flusso di massa, in cui soluto e solvente si muovono insieme nella stessa direzione. Il flusso di massa dipende dal gradiente di pressione ed è ~indipendente dai gradienti di concentrazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.67"
+  },
+  {
+    "id": "bvg-mem-raggio-019",
+    "topic": "biologia-vegetale",
+    "question": "Secondo la dinamica dei fluidi, come dipende il flusso di massa dal raggio del vaso conduttore?",
+    "suggestion": "È proporzionale alla quarta potenza del raggio: piccole variazioni pesano moltissimo.",
+    "options": [
+      "È proporzionale alla quarta potenza del raggio del condotto e inversamente proporzionale alla lunghezza",
+      "È direttamente proporzionale alla lunghezza del vaso e indipendente dal raggio del condotto attraversato dal fluido",
+      "È inversamente proporzionale al quadrato del raggio del condotto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il flusso di massa è proporzionale alla quarta potenza del raggio del condotto e inversamente proporzionale alla lunghezza del vaso: piccole variazioni del raggio dei vasi producono effetti molto marcati sul flusso. Dipende inoltre dal gradiente di pressione, dalla resistenza e dalla viscosità.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.67"
+  },
+  {
+    "id": "bvg-mem-proteine-tipi-020",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue una proteina di membrana periferica da una transmembrana?",
+    "suggestion": "Una attraversa tutto lo spessore, l'altra è solo associata a una faccia in superficie.",
+    "options": [
+      "La periferica attraversa tutto lo spessore della membrana, la transmembrana resta in superficie esterna della cellula",
+      "La periferica è associata solo superficialmente a una faccia, la transmembrana attraversa l'intero spessore",
+      "Periferica e transmembrana sono entrambe immerse completamente nel doppio strato"
+    ],
+    "correctIndex": 1,
+    "explanation": "La proteina transmembrana attraversa l'intero spessore della membrana (spesso con tratti idrofobici ad α-elica che possono formare canali); la periferica è associata solo superficialmente a una delle due facce, senza penetrare nel doppio strato. Le integrali sono stabilmente inserite nel bilayer.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.59"
+  }
+]

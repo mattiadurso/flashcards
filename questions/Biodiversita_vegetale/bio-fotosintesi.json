@@ -1,0 +1,305 @@
+[
+  {
+    "id": "bvg-fot-cloroplasto-001",
+    "topic": "biologia-vegetale",
+    "question": "In quali compartimenti del cloroplasto avvengono, rispettivamente, la fase luminosa e il ciclo di Calvin?",
+    "suggestion": "Una nelle membrane interne impilate, l'altro nella matrice fluida.",
+    "options": [
+      "La fase luminosa nello stroma, il ciclo di Calvin nei tilacoidi interno del cloroplasto",
+      "La fase luminosa nei tilacoidi (grana), il ciclo di Calvin nello stroma",
+      "Entrambe nella membrana esterna del cloroplasto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fase luminosa avviene nei tilacoidi (sacculi membranosi impilati nei grana), sede dei fotosistemi; il ciclo di Calvin-Benson avviene nello stroma, la matrice fluida, sede degli enzimi di fissazione del carbonio (RuBisCO).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.88"
+  },
+  {
+    "id": "bvg-fot-origine-o2-002",
+    "topic": "biologia-vegetale",
+    "question": "Da quale molecola deriva l'ossigeno liberato nella fotosintesi ossigenica?",
+    "suggestion": "Non dalla CO2, come si credeva, ma dalla scissione (fotolisi) di un'altra molecola.",
+    "options": [
+      "Dalla fotolisi dell'acqua (H2O)",
+      "Dalla scissione della CO2, che si fonde con l'acqua",
+      "Dalla degradazione del glucosio prodotto"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ossigeno deriva dalla fotolisi dell'acqua (H2O), non dalla CO2. Van Niel lo dedusse studiando i solfobatteri (che usano H2S liberando zolfo); la reazione di Hill (O2 senza CO2) e l'acqua marcata con isotopo lo confermarono sperimentalmente.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.88"
+  },
+  {
+    "id": "bvg-fot-hill-003",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa dimostrò la reazione di Hill (produzione di O2 da cloroplasti illuminati senza CO2)?",
+    "suggestion": "Se non c'è CO2 ma si produce comunque O2, l'ossigeno non può venire dalla CO2.",
+    "options": [
+      "Che l'ossigeno prodotto deriva dalla CO2 e non dall'acqua, contrariamente a quanto realmente accade",
+      "Che senza CO2 non si produce alcun ossigeno",
+      "Che l'ossigeno deriva dall'acqua, poiché è prodotto anche in assenza di CO2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella reazione di Hill cloroplasti illuminati producono O2 anche senza CO2 (con un accettore artificiale di elettroni): poiché la CO2 è assente, l'ossigeno non può derivarne, confermando che proviene dall'acqua. L'acqua marcata con isotopo lo confermò definitivamente.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.88"
+  },
+  {
+    "id": "bvg-fot-energia-luce-004",
+    "topic": "biologia-vegetale",
+    "question": "Come dipende l'energia di un fotone dalla lunghezza d'onda (E = hc/λ)?",
+    "suggestion": "La luce blu (λ corta) è più energetica della luce rossa (λ lunga).",
+    "options": [
+      "È inversamente proporzionale alla lunghezza d'onda: λ più corte (blu) sono più energetiche",
+      "È direttamente proporzionale alla lunghezza d'onda: λ più lunghe (rosso) sono più energetiche",
+      "È indipendente dalla lunghezza d'onda"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'energia di un fotone è E = hc/λ: inversamente proporzionale alla lunghezza d'onda. La luce blu (λ corta) è più energetica della rossa (λ lunga). Quando un pigmento assorbe un fotone blu, dissipa parte dell'energia come calore fino al livello della luce rossa, l'energia minima per la fotosintesi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.89-90"
+  },
+  {
+    "id": "bvg-fot-clorofilla-005",
+    "topic": "biologia-vegetale",
+    "question": "Quale struttura caratterizza le clorofille e quale ione è al centro dell'anello?",
+    "suggestion": "Un anello a quattro pirroli con uno ione metallico centrale, e una coda idrofoba.",
+    "options": [
+      "Un anello tetrapirrolico con uno ione magnesio (Mg2+) al centro e una coda idrofoba (fitolo)",
+      "Un anello porfirinico con ferro al centro, come nei citocromi",
+      "Una lunga catena di doppi legami coniugati priva di anello, come nei caroteni tipica dei pigmenti accessori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le clorofille hanno un anello tetrapirrolico con uno ione magnesio (Mg2+) al centro e una coda idrofoba (fitolo) che le ancora alla membrana tilacoidale. La clorofilla a ha un gruppo metilico, la b un gruppo aldeidico, con assorbimenti lievemente diversi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.90"
+  },
+  {
+    "id": "bvg-fot-pigmenti-accessori-006",
+    "topic": "biologia-vegetale",
+    "question": "A cosa servono i pigmenti accessori (carotenoidi, ficobiline) accanto alle clorofille?",
+    "suggestion": "Assorbono a lunghezze d'onda diverse, ampliando lo spettro di luce sfruttabile.",
+    "options": [
+      "A sostituire completamente le clorofille nella fotolisi dell'acqua",
+      "Ad ampliare lo spettro di luce utilizzabile, assorbendo a lunghezze d'onda diverse dalle clorofille",
+      "A riflettere la luce verde per proteggere la foglia dall'eccesso di radiazione solare eccessivamente intensa"
+    ],
+    "correctIndex": 1,
+    "explanation": "I pigmenti accessori (carotenoidi — caroteni e xantofille — e, nelle alghe, ficobiline) assorbono a lunghezze d'onda diverse dalle clorofille, ampliando lo spettro di luce captata dall'apparato fotosintetico. Lo spettro d'azione della fotosintesi è la somma degli spettri di assorbimento di tutti i pigmenti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.90"
+  },
+  {
+    "id": "bvg-fot-fotosistema-007",
+    "topic": "biologia-vegetale",
+    "question": "Come sono organizzati il complesso antenna e il centro di reazione in un fotosistema?",
+    "suggestion": "L'antenna cattura e trasferisce l'energia per risonanza; il centro cede un elettrone.",
+    "options": [
+      "Il complesso antenna cattura la luce e ne trasferisce l'energia per risonanza al centro di reazione, dove una coppia di clorofilla a cede un elettrone",
+      "Il centro di reazione cattura la luce e il complesso antenna sintetizza direttamente l'ATP",
+      "Antenna e centro di reazione svolgono la fotolisi dell'acqua indipendentemente l'uno dall'altro, senza mai cooperare tra loro nella captazione della luce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel fotosistema il complesso antenna (LHC) è formato da molti pigmenti che captano la luce e trasferiscono l'energia per risonanza fino al centro di reazione, dove una coppia speciale di clorofilla a compie una reazione di ossidoriduzione cedendo un elettrone eccitato a un accettore primario.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.91"
+  },
+  {
+    "id": "bvg-fot-ps-680-700-008",
+    "topic": "biologia-vegetale",
+    "question": "Come sono denominati i centri di reazione del fotosistema II e del fotosistema I?",
+    "suggestion": "Prendono il nome dalla lunghezza d'onda ottimale di assorbimento (680 e 700 nm).",
+    "options": [
+      "PS II ha centro P700 e PS I ha centro P680",
+      "PS II ha centro P680 e PS I ha centro P700",
+      "Entrambi hanno lo stesso centro di reazione P680"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fotosistema II ha centro di reazione P680 (assorbe a 680 nm), il fotosistema I ha centro P700 (assorbe a 700 nm). Nello schema Z gli elettroni fluiscono dall'acqua al PS II, poi al PS I e infine al NADP+ (ridotto a NADPH2).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.91"
+  },
+  {
+    "id": "bvg-fot-fotolisi-009",
+    "topic": "biologia-vegetale",
+    "question": "Perché il centro P680 del fotosistema II preleva elettroni dall'acqua?",
+    "suggestion": "Avendo ceduto un elettrone, resta carico positivamente e deve reintegrarlo.",
+    "options": [
+      "Perché, avendo ceduto un elettrone, resta carico positivamente e lo reintegra scindendo l'acqua (fotolisi), con rilascio di O2",
+      "Perché l'acqua fornisce la CO2 necessaria al ciclo di Calvin e i protoni indispensabili alla sintesi degli zuccheri nello stroma",
+      "Perché l'acqua trasporta direttamente gli elettroni al NADP+"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dopo aver ceduto l'elettrone alla feofitina, il P680 resta carico positivamente; lo reintegra ottenendo elettroni dall'acqua, scissa da un complesso enzimatico al manganese (fotolisi). Servono due cicli per 4 elettroni, con rilascio di una molecola di O2 e 4 protoni nel lume.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.91-92"
+  },
+  {
+    "id": "bvg-fot-fill-nadph-010",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Al termine della catena della fase luminosa, la ferredossina cede gli elettroni all'enzima NADP+ reduttasi, che riduce il NADP+ a ___.",
+    "answers": [
+      [
+        "nadph",
+        "nadph2",
+        "nadph+h",
+        "nadph + h"
+      ]
+    ],
+    "suggestion": "È il potere riducente che, con l'ATP, alimenta il ciclo di Calvin.",
+    "explanation": "Gli elettroni giunti al fotosistema I, tramite la ferredossina, raggiungono la NADP+ reduttasi che riduce il NADP+ a NADPH2. Insieme all'ATP, il NADPH2 è il prodotto energetico della fase luminosa usato nel ciclo di Calvin.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.92"
+  },
+  {
+    "id": "bvg-fot-chemiosmosi-011",
+    "topic": "biologia-vegetale",
+    "question": "Come genera ATP la fase luminosa secondo il meccanismo chemiosmotico?",
+    "suggestion": "I protoni si accumulano nel lume tilacoidale acido; il loro rientro alimenta l'ATP sintasi.",
+    "options": [
+      "L'ATP sintasi idrolizza il glucosio prodotto nel ciclo di Calvin",
+      "Il gradiente protonico tra lume tilacoidale (acido) e stroma alimenta l'ATP sintasi, che produce ATP",
+      "L'ATP si forma solo per fosforilazione a livello di substrato, senza gradiente protonico transmembrana della cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fotolisi dell'acqua e il trasporto elettronico accumulano protoni nel lume tilacoidale, rendendolo acido: si crea un gradiente protonico (ΔpH) tra lume e stroma. Il rientro dei protoni attraverso l'ATP sintasi produce ATP (fotofosforilazione). L'esperimento pH 4→pH 8 al buio dimostrò che è il gradiente, non la luce, a fornire l'energia.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.92"
+  },
+  {
+    "id": "bvg-fot-ciclica-012",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa produce la fotofosforilazione ciclica (che coinvolge solo il fotosistema I)?",
+    "suggestion": "Devia gli elettroni indietro: genera ATP extra ma non NADPH né ossigeno.",
+    "options": [
+      "Sia ATP sia NADPH2, con liberazione di ossigeno gassoso molecolare",
+      "Solo NADPH2, senza produzione di ATP",
+      "ATP supplementare, senza produrre NADPH2 né ossigeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fotofosforilazione ciclica coinvolge solo il fotosistema I: devia gli elettroni dalla ferredossina indietro al complesso dei citocromi, generando altro gradiente protonico e quindi ATP supplementare, senza produrre NADPH2 né O2 (non essendo coinvolto il PS II). Serve a coprire la maggiore richiesta di ATP del ciclo di Calvin.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.92-93"
+  },
+  {
+    "id": "bvg-fot-cloro-mito-013",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la differenza principale tra cloroplasti e mitocondri nella produzione di ATP?",
+    "suggestion": "Entrambi usano un gradiente protonico, ma da fonti di energia diverse.",
+    "options": [
+      "Il cloroplasto usa l'energia solare per creare il gradiente protonico, il mitocondrio l'energia chimica dei composti organici",
+      "Il cloroplasto non usa alcun gradiente protonico, a differenza del mitocondrio per la produzione di ATP, a differenza del mitocondrio aerobio",
+      "Il mitocondrio produce ossigeno, il cloroplasto lo consuma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entrambi producono ATP da un gradiente protonico tramite l'ATP sintasi, ma la fonte di energia differisce: il cloroplasto usa l'energia solare captata dai pigmenti, il mitocondrio l'energia chimica dei composti organici ossidati. Nel cloroplasto si acidifica il lume tilacoidale, nel mitocondrio si alcalinizza la matrice.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.93"
+  },
+  {
+    "id": "bvg-fot-rubisco-014",
+    "topic": "biologia-vegetale",
+    "question": "Perché la RuBisCO è un enzima 'ambiguo' nel ciclo di Calvin?",
+    "suggestion": "Il suo sito catalitico può legare due substrati diversi in competizione tra loro.",
+    "options": [
+      "Perché può legare al proprio sito catalitico sia la CO2 sia l'O2, in competizione (attività carbossilasica o ossigenasica)",
+      "Perché catalizza sia la fotolisi dell'acqua sia la sintesi di ATP nella membrana tilacoidale durante la sola fase luminosa",
+      "Perché funziona solo al buio e mai alla luce"
+    ],
+    "correctIndex": 0,
+    "explanation": "La RuBisCO (ribulosio-1,5-bisfosfato carbossilasi/ossigenasi) può legare al sito catalitico sia la CO2 (attività carbossilasica, che avvia il ciclo di Calvin) sia l'O2 (attività ossigenasica, che avvia la fotorespirazione): i due substrati competono per l'ingombro sterico simile. È forse la proteina più abbondante sulla Terra.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.93-94"
+  },
+  {
+    "id": "bvg-fot-calvin-bilancio-015",
+    "topic": "biologia-vegetale",
+    "question": "Considerando 3 giri del ciclo di Calvin (3 CO2 fissate), qual è il guadagno netto e il costo energetico?",
+    "suggestion": "Sei triosi prodotti, cinque riciclati per rigenerare l'accettore, uno netto.",
+    "options": [
+      "Guadagno di 6 gliceraldeidi 3-fosfato nette, con consumo di 3 ATP e appena 6 NADPH2",
+      "Guadagno netto di 1 gliceraldeide 3-fosfato, con consumo di 9 ATP e 6 NADPH2",
+      "Nessun guadagno netto e nessun consumo di ATP o NADPH2"
+    ],
+    "correctIndex": 1,
+    "explanation": "In 3 giri (3 CO2) si producono 6 gliceraldeidi 3-fosfato, di cui 5 servono a rigenerare il ribulosio 1,5-bisfosfato (accettore) e 1 sola è il guadagno netto, per la sintesi di zuccheri. Il costo è di 9 ATP e 6 NADPH2. Le tre fasi sono fissazione, riduzione e rigenerazione.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.94"
+  },
+  {
+    "id": "bvg-fot-fotorespirazione-016",
+    "topic": "biologia-vegetale",
+    "question": "In quali condizioni la fotorespirazione diventa rilevante nelle piante C3?",
+    "suggestion": "Caldo e siccità chiudono gli stomi: la CO2 interna cala e l'O2 aumenta.",
+    "options": [
+      "Con clima fresco e umido, quando gli stomi restano ben aperti e la CO2 abbonda del terreno attorno alla pianta perfettamente irrigata",
+      "Al buio completo, quando la fotosintesi è ferma",
+      "Con caldo e siccità: la chiusura degli stomi abbassa la CO2 interna e alza l'O2, favorendo l'attività ossigenasica della RuBisCO"
+    ],
+    "correctIndex": 2,
+    "explanation": "In estate, con caldo e siccità, gli stomi delle piante C3 si chiudono: la CO2 interna cala e l'O2 (prodotto dalla fotosintesi) si accumula. Il basso rapporto CO2/O2 induce la RuBisCO a privilegiare l'attività ossigenasica (fotorespirazione), con perdita netta di carbonio. Il caldo riduce inoltre la solubilità della CO2 più di quella dell'O2.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.94-95"
+  },
+  {
+    "id": "bvg-fot-c4-kranz-017",
+    "topic": "biologia-vegetale",
+    "question": "Come le piante C4 (anatomia di Kranz) riducono la fotorespirazione?",
+    "suggestion": "Fissano prima la CO2 nel mesofillo e la concentrano nelle cellule della guaina, dove agisce la RuBisCO.",
+    "options": [
+      "Chiudendo gli stomi di giorno e aprendoli di notte, come le CAM",
+      "Fissando la CO2 come composto C4 nel mesofillo e liberandola concentrata nelle cellule della guaina, dove opera la RuBisCO",
+      "Eliminando del tutto la RuBisCO e usando solo la PEP carbossilasi del mesofillo per fissare da sola tutta la CO2 atmosferica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle piante C4 la PEP carbossilasi fissa il bicarbonato nel mesofillo formando ossalacetato (C4), convertito in malato/aspartato e trasferito alle cellule della guaina del fascio, dove viene decarbossilato liberando CO2 concentrata attorno alla RuBisCO. Questa separazione spaziale mantiene alto il rapporto CO2/O2, riducendo la fotorespirazione.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.95-96"
+  },
+  {
+    "id": "bvg-fot-cam-018",
+    "topic": "biologia-vegetale",
+    "question": "Su quale tipo di separazione si basa il metabolismo CAM delle piante succulente?",
+    "suggestion": "Fissano la CO2 di notte e la usano di giorno, nella stessa cellula.",
+    "options": [
+      "Su una separazione spaziale tra mesofillo e guaina del fascio, come le C4 del fascio, esattamente come avviene nelle piante C4 tropicali",
+      "Su una separazione temporale: fissano la CO2 di notte (stomi aperti) e la usano nel ciclo di Calvin di giorno (stomi chiusi)",
+      "Su nessuna separazione: fissano e usano la CO2 simultaneamente di giorno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le piante CAM (Crassulacean Acid Metabolism, succulente aride) usano una separazione temporale: di notte, con stomi aperti, la PEP carbossilasi fissa la CO2 in acido malico accumulato nel vacuolo; di giorno, con stomi chiusi (risparmio idrico), l'acido malico è decarbossilato liberando CO2 per il ciclo di Calvin. Le C4 usano invece una separazione spaziale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.96"
+  },
+  {
+    "id": "bvg-fot-c4-cam-confronto-019",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la differenza fondamentale tra la strategia C4 e quella CAM, pur avendo lo stesso scopo?",
+    "suggestion": "Una separa i due processi nello spazio (cellule diverse), l'altra nel tempo (notte/giorno).",
+    "options": [
+      "La C4 separa la fissazione dalla sintesi nello spazio (cellule diverse), la CAM nel tempo (notte e giorno)",
+      "La C4 separa i processi nel tempo, la CAM nello spazio",
+      "Nessuna delle due concentra la CO2 attorno alla RuBisCO attorno all'enzima RuBisCO nel ciclo di Calvin durante la fase di fissazione del carbonio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entrambe concentrano la CO2 attorno alla RuBisCO riducendo la fotorespirazione, ma la C4 (es. canna da zucchero) separa spazialmente la carbossilazione iniziale (mesofillo) dal ciclo di Calvin (guaina del fascio), mentre la CAM (es. ananas) le separa temporalmente (notte/giorno) nella stessa cellula, con notevole risparmio idrico.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.96"
+  },
+  {
+    "id": "bvg-fot-pga-020",
+    "topic": "biologia-vegetale",
+    "question": "Qual è il primo composto organico stabile prodotto dalla fissazione della CO2 nel ciclo di Calvin delle piante C3?",
+    "suggestion": "Un composto a tre atomi di carbonio, da cui il nome 'C3'.",
+    "options": [
+      "L'acido 3-fosfoglicerico (PGA), a tre atomi di carbonio",
+      "L'ossalacetato, a quattro atomi di carbonio",
+      "Il ribulosio 1,5-bisfosfato, a cinque atomi di carbonio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La RuBisCO addiziona la CO2 al ribulosio 1,5-bisfosfato (RuBP, C5) formando un intermedio C6 instabile che si scinde subito in due molecole di acido 3-fosfoglicerico (PGA, C3): è il primo composto stabile, da cui il nome piante C3. Nelle C4 il primo composto è invece l'ossalacetato (C4).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.94"
+  }
+]
