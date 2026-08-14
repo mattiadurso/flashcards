@@ -1,0 +1,223 @@
+[
+  {
+    "id": "bdv-lam-asteridi-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del fiore accomuna gli Asteridi (Lamiidi e Campanulidi) e li distingue dai Rosidi?",
+    "suggestion": "Riguarda i petali: liberi nei Rosidi, uniti negli Asteridi.",
+    "options": [
+      "La corolla dialipetala a petali del tutto liberi, disposti in due o più verticilli distinti",
+      "La corolla simpetala, con petali fusi a formare un unico organo tuboloso o campanulato",
+      "L'assenza totale di corolla, con fiori ridotti a soli stami e carpelli come nelle piante anemofile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli Asteridi (che comprendono Lamiidi e Campanulidi) sono caratterizzati da corolle simpetale (petali fusi), pentamere, con un solo ciclo di stami. I Rosidi hanno invece corolla dialipetala (petali liberi). Il polline è generalmente trisolcato.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.89"
+  },
+  {
+    "id": "bdv-lam-simpetalia-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue i Lamiidi dai Campanulidi nello sviluppo della corolla?",
+    "suggestion": "In un gruppo i petali si fondono tardi nello sviluppo del fiore, nell'altro presto.",
+    "options": [
+      "I Lamiidi hanno simpetalia tardiva, i Campanulidi simpetalia precoce",
+      "I Lamiidi hanno corolla dialipetala, i Campanulidi sono privi di corolla",
+      "I Lamiidi hanno fiori attinomorfi, i Campanulidi sempre e solo zigomorfi"
+    ],
+    "correctIndex": 0,
+    "explanation": "I Lamiidi presentano simpetalia tardiva (fusione dei petali in fase avanzata dello sviluppo), i Campanulidi simpetalia precoce. Nei Lamiidi ricorrono inoltre androceo e corolla epipetali, gineceo bicarpellare G(2) e infiorescenze cimose.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.89"
+  },
+  {
+    "id": "bdv-lam-lamiaceae-fusto-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere vegetativo costante permette di riconoscere subito le Lamiaceae?",
+    "suggestion": "Basta tagliare trasversalmente il fusto e osservarne la sezione.",
+    "options": [
+      "Il fusto a sezione perfettamente cilindrica, privo di angoli e di peli ghiandolari",
+      "Il fusto legnoso a sezione triangolare, con tre spigoli e midollo assente",
+      "Il fusto a sezione tetragona (quattro angoli), con peli ghiandolari aromatici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Lamiaceae hanno fusto a sezione tetragona (quattro angoli), carattere diagnostico costante, con peli ghiandolari che producono oli essenziali aromatici (basilico, lavanda, origano). Le foglie sono opposte e prive di stipole.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.89-90"
+  },
+  {
+    "id": "bdv-lam-lamiaceae-frutto-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è il frutto tipico delle Lamiaceae, legato allo stilo ginobasico e all'ovario che si divide in quattro logge?",
+    "suggestion": "È uno schizocarpo che si suddivide in quattro unità monosperme.",
+    "options": [
+      "Un tetrachenio, schizocarpo formato da quattro mericarpi monospermi",
+      "Una capsula setticida che si apre lungo i setti liberando molti semi",
+      "Una siliqua allungata con i semi attaccati a un replo centrale membranoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il frutto delle Lamiaceae è un tetrachenio: uno schizocarpo composto da quattro mericarpi monospermi, derivato dalla suddivisione dell'ovario in quattro logge (favorita dallo stilo ginobasico, inserito alla base dell'ovario). La formula è K(5) C(2+3) A4 o 2 G(2).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.90"
+  },
+  {
+    "id": "bdv-lam-salvia-bilancere-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Come funziona il meccanismo 'a bilancere' degli stami di Salvia (Lamiaceae)?",
+    "suggestion": "La pressione dell'insetto sulla base del filamento fa ruotare l'antera verso l'impollinatore.",
+    "options": [
+      "L'antera esplode di scatto e proietta il polline a distanza non appena l'insetto impollinatore sfiora la corolla del fiore",
+      "La pressione dell'insetto sulla base del filamento fa ruotare l'antera, depositando il polline sul suo dorso",
+      "Lo stilo si allunga spingendo il polline fuori da un tubo formato dalle antere fuse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negli stami a bilancere di Salvia la pressione esercitata dall'insetto sulla base del filamento provoca la rotazione dell'antera, che si abbassa e deposita il polline sul dorso dell'animale. È un meccanismo articolato che favorisce l'impollinazione incrociata.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.90"
+  },
+  {
+    "id": "bdv-lam-lamiaceae-scroph-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali due caratteri distinguono rapidamente le Lamiaceae dalle Scrophulariaceae, pur nell'ordine Lamiales?",
+    "suggestion": "Confronta la sezione del fusto e il tipo di frutto delle due famiglie.",
+    "options": [
+      "Fusto tetragono e tetrachenio nelle Lamiaceae, fusto cilindrico e capsula nelle Scrophulariaceae",
+      "Fusto cilindrico e capsula nelle Lamiaceae, fusto tetragono e tetrachenio nelle Scrophulariaceae",
+      "Entrambe hanno fusto tetragono e frutto a tetrachenio, e non sono distinguibili sul campo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Lamiaceae hanno fusto tetragono (a quattro angoli) e frutto a tetrachenio; le Scrophulariaceae hanno fusto pressoché cilindrico e frutto a capsula. Sono i due caratteri diagnostici più rapidi per distinguerle in campo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-orobancaceae-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale strategia ecologica è particolarmente marcata nella famiglia Orobancaceae?",
+    "suggestion": "Prelevano acqua e nutrienti da un'altra pianta tramite organi specializzati.",
+    "options": [
+      "La fissazione dell'azoto atmosferico grazie a batteri simbionti alloggiati nei noduli radicali",
+      "Il parassitismo su piante ospiti, tramite organi specializzati detti austori",
+      "La fotosintesi CAM, che permette di limitare drasticamente la perdita d'acqua in ambienti aridi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Orobancaceae è marcata la tendenza al parassitismo: la pianta preleva acqua, sali e sostanze organiche da un ospite tramite austori (es. Orobanche, priva di foglie verdi funzionali; Rhinanthus emiparassita). La famiglia deriva dallo smembramento APG delle vecchie Scrophulariaceae sensu lato.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-fill-digitalis-008",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Le Plantaginaceae come la Digitalis sono note per i glicosidi ___, composti tossici che agiscono sul muscolo cardiaco.",
+    "answers": [["cardiotonici", "cardioattivi", "cardiaci"]],
+    "suggestion": "Il termine richiama il cuore; da Digitalis si ricavano farmaci per il cuore.",
+    "explanation": "Il gruppo Scrophulariaceae-Plantaginaceae-Orobancaceae contiene glicosidi cardiotonici (cardioattivi), composti che agiscono sul muscolo cardiaco, tossici ad alte dosi: la Digitalis ne è l'esempio classico, alla base di farmaci cardiaci.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-apg-scroph-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa è successo alla vecchia famiglia Scrophulariaceae sensu lato con la classificazione APG?",
+    "suggestion": "I suoi generi sono stati ridistribuiti in più famiglie distinte su base molecolare.",
+    "options": [
+      "È stata accorpata interamente nelle Lamiaceae, perdendo ogni autonomia sistematica",
+      "È stata smembrata su base molecolare, distribuendo i generi in Plantaginaceae, Orobancaceae e altre famiglie",
+      "È stata elevata al rango di ordine a sé stante, del tutto separato dalle Lamiales e da tutte le altre Asteridi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'APG ha smembrato le Scrophulariaceae sensu lato su base molecolare: Digitalis, Veronica, Linaria sono passate alle Plantaginaceae; Euphrasia, Rhinanthus, Pedicularis alle Orobancaceae; le Scrophulariaceae sensu stricto conservano generi come Scrophularia e Verbascum.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-oleaceae-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale piano fiorale distingue le Oleaceae (es. olivo, frassino) da Lamiaceae e Gentianaceae?",
+    "suggestion": "Conta gli elementi per verticillo e gli stami: sono tetramere con due soli stami.",
+    "options": [
+      "Fiore tetramero con due soli stami (K(4) C4 A2 G(2)), a differenza delle famiglie pentamere",
+      "Fiore pentamero con cinque stami e ovario infero, come nelle Rubiaceae tropicali",
+      "Fiore del tutto privo di corolla, ridotto ai soli stami, tipico delle piante anemofile a infiorescenza ad amento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Oleaceae hanno fiore attinomorfo tetramero con due soli stami: formula K(4) C4/(4) A2 G(2). Presentano peli peltati (a scudo), foglie opposte, e frutti a bacca, drupa (olivo), samara (frassino) o capsula.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.92"
+  },
+  {
+    "id": "bdv-lam-fraxinus-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingue Fraxinus ornus (orniello) dagli altri due frassini (F. excelsior, F. angustifolia)?",
+    "suggestion": "Riguarda il momento della fioritura rispetto all'emissione delle foglie.",
+    "options": [
+      "Ha gemme nere, mentre gli altri due frassini hanno gemme grigie o brune",
+      "Ha la corteccia sempre profondamente fessurata in grosse placche marroni fin dalle prime fasi giovanili",
+      "Fiorisce dopo l'emissione delle foglie (dopo la fogliazione), non prima come gli altri due"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fraxinus ornus fiorisce dopo la fogliazione, mentre F. excelsior fiorisce prima e F. angustifolia molto prima delle foglie. F. ornus ha inoltre corteccia sempre liscia e grigia e gemme grigie (non nere come F. excelsior).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.92"
+  },
+  {
+    "id": "bdv-lam-gentianales-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere fiorale distingue l'ordine Gentianales dalle Lamiales?",
+    "suggestion": "Confronta la simmetria del fiore: bilaterale nelle Lamiales, raggiata nelle Gentianales.",
+    "options": [
+      "I Gentianales hanno fiori attinomorfi, contro la frequente zigomorfia delle Lamiales",
+      "I Gentianales hanno fiori privi di corolla, mentre le Lamiales hanno corolla bilabiata",
+      "I Gentianales hanno fiori dialipetali, mentre le Lamiales sono sempre simpetale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Gentianales hanno fiori attinomorfi (simmetria raggiata), in contrapposizione alla frequente zigomorfia delle Lamiales. Condividono foglie opposte e la presenza di alcaloidi indolici e iridoidi. Comprendono Rubiaceae e Gentianaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.92-93"
+  },
+  {
+    "id": "bdv-lam-rubiaceae-verticillo-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le foglie delle Rubiaceae sembrano disposte in verticilli pur essendo in realtà opposte?",
+    "suggestion": "Alle due vere foglie si aggiungono strutture simili a foglie, saldate tra loro.",
+    "options": [
+      "Perché le foglie ruotano di 90° a ogni nodo, dando l'illusione di più foglie per nodo",
+      "Perché alle due foglie opposte si affiancano stipole connate simili a foglie, simulando un verticillo",
+      "Perché ogni nodo produce davvero da tre a sei foglie vere e complete, disposte a raggiera tutt'attorno al fusto principale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Rubiaceae le foglie vere sono opposte, ma sono accompagnate da stipole connate (fuse) morfologicamente simili alle foglie, che creano l'illusione ottica di un verticillo. Il fusto è spesso tetragono e alato; la famiglia comprende Coffea (caffè) e Cinchona (chinina).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.92-93"
+  },
+  {
+    "id": "bdv-lam-rubiaceae-chinina-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali due prodotti di grande importanza economica derivano dalle Rubiaceae?",
+    "suggestion": "Uno è un alcaloide antimalarico, l'altro i semi di una nota bevanda.",
+    "options": [
+      "La chinina, alcaloide antimalarico, e i semi di Coffea arabica per il caffè",
+      "L'olio di oliva alimentare e la gomma naturale (caucciù) per usi industriali",
+      "I glicosidi cardiotonici della digitale e gli oli essenziali della lavanda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Rubiaceae forniscono la chinina (alcaloide antimalarico) e i semi di Coffea arabica, usati per il caffè. La famiglia ha ovario infero (carattere derivato) e frutti a schizocarpo, bacca, capsula o drupa.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.93"
+  },
+  {
+    "id": "bdv-lam-gentianaceae-015",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa il gineceo delle Gentianaceae differisce da quello delle Rubiaceae?",
+    "suggestion": "Riguarda la posizione dell'ovario rispetto agli altri verticilli fiorali.",
+    "options": [
+      "Le Gentianaceae hanno ovario infero come le Rubiaceae, senza alcuna differenza",
+      "Le Gentianaceae hanno ovario supero, mentre le Rubiaceae hanno ovario infero",
+      "Le Gentianaceae sono del tutto prive di gineceo, riproducendosi solo per via vegetativa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Gentianaceae hanno ovario supero (K(4-5) C(4-5) A4-5 G(2)) e frutto a capsula setticida; le Rubiaceae hanno ovario infero. Il genere Gentiana comprende molte specie montane a corolla blu o gialla (Gentiana lutea, di uso farmaceutico e liquoristico).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.93"
+  }
+]

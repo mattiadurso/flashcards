@@ -447,6 +447,24 @@
           "file": "Biodiversita_vegetale/sistematica-fabidi.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
           "count": 18
+        },
+        {
+          "species": "Sistematica: clado delle Malvidi (Brassicaceae, Sapindaceae/aceri)",
+          "file": "Biodiversita_vegetale/sistematica-malvidi.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 15
+        },
+        {
+          "species": "Sistematica: clado dei Lamiidi (Lamiaceae, Oleaceae, Rubiaceae...)",
+          "file": "Biodiversita_vegetale/sistematica-lamiidi.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 15
+        },
+        {
+          "species": "Sistematica: clado delle Campanulidi (Apiaceae, Asteraceae...)",
+          "file": "Biodiversita_vegetale/sistematica-campanulidi.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 18
         }
       ]
     }

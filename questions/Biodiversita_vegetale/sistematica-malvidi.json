@@ -1,0 +1,219 @@
+[
+  {
+    "id": "bdv-malv-nodo-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del seme sostiene il nodo del clado delle Malvidi?",
+    "suggestion": "Riguarda dove sono accumulate le riserve: in un tessuto separato o nell'embrione stesso.",
+    "options": [
+      "Un embrione cospicuo associato a endosperma scarso, con riserve accumulate nei cotiledoni",
+      "Un embrione minuscolo immerso in un endosperma triploide molto abbondante e ricco",
+      "Un seme del tutto privo di embrione, in cui tutte le riserve sono contenute nel solo tegumento esterno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Malvidi condividono un embrione cospicuo con endosperma scarso: le sostanze di riserva sono accumulate direttamente nei cotiledoni dell'embrione anziché in un tessuto separato. Lungo il clado ricorrono anche condizione legnosa e stomi ciclocitici.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.81"
+  },
+  {
+    "id": "bdv-malv-brassicales-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è il carattere biochimico più caratterizzante dell'ordine Brassicales?",
+    "suggestion": "È un metabolita secondario solforato, responsabile del sapore pungente di cavoli e senape.",
+    "options": [
+      "La produzione di oli eterei aromatici volatili, responsabili dei caratteristici odori delle Sapindales",
+      "La presenza di glucosinolati, metaboliti secondari solforati con funzione difensiva",
+      "L'accumulo di lattice ricco di gomme e resine nei canali laticiferi del fusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il carattere biochimico più caratterizzante dei Brassicales è la presenza di glucosinolati, metaboliti secondari solforati. Insieme alle cellule mirosiniche costituiscono un sistema difensivo. Gli oli eterei caratterizzano invece i Sapindales.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.82"
+  },
+  {
+    "id": "bdv-malv-mirosinasi-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Come funziona il sistema difensivo glucosinolati-mirosinasi nei Brassicales?",
+    "suggestion": "I due componenti restano separati finché il tessuto è integro; la loro reazione parte quando la pianta viene lesa.",
+    "options": [
+      "Glucosinolato ed enzima sono sempre a contatto e reagiscono di continuo, anche a tessuto integro, liberando in permanenza prodotti pungenti",
+      "L'enzima mirosinasi produce glucosinolati solo in risposta alla luce solare intensa e diretta",
+      "Glucosinolato ed enzima restano separati finché la masticazione dell'erbivoro li mette a contatto, liberando prodotti pungenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Finché i tessuti sono integri, glucosinolati ed enzima mirosinasi restano compartimentati (separati); la rottura meccanica dovuta alla masticazione di un erbivoro li mette in contatto, innescando l'idrolisi che libera prodotti volatili e pungenti. Da qui il sapore piccante delle Brassicaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.82"
+  },
+  {
+    "id": "bdv-malv-cruciferae-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Da cosa deriva il nome tradizionale 'Cruciferae' della famiglia Brassicaceae?",
+    "suggestion": "È un nome descrittivo legato alla disposizione dei quattro petali.",
+    "options": [
+      "Dalla disposizione a croce dei quattro petali del fiore",
+      "Dal frutto a capsula spinosa che ricorda una piccola croce di ferro",
+      "Dal genere tipo Crucifera, oggi non più riconosciuto come valido"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Cruciferae' è il nome tradizionale descrittivo (dal latino crux = croce, fero = portare) che si riferisce alla disposizione a croce dei quattro petali. 'Brassicaceae' è invece il nome moderno derivato dal genere tipo Brassica.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.82"
+  },
+  {
+    "id": "bdv-malv-brassicaceae-fiore-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica la condizione tetradinama dell'androceo nelle Brassicaceae (formula K4 C4 A2+4 G(2))?",
+    "suggestion": "Riguarda sei stami di due lunghezze diverse.",
+    "options": [
+      "Sei stami tutti della stessa lunghezza, disposti in un unico verticillo raggiato",
+      "Sei stami con quattro interni lunghi e due esterni più corti",
+      "Due soli stami fertili, accompagnati da quattro staminodi sterili ridotti"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'androceo tetradinamo delle Brassicaceae è formato da sei stami: quattro interni lunghi e due esterni più corti (notazione A 2+4). Il fiore è tetramero, con 4 sepali, 4 petali a croce (con unghia) e gineceo bicarpellare (G(2)) supero.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.83-84"
+  },
+  {
+    "id": "bdv-malv-fill-replo-006",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel frutto delle Brassicaceae, il falso setto membranoso placentare a cui restano attaccati i semi dopo la caduta delle valve è detto ___.",
+    "answers": [["replo", "repli"]],
+    "suggestion": "Resta visibile come membrana traslucida nella siliquetta di Lunaria (moneta del papa).",
+    "explanation": "Il replo è il falso setto placentare del frutto delle Brassicaceae: è 'falso' perché non deriva dalla saldatura dei margini carpellari, ma dalla connessione secondaria tra le due placente parietali. Vi restano attaccati i semi dopo la caduta delle valve.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.84"
+  },
+  {
+    "id": "bdv-malv-siliqua-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quale base si distinguono la siliqua e la siliquetta nelle Brassicaceae?",
+    "suggestion": "È una distinzione puramente dimensionale, sul rapporto tra lunghezza e larghezza del frutto.",
+    "options": [
+      "Sulla presenza o assenza del replo, presente solo nella siliqua allungata",
+      "Sul rapporto lunghezza/larghezza: la siliqua è lunga almeno tre volte la larghezza, la siliquetta meno",
+      "Sul numero di carpelli del gineceo: la siliqua è bicarpellare, mentre la siliquetta è sempre monocarpellare e priva di replo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La distinzione è puramente dimensionale: la siliqua ha lunghezza pari ad almeno tre volte la larghezza (frutto allungato, come in Brassica), la siliquetta ha lunghezza inferiore a tre volte la larghezza (breve, come nella Lunaria discoidale). Entrambe hanno il replo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.84"
+  },
+  {
+    "id": "bdv-malv-frutto-diagnostico-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la forma del frutto è il principale carattere diacritico per determinare le specie di Brassicaceae?",
+    "suggestion": "Il piano del fiore è quasi identico in tutta la famiglia: serve un altro carattere più variabile.",
+    "options": [
+      "Perché il piano fiorale è molto uniforme nella famiglia, mentre il frutto è estremamente variabile",
+      "Perché il frutto è identico in tutte le specie, e quindi funge da conferma dell'appartenenza alla famiglia",
+      "Perché il colore del fiore è l'unico carattere realmente costante e affidabile della famiglia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il piano fiorale delle Brassicaceae è estremamente uniforme, per cui offre pochi caratteri distintivi; il frutto è invece molto variabile ed è il carattere diacritico più discriminante, seguito da colore dei fiori e pelosità di fusto e foglie.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.84-85"
+  },
+  {
+    "id": "bdv-malv-brassica-oleracea-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché cavolfiore, verza, cavolo cappuccio e broccolo appartengono tutti alla stessa specie Brassica oleracea?",
+    "suggestion": "Sono varietà selezionate dall'uomo, ciascuna con un organo diverso ingrossato.",
+    "options": [
+      "Perché sono specie tra loro distinte, accomunate solo dal frutto a siliqua e non dalla selezione umana",
+      "Perché sono varietà colturali della stessa specie, ciascuna con un diverso organo ipertrofizzato",
+      "Perché sono ibridi sterili tra Brassica e generi diversi, incapaci di riprodursi per seme"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cavolfiore (var. botrytis), verza (var. sabauda), cavolo cappuccio (var. capitata), cavolini di Bruxelles (var. gemmifera) e broccolo (var. italica) sono tutte varietà colturali di Brassica oleracea, selezionate dall'uomo per l'ingrossamento (ipertrofia) di organi diversi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.85"
+  },
+  {
+    "id": "bdv-malv-peli-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale tipo di indumento (peli) è caratteristico delle Brassicaceae, ben visibile in Arabidopsis thaliana?",
+    "suggestion": "Sono tricomi ramificati a raggiera o a forma di lettera.",
+    "options": [
+      "Peli urticanti cavi che iniettano sostanze irritanti al minimo contatto",
+      "Peli assenti del tutto: la superficie è sempre perfettamente glabra e cerosa",
+      "Peli stellati (a raggiera da un punto) oppure peli a T"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'indumento delle Brassicaceae è costituito da peli stellati (tricomi ramificati a raggiera da un unico punto) oppure da peli a T (ramo unico disposto trasversalmente). Sono ben osservabili in Arabidopsis thaliana, l'esempio didattico di riferimento.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.82-83"
+  },
+  {
+    "id": "bdv-malv-sapindales-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri definiscono l'ordine Sapindales all'interno delle Malvidi?",
+    "suggestion": "Pensa a piante legnose con foglie composte, un anello nettarifero interno agli stami e oli aromatici.",
+    "options": [
+      "Erbe con foglie parallelinervie, ovario infero e totale assenza di qualsiasi disco nettarifero intrastaminale",
+      "Piante legnose con foglie imparipennate, disco intrastaminale e produzione di oli eterei",
+      "Piante acquatiche prive di fiori, con riproduzione esclusivamente vegetativa per rizoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Sapindales sono per lo più legnosi, con foglie alterne imparipennate composte, fiori spesso imperfetti, un disco intrastaminale (anello nettarifero tra androceo e gineceo) e produzione di oli eterei aromatici. Comprendono Anacardiaceae, Rutaceae, Sapindaceae, ecc.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.85"
+  },
+  {
+    "id": "bdv-malv-fill-disamara-012",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il frutto del genere Acer, costituito da due samare alate unite, è detto ___.",
+    "answers": [["disamara", "disamare"]],
+    "suggestion": "L'angolo formato dalle sue due ali è un carattere diagnostico chiave tra le specie di acero.",
+    "explanation": "La disamara è il frutto tipico degli aceri (Acer), formato da due samare (acheni alati) unite. L'angolo tra le due ali è uno dei caratteri diagnostici più utili per distinguere le specie.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.86"
+  },
+  {
+    "id": "bdv-malv-acer-disamara-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere è il più affidabile per distinguere le tre specie comuni di Acer (pseudoplatanus, platanoides, campestre)?",
+    "suggestion": "È l'angolo formato dalle ali del frutto: acuto, ampio o completamente disteso.",
+    "options": [
+      "Il solo colore delle gemme, che è sempre identico e costante nelle tre specie",
+      "L'angolo delle due ali della disamara: a V (<90°), ampio (<180°) o disteso a 180°",
+      "L'altezza dell'albero adulto, che è esattamente la stessa nelle tre specie considerate"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'angolo della disamara è il carattere di maggior peso: in A. pseudoplatanus le ali formano una V acuta (<90°), in A. platanoides un angolo ampio (<180°), in A. campestre sono allineate a 180°. La determinazione va comunque combinata con altri caratteri (lattice, gemme, ramuli).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.86"
+  },
+  {
+    "id": "bdv-malv-acer-lattice-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere, immediatamente verificabile in campo, distingue Acer platanoides e A. campestre da A. pseudoplatanus?",
+    "suggestion": "Basta recidere il picciolo e osservare se essuda un liquido lattiginoso.",
+    "options": [
+      "La presenza di lattice essudato dal picciolo reciso, assente invece in A. pseudoplatanus",
+      "La presenza di foglie a nervatura parallelinervia, esclusive di A. pseudoplatanus tra i tre aceri considerati",
+      "La totale assenza di disamara, che manca solo in A. pseudoplatanus tra le tre specie"
+    ],
+    "correctIndex": 0,
+    "explanation": "A. platanoides e A. campestre emettono lattice dal picciolo reciso, mentre A. pseudoplatanus ne è privo: è un carattere immediatamente verificabile in campo. Si combina con l'angolo della disamara, il tipo di gemme e la pubescenza dei ramuli.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.86"
+  },
+  {
+    "id": "bdv-malv-aesculus-015",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa il fiore di Aesculus hippocastanum (ippocastano) differisce da quello del genere Acer, pur nella stessa famiglia?",
+    "suggestion": "Confronta la simmetria del fiore: raggiata nell'acero, bilaterale nell'ippocastano.",
+    "options": [
+      "L'ippocastano ha fiore attinomorfo come l'acero, senza alcuna differenza di simmetria",
+      "L'ippocastano ha fiore zigomorfo con calice gamosepalo, l'acero ha fiore attinomorfo",
+      "L'ippocastano è privo di fiori e si riproduce solo per via vegetativa tramite polloni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aesculus hippocastanum ha fiore zigomorfo (simmetria bilaterale) con calice gamosepalo (formula x K(5) C5 A4+4 G(3)), diverso dal fiore attinomorfo dell'acero (*K5 C5 A5 G(2)). Ha foglie composte palmate e frutto a capsula spinosa con semi grossi e lucidi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.87"
+  }
+]

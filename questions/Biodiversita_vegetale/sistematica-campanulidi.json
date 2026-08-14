@@ -1,0 +1,264 @@
+[
+  {
+    "id": "bdv-camp-clado-001",
+    "topic": "biodiversita-vegetale",
+    "question": "All'interno di quale clado si collocano le Campanulidi, come gruppo sorella dei Lamiidi?",
+    "suggestion": "È il grande clado di Eudicotiledoni a corolla simpetala.",
+    "options": [
+      "All'interno dei Rosidi, il clado a petali liberi che comprende Fabidi e Malvidi",
+      "All'interno degli Asteridi, il clado a corolla simpetala delle Eudicotiledoni",
+      "All'interno delle Monocotiledoni, tra gli ordini a polline monocolpato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Campanulidi sono un sottoclado degli Asteridi (Eudicotiledoni a corolla simpetala), sorella dei Lamiidi. Rispetto a questi ultimi condividono simpetalia precoce, fiori piccoli ed embrione corto.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.94"
+  },
+  {
+    "id": "bdv-camp-apiaceae-ombrella-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è l'ombrella composta (pseudanzio) tipica delle Apiaceae?",
+    "suggestion": "È un'infiorescenza 'a ombrella di ombrelle' che nel complesso simula un unico fiore.",
+    "options": [
+      "Un'infiorescenza in cui da un punto si dipartono raggi, ciascuno terminante in un'ombrella secondaria",
+      "Un capolino di numerosi fiori sessili inseriti su un unico ricettacolo comune, circondato da un involucro di brattee",
+      "Un amento pendulo di fiori apetali unisessuali adattati all'impollinazione anemofila"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ombrella composta delle Apiaceae è un pseudanzio ('ombrella di ombrelle'): da un unico punto si dipartono numerosi raggi, ciascuno terminante in un'ombrella secondaria. Alla base ci sono un involucro (ombrella principale) e involucretti (ombrelle secondarie). Il capolino è invece delle Asteraceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-apiaceae-frutto-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è il frutto tipico delle Apiaceae e quale struttura tiene uniti i suoi due mericarpi?",
+    "suggestion": "È uno schizocarpo che si divide in due, ma le metà restano appese a un asse centrale.",
+    "options": [
+      "Un tetrachenio i cui quattro mericarpi restano saldati a uno stilo ginobasico persistente",
+      "Un achenio unico con pappo piumoso derivato dalla trasformazione del calice",
+      "Un diachenio i cui due mericarpi restano uniti a un sottile asse centrale detto carpoforo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il frutto delle Apiaceae è un diachenio (schizocarpo che si divide in due mericarpi monospermi); i due mericarpi restano uniti a un sottile asse centrale, il carpoforo (residuo del setto carpellare). La superficie porta coste e vitte (canali oleiferi).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-apiaceae-stilopodio-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è lo stilopodio nel fiore delle Apiaceae?",
+    "suggestion": "È un ingrossamento alla base degli stili che svolge anche una funzione ghiandolare.",
+    "options": [
+      "Un ingrossamento discoidale alla base dei due stili, che funge anche da disco nettarifero",
+      "Il peduncolo che solleva l'ovario rispetto al ricettacolo del fiore",
+      "La linguetta appiattita formata dai petali fusi nei fiori periferici e sterili dell'infiorescenza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo stilopodio è l'ingrossamento discoidale alla base dei due stili (spesso divergenti) delle Apiaceae, che funge anche da disco nettarifero. L'ovario è infero, sincarpico e bicarpellare (formula K5/0 C5 A5 G(2)).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-fill-inulina-005",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il polisaccaride di riserva del gruppo dei fruttani che sostituisce l'amido in molte Asterales è detto ___.",
+    "answers": [["inulina"]],
+    "suggestion": "Si accumula per esempio nel tubero del topinambur e nella radice della cicoria.",
+    "explanation": "L'inulina è un polisaccaride di riserva (fruttano) che sostituisce l'amido come sostanza di accumulo in molte Asterales. L'ordine è caratterizzato anche da sesquiterpeni e secoiridoidi amari.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.95-96"
+  },
+  {
+    "id": "bdv-camp-pistone-006",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa consiste il meccanismo di impollinazione secondaria 'a pistone' tipico delle Asterales?",
+    "suggestion": "Il polline viene presentato all'impollinatore sullo stilo, prima che lo stimma diventi recettivo.",
+    "options": [
+      "Lo stilo, allungandosi, spinge il polline all'esterno e lo presenta agli impollinatori prima che lo stimma sia recettivo",
+      "Le antere esplodono di scatto al minimo contatto, proiettando il polline direttamente sul corpo dell'insetto visitatore in volo",
+      "Il fiore trattiene l'insetto in una trappola finché non ha depositato il polline sullo stimma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'impollinazione a pistone (secondaria) delle Asterales il polline è depositato sull'esterno dello stilo (o su peli collettori); allungandosi, lo stilo lo spinge fuori e lo presenta agli impollinatori prima che lo stimma diventi recettivo, favorendo l'incrocio. Nelle Asteraceae agisce tramite gli stami sinandri.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.95-96"
+  },
+  {
+    "id": "bdv-camp-campanulaceae-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del gineceo hanno le Campanulaceae (formula K(5) C(5) A(5) G(2-5))?",
+    "suggestion": "La soprallineatura del simbolo G indica la posizione dell'ovario.",
+    "options": [
+      "Ovario supero con placentazione parietale e due soli carpelli liberi",
+      "Ovario infero e sincarpico, con da due a cinque carpelli fusi",
+      "Gineceo del tutto assente, con fiori funzionalmente solo maschili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Campanulaceae hanno ovario infero e sincarpico, con 2-5 carpelli (G(2-5)), corolla campanulata o tubulosa a 5 lobi e peli collettori attorno allo stilo per l'impollinazione secondaria. Il genere tipo è Campanula.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-capolino-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è organizzato il capolino delle Asteraceae?",
+    "suggestion": "Molti fiori piccoli e sessili su una base comune, protetti da un giro di brattee.",
+    "options": [
+      "Un unico grande fiore solitario, con numerosi petali liberi e molti stami disposti a spirale sul ricettacolo",
+      "Numerosi fiori sessili inseriti su un ricettacolo comune, circondati da un involucro di brattee",
+      "Due soli fiori tubulosi racchiusi in un frutto secco a guscio legnoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il capolino delle Asteraceae è un'infiorescenza contratta: numerosi fiori sessili sono inseriti su un ricettacolo comune circondato da un involucro di brattee (squame involucrali). Simula morfologicamente un unico fiore, ma è un insieme di molti fiori.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-disco-raggio-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Che differenza c'è tra i fiori del disco e i fiori del raggio in un capolino di Asteraceae?",
+    "suggestion": "Gli uni hanno corolla tubulosa attinomorfa, gli altri una linguetta appiattita zigomorfa.",
+    "options": [
+      "I fiori del disco sono centrali con corolla tubulosa attinomorfa, quelli del raggio periferici con corolla ligulata zigomorfa",
+      "I fiori del disco sono periferici e del tutto sterili, mentre quelli del raggio sono centrali e completamente privi di corolla",
+      "I fiori del disco hanno ovario supero, quelli del raggio ovario infero, ma corolla identica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei capolini delle Asteraceae i fiori del disco (centrali) hanno corolla tubulosa attinomorfa a 5 lobi; i fiori del raggio (periferici) hanno corolla ligulata zigomorfa, con i 5 petali fusi in una linguetta (ligula). In base alla loro combinazione si hanno capolini tubuliflori, liguliflori o 'a margherita'.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-fill-pappo-010",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Asteraceae il calice è spesso modificato in una corona di peli o setole persistente nel frutto, con funzione di disseminazione, detta ___.",
+    "answers": [["pappo", "pappi"]],
+    "suggestion": "È il 'paracadute' piumoso del soffione (Taraxacum) che porta via l'achenio col vento.",
+    "explanation": "Il pappo è il calice delle Asteraceae modificato in una corona di peli, squame o reste, persistente nel frutto (achenio), che ne favorisce la disseminazione anemocora, come nel soffione del tarassaco.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-sinandri-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica la condizione 'sinandra' degli stami delle Asteraceae?",
+    "suggestion": "Riguarda le antere, fuse a formare un tubo attorno allo stilo.",
+    "options": [
+      "Le antere sono fuse lateralmente a formare un tubo che circonda lo stilo",
+      "I filamenti sono tutti liberi e gli stami disposti in due verticilli distinti",
+      "Gli stami sono del tutto assenti, sostituiti dal pappo piumoso del frutto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negli stami sinandri delle Asteraceae le antere sono fuse lateralmente a formare un tubo che circonda lo stilo; l'allungamento di quest'ultimo spinge il polline fuori dal tubo antereo, realizzando l'impollinazione a pistone. Gli stami sono cinque, epipetali.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-liguliflori-012",
+    "topic": "biodiversita-vegetale",
+    "question": "A quale tipo di capolino appartengono la cicoria e il tarassaco (dente di leone)?",
+    "suggestion": "I loro capolini hanno tutti fiori a linguetta, senza fiori tubulosi centrali.",
+    "options": [
+      "Capolini tubuliflori, con tutti i fiori a corolla tubulosa come nel carciofo",
+      "Capolini liguliflori, con tutti i fiori a corolla ligulata",
+      "Capolini 'a margherita', con fiori del disco tubulosi e fiori del raggio ligulati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cichorium intybus (cicoria) e Taraxacum officinale (tarassaco) hanno capolini liguliflori, formati da soli fiori ligulati. I tubuliflori hanno tutti fiori tubulosi (es. carciofo, cardi); i capolini 'a margherita' (es. Bellis) combinano disco tubuloso e raggio ligulato.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-dipsacales-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri distinguono le linee evolutive dell'ordine Dipsacales?",
+    "suggestion": "Pensa a foglie opposte saldate alla base, calice che resta sul frutto e certi glucosidi amari.",
+    "options": [
+      "Foglie alterne e caduche, calice anch'esso caduco all'apertura del fiore e totale assenza di composti amari",
+      "Foglie opposte spesso connate alla base, calice persistente nel frutto e presenza di secoiridoidi",
+      "Foglie ridotte a squame, fiori privi di calice e riproduzione esclusivamente anemofila"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Dipsacales condividono foglie opposte spesso connate alla base, calice persistente nel frutto e presenza di secoiridoidi. Comprendono le Caprifoliaceae (con Dipsacoideae e Valerianoideae) e le Adoxaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.97"
+  },
+  {
+    "id": "bdv-camp-caprifoliaceae-apg-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è cambiata la famiglia Caprifoliaceae con la classificazione APG III?",
+    "suggestion": "Ha inglobato due vecchie famiglie e ha perso due generi passati alle Adoxaceae.",
+    "options": [
+      "È stata soppressa del tutto, con tutti i suoi generi trasferiti nelle Asteraceae",
+      "Ha inglobato Dipsacaceae e Valerianaceae, mentre Sambucus e Viburnum sono passati alle Adoxaceae",
+      "È rimasta del tutto invariata, senza alcuna modifica rispetto alla vecchia classificazione tradizionale pre-molecolare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con APG III le Caprifoliaceae hanno inglobato le vecchie Dipsacaceae (Knautia, Scabiosa, Dipsacus) e Valerianaceae (Valeriana, Centranthus), articolandosi in Valerianoideae, Dipsacoideae e Caprifolioideae; i generi Sambucus e Viburnum sono invece stati trasferiti nelle Adoxaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.97"
+  },
+  {
+    "id": "bdv-camp-valeriana-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Per quale impiego è nota soprattutto la radice di Valeriana officinalis (Valerianoideae)?",
+    "suggestion": "Le si attribuiscono proprietà che agiscono sul sistema nervoso.",
+    "options": [
+      "Per le proprietà sedative e calmanti attribuite alla radice",
+      "Per l'estrazione di coloranti tintori dai suoi fiori azzurri",
+      "Per la produzione di olio alimentare dai suoi semi oleosi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La radice di Valeriana officinalis (Valerianoideae) è impiegata soprattutto in ambito officinale per le proprietà sedative e calmanti. Il frutto del gruppo è una nucula con pappo; Valerianella locusta (songino) si consuma invece in insalata.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.98"
+  },
+  {
+    "id": "bdv-camp-dipsacoideae-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura accessoria avvolge singolarmente ciascun fiore nel capolino delle Dipsacoideae (es. Knautia, Scabiosa)?",
+    "suggestion": "È un involucro proprio del singolo fiore, distinto dall'involucro generale del capolino.",
+    "options": [
+      "Il carpoforo, un sottile asse centrale residuo del setto che tiene uniti i due mericarpi del frutto",
+      "L'epicalice (involucretto), struttura che avvolge il singolo fiore oltre al vero calice",
+      "Lo stilopodio, un disco nettarifero posto alla base degli stili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Dipsacoideae ciascun fiore del capolino è avvolto da un epicalice (involucretto), distinto dall'involucro generale del capolino e dal vero calice (a reste setose persistenti). In Knautia i fiori hanno 4 lobi corollini, in Scabiosa 5.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.98"
+  },
+  {
+    "id": "bdv-camp-adoxaceae-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali generi comprende oggi la famiglia Adoxaceae e con quale tipo di frutto?",
+    "suggestion": "Due generi legnosi un tempo nelle Caprifoliaceae, con frutto carnoso.",
+    "options": [
+      "Sambucus e Viburnum, piante legnose con frutto a drupa",
+      "Valeriana e Centranthus, erbe con frutto a nucula e pappo",
+      "Campanula e Phyteuma, erbe con frutto a capsula e ovario infero"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Adoxaceae comprendono Sambucus (sambuco) e Viburnum, piante legnose a foglie opposte trasferite qui da APG III, con fiori attinomorfi gamopetali, ovario infero e frutto a drupa. In Viburnum opulus i fiori periferici sono sterili e vessillari.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.99"
+  },
+  {
+    "id": "bdv-camp-proterandria-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Come la proterandria (protandria) delle Apiaceae riduce l'autoimpollinazione?",
+    "suggestion": "Gli organi maschili e femminili dello stesso fiore maturano in momenti diversi.",
+    "options": [
+      "Facendo maturare gli organi maschili prima di quelli femminili, così che il polline non feconda lo stesso fiore",
+      "Rendendo i fiori periferici del capolino sterili e vistosi per attirare più impollinatori",
+      "Fondendo le antere in un tubo compatto attorno allo stilo, per trattenere il polline fino alla piena recettività dello stimma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella proterandria (protandria) delle Apiaceae gli organi maschili maturano prima di quelli femminili dello stesso fiore: quando il polline è disponibile lo stimma non è ancora recettivo, riducendo l'autoimpollinazione e favorendo l'incrocio tra fiori diversi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.95"
+  }
+]
