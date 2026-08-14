@@ -6,7 +6,7 @@
     "suggestion": "Una riconosce a quale specie appartiene un individuo; l'altra stabilisce dove quella specie si colloca nella gerarchia dei viventi.",
     "options": [
       "L'identificazione riconosce la specie di appartenenza, la classificazione la inquadra nelle categorie gerarchiche",
-      "L'identificazione assegna il nome scientifico latino, mentre la classificazione si limita a descrivere i caratteri morfologici osservabili di ciascun individuo",
+      "L'identificazione assegna il nome scientifico latino, mentre la classificazione si limita a descrivere",
       "L'identificazione riguarda soltanto i caratteri riproduttivi della pianta, mentre la classificazione prende in esame unicamente quelli vegetativi"
     ],
     "correctIndex": 0,
@@ -20,7 +20,7 @@
     "question": "Perché il criterio della sola specie morfologica può risultare fuorviante di fronte a Euphorbia horrida ed Echinocactus grusonii?",
     "suggestion": "Due piante di famiglie diverse hanno assunto lo stesso aspetto succulento adattandosi allo stesso tipo di ambiente.",
     "options": [
-      "Perché appartengono alla stessa famiglia ma sono state descritte con nomi diversi, generando una falsa impressione di distanza tassonomica",
+      "Perché appartengono alla stessa famiglia ma sono state descritte con nomi diversi",
       "Perché la loro somiglianza deriva da convergenza in ambienti aridi, pur non essendo strettamente imparentate",
       "Perché una stessa pianta produce foglie di forma diversa a seconda della loro posizione sul fusto, come accade nell'edera"
     ],
@@ -35,7 +35,7 @@
     "question": "Su quale criterio si fonda il concetto di specie biologica proposto da Mayr?",
     "suggestion": "Non guarda alla forma degli individui, ma alla possibilità che due popolazioni scambino geni.",
     "options": [
-      "Sulla somiglianza fenotipica complessiva osservabile tra gli individui di una popolazione naturale",
+      "Sulla somiglianza fenotipica complessiva",
       "Sulla condivisione della medesima nicchia adattativa e della stessa ecologia tra gli individui",
       "Sull'isolamento riproduttivo tra popolazioni diverse"
     ],
@@ -94,7 +94,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "La formazione di semi geneticamente identici alla pianta madre, senza fusione di gameti, è detta ___.",
-    "answers": [["apomissia", "apomissi"]],
+    "answers": [
+      [
+        "apomissia",
+        "apomissi"
+      ]
+    ],
     "suggestion": "È un tipo di riproduzione agamica che dà semi cloni della madre.",
     "explanation": "L'apomissia (in senso stretto) è la formazione di semi senza fecondazione, geneticamente identici alla pianta madre; rientra fra i fenomeni di riproduzione agamica insieme all'autogamia.",
     "difficulty": "medium",
@@ -195,7 +200,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "In cladistica, uno stato di carattere derivato e condiviso da più taxa, utile a definirne la parentela, è detto ___.",
-    "answers": [["sinapomorfia", "sinapomorfie"]],
+    "answers": [
+      [
+        "sinapomorfia",
+        "sinapomorfie"
+      ]
+    ],
     "suggestion": "È l'unione di 'condiviso' (syn-) e 'derivato' (apomorfo): non basta che il carattere sia nuovo, deve essere anche comune.",
     "explanation": "La sinapomorfia è uno stato apomorfo (derivato) condiviso da più taxa; è ciò che permette di raggrupparli in un clade. Un carattere primitivo condiviso è invece una simplesiomorfia.",
     "difficulty": "hard",
@@ -236,7 +246,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Il campione fisico permanente designato dall'autore come riferimento ufficiale a cui il nome di una nuova specie resta ancorato è detto ___.",
-    "answers": [["olotipo", "olotipi"]],
+    "answers": [
+      [
+        "olotipo",
+        "olotipi"
+      ]
+    ],
     "suggestion": "È il 'tipo nomenclaturale' conservato in erbario; un suo duplicato si chiama isotipo.",
     "explanation": "L'olotipo è l'esemplare tipo, il riferimento fisico permanente cui il nome scientifico è ufficialmente legato secondo il Codice di Nomenclatura Botanica; un duplicato dell'olotipo è l'isotipo.",
     "difficulty": "medium",

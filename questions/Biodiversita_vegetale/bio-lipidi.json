@@ -5,11 +5,11 @@
     "question": "Perché gli acidi grassi hanno scarsa affinità con l'acqua?",
     "suggestion": "Pensa alla loro lunga catena di carboni priva di cariche.",
     "options": [
-      "Perché sono composti apolari con una lunga catena alifatica priva di cariche",
+      "Perché sono costituiti da zuccheri semplici osmoticamente attivi",
       "Perché sono molecole fortemente polari che respingono le cariche dell'acqua disciolte nell'ambiente acquoso circostante",
-      "Perché sono costituiti da zuccheri semplici osmoticamente attivi"
+      "Perché sono composti apolari con una lunga catena alifatica priva di cariche"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Gli acidi grassi sono composti apolari con una lunga catena alifatica (es. acido palmitico, C16), priva di netta separazione di cariche: da qui la scarsa affinità con l'acqua. Sono l'unità costitutiva della maggior parte dei lipidi.",
     "difficulty": "easy",
     "source": "Biologia veg.pdf p.6"
@@ -20,11 +20,11 @@
     "question": "Come è costituito un trigliceride?",
     "suggestion": "Una molecola di alcol a tre gruppi ossidrilici legata a tre catene di acidi grassi.",
     "options": [
-      "Da una molecola di glicerolo esterificata da tre acidi grassi tramite legami estere",
+      "Da tre unità di glucosio unite da legami glicosidici α 1→4",
       "Da tre molecole di glicerolo legate a un unico acido grasso tramite legami peptidici",
-      "Da tre unità di glucosio unite da legami glicosidici α 1→4"
+      "Da una molecola di glicerolo esterificata da tre acidi grassi tramite legami estere"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Il trigliceride (triacilglicerolo) è formato da una molecola di glicerolo (alcol con tre ossidrili) esterificata da tre acidi grassi: ogni ossidrile del glicerolo si lega a un gruppo carbossilico tramite un legame estere, con eliminazione di acqua.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.6"
@@ -35,11 +35,11 @@
     "question": "Perché i grassi saturi sono solidi a temperatura ambiente mentre gli insaturi sono liquidi?",
     "suggestion": "I doppi legami introducono una piegatura che ostacola l'impaccamento delle catene.",
     "options": [
-      "Perché i saturi hanno doppi legami che li piegano, impedendo l'impaccamento compatto e impedendo qualsiasi impaccamento compatto",
-      "Perché i saturi, privi di doppi legami, si impaccano in modo compatto; gli insaturi, piegati dai doppi legami, no",
-      "Perché i saturi contengono più acqua legata, che li mantiene allo stato solido"
+      "Perché i saturi hanno molti doppi legami che li piegano, impedendo del tutto un impaccamento compatto",
+      "Perché i saturi contengono più acqua legata, che li mantiene allo stato solido",
+      "Perché i saturi, privi di doppi legami, si impaccano in modo compatto; gli insaturi, piegati dai doppi legami, no"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Gli acidi grassi saturi (senza doppi legami) hanno catene diritte che si impaccano compattamente, dando lo stato solido (es. burro); gli insaturi, piegati dai doppi legami, non si impaccano bene e restano liquidi (es. oli). La temperatura di fusione dipende dal grado di saturazione.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.6"
@@ -82,7 +82,7 @@
     "options": [
       "Da cutina e cere, depositate in lamelle che impregnano la parete esterna delle cellule tegumentali",
       "Da cellulosa e pectine, che formano la matrice della parete cellulare interna",
-      "Da suberina e lignina, tipiche esclusivamente dei tessuti a struttura secondaria e delle radici a struttura secondaria legnosa"
+      "Da suberina e lignina, tipiche esclusivamente delle radici e dei tessuti a struttura secondaria legnosa"
     ],
     "correctIndex": 0,
     "explanation": "La cuticola è costituita da cutina e cere depositate in lamelle sovrapposte che impregnano la parete esterna delle cellule tegumentali, con funzione impermeabilizzante. Un ulteriore strato ceroso soprastante è la pruina (cere epicuticolari).",
@@ -127,7 +127,7 @@
     "suggestion": "Nel cloroplasto si formano facilmente specie reattive dell'ossigeno da neutralizzare.",
     "options": [
       "Una funzione antiossidante, contro le specie reattive dell'ossigeno (ROS) prodotte nel cloroplasto",
-      "Una funzione strutturale, formando le microfibrille della parete cellulare portanti che compongono la parete cellulare",
+      "Una funzione strutturale, formando le microfibrille di cellulosa portanti della parete cellulare",
       "Una funzione osmotica, regolando il potenziale idrico durante la siccità"
     ],
     "correctIndex": 0,

@@ -7,7 +7,7 @@
     "options": [
       "Prima il cloroplasto fotosintetico, poi il mitocondrio aerobio e infine, per ultime, le endomembrane interne",
       "Prima le endomembrane, poi il mitocondrio e infine il cloroplasto",
-      "Prima il mitocondrio, poi il cloroplasto e infine il nucleo, formatosi dalla fusione dei due organuli inglobati"
+      "Prima il mitocondrio, poi il cloroplasto e infine"
     ],
     "correctIndex": 1,
     "explanation": "La teoria prevede tre eventi: le endomembrane (reticolo endoplasmatico e involucro nucleare) da invaginazioni della membrana; poi l'inglobamento di un batterio aerobio (mitocondrio); infine, in una cellula già dotata di mitocondrio, l'inglobamento di un batterio fotosintetico (cloroplasto).",
@@ -21,7 +21,7 @@
     "suggestion": "Queste due caratteristiche sono la 'firma' della loro origine da organismi indipendenti inglobati.",
     "options": [
       "Perché derivano da procarioti inglobati per endosimbiosi, di cui hanno mantenuto genoma e membrana",
-      "Perché sono organuli formatisi per ripiegamento e distacco di porzioni della membrana nucleare della cellula ospite",
+      "Perché sono organuli formatisi per ripiegamento e distacco di porzioni della membrana",
       "Perché il loro DNA è una copia recente trasferita dal nucleo allo scopo di proteggerlo dalle mutazioni cellulari"
     ],
     "correctIndex": 0,
@@ -35,7 +35,7 @@
     "question": "Che cosa distingue l'oogamia dall'isogamia?",
     "suggestion": "Guarda se i due gameti sono uguali o profondamente diversi per dimensioni e mobilità, e dove avviene la fecondazione.",
     "options": [
-      "Nell'oogamia i gameti sono di identica morfologia e si uniscono liberamente in acqua, mentre nell'isogamia sono di dimensioni diverse",
+      "Nell'oogamia i gameti sono di identica morfologia e si uniscono liberamente in acqua",
       "Nell'oogamia il gamete maschile è piccolo e mobile, quello femminile grande e immobile, con fecondazione interna",
       "Nell'oogamia entrambi i gameti sono grandi e immobili e la loro fecondazione avviene sempre all'esterno dell'organismo"
     ],
@@ -49,7 +49,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Nella fecondazione, la fusione dei citoplasmi dei due gameti è detta plasmogamia, mentre la successiva fusione dei nuclei è detta ___.",
-    "answers": [["cariogamia"]],
+    "answers": [
+      [
+        "cariogamia"
+      ]
+    ],
     "suggestion": "Il termine unisce 'nucleo' (cario-) e 'unione' (-gamia).",
     "explanation": "La formazione dello zigote avviene in due fasi: plasmogamia (fusione dei citoplasmi) e cariogamia (fusione dei nuclei), da cui deriva la cellula diploide.",
     "difficulty": "medium",
@@ -61,7 +65,7 @@
     "question": "Che cosa caratterizza il ciclo metagenetico aplonte (a meiosi zigotica)?",
     "suggestion": "L'individuo adulto è aploide; l'unica cellula diploide dell'intero ciclo subisce meiosi subito.",
     "options": [
-      "L'individuo adulto è diploide e produce direttamente i propri gameti per meiosi, senza fase aploide sviluppata",
+      "L'individuo adulto è diploide e produce direttamente i propri gameti per meiosi",
       "Sporofito e gametofito sono entrambi individui pienamente sviluppati che si alternano regolarmente tra loro",
       "L'individuo adulto è aploide e lo zigote, unica cellula diploide, va subito incontro a meiosi"
     ],
@@ -76,7 +80,7 @@
     "question": "Perché le alghe sono considerate un gruppo artificiale e non monofiletico?",
     "suggestion": "Sono accomunate da caratteristiche funzionali ed ecologiche, ma provengono da linee evolutive distinte.",
     "options": [
-      "Perché discendono tutte da un unico antenato comune esclusivo, che però non è condiviso con le piante terrestri",
+      "Perché discendono tutte da un unico antenato comune esclusivo",
       "Perché riuniscono, per somiglianza funzionale, eucarioti fotosintetici di supergruppi evolutivi diversi",
       "Perché sono in realtà tutte prive di veri cloroplasti e quindi incapaci di una fotosintesi ossigenica autonoma"
     ],
@@ -92,7 +96,7 @@
     "suggestion": "È una sola grande cellula: pensa a quanti nuclei contiene e se ci sono setti che la suddividono.",
     "options": [
       "Una singola cellula grande e multinucleata, priva di setti interni",
-      "Un filamento di più cellule uninucleate, ciascuna separata dall'altra da un netto setto trasversale",
+      "Un filamento di più cellule uninucleate",
       "Una colonia globosa di cellule flagellate, tutte racchiuse insieme in un'unica massa gelatinosa"
     ],
     "correctIndex": 0,
@@ -122,7 +126,7 @@
     "suggestion": "Collega i loro pigmenti accessori idrosolubili alle lunghezze d'onda che riescono a penetrare più in profondità nell'acqua.",
     "options": [
       "Perché le ficobiline catturano le lunghezze d'onda blu-verdi che penetrano più a fondo, dove il rosso è ormai assente",
-      "Perché possiedono molta più clorofilla a delle alghe verdi e assorbono così meglio la luce rossa che resta in superficie",
+      "Perché possiedono molta più clorofilla a delle alghe verdi e assorbono così meglio la luce rossa che resta",
       "Perché sono del tutto prive di pigmenti fotosintetici e sfruttano un metabolismo chemioautotrofo indipendente dalla luce"
     ],
     "correctIndex": 0,
@@ -136,7 +140,7 @@
     "question": "Perché il fitoplancton è considerato la base della catena alimentare acquatica?",
     "suggestion": "Sono produttori primari in superficie: pensa a chi si nutre direttamente di loro.",
     "options": [
-      "Perché decompone la sostanza organica morta sul fondale, liberando i nutrienti minerali riutilizzabili dagli altri organismi",
+      "Perché decompone la sostanza organica morta sul fondale",
       "Perché è formato da alghe autotrofe sospese in superficie che, come produttori primari, nutrono lo zooplancton",
       "Perché filtra continuamente l'acqua trattenendo i nutrienti in eccesso e prevenendo così i fenomeni di eutrofizzazione"
     ],
@@ -151,7 +155,7 @@
     "question": "Quale caratteristica nutrizionale contraddistingue le Euglenophyta?",
     "suggestion": "Non sono rigidamente autotrofe né eterotrofe: pensa a un metabolismo che combina entrambe le strategie.",
     "options": [
-      "Sono organismi esclusivamente eterotrofi, del tutto privi di plastidi e incapaci di qualsiasi fotosintesi",
+      "Sono organismi esclusivamente eterotrofi",
       "Sono chemioautotrofe, ossidando composti inorganici del substrato per ricavarne l'energia necessaria",
       "Sono mixotrofe, capaci di nutrirsi sia per fotosintesi sia assumendo sostanza organica"
     ],
@@ -180,7 +184,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Il pigmento accessorio bruno-giallo che, insieme alla clorofilla c, conferisce il colore caratteristico ad alghe brune e diatomee è detto ___.",
-    "answers": [["fucoxantina"]],
+    "answers": [
+      [
+        "fucoxantina"
+      ]
+    ],
     "suggestion": "È una xantofilla tipica degli Stramenopili; il suo nome richiama le alghe brune (Fucus).",
     "explanation": "La fucoxantina è la xantofilla che, con clorofilla a e c, caratterizza gli Stramenopili (diatomee e alghe brune), mascherando il verde della clorofilla e dando la colorazione bruno-dorata.",
     "difficulty": "medium",

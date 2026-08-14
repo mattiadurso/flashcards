@@ -22,7 +22,7 @@
     "options": [
       "È formato quasi esclusivamente da tracheidi uniformi, senza elementi dei vasi né fibre specializzate",
       "È costituito da più tipi cellulari differenziati, tra cui vasi conduttori, fibre e parenchima",
-      "È del tutto privo di lignina e resta rigido soltanto grazie alla pressione di turgore delle cellule vive"
+      "È del tutto privo di lignina e resta rigido soltanto grazie alla pressione di"
     ],
     "correctIndex": 1,
     "explanation": "Il legno eteroxilo delle angiosperme è costituito da più tipi cellulari differenziati (vasi conduttori, fibre, parenchima), mentre il legno omoxilo delle conifere è formato quasi esclusivamente da tracheidi. Le angiosperme hanno inoltre un floema con tubi cribrosi.",
@@ -35,7 +35,7 @@
     "question": "Quale struttura, presente nell'ovulo angiospermico ma assente in quello gimnospermico, ne rappresenta la novità evolutiva chiave?",
     "suggestion": "È la parete che racchiude nucella e tegumenti e prosegue in stilo e ovario.",
     "options": [
-      "Il micropilo, la piccola apertura del tegumento attraverso cui penetra il tubetto pollinico nell'ovulo",
+      "Il micropilo, la piccola apertura del tegumento dell'ovulo",
       "La nucella, il tessuto sporofitico che racchiude il megasporocito sede della meiosi femminile",
       "La parete ovarica derivata dal carpello, che racchiude l'ovulo e prosegue in stilo e ovario"
     ],
@@ -64,7 +64,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "La parete esterna del granulo pollinico, composta di sporopollenina e responsabile della sua elevata conservabilità, è detta ___.",
-    "answers": [["esina"]],
+    "answers": [
+      [
+        "esina"
+      ]
+    ],
     "suggestion": "È lo strato esterno resistente; quello interno di cellulosa e pectine è l'intina.",
     "explanation": "L'esina è la parete esterna del polline, fatta di sporopollenina, che ne garantisce l'eccezionale resistenza e conservabilità (utile anche in palinologia). La parete interna, di cellulosa e pectine, è l'intina.",
     "difficulty": "medium",
@@ -91,7 +95,7 @@
     "question": "Perché la doppia fecondazione è considerata un carattere distintivo delle angiosperme?",
     "suggestion": "Nessun altro gruppo produce contemporaneamente due prodotti da due fusioni distinte.",
     "options": [
-      "Perché due cellule spermatiche fecondano due oosfere distinte, generando sempre due embrioni gemelli",
+      "Perché due cellule spermatiche fecondano due oosfere distinte",
       "Perché il tubetto pollinico feconda l'oosfera e poi l'endosperma primario preesistente già aploide",
       "Perché una spermatica feconda l'oosfera (zigote 2n) e l'altra i nuclei polari (endosperma 3n)"
     ],
@@ -105,7 +109,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Nelle angiosperme il tessuto di riserva triploide che nutre l'embrione, formato dopo la doppia fecondazione, è detto ___.",
-    "answers": [["endosperma", "endosperma secondario"]],
+    "answers": [
+      [
+        "endosperma",
+        "endosperma secondario"
+      ]
+    ],
     "suggestion": "Deriva dalla fusione di una cellula spermatica con i due nuclei polari; è triploide (3n).",
     "explanation": "L'endosperma (secondario) è il tessuto nutritivo triploide che si sviluppa dal nucleo primario dell'endosperma dopo la doppia fecondazione. È distinto dall'endosperma primario aploide delle gimnosperme.",
     "difficulty": "medium",
@@ -119,7 +128,7 @@
     "options": [
       "I tegumenti nell'involucro del seme, le pareti dell'ovario nel frutto",
       "I tegumenti nell'endosperma nutritivo, le pareti dell'ovario nell'embrione in crescita",
-      "I tegumenti nel frutto carnoso, le pareti dell'ovario nel tegumento seminale protettivo"
+      "I tegumenti nel frutto carnoso, le pareti dell'ovario"
     ],
     "correctIndex": 0,
     "explanation": "Dopo la doppia fecondazione: il nucleo primario dà l'endosperma, lo zigote l'embrione, i tegumenti dell'ovulo l'involucro del seme (tegumento seminale) e le pareti dell'ovario il frutto. Sono i quattro eventi di sviluppo tipici delle angiosperme.",
@@ -132,7 +141,7 @@
     "question": "Che cosa indica la placentazione di tipo assiale in un ovario?",
     "suggestion": "Riguarda dove si inseriscono gli ovuli rispetto ai setti e all'asse centrale dell'ovario.",
     "options": [
-      "Gli ovuli sono inseriti sulla parete esterna dell'ovario, senza alcun asse o setto centrale",
+      "Gli ovuli sono inseriti sulla parete esterna dell'ovario",
       "Gli ovuli sono inseriti su un asse centrale che collega i setti dell'ovario",
       "Gli ovuli sono inseriti su una colonna centrale non collegata alle pareti dell'ovario"
     ],
@@ -251,7 +260,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "La dispersione dei semi a opera degli animali, come nei frutti uncinati di Arctium lappa o nelle bacche ingerite dagli uccelli, è detta ___.",
-    "answers": [["zoocoria"]],
+    "answers": [
+      [
+        "zoocoria"
+      ]
+    ],
     "suggestion": "Il termine unisce 'animale' (zoo-) alla dispersione; comprende epizoocoria ed endozoocoria.",
     "explanation": "La zoocoria è la dispersione dei semi a opera degli animali; comprende l'epizoocoria (trasporto esterno, come nei frutti uncinati), l'endozoocoria (ingestione), la mirmecocoria (formiche), l'ornitocoria (uccelli) e altre forme.",
     "difficulty": "medium",

@@ -21,7 +21,7 @@
     "suggestion": "Quando la cellula si rigonfia, può allungarsi solo in lunghezza, inarcandosi.",
     "options": [
       "Le microfibrille radiali fanno rigonfiare la cellula uniformemente, chiudendo il poro",
-      "Le microfibrille lignificano la parete impedendo qualsiasi movimento della cellula di guardia di guardia che delimitano lo stoma fogliare",
+      "Le microfibrille lignificano la parete e bloccano ogni movimento delle cellule di guardia dello stoma",
       "Le microfibrille radiali fanno sì che la cellula rigonfia si allunghi in lunghezza e si inarchi, aprendo il poro"
     ],
     "correctIndex": 2,
@@ -125,7 +125,7 @@
     "question": "Attraverso quali strutture avviene la guttazione (emissione di gocce d'acqua liquida dalle foglie)?",
     "suggestion": "Aperture ai margini della foglia collegate direttamente allo xilema, diverse dagli stomi.",
     "options": [
-      "Attraverso gli stomi, per traspirazione di vapore acqueo sotto forma di solo vapore acqueo invisibile",
+      "Attraverso gli stomi, che disperdono l'acqua sotto forma di solo vapore acqueo invisibile",
       "Attraverso gli idatodi, aperture collegate al sistema xilematico ai margini delle foglie",
       "Attraverso le lenticelle del periderma del fusto"
     ],
@@ -172,7 +172,7 @@
     "options": [
       "Le foglie adulte sono pozzi; i meristemi e i frutti sono sorgenti",
       "Le foglie adulte sono sorgenti; meristemi, radici, frutti e semi in sviluppo sono pozzi",
-      "Sorgenti e pozzi coincidono sempre negli stessi organi della pianta durante l'intera vita della pianta"
+      "Sorgenti e pozzi coincidono sempre negli stessi organi per l'intera durata della vita della pianta"
     ],
     "correctIndex": 1,
     "explanation": "Le sorgenti (sources) producono più fotosintati di quanti ne consumino: le foglie adulte e gli organi di riserva in esportazione (semi in germinazione). I pozzi (sinks) consumano o accumulano: meristemi, radici, fusti, foglie immature e organi di riserva in accumulo (tuberi, frutti, semi in sviluppo).",

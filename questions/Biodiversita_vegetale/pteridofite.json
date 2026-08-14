@@ -7,7 +7,7 @@
     "options": [
       "La deposizione di lignina nelle pareti cellulari, che le irrigidisce",
       "La comparsa di stomi ad apertura fissa distribuiti su tutta la superficie dell'epidermide del fusto",
-      "La produzione di spore resistenti rivestite di sporopollenina, capaci di tollerare lunghi periodi di aridità"
+      "La produzione di spore resistenti"
     ],
     "correctIndex": 0,
     "explanation": "Tra i cinque adattamenti delle tracheofite, il sostegno meccanico necessario alla crescita in altezza è fornito dalla lignina, polimero che si deposita nelle pareti cellulari irrigidendole. Gli altri adattamenti sono vasi conduttori, meristemi/ramificazione, apparato radicale e spore/seme resistenti.",
@@ -20,7 +20,7 @@
     "question": "Perché la presenza degli elementi dei vasi (trachee) in Angiosperme e Gnetofite è considerata un caso di convergenza evolutiva?",
     "suggestion": "Le trachee compaiono in due linee non direttamente imparentate: la somiglianza non deriva da un antenato comune che già le possedeva.",
     "options": [
-      "Perché le trachee sono in realtà presenti fin dall'origine in tutte le tracheofite, comprese le pteridofite più antiche",
+      "Perché le trachee sono in realtà presenti fin dall'origine in tutte le tracheofite",
       "Perché sono comparse in modo indipendente in due linee non imparentate, sotto pressioni selettive analoghe",
       "Perché le trachee derivano dai tracheidi soltanto nelle Gnetofite, mentre nelle Angiosperme si formano da altre cellule"
     ],
@@ -35,7 +35,7 @@
     "question": "Quali caratteristiche presentano i tracheidi, gli elementi conduttori più antichi delle tracheofite?",
     "suggestion": "Sono cellule specializzate nel trasporto dell'acqua: pensa se sono vive o morte a maturità e come passa l'acqua tra l'una e l'altra.",
     "options": [
-      "Cellule vive a maturità, con pareti sottili prive di lignina, deputate al trasporto della linfa elaborata verso le radici",
+      "Cellule vive a maturità, con pareti sottili prive di lignina",
       "Cellule vive e ricche di citoplasma che conducono verso il basso i prodotti zuccherini della fotosintesi fogliare",
       "Cellule morte a maturità, allungate e lignificate, con punteggiature per il passaggio dell'acqua"
     ],
@@ -51,7 +51,7 @@
     "suggestion": "Una è un cilindro pieno senza midollo, l'altra è organizzata in fasci distinti.",
     "options": [
       "La protostele è priva di midollo centrale, l'eustele è organizzata in fasci distinti (Angiosperme e Gimnosperme)",
-      "La protostele è il tipo di stele più evoluto e caratterizza le Angiosperme, l'eustele è tipica delle pteridofite estinte più antiche",
+      "La protostele è il tipo di stele più evoluto e caratterizza le Angiosperme",
       "La protostele possiede un ampio midollo centrale ben sviluppato, mentre l'eustele ne è del tutto priva e resta piena"
     ],
     "correctIndex": 0,
@@ -65,7 +65,7 @@
     "question": "Secondo la teoria telomica, che cosa distingue un microfillo da un megafillo?",
     "suggestion": "Uno è una piccola emergenza con un solo fascio conduttore, l'altro ha un sistema di nervature ramificate.",
     "options": [
-      "Il microfillo ha nervature ramificate ed è tipico delle felci, il megafillo ha un unico fascio ed è tipico dei licopodi arborei",
+      "Il microfillo ha nervature ramificate ed è tipico delle felci",
       "Il microfillo ha un solo fascio ed è un'enazione laterale (licopodi), il megafillo ha nervature ramificate",
       "Microfillo e megafillo differiscono soltanto per le dimensioni della lamina, non per il numero e la disposizione dei fasci"
     ],
@@ -79,7 +79,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Nelle pteridofite il gametofito, struttura ridotta e a vita breve, è detto anche ___.",
-    "answers": [["protallo", "protalli"]],
+    "answers": [
+      [
+        "protallo",
+        "protalli"
+      ]
+    ],
     "suggestion": "È la piccola laminetta verde da cui, dopo la fecondazione, si sviluppa lo sporofito.",
     "explanation": "Il protallo è il gametofito delle pteridofite: struttura ridotta e a vita breve, spesso indipendente e fotosintetizzante (laminare), talora tuberiforme e simbionte con funghi, o endosporico nelle specie eterosporee.",
     "difficulty": "medium",
@@ -93,7 +98,7 @@
     "options": [
       "Il gametofito aploide, esattamente come avviene nel ciclo vitale delle briofite e degli altri muschi",
       "Lo sporofito diploide, il cormo differenziato in radice, fusto e foglie",
-      "Nessuna delle due generazioni: entrambe restano reciprocamente dipendenti l'una dall'altra per tutta la vita"
+      "Nessuna delle due generazioni: entrambe restano reciprocamente"
     ],
     "correctIndex": 1,
     "explanation": "Nelle pteridofite, come in tutte le piante vascolari, la generazione dominante e indipendente è lo sporofito diploide (il cormo, con radice, fusto e foglie), mentre il gametofito (protallo) è ridotto. Nelle briofite domina invece il gametofito.",
@@ -121,7 +126,7 @@
     "question": "Perché le pteridofite hanno difficoltà a diffondersi negli ambienti aridi?",
     "suggestion": "La loro fecondazione dipende dal movimento di un gamete mobile: cosa gli serve per raggiungere l'oosfera?",
     "options": [
-      "Perché le loro spore non riescono a germinare se non su un substrato ricco di carbonato di calcio e ben drenato",
+      "Perché le loro spore non riescono a germinare se non su un substrato ricco",
       "Perché richiedono un velo d'acqua affinché i gameti maschili flagellati raggiungano l'oosfera",
       "Perché la lignina si deposita nelle pareti soltanto in presenza di un'elevata e costante umidità atmosferica"
     ],
@@ -210,7 +215,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Nelle felci più evolute gli sporangi si riuniscono in gruppi sulla pagina inferiore della fronda, detti ___.",
-    "answers": [["sori", "soro"]],
+    "answers": [
+      [
+        "sori",
+        "soro"
+      ]
+    ],
     "suggestion": "Sono i puntini o le linee brune visibili sotto le foglie delle felci, spesso protetti da un indusio.",
     "explanation": "I sori sono i gruppi di sporangi riuniti sulla pagina inferiore o sul margine della fronda, spesso protetti dal margine ripiegato o da una membrana (indusio). Forma e disposizione dei sori sono caratteri diacritici per l'identificazione.",
     "difficulty": "medium",

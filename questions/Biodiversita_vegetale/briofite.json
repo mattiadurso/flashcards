@@ -7,7 +7,7 @@
     "options": [
       "La presenza di clorofilla a e b, un carattere comune a tutte le Viridiplantae, alghe verdi comprese",
       "Un embrione pluricellulare protetto all'interno dei tessuti materni",
-      "La capacità di vivere in acqua dolce anziché in ambiente marino, come già facevano le alghe progenitrici"
+      "La capacità di vivere in acqua dolce anziché marina"
     ],
     "correctIndex": 1,
     "explanation": "Tra le sinapomorfie delle Embriofite ci sono l'embrione pluricellulare protetto nei tessuti materni, la parete delle spore con sporopollenina e la presenza di anteridi e archegoni con cellule sterili protettive. La clorofilla a e b è invece comune a tutte le Viridiplantae, alghe verdi comprese.",
@@ -19,7 +19,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Il biopolimero estremamente resistente che rinforza la parete delle spore proteggendole dalla disidratazione è detto ___.",
-    "answers": [["sporopollenina"]],
+    "answers": [
+      [
+        "sporopollenina"
+      ]
+    ],
     "suggestion": "Il suo nome richiama la spora e il polline; è ciò che rende le spore fossilizzabili.",
     "explanation": "La sporopollenina è un biopolimero molto resistente alla degradazione chimica e biologica che protegge le spore (e i granuli pollinici) dalla disidratazione: è una delle sinapomorfie delle Embriofite.",
     "difficulty": "medium",
@@ -32,7 +36,7 @@
     "suggestion": "In acqua il sostegno lo dà la spinta idrostatica; fuori dall'acqua serve un sostegno strutturale autonomo.",
     "options": [
       "Perché fuori dall'acqua manca la spinta idrostatica e serve un sostegno meccanico autonomo",
-      "Perché le pareti rigide permettono una fotosintesi molto più rapida ed efficiente nelle acque profonde e poco illuminate",
+      "Perché le pareti rigide permettono una fotosintesi molto più rapida ed efficiente",
       "Perché le pareti rigide, galleggiando, facilitano la dispersione dei gameti maschili tramite le correnti d'acqua"
     ],
     "correctIndex": 0,
@@ -48,7 +52,7 @@
     "options": [
       "Sono molto più numerosi e hanno il compito di produrre attivamente la cuticola cerosa che riveste l'epidermide",
       "Sono ad apertura fissa, privi del meccanismo di regolazione attiva delle piante vascolari",
-      "Sono in grado di assorbire acqua e sali minerali dal substrato, svolgendo la funzione che nelle piante spetta alle radici"
+      "Sono in grado di assorbire acqua e sali minerali dal substrato"
     ],
     "correctIndex": 1,
     "explanation": "Le briofite presentano una cuticola con stomi ad apertura fissa, privi cioè del meccanismo di regolazione attiva dell'apertura tipico delle piante vascolari. Ciò limita ma non regola dinamicamente la traspirazione.",
@@ -61,7 +65,7 @@
     "question": "Quale generazione è dominante e fotosinteticamente autonoma nel ciclo vitale delle briofite?",
     "suggestion": "È la generazione aploide, opposta a quella dominante nelle piante vascolari.",
     "options": [
-      "Lo sporofito diploide, che vive più a lungo del gametofito ed è nutrizionalmente del tutto indipendente da esso",
+      "Lo sporofito diploide, che vive più a lungo del gametofito",
       "Il gametofito aploide, mentre lo sporofito è dipendente e di vita più breve",
       "Nessuna delle due generazioni: entrambe hanno esattamente la stessa durata e lo stesso grado di indipendenza"
     ],
@@ -76,7 +80,7 @@
     "question": "Perché la presenza di acqua libera è indispensabile per la riproduzione sessuata delle briofite?",
     "suggestion": "Pensa a come il gamete maschile raggiunge l'oosfera nell'archegonio.",
     "options": [
-      "Perché l'acqua è l'unico fattore che permette la germinazione delle spore aploidi all'interno dell'archegonio femminile",
+      "Perché l'acqua è l'unico fattore che permette la germinazione delle spore",
       "Perché gli spermatozoidi biflagellati devono nuotare nel velo d'acqua fino all'archegonio",
       "Perché soltanto l'acqua è capace di sciogliere la sporopollenina, consentendo così l'apertura degli anteridi maturi"
     ],
@@ -93,7 +97,7 @@
     "options": [
       "L'oosfera, gamete femminile grande e immobile",
       "Lo spermatozoide biflagellato, gamete maschile piccolo e dotato di movimento autonomo",
-      "Una spora aploide appena prodotta per meiosi all'interno del tessuto sporigeno della capsula"
+      "Una spora aploide appena prodotta"
     ],
     "correctIndex": 0,
     "explanation": "L'archegonio è il gametangio femminile a forma di fiasco che contiene l'oosfera (cellula uovo), grande e immobile. L'anteridio, a clava, produce invece gli spermatozoidi maschili mobili e biflagellati.",
@@ -107,7 +111,7 @@
     "suggestion": "La radice del termine richiama la 'madre' e il 'nutrimento': pensa a chi nutre l'embrione e attraverso quale struttura.",
     "options": [
       "Che l'embrione è già del tutto capace di fotosintesi autonoma fin dal momento stesso della sua formazione",
-      "Che l'embrione si sviluppa direttamente nel terreno umido, nutrendosi della sostanza organica presente nel suolo",
+      "Che l'embrione si sviluppa direttamente nel terreno umido",
       "Che l'embrione è nutrito dai tessuti del gametofito madre attraverso una placenta con cellule transfer"
     ],
     "correctIndex": 2,
@@ -122,7 +126,7 @@
     "suggestion": "Riunisce più linee che condividono un antenato comune, ma lascia fuori un gruppo di discendenti.",
     "options": [
       "Perché comprende un antenato comune ma esclude le piante vascolari, che pure ne condividono l'origine",
-      "Perché riunisce organismi di origini del tutto indipendenti e privi di qualsiasi antenato comune condiviso",
+      "Perché riunisce organismi di origini del tutto indipendenti e privi di qualsiasi antenato",
       "Perché comprende un antenato comune insieme alla totalità dei suoi discendenti, piante vascolari incluse"
     ],
     "correctIndex": 0,
@@ -138,7 +142,7 @@
     "options": [
       "Producono le spore aploidi per meiosi all'interno del tessuto sporigeno della capsula in maturazione",
       "Sono cellule igroscopiche allungate che, muovendosi, favoriscono la dispersione delle spore",
-      "Nutrono lo sporofito in accrescimento trasferendogli attivamente le sostanze prodotte dal gametofito madre"
+      "Nutrono lo sporofito in accrescimento trasferendogli attivamente le sostanze"
     ],
     "correctIndex": 1,
     "explanation": "Gli elateri sono cellule allungate e igroscopiche (sensibili all'umidità) che si trovano nella capsula insieme alle spore; con i loro movimenti ne favoriscono la dispersione. Non producono spore: quelle derivano dal tessuto sporigeno per meiosi.",
@@ -153,7 +157,7 @@
     "options": [
       "Quelli dei muschi sono pluricellulari, quelli delle epatiche unicellulari",
       "Quelli dei muschi assorbono acqua e sali dal substrato, quelli delle epatiche svolgono unicamente la fotosintesi",
-      "Quelli dei muschi sono veri organi omologhi alle radici, quelli delle epatiche sono invece semplici peli epidermici"
+      "Quelli dei muschi sono veri organi omologhi alle radici"
     ],
     "correctIndex": 0,
     "explanation": "I rizoidi dei muschi sono pluricellulari (più cellule in fila), mentre quelli delle epatiche sono unicellulari. In entrambi i casi hanno funzione di ancoraggio e parziale assorbimento, ma non sono omologhi alle radici delle piante vascolari.",
@@ -168,7 +172,7 @@
     "options": [
       "La struttura diploide dello sporofito che produce le spore per meiosi all'interno della capsula",
       "Lo stadio giovanile filamentoso del gametofito, che deriva dalla germinazione della spora",
-      "Il residuo aploide dell'archegonio lacerato che protegge la base della capsula in via di maturazione"
+      "Il residuo aploide dell'archegonio lacerato che protegge la base della capsula"
     ],
     "correctIndex": 1,
     "explanation": "Il protonema (\"primo filamento\") è lo stadio giovanile del gametofito che deriva dalla germinazione della meiospora aploide; da esso si sviluppano le gemme che daranno la pianta cormoide adulta. Negli sfagni è laminare invece che filamentoso.",
@@ -240,7 +244,13 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Gli organismi il cui contenuto idrico interno varia passivamente in funzione dell'umidità ambientale, come muschi e licheni, sono detti ___.",
-    "answers": [["peciloidri", "peciloidrici", "poichiloidri"]],
+    "answers": [
+      [
+        "peciloidri",
+        "peciloidrici",
+        "poichiloidri"
+      ]
+    ],
     "suggestion": "Il termine (dal greco 'variabile' + 'acqua') si contrappone a 'omeoidrico', chi mantiene costante l'acqua interna.",
     "explanation": "I peciloidri (o poichiloidri) hanno un contenuto idrico che varia passivamente con l'ambiente: si disidratano rallentando il metabolismo e si riattivano al ritorno dell'umidità. Si contrappongono agli omeoidrici, che mantengono costante il contenuto idrico.",
     "difficulty": "hard",

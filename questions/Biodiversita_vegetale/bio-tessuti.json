@@ -306,7 +306,7 @@
     "question": "Qual è la differenza principale tra le immagini fornite dal microscopio elettronico a trasmissione (TEM) e a scansione (SEM)?",
     "suggestion": "Uno mostra sezioni interne, l'altro la superficie tridimensionale.",
     "options": [
-      "Il TEM mostra la superficie tridimensionale del campione, il SEM le sezioni interne interne più profonde del campione",
+      "Il TEM mostra la superficie tridimensionale del campione, il SEM le sezioni interne più profonde",
       "Il TEM mostra sezioni interne del preparato, il SEM immagini tridimensionali della superficie",
       "TEM e SEM forniscono immagini identiche, distinte solo dall'ingrandimento massimo"
     ],

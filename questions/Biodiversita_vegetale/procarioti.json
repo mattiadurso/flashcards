@@ -7,7 +7,7 @@
     "options": [
       "È sempre e comunque unicellulare e non possiede mai alcun tipo di parete cellulare protettiva",
       "Ha cellule prive di nucleo delimitato da membrana e, in generale, di organuli membranosi",
-      "Possiede un nucleo vero e proprio ma è del tutto privo di ribosomi e quindi incapace di sintesi proteica"
+      "Possiede un nucleo vero e proprio ma è privo di ribosomi"
     ],
     "correctIndex": 1,
     "explanation": "I procarioti (Bacteria e Archaea) hanno il materiale genetico non racchiuso da membrana nucleare e sono privi di organuli membranosi, a differenza degli eucarioti; possiedono comunque ribosomi (più piccoli) e spesso una parete cellulare.",
@@ -20,7 +20,7 @@
     "question": "In che cosa il nucleoide batterico differisce da un plasmide?",
     "suggestion": "Uno contiene i geni indispensabili alla vita della cellula, l'altro geni accessori non essenziali in condizioni normali.",
     "options": [
-      "Il nucleoide è racchiuso da una membrana nucleare mentre il plasmide, di dimensioni maggiori, resta libero nel citoplasma",
+      "Il nucleoide è racchiuso da una membrana nucleare mentre il plasmide, di dimensioni maggiori",
       "Il nucleoide è il DNA circolare principale con i geni essenziali, il plasmide un piccolo DNA con funzione accessoria",
       "Il nucleoide è formato da RNA a doppio filamento mentre il plasmide è formato da DNA strettamente associato agli istoni"
     ],
@@ -34,7 +34,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Il polimero di zuccheri amminici e ponti peptidici che costituisce la parete cellulare dei batteri è detto peptidoglicano o ___.",
-    "answers": [["mureina"]],
+    "answers": [
+      [
+        "mureina"
+      ]
+    ],
     "suggestion": "È il secondo nome del peptidoglicano; è il bersaglio idrolizzato dal lisozima.",
     "explanation": "Il peptidoglicano, detto anche mureina, è formato da catene di N-acetilglucosammina e acido N-acetilmuramico unite da legami β1→4 e collegate da ponti peptidici. Il legame β1→4 è il sito di taglio del lisozima.",
     "difficulty": "medium",
@@ -47,8 +51,8 @@
     "suggestion": "La differenza sta nello spessore dello strato di peptidoglicano e nella presenza di una membrana esterna.",
     "options": [
       "Perché i Gram+ hanno peptidoglicano spesso che trattiene il colorante, i Gram- uno strato sottile e una membrana esterna",
-      "Perché i Gram+ sono del tutto privi di parete cellulare e assorbono così direttamente il colorante nel loro citoplasma interno",
-      "Perché i Gram- possiedono un peptidoglicano molto più spesso e una capsula mucillaginosa che intensifica il colore violetto"
+      "Perché i Gram+ sono del tutto privi di parete cellulare e assorbono direttamente il colorante",
+      "Perché i Gram- hanno un peptidoglicano più spesso e una capsula che intensifica il colore violetto"
     ],
     "correctIndex": 0,
     "explanation": "Nei Gram+ il peptidoglicano è spesso e uniforme e trattiene il violetto cristallo; nei Gram- lo strato è sottile, addossato al plasmalemma e racchiuso da una membrana esterna con lipopolisaccaridi, per cui la cellula non trattiene il colorante e si colora con fucsina o eosina (rosata).",
@@ -63,7 +67,7 @@
     "options": [
       "Il peritrico ha un unico flagello polare, il monotrico ha invece flagelli distribuiti su tutta la sua superficie",
       "Il peritrico ha flagelli su tutta la superficie, il monotrico un solo flagello a un polo",
-      "Il peritrico usa i flagelli soltanto per lo scambio genico, il monotrico li impiega esclusivamente per il movimento"
+      "Il peritrico usa i flagelli soltanto per lo scambio genico"
     ],
     "correctIndex": 1,
     "explanation": "La classificazione si basa su numero e posizione dei flagelli: monotrichi (un solo flagello a un polo), lofotrichi (un ciuffo a un polo), amfitrichi (a entrambi i poli) e peritrichi (flagelli su tutta la superficie). I pili/fimbrie, invece, servono allo scambio genico, non al movimento.",
@@ -76,7 +80,7 @@
     "question": "Perché la formazione di un biofilm rappresenta un vantaggio per le cellule batteriche?",
     "suggestion": "Pensa a cosa cambia per una cellula quando passa da vita planctonica libera a vita adesa in una matrice condivisa.",
     "options": [
-      "Perché elimina definitivamente la parete cellulare, rendendo le cellule più leggere, più veloci e più mobili nell'ambiente",
+      "Perché elimina definitivamente la parete cellulare, rendendo le cellule più leggere",
       "Perché impedisce del tutto ogni scambio genico, isolando geneticamente le cellule adese le une dalle altre",
       "Perché aumenta la sopravvivenza, favorisce la comunicazione e facilita gli scambi genici tra le cellule"
     ],
@@ -108,7 +112,7 @@
     "options": [
       "Ricava energia dalla luce solare e carbonio da sostanza organica preformata da altri organismi",
       "Ricava energia dall'ossidazione di composti inorganici e carbonio dall'anidride carbonica",
-      "Ricava sia energia sia carbonio esclusivamente da sostanza organica proveniente da organismi morti"
+      "Ricava sia energia sia carbonio esclusivamente da sostanza organica"
     ],
     "correctIndex": 1,
     "explanation": "I chemioautotrofi ottengono energia dall'ossidazione di composti inorganici e usano la CO2 come fonte di carbonio. Si distinguono dai fotoautotrofi (energia dalla luce), dai fotoeterotrofi (luce + carbonio organico) e dai chemioeterotrofi (tutto da sostanza organica).",
@@ -122,7 +126,7 @@
     "suggestion": "In un caso il DNA viaggia dentro un vettore biologico particolare, non per contatto diretto né come DNA libero.",
     "options": [
       "Il DNA passa direttamente tra due batteri a contatto, veicolato da un plasmide detto in questo caso episoma",
-      "Il batterio assume DNA libero disperso nell'ambiente esterno, che può contenere geni prima assenti nel ricevente",
+      "Il batterio assume DNA libero disperso nell'ambiente esterno",
       "Il DNA è trasferito da un batterio all'altro tramite un virus che funge da vettore"
     ],
     "correctIndex": 2,
@@ -136,7 +140,7 @@
     "question": "Perché le endospore sono descritte come una forma di 'diffusione temporale' del batterio?",
     "suggestion": "Non spostano il batterio nello spazio, ma gli permettono di attraversare qualcosa di diverso.",
     "options": [
-      "Perché permettono alla cellula di muoversi molto rapidamente nello spazio verso ambienti più favorevoli alla crescita",
+      "Perché permettono alla cellula di muoversi molto rapidamente nello spazio verso ambienti",
       "Perché consentono alla specie di superare i periodi sfavorevoli in uno stato quiescente e resistente",
       "Perché aumentano notevolmente la velocità della scissione binaria durante le fasi di rapida crescita vegetativa"
     ],
@@ -150,7 +154,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "L'ossidazione biologica dell'ammonio a nitrati operata da specifici batteri del suolo è detta ___.",
-    "answers": [["nitrificazione"]],
+    "answers": [
+      [
+        "nitrificazione"
+      ]
+    ],
     "suggestion": "È il processo che trasforma l'ammonio in nitrati; da non confondere con la denitrificazione, che restituisce azoto gassoso all'atmosfera.",
     "explanation": "La nitrificazione è l'ossidazione dell'ammonio a nitrati a opera di batteri del suolo. Fa parte del ciclo dell'azoto insieme a fissazione, assimilazione, ammonificazione e denitrificazione.",
     "difficulty": "medium",
@@ -163,7 +171,7 @@
     "suggestion": "Questo pigmento rende possibile una fotosintesi che scinde l'acqua; pensa al sottoprodotto di quella reazione.",
     "options": [
       "Perché la clorofilla a permette una fotosintesi ossigenica che libera O2, alla base del Great Oxygenation Event",
-      "Perché la clorofilla a assorbe attivamente l'ossigeno atmosferico già presente, riducendone progressivamente la concentrazione nell'aria",
+      "Perché la clorofilla a assorbe attivamente l'ossigeno atmosferico già presente",
       "Perché la clorofilla a consente ai cianobatteri di fissare l'azoto molecolare atmosferico al posto del carbonio della CO2"
     ],
     "correctIndex": 0,

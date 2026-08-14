@@ -5,11 +5,11 @@
     "question": "Quali sono le tre funzioni principali dei carboidrati nei vegetali?",
     "suggestion": "Una immediata per l'energia, una di accumulo differito, una di sostegno.",
     "options": [
-      "Energetica, di riserva e strutturale (impalcatura delle pareti cellulari)",
+      "Ormonale, impermeabilizzante e di pigmento fotosintetico",
       "Catalitica, contrattile e di trasporto dei gas respiratori e degli ioni disciolti nel citoplasma",
-      "Ormonale, impermeabilizzante e di pigmento fotosintetico"
+      "Energetica, di riserva e strutturale (impalcatura delle pareti cellulari)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "I carboidrati svolgono una funzione energetica (substrato immediato), di riserva (accumulo come polimeri) e strutturale (impalcatura delle pareti cellulari, es. cellulosa). Le funzioni ormonale, impermeabilizzante e di pigmento sono tipiche dei lipidi.",
     "difficulty": "easy",
     "source": "Biologia veg.pdf p.3"
@@ -21,10 +21,10 @@
     "suggestion": "Dipende dalla posizione del gruppo carbonile lungo la catena carboniosa.",
     "options": [
       "L'aldoso ha il carbonile in posizione interna, il chetoso all'estremità della catena",
-      "L'aldoso ha il carbonile all'estremità della catena, il chetoso in posizione interna",
-      "L'aldoso ha sei atomi di carbonio, il chetoso ne ha sempre cinque"
+      "L'aldoso ha sei atomi di carbonio, il chetoso ne ha sempre cinque",
+      "L'aldoso ha il carbonile all'estremità della catena, il chetoso in posizione interna"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "La distinzione dipende dalla posizione del gruppo carbonile: nell'aldoso è all'estremità della catena (gruppo aldeidico, es. glucosio), nel chetoso è in posizione interna (gruppo chetonico, es. fruttosio). Il numero di carboni è un criterio distinto (triosi, pentosi, esosi).",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.3"
@@ -36,10 +36,10 @@
     "suggestion": "Riguarda la posizione spaziale dell'ossidrile sul carbonio anomerico (il C1).",
     "options": [
       "Nel numero totale di atomi di carbonio che compongono l'anello dello zucchero",
-      "Nella posizione spaziale del gruppo ossidrile legato al carbonio anomerico",
-      "Nel tipo di base azotata legata al carbonio anomerico dello zucchero"
+      "Nel tipo di base azotata legata al carbonio anomerico dello zucchero",
+      "Nella posizione spaziale del gruppo ossidrile legato al carbonio anomerico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Gli anomeri α e β differiscono per la disposizione spaziale del gruppo ossidrile sul carbonio anomerico (il C1), generato dalla chiusura dell'anello. In soluzione lo zucchero è in equilibrio dinamico tra forma lineare e le due forme cicliche (mutarotazione).",
     "difficulty": "hard",
     "source": "Biologia veg.pdf p.3-4"
@@ -172,7 +172,7 @@
     "suggestion": "Non formano le fibre portanti, ma la porzione di matrice attorno ad esse.",
     "options": [
       "Costituiscono la componente di matrice della parete, distinta dalla componente fibrillare della cellulosa",
-      "Formano le microfibrille portanti al posto della cellulosa, con soli legami α 1→4 portanti, unite da soli legami β 1→4 lineari",
+      "Formano da sole le microfibrille portanti della parete, unite da rigidi legami β 1→4 lineari",
       "Cementano le cellule adiacenti costituendo la lamella mediana intercellulare"
     ],
     "correctIndex": 0,

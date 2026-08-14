@@ -65,7 +65,7 @@
     "question": "A quale scopo la cellula avvia il piruvato alla fermentazione in assenza di ossigeno?",
     "suggestion": "Serve a rigenerare un coenzima ossidato indispensabile per proseguire la glicolisi.",
     "options": [
-      "Per produrre grandi quantità di ATP tramite la catena respiratoria tramite la catena respiratoria mitocondriale aerobia",
+      "Per produrre grandi quantità di ATP sfruttando la catena respiratoria mitocondriale aerobia",
       "Per rigenerare NAD+ (ossidato), indispensabile a mantenere attiva la glicolisi",
       "Per fissare la CO2 e sintetizzare zuccheri come nella fotosintesi"
     ],
@@ -129,7 +129,7 @@
     "suggestion": "Tre di un coenzima, uno di un altro, più un ATP a livello di substrato.",
     "options": [
       "3 NADH2, 1 FADH2 e 1 ATP (per fosforilazione a livello di substrato)",
-      "1 NADH2 e 36 ATP dalla catena respiratoria prodotti dalla catena della membrana interna",
+      "1 solo NADH2 e ben 36 ATP prodotti direttamente dalla catena della membrana mitocondriale interna",
       "Solo 2 ATP e nessun coenzima ridotto"
     ],
     "correctIndex": 0,
@@ -188,7 +188,7 @@
     "question": "Secondo la teoria chemiosmotica di Mitchell, come viene immagazzinata l'energia del trasporto elettronico prima della sintesi di ATP?",
     "suggestion": "I complessi pompano protoni fuori dalla matrice, creando un gradiente attraverso la membrana impermeabile ad H+.",
     "options": [
-      "Sotto forma di legami covalenti nel glucosio ricostituito ricostituito a partire da CO2 e acqua nel citosol",
+      "Sotto forma di legami covalenti nel glucosio, ricostituito a partire da CO2 e acqua nel citosol",
       "Sotto forma di gradiente elettrochimico protonico attraverso la membrana interna (impermeabile agli H+)",
       "Sotto forma di calore disperso nello spazio intermembrana"
     ],

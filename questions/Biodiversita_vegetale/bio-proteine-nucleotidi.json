@@ -5,11 +5,11 @@
     "question": "Da quali gruppi è caratterizzato un amminoacido, tutti legati al carbonio α?",
     "suggestion": "Un gruppo basico, uno acido, una catena variabile e un idrogeno.",
     "options": [
-      "Un gruppo amminico (−NH2), un gruppo carbossilico (−COOH), un gruppo R variabile e un idrogeno",
+      "Un gruppo carbonile, un ossidrile anomerico e una lunga catena alifatica satura priva di azoto",
       "Due gruppi fosfato, uno zucchero pentoso e una base azotata",
-      "Un gruppo carbonile, un ossidrile anomerico e una lunga catena alifatica satura priva di azoto"
+      "Un gruppo amminico (−NH2), un gruppo carbossilico (−COOH), un gruppo R variabile e un idrogeno"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Un amminoacido è una molecola tetra-sostituita: al carbonio α sono legati un gruppo amminico basico (−NH2), un gruppo carbossilico acido (−COOH), un gruppo R variabile (catena laterale) e un atomo di idrogeno. Il gruppo R ne determina la specificità.",
     "difficulty": "easy",
     "source": "Biologia veg.pdf p.7"
@@ -21,10 +21,10 @@
     "suggestion": "È una molecola nel complesso neutra, ma con cariche separate al proprio interno.",
     "options": [
       "Una molecola con carica netta fortemente positiva su entrambi i gruppi funzionali su entrambi i gruppi a pH fisiologico neutro",
-      "Una molecola elettricamente neutra nel complesso, ma con una carica positiva e una negativa separate",
-      "Una molecola priva di cariche, con gruppo amminico e carbossilico entrambi neutri"
+      "Una molecola priva di cariche, con gruppo amminico e carbossilico entrambi neutri",
+      "Una molecola elettricamente neutra nel complesso, ma con una carica positiva e una negativa separate"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "A pH fisiologico (~7) il gruppo amminico è protonato (+) e il carbossilico deprotonato (−): l'amminoacido è uno zwitterione, molecola neutra nel complesso ma con cariche separate al proprio interno. Tutti gli amminoacidi tranne la glicina hanno un carbonio asimmetrico (chirale).",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.7"
@@ -36,10 +36,10 @@
     "suggestion": "Come per gli zuccheri, con eliminazione di una molecola d'acqua tra due gruppi specifici.",
     "options": [
       "Tra il gruppo laterale R di un amminoacido e il gruppo R del successivo, tramite un ponte disolfuro covalente",
-      "Tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo, per disidratazione",
-      "Tra due gruppi fosfato, mediante un legame fosfodiesterico ad alta energia"
+      "Tra due gruppi fosfato, mediante un legame fosfodiesterico ad alta energia",
+      "Tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo, per disidratazione"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Il legame peptidico si forma tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo, per disidratazione (con eliminazione di acqua); si rompe per idrolisi. La catena ha un N-terminale e un C-terminale, con scheletro polipeptidico e catene laterali R.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.8"

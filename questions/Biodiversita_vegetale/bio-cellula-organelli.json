@@ -140,7 +140,7 @@
     "question": "Quale funzione svolgono i cromoplasti, ricchi di carotenoidi, in fiori e frutti?",
     "suggestion": "Danno colori giallo-arancio-rosso con una funzione di richiamo visivo.",
     "options": [
-      "Accumulano amido di riserva come gli amiloplasti dei tessuti sotterranei di riserva come tuberi, radici e bulbi",
+      "Accumulano amido di riserva come fanno gli amiloplasti dei tessuti sotterranei",
       "Svolgono la fotosintesi al posto dei cloroplasti nelle parti non verdi",
       "Danno le colorazioni giallo-arancio-rosse con funzione vessillare per impollinatori e dispersori"
     ],
@@ -218,7 +218,7 @@
     "options": [
       "Dal perossido di idrogeno (H2O2), dismutato in O2 e acqua dall'enzima catalasi",
       "Dai fosfati inorganici accumulati, idrolizzati dalla fosfatasi",
-      "Dai perossidi lipidici della membrana, sintetizzati dalla lipasi della membrana plasmatica cellulare"
+      "Dai perossidi lipidici prodotti sulla membrana plasmatica e degradati dalla lipasi cellulare"
     ],
     "correctIndex": 0,
     "explanation": "I perossisomi devono il nome al perossido di idrogeno (H2O2) che contengono, dismutato in ossigeno e acqua dall'enzima catalasi (2 H2O2 → O2 + 2 H2O). Nelle foglie partecipano alla fotorespirazione insieme a mitocondri e cloroplasti.",
@@ -233,7 +233,7 @@
     "options": [
       "Sintetizza le proteine di membrana destinate alla parete cellulare",
       "Mantiene il turgore, fornendo sostegno meccanico e forza motrice per la crescita per distensione",
-      "Produce l'ATP necessario alla respirazione cellulare al posto dei mitocondri durante la respirazione cellulare aerobia"
+      "Produce l'ATP necessario alla cellula durante la respirazione aerobia, al posto dei mitocondri"
     ],
     "correctIndex": 1,
     "explanation": "Il vacuolo (delimitato dal tonoplasto) mantiene il turgore, la pressione idrostatica contro la parete: fornisce sostegno meccanico, forza motrice per la crescita per distensione, controlla l'apertura degli stomi e i movimenti rapidi. Accumula inoltre riserve, metaboliti secondari e svolge funzioni litiche.",
