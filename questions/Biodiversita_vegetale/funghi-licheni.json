@@ -1,0 +1,335 @@
+[
+  {
+    "id": "bdv-fung-eterotrofia-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché tutti i funghi sono organismi eterotrofi?",
+    "suggestion": "Manca loro l'apparato che permette alle piante di costruire sostanza organica dalla luce.",
+    "options": [
+      "Perché sono privi di cloroplasti e pigmenti fotosintetici e devono procurarsi il carbonio organico dall'esterno",
+      "Perché possiedono cloroplasti ma vivono in ambienti bui dove la luce non è mai sufficiente alla fotosintesi",
+      "Perché assorbono direttamente l'anidride carbonica dall'aria trasformandola in zuccheri tramite la loro parete chitinosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "I funghi non hanno cloroplasti né pigmenti fotosintetici, quindi non possono sintetizzare sostanza organica: sono eterotrofi e devono procurarsi il carbonio organico dall'ambiente. Sono i principali decompositori della biosfera.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.43"
+  },
+  {
+    "id": "bdv-fung-opistoconti-002",
+    "topic": "biodiversita-vegetale",
+    "question": "A quale supergruppo di eucarioti appartengono i funghi, insieme agli animali?",
+    "suggestion": "Il nome del supergruppo richiama l'unico flagello posteriore delle forme flagellate.",
+    "options": [
+      "Agli Archaeplastida, insieme alle alghe verdi e alle piante terrestri fotosintetiche",
+      "Agli Opistoconti, caratterizzati nelle forme flagellate da un unico flagello posteriore",
+      "Agli Stramenopili, caratterizzati da due flagelli diseguali, di cui uno provvisto di mastigonemi filiformi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Funghi e animali appartengono al supergruppo monofiletico degli Opistoconti, caratterizzato dalla presenza, nelle forme flagellate, di un unico flagello posteriore. I funghi derivano infatti da un progenitore unicellulare flagellato.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.43"
+  },
+  {
+    "id": "bdv-fung-fill-chitina-003",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La parete cellulare dei funghi è costituita da glucani e da fibrille di un polisaccaride azotato di N-acetilglucosammina detto ___.",
+    "answers": [["chitina"]],
+    "suggestion": "È lo stesso polisaccaride dell'esoscheletro degli insetti; nelle piante c'è invece la cellulosa.",
+    "explanation": "La parete fungina è fatta di fibrille di chitina (polisaccaride di N-acetilglucosammina) e glucani, talvolta con melanine protettive. La chitina distingue la parete fungina da quella cellulosica delle piante.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.43"
+  },
+  {
+    "id": "bdv-fung-cenocitica-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza l'organizzazione sifonale (cenocitica) di un'ifa fungina?",
+    "suggestion": "Pensa a un'unica cellula filamentosa con molti nuclei e senza pareti divisorie interne.",
+    "options": [
+      "Un'unica cellula filamentosa ramificata, plurinucleata e priva di setti trasversali",
+      "Una fila di cellule uninucleate separate l'una dall'altra da setti trasversali completi",
+      "Una singola cellula sferica uninucleata, priva di movimento e di prolungamenti filamentosi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'organizzazione sifonale o cenocitica è costituita da un'unica ifa filamentosa, ramificata, plurinucleata e priva di setti. Nell'organizzazione tricale, invece, le ife sono suddivise da setti in compartimenti uninucleati.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.43"
+  },
+  {
+    "id": "bdv-fung-micelio-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è il micelio e quale funzione svolge nel corpo fungino?",
+    "suggestion": "È l'intreccio delle ife: pensa a cosa fa questa struttura vegetativa con il substrato.",
+    "options": [
+      "Il corpo fruttifero aereo, prodotto solo saltuariamente e in condizioni favorevoli per la riproduzione sessuale del fungo",
+      "L'insieme delle ife intrecciate, struttura vegetativa deputata all'assorbimento dei nutrienti dal substrato",
+      "Lo strato fertile superficiale del carpoforo, in cui si formano le spore sessuali del fungo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il micelio è l'aggregato di ife intrecciate che costituisce lo pseudotessuto fungino: è la struttura vegetativa fondamentale, deputata all'assorbimento delle sostanze nutritive dal substrato. Il corpo fruttifero (carpoforo) è invece la struttura riproduttiva aerea.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.43"
+  },
+  {
+    "id": "bdv-fung-nutrizione-006",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo un fungo si nutre della sostanza organica presente nel substrato?",
+    "suggestion": "La digestione avviene prima dell'assorbimento, e per di più fuori dalla cellula.",
+    "options": [
+      "Inghiotte le particelle organiche per fagocitosi e le digerisce all'interno di vacuoli citoplasmatici",
+      "Fissa direttamente il carbonio inorganico del substrato grazie a enzimi autotrofi contenuti nella sua parete chitinosa",
+      "Secerne esoenzimi che demoliscono le macromolecole all'esterno, poi assorbe per osmosi le molecole semplici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fungo pratica una digestione esterna: secerne esoenzimi che scindono le macromolecole (proteine, amido) in molecole semplici, poi assorbe queste ultime per osmosi nell'ifa. L'ingresso di acqua e soluti genera il flusso citoplasmatico che sostiene la crescita apicale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.44"
+  },
+  {
+    "id": "bdv-fung-austori-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale ifa specializzata caratterizza i funghi parassiti e come agisce?",
+    "suggestion": "Sono estroflessioni che entrano in contatto con la membrana delle cellule dell'ospite vivente.",
+    "options": [
+      "I rizoidi, strutture simili a radici che ancorano l'ifa al substrato organico in decomposizione",
+      "Gli austori, estroflessioni che contattano il plasmalemma delle cellule dell'ospite per assorbirne i nutrienti",
+      "Gli arbuscoli, ife molto ramificate che si sviluppano dentro le cellule della radice di una pianta ospite simbionte"
+    ],
+    "correctIndex": 1,
+    "explanation": "I funghi parassiti sviluppano austori, estroflessioni dell'ifa che stabiliscono contatto diretto con il plasmalemma delle cellule dell'ospite per assorbirne le sostanze nutritive. I rizoidi caratterizzano i saprofiti, gli arbuscoli le endomicorrize.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.44"
+  },
+  {
+    "id": "bdv-fung-ectomicorrize-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue le ectomicorrize dalle endomicorrize?",
+    "suggestion": "La differenza sta nel fatto che le ife penetrino o meno all'interno delle cellule della radice.",
+    "options": [
+      "Le ectomicorrize formano un mantello e un reticolo di Hartig intercellulare, senza entrare nelle cellule radicali",
+      "Le ectomicorrize penetrano nelle cellule radicali formando arbuscoli ramificati, mentre le endomicorrize restano in superficie",
+      "Le ectomicorrize sono formate da Glomeromiceti e interessano l'80% delle piante vascolari terrestri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle ectomicorrize il micelio forma un mantello attorno alla radice e un reticolo di Hartig tra le cellule (intercellulare), senza penetrarle (spesso Basidiomiceti con alberi). Nelle endomicorrize le ife entrano nelle cellule formando arbuscoli (Glomeromiceti, ~80% delle piante vascolari).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.44"
+  },
+  {
+    "id": "bdv-fung-fill-micorrize-009",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'associazione simbiotica mutualistica tra il micelio di un fungo e le radici di una pianta è detta ___.",
+    "answers": [["micorriza", "micorrize", "micorriza arbuscolare"]],
+    "suggestion": "Il termine unisce 'fungo' (mico-) e 'radice' (-rriza); il fungo cede sali minerali, la pianta fotoassimilati.",
+    "explanation": "La micorriza è la simbiosi tra micelio fungino e radici: il fungo riceve fotoassimilati dalla pianta e ne facilita l'assorbimento di acqua e sali minerali. Si distingue in ectomicorrize, endomicorrize (arbuscolari) ed ectoendomicorrize.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.44"
+  },
+  {
+    "id": "bdv-fung-conidi-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sono i conidi nella riproduzione asessuale dei funghi?",
+    "suggestion": "Sono spore prodotte all'esterno, portate da ife specializzate dette conidiofori.",
+    "options": [
+      "Spore flagellate mobili, dette zoospore, prodotte tipicamente dai funghi acquatici più antichi e primitivi",
+      "Spore endogene prodotte all'interno di uno sporangio sferico portato all'apice di un'ifa",
+      "Spore asessuali esogene (esospore) portate all'esterno da ife specializzate dette conidiofori"
+    ],
+    "correctIndex": 2,
+    "explanation": "I conidi sono esospore, spore asessuali prodotte all'esterno su ife specializzate dette conidiofori. Si distinguono dalle endospore, prodotte dentro sporangi, e dalle zoospore flagellate dei funghi acquatici. Sono mitospore, aploidi e geneticamente identiche.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.45"
+  },
+  {
+    "id": "bdv-fung-dicariotico-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica la condizione dicariotica nel ciclo sessuale dei funghi?",
+    "suggestion": "Si crea quando i citoplasmi si sono fusi ma i due nuclei non si sono ancora uniti.",
+    "options": [
+      "Una cellula con un unico nucleo diploide, formatosi immediatamente dopo la fusione dei due gameti aploidi compatibili",
+      "Una cellula che contiene due nuclei aploidi distinti, dopo la plasmogamia ma prima della cariogamia",
+      "Una cellula priva di nucleo, in cui il materiale genetico è disperso liberamente nel citoplasma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei funghi plasmogamia (fusione dei citoplasmi) e cariogamia (fusione dei nuclei) sono separate nel tempo: tra le due la cellula contiene due nuclei aploidi distinti, condizione detta dicariotica (n+n). Da qui il nome Dikarya per Ascomiceti e Basidiomiceti.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.45-46"
+  },
+  {
+    "id": "bdv-fung-somatogamia-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza la somatogamia, tipica dei Basidiomiceti?",
+    "suggestion": "Avviene senza gametangi specializzati: si fondono direttamente due strutture vegetative.",
+    "options": [
+      "L'unione del protoplasma di due ife somatiche vegetative, senza gametangi differenziati",
+      "La fusione di due gametangi polinucleati distinti, l'anteridio maschile e l'ascogonio femminile",
+      "L'incontro in acqua di due gameti flagellati mobili di dimensioni e forma differenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La somatogamia, tipica dei Basidiomiceti, consiste nell'unione del protoplasma di due ife somatiche (vegetative) compatibili, senza differenziazione di gametangi. La gametangiogamia oogama con anteridio e ascogonio è invece degli Ascomiceti; la gametogamia in acqua dei funghi acquatici.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.45-46"
+  },
+  {
+    "id": "bdv-fung-fill-asco-013",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Negli Ascomiceti le meiospore endogene, tipicamente 8, si formano all'interno di una cellula a forma di sacco detta ___.",
+    "answers": [["asco", "aschi"]],
+    "suggestion": "Dà il nome al gruppo (Ascomycota); contiene le ascospore ed è portato dall'ascocarpo.",
+    "explanation": "L'asco è la cellula-sporangio a forma di sacco degli Ascomiceti, in cui si formano per meiosi (più una mitosi) tipicamente otto ascospore aploidi. Gli aschi sono portati da corpi fruttiferi detti ascocarpi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.46-48"
+  },
+  {
+    "id": "bdv-fung-ascocarpo-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale corpo fruttifero degli Ascomiceti ha la caratteristica forma di coppa aperta?",
+    "suggestion": "Pensa alla forma tipica di funghi come Peziza.",
+    "options": [
+      "Il cleistotecio, di forma sferica e completamente chiuso, privo di aperture verso l'esterno",
+      "Il peritecio, a forma di fiasco, dotato di un'apertura apicale detta ostiolo",
+      "L'apotecio, a forma di coppa aperta, come nel genere Peziza"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'apotecio è l'ascocarpo a coppa aperta (es. Peziza). Il cleistotecio è sferico e chiuso, il peritecio è a fiasco con ostiolo apicale. La forma dell'ascocarpo è un carattere sistematico degli Ascomiceti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.48"
+  },
+  {
+    "id": "bdv-fung-aspergillus-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il genere Aspergillus, tra i Deuteromiceti, è rilevante dal punto di vista sanitario?",
+    "suggestion": "Produce micotossine pericolose che contaminano soprattutto i cereali immagazzinati.",
+    "options": [
+      "Perché forma micorrize tossiche che avvelenano le radici delle piante coltivate ospiti",
+      "Perché produce aflatossine, micotossine cancerogene che contaminano le derrate alimentari",
+      "Perché è responsabile della ruggine del grano, sviluppando il proprio ciclo su due ospiti distinti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aspergillus, Ascomicete deuteromicete che si riproduce per via asessuale, produce aflatossine: micotossine tossiche e cancerogene che contaminano le derrate alimentari, in particolare i cereali. La ruggine del grano è invece causata da Puccinia (Basidiomicete).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.48"
+  },
+  {
+    "id": "bdv-fung-basidio-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la struttura riproduttiva caratteristica dei Basidiomycota e quante spore produce di norma?",
+    "suggestion": "È una cellula che porta le meiospore all'esterno, in numero fisso e ben preciso.",
+    "options": [
+      "L'asco, un sacco che contiene tipicamente otto meiospore endogene dette ascospore",
+      "Il conidioforo, un'ifa che porta all'esterno numerosi conidi asessuali dispersi dal vento",
+      "Il basidio, che porta di norma quattro meiospore esterne dette basidiospore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il basidio è la cellula tipica dei Basidiomiceti: porta di norma quattro basidiospore (meiospore) all'esterno. L'asco con otto ascospore endogene è invece degli Ascomiceti. Nei setti dei Basidiomiceti si osserva il doliporo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.49"
+  },
+  {
+    "id": "bdv-fung-veli-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel genere Amanita (Agaricales), quale struttura deriva dai residui del velo universale alla base del gambo?",
+    "suggestion": "È l'involucro a coppa che resta dopo la rottura del velo che avvolgeva l'intero carpoforo giovane.",
+    "options": [
+      "L'imenoforo a lamelle, la superficie fertile del cappello deputata alla produzione delle spore",
+      "La volva, involucro alla base del gambo che resta dopo la rottura del velo universale",
+      "Il doliporo, la struttura del setto ifale che regola il passaggio di sostanze tra le cellule"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il velo universale avvolge l'intero carpoforo giovane; alla sua rottura può lasciare la volva alla base del gambo (oltre a verruche o anelli). Il velo parziale, che protegge solo l'imenoforo, lascia invece anelli o villosità sul gambo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.49"
+  },
+  {
+    "id": "bdv-fung-dikarya-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché Ascomycota e Basidiomycota sono riuniti nel gruppo monofiletico Dikarya?",
+    "suggestion": "Il nome del gruppo richiama una fase del loro ciclo con due nuclei per cellula.",
+    "options": [
+      "Perché condividono la condizione dicariotica (n+n) caratteristica della fase sessuale del loro ciclo",
+      "Perché sono entrambi funghi acquatici che producono zoospore flagellate come i Chytridiomycota",
+      "Perché sono entrambi privi di riproduzione sessuale, riproducendosi solo tramite mitospore asessuali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dikarya riunisce Ascomycota e Basidiomycota, i due phyla più diversificati, per via della condizione dicariotica (n+n) tipica della fase sessuale del loro ciclo aplodicariontico. Sono funghi settati, non acquatici, e hanno riproduzione sessuale.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.46-47"
+  },
+  {
+    "id": "bdv-fung-oomycota-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché gli Oomycota, un tempo attribuiti ai funghi, sono oggi collocati fuori dal regno Fungi?",
+    "suggestion": "Le analisi molecolari li avvicinano a un supergruppo che comprende anche alghe eucariotiche.",
+    "options": [
+      "Perché le analisi molecolari li collocano in un supergruppo distinto, che comprende anche alghe eucariotiche",
+      "Perché si è scoperto che possiedono cloroplasti funzionali e sono quindi organismi pienamente autotrofi come le piante verdi",
+      "Perché formano corpi fruttiferi a lamelle identici a quelli dei Basidiomiceti superiori più evoluti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli Oomycota (muffe d'acqua e peronospore) erano attribuiti ai funghi per criteri morfologici, ma le analisi molecolari li hanno ricollocati in un supergruppo distinto dal regno Fungi, che comprende anche alghe eucariotiche.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.47"
+  },
+  {
+    "id": "bdv-lich-simbiosi-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quali organismi è costituito un lichene e con quale tipo di rapporto?",
+    "suggestion": "Uno fornisce zuccheri con la fotosintesi, l'altro protezione e accesso a substrati difficili.",
+    "options": [
+      "Da due funghi diversi in competizione tra loro, uno saprofita e uno parassita, per lo stesso substrato",
+      "Da un fungo e da un organismo fotoautotrofo (alga verde o cianobatterio) in rapporto mutualistico",
+      "Da un'alga e da un batterio decompositore in rapporto parassitario a danno dell'alga ospite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il lichene è la simbiosi mutualistica tra un fungo (per lo più Ascomicete) e un organismo fotoautotrofo, di solito un'alga verde (Chlorophyta) o, in circa l'8% dei casi, un cianobatterio. Il fungo riceve sostanza organica, l'alga protezione e accesso a substrati difficili.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.50"
+  },
+  {
+    "id": "bdv-lich-morfologia-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue un tallo lichenico fruticoso da uno crostoso?",
+    "suggestion": "Uno è eretto e tridimensionale ancorato in un punto, l'altro totalmente aderente al substrato.",
+    "options": [
+      "Il fruticoso aderisce del tutto al substrato con l'intera superficie inferiore del tallo, il crostoso è eretto e arbustivo",
+      "Il fruticoso si ancora in pochi punti tramite rizine e si sviluppa in due dimensioni sul substrato",
+      "Il fruticoso è eretto e tridimensionale, ancorato in un solo punto, il crostoso è del tutto aderente al substrato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il tallo fruticoso è eretto, tridimensionale, ancorato in un solo punto (aspetto arbustivo o filamentoso); il crostoso è completamente aderente al substrato (spesso endolitico), privo di corticali inferiori. Il foglioso, intermedio, aderisce in pochi punti tramite rizine.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.50"
+  },
+  {
+    "id": "bdv-lich-soredi-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché i soredi rappresentano un efficace mezzo di riproduzione asessuata dei licheni?",
+    "suggestion": "Contengono già entrambi i simbionti, quindi il nuovo lichene non deve ricostituire la simbiosi.",
+    "options": [
+      "Perché sono aggregati di ife e cellule algali insieme, capaci di generare un nuovo lichene completo",
+      "Perché sono spore prodotte dal solo fungo, che devono poi incontrare un'alga compatibile per formare il lichene",
+      "Perché sono gemme del solo partner algale, capaci di fotosintetizzare in autonomia senza il fungo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I soredi sono aggregati di ife strettamente avvolte attorno a cellule algali: contenendo già entrambi i simbionti, una volta dispersi generano direttamente un nuovo lichene completo. La riproduzione sessuale riguarda invece il solo fungo, le cui spore devono ritrovare un partner algale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.50"
+  },
+  {
+    "id": "bdv-lich-bioindicatori-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché i licheni sono impiegati sia come bioindicatori sia come bioaccumulatori della qualità dell'aria?",
+    "suggestion": "Sono molto sensibili all'inquinamento e trattengono nel tallo le sostanze assorbite dall'atmosfera.",
+    "options": [
+      "Perché crescono rapidamente in qualsiasi ambiente e la loro copertura non dipende affatto dal grado di inquinamento locale",
+      "Perché sono sensibili all'inquinamento e accumulano nel tallo sostanze atmosferiche come metalli e ossidi",
+      "Perché assorbono i contaminanti solo dal terreno, riflettendone fedelmente la composizione chimica"
+    ],
+    "correctIndex": 1,
+    "explanation": "I licheni sono molto sensibili all'inquinamento (numero di specie e copertura indicano la qualità dell'aria) e accumulano nel tallo sostanze atmosferiche come metalli pesanti, idrocarburi, ozono e ossidi di zolfo e azoto: sono quindi al tempo stesso bioindicatori e bioaccumulatori.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.50"
+  }
+]

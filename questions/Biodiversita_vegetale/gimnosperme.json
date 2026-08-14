@@ -1,0 +1,279 @@
+[
+  {
+    "id": "bdv-gimno-seme-nudo-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le gimnosperme sono definite piante a 'seme nudo'?",
+    "suggestion": "Il nome greco contrappone il loro seme a quello racchiuso nel frutto delle angiosperme.",
+    "options": [
+      "Perché i loro semi sono privi di qualsiasi tegumento protettivo e restano esposti alle intemperie",
+      "Perché i loro semi non sono racchiusi in un ovario, che nelle gimnosperme è del tutto assente",
+      "Perché i loro semi germinano solo dopo essere caduti nudi direttamente sul terreno umido"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle gimnosperme (dal greco gymnos, nudo) gli ovuli e i semi non sono racchiusi in un ovario, struttura presente solo nelle angiosperme, dove diventa il frutto. Il seme ha comunque un tegumento: 'nudo' si riferisce all'assenza dell'ovario.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-vantaggi-seme-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale vantaggio selettivo del seme spiega perché le spermatofite non dipendono dall'acqua libera per la fecondazione, a differenza delle piante a spore?",
+    "suggestion": "Pensa a come il gamete maschile raggiunge quello femminile senza dover nuotare in un velo d'acqua.",
+    "options": [
+      "La gamia avviene tramite il granulo pollinico e il tubetto, rendendo la fecondazione indipendente dall'acqua",
+      "La megaspora produce spermatozoidi flagellati che nuotano nell'acqua di pioggia fino all'archegonio femminile della pianta",
+      "Il seme germina subito dopo la meiosi, prima che l'ambiente possa disseccare l'embrione in formazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i tre vantaggi del seme (maggiore resistenza dell'embrione, sostanze di riserva, gamia indipendente dall'acqua), è la fecondazione mediata dal granulo pollinico a liberare le spermatofite dalla necessità di acqua libera, tipica invece delle piante a spore.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-eterosporia-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa si intende per 'eterosporia estrema' alla base dell'evoluzione del seme?",
+    "suggestion": "Riguarda due tipi di spore con destini molto diversi: una viaggia, l'altra resta protetta nella madre.",
+    "options": [
+      "La produzione di spore tutte identiche tra loro, che danno origine a gametofiti bisessuali autosufficienti e a vita breve",
+      "La produzione di un microgametofito nel granulo pollinico e di un megagametofito trattenuto nella pianta madre",
+      "La produzione di spore da parte del solo sporofito diploide, mai da parte del gametofito aploide"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'eterosporia estrema prevede due tipi distinti di spore: il microgametofito maschile, disperso nel granulo pollinico (spesso per via anemofila), e il megagametofito femminile, che resta protetto e si sviluppa dentro la pianta madre. È il presupposto dell'ovulo e del seme.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-fill-micropilo-004",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'apertura del tegumento dell'ovulo attraverso cui passa il tubetto pollinico durante la fecondazione è detta ___.",
+    "answers": [["micropilo"]],
+    "suggestion": "È il 'piccolo poro' del tegumento; da non confondere con la nocella, che è lo sporangio interno.",
+    "explanation": "Il micropilo è l'apertura del tegumento dell'ovulo che consente il passaggio del tubetto pollinico. Il tegumento avvolge la nocella (lo sporangio), all'interno della quale si sviluppa il gametofito femminile.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-megaspora-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella formazione dell'ovulo, quale destino hanno le quattro megaspore prodotte dalla meiosi?",
+    "suggestion": "Solo una porta avanti la linea femminile; le altre non sopravvivono.",
+    "options": [
+      "Tutte e quattro si sviluppano in altrettanti gametofiti femminili indipendenti attorno alla nocella",
+      "Le quattro megaspore si fondono tra loro formando un unico grande gametofito femminile poliploide",
+      "Una sola megaspora sopravvive e forma il gametofito femminile, mentre le altre tre degenerano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Delle quattro megaspore prodotte per meiosi nella nocella, ne sopravvive funzionalmente una sola, che sviluppa un gametofito femminile endosporico; le altre tre degenerano. È questa megaspora superstite a dare origine alla linea femminile dell'ovulo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-progimnosperme-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere delle Progymnospermophyta (es. Archaeopteris) le colloca tra le pteridofite e le vere gimnosperme?",
+    "suggestion": "Un tratto riguarda la loro crescita in spessore, l'altro il modo di riprodursi.",
+    "options": [
+      "Producevano già veri semi racchiusi in un ovario, pur riproducendosi ancora tramite spore disperse dal vento",
+      "Avevano un cambio vascolare bifacciale e legno secondario, pur riproducendosi ancora per spore, senza seme",
+      "Erano prive di tessuti vascolari e di cambio, come le briofite, ma già dotate di veri semi protetti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le progimnosperme come Archaeopteris avevano un cambio vascolare bifacciale (che produce xilema e floema secondari, quindi legno) ed eustele, caratteri delle piante legnose evolute, ma si riproducevano ancora per spore, senza seme: sono intermedie tra pteridofite e gimnosperme.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-pteridospermales-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le estinte Pteridospermales sono dette 'felci a seme'?",
+    "suggestion": "Il nome combina l'aspetto delle loro foglie con una struttura riproduttiva che le felci vere non hanno.",
+    "options": [
+      "Perché avevano fronde di aspetto simile a quelle delle felci ma portavano semi veri e propri",
+      "Perché erano vere felci che, in condizioni di siccità, producevano spore particolarmente resistenti",
+      "Perché derivavano dalle angiosperme moderne per riduzione secondaria del fiore e del frutto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Pteridospermales (es. Medullosa) sono dette felci a seme perché avevano un aspetto fogliare simile a quello delle felci pur portando semi veri e propri: erano gimnosperme, non felci. Sono oggi completamente estinte.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-gimno-legno-omoxilo-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza il legno omoxilo tipico delle gimnosperme?",
+    "suggestion": "Confronta gli elementi conduttori del loro xilema con quelli, più diversificati, delle angiosperme.",
+    "options": [
+      "È un legno formato quasi esclusivamente da tracheidi, privo degli elementi dei vasi delle angiosperme",
+      "È un legno costituito in prevalenza da elementi dei vasi ampi, come quello delle angiosperme arboree",
+      "È un legno del tutto privo di lignina, mantenuto rigido soltanto dalla pressione di turgore delle cellule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il legno omoxilo delle gimnosperme è costituito quasi esclusivamente da tracheidi, privo degli elementi dei vasi (trachee) tipici delle angiosperme: è quindi più omogeneo. Le gimnosperme hanno inoltre crescita secondaria e portamento monopodiale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.32-33"
+  },
+  {
+    "id": "bdv-gimno-endosperma-primario-009",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa l'endosperma primario delle gimnosperme differisce dall'endosperma delle angiosperme?",
+    "suggestion": "Pensa a quando si forma il tessuto di riserva rispetto alla fecondazione, e al suo corredo cromosomico.",
+    "options": [
+      "È un tessuto triploide che si forma solo dopo la doppia fecondazione, come nelle angiosperme",
+      "È un tessuto aploide derivato dal gametofito femminile, che si forma prima e indipendentemente dalla fecondazione",
+      "È un tessuto diploide prodotto dallo sporofito madre subito dopo la germinazione del granulo pollinico, senza alcun apporto del gametofito"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle gimnosperme l'endosperma primario è un tessuto di riserva aploide che deriva direttamente dal gametofito femminile e si forma prima e indipendentemente dalla fecondazione; manca la doppia fecondazione, che nelle angiosperme genera un endosperma (di norma triploide) solo dopo la fecondazione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-anemofilia-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale modalità di impollinazione caratterizza le gimnosperme?",
+    "suggestion": "Non producono fiori vistosi né nettare: pensa a quale agente trasporta il loro polline.",
+    "options": [
+      "L'impollinazione entomofila, affidata a insetti attratti da fiori colorati e profumati",
+      "L'impollinazione idrofila, con polline trasportato dalle correnti dell'acqua",
+      "L'impollinazione anemofila, con polline trasportato dal vento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le gimnosperme hanno impollinazione anemofila: il polline è trasportato dal vento. Ciò si accompagna a un processo riproduttivo rallentato rispetto alle angiosperme e alla produzione di grandi quantità di polline.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-pinaceae-brachiblasti-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono portati gli aghi nei Pinoideae (es. Pinus sylvestris) rispetto agli Abietoideae?",
+    "suggestion": "La differenza sta nel tipo di ramo, corto o lungo, su cui gli aghi sono inseriti.",
+    "options": [
+      "Sono riuniti a ciuffi su brachiblasti, i rami molto accorciati, mentre negli Abietoideae stanno sul macroblasto",
+      "Sono ridotti a squame appressate al ramo, mentre negli Abietoideae sono aghiformi e disposti a ciuffi densi e persistenti",
+      "Sono portati singolarmente sul macroblasto, mentre negli Abietoideae sono riuniti in verticilli densi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei Pinoideae (Pinus) gli aghi sono riuniti a ciuffi su brachiblasti (rami accorciati); negli Abietoideae (Picea, Abies) gli aghi sono portati direttamente sul macroblasto; nei Laricoideae (Larix, Cedrus) su entrambi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.33-34"
+  },
+  {
+    "id": "bdv-gimno-pigna-falso-frutto-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la pigna delle Pinaceae è definita un 'falso frutto'?",
+    "suggestion": "Il vero frutto deriva da una struttura che alle gimnosperme manca del tutto.",
+    "options": [
+      "Perché è un frutto vero che però, essiccandosi, perde ogni parte carnosa e diventa legnoso e secco",
+      "Perché non deriva da un ovario, struttura assente nelle gimnosperme, ma da uno strobilo con squame ovulari",
+      "Perché matura in un solo anno anziché in due, a differenza di quanto avviene nei veri frutti carnosi delle angiosperme"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pigna è lo strobilo femminile maturo, formato da squame ovulari e copritrici disposte su un asse; è detta falso frutto perché non deriva dall'ovario (assente nelle gimnosperme), a differenza del vero frutto delle angiosperme. I semi, spesso alati, sono rilasciati per apertura delle squame.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-fill-galbulo-013",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Lo strobilo femminile maturo delle Cupressaceae, cilindrico e carnoso nel ginepro o legnoso nel cipresso, è detto ___.",
+    "answers": [["galbulo", "galbuli"]],
+    "suggestion": "È il 'frutto' del ginepro (la 'bacca' azzurra) e del cipresso; non è la pigna delle Pinaceae.",
+    "explanation": "Il galbulo è lo strobilo femminile maturo delle Cupressaceae: carnoso nel ginepro (Juniperus), membranaceo nella tuia, legnoso nel cipresso. È l'analogo della pigna delle Pinaceae, ma con squame a scudo fuse alle brattee.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-taxus-arillo-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura avvolge il seme di Taxus baccata (il tasso) favorendone la dispersione da parte degli animali?",
+    "suggestion": "Non è un vero frutto, ma un involucro carnoso e colorato che si sviluppa dalla base dell'ovulo.",
+    "options": [
+      "Un vero frutto carnoso derivato dall'ovario, come la bacca di molte angiosperme zoocore",
+      "Un galbulo legnoso a squame appressate, simile a una piccola pigna richiusa attorno al seme",
+      "Un arillo, involucro carnoso e colorato che nasce dalla base dell'ovulo e circonda il seme"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il tasso non produce un vero frutto: il seme è avvolto da un arillo, un involucro carnoso e vivacemente colorato che si sviluppa dalla base dell'ovulo e ne favorisce la dispersione da parte degli animali (dispersione zoocora).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-cicadofite-spermatozoidi-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la presenza di spermatozoidi flagellati nelle Cycadophyta è considerata un carattere primitivo?",
+    "suggestion": "È un tratto condiviso con un gruppo di piante più antico, che le spermatofite più evolute hanno superato.",
+    "options": [
+      "Perché è un carattere derivato di recente, comparso soltanto nelle gimnosperme più evolute e mai nelle antiche piante a spore",
+      "Perché è un carattere condiviso con le piante prive di seme, conservato nonostante la presenza del granulo pollinico",
+      "Perché indica che le cicadofite sono in realtà angiosperme molto antiche, con doppia fecondazione già presente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le cicadofite producono spermatozoidi flagellati, mobili: è un carattere primitivo condiviso con le piante prive di seme, che si conserva pur essendo presente il granulo pollinico. Anche Ginkgo biloba mantiene questo tratto ancestrale.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.34-35"
+  },
+  {
+    "id": "bdv-gimno-cicadofite-radici-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale funzione hanno le radici coralloidi delle Cycadophyta?",
+    "suggestion": "La loro forma ramificata ospita microrganismi capaci di fornire un elemento nutritivo alla pianta.",
+    "options": [
+      "Ancorano la pianta alle rocce e immagazzinano grandi quantità d'acqua nei tessuti succulenti",
+      "Ospitano cianobatteri simbionti azotofissatori, fornendo azoto alla pianta",
+      "Svolgono fotosintesi sotterranea grazie a plastidi verdi presenti nella loro corteccia esterna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le radici coralloidi delle cicadofite, ramificate a forma di corallo, ospitano cianobatteri simbionti capaci di fissare l'azoto atmosferico, che viene reso disponibile alla pianta. È un adattamento nutrizionale tipico del gruppo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34-35"
+  },
+  {
+    "id": "bdv-gimno-ginkgo-fossile-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché Ginkgo biloba è considerato un 'fossile vivente'?",
+    "suggestion": "Confronta la sua morfologia attuale con quella dei suoi antenati fossili molto antichi.",
+    "options": [
+      "Perché conserva caratteri morfologici pressoché invariati rispetto ad antenati fossili molto antichi",
+      "Perché è una specie di recente comparsa, evolutasi da poco a partire dalle conifere moderne",
+      "Perché sopravvive unicamente come reperto fossile, non essendo più presente in natura alcun individuo vivente della specie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ginkgo biloba, unica specie vivente delle Ginkgophyta, conserva caratteri morfologici quasi invariati rispetto ad antenati fossili molto antichi: è quindi un fossile vivente. Ha foglie flabellate con nervature dicotomiche, è dioica e resistente a inquinanti e malattie.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-welwitschia-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingue Welwitschia mirabilis, tra le Gnetophyta, come pianta dei deserti africani?",
+    "suggestion": "Ha un numero di foglie sorprendentemente ridotto, che la accompagnano per tutta la sua lunghissima vita.",
+    "options": [
+      "Un fusto molto sviluppato e ramificato che porta centinaia di foglie aghiformi rinnovate ogni anno",
+      "Un fusto ridotto e due sole foglie nastriformi, persistenti per l'intera vita della pianta",
+      "Foglie ampie e appiattite portate da lunghe liane rampicanti, come nel genere tropicale Gnetum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Welwitschia mirabilis, pianta dei deserti africani, ha un fusto molto ridotto e sole due foglie nastriformi che persistono per l'intera vita della pianta, che può durare secoli. Il genere Gnetum comprende invece liane tropicali, ed Ephedra arbusti articolati.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-anthophyte-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa propone l'ipotesi cladistica 'anthophyte' sulle relazioni delle Gnetophyta?",
+    "suggestion": "Colloca le Gnetophyta più vicine a un gruppo esterno alle gimnosperme che ad altre gimnosperme.",
+    "options": [
+      "Che le Gnetophyta siano il gruppo fratello delle sole Coniferophyta, restando comunque all'interno delle gimnosperme viventi",
+      "Che le Gnetophyta siano strettamente imparentate con le sole Pinaceae, dentro le conifere",
+      "Che le Gnetophyta formino con le angiosperme un raggruppamento (Antofite), separandole dalle altre gimnosperme"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ipotesi 'anthophyte' unisce le Gnetophyta alle angiosperme in un gruppo detto Antofite, separandole dalle altre gimnosperme. Le alternative sono 'gnetifer' (Gnetophyta sorelle delle Coniferophyta) e 'gnepine' (Gnetophyta vicine alle sole Pinaceae).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.33"
+  }
+]

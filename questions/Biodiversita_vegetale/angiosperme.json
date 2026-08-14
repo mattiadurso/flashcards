@@ -1,0 +1,320 @@
+[
+  {
+    "id": "bdv-angio-definizione-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingue le angiosperme dalle gimnosperme nella protezione dell'ovulo?",
+    "suggestion": "Pensa alla struttura, derivata da foglie modificate, che racchiude gli ovuli e diventerà il frutto.",
+    "options": [
+      "Gli ovuli sono racchiusi in uno o più carpelli chiusi che formano l'ovario, assente nelle gimnosperme",
+      "Gli ovuli sono esposti e nudi su squame ovulari, come avviene negli strobili delle conifere",
+      "Gli ovuli sono privi di tegumento e vengono fecondati direttamente da spermatozoidi mobili flagellati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle angiosperme gli ovuli sono protetti dentro uno o più carpelli chiusi (foglie modificate) che costituiscono l'ovario, che dopo la fecondazione diventa il frutto. Nelle gimnosperme gli ovuli sono nudi e l'ovario è assente.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.36-37"
+  },
+  {
+    "id": "bdv-angio-legno-eteroxilo-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza il legno eteroxilo delle angiosperme rispetto al legno omoxilo delle conifere?",
+    "suggestion": "Confronta la varietà dei tipi cellulari che compongono lo xilema secondario dei due gruppi.",
+    "options": [
+      "È formato quasi esclusivamente da tracheidi uniformi, senza elementi dei vasi né fibre specializzate",
+      "È costituito da più tipi cellulari differenziati, tra cui vasi conduttori, fibre e parenchima",
+      "È del tutto privo di lignina e resta rigido soltanto grazie alla pressione di turgore delle cellule vive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il legno eteroxilo delle angiosperme è costituito da più tipi cellulari differenziati (vasi conduttori, fibre, parenchima), mentre il legno omoxilo delle conifere è formato quasi esclusivamente da tracheidi. Le angiosperme hanno inoltre un floema con tubi cribrosi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.36"
+  },
+  {
+    "id": "bdv-angio-ovulo-confronto-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura, presente nell'ovulo angiospermico ma assente in quello gimnospermico, ne rappresenta la novità evolutiva chiave?",
+    "suggestion": "È la parete che racchiude nucella e tegumenti e prosegue in stilo e ovario.",
+    "options": [
+      "Il micropilo, la piccola apertura del tegumento attraverso cui penetra il tubetto pollinico nell'ovulo",
+      "La nucella, il tessuto sporofitico che racchiude il megasporocito sede della meiosi femminile",
+      "La parete ovarica derivata dal carpello, che racchiude l'ovulo e prosegue in stilo e ovario"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'ovulo angiospermico tegumenti, micropilo, nucella e megasporocito sono racchiusi da una parete ovarica derivata dal carpello, che prosegue in stilo e ovario: strutture assenti nelle gimnosperme, dove l'ovulo è nudo. Micropilo e nucella sono invece presenti in entrambi.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-polline-cellule-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quante cellule è costituito il microgametofito (polline maturo) delle angiosperme e con quale funzione?",
+    "suggestion": "Una cellula guida la crescita del tubetto, le altre sono i gameti maschili veri e propri.",
+    "options": [
+      "Da tre cellule: una vegetativa, che forma il tubetto pollinico, e due cellule spermatiche",
+      "Da una sola cellula indifferenziata che nel tubetto si divide in numerose cellule uovo mobili",
+      "Da sette cellule con otto nuclei, tra cui l'oosfera e le sinergidi accessorie del gamete"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il polline maturo è costituito da tre cellule: una cellula vegetativa (del tubetto pollinico) e due cellule spermatiche (dalla divisione della cellula generativa). Le sette cellule/otto nuclei descrivono invece il sacco embrionale femminile.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-fill-esina-005",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La parete esterna del granulo pollinico, composta di sporopollenina e responsabile della sua elevata conservabilità, è detta ___.",
+    "answers": [["esina"]],
+    "suggestion": "È lo strato esterno resistente; quello interno di cellulosa e pectine è l'intina.",
+    "explanation": "L'esina è la parete esterna del polline, fatta di sporopollenina, che ne garantisce l'eccezionale resistenza e conservabilità (utile anche in palinologia). La parete interna, di cellulosa e pectine, è l'intina.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-sacco-embrionale-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali cellule del sacco embrionale maturo (tipo Polygonum) sono direttamente coinvolte nella doppia fecondazione?",
+    "suggestion": "Una diventerà lo zigote, gli altri due nuclei daranno il tessuto di riserva triploide.",
+    "options": [
+      "Le cellule antipodali all'estremità calazale e le sinergidi accessorie all'estremità micropilare",
+      "L'oosfera, che sarà fecondata, e i due nuclei polari, che formeranno il nucleo dell'endosperma",
+      "Le sole tre cellule antipodali, che si fondono con entrambe le cellule spermatiche del polline"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella doppia fecondazione una cellula spermatica feconda l'oosfera (→ zigote 2n) e l'altra si fonde con i due nuclei polari (→ nucleo primario dell'endosperma 3n). Antipodali e sinergidi sono cellule accessorie senza ruolo diretto di gamete.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.37-38"
+  },
+  {
+    "id": "bdv-angio-doppia-fecondazione-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la doppia fecondazione è considerata un carattere distintivo delle angiosperme?",
+    "suggestion": "Nessun altro gruppo produce contemporaneamente due prodotti da due fusioni distinte.",
+    "options": [
+      "Perché due cellule spermatiche fecondano due oosfere distinte, generando sempre due embrioni gemelli",
+      "Perché il tubetto pollinico feconda l'oosfera e poi l'endosperma primario preesistente già aploide",
+      "Perché una spermatica feconda l'oosfera (zigote 2n) e l'altra i nuclei polari (endosperma 3n)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La doppia fecondazione è esclusiva delle angiosperme: una cellula spermatica forma lo zigote diploide con l'oosfera, l'altra forma il nucleo primario dell'endosperma triploide fondendosi con i due nuclei polari. Nelle gimnosperme l'endosperma è aploide e preesiste alla fecondazione.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-fill-endosperma-008",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle angiosperme il tessuto di riserva triploide che nutre l'embrione, formato dopo la doppia fecondazione, è detto ___.",
+    "answers": [["endosperma", "endosperma secondario"]],
+    "suggestion": "Deriva dalla fusione di una cellula spermatica con i due nuclei polari; è triploide (3n).",
+    "explanation": "L'endosperma (secondario) è il tessuto nutritivo triploide che si sviluppa dal nucleo primario dell'endosperma dopo la doppia fecondazione. È distinto dall'endosperma primario aploide delle gimnosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-sviluppi-post-009",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa si sviluppano, rispettivamente, i tegumenti dell'ovulo e le pareti dell'ovario dopo la fecondazione?",
+    "suggestion": "Uno diventa l'involucro del seme, l'altra la struttura che racchiude i semi.",
+    "options": [
+      "I tegumenti nell'involucro del seme, le pareti dell'ovario nel frutto",
+      "I tegumenti nell'endosperma nutritivo, le pareti dell'ovario nell'embrione in crescita",
+      "I tegumenti nel frutto carnoso, le pareti dell'ovario nel tegumento seminale protettivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dopo la doppia fecondazione: il nucleo primario dà l'endosperma, lo zigote l'embrione, i tegumenti dell'ovulo l'involucro del seme (tegumento seminale) e le pareti dell'ovario il frutto. Sono i quattro eventi di sviluppo tipici delle angiosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-placentazione-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica la placentazione di tipo assiale in un ovario?",
+    "suggestion": "Riguarda dove si inseriscono gli ovuli rispetto ai setti e all'asse centrale dell'ovario.",
+    "options": [
+      "Gli ovuli sono inseriti sulla parete esterna dell'ovario, senza alcun asse o setto centrale",
+      "Gli ovuli sono inseriti su un asse centrale che collega i setti dell'ovario",
+      "Gli ovuli sono inseriti su una colonna centrale non collegata alle pareti dell'ovario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella placentazione assiale gli ovuli si inseriscono su un asse centrale che unisce i setti dell'ovario. Si distingue dalla parietale (ovuli sulla parete ovarica) e dalla centrale libera (ovuli su una colonna centrale non collegata alle pareti).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-fiore-ancestrale-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la ricostruzione di Sauquet et al. (2017), come era organizzato il perianzio del fiore ancestrale delle angiosperme?",
+    "suggestion": "Pensa a elementi non ancora distinti in sepali e petali, disposti in più giri e a simmetria raggiata.",
+    "options": [
+      "Assente del tutto, con un fiore ridotto a soli stami e carpelli come nei fiori anemofili moderni",
+      "Distinto in un calice verde e una corolla colorata, già saldati in un tubo gamopetalo zigomorfo",
+      "Formato da numerosi tepali indifferenziati, in più verticilli trimeri, liberi e attinomorfi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fiore ancestrale ricostruito era bisessuale, con gineceo supero di carpelli liberi e un perianzio di più di dieci tepali indifferenziati (non distinti in sepali e petali), disposti in più verticilli trimeri, liberi e attinomorfi (simmetria raggiata).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-tendenza-ovario-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale tendenza evolutiva si osserva nella posizione dell'ovario delle angiosperme?",
+    "suggestion": "La direzione va dall'ovario che sta sopra gli altri verticilli a quello avvolto dal ricettacolo.",
+    "options": [
+      "Dall'ovario supero all'ovario infero, avvolto dal tessuto ricettacolare degli altri verticilli",
+      "Dall'ovario infero all'ovario supero, che si solleva progressivamente sopra gli altri verticilli",
+      "Dall'ovario centrale libero all'ovario del tutto assente, sostituito da carpelli liberi e nudi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra le tendenze evolutive del fiore, la posizione dell'ovario evolve da supero (sopra l'inserzione degli altri verticilli) a infero (sotto, avvolto dal ricettacolo). Nota però che tra i 'caratteri vincenti' l'ovario supero resta comunque il più diffuso nelle angiosperme attuali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-simmetria-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue un fiore zigomorfo da uno attinomorfo?",
+    "suggestion": "Conta quanti piani dividono il fiore in due metà speculari.",
+    "options": [
+      "Il fiore zigomorfo ha simmetria raggiata con molti piani, l'attinomorfo un solo piano di simmetria",
+      "Il fiore zigomorfo ha un solo piano di simmetria (bilaterale), l'attinomorfo più piani (raggiata)",
+      "Il fiore zigomorfo è del tutto privo di simmetria, mentre l'attinomorfo ha petali sempre fusi in tubo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fiore attinomorfo ha simmetria raggiata (più piani di simmetria); lo zigomorfo ha simmetria bilaterale (un solo piano). La tendenza evolutiva va dall'attinomorfia (condizione più diffusa e 'vincente') alla zigomorfia, spesso legata a impollinatori specifici.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.39-40"
+  },
+  {
+    "id": "bdv-angio-gamopetalo-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica il passaggio evolutivo dalla condizione dialipetala a quella gamopetala nel perianzio?",
+    "suggestion": "Riguarda se i petali sono separati l'uno dall'altro oppure uniti tra loro.",
+    "options": [
+      "Il passaggio da petali fusi in tubo a petali del tutto liberi e separati tra loro",
+      "Il passaggio da un perianzio assente a uno vistoso e colorato, distinto in calice e corolla",
+      "Il passaggio da petali liberi (dialipetalo) a petali fusi almeno in parte (gamopetalo)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La condizione dialipetala ha petali liberi tra loro; quella gamopetala li ha fusi almeno parzialmente. La tendenza evolutiva va dal dialipetalo al gamopetalo, anche se tra i caratteri vincenti il perianzio libero resta il più diffuso.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.40"
+  },
+  {
+    "id": "bdv-angio-coevoluzione-015",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo la coevoluzione fiore-impollinatore agisce sulle due specie coinvolte?",
+    "suggestion": "Ciascuna delle due esercita una pressione selettiva sull'altra, che vi risponde adattandosi.",
+    "options": [
+      "Solo la pianta evolve strutture di richiamo come colore e nettare, mentre l'impollinatore resta del tutto invariato",
+      "La pianta evolve strutture di richiamo e l'impollinatore parti del corpo e comportamenti adatti all'impollinazione",
+      "Solo l'impollinatore modifica il proprio comportamento, mentre il fiore mantiene una forma fissa e generica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella coevoluzione l'influenza è reciproca: la pianta evolve colore, forma, profumo e nettare per richiamare specifici impollinatori, mentre l'impollinatore evolve parti del corpo e comportamenti adatti a visitare quei fiori. Circa il 65% delle angiosperme è impollinato da insetti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.40-41"
+  },
+  {
+    "id": "bdv-angio-riduzione-salix-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché generi come Salix e Thalictrum mostrano che l'evoluzione del fiore non ha una direzione univoca?",
+    "suggestion": "I loro fiori vanno controcorrente rispetto alla tendenza verso fiori vistosi: pensa al loro impollinatore.",
+    "options": [
+      "Perché hanno fiori ridotti e privi di perianzio vistoso, adattati all'impollinazione anemofila",
+      "Perché hanno fiori giganti, molto vistosi e ricchi di nettare, adattati all'impollinazione da parte dei chirotteri",
+      "Perché hanno del tutto perso la riproduzione sessuata, riproducendosi solo per via vegetativa e clonale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salix e Thalictrum hanno fiori ridotti, privi di perianzio vistoso, adattati all'impollinazione anemofila: mostrano che, in certi contesti, l'evoluzione del fiore può portare a semplificazioni, in apparente controtendenza rispetto all'aumento della complessità e del richiamo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.41"
+  },
+  {
+    "id": "bdv-angio-anemocoria-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura del frutto o del seme è tipicamente associata alla dispersione anemocora (per mezzo del vento)?",
+    "suggestion": "Pensa a un'appendice alare o piumosa che rallenta la caduta e sfrutta le correnti d'aria.",
+    "options": [
+      "L'ala membranosa della samara o il pappo degli acheni delle Asteraceae",
+      "Il frutto uncinato che si aggancia al pelo degli animali, come in Arctium lappa",
+      "Il rivestimento carnoso e zuccherino che invoglia gli animali a ingerire il frutto"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'anemocoria (dispersione per vento) si serve di strutture come le ali delle samare, il pappo degli acheni delle Asteraceae, i peli dei semi o gli stili pennati. I frutti uncinati e i rivestimenti carnosi appartengono invece alla zoocoria.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.40"
+  },
+  {
+    "id": "bdv-angio-fill-zoocoria-018",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La dispersione dei semi a opera degli animali, come nei frutti uncinati di Arctium lappa o nelle bacche ingerite dagli uccelli, è detta ___.",
+    "answers": [["zoocoria"]],
+    "suggestion": "Il termine unisce 'animale' (zoo-) alla dispersione; comprende epizoocoria ed endozoocoria.",
+    "explanation": "La zoocoria è la dispersione dei semi a opera degli animali; comprende l'epizoocoria (trasporto esterno, come nei frutti uncinati), l'endozoocoria (ingestione), la mirmecocoria (formiche), l'ornitocoria (uccelli) e altre forme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.40"
+  },
+  {
+    "id": "bdv-angio-epizoocoria-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue l'epizoocoria dall'endozoocoria nella dispersione zoocora?",
+    "suggestion": "Una trasporta il seme all'esterno del corpo dell'animale, l'altra al suo interno.",
+    "options": [
+      "L'epizoocoria avviene per ingestione del frutto, l'endozoocoria per adesione esterna al pelo dell'animale",
+      "L'epizoocoria è operata solo dalle formiche, l'endozoocoria solo dai roditori come Corylus avellana",
+      "L'epizoocoria trasporta il seme aderente all'esterno dell'animale, l'endozoocoria attraverso l'ingestione"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'epizoocoria è il trasporto esterno del seme aderente al corpo dell'animale (es. frutti uncinati di Arctium lappa); l'endozoocoria avviene per ingestione del frutto e successiva espulsione del seme. Sono due sottotipi di zoocoria.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.40"
+  },
+  {
+    "id": "bdv-angio-cronquist-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel sistema Cronquist (1981), a cosa corrispondono le due classi Magnoliopsida e Liliopsida?",
+    "suggestion": "Sono i due grandi gruppi tradizionali distinti, tra l'altro, dal numero di cotiledoni dell'embrione.",
+    "options": [
+      "Magnoliopsida alle Dicotiledoni e Liliopsida alle Monocotiledoni",
+      "Magnoliopsida alle Gimnosperme e Liliopsida alle Angiosperme a fiore",
+      "Magnoliopsida alle Monocotiledoni e Liliopsida alle Eudicotiledoni basali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel sistema Cronquist, basato su caratteri morfologici, le angiosperme si dividono in Magnoliopsida (Dicotiledoni) e Liliopsida (Monocotiledoni). I sistemi APG, molecolari (APG IV 2016 è il riferimento attuale), organizzano invece le angiosperme in gruppi basali, Monocotiledoni ed Eudicotiledoni.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.41"
+  },
+  {
+    "id": "bdv-angio-apg-basali-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché ordini come Amborellales e Nymphaeales sono considerati 'gruppi basali' delle angiosperme nel sistema APG IV?",
+    "suggestion": "Pensa al momento in cui questi ordini si sono separati rispetto al resto delle angiosperme.",
+    "options": [
+      "Perché sono le angiosperme più recenti, comparse dopo la piena diversificazione di monocotiledoni ed eudicotiledoni",
+      "Perché si sono differenziati per primi rispetto al resto delle angiosperme, occupando posizioni basali nell'albero",
+      "Perché sono in realtà gimnosperme relitte, prive di ovario e collocate alla base delle piante a seme"
+    ],
+    "correctIndex": 1,
+    "explanation": "I gruppi basali (Amborellales, Nymphaeales, Austrobaileyales, poi Chloranthales e Magnoliidae) sono gli ordini che si sono differenziati per primi rispetto al resto delle angiosperme, occupando quindi posizioni basali nell'albero filogenetico APG. Amborella è considerata la linea più antica.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.41"
+  },
+  {
+    "id": "bdv-angio-refugia-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale ruolo ebbero i 'rifugi isolati' nella storia paleoclimatica delle angiosperme, secondo la ricostruzione presentata?",
+    "suggestion": "Durante una fase di forte aridità dei tropici, il gruppo dovette sopravvivere in poche aree favorevoli.",
+    "options": [
+      "Furono le aree tropicali umide dove le angiosperme si diffusero rapidamente durante la radiazione cretacica",
+      "Furono ambienti in cui le angiosperme sopravvissero durante la desertificazione giurassica dei tropici",
+      "Furono i bacini di rift settentrionali dove comparvero le primissime angiosperme del Triassico superiore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante la desertificazione giurassica dei tropici, le angiosperme sopravvissero in rifugi isolati (isolated refugia); la specie Amborella è considerata una relitta di questa fase. Solo il successivo miglioramento climatico preparò l'ampia radiazione cretacica.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.36"
+  }
+]

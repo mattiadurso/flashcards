@@ -113,19 +113,19 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
     Bio-Chimica/                 ← course 2: PDFs and .pptx source decks
     Funzionalita_ambientale_dei_suoli/
                                   ← course 3: environmental functions of soils source material
-    Biologia/                    ← course 4: plant biology ("Biologia vegetale"); single lecture-notes PDF (Bio_1.pdf)
+    Biologia/                    ← course 4 source PDF (Bio_1.pdf, plant biology). Its question banks were REMOVED
+                                    on request (see Biodiversità vegetale); the PDF is kept but no longer drives any bank.
     Biodiversità vegetale/       ← course 5: two textbook PDFs. "Biodiversità vegetale.pdf" = systematics of all
                                     plant/organism groups (source of the questions/Biodiversita_vegetale banks).
                                     "Biologia veg.pdf" ("Le molecole della vita") = plant biochemistry/cell/tissue —
-                                    NOT turned into questions: its content overlaps the existing Biologia/ banks.
+                                    not yet turned into questions.
   questions/                     ← the question banks the website actually loads
     index.json                   ← MANIFEST. Lists every bank file; a file not listed here is invisible to the site
     Anatomia_e_Biologia/         ← one JSON bank per species/lecture (cervo.json, capriolo.json, …)
     Bio-Chimica/                 ← one JSON bank per topic (mercurio.json, ddt.json, …)
     Funzionalita_ambientale_dei_suoli/
                                   ← bank for the environmental functions of soils course
-    Biologia/                    ← 15 JSON banks, one per plant-biology topic (origine-vita-evoluzione.json,
-                                    fotosintesi.json, respirazione-glicolisi-krebs.json, …) — 200 MC + 40 fill questions
+    (Biologia/ removed)          ← the Bio_1.pdf plant-biology banks were deleted on request; folder no longer exists
     Biodiversita_vegetale/       ← banks from "Biodiversità vegetale.pdf" (systematics), one per chapter
                                     (tassonomia, procarioti, alghe, briofite, pteridofite, … angiosperm families).
                                     NB: folder name has no accent/space (mirrors the docs/ folder per the no-spaces rule)
