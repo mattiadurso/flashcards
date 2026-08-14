@@ -1,0 +1,316 @@
+[
+  {
+    "id": "bdv-cons-livelli-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quali tre livelli fondamentali si articola la biodiversità?",
+    "suggestion": "Si va dalla variabilità dentro una specie fino agli insiemi di organismi e ambiente.",
+    "options": [
+      "Diversità genetica, diversità specifica e diversità di ecosistemi",
+      "Diversità di regni, diversità di phyla e diversità di famiglie tassonomiche",
+      "Diversità animale, diversità vegetale e diversità dei microrganismi decompositori"
+    ],
+    "correctIndex": 0,
+    "explanation": "La biodiversità si articola su tre livelli interconnessi (il 'network della biodiversità'): diversità genetica (varianti entro una specie), diversità specifica (le diverse specie) e diversità ecosistemica o di paesaggio. La biodiversità funzionale aggiunge le interazioni tra questi livelli.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.51"
+  },
+  {
+    "id": "bdv-cons-corridoi-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché i corridoi ecologici aiutano a conservare la diversità genetica di una popolazione?",
+    "suggestion": "Collegano frammenti isolati di habitat: pensa a cosa possono di nuovo scambiarsi le popolazioni.",
+    "options": [
+      "Perché aumentano la frammentazione dell'habitat, isolando le popolazioni e riducendone così la variabilità",
+      "Perché collegano aree frammentate, consentendo il flusso genico tra popolazioni altrimenti isolate",
+      "Perché eliminano del tutto la riproduzione sessuata, favorendo la propagazione clonale degli individui"
+    ],
+    "correctIndex": 1,
+    "explanation": "I corridoi ecologici sono fasce di habitat naturale che collegano aree frammentate, permettendo la dispersione degli individui e il flusso genico tra popolazioni. Contrastano così la perdita di diversità genetica dovuta a frammentazione e riduzione delle popolazioni.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.51"
+  },
+  {
+    "id": "bdv-cons-equitabilita-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa misura l'equitabilità (abbondanza relativa) di una comunità, distinta dalla semplice ricchezza di specie?",
+    "suggestion": "Non conta quante specie ci sono, ma quanto uniformemente gli individui si distribuiscono tra esse.",
+    "options": [
+      "Il numero totale di specie presenti nell'area, indipendentemente da quanti individui abbia ciascuna",
+      "La scarsità assoluta di organismi di una data specie rara in una determinata area geografica",
+      "Il grado di uniformità con cui gli individui si distribuiscono tra le diverse specie della comunità"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'equitabilità esprime quanto uniformemente gli individui sono ripartiti tra le specie: è elevata se le specie sono equamente rappresentate, bassa se poche specie dominano. È distinta dalla ricchezza (numero di specie) e dalla rarità (scarsità di organismi).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.51-52"
+  },
+  {
+    "id": "bdv-cons-ecosistemica-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il livello ecosistemico rappresenta la massima complessità della biodiversità?",
+    "suggestion": "Non contiene solo organismi: aggiunge l'ambiente fisico e le loro reciproche influenze.",
+    "options": [
+      "Perché riassume i livelli genetico e specifico e integra i fattori abiotici con la componente biotica",
+      "Perché considera esclusivamente i fattori abiotici come temperatura, luce, acqua e minerali del suolo, escludendo i viventi",
+      "Perché riguarda soltanto la variabilità genetica interna alle popolazioni di una singola specie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il livello ecosistemico è il più complesso perché riassume la diversità genetica e specifica, comprende i fattori abiotici (temperatura, luce, acqua, suolo) e include le reciproche influenze tra componente biotica e abiotica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.52"
+  },
+  {
+    "id": "bdv-cons-fill-endemica-005",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Una specie presente esclusivamente in una determinata area geografica e in nessun altro luogo al mondo è detta ___.",
+    "answers": [["endemica", "endemismo", "endemiche"]],
+    "suggestion": "È il tipo di specie che rende preziosi gli hotspot di biodiversità.",
+    "explanation": "Una specie endemica è presente solo in un'area geografica limitata. Gli hotspot di biodiversità sono aree ristrette ricche di specie rare o minacciate, molte delle quali endemiche.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.52"
+  },
+  {
+    "id": "bdv-cons-hotspot-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza un hotspot di biodiversità?",
+    "suggestion": "È un'area piccola ma eccezionalmente ricca di specie particolari e a rischio.",
+    "options": [
+      "Un'area vastissima e uniforme con poche specie comuni, ampiamente diffuse anche altrove nel mondo",
+      "Un'area relativamente ristretta con molte specie rare o minacciate, spesso endemiche",
+      "Un'area completamente priva di specie endemiche, in cui la biodiversità è distribuita in modo omogeneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un hotspot di biodiversità è un'area relativamente ristretta rispetto al pianeta, ricca di numerose specie rare o minacciate, molte delle quali endemiche. Vi è elevata congruenza tra la ricchezza di endemismi delle piante vascolari e quella dei vertebrati terrestri.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.52"
+  },
+  {
+    "id": "bdv-cons-gradiente-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale andamento generale segue la ricchezza di specie lungo il gradiente latitudinale?",
+    "suggestion": "Confronta la varietà di vita dei poli con quella delle fasce equatoriali.",
+    "options": [
+      "Aumenta procedendo dalle regioni polari verso i tropici",
+      "Aumenta procedendo dai tropici verso le regioni polari più fredde",
+      "Resta pressoché costante a tutte le latitudini, senza alcun gradiente riconoscibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ricchezza di specie tende ad aumentare dalle regioni polari verso i tropici. Sono state proposte ipotesi ambientali (produttività, stabilità climatica, eterogeneità), storico-evoluzionistiche (tempo dopo le glaciazioni, tassi evolutivi) e biotiche (interazioni tra specie) per spiegarlo.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.53-54"
+  },
+  {
+    "id": "bdv-cons-disturbo-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo l'ipotesi del disturbo intermedio, a quale livello di disturbo la ricchezza di specie è massima?",
+    "suggestion": "Né troppo poco (dominano i competitori), né troppo (restano solo i tolleranti): pensa alla via di mezzo.",
+    "options": [
+      "A livelli molto bassi, dove poche specie competitive escludono per competizione tutte le altre",
+      "A livelli molto alti, dove sopravvivono soltanto le poche specie più tolleranti allo stress",
+      "A livelli intermedi, dove coesistono sia specie competitive sia specie pioniere"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ipotesi del disturbo intermedio prevede la massima ricchezza a livelli intermedi di disturbo: a disturbo basso i competitori dominano per esclusione competitiva; a disturbo alto restano poche specie tolleranti; a livello intermedio coesistono competitori e pioniere, massimizzando la diversità.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.54"
+  },
+  {
+    "id": "bdv-cons-fvg-crocevia-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il Friuli Venezia Giulia è descritto come un 'crocevia biologico'?",
+    "suggestion": "Vi convergono contingenti di specie con origini geografiche diverse, da tutte le direzioni.",
+    "options": [
+      "Perché ospita esclusivamente specie endemiche originatesi in loco, senza alcun apporto da altre regioni",
+      "Perché vi convergono specie di origine diversa: artico-alpine, insubriche, mediterranee e illiriche",
+      "Perché è del tutto privo di rilievi e di variabilità geologica, con un unico tipo di suolo e di clima uniforme"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il FVG è un crocevia biologico perché vi convergono specie di origine diversa: artico-alpine da nord, insubriche da ovest, mediterranee da sud e illiriche (balcaniche) da est. La sua ricchezza deriva da geologia, clima variabile e storia biogeografica; l'Isonzo è un confine per le specie illiriche.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-rifugi-glaciali-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale ruolo hanno avuto i rifugi glaciali nel determinare la distribuzione attuale delle specie endemiche?",
+    "suggestion": "Sono le aree dove alcune specie riuscirono a resistere mentre il ghiaccio avanzava altrove.",
+    "options": [
+      "Furono le aree in cui le specie poterono sopravvivere durante i periodi glaciali, plasmandone la distribuzione",
+      "Furono le zone dove il ghiaccio distrusse completamente ogni forma di vita vegetale preesistente",
+      "Furono i primi ambienti urbani e agricoli in cui l'uomo introdusse deliberatamente le prime specie esotiche invasive"
+    ],
+    "correctIndex": 0,
+    "explanation": "I rifugi glaciali sono aree in cui le specie hanno potuto sopravvivere durante i periodi glaciali. Hanno determinato la distribuzione attuale di molte piante endemiche, e la ricchezza e composizione delle flore rivelano i percorsi di ricolonizzazione postglaciale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-fill-iucn-011",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La lista che classifica le specie in categorie di rischio di estinzione crescente (da LC fino a CR, EW ed EX) è la ___ Red List.",
+    "answers": [["IUCN", "iucn"]],
+    "suggestion": "È l'acronimo dell'Unione Internazionale per la Conservazione della Natura.",
+    "explanation": "La IUCN Red List classifica le specie in categorie di rischio crescente: LC (minore preoccupazione), NT, VU, EN, CR (pericolo critico), EW (estinta in natura) ed EX (estinta).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-vortice-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa descrive il cosiddetto 'vortice di estinzione' in una piccola popolazione?",
+    "suggestion": "È una spirale negativa che parte da inbreeding e deriva genetica e si autoalimenta.",
+    "options": [
+      "Un rapido aumento della variabilità genetica che rende la piccola popolazione sempre più adattabile",
+      "Una spirale in cui inbreeding e deriva genetica riducono variabilità e fitness, restringendo ancora la popolazione",
+      "Un'improvvisa e massiccia immigrazione di individui dalle popolazioni vicine, che ripristina la diversità genetica perduta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il vortice di estinzione è un processo a spirale negativa: in una piccola popolazione inbreeding e deriva genetica riducono la variabilità genetica e la fitness, il che restringe ulteriormente la popolazione, con meno riproduzione e più mortalità, aggravando la situazione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-sesta-estinzione-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Come definiscono i paleontologi un'estinzione di massa?",
+    "suggestion": "Riguarda la perdita di una frazione enorme di specie in un tempo geologicamente breve.",
+    "options": [
+      "Un periodo in cui la Terra perde più di tre quarti delle sue specie in un intervallo geologicamente breve",
+      "Un periodo in cui poche specie rare scompaiono localmente ma vengono subito rimpiazzate da altre specie strettamente affini",
+      "Un lento ricambio faunistico che si distribuisce in modo uniforme su centinaia di milioni di anni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le estinzioni di massa sono periodi in cui la Terra perde più di tre quarti delle sue specie in un intervallo geologicamente breve: sono avvenute solo cinque volte negli ultimi 540 milioni di anni. I tassi attuali suggeriscono che potremmo avvicinarci a una sesta estinzione di massa.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-antropocene-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale anno è proposto come 'chiodo d'oro' per l'inizio dell'Antropocene, e perché?",
+    "suggestion": "Cerca una traccia riconoscibile nelle rocce legata a un evento del XX secolo.",
+    "options": [
+      "Il 1800, per l'inizio della rivoluzione industriale e del massiccio uso di combustibili fossili",
+      "Il 1492, per la scoperta dell'America e l'avvio dello scambio colombiano tra i due mondi",
+      "Il 1945, quando l'uomo iniziò a lasciare tracce di radioattività riconoscibili nelle rocce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il 'chiodo d'oro' è la data d'origine di un'epoca geologica, riconoscibile da tracce nelle rocce. Per l'Antropocene si propone il 1945, quando l'uomo iniziò a inquinare l'ambiente con la radioattività, lasciando un segnale globale rilevabile.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-fase-paleolitico-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale impatto ebbe la Fase 1 dell'Antropocene (caccia e raccolta del Paleolitico) sulla biodiversità?",
+    "suggestion": "Riguarda le estinzioni di grandi mammiferi in continenti da poco raggiunti da Homo sapiens.",
+    "options": [
+      "Estinzioni di massa di grandi mammiferi, come in Australia e Nord America dopo l'arrivo dell'uomo",
+      "La trasformazione dei paesaggi naturali in vasti terreni coltivati con lo sviluppo dell'agricoltura",
+      "L'inizio dell'uso massiccio di combustibili fossili e delle relative trasformazioni ambientali globali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella Fase 1 (Paleolitico, caccia e raccolta) Homo sapiens causò estinzioni significative di grandi mammiferi: in Australia scomparvero 23 specie su 24, in Nord America 34 su 47. L'agricoltura appartiene alla Fase 2 (Neolitico), i combustibili fossili alla Fase 4 (rivoluzione industriale).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-fill-alloctona-016",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Una specie trasportata al di fuori del suo areale naturale per azione dell'uomo, che se si insedia e si diffonde causando danni è detta invasiva, è una specie ___.",
+    "answers": [["alloctona", "aliena", "esotica", "alloctone"]],
+    "suggestion": "Detta anche aliena o esotica; se diventa dannosa e invasiva si abbrevia IAS.",
+    "explanation": "Una specie alloctona (aliena, esotica, introdotta) è trasportata fuori dal suo areale naturale per azione umana. Se si insedia e si diffonde causando danni a specie ed ecosistemi è detta specie aliena invasiva (IAS).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-risposte-clima-017",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali tre modi le specie possono rispondere ai cambiamenti climatici?",
+    "suggestion": "O si adattano dove sono, o si spostano, oppure non ce la fanno.",
+    "options": [
+      "Aumentando la propria taglia, riducendo la riproduzione oppure diventando del tutto autotrofe",
+      "Adattandosi alle nuove condizioni, migrando verso climi più adatti oppure estinguendosi",
+      "Accelerando la fotosintesi, fissando più azoto oppure passando alla riproduzione solo vegetativa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Di fronte ai cambiamenti climatici (previsto un aumento fino a 4°C entro il 2100) le specie possono adattarsi alle nuove condizioni, migrare verso climi più adatti oppure estinguersi. Fenomeni come Arctic e Alpine greening e l'arbustizzazione testimoniano già questi effetti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-barene-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quali condizioni dipende se una barena lagunare va incontro ad accrezione oppure a erosione?",
+    "suggestion": "Metti in relazione il tasso di innalzamento del mare con il bilancio dei sedimenti disponibili.",
+    "options": [
+      "Dal solo numero di specie alofile presenti, indipendentemente da mare e sedimenti disponibili",
+      "Dal rapporto tra tasso di innalzamento del mare e bilancio dei sedimenti (e dalla risposta della vegetazione)",
+      "Unicamente dalla temperatura media dell'acqua lagunare, che ne determina in modo diretto la crescita oppure la scomparsa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le barene sono ecosistemi chiave delle lagune: con basso innalzamento del mare e bilancio dei sedimenti positivo si ha accrezione; con alto innalzamento e bilancio negativo si ha erosione; con bilancio positivo anche ad alto innalzamento la dinamica dipende dalla risposta della vegetazione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-fill-biomagnificazione-019",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'aumento di concentrazione dei pesticidi lungo la catena alimentare, massimo nei livelli trofici più elevati, è detto bioaccumulo o ___.",
+    "answers": [["biomagnificazione", "bioamplificazione", "biomagnification"]],
+    "suggestion": "È l'amplificazione della concentrazione salendo di livello trofico, non il semplice accumulo in un individuo.",
+    "explanation": "Il bioaccumulo (o biomagnificazione/bioamplificazione) è l'aumento di concentrazione di un contaminante persistente lungo la catena alimentare, che raggiunge i valori massimi nei livelli trofici più elevati (predatori di vertice).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-scale-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le diverse cause di perdita di biodiversità richiedono livelli di gestione differenti?",
+    "suggestion": "Ognuna agisce su una scala spaziale e temporale propria, dal locale-breve all'internazionale-lungo.",
+    "options": [
+      "Perché agiscono tutte esattamente alla stessa scala locale e nello stesso breve arco di tempo",
+      "Perché operano a scale spaziali e temporali diverse, dal sovrasfruttamento locale al riscaldamento globale",
+      "Perché nessuna di esse dipende in alcun modo dall'azione umana e quindi non è gestibile a nessun livello istituzionale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le cause di perdita interagiscono e operano a scale diverse: il sovrasfruttamento a scala locale nel breve periodo, la perdita di habitat a scala regionale, la trasformazione del paesaggio a scala nazionale, riscaldamento globale e inquinamento a scala internazionale nel lungo periodo. La responsabilità di gestione varia di conseguenza.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-ripristino-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Di che cosa si occupa l'ecologia del ripristino?",
+    "suggestion": "Il suo scopo è riportare un ecosistema degradato verso uno stato più vicino a quello originario.",
+    "options": [
+      "Di catalogare le specie di un'area senza alcun intervento diretto sugli ecosistemi degradati",
+      "Di introdurre deliberatamente nuove specie aliene per aumentare rapidamente la produttività dei terreni agricoli intensivi",
+      "Di restaurare gli ecosistemi verso lo stato precedente con tecniche che imitano i processi naturali"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ecologia del ripristino restaura o riporta gli ecosistemi verso lo stato originario, con tecniche biologiche che imitano i processi naturali secondo i principi dello sviluppo sostenibile. Un esempio sono le zone umide ripristinate delle risorgive friulane.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.58"
+  },
+  {
+    "id": "bdv-cons-half-earth-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa propone la strategia 'Half-Earth' di Edward O. Wilson (2016)?",
+    "suggestion": "Il nome suggerisce la frazione di superficie terrestre da destinare alla protezione.",
+    "options": [
+      "Proteggere il 50% della superficie terrestre per garantire la sopravvivenza dell'85% delle specie",
+      "Convertire metà della superficie terrestre in agricoltura intensiva per nutrire la popolazione umana",
+      "Ridurre della metà il numero di aree protette esistenti concentrando gli sforzi sui soli hotspot"
+    ],
+    "correctIndex": 0,
+    "explanation": "La proposta 'Half-Earth' di E.O. Wilson suggerisce di proteggere il 50% della superficie terrestre per garantire la sopravvivenza di circa l'85% delle specie. Rientra in una strategia integrata di maggiore conservazione e di produzione e consumo più sostenibili.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.58"
+  }
+]

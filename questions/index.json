@@ -417,6 +417,12 @@
           "file": "Biodiversita_vegetale/funghi-licheni.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
           "count": 23
+        },
+        {
+          "species": "Biodiversità: distribuzione, minacce e conservazione",
+          "file": "Biodiversita_vegetale/biodiversita-conservazione.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 22
         }
       ]
     }
