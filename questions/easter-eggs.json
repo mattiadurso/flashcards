@@ -48,6 +48,62 @@
       "options": ["\"Che fortuna averti\"", "\"Che fame\"", "\"Devo studiare\""],
       "correctIndex": 0,
       "explanation": "Pensa sempre a quanto è fortunato."
+    },
+    {
+      "id": "egg-008",
+      "question": "Qual è il sorriso preferito di Mattia?",
+      "options": ["Quello dei manifesti", "Il tuo ❤️", "Quello di un attore"],
+      "correctIndex": 1,
+      "explanation": "Nessun sorriso illumina la giornata come il tuo."
+    },
+    {
+      "id": "egg-009",
+      "question": "Cosa farebbe Mattia felice anche in una giornata storta?",
+      "options": ["Un caffè in più", "Un messaggio da te", "Dormire fino a tardi"],
+      "correctIndex": 1,
+      "explanation": "Basta un tuo messaggio per rimettere tutto a posto."
+    },
+    {
+      "id": "egg-010",
+      "question": "Qual è la canzone che fa sempre pensare Mattia a te?",
+      "options": ["Tutte quelle belle", "Nessuna in particolare", "Quella del telegiornale"],
+      "correctIndex": 0,
+      "explanation": "Ogni canzone bella gli ricorda te."
+    },
+    {
+      "id": "egg-011",
+      "question": "Quante volte al giorno Mattia pensa a te?",
+      "options": ["Un paio", "Molte più di quante potrebbe contare", "Solo la sera"],
+      "correctIndex": 1,
+      "explanation": "Troppe per tenerne il conto."
+    },
+    {
+      "id": "egg-012",
+      "question": "Cosa preferisce Mattia: una vacanza da sogno o una serata con te?",
+      "options": ["La vacanza", "La serata con te", "Non saprebbe scegliere"],
+      "correctIndex": 1,
+      "explanation": "Con te anche una serata normale diventa un sogno."
+    },
+    {
+      "id": "egg-013",
+      "question": "Qual è la cosa che Mattia non darebbe mai per scontata?",
+      "options": ["Il suo caffè", "Averti nella sua vita", "Il weekend"],
+      "correctIndex": 1,
+      "explanation": "Averti accanto è il regalo che ricorda ogni giorno."
+    },
+    {
+      "id": "egg-014",
+      "question": "Cosa rende speciale una giornata qualunque per Mattia?",
+      "options": ["Il bel tempo", "Sapere che ci sei tu", "Un esame andato bene"],
+      "correctIndex": 1,
+      "explanation": "Basta sapere che ci sei per rendere speciale qualsiasi giorno."
+    },
+    {
+      "id": "egg-015",
+      "question": "Se Mattia dovesse descriverti con una parola, quale sceglierebbe?",
+      "options": ["Perfetta", "Simpatica", "Puntuale"],
+      "correctIndex": 0,
+      "explanation": "Per lui sei semplicemente perfetta così come sei ❤️."
     }
   ]
 }

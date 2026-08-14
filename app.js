@@ -270,7 +270,7 @@ async function loadBank() {
   } catch (_) { /* no easter eggs — no problem */ }
 }
 
-const BONUS_CHANCE = 0.03;   // 3% of sessions get one bonus card
+const BONUS_CHANCE = 0.07;   // 7% of sessions get one bonus card
 
 // With BONUS_CHANCE probability, splice one random egg into the queue somewhere
 // around the middle — never as the very first card (it should feel like a
