@@ -467,6 +467,36 @@
           "count": 18
         }
       ]
+    },
+    {
+      "topic": "biologia-vegetale",
+      "label": "Biologia vegetale (molecole, cellula, anatomia)",
+      "files": [
+        {
+          "species": "Le molecole della vita: acqua e chimica del carbonio",
+          "file": "Biodiversita_vegetale/bio-molecole-acqua.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 12
+        },
+        {
+          "species": "I carboidrati",
+          "file": "Biodiversita_vegetale/bio-carboidrati.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 12
+        },
+        {
+          "species": "I lipidi",
+          "file": "Biodiversita_vegetale/bio-lipidi.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 10
+        },
+        {
+          "species": "Proteine, amminoacidi e nucleotidi",
+          "file": "Biodiversita_vegetale/bio-proteine-nucleotidi.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 15
+        }
+      ]
     }
   ]
 }

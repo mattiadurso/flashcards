@@ -1,0 +1,185 @@
+[
+  {
+    "id": "bvg-mol-elementi-001",
+    "topic": "biologia-vegetale",
+    "question": "Perché idrogeno e ossigeno sono gli elementi più rappresentati negli organismi vegetali?",
+    "suggestion": "Pensa alla molecola che costituisce circa il 90% della materia vivente vegetale.",
+    "options": [
+      "Perché costituiscono la molecola dell'acqua, che rappresenta circa il 90% della composizione dei vegetali",
+      "Perché formano l'ossatura di tutte le macromolecole organiche al posto del carbonio",
+      "Perché sono gli elementi più abbondanti nella crosta terrestre, da cui la pianta li assorbe e ne dipendono per la crescita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Idrogeno e ossigeno prevalgono perché compongono l'acqua, che è circa il 90% della materia vivente vegetale. I sei elementi principali dei viventi sono C, H, N, O, P, S, relativamente rari nell'ambiente ma abbondanti negli organismi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-polarita-002",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa deriva la polarità della molecola d'acqua?",
+    "suggestion": "L'ossigeno e l'idrogeno attirano gli elettroni di legame con forza diversa.",
+    "options": [
+      "Dalla simmetria perfetta della distribuzione degli elettroni tra ossigeno e idrogeno, che la rende del tutto apolare",
+      "Dalla diversa elettronegatività tra ossigeno e idrogeno, che crea regioni con carica parziale opposta",
+      "Dalla presenza di uno ione sodio legato stabilmente all'atomo di ossigeno centrale"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'acqua è polare perché l'ossigeno, più elettronegativo dell'idrogeno, attira maggiormente la nube elettronica, generando regioni con carica parziale negativa (sull'ossigeno) e positiva (sugli idrogeni). Da questa polarità derivano i legami idrogeno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-fill-idrogeno-003",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il legame debole che si instaura tra un idrogeno legato a un atomo elettronegativo e un altro atomo elettronegativo vicino è detto legame ___.",
+    "answers": [
+      [
+        "idrogeno",
+        "a idrogeno",
+        "a ponte idrogeno"
+      ]
+    ],
+    "suggestion": "È il legame responsabile di coesione, adesione e reticolo del ghiaccio.",
+    "explanation": "Il legame idrogeno è un legame debole tra un idrogeno legato covalentemente a un atomo elettronegativo (es. ossigeno) e un altro atomo elettronegativo vicino. Determina coesione, adesione, tensione superficiale e il reticolo ordinato del ghiaccio.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-coesione-004",
+    "topic": "biologia-vegetale",
+    "question": "Quali proprietà dell'acqua, legate ai legami idrogeno, spiegano la risalita capillare nei vasi conduttori?",
+    "suggestion": "Una è l'attrazione tra molecole d'acqua, l'altra verso superfici diverse da sé.",
+    "options": [
+      "La coesione tra molecole d'acqua e l'adesione alle pareti dei vasi",
+      "Il potere solvatante verso i sali e l'assenza di tensione superficiale",
+      "L'apolarità delle molecole e la loro incapacità di formare legami idrogeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La risalita capillare dipende dalla coesione (attrazione tra molecole d'acqua) e dall'adesione (attrazione dell'acqua verso superfici diverse), entrambe dovute ai legami idrogeno. Ne derivano anche la tensione superficiale e il ruolo dell'acqua come solvente.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-polimerizzazione-005",
+    "topic": "biologia-vegetale",
+    "question": "Come avviene la sintesi di un polimero a partire dai suoi monomeri, e come la sua scissione?",
+    "suggestion": "Una reazione elimina una molecola d'acqua, l'altra la inserisce nel legame.",
+    "options": [
+      "La sintesi avviene per idrolisi con aggiunta d'acqua, la scissione per condensazione",
+      "Sia la sintesi sia la scissione avvengono per idrolisi, senza alcun coinvolgimento dell'acqua",
+      "La sintesi avviene per disidratazione (condensazione), la scissione per idrolisi"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sintesi di un polimero avviene per disidratazione (condensazione), con eliminazione di una molecola d'acqua a ogni legame; la scissione avviene per idrolisi, con inserimento di una molecola d'acqua. L'acqua è quindi sia reagente sia prodotto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-anabolismo-006",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue l'anabolismo dal catabolismo nel metabolismo cellulare?",
+    "suggestion": "Uno costruisce molecole complesse, l'altro le demolisce.",
+    "options": [
+      "L'anabolismo sintetizza molecole complesse da unità semplici, il catabolismo degrada molecole complesse in unità più semplici",
+      "L'anabolismo e il catabolismo indicano la stessa reazione osservata da due discipline diverse, a soli fini didattici e descrittivi",
+      "L'anabolismo degrada molecole liberando energia, il catabolismo le costruisce consumandola"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'anabolismo è l'insieme delle reazioni che sintetizzano molecole complesse (come i polimeri) da unità semplici; il catabolismo comprende le reazioni che degradano molecole complesse in unità più semplici. Sono le due categorie complementari del metabolismo.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.1-2"
+  },
+  {
+    "id": "bvg-mol-carbonio-007",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'atomo di carbonio è l'ossatura di tutte le molecole organiche?",
+    "suggestion": "L'ibridazione gli dà quattro orbitali disposti verso i vertici di un tetraedro.",
+    "options": [
+      "Perché forma un solo legame covalente per volta, restando molto stabile e poco reattivo",
+      "Perché, con quattro orbitali ibridi tetraedrici, forma fino a quattro legami covalenti, generando strutture illimitate",
+      "Perché è l'elemento più abbondante nella crosta terrestre e quindi facilmente disponibile, nel terreno e nell'aria circostante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grazie all'ibridazione, il carbonio genera quattro orbitali ibridi disposti a geometria tetraedrica e può formare fino a quattro legami covalenti (come nel metano CH4). Questa duttilità permette un numero pressoché illimitato di molecole organiche.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-carbossile-008",
+    "topic": "biologia-vegetale",
+    "question": "Quale gruppo funzionale risulta dalla combinazione di un gruppo carbonile e di un gruppo ossidrile sullo stesso carbonio, caratterizzando gli acidi carbossilici?",
+    "suggestion": "È il gruppo −COOH, tipico per esempio dell'acido acetico.",
+    "options": [
+      "Il gruppo amminico (−NH2), che conferisce carattere basico alla molecola",
+      "Il gruppo carbossile (−COOH), tipico degli acidi carbossilici",
+      "Il gruppo sulfidrile (−SH), coinvolto nei ponti disolfuro delle proteine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il gruppo carbossile (−COOH) nasce dalla combinazione di un carbonile e di un ossidrile sullo stesso carbonio e caratterizza gli acidi carbossilici (es. acido acetico). Il gruppo amminico dà carattere basico; il sulfidrile forma i ponti disolfuro.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-redox-009",
+    "topic": "biologia-vegetale",
+    "question": "Nella scala redox del carbonio, quali sono rispettivamente la forma più ridotta e la più ossidata?",
+    "suggestion": "Una ha il carbonio legato solo a idrogeni, l'altra solo a ossigeni.",
+    "options": [
+      "Il metano è la forma più ridotta, l'anidride carbonica (CO2) la più ossidata",
+      "L'anidride carbonica è la forma più ridotta, il metano la più ossidata, tra tutte le forme del carbonio",
+      "Il metanolo è la forma più ridotta, la formaldeide la più ossidata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella scala redox del carbonio il metano (legato solo a idrogeni) è la forma più ridotta e l'anidride carbonica (CO2) la più ossidata, passando per metanolo, formaldeide e acido formico. Questa scala è centrale per fotosintesi e respirazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-emergenti-010",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa si intende per 'proprietà emergenti' di un polimero?",
+    "suggestion": "Sono caratteristiche che compaiono solo nel polimero, non deducibili dai singoli monomeri isolati.",
+    "options": [
+      "Proprietà identiche a quelle dei singoli monomeri, semplicemente sommate tra loro",
+      "Caratteristiche funzionali e strutturali che compaiono solo a livello del polimero, non nei monomeri isolati",
+      "Proprietà che il polimero perde progressivamente man mano che aumenta il numero di monomeri, che lo costituiscono nel tempo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le proprietà emergenti sono caratteristiche funzionali e strutturali che compaiono solo a livello del polimero e non sono deducibili dai singoli monomeri isolati. La sintesi ripetuta permette enormi varietà di strutture da pochi monomeri comuni.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.1-2"
+  },
+  {
+    "id": "bvg-mol-solvatante-011",
+    "topic": "biologia-vegetale",
+    "question": "Come agisce il potere solvatante dell'acqua quando un cristallo di sale (NaCl) viene immerso in essa?",
+    "suggestion": "Le molecole polari d'acqua si orientano attorno agli ioni del reticolo cristallino.",
+    "options": [
+      "Le molecole d'acqua respingono gli ioni, favorendone l'aggregazione in cristalli più grandi",
+      "Le molecole d'acqua, essendo apolari, restano indifferenti agli ioni e non ne alterano il reticolo cristallino del sale disciolto",
+      "Le molecole d'acqua polari si orientano attorno agli ioni Na+ e Cl−, separandoli dal reticolo fino a scioglierli"
+    ],
+    "correctIndex": 2,
+    "explanation": "Grazie alla polarità, le molecole d'acqua si orientano attorno agli ioni positivi e negativi (Na+, Cl−) del reticolo cristallino, circondandoli e separandoli fino alla completa dissoluzione. È il potere solvatante dell'acqua verso i sali.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-fill-idrolisi-012",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La reazione che rompe un legame inserendovi una molecola d'acqua, scindendo un polimero nei suoi monomeri, è detta ___.",
+    "answers": [
+      [
+        "idrolisi",
+        "idrolisi"
+      ]
+    ],
+    "suggestion": "È il processo inverso della condensazione (disidratazione).",
+    "explanation": "L'idrolisi è la reazione che inserisce una molecola d'acqua in un legame, provocandone la rottura: è il processo inverso della sintesi per disidratazione (condensazione) e scinde i polimeri nei monomeri costitutivi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.1"
+  }
+]

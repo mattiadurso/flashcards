@@ -1,0 +1,183 @@
+[
+  {
+    "id": "bvg-carb-funzioni-001",
+    "topic": "biologia-vegetale",
+    "question": "Quali sono le tre funzioni principali dei carboidrati nei vegetali?",
+    "suggestion": "Una immediata per l'energia, una di accumulo differito, una di sostegno.",
+    "options": [
+      "Energetica, di riserva e strutturale (impalcatura delle pareti cellulari)",
+      "Catalitica, contrattile e di trasporto dei gas respiratori e degli ioni disciolti nel citoplasma",
+      "Ormonale, impermeabilizzante e di pigmento fotosintetico"
+    ],
+    "correctIndex": 0,
+    "explanation": "I carboidrati svolgono una funzione energetica (substrato immediato), di riserva (accumulo come polimeri) e strutturale (impalcatura delle pareti cellulari, es. cellulosa). Le funzioni ormonale, impermeabilizzante e di pigmento sono tipiche dei lipidi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-carb-aldoso-002",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue un aldoso da un chetoso?",
+    "suggestion": "Dipende dalla posizione del gruppo carbonile lungo la catena carboniosa.",
+    "options": [
+      "L'aldoso ha il carbonile in posizione interna, il chetoso all'estremità della catena",
+      "L'aldoso ha il carbonile all'estremità della catena, il chetoso in posizione interna",
+      "L'aldoso ha sei atomi di carbonio, il chetoso ne ha sempre cinque"
+    ],
+    "correctIndex": 1,
+    "explanation": "La distinzione dipende dalla posizione del gruppo carbonile: nell'aldoso è all'estremità della catena (gruppo aldeidico, es. glucosio), nel chetoso è in posizione interna (gruppo chetonico, es. fruttosio). Il numero di carboni è un criterio distinto (triosi, pentosi, esosi).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-carb-anomeri-003",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa si differenziano gli anomeri α e β di uno zucchero ciclico?",
+    "suggestion": "Riguarda la posizione spaziale dell'ossidrile sul carbonio anomerico (il C1).",
+    "options": [
+      "Nel numero totale di atomi di carbonio che compongono l'anello dello zucchero",
+      "Nella posizione spaziale del gruppo ossidrile legato al carbonio anomerico",
+      "Nel tipo di base azotata legata al carbonio anomerico dello zucchero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli anomeri α e β differiscono per la disposizione spaziale del gruppo ossidrile sul carbonio anomerico (il C1), generato dalla chiusura dell'anello. In soluzione lo zucchero è in equilibrio dinamico tra forma lineare e le due forme cicliche (mutarotazione).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.3-4"
+  },
+  {
+    "id": "bvg-carb-fill-mutarotazione-004",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'interconversione continua tra la forma lineare e le forme cicliche α e β di uno zucchero in soluzione, misurabile dalla deviazione della luce polarizzata, è detta ___.",
+    "answers": [
+      [
+        "mutarotazione"
+      ]
+    ],
+    "suggestion": "È la variazione nel tempo dell'angolo di rotazione della luce polarizzata fino all'equilibrio.",
+    "explanation": "La mutarotazione è la variazione nel tempo dell'angolo di rotazione della luce polarizzata, dovuta all'equilibrio dinamico tra le forme lineare e cicliche (α e β) di uno zucchero in soluzione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.3-4"
+  },
+  {
+    "id": "bvg-carb-maltosio-cellobiosio-005",
+    "topic": "biologia-vegetale",
+    "question": "Maltosio e cellobiosio sono entrambi formati da due glucosi: perché hanno proprietà e digeribilità diverse?",
+    "suggestion": "Cambia solo la configurazione (α o β) del legame glicosidico che unisce i due glucosi.",
+    "options": [
+      "Perché il maltosio ha un legame α 1→4 e il cellobiosio un legame β 1→4",
+      "Perché il maltosio è formato da glucosio e fruttosio, il cellobiosio da due glucosi",
+      "Perché il maltosio è ciclico e il cellobiosio è sempre lineare a catena aperta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maltosio (α 1→4) e cellobiosio (β 1→4) hanno gli stessi monomeri (due glucosi) ma diversa configurazione del legame glicosidico: ciò basta a determinare proprietà chimico-fisiche e digeribilità completamente differenti. Il saccarosio è invece glucosio + fruttosio (α 1→2).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-amido-osmotico-006",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'amido, pur avendo resa energetica inferiore a lipidi e proteine, è il composto di riserva preferenziale dei vegetali?",
+    "suggestion": "La sua struttura elicoidale lo rende incapace di richiamare acqua per osmosi.",
+    "options": [
+      "Perché fornisce più energia per grammo di qualsiasi lipide o proteina della cellula o di qualsiasi proteina di riserva",
+      "Perché è osmoticamente inattivo e permette di accumulare energia senza alterare l'equilibrio idrico",
+      "Perché è l'unico polimero solubile in acqua, facilmente trasportabile nella pianta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grazie ai legami α, l'amido assume una struttura elicoidale osmoticamente inattiva: non richiama acqua per osmosi, così può accumulare grandi riserve energetiche senza alterare l'equilibrio idrico cellulare. La resa energetica (~3,1 kcal/g) è inferiore a lipidi (9,1) e proteine (3,8).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-amilosio-007",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa l'amilopectina differisce dall'amilosio, i due componenti dell'amido?",
+    "suggestion": "Una è lineare con soli legami α 1→4, l'altra è ramificata.",
+    "options": [
+      "L'amilopectina è lineare con soli legami β 1→4, l'amilosio è ramificato con legami α 1→6",
+      "L'amilopectina è ramificata con legami α 1→6 ai punti di ramificazione, l'amilosio è lineare con soli legami α 1→4",
+      "L'amilopectina e l'amilosio sono del tutto identici tra loro, distinti solo dal colore che assumono con lo iodio-ioduro"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'amilosio è un polimero lineare di glucosio con soli legami α 1→4; l'amilopectina è ramificata, con la catena principale α 1→4 e ramificazioni laterali collegate da legami α 1→6. Insieme costituiscono l'amido, accumulato in granuli (colorabili in blu-violaceo con lo iodio).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-amiloplasti-008",
+    "topic": "biologia-vegetale",
+    "question": "Dove viene sintetizzato l'amido primario e dove viene accumulato l'amido secondario?",
+    "suggestion": "Uno si forma nei cloroplasti durante la fotosintesi, l'altro in organelli di riserva.",
+    "options": [
+      "L'amido primario nei cloroplasti durante la fotosintesi, l'amido secondario negli amiloplasti dei tessuti di riserva",
+      "L'amido primario nei vacuoli, l'amido secondario nella parete cellulare",
+      "Entrambi vengono sintetizzati esclusivamente all'interno dei mitocondri durante la respirazione cellulare aerobia mitocondriale"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'amido primario è sintetizzato nei cloroplasti durante la fotosintesi; l'amido secondario è accumulato negli amiloplasti, organelli specializzati tipici dei tessuti di riserva.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-cellulosa-009",
+    "topic": "biologia-vegetale",
+    "question": "Perché la cellulosa forma fibre resistenti e difficilmente biodegradabili, a differenza dell'amido?",
+    "suggestion": "I legami β e la rotazione dei glucosi impediscono l'elica e favoriscono l'impaccamento lineare.",
+    "options": [
+      "Perché i legami α la fanno avvolgere a spirale, aumentandone la solubilità in acqua",
+      "Perché i legami β 1→4 e la rotazione dei glucosi impediscono l'elica, dando catene lineari cristalline unite da legami idrogeno",
+      "Perché è formata da fruttosio anziché glucosio, il che la rende osmoticamente attiva e resta del tutto priva di legami idrogeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella cellulosa i legami β 1→4 e la rotazione di 180° di ogni glucosio impediscono la struttura elicoidale e danno un impaccamento lineare; catene parallele unite da legami idrogeno formano una struttura micellare cristallina, resistente e poco biodegradabile. Circa 80 molecole formano una microfibrilla.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.5"
+  },
+  {
+    "id": "bvg-carb-fill-pectine-010",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "I polisaccaridi dell'acido galatturonico che cementano tra loro le pareti di cellule contigue, costituendo la lamella mediana, sono le ___.",
+    "answers": [
+      [
+        "pectine",
+        "pectina"
+      ]
+    ],
+    "suggestion": "Sono anche responsabili delle mucillagini (come nell'Aloe) e dei colloidi nella vinificazione.",
+    "explanation": "Le pectine (polimeri dell'acido galatturonico, o acido pectico) costituiscono la lamella mediana, cementando le cellule adiacenti. Sono molto idrofile: formano mucillagini (es. Aloe) e colloidi indesiderati nella vinificazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.5"
+  },
+  {
+    "id": "bvg-carb-inulina-011",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è l'inulina rispetto all'amido?",
+    "suggestion": "È un polisaccaride di riserva, ma polimero di un altro monosaccaride.",
+    "options": [
+      "Un polisaccaride strutturale della parete, polimero del glucosio con legami β 1→4 come la cellulosa delle microfibrille portanti",
+      "Un polisaccaride di riserva, polimero del fruttosio con legami β 1→2, alternativo all'amido in alcune famiglie",
+      "Una proteina di riserva accumulata nello strato aleuronico delle cariossidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'inulina è un polisaccaride di riserva, polimero del fruttosio unito da legami β 1→2, tipico di alcune famiglie vegetali in alternativa all'amido. La cellulosa è invece strutturale, polimero del glucosio β 1→4.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4-5"
+  },
+  {
+    "id": "bvg-carb-emicellulose-012",
+    "topic": "biologia-vegetale",
+    "question": "Quale ruolo hanno le emicellulose nella parete cellulare rispetto alla cellulosa?",
+    "suggestion": "Non formano le fibre portanti, ma la porzione di matrice attorno ad esse.",
+    "options": [
+      "Costituiscono la componente di matrice della parete, distinta dalla componente fibrillare della cellulosa",
+      "Formano le microfibrille portanti al posto della cellulosa, con soli legami α 1→4 portanti, unite da soli legami β 1→4 lineari",
+      "Cementano le cellule adiacenti costituendo la lamella mediana intercellulare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le emicellulose (es. xiloglucani, arabani) sono oligomeri eterogenei che compongono la porzione di matrice della parete, distinta dalla componente fibrillare (la cellulosa). La cementazione intercellulare è invece compito delle pectine.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.5"
+  }
+]

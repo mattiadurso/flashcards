@@ -1,0 +1,153 @@
+[
+  {
+    "id": "bvg-lip-acidigrassi-001",
+    "topic": "biologia-vegetale",
+    "question": "Perché gli acidi grassi hanno scarsa affinità con l'acqua?",
+    "suggestion": "Pensa alla loro lunga catena di carboni priva di cariche.",
+    "options": [
+      "Perché sono composti apolari con una lunga catena alifatica priva di cariche",
+      "Perché sono molecole fortemente polari che respingono le cariche dell'acqua disciolte nell'ambiente acquoso circostante",
+      "Perché sono costituiti da zuccheri semplici osmoticamente attivi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli acidi grassi sono composti apolari con una lunga catena alifatica (es. acido palmitico, C16), priva di netta separazione di cariche: da qui la scarsa affinità con l'acqua. Sono l'unità costitutiva della maggior parte dei lipidi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-trigliceridi-002",
+    "topic": "biologia-vegetale",
+    "question": "Come è costituito un trigliceride?",
+    "suggestion": "Una molecola di alcol a tre gruppi ossidrilici legata a tre catene di acidi grassi.",
+    "options": [
+      "Da una molecola di glicerolo esterificata da tre acidi grassi tramite legami estere",
+      "Da tre molecole di glicerolo legate a un unico acido grasso tramite legami peptidici",
+      "Da tre unità di glucosio unite da legami glicosidici α 1→4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il trigliceride (triacilglicerolo) è formato da una molecola di glicerolo (alcol con tre ossidrili) esterificata da tre acidi grassi: ogni ossidrile del glicerolo si lega a un gruppo carbossilico tramite un legame estere, con eliminazione di acqua.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-saturi-003",
+    "topic": "biologia-vegetale",
+    "question": "Perché i grassi saturi sono solidi a temperatura ambiente mentre gli insaturi sono liquidi?",
+    "suggestion": "I doppi legami introducono una piegatura che ostacola l'impaccamento delle catene.",
+    "options": [
+      "Perché i saturi hanno doppi legami che li piegano, impedendo l'impaccamento compatto e impedendo qualsiasi impaccamento compatto",
+      "Perché i saturi, privi di doppi legami, si impaccano in modo compatto; gli insaturi, piegati dai doppi legami, no",
+      "Perché i saturi contengono più acqua legata, che li mantiene allo stato solido"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli acidi grassi saturi (senza doppi legami) hanno catene diritte che si impaccano compattamente, dando lo stato solido (es. burro); gli insaturi, piegati dai doppi legami, non si impaccano bene e restano liquidi (es. oli). La temperatura di fusione dipende dal grado di saturazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-fosfolipidi-004",
+    "topic": "biologia-vegetale",
+    "question": "Quale proprietà dei fosfolipidi ne fa i costituenti fondamentali delle membrane biologiche?",
+    "suggestion": "Nella stessa molecola coesistono una regione affine all'acqua e una che la rifugge.",
+    "options": [
+      "L'anfipaticità: una testa idrofila e due code idrofobe, che li fa organizzare in un doppio strato",
+      "La totale idrofobicità, che li fa aggregare in granuli compatti privi d'acqua",
+      "La totale idrofilicità, che li fa disperdere uniformemente in soluzione acquosa in ogni ambiente e compartimento cellulare"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fosfolipidi sono anfipatici: hanno una testa idrofila (fosfato-colina) e due code idrofobe (catene di acidi grassi). In acqua si organizzano spontaneamente in un doppio strato (bilayer), con le teste verso l'esterno e le code all'interno: la base delle membrane biologiche.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6-7"
+  },
+  {
+    "id": "bvg-lip-oleosomi-005",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono gli oleosomi (corpi lipidici) delle cellule vegetali?",
+    "suggestion": "Organelli di riserva lipidica delimitati non da un doppio, ma da un singolo strato di fosfolipidi.",
+    "options": [
+      "Vescicole delimitate da un doppio strato fosfolipidico, deputate al trasporto di proteine verso l'esterno della cellula vegetale",
+      "Organelli di riserva lipidica delimitati da un monostrato fosfolipidico stabilizzato da oleosine",
+      "Granuli di amido secondario accumulati negli amiloplasti dei tessuti di riserva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli oleosomi (corpi lipidici) sono organelli di riserva lipidica delimitati da un monostrato fosfolipidico stabilizzato da proteine specifiche, le oleosine. Si distinguono dai liposomi (a doppio strato) e dalle micelle.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-cuticola-006",
+    "topic": "biologia-vegetale",
+    "question": "Da quali componenti è costituita la cuticola che riveste le cellule tegumentali?",
+    "suggestion": "È l'insieme di due lipidi impermeabilizzanti depositati in lamelle sulla parete esterna.",
+    "options": [
+      "Da cutina e cere, depositate in lamelle che impregnano la parete esterna delle cellule tegumentali",
+      "Da cellulosa e pectine, che formano la matrice della parete cellulare interna",
+      "Da suberina e lignina, tipiche esclusivamente dei tessuti a struttura secondaria e delle radici a struttura secondaria legnosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cuticola è costituita da cutina e cere depositate in lamelle sovrapposte che impregnano la parete esterna delle cellule tegumentali, con funzione impermeabilizzante. Un ulteriore strato ceroso soprastante è la pruina (cere epicuticolari).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-fill-suberina-007",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il lipide che impermeabilizza le pareti radiali dell'endoderma (banda del Caspary) e forma il sughero nella struttura secondaria è la ___.",
+    "answers": [
+      [
+        "suberina",
+        "suberine"
+      ]
+    ],
+    "suggestion": "È una miscela di alcoli, acidi grassi a catena lunga e polifenoli; dà il nome al 'sughero'.",
+    "explanation": "La suberina è una miscela di alcoli, acidi grassi a lunga catena e polifenoli, organizzata in lamelle: costituisce la banda del Caspary nell'endoderma radicale e il sughero nei tessuti a struttura secondaria.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-fitosteroli-008",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione dei fitosteroli, come l'α-sitosterolo, nelle cellule vegetali?",
+    "suggestion": "Sono steroli tipici delle piante, analoghi al colesterolo animale, che agiscono sulle membrane.",
+    "options": [
+      "Costituiscono la principale riserva energetica accumulata negli oleosomi",
+      "Agiscono come stabilizzatori delle membrane biologiche",
+      "Fungono da pigmenti accessori nella captazione della luce durante la fotosintesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I fitosteroli (es. α-sitosterolo, lo sterolo più abbondante nelle piante) sono stabilizzatori delle membrane biologiche, analoghi al colesterolo animale e all'ergosterolo dei funghi. I pigmenti accessori fotosintetici sono invece carotenoidi e xantofille.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-carotenoidi-009",
+    "topic": "biologia-vegetale",
+    "question": "Oltre a coadiuvare le clorofille nella cattura della luce, quale funzione protettiva svolgono carotenoidi e xantofille?",
+    "suggestion": "Nel cloroplasto si formano facilmente specie reattive dell'ossigeno da neutralizzare.",
+    "options": [
+      "Una funzione antiossidante, contro le specie reattive dell'ossigeno (ROS) prodotte nel cloroplasto",
+      "Una funzione strutturale, formando le microfibrille della parete cellulare portanti che compongono la parete cellulare",
+      "Una funzione osmotica, regolando il potenziale idrico durante la siccità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carotenoidi (es. β-carotene) e xantofille (es. zeaxantina) sono pigmenti accessori (terpeni) che ampliano lo spettro di luce utilizzabile e svolgono un ruolo antiossidante contro le specie reattive dell'ossigeno (ROS), abbondanti nelle reazioni redox del cloroplasto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-funzioni-010",
+    "topic": "biologia-vegetale",
+    "question": "Quale caratteristica accomuna la classe eterogenea dei lipidi?",
+    "suggestion": "Non hanno una struttura comune, ma un comportamento comune verso un solvente.",
+    "options": [
+      "La scarsa affinità con l'acqua (idrofobicità)",
+      "La struttura polimerica a partire da monomeri identici",
+      "La presenza costante di un anello a quattro cicli condensati"
+    ],
+    "correctIndex": 0,
+    "explanation": "I lipidi sono una classe eterogenea accomunata dalla scarsa affinità con l'acqua (idrofobicità). Svolgono funzioni energetica, di riserva, impermeabilizzante/strutturale, di pigmento/antiossidante e di segnale (ormoni). A differenza degli altri gruppi non formano polimeri veri e propri.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.6"
+  }
+]

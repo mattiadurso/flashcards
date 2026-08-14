@@ -1,0 +1,228 @@
+[
+  {
+    "id": "bvg-pro-amminoacido-001",
+    "topic": "biologia-vegetale",
+    "question": "Da quali gruppi è caratterizzato un amminoacido, tutti legati al carbonio α?",
+    "suggestion": "Un gruppo basico, uno acido, una catena variabile e un idrogeno.",
+    "options": [
+      "Un gruppo amminico (−NH2), un gruppo carbossilico (−COOH), un gruppo R variabile e un idrogeno",
+      "Due gruppi fosfato, uno zucchero pentoso e una base azotata",
+      "Un gruppo carbonile, un ossidrile anomerico e una lunga catena alifatica satura priva di azoto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un amminoacido è una molecola tetra-sostituita: al carbonio α sono legati un gruppo amminico basico (−NH2), un gruppo carbossilico acido (−COOH), un gruppo R variabile (catena laterale) e un atomo di idrogeno. Il gruppo R ne determina la specificità.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-pro-zwitterione-002",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è uno zwitterione, forma in cui si trova un amminoacido a pH fisiologico?",
+    "suggestion": "È una molecola nel complesso neutra, ma con cariche separate al proprio interno.",
+    "options": [
+      "Una molecola con carica netta fortemente positiva su entrambi i gruppi funzionali su entrambi i gruppi a pH fisiologico neutro",
+      "Una molecola elettricamente neutra nel complesso, ma con una carica positiva e una negativa separate",
+      "Una molecola priva di cariche, con gruppo amminico e carbossilico entrambi neutri"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pH fisiologico (~7) il gruppo amminico è protonato (+) e il carbossilico deprotonato (−): l'amminoacido è uno zwitterione, molecola neutra nel complesso ma con cariche separate al proprio interno. Tutti gli amminoacidi tranne la glicina hanno un carbonio asimmetrico (chirale).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-pro-peptidico-003",
+    "topic": "biologia-vegetale",
+    "question": "Come si forma il legame peptidico tra due amminoacidi?",
+    "suggestion": "Come per gli zuccheri, con eliminazione di una molecola d'acqua tra due gruppi specifici.",
+    "options": [
+      "Tra il gruppo laterale R di un amminoacido e il gruppo R del successivo, tramite un ponte disolfuro covalente",
+      "Tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo, per disidratazione",
+      "Tra due gruppi fosfato, mediante un legame fosfodiesterico ad alta energia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il legame peptidico si forma tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo, per disidratazione (con eliminazione di acqua); si rompe per idrolisi. La catena ha un N-terminale e un C-terminale, con scheletro polipeptidico e catene laterali R.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-secondaria-004",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa descrive la struttura secondaria di una proteina e da cosa è stabilizzata?",
+    "suggestion": "È il ripiegamento locale (α-elica, foglietto β) tenuto da legami che non coinvolgono i gruppi R.",
+    "options": [
+      "La semplice sequenza lineare degli amminoacidi della catena, stabilizzata dai soli legami peptidici covalenti molto stabili",
+      "Il ripiegamento locale (α-elica, foglietto β), stabilizzato da legami idrogeno dello scheletro peptidico",
+      "L'associazione di più subunità distinte in un unico complesso funzionale"
+    ],
+    "correctIndex": 1,
+    "explanation": "La struttura secondaria è il ripiegamento locale della catena (α-elica o foglietto β ripiegato), stabilizzato da legami idrogeno tra atomi dello scheletro peptidico, senza coinvolgere i gruppi R. La sequenza lineare è la primaria; l'associazione di subunità è la quaternaria.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-terziaria-005",
+    "topic": "biologia-vegetale",
+    "question": "Da quali interazioni è stabilizzata la struttura terziaria di una proteina?",
+    "suggestion": "Coinvolge esclusivamente i gruppi laterali R: interazioni idrofobiche, ionici, idrogeno e ponti disolfuro.",
+    "options": [
+      "Solo dai legami peptidici covalenti dello scheletro, come la struttura primaria",
+      "Da interazioni idrofobiche, legami ionici, legami idrogeno e ponti disolfuro tra i gruppi R",
+      "Dai soli legami idrogeno dello scheletro peptidico, come la struttura secondaria senza mai coinvolgere i gruppi laterali R"
+    ],
+    "correctIndex": 1,
+    "explanation": "La struttura terziaria è il ripiegamento tridimensionale complessivo della catena, stabilizzato da interazioni tra i gruppi laterali R: interazioni idrofobiche, legami ionici, legami idrogeno e ponti disolfuro (tra residui di cisteina).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-chaperonine-006",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione delle chaperonine nelle cellule?",
+    "suggestion": "Guidano un processo fisico della catena polipeptidica, non la sua sintesi.",
+    "options": [
+      "Sintetizzano la sequenza di amminoacidi a partire dall'mRNA durante la fase di traduzione sul ribosoma",
+      "Guidano il corretto ripiegamento (folding) delle catene polipeptidiche non strutturate",
+      "Rompono i legami peptidici degradando le proteine in singoli amminoacidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le chaperonine guidano il corretto ripiegamento (folding) delle catene polipeptidiche non strutturate, offrendo un ambiente idrofobo entro una struttura cilindrica cava. Sono essenziali dopo la denaturazione e dopo il passaggio delle proteine attraverso i plasmodesmi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-denaturazione-007",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa comporta la denaturazione di una proteina?",
+    "suggestion": "Si perde la forma tridimensionale, ma non la sequenza di amminoacidi.",
+    "options": [
+      "La rottura di tutti i legami peptidici covalenti e la scissione della proteina nei suoi singoli amminoacidi liberi",
+      "La perdita della struttura tridimensionale nativa e della funzione, senza intaccare la struttura primaria",
+      "La sintesi di nuove subunità che si aggiungono alla struttura quaternaria"
+    ],
+    "correctIndex": 1,
+    "explanation": "La denaturazione è la perdita della struttura tridimensionale nativa (e quindi della funzione) causata da temperatura, pH, radiazioni, ecc., senza intaccare la struttura primaria (i legami peptidici). In condizioni favorevoli può seguire la rinaturazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-fill-nucleoside-008",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'unione di una base azotata con uno zucchero pentoso, priva del gruppo fosforico, è detta ___.",
+    "answers": [
+      [
+        "nucleoside",
+        "nucleosidi"
+      ]
+    ],
+    "suggestion": "Aggiungendovi da uno a tre gruppi fosforici si ottiene un nucleotide.",
+    "explanation": "Il nucleoside è l'unione di una base azotata e uno zucchero pentoso, senza gruppo fosforico. Aggiungendovi da uno a tre gruppi fosforici si ottiene il nucleotide.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-basi-009",
+    "topic": "biologia-vegetale",
+    "question": "Quale base azotata è presente esclusivamente nell'RNA, sostituendo la timina del DNA?",
+    "suggestion": "È una base pirimidinica ad anello singolo.",
+    "options": [
+      "L'uracile, base pirimidinica presente solo nell'RNA",
+      "L'adenina, base purinica presente solo nel DNA",
+      "La guanina, base purinica presente solo nell'RNA a struttura a doppio anello condensato"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'uracile è la base pirimidinica presente esclusivamente nell'RNA, dove sostituisce funzionalmente la timina (esclusiva del DNA). Le basi puriniche (doppio anello) sono adenina e guanina; le pirimidiniche (anello singolo) citosina, timina e uracile.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-complementarita-010",
+    "topic": "biologia-vegetale",
+    "question": "Secondo le regole di complementarità del DNA (Watson e Crick), come si appaiano le basi?",
+    "suggestion": "Ogni base si appaia sempre con una specifica base dell'altro filamento, tramite legami idrogeno.",
+    "options": [
+      "L'adenina con la citosina e la guanina con la timina, tramite legami covalenti",
+      "L'adenina con la timina e la citosina con la guanina, tramite legami idrogeno",
+      "Ogni base può appaiarsi indifferentemente con qualunque altra base"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel DNA l'adenina si appaia con la timina e la citosina con la guanina, tramite legami idrogeno (nell'RNA l'adenina si appaia con l'uracile). Lungo un filamento i nucleotidi sono uniti da legami fosfodiesterici covalenti, con direzionalità 5'→3'.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.9-10"
+  },
+  {
+    "id": "bvg-pro-nucleosoma-011",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è il nucleosoma, primo livello di impaccamento del DNA negli eucarioti?",
+    "suggestion": "Un tratto di DNA avvolto attorno a un nucleo di proteine istoniche.",
+    "options": [
+      "Un tratto di doppia elica avvolto attorno a un core di otto istoni (H2A, H2B, H3, H4)",
+      "Un singolo filamento di RNA avvolto attorno a un ribosoma",
+      "Un tratto di DNA privo di proteine, avvolto solo su sé stesso a spirale a formare una spirale compatta e regolare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il nucleosoma è l'unità fondamentale dell'impaccamento del DNA: un tratto di doppia elica avvolto attorno a un core di otto istoni (due copie ciascuna di H2A, H2B, H3, H4); l'istone H1 si lega al DNA spaziatore. La successione dà l'aspetto 'a collana di perle'.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.10"
+  },
+  {
+    "id": "bvg-pro-cromatina-012",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'eucromatina è trascrizionalmente attiva mentre l'eterocromatina è inattiva?",
+    "suggestion": "Il grado di compattazione decide se l'RNA polimerasi può accedere al DNA.",
+    "options": [
+      "L'eucromatina è molto addensata e inaccessibile, l'eterocromatina è distesa e accessibile",
+      "L'eucromatina è poco addensata e accessibile all'RNA polimerasi, l'eterocromatina è molto condensata e inaccessibile",
+      "L'eucromatina è priva di istoni, l'eterocromatina ne è ricca, ma entrambe sono ugualmente trascritte ma viene comunque trascritta allo stesso modo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il grado di compattazione regola la trascrizione: l'eucromatina è poco addensata e quindi accessibile all'RNA polimerasi (trascrivibile); l'eterocromatina è molto condensata e trascrizionalmente inattiva (tipica di centromeri e telomeri).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.10"
+  },
+  {
+    "id": "bvg-pro-dogma-013",
+    "topic": "biologia-vegetale",
+    "question": "Quali tre processi costituiscono il 'dogma centrale' della biologia molecolare?",
+    "suggestion": "Copia del DNA, sintesi di RNA dal DNA, sintesi della proteina dall'RNA.",
+    "options": [
+      "Duplicazione, trascrizione e traduzione",
+      "Glicolisi, ciclo di Krebs e fosforilazione ossidativa",
+      "Disidratazione, idrolisi e denaturazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il dogma centrale comprende duplicazione (DNA→DNA, semiconservativa), trascrizione (DNA→RNA, nel nucleo) e traduzione (mRNA→proteina, sul ribosoma). Intervengono mRNA, rRNA e tRNA.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.10-11"
+  },
+  {
+    "id": "bvg-pro-atp-014",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa avviene quando l'ATP viene idrolizzato ad ADP?",
+    "suggestion": "Si stacca il terzo gruppo fosfato e si libera energia utilizzabile dalla cellula.",
+    "options": [
+      "Si aggiunge un terzo fosfato consumando energia (reazione endoergonica) fornita dall'esterno alla cellula",
+      "Si stacca il terzo fosfato liberando energia (~7 kcal/mol) per il lavoro cellulare",
+      "L'ATP si converte in NADH acquisendo elettroni e potere riducente"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'idrolisi (defosforilazione) del legame tra il secondo e il terzo gruppo fosforico converte l'ATP in ADP + fosfato, liberando ~7 kcal/mol di energia libera (reazione esoergonica). La sintesi inversa (fosforilazione, ADP→ATP) è endoergonica.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.11"
+  },
+  {
+    "id": "bvg-pro-nadp-015",
+    "topic": "biologia-vegetale",
+    "question": "Quale trasportatore di potere riducente opera nel cloroplasto durante la fotosintesi, nella sua forma fosforilata?",
+    "suggestion": "È la versione fosforilata del NAD, che si riduce a NADPH.",
+    "options": [
+      "Il NADP+, che si riduce a NADPH nel cloroplasto durante la fotosintesi",
+      "Il NAD+, che si riduce a NADH esclusivamente nel mitocondrio durante la respirazione cellulare aerobia",
+      "L'ATP, che trasporta gruppi fosfato ma non elettroni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il NADP+ (forma fosforilata del NAD) si riduce a NADPH nel cloroplasto durante la fotosintesi; il NAD+/NADH opera invece soprattutto nel mitocondrio durante la respirazione. Entrambi trasportano elettroni (potere riducente) alternando forma ossidata e ridotta.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.11"
+  }
+]
