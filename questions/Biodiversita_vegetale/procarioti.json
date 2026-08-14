@@ -1,0 +1,279 @@
+[
+  {
+    "id": "bdv-proc-definizione-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la caratteristica che definisce un organismo procariota rispetto a un eucariota?",
+    "suggestion": "Pensa a dove si trova il DNA nella cellula e alla presenza o assenza di organuli delimitati da membrana.",
+    "options": [
+      "È sempre e comunque unicellulare e non possiede mai alcun tipo di parete cellulare protettiva",
+      "Ha cellule prive di nucleo delimitato da membrana e, in generale, di organuli membranosi",
+      "Possiede un nucleo vero e proprio ma è del tutto privo di ribosomi e quindi incapace di sintesi proteica"
+    ],
+    "correctIndex": 1,
+    "explanation": "I procarioti (Bacteria e Archaea) hanno il materiale genetico non racchiuso da membrana nucleare e sono privi di organuli membranosi, a differenza degli eucarioti; possiedono comunque ribosomi (più piccoli) e spesso una parete cellulare.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.9"
+  },
+  {
+    "id": "bdv-proc-nucleoide-002",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa il nucleoide batterico differisce da un plasmide?",
+    "suggestion": "Uno contiene i geni indispensabili alla vita della cellula, l'altro geni accessori non essenziali in condizioni normali.",
+    "options": [
+      "Il nucleoide è racchiuso da una membrana nucleare mentre il plasmide, di dimensioni maggiori, resta libero nel citoplasma",
+      "Il nucleoide è il DNA circolare principale con i geni essenziali, il plasmide un piccolo DNA con funzione accessoria",
+      "Il nucleoide è formato da RNA a doppio filamento mentre il plasmide è formato da DNA strettamente associato agli istoni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il nucleoide è la molecola di DNA circolare principale, non racchiusa da membrana e priva di istoni, che porta i geni essenziali; i plasmidi sono DNA circolari più piccoli con funzione accessoria, non indispensabili in condizioni normali, che talvolta possono integrarsi nel nucleoide.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.9"
+  },
+  {
+    "id": "bdv-proc-fill-peptidoglicano-003",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il polimero di zuccheri amminici e ponti peptidici che costituisce la parete cellulare dei batteri è detto peptidoglicano o ___.",
+    "answers": [["mureina"]],
+    "suggestion": "È il secondo nome del peptidoglicano; è il bersaglio idrolizzato dal lisozima.",
+    "explanation": "Il peptidoglicano, detto anche mureina, è formato da catene di N-acetilglucosammina e acido N-acetilmuramico unite da legami β1→4 e collegate da ponti peptidici. Il legame β1→4 è il sito di taglio del lisozima.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-gram-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché i batteri Gram+ trattengono il colorante violetto mentre i Gram- assumono una colorazione rosata?",
+    "suggestion": "La differenza sta nello spessore dello strato di peptidoglicano e nella presenza di una membrana esterna.",
+    "options": [
+      "Perché i Gram+ hanno peptidoglicano spesso che trattiene il colorante, i Gram- uno strato sottile e una membrana esterna",
+      "Perché i Gram+ sono del tutto privi di parete cellulare e assorbono così direttamente il colorante nel loro citoplasma interno",
+      "Perché i Gram- possiedono un peptidoglicano molto più spesso e una capsula mucillaginosa che intensifica il colore violetto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei Gram+ il peptidoglicano è spesso e uniforme e trattiene il violetto cristallo; nei Gram- lo strato è sottile, addossato al plasmalemma e racchiuso da una membrana esterna con lipopolisaccaridi, per cui la cellula non trattiene il colorante e si colora con fucsina o eosina (rosata).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-flagelli-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue un batterio peritrico da uno monotrico?",
+    "suggestion": "La differenza riguarda il numero e la disposizione dei flagelli sulla superficie della cellula.",
+    "options": [
+      "Il peritrico ha un unico flagello polare, il monotrico ha invece flagelli distribuiti su tutta la sua superficie",
+      "Il peritrico ha flagelli su tutta la superficie, il monotrico un solo flagello a un polo",
+      "Il peritrico usa i flagelli soltanto per lo scambio genico, il monotrico li impiega esclusivamente per il movimento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La classificazione si basa su numero e posizione dei flagelli: monotrichi (un solo flagello a un polo), lofotrichi (un ciuffo a un polo), amfitrichi (a entrambi i poli) e peritrichi (flagelli su tutta la superficie). I pili/fimbrie, invece, servono allo scambio genico, non al movimento.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-biofilm-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la formazione di un biofilm rappresenta un vantaggio per le cellule batteriche?",
+    "suggestion": "Pensa a cosa cambia per una cellula quando passa da vita planctonica libera a vita adesa in una matrice condivisa.",
+    "options": [
+      "Perché elimina definitivamente la parete cellulare, rendendo le cellule più leggere, più veloci e più mobili nell'ambiente",
+      "Perché impedisce del tutto ogni scambio genico, isolando geneticamente le cellule adese le une dalle altre",
+      "Perché aumenta la sopravvivenza, favorisce la comunicazione e facilita gli scambi genici tra le cellule"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il biofilm è un'associazione di cellule adese a una superficie e incluse in una matrice polisaccaridica: aumenta la sopravvivenza, favorisce la comunicazione tra cellule e ne facilita gli scambi genici. Il ciclo va dall'adesione delle cellule planctoniche fino alla dispersione.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.10-11"
+  },
+  {
+    "id": "bdv-proc-anaerobi-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza un anaerobio facoltativo rispetto a un anaerobio obbligato?",
+    "suggestion": "Uno tollera l'ossigeno e ne adatta il metabolismo, per l'altro l'ossigeno è tossico.",
+    "options": [
+      "L'anaerobio facoltativo vive sia con sia senza ossigeno adattando il metabolismo, l'obbligato non tollera l'ossigeno",
+      "L'anaerobio facoltativo richiede in ogni caso ossigeno per sopravvivere, mentre l'obbligato è capace di produrlo da solo",
+      "L'anaerobio facoltativo vive esclusivamente in acque salate, mentre l'obbligato si trova soltanto nelle acque dolci"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'anaerobio facoltativo può vivere sia in presenza sia in assenza di ossigeno, adattando il metabolismo; l'anaerobio obbligato non può vivere dove è presente ossigeno libero, che gli è tossico. Gli aerobi, invece, richiedono ossigeno.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-chemioautotrofi-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale fonte di energia e di carbonio utilizza un batterio chemioautotrofo?",
+    "suggestion": "Il prefisso 'chemio-' indica la fonte di energia; 'autotrofo' indica da dove ricava il carbonio.",
+    "options": [
+      "Ricava energia dalla luce solare e carbonio da sostanza organica preformata da altri organismi",
+      "Ricava energia dall'ossidazione di composti inorganici e carbonio dall'anidride carbonica",
+      "Ricava sia energia sia carbonio esclusivamente da sostanza organica proveniente da organismi morti"
+    ],
+    "correctIndex": 1,
+    "explanation": "I chemioautotrofi ottengono energia dall'ossidazione di composti inorganici e usano la CO2 come fonte di carbonio. Si distinguono dai fotoautotrofi (energia dalla luce), dai fotoeterotrofi (luce + carbonio organico) e dai chemioeterotrofi (tutto da sostanza organica).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-ricombinazione-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue la trasduzione dagli altri meccanismi di ricombinazione genica batterica?",
+    "suggestion": "In un caso il DNA viaggia dentro un vettore biologico particolare, non per contatto diretto né come DNA libero.",
+    "options": [
+      "Il DNA passa direttamente tra due batteri a contatto, veicolato da un plasmide detto in questo caso episoma",
+      "Il batterio assume DNA libero disperso nell'ambiente esterno, che può contenere geni prima assenti nel ricevente",
+      "Il DNA è trasferito da un batterio all'altro tramite un virus che funge da vettore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella trasduzione il DNA è trasportato da un virus (vettore); nella coniugazione passa direttamente tra due batteri tramite plasmidi (episomi); nella trasformazione il batterio assume DNA libero presente nell'ambiente. Nessuno prevede fusione di gameti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-endospore-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le endospore sono descritte come una forma di 'diffusione temporale' del batterio?",
+    "suggestion": "Non spostano il batterio nello spazio, ma gli permettono di attraversare qualcosa di diverso.",
+    "options": [
+      "Perché permettono alla cellula di muoversi molto rapidamente nello spazio verso ambienti più favorevoli alla crescita",
+      "Perché consentono alla specie di superare i periodi sfavorevoli in uno stato quiescente e resistente",
+      "Perché aumentano notevolmente la velocità della scissione binaria durante le fasi di rapida crescita vegetativa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le endospore sono forme di resistenza metabolicamente quiescenti che permettono di sopravvivere nel tempo a condizioni sfavorevoli: è una 'diffusione temporale' (attraversare il tempo), contrapposta alla 'diffusione spaziale' della rapida riproduzione. Il passaggio spora↔forma vegetativa avviene per germinazione e sporulazione.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-fill-nitrificazione-011",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'ossidazione biologica dell'ammonio a nitrati operata da specifici batteri del suolo è detta ___.",
+    "answers": [["nitrificazione"]],
+    "suggestion": "È il processo che trasforma l'ammonio in nitrati; da non confondere con la denitrificazione, che restituisce azoto gassoso all'atmosfera.",
+    "explanation": "La nitrificazione è l'ossidazione dell'ammonio a nitrati a opera di batteri del suolo. Fa parte del ciclo dell'azoto insieme a fissazione, assimilazione, ammonificazione e denitrificazione.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11-12"
+  },
+  {
+    "id": "bdv-proc-ciano-clorofilla-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la comparsa della clorofilla a nei cianobatteri ha avuto conseguenze decisive per l'atmosfera terrestre?",
+    "suggestion": "Questo pigmento rende possibile una fotosintesi che scinde l'acqua; pensa al sottoprodotto di quella reazione.",
+    "options": [
+      "Perché la clorofilla a permette una fotosintesi ossigenica che libera O2, alla base del Great Oxygenation Event",
+      "Perché la clorofilla a assorbe attivamente l'ossigeno atmosferico già presente, riducendone progressivamente la concentrazione nell'aria",
+      "Perché la clorofilla a consente ai cianobatteri di fissare l'azoto molecolare atmosferico al posto del carbonio della CO2"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clorofilla a compare per la prima volta nei cianobatteri ed è il pigmento della reazione in cui l'acqua cede elettroni liberando O2. La loro fotosintesi ossigenica, protratta per miliardi di anni, ha trasformato l'atmosfera da riducente a ossidante (Great Oxygenation Event).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.13-14"
+  },
+  {
+    "id": "bdv-proc-ficobiline-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Che ruolo svolgono le ficobiline (ficocianina e ficoeritrina) nei cianobatteri?",
+    "suggestion": "Sono pigmenti diversi dalla clorofilla a: pensa a cosa fanno con la luce prima di cederla ai centri di reazione.",
+    "options": [
+      "Sono enzimi che fissano direttamente l'azoto molecolare atmosferico all'interno delle eterocisti dei filamenti",
+      "Sono pigmenti accessori idrosolubili che catturano la luce e ne trasferiscono l'energia ai fotosistemi",
+      "Sono strutture di riserva del fosforo inorganico che vengono utilizzate per sintetizzare ATP anche al buio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le ficobiline (ficocianina blu, ficoeritrina rossa) sono pigmenti accessori idrosolubili organizzati nei ficobilisomi: catturano la luce e ne trasferiscono l'energia fino ai centri di reazione dei fotosistemi. La riserva di fosforo è invece nei granuli di polifosfati.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.13"
+  },
+  {
+    "id": "bdv-proc-eterocisti-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché nelle eterocisti dei cianobatteri filamentosi manca il fotosistema II?",
+    "suggestion": "L'enzima che fissa l'azoto è disattivato da un gas che il fotosistema II produrrebbe.",
+    "options": [
+      "Perché il fotosistema II serve soltanto durante la riproduzione della cellula e non ha alcun ruolo nella fissazione dell'azoto",
+      "Perché la sua assenza elimina la produzione interna di ossigeno, che inattiverebbe la nitrogenasi",
+      "Perché il fotosistema II verrebbe rapidamente distrutto dalle elevate concentrazioni di azoto molecolare accumulato nella cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "La nitrogenasi, che fissa l'N2, è inattivata dall'ossigeno. L'eterocisti crea un microambiente anaerobio grazie alla parete spessa (che limita l'ingresso di O2) e all'assenza del fotosistema II, che eliminerebbe la principale fonte interna di ossigeno.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.13"
+  },
+  {
+    "id": "bdv-proc-endosimbiosi-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la teoria endosimbiontica, quale ruolo hanno avuto i cianobatteri nell'evoluzione delle cellule vegetali?",
+    "suggestion": "Pensa all'origine di un organulo fotosintetico oggi presente in alghe e piante.",
+    "options": [
+      "Sarebbero i probabili primi endosimbionti all'origine dei plastidi e dei cloroplasti",
+      "Avrebbero fornito alle prime cellule vegetali il nucleo insieme all'intero involucro nucleare membranoso",
+      "Avrebbero dato origine, tramite endosimbiosi, ai mitocondri sia delle cellule animali sia di quelle vegetali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Si ritiene che cianobatteri (forme simili a Prochloron) siano stati i primi endosimbionti da cui derivano i plastidi delle alghe e i cloroplasti delle piante terrestri, secondo la teoria dell'origine endosimbiontica di questi organuli fotosintetici. I mitocondri derivano invece da un batterio aerobio.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.14"
+  },
+  {
+    "id": "bdv-proc-stromatoliti-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sono gli stromatoliti e perché testimoniano l'antichità dei cianobatteri?",
+    "suggestion": "Sono strutture rocciose stratificate legate all'attività di comunità microbiche, con reperti molto antichi.",
+    "options": [
+      "Sono spore fossili prodotte dai cianobatteri, che segnano con precisione l'inizio della vita eucariotica pluricellulare",
+      "Sono strutture sedimentarie stratificate prodotte da comunità cianobatteriche, con esempi di circa 2,3 miliardi di anni fa",
+      "Sono grandi cristalli di ossigeno molecolare rimasti intrappolati nelle rocce sedimentarie dell'Eone Archeano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli stromatoliti sono strutture sedimentarie stratificate prodotte da comunità microbiche (soprattutto cianobatteriche) che intrappolano e cementano i sedimenti; i più antichi risalgono a ~2,3 miliardi di anni fa. I cianobatteri fossili sono morfologicamente molto simili a quelli attuali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.14"
+  },
+  {
+    "id": "bdv-proc-archaea-lipidi-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali due caratteristiche distinguono gli Archaea dai Bacteria a livello di parete e membrana?",
+    "suggestion": "Una riguarda la molecola strutturale della parete; l'altra il tipo di legame nei lipidi di membrana.",
+    "options": [
+      "Gli Archaea hanno più peptidoglicano dei Bacteria e presentano legami di tipo estere nei lipidi della loro membrana",
+      "Gli Archaea sono del tutto privi di parete e possiedono un nucleo vero e proprio delimitato da una membrana nucleare",
+      "Gli Archaea sono privi di peptidoglicano e hanno lipidi di membrana con legame etere anziché estere"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli Archaea si distinguono dai Bacteria per l'assenza di peptidoglicano nella parete e per i lipidi di membrana uniti al glicerolo tramite legame etere (R-O-R) invece dell'estere (R-CO-O-R) tipico di batteri ed eucarioti. Hanno inoltre rRNA con sequenze caratteristiche.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.14"
+  },
+  {
+    "id": "bdv-proc-archaea-estremofili-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale gruppo metabolico di Archaea produce metano come prodotto del proprio metabolismo?",
+    "suggestion": "Il nome del gruppo descrive direttamente il gas che genera, e vive in ambienti privi di ossigeno.",
+    "options": [
+      "I metanogeni",
+      "Gli alofili estremi",
+      "I termoacidofili"
+    ],
+    "correctIndex": 0,
+    "explanation": "I metanogeni producono metano in ambienti anaerobi; gli alofili estremi tollerano concentrazioni saline elevate; i termoacidofili vivono in ambienti caldi e acidi. Sono i tre gruppi fisiologici tipici degli Archaea, spesso legati ad ambienti estremi.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.14"
+  },
+  {
+    "id": "bdv-proc-due-domini-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sostiene l'ipotesi di un albero della vita a due domini, supportata dalla filogenomica?",
+    "suggestion": "Riguarda l'origine degli eucarioti in rapporto agli Archaea (in particolare il gruppo Asgard).",
+    "options": [
+      "Che gli eucarioti si sarebbero originati all'interno del dominio Archaea, imparentati con il gruppo Asgard",
+      "Che Bacteria e Archaea derivino entrambi, per successiva perdita del nucleo, da antenati eucariotici già nucleati",
+      "Che esistano in realtà quattro domini del tutto indipendenti, privi tra loro di qualsiasi relazione evolutiva comune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli studi filogenomici indicano che gli eucarioti si sarebbero originati dall'interno degli Archaea, con una stretta relazione con il gruppo Asgard (in particolare le Heimdallarchaeota), candidato parente archeale più prossimo alla linea che ha portato al nucleo eucariotico.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.14"
+  }
+]

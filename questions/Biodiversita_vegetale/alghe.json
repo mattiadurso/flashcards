@@ -1,0 +1,264 @@
+[
+  {
+    "id": "bdv-alghe-endosimbiosi-eventi-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la teoria endosimbiontica, in quale ordine sarebbero comparsi i principali elementi della cellula eucariotica?",
+    "suggestion": "Prima si formano i compartimenti interni da invaginazioni, poi si inglobano due diversi procarioti in due momenti distinti.",
+    "options": [
+      "Prima il cloroplasto fotosintetico, poi il mitocondrio aerobio e infine, per ultime, le endomembrane interne",
+      "Prima le endomembrane, poi il mitocondrio e infine il cloroplasto",
+      "Prima il mitocondrio, poi il cloroplasto e infine il nucleo, formatosi dalla fusione dei due organuli inglobati"
+    ],
+    "correctIndex": 1,
+    "explanation": "La teoria prevede tre eventi: le endomembrane (reticolo endoplasmatico e involucro nucleare) da invaginazioni della membrana; poi l'inglobamento di un batterio aerobio (mitocondrio); infine, in una cellula già dotata di mitocondrio, l'inglobamento di un batterio fotosintetico (cloroplasto).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.16"
+  },
+  {
+    "id": "bdv-alghe-doppia-membrana-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché mitocondri e cloroplasti conservano DNA proprio e una doppia membrana?",
+    "suggestion": "Queste due caratteristiche sono la 'firma' della loro origine da organismi indipendenti inglobati.",
+    "options": [
+      "Perché derivano da procarioti inglobati per endosimbiosi, di cui hanno mantenuto genoma e membrana",
+      "Perché sono organuli formatisi per ripiegamento e distacco di porzioni della membrana nucleare della cellula ospite",
+      "Perché il loro DNA è una copia recente trasferita dal nucleo allo scopo di proteggerlo dalle mutazioni cellulari"
+    ],
+    "correctIndex": 0,
+    "explanation": "DNA proprio e doppia membrana sono le prove dell'origine endosimbiontica: mitocondri e cloroplasti derivano da batteri (rispettivamente aerobio e fotosintetico) inglobati e stabilizzati, che hanno conservato parte del genoma e la propria membrana.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.16"
+  },
+  {
+    "id": "bdv-alghe-oogamia-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue l'oogamia dall'isogamia?",
+    "suggestion": "Guarda se i due gameti sono uguali o profondamente diversi per dimensioni e mobilità, e dove avviene la fecondazione.",
+    "options": [
+      "Nell'oogamia i gameti sono di identica morfologia e si uniscono liberamente in acqua, mentre nell'isogamia sono di dimensioni diverse",
+      "Nell'oogamia il gamete maschile è piccolo e mobile, quello femminile grande e immobile, con fecondazione interna",
+      "Nell'oogamia entrambi i gameti sono grandi e immobili e la loro fecondazione avviene sempre all'esterno dell'organismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'isogamia i gameti hanno uguale morfologia e si uniscono in acqua; nell'oogamia il gamete maschile è piccolo, mobile e flagellato, quello femminile grande e immobile, e la fecondazione avviene all'interno della struttura femminile. L'eterogamia è intermedia (gameti diversi ma entrambi uniti in acqua).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.16-17"
+  },
+  {
+    "id": "bdv-alghe-fill-zigote-004",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella fecondazione, la fusione dei citoplasmi dei due gameti è detta plasmogamia, mentre la successiva fusione dei nuclei è detta ___.",
+    "answers": [["cariogamia"]],
+    "suggestion": "Il termine unisce 'nucleo' (cario-) e 'unione' (-gamia).",
+    "explanation": "La formazione dello zigote avviene in due fasi: plasmogamia (fusione dei citoplasmi) e cariogamia (fusione dei nuclei), da cui deriva la cellula diploide.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.16"
+  },
+  {
+    "id": "bdv-alghe-ciclo-aplonte-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza il ciclo metagenetico aplonte (a meiosi zigotica)?",
+    "suggestion": "L'individuo adulto è aploide; l'unica cellula diploide dell'intero ciclo subisce meiosi subito.",
+    "options": [
+      "L'individuo adulto è diploide e produce direttamente i propri gameti per meiosi, senza fase aploide sviluppata",
+      "Sporofito e gametofito sono entrambi individui pienamente sviluppati che si alternano regolarmente tra loro",
+      "L'individuo adulto è aploide e lo zigote, unica cellula diploide, va subito incontro a meiosi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel ciclo aplonte l'adulto è aploide e lo zigote (unica cellula 2n) subisce meiosi immediata (zigotica). Nel diplonte l'adulto è diploide con meiosi gametica; nell'aplo-diplonte si alternano sporofito e gametofito entrambi sviluppati.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-gruppo-artificiale-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le alghe sono considerate un gruppo artificiale e non monofiletico?",
+    "suggestion": "Sono accomunate da caratteristiche funzionali ed ecologiche, ma provengono da linee evolutive distinte.",
+    "options": [
+      "Perché discendono tutte da un unico antenato comune esclusivo, che però non è condiviso con le piante terrestri",
+      "Perché riuniscono, per somiglianza funzionale, eucarioti fotosintetici di supergruppi evolutivi diversi",
+      "Perché sono in realtà tutte prive di veri cloroplasti e quindi incapaci di una fotosintesi ossigenica autonoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le alghe sono un raggruppamento artificiale: eucarioti autotrofi acquatici con clorofilla a, accomunati da caratteristiche condivise ma distribuiti in supergruppi diversi (Excavata, Cromoalveolata/SAR, Archaeplastida, Unikonta), non discendenti da un unico antenato comune esclusivo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.17-19"
+  },
+  {
+    "id": "bdv-alghe-sifonale-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza l'organizzazione sifonale di una macroalga unicellulare come Bryopsis?",
+    "suggestion": "È una sola grande cellula: pensa a quanti nuclei contiene e se ci sono setti che la suddividono.",
+    "options": [
+      "Una singola cellula grande e multinucleata, priva di setti interni",
+      "Un filamento di più cellule uninucleate, ciascuna separata dall'altra da un netto setto trasversale",
+      "Una colonia globosa di cellule flagellate, tutte racchiuse insieme in un'unica massa gelatinosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'organizzazione sifonale è costituita da un'unica cellula grande e multinucleata priva di setti interni (es. Bryopsis). Il filamento uninucleato con setti è l'organizzazione tricale; la colonia gelatinosa è quella capsale.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-endosimbiosi-secondaria-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue l'endosimbiosi secondaria da quella primaria nell'origine dei plastidi algali?",
+    "suggestion": "Cambia che cosa viene inglobato: un batterio nudo oppure un'intera alga già dotata di plastidio; il numero di membrane lo rivela.",
+    "options": [
+      "Nella secondaria è un procariote a inglobare un eucariote, dando origine a un plastidio delimitato da una sola membrana",
+      "Nella secondaria un eucariote ingloba un'intera alga già dotata di cloroplasto, dando un plastidio a tre o quattro membrane",
+      "Nella secondaria si perde del tutto il cloroplasto, che viene poi sostituito nella cellula da un mitocondrio fotosintetico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'endosimbiosi primaria un eucariote ingloba un cianobatterio (plastidio a due membrane: alghe rosse, verdi, piante). Nella secondaria un eucariote ingloba un'intera alga già dotata di cloroplasto primario, ottenendo un plastidio a tre o quattro membrane (Euglenophyta da un'alga verde; Dinozoa, Chrysophyta, Phaeophyta da un'alga rossa).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.17-18"
+  },
+  {
+    "id": "bdv-alghe-pigmenti-profondita-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le alghe rosse (Rhodophyta) possono vivere a profondità maggiori delle alghe verdi?",
+    "suggestion": "Collega i loro pigmenti accessori idrosolubili alle lunghezze d'onda che riescono a penetrare più in profondità nell'acqua.",
+    "options": [
+      "Perché le ficobiline catturano le lunghezze d'onda blu-verdi che penetrano più a fondo, dove il rosso è ormai assente",
+      "Perché possiedono molta più clorofilla a delle alghe verdi e assorbono così meglio la luce rossa che resta in superficie",
+      "Perché sono del tutto prive di pigmenti fotosintetici e sfruttano un metabolismo chemioautotrofo indipendente dalla luce"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'acqua filtra selettivamente la luce: il rosso si esaurisce in superficie, mentre blu e verde penetrano più a fondo. Le ficobiline delle Rhodophyta catturano queste lunghezze d'onda, permettendo al fitobenthos rosso di spingersi fino a circa 200 m, oltre le alghe verdi (~10 m) e brune (~150 m).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.18-19"
+  },
+  {
+    "id": "bdv-alghe-fitoplancton-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il fitoplancton è considerato la base della catena alimentare acquatica?",
+    "suggestion": "Sono produttori primari in superficie: pensa a chi si nutre direttamente di loro.",
+    "options": [
+      "Perché decompone la sostanza organica morta sul fondale, liberando i nutrienti minerali riutilizzabili dagli altri organismi",
+      "Perché è formato da alghe autotrofe sospese in superficie che, come produttori primari, nutrono lo zooplancton",
+      "Perché filtra continuamente l'acqua trattenendo i nutrienti in eccesso e prevenendo così i fenomeni di eutrofizzazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fitoplancton è costituito da alghe microscopiche autotrofe sospese nei primi centimetri d'acqua: come produttori primari costituiscono la base della catena alimentare, nutrendo lo zooplancton. Un eccesso di nutrienti provoca invece eutrofizzazione, dannosa per la biodiversità.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-euglenophyta-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale caratteristica nutrizionale contraddistingue le Euglenophyta?",
+    "suggestion": "Non sono rigidamente autotrofe né eterotrofe: pensa a un metabolismo che combina entrambe le strategie.",
+    "options": [
+      "Sono organismi esclusivamente eterotrofi, del tutto privi di plastidi e incapaci di qualsiasi fotosintesi",
+      "Sono chemioautotrofe, ossidando composti inorganici del substrato per ricavarne l'energia necessaria",
+      "Sono mixotrofe, capaci di nutrirsi sia per fotosintesi sia assumendo sostanza organica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Euglenophyta hanno metabolismo mixotrofo (autotrofo ed eterotrofo insieme). Sono prive di parete rigida (rivestite da periplasto proteico), con plastidi secondari a tre membrane e riserva di paramilon.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.18"
+  },
+  {
+    "id": "bdv-alghe-diatomee-frustulo-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è il frustulo delle diatomee (Bacillariophyceae)?",
+    "suggestion": "È la loro parete particolare, fatta di un materiale minerale e organizzata come due parti che si incastrano.",
+    "options": [
+      "Una parete silicea formata da due valve che si incastrano come una scatola",
+      "Una spessa capsula gelatinosa di natura polisaccaridica che avvolge dall'esterno l'intera colonia di cellule",
+      "Un sottile rivestimento proteico elastico e spiralato, del tutto privo di componenti minerali o silicee"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il frustulo è la parete silicea delle diatomee, costituita da due valve che si incastrano; può avere simmetria radiale (centriche) o bilaterale (pennate, con rafe). La divisione cellulare riduce progressivamente le dimensioni, compensate dalla formazione sessuata dell'auxospora.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.18"
+  },
+  {
+    "id": "bdv-alghe-fill-fucoxantina-013",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il pigmento accessorio bruno-giallo che, insieme alla clorofilla c, conferisce il colore caratteristico ad alghe brune e diatomee è detto ___.",
+    "answers": [["fucoxantina"]],
+    "suggestion": "È una xantofilla tipica degli Stramenopili; il suo nome richiama le alghe brune (Fucus).",
+    "explanation": "La fucoxantina è la xantofilla che, con clorofilla a e c, caratterizza gli Stramenopili (diatomee e alghe brune), mascherando il verde della clorofilla e dando la colorazione bruno-dorata.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.18"
+  },
+  {
+    "id": "bdv-alghe-kelp-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le foreste di kelp (Macrocystis, Laminaria) hanno grande rilevanza ecologica?",
+    "suggestion": "Pensa a queste grandi alghe brune come costruttrici di un habitat costiero.",
+    "options": [
+      "Perché sono le uniche alghe capaci di fissare l'azoto molecolare atmosferico nelle fredde acque costiere in cui vivono",
+      "Perché formano habitat costieri di elevata produttività e biodiversità, come foreste sommerse",
+      "Perché sono organismi microscopici e unicellulari che costituiscono da soli l'intero fitoplancton dei mari polari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le alghe brune (Pheophyceae) come Macrocystis, Laminaria ed Ecklonia formano le foreste di kelp, habitat costieri di elevata produttività e biodiversità. Sono macroalghe pseudoparenchimatiche il cui tallo può differenziarsi in tubi cribrosi e aerocisti.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.18"
+  },
+  {
+    "id": "bdv-alghe-rodophyta-flagelli-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingue le Rhodophyta dagli altri gruppi algali in tutte le fasi del ciclo vitale?",
+    "suggestion": "Riguarda una struttura di movimento che in questo gruppo non compare mai, neppure nei gameti.",
+    "options": [
+      "L'assenza totale di stadi flagellati, gameti compresi",
+      "La presenza costante di un frustulo siliceo a due valve in ogni cellula del tallo e nei gameti",
+      "La totale mancanza di clorofilla a, sostituita interamente dalle sole ficobiline nella fotosintesi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Rhodophyta sono prive di flagelli in ogni fase del ciclo, gameti inclusi. Possiedono clorofilla a (e d), ficoeritrina e carotenoidi, con plastidi a due membrane e ficobilisomi, e come riserva l'amido floridiano accumulato nel citosol.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-charophyceae-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le Charophyceae sono considerate il gruppo algale di transizione verso le piante terrestri?",
+    "suggestion": "Sono le alghe filogeneticamente più vicine alle Embriofite e ne anticipano diversi caratteri lungo la linea delle Streptofite.",
+    "options": [
+      "Perché sono le prime alghe ad aver perso completamente la clorofilla b, esattamente come è avvenuto nelle piante terrestri",
+      "Perché sono il gruppo algale più vicino alle Embriofite, di cui condividono caratteri come fragmoplasto e oogamia",
+      "Perché sono grandi alghe marine sifonacee, del tutto prive di riproduzione sessuata e di ritenzione della cellula uovo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Charophyceae sono il gruppo algale più prossimo alle piante terrestri (Embriofite), con cui condividono l'appartenenza alle Viridiplantae. Lungo la linea delle Streptofite si acquisiscono clorofilla b, fragmoplasto, crescita apicale, oogamia e ritenzione della cellula uovo, fino ai caratteri esclusivi delle Embriofite.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-dinoflagellati-017",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo i dinoflagellati (Dinophyceae) possono avere un impatto ecologico rilevante negli ambienti marini?",
+    "suggestion": "Pensa alle simbiosi con i coralli e ad alcune fioriture problematiche.",
+    "options": [
+      "Costituiscono la fonte industriale di agar e carragenani e vengono largamente impiegati nell'industria alimentare umana",
+      "Sono simbionti dei coralli (zooxantelle) e alcune specie producono tossine o bioluminescenza",
+      "Formano le grandi foreste di kelp e gli habitat costieri sommersi più produttivi e ricchi di biodiversità del pianeta"
+    ],
+    "correctIndex": 1,
+    "explanation": "I dinoflagellati sono spesso simbionti di coralli e invertebrati marini (zooxantelle); alcune specie producono tossine responsabili delle maree rosse o fenomeni di bioluminescenza. Sono unicellulari biflagellati con alveoli sottomembranari che, con placche di cellulosa, formano una teca.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.18"
+  },
+  {
+    "id": "bdv-alghe-crossing-over-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il crossing over durante la meiosi è importante per le popolazioni algali?",
+    "suggestion": "Lo scambio di segmenti tra cromatidi omologhi produce nuove combinazioni geniche.",
+    "options": [
+      "Perché duplica l'intero corredo cromosomico della cellula, generando così individui poliploidi con più genomi",
+      "Perché scambia segmenti di DNA tra cromatidi omologhi, generando variabilità genetica",
+      "Perché individua ed elimina i cromosomi difettosi, impedendo del tutto la formazione di gameti vitali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il crossing over è lo scambio di segmenti di DNA tra cromatidi omologhi durante la meiosi (visibile come chiasma) ed è responsabile della ricombinazione genica e della variabilità che alimenta l'evoluzione delle popolazioni.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.16"
+  }
+]

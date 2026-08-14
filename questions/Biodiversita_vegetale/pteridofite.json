@@ -1,0 +1,279 @@
+[
+  {
+    "id": "bdv-pter-lignina-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale adattamento ha permesso alle piante vascolari di crescere in altezza fuori dall'acqua, garantendo sostegno meccanico?",
+    "suggestion": "Pensa al polimero che si deposita nelle pareti cellulari irrigidendole.",
+    "options": [
+      "La deposizione di lignina nelle pareti cellulari, che le irrigidisce",
+      "La comparsa di stomi ad apertura fissa distribuiti su tutta la superficie dell'epidermide del fusto",
+      "La produzione di spore resistenti rivestite di sporopollenina, capaci di tollerare lunghi periodi di aridità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i cinque adattamenti delle tracheofite, il sostegno meccanico necessario alla crescita in altezza è fornito dalla lignina, polimero che si deposita nelle pareti cellulari irrigidendole. Gli altri adattamenti sono vasi conduttori, meristemi/ramificazione, apparato radicale e spore/seme resistenti.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-pter-vasi-convergenza-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la presenza degli elementi dei vasi (trachee) in Angiosperme e Gnetofite è considerata un caso di convergenza evolutiva?",
+    "suggestion": "Le trachee compaiono in due linee non direttamente imparentate: la somiglianza non deriva da un antenato comune che già le possedeva.",
+    "options": [
+      "Perché le trachee sono in realtà presenti fin dall'origine in tutte le tracheofite, comprese le pteridofite più antiche",
+      "Perché sono comparse in modo indipendente in due linee non imparentate, sotto pressioni selettive analoghe",
+      "Perché le trachee derivano dai tracheidi soltanto nelle Gnetofite, mentre nelle Angiosperme si formano da altre cellule"
+    ],
+    "correctIndex": 1,
+    "explanation": "I tracheidi sono presenti in tutte le tracheofite, ma gli elementi dei vasi (trachee) sono comparsi più tardi e indipendentemente in Angiosperme e Gnetofite: la loro somiglianza è frutto di convergenza evolutiva, non di eredità da un antenato comune.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-pter-tracheidi-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteristiche presentano i tracheidi, gli elementi conduttori più antichi delle tracheofite?",
+    "suggestion": "Sono cellule specializzate nel trasporto dell'acqua: pensa se sono vive o morte a maturità e come passa l'acqua tra l'una e l'altra.",
+    "options": [
+      "Cellule vive a maturità, con pareti sottili prive di lignina, deputate al trasporto della linfa elaborata verso le radici",
+      "Cellule vive e ricche di citoplasma che conducono verso il basso i prodotti zuccherini della fotosintesi fogliare",
+      "Cellule morte a maturità, allungate e lignificate, con punteggiature per il passaggio dell'acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "I tracheidi sono cellule morte a maturità, allungate, con pareti lignificate e provviste di punteggiature che consentono il passaggio laterale dell'acqua. Sono presenti in tutte le tracheofite, a differenza degli elementi dei vasi, comparsi più tardi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-pter-stele-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue la protostele dall'eustele nell'organizzazione dei tessuti conduttori del fusto?",
+    "suggestion": "Una è un cilindro pieno senza midollo, l'altra è organizzata in fasci distinti.",
+    "options": [
+      "La protostele è priva di midollo centrale, l'eustele è organizzata in fasci distinti (Angiosperme e Gimnosperme)",
+      "La protostele è il tipo di stele più evoluto e caratterizza le Angiosperme, l'eustele è tipica delle pteridofite estinte più antiche",
+      "La protostele possiede un ampio midollo centrale ben sviluppato, mentre l'eustele ne è del tutto priva e resta piena"
+    ],
+    "correctIndex": 0,
+    "explanation": "La protostele è priva di midollo centrale ed è tipica di licofite e pteridofite estinte; la sifonostele possiede midollo centrale; l'eustele è organizzata in fasci distinti e caratterizza Angiosperme e Gimnosperme. Sono tappe evolutive successive.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-pter-microfilli-megafilli-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la teoria telomica, che cosa distingue un microfillo da un megafillo?",
+    "suggestion": "Uno è una piccola emergenza con un solo fascio conduttore, l'altro ha un sistema di nervature ramificate.",
+    "options": [
+      "Il microfillo ha nervature ramificate ed è tipico delle felci, il megafillo ha un unico fascio ed è tipico dei licopodi arborei",
+      "Il microfillo ha un solo fascio ed è un'enazione laterale (licopodi), il megafillo ha nervature ramificate",
+      "Microfillo e megafillo differiscono soltanto per le dimensioni della lamina, non per il numero e la disposizione dei fasci"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il microfillo è piccolo, con un solo fascio conduttore, originato come enazione laterale del fusto (tipico dei licopodi, associato a protostele); il megafillo ha un complesso sistema di nervature ramificate (felci e spermatofite, associato a sifonostele).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.27"
+  },
+  {
+    "id": "bdv-pter-fill-protallo-006",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle pteridofite il gametofito, struttura ridotta e a vita breve, è detto anche ___.",
+    "answers": [["protallo", "protalli"]],
+    "suggestion": "È la piccola laminetta verde da cui, dopo la fecondazione, si sviluppa lo sporofito.",
+    "explanation": "Il protallo è il gametofito delle pteridofite: struttura ridotta e a vita breve, spesso indipendente e fotosintetizzante (laminare), talora tuberiforme e simbionte con funghi, o endosporico nelle specie eterosporee.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-sporofito-dominante-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale generazione è dominante e indipendente nel ciclo vitale delle pteridofite, a differenza delle briofite?",
+    "suggestion": "Nelle piante vascolari il rapporto tra le due generazioni è invertito rispetto ai muschi.",
+    "options": [
+      "Il gametofito aploide, esattamente come avviene nel ciclo vitale delle briofite e degli altri muschi",
+      "Lo sporofito diploide, il cormo differenziato in radice, fusto e foglie",
+      "Nessuna delle due generazioni: entrambe restano reciprocamente dipendenti l'una dall'altra per tutta la vita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle pteridofite, come in tutte le piante vascolari, la generazione dominante e indipendente è lo sporofito diploide (il cormo, con radice, fusto e foglie), mentre il gametofito (protallo) è ridotto. Nelle briofite domina invece il gametofito.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-eterosporee-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza le piante eterosporee rispetto a quelle isosporee?",
+    "suggestion": "Guarda se producono un solo tipo di spora o due tipi distinti, e a quali gametofiti danno origine.",
+    "options": [
+      "Le eterosporee producono spore tutte identiche tra loro, dalle quali si sviluppano gametofiti bisessuali",
+      "Le eterosporee producono due tipi di spore (micro e megaspore) da cui derivano gametofiti maschili e femminili distinti",
+      "Le eterosporee sono del tutto prive di spore e si riproducono unicamente per frammentazione vegetativa del rizoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle eterosporee i microsporangi producono microspore (microgametofito maschile) e i megasporangi megaspore (megagametofito femminile). Nelle isosporee (felci, equiseti) le spore sono tutte identiche e danno gametofiti bisessuali. L'eterosporia è propria di alcune licofite, poche felci e tutte le spermatofite.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-acqua-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le pteridofite hanno difficoltà a diffondersi negli ambienti aridi?",
+    "suggestion": "La loro fecondazione dipende dal movimento di un gamete mobile: cosa gli serve per raggiungere l'oosfera?",
+    "options": [
+      "Perché le loro spore non riescono a germinare se non su un substrato ricco di carbonato di calcio e ben drenato",
+      "Perché richiedono un velo d'acqua affinché i gameti maschili flagellati raggiungano l'oosfera",
+      "Perché la lignina si deposita nelle pareti soltanto in presenza di un'elevata e costante umidità atmosferica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La riproduzione delle pteridofite è oogama: gli anteridi producono gameti maschili mobili pluriflagellati che nuotano nel velo d'acqua fino all'oosfera immobile nell'archegonio. Senza acqua libera la fecondazione non avviene, il che limita la diffusione in ambienti aridi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-eusporangiate-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue uno sporangio leptosporangiato da uno eusporangiato?",
+    "suggestion": "La differenza sta nel numero di cellule iniziali che lo formano e nello spessore della parete.",
+    "options": [
+      "Il leptosporangiato origina da un'unica cellula iniziale e ha parete a un solo strato; l'eusporangiato da più cellule",
+      "Il leptosporangiato possiede una parete pluristratificata robusta, mentre l'eusporangiato ha una parete di un solo strato sottile",
+      "Il leptosporangiato è tipico delle licofite e degli equiseti, mentre l'eusporangiato caratterizza soltanto le felci vere e proprie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli sporangi leptosporangiati derivano da un'unica cellula iniziale, hanno parete a un solo strato e spesso un anulus (felci vere, Monilophyta); gli eusporangiati derivano da un gruppo di cellule con parete pluristratificata (licofite, equiseti, psilofite).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-anulus-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la funzione dell'anulus nello sporangio delle felci leptosporangiate?",
+    "suggestion": "È una fila di cellule a parete ispessita in modo differenziale: pensa a cosa provoca al momento della maturità.",
+    "options": [
+      "Nutre le spore in via di sviluppo trasferendo attivamente ad esse le sostanze elaborate dal gametofito",
+      "Produce le microspore maschili nelle specie eterosporee, distinguendole dalle megaspore femminili più grandi",
+      "Agisce come meccanismo elastico che apre lo sporangio a maturità, liberando le spore"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'anulus è una fila di cellule con pareti ispessite in modo differenziale che, per le variazioni di umidità, agisce come meccanismo elastico: a maturità apre bruscamente lo sporangio, liberando e proiettando le spore.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-licofite-carbone-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale ruolo ebbero le licofite arboree (es. Lepidodendron) nel periodo Carbonifero?",
+    "suggestion": "Erano alberi giganti il cui accumulo di biomassa ha lasciato una traccia geologica che usiamo ancora oggi.",
+    "options": [
+      "Furono i primi organismi vegetali a colonizzare stabilmente gli ambienti marini profondi e le acque salate costiere",
+      "Contribuirono in modo determinante alla formazione dei giacimenti di carbone",
+      "Diedero origine diretta, senza forme intermedie, alle prime Angiosperme a fiore e a frutto della storia evolutiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel Carbonifero le licofite arboree come Lepidodendron, insieme a felci ed equiseti arborei, formarono grandi foreste il cui accumulo di biomassa contribuì in modo determinante alla formazione dei giacimenti di carbone.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-isoetes-cam-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale peculiarità fisiologica presenta il genere acquatico Isoetes tra le licofite?",
+    "suggestion": "Utilizza una via fotosintetica solitamente associata alle piante grasse, utile a limitare la perdita d'acqua.",
+    "options": [
+      "Il metabolismo CAM, adattamento fotosintetico che limita la perdita d'acqua",
+      "La fissazione dell'azoto molecolare atmosferico grazie a cellule specializzate simili alle eterocisti dei cianobatteri",
+      "La totale assenza di clorofilla nei tessuti, essendo una pianta parassita che vive a spese di un ospite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Isoetes, pianta acquatica eterosporea con rizoma carnoso, presenta il metabolismo CAM (Crassulacean Acid Metabolism), adattamento fotosintetico che consente di limitare la perdita d'acqua separando temporalmente la fissazione della CO2.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-vernazione-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è la vernazione circinnata tipica dello sviluppo fogliare delle Polypodiopsida?",
+    "suggestion": "Riguarda il modo in cui la fronda giovane è ripiegata prima di distendersi (il 'pastorale').",
+    "options": [
+      "La disposizione degli sporangi riuniti in gruppi e protetti da una sottile membrana detta indusio",
+      "L'arrotolamento a spirale della fronda giovane, che si distende progressivamente durante la crescita",
+      "La suddivisione progressiva della lamina della foglia adulta in pinne e in pinnule di ordine successivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vernazione circinnata è l'arrotolamento a spirale della fronda giovane (detta pastorale), che si distende gradualmente durante la crescita: è un carattere distintivo dello sviluppo fogliare delle felci Polypodiopsida.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.30"
+  },
+  {
+    "id": "bdv-pter-fill-sori-015",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle felci più evolute gli sporangi si riuniscono in gruppi sulla pagina inferiore della fronda, detti ___.",
+    "answers": [["sori", "soro"]],
+    "suggestion": "Sono i puntini o le linee brune visibili sotto le foglie delle felci, spesso protetti da un indusio.",
+    "explanation": "I sori sono i gruppi di sporangi riuniti sulla pagina inferiore o sul margine della fronda, spesso protetti dal margine ripiegato o da una membrana (indusio). Forma e disposizione dei sori sono caratteri diacritici per l'identificazione.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.30"
+  },
+  {
+    "id": "bdv-pter-indusio-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la conformazione dell'indusio è utile nell'identificazione delle felci?",
+    "suggestion": "È un carattere diagnostico: pensa a cosa protegge e a quanto varia tra le specie.",
+    "options": [
+      "Perché è la struttura interna che produce le spore per meiosi, con forma identica in tutte le specie di felci",
+      "Perché è la membrana che protegge i sori e la sua forma varia tra le specie, fungendo da carattere diacritico",
+      "Perché la sua presenza indica in modo diretto e certo la quantità di lignina depositata nel fusto della pianta"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'indusio è la membrana che protegge i sori; la sua presenza, forma e disposizione (come quella dei sori) variano tra le specie e costituiscono caratteri diacritici di grande importanza per il riconoscimento sistematico delle felci.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.30"
+  },
+  {
+    "id": "bdv-pter-equiseti-fusto-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale caratteristica conferisce rigidità al fusto epigeo degli equiseti?",
+    "suggestion": "Nelle loro pareti cellulari si depositano cristalli di un minerale (non lignina).",
+    "options": [
+      "L'accumulo di silice nelle pareti cellulari (fusto silicizzato)",
+      "La presenza di un'ampia e robusta corteccia legnosa secondaria, prodotta da un cambio attivo per molti anni",
+      "L'assenza totale di midollo interno, che rende il fusto completamente pieno, compatto e pertanto molto resistente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il fusto epigeo degli equiseti è articolato, cilindrico, cavo e silicizzato: la deposizione di silice nelle pareti cellulari ne aumenta la rigidità. I rami sono disposti in verticilli e alla base dei nodi vi è una guaina di piccole brattee.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.31"
+  },
+  {
+    "id": "bdv-pter-psilopsida-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del gametofito distingue le Psilopsida tra le Monilophyta?",
+    "suggestion": "Il loro gametofito non è verde in superficie: pensa a dove vive e da chi trae nutrimento.",
+    "options": [
+      "Ha gametofiti verdi e fotosintetici che vivono natanti liberamente sulla superficie delle acque dolci stagnanti",
+      "È del tutto privo di gametofito e si riproduce unicamente per via vegetativa attraverso frammenti del rizoma",
+      "Ha gametofiti ipogei, tuberosi, non fotosintetici e simbionti con funghi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Psilopsida (Ophioglossales, Psilotales) sono felci eusporangiate e isosporee con gametofiti bisessuali ipogei (sotterranei), tuberosi e simbionti con funghi da cui traggono nutrimento, a differenza dei protalli autotrofi delle Polypodiopsida.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.30"
+  },
+  {
+    "id": "bdv-pter-pteridofite-transizione-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le pteridofite occupano una posizione filogenetica intermedia nell'evoluzione delle piante vascolari?",
+    "suggestion": "Sono piante vascolari, ma prive di un carattere che definisce le spermatofite.",
+    "options": [
+      "Perché sono del tutto prive di tessuti vascolari lignificati, esattamente come le briofite e le altre piante non vascolari",
+      "Perché sono piante vascolari prive di seme, che documentano il passaggio dalle prime piante terrestri alle spermatofite",
+      "Perché producono semi nudi come le Gimnosperme e insieme veri fiori e frutti come le Angiosperme più evolute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le pteridofite sono piante vascolari (con xilema e floema) ma prive di seme, che si riproducono per spore: costituiscono un gruppo parafiletico intermedio che testimonia il passaggio dalle prime piante terrestri senza seme alle spermatofite (Gimnosperme e Angiosperme).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.29"
+  }
+]

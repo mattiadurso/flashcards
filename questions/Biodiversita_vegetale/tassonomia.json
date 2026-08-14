@@ -1,0 +1,275 @@
+[
+  {
+    "id": "bdv-tass-attivita-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'identificazione e la classificazione sono considerate due attività distinte della tassonomia vegetale?",
+    "suggestion": "Una riconosce a quale specie appartiene un individuo; l'altra stabilisce dove quella specie si colloca nella gerarchia dei viventi.",
+    "options": [
+      "L'identificazione riconosce la specie di appartenenza, la classificazione la inquadra nelle categorie gerarchiche",
+      "L'identificazione assegna il nome scientifico latino, mentre la classificazione si limita a descrivere i caratteri morfologici osservabili di ciascun individuo",
+      "L'identificazione riguarda soltanto i caratteri riproduttivi della pianta, mentre la classificazione prende in esame unicamente quelli vegetativi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'identificazione è il riconoscimento della specie di appartenenza sulla base di somiglianze e differenze; la classificazione è l'inquadramento sistematico in categorie gerarchiche. Sono due delle quattro attività fondamentali, insieme a descrizione e nomenclatura.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.1"
+  },
+  {
+    "id": "bdv-tass-morfospecie-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il criterio della sola specie morfologica può risultare fuorviante di fronte a Euphorbia horrida ed Echinocactus grusonii?",
+    "suggestion": "Due piante di famiglie diverse hanno assunto lo stesso aspetto succulento adattandosi allo stesso tipo di ambiente.",
+    "options": [
+      "Perché appartengono alla stessa famiglia ma sono state descritte con nomi diversi, generando una falsa impressione di distanza tassonomica",
+      "Perché la loro somiglianza deriva da convergenza in ambienti aridi, pur non essendo strettamente imparentate",
+      "Perché una stessa pianta produce foglie di forma diversa a seconda della loro posizione sul fusto, come accade nell'edera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le due specie appartengono a famiglie distinte (Euphorbiaceae e Cactaceae) ma hanno sviluppato un aspetto succulento e globoso simile per convergenza, cioè come risposta indipendente all'adattamento arido: la somiglianza di forma non riflette una parentela. Il caso dell'edera è invece eterofillia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.1"
+  },
+  {
+    "id": "bdv-tass-specie-biologica-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quale criterio si fonda il concetto di specie biologica proposto da Mayr?",
+    "suggestion": "Non guarda alla forma degli individui, ma alla possibilità che due popolazioni scambino geni.",
+    "options": [
+      "Sulla somiglianza fenotipica complessiva osservabile tra gli individui di una popolazione naturale",
+      "Sulla condivisione della medesima nicchia adattativa e della stessa ecologia tra gli individui",
+      "Sull'isolamento riproduttivo tra popolazioni diverse"
+    ],
+    "correctIndex": 2,
+    "explanation": "La specie biologica (Mayr, 1940) è definita da gruppi di popolazioni realmente o potenzialmente interfecondi e riproduttivamente isolati da altri gruppi analoghi: il criterio è l'isolamento riproduttivo, non la somiglianza di forma (specie morfologica) né la nicchia ecologica (specie di coesione).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-vegetali-speciali-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché nel mondo vegetale il concetto di specie biologica è di difficile applicazione generalizzata?",
+    "suggestion": "Nelle piante ibridi fertili, raddoppiamenti cromosomici e riproduzione senza fecondazione sono frequenti.",
+    "options": [
+      "Perché le piante sono prive di qualsiasi forma di riproduzione sessuata e quindi non producono mai gameti né zigoti",
+      "Perché ibridazione, poliploidia e apomissia permettono scambi genici e riproduzione anche fra entità che dovrebbero essere isolate",
+      "Perché tutte le specie vegetali occupano la stessa identica nicchia ecologica e non si differenziano per ambiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei vegetali si formano ibridi stabili e fertili, si originano nuove specie per poliploidia e si ha riproduzione senza fecondazione (apomissia): fenomeni che infrangono il criterio dell'isolamento riproduttivo, per cui la definizione va integrata con ecologia e biogeografia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-allopoliploidia-005",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa l'allopoliploidia differisce dall'autopoliploidia?",
+    "suggestion": "Conta da quante specie diverse provengono i corredi cromosomici che si sommano.",
+    "options": [
+      "Nell'autopoliploidia il corredo cromosomico si dimezza per meiosi, mentre nell'allopoliploidia rimane numericamente invariato",
+      "L'allopoliploidia unisce i corredi di due specie diverse, l'autopoliploidia raddoppia quello di una sola",
+      "L'allopoliploidia avviene esclusivamente negli animali, mentre l'autopoliploidia si osserva soltanto nelle piante superiori"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'autopoliploidia è il raddoppiamento del corredo di una stessa specie; l'allopoliploidia deriva dall'unione dei corredi di due specie diverse, seguita da un raddoppiamento che permette l'appaiamento dei cromosomi e rende l'ibrido fertile.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-frumento-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'origine del grano tenero (Triticum aestivum, genoma AABBDD) è un classico esempio di speciazione per poliploidia?",
+    "suggestion": "La sua specie è nata sommando i genomi di più specie tramite ibridazioni e raddoppiamenti successivi, non per lenta divergenza.",
+    "options": [
+      "Perché deriva da una singola mutazione puntiforme comparsa in un gene del grano duro coltivato",
+      "Perché è nato per progressiva selezione di semi più grandi operata dall'uomo, senza alcuna variazione del numero cromosomico",
+      "Perché deriva da ibridazioni interspecifiche e raddoppiamenti cromosomici che hanno sommato genomi distinti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il grano tenero si è formato sommando i genomi di più specie: l'ibrido AABBDD (2n=42) nasce da eventi di ibridazione e non disgiunzione mitotica successivi. È una speciazione istantanea per poliploidia, distinta dalla graduale divergenza per selezione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-fill-apomissia-007",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La formazione di semi geneticamente identici alla pianta madre, senza fusione di gameti, è detta ___.",
+    "answers": [["apomissia", "apomissi"]],
+    "suggestion": "È un tipo di riproduzione agamica che dà semi cloni della madre.",
+    "explanation": "L'apomissia (in senso stretto) è la formazione di semi senza fecondazione, geneticamente identici alla pianta madre; rientra fra i fenomeni di riproduzione agamica insieme all'autogamia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-selezione-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo il darwinismo, quale condizione è indispensabile perché la selezione naturale produca evoluzione?",
+    "suggestion": "Non basta che gli individui siano diversi e che alcuni sopravvivano di più: la differenza vantaggiosa deve passare ai figli.",
+    "options": [
+      "Che la variabilità fenotipica vantaggiosa sia ereditabile e trasmessa alle generazioni successive",
+      "Che tutti gli individui della popolazione di partenza presentino esattamente lo stesso fenotipo iniziale",
+      "Che l'ambiente resti perfettamente costante per l'intera durata della vita della popolazione considerata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il darwinismo si fonda sul binomio variabilità/selezione: esiste variabilità fenotipica, la selezione determina sopravvivenza differenziale, ma perché ci sia evoluzione la variazione vantaggiosa deve poter essere ereditata dalle generazioni successive.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.3"
+  },
+  {
+    "id": "bdv-tass-deriva-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'effetto collo di bottiglia riduce la variabilità genetica di una popolazione?",
+    "suggestion": "Pensa a che cosa resta del pool genetico dopo un evento che decima quasi tutti gli individui.",
+    "options": [
+      "Perché aumenta il flusso genico, immettendo di continuo nuovi alleli provenienti dalle popolazioni vicine",
+      "Perché un evento drastico decima la popolazione e i pochi sopravvissuti conservano solo parte degli alleli",
+      "Perché induce un'ondata di nuove mutazioni che sostituiscono in blocco tutti gli alleli preesistenti nel pool"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'effetto collo di bottiglia è una forma di deriva genetica: un evento che riduce drasticamente la popolazione lascia sopravvivere pochi individui, che portano solo un campione casuale e ridotto del pool genetico originario. Non introduce nuovi alleli come il flusso genico.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.3"
+  },
+  {
+    "id": "bdv-tass-speciazione-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la differenza fondamentale tra speciazione allopatrica e speciazione simpatrica?",
+    "suggestion": "La distinzione sta nella presenza o assenza di una separazione geografica tra le popolazioni.",
+    "options": [
+      "L'allopatrica avviene sempre per raddoppiamento cromosomico, mentre la simpatrica procede per lenta selezione dei caratteri",
+      "L'allopatrica riguarda esclusivamente gli animali, mentre la simpatrica si osserva soltanto nelle piante superiori",
+      "L'allopatrica richiede una separazione geografica delle popolazioni, la simpatrica avviene senza barriere"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella speciazione allopatrica una barriera geografica separa la popolazione e le due frazioni evolvono indipendentemente; in quella simpatrica le nuove specie si originano senza separazione geografica, entro la stessa area di distribuzione.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-cladogenesi-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue la cladogenesi dall'anagenesi come modalità di speciazione?",
+    "suggestion": "Una linea evolutiva si biforca in più rami; l'altra resta un'unica linea che cambia nel tempo.",
+    "options": [
+      "La cladogenesi genera nuovi rami da un antenato comune, l'anagenesi trasforma un'unica linea senza ramificarsi",
+      "La cladogenesi avviene solo per poliploidia improvvisa, mentre l'anagenesi procede esclusivamente per ibridazione tra specie",
+      "La cladogenesi non produce mai nuove specie, mentre l'anagenesi ne genera sempre almeno due contemporaneamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'anagenesi è la trasformazione graduale di una specie in un'altra lungo un'unica linea evolutiva; la cladogenesi è la formazione di due o più specie distinte da un antenato comune, con biforcazione dei rami evolutivi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-cladi-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza un gruppo monofiletico rispetto a uno parafiletico?",
+    "suggestion": "Conta se il gruppo include l'antenato comune e la totalità o solo una parte dei suoi discendenti.",
+    "options": [
+      "Il monofiletico riunisce organismi simili ma di origini diverse, il parafiletico un antenato con tutti i suoi discendenti",
+      "Il monofiletico comprende un antenato comune e tutti i discendenti, il parafiletico lo stesso antenato ma solo una parte",
+      "Il monofiletico si basa esclusivamente sui caratteri molecolari, mentre il parafiletico soltanto su quelli morfologici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un gruppo monofiletico include un antenato comune e tutti i suoi discendenti; uno parafiletico include l'antenato ma solo una parte dei discendenti; uno polifiletico riunisce organismi di origini diverse per sola somiglianza.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.5"
+  },
+  {
+    "id": "bdv-tass-omologia-analogia-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché spine, cirri e brattee sono considerati organi omologhi tra loro, mentre le ali di farfalla e di colibrì sono analoghe?",
+    "suggestion": "L'omologia guarda all'origine da una struttura ancestrale comune; l'analogia guarda solo alla funzione.",
+    "options": [
+      "Perché spine e cirri svolgono la stessa funzione di aggrappamento, mentre le due ali derivano dalla medesima struttura scheletrica ancestrale",
+      "Perché spine, cirri e brattee sono foglie modificate da una struttura comune, mentre le ali condividono solo la funzione",
+      "Perché l'omologia riguarda soltanto gli organi delle piante e l'analogia soltanto quelli degli animali, senza legame con l'evoluzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le omologie sono caratteri derivati da una medesima struttura ancestrale (le foglie modificate in spine, cirri, brattee), anche se hanno assunto forme diverse; le analogie sono caratteri simili per funzione ma di origine indipendente, come le ali di farfalla e colibrì, frutto di convergenza.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.5"
+  },
+  {
+    "id": "bdv-tass-fill-sinapomorfia-014",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "In cladistica, uno stato di carattere derivato e condiviso da più taxa, utile a definirne la parentela, è detto ___.",
+    "answers": [["sinapomorfia", "sinapomorfie"]],
+    "suggestion": "È l'unione di 'condiviso' (syn-) e 'derivato' (apomorfo): non basta che il carattere sia nuovo, deve essere anche comune.",
+    "explanation": "La sinapomorfia è uno stato apomorfo (derivato) condiviso da più taxa; è ciò che permette di raggrupparli in un clade. Un carattere primitivo condiviso è invece una simplesiomorfia.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.5"
+  },
+  {
+    "id": "bdv-tass-ranghi-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la sequenza corretta dei ranghi tassonomici procedendo dal più specifico al più generale?",
+    "suggestion": "Parti dall'unità più fine (la specie) e sali verso i raggruppamenti più ampi.",
+    "options": [
+      "Specie → genere → famiglia → ordine → classe → divisione → regno",
+      "Regno → divisione → specie → genere → classe → ordine → famiglia",
+      "Genere → specie → ordine → famiglia → regno → classe → divisione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dal rango più specifico al più generale l'ordine è: specie, genere, famiglia, ordine, classe, divisione (o phylum) e regno. Nei vegetali i ranghi hanno suffissi tipici (-aceae per la famiglia, -ales per l'ordine, -opsida per la classe, -phyta per la divisione).",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.5"
+  },
+  {
+    "id": "bdv-tass-nomenclatura-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella scrittura di Polystichum lonchitis (L.) Roth, perché il nome di Linneo (L.) compare tra parentesi?",
+    "suggestion": "Le parentesi segnalano che l'autore descrisse la specie, ma in un genere diverso da quello attuale.",
+    "options": [
+      "Perché Linneo descrisse per primo la specie, poi trasferita da Roth in un genere diverso da quello originario",
+      "Perché Linneo e Roth pubblicarono contemporaneamente lo stesso identico nome scientifico su due riviste diverse",
+      "Perché il nome riportato tra parentesi indica sempre un sinonimo non valido, da scartare nella nomenclatura corrente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando un taxon viene trasferito in un genere diverso da quello originario, l'autore che lo descrisse per primo (Linneo) è riportato tra parentesi, seguito dall'autore che ha effettuato il trasferimento (Roth, 1799). Il basionimo resta Polypodium lonchitis L.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.6"
+  },
+  {
+    "id": "bdv-tass-fill-olotipo-017",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il campione fisico permanente designato dall'autore come riferimento ufficiale a cui il nome di una nuova specie resta ancorato è detto ___.",
+    "answers": [["olotipo", "olotipi"]],
+    "suggestion": "È il 'tipo nomenclaturale' conservato in erbario; un suo duplicato si chiama isotipo.",
+    "explanation": "L'olotipo è l'esemplare tipo, il riferimento fisico permanente cui il nome scientifico è ufficialmente legato secondo il Codice di Nomenclatura Botanica; un duplicato dell'olotipo è l'isotipo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.6"
+  },
+  {
+    "id": "bdv-tass-sistemi-viventi-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale innovazione classificatoria introdusse Whittaker (1969) rispetto ai sistemi precedenti?",
+    "suggestion": "Uno dei cinque regni raccoglie organismi prima confusi con le piante; un altro raccoglie i procarioti.",
+    "options": [
+      "Sostituì del tutto i regni con i tre domini molecolari Bacteria, Archaea ed Eukarya, superando la categoria di regno",
+      "Ridusse l'intera classificazione dei viventi ai due soli regni Vegetabilia e Animalia, come già proponeva Linneo",
+      "Propose cinque regni, separando i Fungi dalle piante e riunendo i procarioti nei Monera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Whittaker propose i cinque regni Animalia, Fungi, Plantae, Protista e Monera: la novità principale fu la separazione dei funghi dalle piante e il raggruppamento dei procarioti nei Monera. La suddivisione in tre domini è successiva (Woese, 1990).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.7"
+  },
+  {
+    "id": "bdv-tass-domini-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quale criterio si fonda la suddivisione dei viventi nei tre domini proposta da Woese?",
+    "suggestion": "Distingue prima chi ha un nucleo differenziato e poi separa due linee di procarioti biochimicamente diverse.",
+    "options": [
+      "Sulla distinzione tra organismi autotrofi ed eterotrofi, indipendentemente dall'organizzazione della cellula",
+      "Sulla distinzione tra Eukarya nucleati e i due domini procariotici Bacteria e Archaea, biochimicamente distinti",
+      "Sulla sola presenza o assenza della parete cellulare, che separa i tre grandi domini dei viventi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Woese (1990) distinse Bacteria, Archaea ed Eukarya: gli Eukarya hanno cellule con nucleo differenziato, mentre Bacteria e Archaea sono entrambi procarioti ma distinti per caratteristiche biochimiche e genetiche. Il criterio è cellulare e molecolare, non trofico.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.8"
+  }
+]

@@ -461,6 +461,42 @@
           "count": 20
         }
       ]
+    },
+    {
+      "topic": "biodiversita-vegetale",
+      "label": "Biodiversità vegetale",
+      "files": [
+        {
+          "species": "Tassonomia e sistematica vegetale",
+          "file": "Biodiversita_vegetale/tassonomia.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 19
+        },
+        {
+          "species": "Procarioti: Bacteria e Archaea",
+          "file": "Biodiversita_vegetale/procarioti.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 19
+        },
+        {
+          "species": "Protisti: le alghe",
+          "file": "Biodiversita_vegetale/alghe.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 18
+        },
+        {
+          "species": "Le briofite",
+          "file": "Biodiversita_vegetale/briofite.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 19
+        },
+        {
+          "species": "Le pteridofite",
+          "file": "Biodiversita_vegetale/pteridofite.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 19
+        }
+      ]
     }
   ]
 }
