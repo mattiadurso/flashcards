@@ -1,0 +1,212 @@
+[
+  {
+    "id": "bvg-par-funzioni-001",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolge la parete cellulare oltre a fornire sostegno meccanico?",
+    "suggestion": "Contrasta la tendenza della membrana a espandersi e protegge da variazioni osmotiche.",
+    "options": [
+      "Sintetizza direttamente l'ATP necessario alla cellula, sostituendo i mitocondri",
+      "Dà forma definita alla cellula e la protegge da shock osmotici e patogeni",
+      "Svolge la fotosintesi grazie alle clorofille immerse tra le microfibrille"
+    ],
+    "correctIndex": 1,
+    "explanation": "La parete cellulare conferisce resistenza e sostegno, dà forma definita (contrastando l'espansione della membrana), protegge da patogeni e shock osmotici, e invia segnali (ROS, oligosaccaridi) in risposta a stimoli. Non produce ATP né svolge fotosintesi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.23"
+  },
+  {
+    "id": "bvg-par-fibrillare-matrice-002",
+    "topic": "biologia-vegetale",
+    "question": "Da quali due componenti principali è costituita la parete cellulare?",
+    "suggestion": "Una parte fibrosa e rigida immersa in una parte che riempie gli spazi.",
+    "options": [
+      "Il materiale fibrillare (cellulosa) e la matrice (emicellulose, pectine, proteine, lipidi)",
+      "La lignina fibrillare e la suberina di matrice, in parti uguali e senza alcuna componente di cellulosa",
+      "L'amido strutturale e le proteine di riserva del glutine"
+    ],
+    "correctIndex": 0,
+    "explanation": "La parete è composta dal materiale fibrillare (la cellulosa, che forma il reticolo rigido) e dalla matrice (emicellulose, sostanze pectiche, proteine e lipidi, che riempie gli interstizi). Il modello è quello del cemento armato: cellulosa come tondino, matrice come cemento.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.23"
+  },
+  {
+    "id": "bvg-par-cellulosa-org-003",
+    "topic": "biologia-vegetale",
+    "question": "In quale ordine si organizzano gerarchicamente le molecole di cellulosa nella parete?",
+    "suggestion": "Molecole → aggregati ordinati → fibrille sottili → fibrille più grandi.",
+    "options": [
+      "Molecole → micelle → microfibrille → macrofibrille",
+      "Molecole → macrofibrille → microfibrille → micelle",
+      "Micelle → molecole → macrofibrille → microfibrille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le molecole di cellulosa si associano in micelle (aggregati ordinati tenuti da legami idrogeno), che formano microfibrille, che si riuniscono in macrofibrille. Questo super-avvolgimento, stabilizzato da legami idrogeno tra catene, dà alla parete la sua resistenza meccanica.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.23"
+  },
+  {
+    "id": "bvg-par-primaria-secondaria-004",
+    "topic": "biologia-vegetale",
+    "question": "Come differiscono la disposizione delle fibrille di cellulosa nella parete primaria e in quella secondaria?",
+    "suggestion": "Una è disordinata ed elastica (crescita in ogni direzione), l'altra ordinata e rigida.",
+    "options": [
+      "Nella primaria le fibrille sono ordinate e parallele (rigida), nella secondaria casuali (elastica), con crescita possibile in ogni direzione",
+      "In entrambe le fibrille sono disposte in modo identico e casuale",
+      "Nella primaria le fibrille sono casuali (elastica, crescita in ogni direzione), nella secondaria ordinate e parallele (rigida)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella parete primaria le fibrille sono disposte casualmente, dando una struttura elastica che consente la crescita in ogni direzione; nella secondaria sono ordinate e parallele, dando una struttura rigida e una crescita polarizzata. La primaria è ricca di matrice (idratabile), la secondaria di cellulosa (idrofobica).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.23-24"
+  },
+  {
+    "id": "bvg-par-rosetta-005",
+    "topic": "biologia-vegetale",
+    "question": "Quale struttura sintetizza la cellulosa e come ne orienta le microfibrille?",
+    "suggestion": "Un complesso proteico della membrana che scorre seguendo i microtubuli corticali.",
+    "options": [
+      "Il complesso a rosetta, immerso nella membrana, che depone la cellulosa scorrendo lungo i microtubuli corticali",
+      "L'apparato di Golgi, che sintetizza la cellulosa e la esporta tramite i plasmodesmi verso le cellule contigue dello stesso tessuto",
+      "Il nucleolo, che assembla le microfibrille prima di esportarle nel citoplasma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il complesso a rosetta è un complesso multiproteico della membrana plasmatica che sintetizza il polimero di cellulosa e lo depone scorrendo lungo i microtubuli corticali, i quali guidano l'orientamento delle microfibrille neoformate.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-fill-lignificazione-006",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La modificazione della parete per incrostazione dovuta alla deposizione di lignina, che la rende resistente e poco biodegradabile, è detta ___.",
+    "answers": [
+      [
+        "lignificazione"
+      ]
+    ],
+    "suggestion": "Deriva dalla polimerizzazione di alcoli aromatici (es. alcol coniferilico).",
+    "explanation": "La lignificazione è la deposizione di lignina (polimero di alcoli aromatici come l'alcol coniferilico) negli spazi interfibrillari della parete: conferisce elevata resistenza meccanica e scarsissima biodegradabilità. È una modificazione per incrostazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-incrostazione-apposizione-007",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue la modificazione della parete per incrostazione da quella per apposizione?",
+    "suggestion": "Una infiltra materiali tra le fibrille, l'altra li deposita sopra la parete.",
+    "options": [
+      "L'incrostazione deposita materiali sopra la parete, l'apposizione li infiltra tra le fibrille di cellulosa negli spazi interfibrillari",
+      "L'incrostazione infiltra materiali tra le fibrille (es. lignina), l'apposizione li deposita sopra la parete (es. cutina, suberina)",
+      "Incrostazione e apposizione sono sinonimi e indicano lo stesso processo di gelificazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'incrostazione è l'infiltrazione di materiali negli spazi tra le fibrille (lignificazione, pigmentazione, mineralizzazione); l'apposizione è la deposizione di materiali sulla parete che ne aumentano l'impermeabilità (cutinizzazione, cerificazione, suberificazione). La gelificazione è invece l'estrusione di sostanze pectiche.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-punteggiature-008",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono le punteggiature della parete cellulare?",
+    "suggestion": "Sono zone in cui l'ispessimento della parete è ridotto o assente, per favorire gli scambi.",
+    "options": [
+      "Regioni della parete con ispessimento ridotto o assente, che favoriscono gli scambi tra cellule e ospitano i plasmodesmi",
+      "Cristalli di sali precipitati che rendono la parete più dura e resistente",
+      "Depositi di lignina che impermeabilizzano completamente la parete secondaria rendendola del tutto impermeabile all'acqua e ai gas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le punteggiature sono regioni della parete con ispessimento ridotto o assente, che favoriscono gli scambi tra cellule contigue e sono spesso sede dei plasmodesmi. Sulla parete secondaria si distinguono in semplici e areolate (con un bordo ripiegato).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-apoplasto-simplasto-009",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue il simplasto dall'apoplasto nei tessuti vegetali?",
+    "suggestion": "Uno è la rete dei citoplasmi collegati, l'altro è la rete di pareti e spazi esterni alla membrana.",
+    "options": [
+      "Il simplasto è l'insieme delle pareti e degli spazi intercellulari, l'apoplasto la rete dei citoplasmi collegati collegati tra loro tramite i plasmodesmi",
+      "Il simplasto è la rete dei protoplasti collegati dai plasmodesmi, l'apoplasto l'insieme delle pareti e degli spazi esterni alla membrana",
+      "Simplasto e apoplasto indicano la stessa via di trasporto, distinta solo dalla direzione del flusso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il simplasto è l'insieme dei protoplasti collegati tra loro tramite i plasmodesmi (continuità citoplasmatica); l'apoplasto è l'insieme delle pareti cellulari e degli spazi intercellulari, esterno alla membrana plasmatica. La distinzione è fondamentale per le vie di trasporto di acqua e soluti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.25"
+  },
+  {
+    "id": "bvg-par-plasmodesmi-010",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione dei plasmodesmi e cosa sono i desmotubuli al loro interno?",
+    "suggestion": "Sono canali che collegano i citoplasmi; al loro interno passa un tubulo di reticolo endoplasmatico.",
+    "options": [
+      "Sono canali che collegano i citoplasmi di cellule contigue; il desmotubulo interno connette anche il loro reticolo endoplasmatico",
+      "Sono cristalli di ossalato che rinforzano la parete; il desmotubulo è la loro base di ancoraggio alla parete cellulare secondaria rigida",
+      "Sono pori della membrana nucleare; il desmotubulo regola il passaggio dell'mRNA"
+    ],
+    "correctIndex": 0,
+    "explanation": "I plasmodesmi sono canali che attraversano la parete mettendo in comunicazione i citoplasmi di cellule contigue (continuità del simplasto). Al loro interno i desmotubuli, tubuli di reticolo endoplasmatico, connettono anche i sistemi di RER delle due cellule, estendendo la continuità funzionale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.25"
+  },
+  {
+    "id": "bvg-par-actina-ciclosi-011",
+    "topic": "biologia-vegetale",
+    "question": "Quale componente del citoscheletro genera le correnti citoplasmatiche (ciclosi)?",
+    "suggestion": "Sono i filamenti più sottili, responsabili anche della crescita del tubetto pollinico.",
+    "options": [
+      "I microtubuli di tubulina, che formano anche il fuso mitotico",
+      "I microfilamenti di actina, la cui attività genera le correnti citoplasmatiche",
+      "I filamenti intermedi di cheratina, che sostengono i poliribosomi del reticolo endoplasmatico rugoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "I microfilamenti di actina generano le correnti citoplasmatiche (ciclosi), che muovono organelli e vescicole; intervengono anche nella costruzione della parete e nella crescita del tubetto pollinico. I microtubuli formano il fuso mitotico e guidano la sintesi della parete.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
+  },
+  {
+    "id": "bvg-par-flagelli-9-2-012",
+    "topic": "biologia-vegetale",
+    "question": "Qual è l'organizzazione interna dei microtubuli in flagelli e ciglia degli eucarioti?",
+    "suggestion": "Una disposizione fissa: coppie periferiche attorno a due tubuli centrali.",
+    "options": [
+      "9 coppie di microtubuli periferiche più 2 tubuli singoli centrali (schema 9+2)",
+      "3 triplette centrali senza microtubuli periferici né alcun tubulo centrale singolo",
+      "Un unico fascio di actina privo di microtubuli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Flagelli e ciglia degli eucarioti hanno l'organizzazione 9+2: nove coppie di microtubuli periferiche più due tubuli singoli centrali. Derivano dal corpo basale, che ha invece triplette di microtubuli. Si trovano soprattutto in alghe e gameti mobili di muschi e pteridofite.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
+  },
+  {
+    "id": "bvg-par-glutine-013",
+    "topic": "biologia-vegetale",
+    "question": "Dove si concentrano i corpi proteici di riserva che, nel grano, costituiscono il glutine?",
+    "suggestion": "Nel tessuto periferico ricco di proteine della cariosside delle Poaceae.",
+    "options": [
+      "Nei cloroplasti delle foglie, insieme alle clorofille",
+      "Nello strato aleuronico della cariosside delle Poaceae",
+      "Nel tonoplasto del vacuolo centrale delle cellule mature"
+    ],
+    "correctIndex": 1,
+    "explanation": "I corpi proteici (depositi di riserva delimitati da singola membrana) si concentrano nello strato aleuronico della cariosside delle Poaceae, dove costituiscono, in grano duro e tenero, il glutine. Sono prodotti dal reticolo endoplasmatico o dall'apparato di Golgi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.20"
+  },
+  {
+    "id": "bvg-par-pcd-xilema-014",
+    "topic": "biologia-vegetale",
+    "question": "Perché la maturazione delle cellule del trasporto xilematico richiede la morte cellulare programmata del protoplasto?",
+    "suggestion": "Solo svuotando la cellula del suo contenuto vivente la linfa può fluire liberamente.",
+    "options": [
+      "Perché la morte del protoplasto lascia una cellula vuota che consente il libero flusso della linfa",
+      "Perché la morte del protoplasto libera enzimi che fissano l'azoto atmosferico",
+      "Perché senza protoplasto la cellula può svolgere la fotosintesi in modo più efficiente e liberare così più ossigeno gassoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La maturazione degli elementi conduttori dello xilema comporta la morte programmata del protoplasto: la cellula svuotata del contenuto vivente diventa un condotto che consente il libero flusso della linfa. È uno degli esempi di morte cellulare programmata (PCD) nelle piante.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.18"
+  }
+]

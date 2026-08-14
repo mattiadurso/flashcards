@@ -495,6 +495,18 @@
           "file": "Biodiversita_vegetale/bio-proteine-nucleotidi.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
           "count": 15
+        },
+        {
+          "species": "La cellula vegetale e i suoi organelli",
+          "file": "Biodiversita_vegetale/bio-cellula-organelli.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 20
+        },
+        {
+          "species": "Parete cellulare e connessioni intercellulari",
+          "file": "Biodiversita_vegetale/bio-parete-cellulare.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 14
         }
       ]
     }

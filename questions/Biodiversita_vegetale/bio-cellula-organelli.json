@@ -1,0 +1,303 @@
+[
+  {
+    "id": "bvg-cel-procariota-001",
+    "topic": "biologia-vegetale",
+    "question": "Quale differenza fondamentale distingue una cellula procariota da una eucariota?",
+    "suggestion": "Riguarda dove si trova il materiale genetico e la presenza di organelli membranosi.",
+    "options": [
+      "La procariota ha un nucleo ben definito e numerosi organelli membranosi, l'eucariota no, secondo lo schema di organizzazione classico",
+      "La procariota ha il DNA nel nucleoide senza membrana nucleare ed è priva di organelli membranosi",
+      "La procariota è sempre più grande dell'eucariota e possiede sempre cloroplasti"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cellula procariota ha il materiale genetico (DNA circolare) organizzato nel nucleoide, privo di membrana nucleare, ed è priva di organelli delimitati da membrana (mitocondri, cloroplasti, vacuoli), di nucleoli e di istoni. È inoltre più piccola (1-10 µm) dell'eucariota (5-100 µm).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.13"
+  },
+  {
+    "id": "bvg-cel-sup-vol-002",
+    "topic": "biologia-vegetale",
+    "question": "Perché le cellule non possono crescere indefinitamente, ma restano di dimensioni limitate?",
+    "suggestion": "Al crescere del volume, la superficie di scambio disponibile per unità di volume diminuisce.",
+    "options": [
+      "Perché una cellula grande ha un rapporto superficie/volume più favorevole agli scambi di gas e nutrienti con l'ambiente esterno",
+      "Perché aumentando le dimensioni il rapporto superficie/volume cala, riducendo l'efficienza degli scambi",
+      "Perché una cellula grande possiede troppi organelli per essere gestita dal nucleo"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'efficienza degli scambi dipende dal rapporto superficie/volume: crescendo, il volume aumenta più della superficie, quindi il rapporto cala e gli scambi diventano meno efficienti. Le cellule piccole hanno proporzionalmente più superficie di scambio.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.14"
+  },
+  {
+    "id": "bvg-cel-protoplasto-003",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è il protoplasto, ottenuto trattando una cellula vegetale con enzimi cellulosolitici?",
+    "suggestion": "È ciò che resta della cellula dopo aver digerito la parete cellulare.",
+    "options": [
+      "La cellula vegetale privata della parete, delimitata dalla sola membrana plasmatica",
+      "La sola parete cellulare isolata, privata del citoplasma e degli organelli",
+      "L'insieme dei cloroplasti estratti dalla cellula per centrifugazione differenziale a velocità crescente e regolabile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il protoplasto è la cellula vegetale privata della parete cellulare (digerita da enzimi cellulosolitici), delimitata dalla sola membrana plasmatica che racchiude citoplasma e organelli. È utile per studiare la fisiologia cellulare senza l'interferenza della parete rigida.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.14"
+  },
+  {
+    "id": "bvg-cel-tre-strutture-004",
+    "topic": "biologia-vegetale",
+    "question": "Quali tre strutture sono peculiari e caratterizzanti della cellula vegetale?",
+    "suggestion": "Un organulo fotosintetico, un grande compartimento acquoso e un involucro rigido.",
+    "options": [
+      "Lisosomi, centrioli e flagelli, assenti nelle cellule animali",
+      "Reticolo endoplasmatico, apparato di Golgi e ribosomi, esclusivi dei vegetali",
+      "Plastidi (cloroplasti), vacuolo e parete cellulare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le tre strutture tipiche e caratterizzanti la cellula vegetale sono i plastidi (in particolare i cloroplasti), il vacuolo e la parete cellulare. La cellula vegetale è invece priva di lisosomi e centrioli, presenti nella cellula animale.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.14"
+  },
+  {
+    "id": "bvg-cel-mosaico-005",
+    "topic": "biologia-vegetale",
+    "question": "Come descrive la membrana plasmatica il modello a mosaico fluido di Singer e Nicolson?",
+    "suggestion": "Un doppio strato lipidico in cui sono immerse proteine mobili.",
+    "options": [
+      "Un doppio strato di lipidi in cui sono immerse proteine che lo attraversano del tutto o in parte",
+      "Un unico strato rigido di proteine, privo di lipidi, che circonda la cellula come una parete rigida e continua",
+      "Una parete di cellulosa impermeabile attraversata solo dai plasmodesmi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il modello a mosaico fluido descrive la membrana come un doppio strato lipidico in cui sono immerse proteine (transmembrana o parziali), con oligosaccaridi sulla faccia esterna per il riconoscimento cellulare. L'anisotropia consente la formazione di gradienti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.15"
+  },
+  {
+    "id": "bvg-cel-poliploidia-006",
+    "topic": "biologia-vegetale",
+    "question": "Come agisce la colchicina nell'indurre poliploidia nelle piante?",
+    "suggestion": "È un veleno mitotico che impedisce la separazione dei cromosomi duplicati.",
+    "options": [
+      "Stimola la fusione di due gameti diploidi in un unico zigote poliploide",
+      "Blocca la formazione del fuso mitotico, duplicando il corredo senza separare le cellule figlie",
+      "Aumenta la velocità di replicazione del DNA producendo cromosomi più lunghi e più numerosi rispetto al normale"
+    ],
+    "correctIndex": 1,
+    "explanation": "La colchicina (alcaloide del Colchicum autumnale) è un veleno mitotico: blocca la formazione del fuso mitotico, così il corredo cromosomico si duplica senza che le cellule figlie si separino, generando poliploidia. Molte colture sono poliploidi (avena 6n, patata 4n).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.16"
+  },
+  {
+    "id": "bvg-cel-plastidi-semiauto-007",
+    "topic": "biologia-vegetale",
+    "question": "Quale caratteristica accomuna plastidi e mitocondri come organelli semi-autonomi?",
+    "suggestion": "Possiedono un proprio patrimonio genetico e la capacità di sintetizzare alcune proteine.",
+    "options": [
+      "Possiedono un proprio DNA circolare e ribosomi propri, capaci di sintetizzare parte delle proprie proteine",
+      "Sono privi di membrane proprie e dipendono interamente dal reticolo endoplasmatico per ogni loro funzione metabolica interna",
+      "Sono presenti solo nelle cellule procariote, prima della comparsa del nucleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Plastidi e mitocondri sono organelli semi-autonomi: possiedono un proprio DNA circolare e ribosomi propri, con cui sintetizzano alcune proteine e RNA. Si dividono per scissione, indipendentemente dal ciclo cellulare: è la base della teoria endosimbiontica.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.16"
+  },
+  {
+    "id": "bvg-cel-ezioplasti-008",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa si differenziano i proplastidi quando la pianta cresce al buio (eziolamento)?",
+    "suggestion": "Si formano plastidi privi di clorofilla, con caratteristici corpi prolamellari.",
+    "options": [
+      "In cloroplasti maturi ricchi di clorofilla e tilacoidi organizzati in grana e perfettamente impilati tra loro",
+      "In cromoplasti carichi di carotenoidi gialli e arancioni",
+      "In ezioplasti, privi di clorofilla ma con corpi prolamellari e protoclorofillide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al buio i proplastidi diventano ezioplasti, privi di clorofilla ma con corpi prolamellari (membrane paracristalline) e protoclorofillide. Alla luce, in circa 24 ore, il protoclorofillide si converte in clorofilla e i corpi prolamellari si riorganizzano in tilacoidi, formando cloroplasti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.16"
+  },
+  {
+    "id": "bvg-cel-grana-009",
+    "topic": "biologia-vegetale",
+    "question": "Come è organizzato il cloroplasto tra grana, tilacoidi stromatici e stroma?",
+    "suggestion": "I grana sono pile di membrane; lo stroma è la matrice fluida con gli enzimi.",
+    "options": [
+      "I grana sono la matrice fluida con gli enzimi, lo stroma è formato da pile di membrane discoidali impilate a formare alte cataste ordinate",
+      "I grana sono pile di membrane discoidali connesse da tilacoidi stromatici, lo stroma è la matrice con gli enzimi del ciclo di Calvin",
+      "I grana contengono il DNA, i tilacoidi stromatici gli amiloplasti, lo stroma i cromoplasti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel cloroplasto i grana sono pile di membrane discoidali (contenenti clorofille, pigmenti e catena fotosintetica), connesse dai tilacoidi stromatici; lo stroma è la matrice fluida con gli enzimi che fissano la CO2 nel ciclo di Calvin-Benson. Piante eliofile hanno pochi grana, le sciafile molti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.16-17"
+  },
+  {
+    "id": "bvg-cel-cromoplasti-010",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolgono i cromoplasti, ricchi di carotenoidi, in fiori e frutti?",
+    "suggestion": "Danno colori giallo-arancio-rosso con una funzione di richiamo visivo.",
+    "options": [
+      "Accumulano amido di riserva come gli amiloplasti dei tessuti sotterranei di riserva come tuberi, radici e bulbi",
+      "Svolgono la fotosintesi al posto dei cloroplasti nelle parti non verdi",
+      "Danno le colorazioni giallo-arancio-rosse con funzione vessillare per impollinatori e dispersori"
+    ],
+    "correctIndex": 2,
+    "explanation": "I cromoplasti contengono carotenoidi (pigmenti gialli, arancioni, rossi) e danno la colorazione a fiori e frutti, con funzione vessillare (richiamo visivo per impollinatori e dispersori di semi). Possono derivare dai proplastidi o dal ri-differenziamento di cloroplasti (es. peperone che matura).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.17"
+  },
+  {
+    "id": "bvg-cel-fill-amiloplasti-011",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "I leucoplasti privi di pigmenti che accumulano amido nei tessuti di riserva sono detti ___.",
+    "answers": [
+      [
+        "amiloplasti",
+        "amiloplasto"
+      ]
+    ],
+    "suggestion": "Sono i leucoplasti dell'amido; quelli che accumulano oli sono invece gli elaioplasti.",
+    "explanation": "Gli amiloplasti sono leucoplasti (plastidi incolori) che accumulano amido; la forma dei loro granuli è specie-specifica. Gli elaioplasti accumulano invece oli e proteine.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.17"
+  },
+  {
+    "id": "bvg-cel-mitocondri-endo-012",
+    "topic": "biologia-vegetale",
+    "question": "Quali caratteristiche dei mitocondri sostengono la teoria endosimbiontica?",
+    "suggestion": "Hanno doppia membrana, un proprio genoma e si dividono come i batteri.",
+    "options": [
+      "La doppia membrana, il DNA circolare proprio e la divisione per scissione, indipendente dal ciclo cellulare",
+      "L'assenza di membrane e di DNA proprio, che li rende dipendenti dal nucleo",
+      "La capacità di svolgere la fotosintesi grazie a clorofille interne alle creste della loro membrana interna mitocondriale"
+    ],
+    "correctIndex": 0,
+    "explanation": "I mitocondri hanno doppia membrana, DNA e RNA circolare proprio, ribosomi propri e si dividono per scissione indipendentemente dal ciclo cellulare: caratteristiche che sostengono la teoria endosimbiontica, secondo cui derivano da antichi batteri inglobati dalle cellule eucariotiche primitive.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.18"
+  },
+  {
+    "id": "bvg-cel-creste-013",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione delle creste mitocondriali e dove tende a posizionarsi il mitocondrio nella cellula?",
+    "suggestion": "Le creste sono introflessioni che aumentano la superficie; il mitocondrio va dove serve energia.",
+    "options": [
+      "Le creste immagazzinano amido; il mitocondrio si posiziona vicino al nucleo",
+      "Le creste sono introflessioni della membrana interna che ne aumentano la superficie; il mitocondrio va dove è alta la richiesta energetica",
+      "Le creste producono clorofilla; il mitocondrio si concentra nelle cellule epidermiche esposte alla luce solare diretta e alle radiazioni intense"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le creste sono introflessioni della membrana interna mitocondriale che ne aumentano la superficie funzionale (sede della respirazione cellulare). I mitocondri si spostano e si concentrano nelle regioni cellulari a maggiore richiesta energetica.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.18"
+  },
+  {
+    "id": "bvg-cel-gliossisomi-014",
+    "topic": "biologia-vegetale",
+    "question": "Quale ruolo svolgono i gliossisomi nei semi oleosi durante la germinazione?",
+    "suggestion": "Convertono le riserve lipidiche in zuccheri utilizzabili dalla plantula.",
+    "options": [
+      "Fissano l'azoto atmosferico nei noduli, trasformandolo in ureidi ricche di azoto organico assimilabile",
+      "Svolgono la fotorespirazione tramite il ciclo C2 nelle foglie",
+      "Degradano gli acidi grassi (beta-ossidazione) convertendoli in zuccheri per gluconeogenesi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I gliossisomi (microcorpi dei semi oleosi in germinazione) degradano gli acidi grassi di riserva per beta-ossidazione, producendo succinato che, tramite gluconeogenesi, viene convertito in zuccheri: forniscono così energia alla plantula. Nelle foglie i microcorpi sono invece perossisomi (fotorespirazione).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.18-19"
+  },
+  {
+    "id": "bvg-cel-catalasi-015",
+    "topic": "biologia-vegetale",
+    "question": "Da cosa deriva il nome dei perossisomi e quale enzima vi opera?",
+    "suggestion": "Contengono perossido di idrogeno, neutralizzato da un enzima in ossigeno e acqua.",
+    "options": [
+      "Dal perossido di idrogeno (H2O2), dismutato in O2 e acqua dall'enzima catalasi",
+      "Dai fosfati inorganici accumulati, idrolizzati dalla fosfatasi",
+      "Dai perossidi lipidici della membrana, sintetizzati dalla lipasi della membrana plasmatica cellulare"
+    ],
+    "correctIndex": 0,
+    "explanation": "I perossisomi devono il nome al perossido di idrogeno (H2O2) che contengono, dismutato in ossigeno e acqua dall'enzima catalasi (2 H2O2 → O2 + 2 H2O). Nelle foglie partecipano alla fotorespirazione insieme a mitocondri e cloroplasti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.19"
+  },
+  {
+    "id": "bvg-cel-vacuolo-turgore-016",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione osmotica fondamentale svolge il vacuolo, che può occupare fino al 90% del volume cellulare?",
+    "suggestion": "Genera la pressione idrostatica che spinge il contenuto contro la parete.",
+    "options": [
+      "Sintetizza le proteine di membrana destinate alla parete cellulare",
+      "Mantiene il turgore, fornendo sostegno meccanico e forza motrice per la crescita per distensione",
+      "Produce l'ATP necessario alla respirazione cellulare al posto dei mitocondri durante la respirazione cellulare aerobia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il vacuolo (delimitato dal tonoplasto) mantiene il turgore, la pressione idrostatica contro la parete: fornisce sostegno meccanico, forza motrice per la crescita per distensione, controlla l'apertura degli stomi e i movimenti rapidi. Accumula inoltre riserve, metaboliti secondari e svolge funzioni litiche.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.19"
+  },
+  {
+    "id": "bvg-cel-druse-rafidi-017",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono druse e rafidi che si osservano nel vacuolo di alcune cellule?",
+    "suggestion": "Sono cristalli di sali precipitati, con forme diverse (a stella o ad ago).",
+    "options": [
+      "Formazioni cristalline di sali: le druse a stella/rosetta, i rafidi aciculari in fasci paralleli",
+      "Vescicole di trasporto rivestite di clatrina dirette verso l'esterno della cellula durante il processo di esocitosi",
+      "Pigmenti idrosolubili responsabili delle colorazioni blu e violette dei fiori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Druse (aggregati cristallini a stella o rosetta) e rafidi (cristalli aciculari, ad ago, in fasci paralleli) sono precipitati di sali del succo vacuolare. I pigmenti idrosolubili blu-violetti sono invece gli antociani, anch'essi vacuolari.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.19"
+  },
+  {
+    "id": "bvg-cel-rer-018",
+    "topic": "biologia-vegetale",
+    "question": "Perché il reticolo endoplasmatico rugoso (RER) è detto 'rugoso' e qual è la sua funzione principale?",
+    "suggestion": "La sua superficie è coperta da ribosomi: pensa a cosa producono.",
+    "options": [
+      "Perché è impregnato di lignina; serve al sostegno meccanico della cellula",
+      "Perché la sua superficie porta numerosi ribosomi; è deputato alla sintesi e maturazione delle proteine",
+      "Perché è ricoperto di cere epicuticolari; impermeabilizza la superficie cellulare esterna dell'intera pianta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il RER è 'rugoso' perché la sua superficie è coperta di ribosomi; è deputato alla sintesi e maturazione delle proteine (specie quelle da secernere), all'aggiunta di zuccheri alle glicoproteine e all'omeostasi del calcio. È in continuità col nucleo e, tramite i plasmodesmi, tra cellule.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.20"
+  },
+  {
+    "id": "bvg-cel-golgi-019",
+    "topic": "biologia-vegetale",
+    "question": "Come sono organizzati i dittiosomi dell'apparato di Golgi e le loro due facce?",
+    "suggestion": "Pile di membrane con una faccia di formazione (cis) e una di maturazione (trans).",
+    "options": [
+      "Pile di membrane discoidali con una faccia cis (di formazione) e una trans (di maturazione), da cui gemmano vescicole",
+      "Un unico grande sacco sferico privo di facce distinte, che circonda il nucleo senza mai gemmare vescicole di trasporto",
+      "Filamenti proteici cavi di tubulina che guidano la sintesi della parete"
+    ],
+    "correctIndex": 0,
+    "explanation": "I dittiosomi del Golgi sono pile di membrane discoidali appiattite con due facce: cis (interna, di formazione) e trans (esterna, di maturazione), da cui gemmano vescicole di trasporto. Il trans-Golgi network gestisce esocitosi ed endocitosi (vescicole rivestite di clatrina).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.21"
+  },
+  {
+    "id": "bvg-cel-microtubuli-020",
+    "topic": "biologia-vegetale",
+    "question": "Quale prova indica che i microtubuli guidano la sintesi della parete cellulare?",
+    "suggestion": "La fluorescenza dei microtubuli e quella della cellulosa risultano perfettamente sovrapposte.",
+    "options": [
+      "I microtubuli sono formati da cellulosa, quindi coincidono con la parete cellulare che essi stessi costituirebbero",
+      "La fluorescenza dei microtubuli e della cellulosa è colocalizzata (si sovrappone esattamente)",
+      "I microtubuli si trovano solo nel nucleo, lontano dalla parete cellulare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fluorescenza dei microtubuli (dimeri di α- e β-tubulina) e quella della cellulosa risultano colocalizzate (perfettamente sovrapposte): è la prova che i microtubuli corticali guidano l'orientamento delle microfibrille di cellulosa durante la sintesi della parete. I microtubuli formano anche il fuso mitotico.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.22"
+  }
+]
