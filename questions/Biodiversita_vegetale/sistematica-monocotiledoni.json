@@ -1,0 +1,324 @@
+[
+  {
+    "id": "bdv-mono-caratteri-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale insieme di caratteri distingue le Monocotiledoni dalle Eudicotiledoni?",
+    "suggestion": "Pensa al numero di cotiledoni, alla nervatura fogliare, all'organizzazione dei fasci nel fusto e al polline.",
+    "options": [
+      "Due cotiledoni, nervatura reticolata, fasci in anello con cambio e polline tricolpato",
+      "Un cotiledone, nervatura parallela, fasci sparsi senza cambio e polline monocolpato",
+      "Nessun cotiledone, foglie ridotte a squame, fusto legnoso e polline privo di aperture"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Monocotiledoni hanno un solo cotiledone, foglie parallelinervie, fusto atactostelico (fasci sparsi) privo di cambio vascolare, radici fascicolate e polline monocolpato (una apertura). Le Eudicotiledoni hanno due cotiledoni, nervatura reticolata, fittone e polline tricolpato.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-mono-atactostele-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la maggior parte delle Monocotiledoni non compie crescita secondaria in spessore del fusto?",
+    "suggestion": "Manca loro il tessuto meristematico che negli alberi produce legno anno dopo anno.",
+    "options": [
+      "Perché i fasci sono sparsi (atactostele) e manca il cambio vascolare responsabile della crescita secondaria",
+      "Perché i fasci sono disposti in un anello ordinato attorno a un ampio midollo centrale legnoso e persistente per anni",
+      "Perché il fusto è interamente sostituito da un rizoma sotterraneo privo di tessuti conduttori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle Monocotiledoni i fasci vascolari sono sparsi nel fusto (vascolarizzazione atactostelica) e manca il cambio vascolare, il meristema secondario che produce la crescita in spessore: per questo di norma non formano vero legno.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-mono-liliaceae-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale piano fiorale caratterizza le Liliaceae in senso stretto (es. Lilium martagon)?",
+    "suggestion": "È organizzato su base tre, con perianzio di tepali e ovario in posizione supera.",
+    "options": [
+      "Fiore trimero attinomorfo con sei stami e ovario supero, formula *P3+3 A3+3 G(3)",
+      "Fiore dimero zigomorfo con due stami e ovario infero, formula P2 A2 G(2)",
+      "Fiore del tutto privo di perianzio, con un solo stame fertile e ovario supero, formula ridotta P0 A1 G(1)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Liliaceae hanno fiore trimero e attinomorfo, con sei tepali, sei stami e ovario supero: formula *P3+3 A3+3 G(3). Specie tipiche sono Lilium martagon e Lilium carniolicum, con tepali revoluti e stami sporgenti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.63"
+  },
+  {
+    "id": "bdv-mono-apg-generi-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché generi come Allium, Asparagus e Muscari non sono più nelle Liliaceae secondo la classificazione APG?",
+    "suggestion": "Le analisi molecolari hanno ridistribuito la vecchia famiglia 'Liliaceae in senso ampio' in più famiglie distinte.",
+    "options": [
+      "Perché sono stati riconosciuti come gimnosperme e spostati fuori dalle angiosperme a fiore",
+      "Perché la classificazione APG, su base molecolare, li ha ridistribuiti in altre famiglie (Amaryllidaceae, Asparagaceae)",
+      "Perché hanno perso del tutto il fiore trimero, assumendo un piano fiorale dimero del tutto incompatibile con le Liliaceae"
+    ],
+    "correctIndex": 1,
+    "explanation": "La classificazione APG, basata su analisi molecolari, ha smembrato le vecchie 'Liliaceae in senso ampio': Allium è passato in Amaryllidaceae, Asparagus, Muscari, Scilla, Ruscus in Asparagaceae, ecc. Le Liliaceae attuali comprendono generi come Lilium, Tulipa e Fritillaria.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.63"
+  },
+  {
+    "id": "bdv-mono-iridaceae-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali due caratteri distinguono le Iridaceae dalle Liliaceae nell'ordine Asparagales/Liliales?",
+    "suggestion": "Guarda il numero di stami fertili e la posizione dell'ovario.",
+    "options": [
+      "Sei stami e ovario supero, esattamente come nelle Liliaceae, senza differenze significative",
+      "Perianzio assente e ovario supero, con formula ridotta P0 A3 G(3)",
+      "Tre soli stami fertili e ovario infero, con formula *P3+3 A3 G(3)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Iridaceae hanno fiori trimeri con solo tre stami fertili (contro i sei delle Liliaceae) e ovario infero: formula *P3+3 A3 G(3). Un esempio è Limniris pseudacorus (giaggiolo d'acqua), con tepali esterni striati che guidano gli impollinatori.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.63"
+  },
+  {
+    "id": "bdv-mono-asparagaceae-amaryll-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingue le Asparagaceae dalle Amaryllidaceae, entrambe con sei stami?",
+    "suggestion": "La differenza chiave è la posizione dell'ovario rispetto agli altri elementi fiorali.",
+    "options": [
+      "Le Asparagaceae hanno ovario supero, le Amaryllidaceae ovario infero",
+      "Le Asparagaceae hanno perianzio assente, le Amaryllidaceae sei tepali vistosi",
+      "Le Asparagaceae hanno fiore zigomorfo, le Amaryllidaceae fiore privo di simmetria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Asparagaceae (es. Ornithogalum, Muscari, Convallaria) hanno ovario supero (*P3+3 A3+3 G(3)); Amaryllidaceae (es. Narcissus, Galanthus, Allium) hanno ovario infero. La posizione dell'ovario è il carattere diagnostico chiave tra le due famiglie.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.64-65"
+  },
+  {
+    "id": "bdv-mono-amaryll-esempi-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale genere, oggi collocato nelle Amaryllidaceae, è riconoscibile per l'infiorescenza a ombrella di fiori bianchi stellati e le foglie odorose da bulbo?",
+    "suggestion": "È un'erba del sottobosco con caratteristico odore, un tempo nelle Liliaceae.",
+    "options": [
+      "Il genere Narcissus, con fiori bianchi dotati di una vistosa corona centrale gialla e ovario infero",
+      "Il genere Allium, con Allium ursinum (aglio orsino) a ombrella di fiori bianchi stellati",
+      "Il genere Ruscus, arbusto sempreverde con cladodi appuntiti e frutti a bacca rossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Allium (aglio orsino, Allium ursinum) è oggi nelle Amaryllidaceae: erba a bulbo con foglie larghe e odorose e infiorescenza a ombrella di fiori bianchi stellati. Narcissus ha la corona centrale; Ruscus (con cladodi) appartiene alle Asparagaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-orchid-labello-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è il labello nel fiore delle Orchidaceae?",
+    "suggestion": "È uno dei tepali interni, modificato in una struttura vistosa con funzione di richiamo.",
+    "options": [
+      "Uno dei tepali interni modificato in struttura vistosa e spesso speronata, con funzione attrattiva",
+      "La struttura, detta colonna o gimnostenio, che fonde filamento, stilo e stimma in un unico organo",
+      "La massa compatta di granuli pollinici aggregati, detta pollinio, trasportata in blocco dall'insetto impollinatore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il labello è uno dei tre tepali interni modificato in una struttura vistosa, spesso speronata, con funzione attrattiva verso gli impollinatori. La sua morfologia è il carattere principale per distinguere i generi di orchidee. La struttura che fonde stami e stilo è la colonna (gimnostenio); i granuli aggregati sono i pollinii.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-fill-resupinazione-009",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La rotazione di 180 gradi del fiore delle Orchidaceae durante lo sviluppo, che porta il labello in basso, è detta ___.",
+    "answers": [["resupinazione"]],
+    "suggestion": "È il fenomeno per cui il fiore si 'capovolge' durante la crescita.",
+    "explanation": "La resupinazione è la rotazione di 180° del fiore delle orchidee durante lo sviluppo, che porta il labello nella posizione inferiore, offrendo una piattaforma di atterraggio agli impollinatori.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-orchid-semi-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché i semi minutissimi delle Orchidaceae dipendono da funghi micorrizici nella germinazione?",
+    "suggestion": "Sono privi del tessuto che di solito nutre l'embrione: qualcuno deve fornire i nutrienti.",
+    "options": [
+      "Perché i semi sono avvolti da un arillo carnoso e zuccherino che il fungo simbionte deve prima digerire dall'esterno",
+      "Perché i semi sono privi di endosperma e traggono nutrimento dai funghi simbionti delle radici",
+      "Perché i semi contengono un endosperma tossico che solo il fungo è in grado di neutralizzare"
+    ],
+    "correctIndex": 1,
+    "explanation": "I semi delle orchidee sono minuti e privi di endosperma (tessuto di riserva): per germinare dipendono dai funghi micorrizici, che forniscono i nutrienti. Le radici delle orchidee sono infatti spesso micorrizate.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-ophrys-011",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo Ophrys sphegodes attira i propri impollinatori maschi?",
+    "suggestion": "Il suo labello imita qualcosa che i maschi dell'insetto cercano attivamente.",
+    "options": [
+      "Producendo grandi quantità di nettare zuccherino accumulato in un lungo sperone del labello",
+      "Con un labello peloso e mimetico che imita aspetto e odore di insetti femmina (pseudocopulazione)",
+      "Chiudendo temporaneamente gli insetti in una trappola a forma di scarpetta, come fa Cypripedium calceolus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ophrys sphegodes ha un labello peloso e mimetico che imita l'aspetto e l'odore di insetti femmina, inducendo i maschi a tentare l'accoppiamento (pseudocopulazione) e trasportando così il polline. Cypripedium usa invece una trappola a scarpetta.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-poaceae-spighetta-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel fiore delle Poaceae, quali brattee proteggono l'intera spighetta e quali il singolo fiore?",
+    "suggestion": "Due strutture stanno alla base della spighetta, altre due avvolgono ciascun fiore.",
+    "options": [
+      "Le glumette (lemma e palea) proteggono la spighetta, le glume il singolo fiore",
+      "Le glume proteggono la spighetta, le glumette (lemma e palea) avvolgono il singolo fiore",
+      "Le lodicule proteggono l'intera spighetta, mentre la rachilla avvolge e racchiude ciascun singolo fiore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Poaceae la spighetta è protetta alla base da due glume, mentre ogni fiore è avvolto da due glumette, la lemma (inferiore) e la palea (superiore). Le lodicule, rigonfiandosi, aprono il fiore; la rachilla è l'asse che porta le spighette.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-fill-cariosside-013",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il frutto secco indeiscente delle Poaceae, in cui il pericarpo è saldato al tegumento del seme, è detto ___.",
+    "answers": [["cariosside", "cariossidi"]],
+    "suggestion": "È il 'chicco' dei cereali, formato da germe, endosperma amidaceo e crusca.",
+    "explanation": "La cariosside è il frutto tipico delle Poaceae: secco, indeiscente, con pericarpo saldato al tegumento del seme. È costituita da embrione (germe), endosperma amidaceo e strato periferico (crusca).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-poaceae-ligula-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la funzione diagnostica della ligula nella foglia delle Poaceae?",
+    "suggestion": "È una piccola membrana o frangia di peli in un punto preciso della foglia, la cui forma varia tra le specie.",
+    "options": [
+      "È l'ala membranosa del frutto che ne favorisce la dispersione anemocora tra le specie affini",
+      "È il fusto cavo articolato in nodi e internodi, tipico e comune a tutte le graminacee",
+      "È una membrana o frangia di peli tra guaina e lamina, la cui forma aiuta il riconoscimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ligula è una piccola membrana o frangia di peli posta alla giunzione tra guaina e lamina fogliare; la sua forma varia con la specie ed è un carattere utile per il riconoscimento delle Poaceae. Il fusto cavo a nodi è il culmo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-poales-sezione-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del fusto permette di distinguere rapidamente le Cyperaceae dalle Poaceae e dalle Juncaceae?",
+    "suggestion": "Basta osservare la forma del fusto in sezione trasversale.",
+    "options": [
+      "Il fusto a sezione triangolare delle Cyperaceae, contro quello circolare o compresso delle altre due",
+      "Il fusto legnoso e molto ramificato delle Cyperaceae, contrapposto a quello erbaceo e semplice delle altre due",
+      "Il fusto interamente pieno di midollo delle Cyperaceae, contro quello cavo delle altre due"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Cyperaceae hanno fusto a sezione triangolare, mentre Poaceae (circolare o compresso) e Juncaceae (circolare o ovale) no. Questo carattere, con la struttura del fiore (glume/glumette vs brattea singola vs tepali), consente il riconoscimento anche senza fioritura.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66-67"
+  },
+  {
+    "id": "bdv-mono-cyperaceae-perianzio-016",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa la formula fiorale delle Cyperaceae differisce da quella delle Juncaceae?",
+    "suggestion": "La differenza sta nella presenza o assenza del perianzio (i tepali).",
+    "options": [
+      "Le Cyperaceae hanno sei tepali (P3+3), le Juncaceae ne sono del tutto prive (P0)",
+      "Le Cyperaceae hanno perianzio assente o ridotto (P0), le Juncaceae sei tepali (P3+3)",
+      "Entrambe hanno perianzio vistoso e colorato, indistinguibile tra le due famiglie affini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Cyperaceae hanno perianzio assente o ridotto (formula P0 A3 G(3-2)); le Juncaceae hanno invece sei tepali (P3+3 A3+3 G(3)). È una differenza chiave tra le due famiglie dell'ordine Poales.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-c4-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue le specie di Poaceae con fotosintesi C4 da quelle C3?",
+    "suggestion": "Le due varianti differiscono per l'efficienza in condizioni di forte luce e calore.",
+    "options": [
+      "Le C4 sono più efficienti in condizioni di elevata luminosità e temperatura rispetto alle C3",
+      "Le C4 sono prive di clorofilla e quindi eterotrofe, a differenza delle C3 autotrofe",
+      "Le C4 fissano direttamente l'azoto molecolare atmosferico, mentre le C3 fissano soltanto il carbonio della CO2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Poaceae comprendono specie con fotosintesi C3 e C4: le C4 (es. mais, Zea mays) sono più efficienti in condizioni di alta luminosità e temperatura. Entrambe sono autotrofe e fissano il carbonio; nessuna fissa l'azoto.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-fanerogame-vs-alghe-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale insieme di caratteri distingue le fanerogame marine dalle alghe?",
+    "suggestion": "Uno dei due gruppi ha vere radici, fusto, foglie e fiori; l'altro solo strutture analoghe non vascolari.",
+    "options": [
+      "Le fanerogame marine hanno lamina, stipite e organo di ancoraggio, ma sono prive di veri fiori",
+      "Le fanerogame marine hanno vere foglie, rizoma, radici e fiori, mentre le alghe hanno solo strutture analoghe",
+      "Le fanerogame marine e le alghe appartengono allo stesso gruppo, distinto soltanto dalla profondità in cui vivono"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le fanerogame marine sono vere piante a fiore adattate al mare: hanno foglie, rizoma, radici (ancoraggio e assorbimento) e producono fiori. Le alghe, prive di tessuti vascolari, hanno solo lamina, stipite e organo di ancoraggio (holdfast) senza funzione di assorbimento.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-fanerogame-ritorno-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le fanerogame marine rappresentano un caso di 'ritorno secondario' all'ambiente acquatico?",
+    "suggestion": "Discendono da piante che avevano già conquistato la terraferma.",
+    "options": [
+      "Perché discendono da progenitori terrestri e sono poi tornate a vivere immerse in mare",
+      "Perché non hanno mai lasciato il mare, essendo le prime piante comparse in ambiente acquatico",
+      "Perché derivano direttamente dalle alghe brune per acquisizione di veri tessuti vascolari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le fanerogame marine discendono da progenitori terrestri (Monocotiledoni alismatidi) e sono tornate secondariamente a vivere immerse in mare: è un ritorno secondario all'acqua, non una permanenza originaria. Non derivano dalle alghe.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-posidonia-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sono le 'banquette' associate a Posidonia oceanica?",
+    "suggestion": "Si formano sulla battigia dall'accumulo dei resti della pianta e proteggono la costa.",
+    "options": [
+      "Le estese praterie sommerse e viventi che questa specie forma sui fondali fino a circa cinquanta metri di profondità",
+      "Gli accumuli di foglie morte e resti fibrosi sulla battigia, con funzione protettiva contro l'erosione",
+      "Le strutture riproduttive galleggianti con cui la pianta disperde i semi tramite le correnti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le banquette sono accumuli di foglie morte e resti fibrosi di Posidonia oceanica che si depositano lungo la battigia per azione del moto ondoso, svolgendo una funzione protettiva contro l'erosione costiera. Le praterie sommerse sono invece i 'prati' sottomarini viventi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-liliales-geofite-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché molte Liliales sono classificate come geofite bulbose con radici contrattili?",
+    "suggestion": "Superano la stagione sfavorevole sottoterra, e le radici regolano la profondità dell'organo di riserva.",
+    "options": [
+      "Perché superano la stagione avversa con bulbi sotterranei, e le radici contrattili regolano la profondità del bulbo",
+      "Perché sono alberi sempreverdi che accumulano riserve nel tronco legnoso durante l'inverno",
+      "Perché sono piante acquatiche natanti che affondano i propri bulbi nel fango del fondale soltanto durante la breve fioritura estiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Liliales sono spesso erbe perenni geofite bulbose: superano la stagione sfavorevole con organi di riserva sotterranei (bulbi). Le radici fascicolate e contrattili possono accorciarsi per mantenere il bulbo alla profondità ottimale nel terreno.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.63"
+  },
+  {
+    "id": "bdv-mono-fanerogame-mediterraneo-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale fanerogama marina è la specie dominante nel Mar Mediterraneo?",
+    "suggestion": "È quella che forma le estese praterie sommerse fino a circa cinquanta metri di profondità.",
+    "options": [
+      "Halophila stipulacea, specie introdotta di recente da altre regioni geografiche",
+      "Cymodocea nodosa, che forma praterie meno estese e più tolleranti alle variazioni ambientali",
+      "Posidonia oceanica, che forma le estese praterie sommerse tipiche del Mediterraneo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Posidonia oceanica è la fanerogama marina dominante nel Mar Mediterraneo, dove forma estese praterie sommerse fino a ~50 m di profondità. Cymodocea nodosa forma praterie meno estese e più tolleranti; Halophila stipulacea è una specie introdotta.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.67"
+  }
+]

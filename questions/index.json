@@ -423,6 +423,18 @@
           "file": "Biodiversita_vegetale/biodiversita-conservazione.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
           "count": 22
+        },
+        {
+          "species": "Sistematica: ordini basali e Magnolidi",
+          "file": "Biodiversita_vegetale/sistematica-basali-magnoliidi.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 9
+        },
+        {
+          "species": "Sistematica: Monocotiledoni",
+          "file": "Biodiversita_vegetale/sistematica-monocotiledoni.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 22
         }
       ]
     }

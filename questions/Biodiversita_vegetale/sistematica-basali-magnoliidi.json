@@ -1,0 +1,133 @@
+[
+  {
+    "id": "bdv-sysb-cladogramma-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali sono i quattro grandi raggruppamenti in cui il cladogramma suddivide le Angiosperme?",
+    "suggestion": "Si parte dalle linee più antiche e si arriva ai due grandi gruppi con uno o due cotiledoni.",
+    "options": [
+      "Gruppi basali, Magnolidi, Monocotiledoni ed Eudicotiledoni",
+      "Briofite, Pteridofite, Gimnosperme e Angiosperme a fiore",
+      "Alghe verdi, Streptofite, Embriofite e Spermatofite a seme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cladogramma delle Angiosperme distingue quattro raggruppamenti: i gruppi basali (Amborellales, Nymphaeales, Austrobaileyales, Chloranthales), le Magnolidi, le Monocotiledoni e le Eudicotiledoni. Gli altri elenchi riguardano gruppi esterni alle angiosperme.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.59"
+  },
+  {
+    "id": "bdv-sysb-amborella-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale posizione occupa Amborella trichopoda nell'albero filogenetico delle angiosperme?",
+    "suggestion": "È il ramo che si è staccato per primo, gruppo gemello di tutte le altre angiosperme viventi.",
+    "options": [
+      "È una monocotiledone recente, derivata dalle Nymphaeaceae acquatiche per riduzione del fiore",
+      "È il gruppo gemello (sister group) di tutte le altre angiosperme viventi, in posizione più basale",
+      "È l'antenato diretto delle sole Eudicotiledoni centrali, di cui già condivide il polline tricolpato derivato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amborella trichopoda, unica specie delle Amborellales, occupa la posizione più basale: è il gruppo gemello (sister group) di tutte le altre angiosperme viventi. Ha areale fortemente localizzato a un piccolo territorio insulare.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.59-60"
+  },
+  {
+    "id": "bdv-sysb-nymphaeales-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si differenziano le Nymphaeales da Amborella per distribuzione e habitat?",
+    "suggestion": "Uno ha areale minuscolo e insulare; le altre sono acquatiche e quasi cosmopolite.",
+    "options": [
+      "Le Nymphaeales sono piante legnose terrestri con areale ristretto e localizzato su un'unica isola, come Amborella",
+      "Le Nymphaeales sono conifere montane, mentre Amborella è una pianta erbacea di prateria",
+      "Le Nymphaeales sono acquatiche con foglie natanti e areale quasi cosmopolita, Amborella è localizzata"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Nymphaeales (Nymphaeaceae, es. Nymphaea alba e Nuphar lutea) sono piante acquatiche con foglie natanti e fiori a pelo d'acqua, con distribuzione quasi cosmopolita; Amborella è invece legnosa e con areale fortemente localizzato.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.60"
+  },
+  {
+    "id": "bdv-sysb-monocot-diagnostico-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del polline compare come sinapomorfia in corrispondenza delle Eudicotiledoni?",
+    "suggestion": "Riguarda il numero di solchi o aperture germinative del granulo pollinico.",
+    "options": [
+      "Il polline tricolpato o tricolpato-derivato, con tre aperture germinative",
+      "Il polline monocolpato, con una sola apertura, tipico delle monocotiledoni",
+      "Il polline privo di aperture e di esina, disperso solo per via idrofila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il polline tricolpato (tre solchi/aperture) o tricolpato-derivato è la sinapomorfia delle Eudicotiledoni. Le Monocotiledoni hanno invece polline monocolpato (una sola apertura), carattere considerato più primitivo.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.59"
+  },
+  {
+    "id": "bdv-sysb-magno-legno-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il legno omoxilo delle Magnoliaceae è considerato un carattere primitivo?",
+    "suggestion": "Confronta i suoi elementi conduttori con quelli, più diversificati, delle angiosperme evolute.",
+    "options": [
+      "Perché è ricco di elementi dei vasi ampi e differenziati, come nelle angiosperme più recenti",
+      "Perché è costituito da soli elementi tracheali, privo dei vasi differenziati del legno eteroxilo",
+      "Perché è del tutto privo di lignina e resta rigido soltanto grazie alla pressione di turgore delle cellule vive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Magnoliaceae hanno legno omoxilo, costituito da un solo tipo di elementi conduttori (tracheali) e privo dei vasi differenziati: è un carattere primitivo rispetto al legno eteroxilo (con vasi) delle angiosperme più evolute.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.60"
+  },
+  {
+    "id": "bdv-sysb-magno-fiore-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri fiorali delle Magnoliaceae sono considerati primitivi (ancestrali)?",
+    "suggestion": "Pensa al numero e alla disposizione degli elementi, alla forma degli stami e ai carpelli fusi o liberi.",
+    "options": [
+      "Elementi fiorali pochi e in verticilli fissi, stami filiformi e ovario infero sincarpico",
+      "Fiore ridotto e privo di perianzio, con un solo stame e un unico carpello chiuso",
+      "Elementi numerosi disposti a spirale, stami laminari e ovario supero apocarpico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fiore delle Magnoliaceae ha elementi numerosi disposti a spirale su un ricettacolo conico, stami laminari (filamento appiattito) e ovario supero apocarpico (carpelli liberi): tutti caratteri primitivi. La formula fiorale è P n; A n; G n, con n a indicare numero elevato e variabile.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.60-61"
+  },
+  {
+    "id": "bdv-sysb-fill-apocarpico-007",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Un gineceo costituito da più carpelli liberi tra loro e non fusi, come nelle Magnoliaceae, è detto ___.",
+    "answers": [["apocarpico", "apocarpo", "apocarpica"]],
+    "suggestion": "Si contrappone a 'sincarpico', in cui i carpelli sono fusi.",
+    "explanation": "Un gineceo apocarpico ha carpelli liberi e non fusi (condizione primitiva, come nelle Magnoliaceae); uno sincarpico ha i carpelli fusi tra loro (condizione più evoluta, tipica di molte angiosperme).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.60-61"
+  },
+  {
+    "id": "bdv-sysb-magno-frutto-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è il frutto tipico delle Magnoliaceae?",
+    "suggestion": "Deriva dai carpelli liberi: pensa a un insieme di piccoli frutti secchi che si aprono su una sola linea.",
+    "options": [
+      "Un aggregato di follicoli monospermi, o più raramente una samara alata",
+      "Una cariosside secca indeiscente con pericarpo saldato al tegumento del seme",
+      "Una capsula loculicida contenente semi minuti e privi di endosperma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il frutto delle Magnoliaceae è un aggregato di follicoli monospermi (frutti secchi deiscenti a un solo seme), coerente con il gineceo apocarpico, o più raramente una samara. I semi sono spesso avvolti da un arillo carnoso e restano appesi tramite il funicolo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-magno-esempi-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale specie delle Magnoliaceae è riconoscibile per le foglie a margine lobato e i fiori giallo-verdastri a forma di tulipano?",
+    "suggestion": "Il nome del genere richiama proprio la forma del fiore simile a un tulipano.",
+    "options": [
+      "Magnolia grandiflora, con foglie persistenti coriacee verde scuro lucido",
+      "Liriodendron tulipifera, con foglie lobate e fiori a forma di tulipano",
+      "Nymphaea alba, pianta acquatica con foglie natanti e corolla bianca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liriodendron tulipifera ha foglie a margine lobato e fiori giallo-verdastri con banda arancione alla base dei tepali, dalla forma che ricorda un tulipano. Magnolia grandiflora ha invece foglie persistenti, coriacee e lucide.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.61"
+  }
+]
