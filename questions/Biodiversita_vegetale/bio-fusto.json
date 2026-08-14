@@ -1,0 +1,228 @@
+[
+  {
+    "id": "bvg-fus-tunica-corpus-001",
+    "topic": "biologia-vegetale",
+    "question": "Come sono organizzate tunica e corpus nell'apice meristematico del fusto?",
+    "suggestion": "Una è lo strato esterno con divisioni perpendicolari alla superficie, l'altra la porzione interna.",
+    "options": [
+      "La tunica è la porzione interna con divisioni in ogni piano, il corpus lo strato esterno anticlinale, secondo la classica organizzazione dell'apice vegetativo",
+      "La tunica è lo strato esterno con divisioni anticlinali (accrescimento in superficie), il corpus la porzione interna che si divide in più piani",
+      "Tunica e corpus sono due nomi per lo stesso strato di cellule epidermiche mature"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tunica è lo strato o gli strati esterni dell'apice meristematico, con divisioni prevalentemente anticlinali (perpendicolari alla superficie), per l'accrescimento in superficie; il corpus è la porzione interna, con divisioni in piani diversi, per l'accrescimento in volume.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-gemme-002",
+    "topic": "biologia-vegetale",
+    "question": "Come si distinguono le gemme in base al germoglio che originano?",
+    "suggestion": "Alcune danno solo rami, alcune solo fiori, alcune entrambi.",
+    "options": [
+      "In gemme vegetative (rami), gemme fiorali (fiori) e gemme miste (entrambi)",
+      "In gemme terminali, ascellari e avventizie, secondo il germoglio prodotto",
+      "In gemme di tunica, di corpus e di procambio, secondo l'origine meristematica"
+    ],
+    "correctIndex": 0,
+    "explanation": "In base al germoglio che originano, le gemme si distinguono in vegetative (solo rami con foglie), fiorali (solo fiori) e miste (sia parte vegetativa sia fiorale). In base alla posizione si distinguono invece in terminali (apicali) e ascellari (all'ascella di una foglia).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-perule-003",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolgono le perule e i tegumenti che avvolgono la gemma?",
+    "suggestion": "Sono foglie modificate, spesso indurite o resinose, che proteggono le strutture interne.",
+    "options": [
+      "Producono i gameti maschili durante la riproduzione sessuata e successivamente li disperdono grazie all'azione del vento",
+      "Sono foglie modificate protettive che avvolgono le strutture meristematiche, specie nel riposo vegetativo",
+      "Conducono la linfa grezza verso il primordio fogliare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le perule e i tegumenti sono foglie modificate, spesso indurite o rivestite di resine o peli, che avvolgono e proteggono l'apice meristematico e i primordi interni della gemma dagli agenti esterni, in particolare durante il riposo vegetativo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-eustele-004",
+    "topic": "biologia-vegetale",
+    "question": "Come sono disposti i fasci conduttori nell'eustele di dicotiledoni e gimnosperme?",
+    "suggestion": "In un anello ordinato alla periferia, che separa midollo centrale e corteccia esterna.",
+    "options": [
+      "Sparsi in modo irregolare in tutto il fusto, senza midollo e corteccia distinti del tessuto fondamentale del fusto",
+      "Raccolti tutti in un unico fascio centrale privo di floema",
+      "In un unico cerchio ordinato alla periferia, con midollo centrale, corteccia esterna e raggi midollari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'eustele (dicotiledoni e gimnosperme) i fasci conduttori sono disposti in un unico cerchio ordinato alla periferia, delimitando un midollo centrale e una corteccia esterna, connessi dai raggi midollari. I fasci sono collaterali aperti (con procambio residuo tra xilema e floema).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.39"
+  },
+  {
+    "id": "bvg-fus-atactostele-005",
+    "topic": "biologia-vegetale",
+    "question": "Perché le monocotiledoni, con struttura atactostelica, non compiono di norma accrescimento secondario in spessore?",
+    "suggestion": "I loro fasci conduttori sono chiusi: manca il tessuto meristematico residuo tra xilema e floema.",
+    "options": [
+      "Perché i fasci sono collaterali chiusi, privi di procambio residuo, senza riserva meristematica per la crescita secondaria",
+      "Perché i fasci sono disposti in un anello ordinato che impedisce l'espansione di nuovo tessuto conduttore in ogni direzione radiale",
+      "Perché sono prive di xilema e conducono l'acqua solo attraverso il floema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'atactostele (monocotiledoni) i fasci sono sparsi e collaterali chiusi: a maturità il procambio tra xilema e floema si esaurisce, senza lasciare tessuto meristematico residuo. Manca quindi la riserva per formare il cambio, per cui non c'è accrescimento secondario. I fasci sono spesso avvolti da guaina sclerenchimatica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.40"
+  },
+  {
+    "id": "bvg-fus-protoxilema-006",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue il protoxilema dal metaxilema nel fascio conduttore primario?",
+    "suggestion": "Uno si differenzia prima, con elementi stretti e ispessimenti che ne permettono l'allungamento.",
+    "options": [
+      "Il protoxilema si differenzia dopo, con vasi larghi e ispessimenti punteggiati; il metaxilema prima, con vasi stretti lungo tutto l'asse dell'organo ancora in accrescimento attivo",
+      "Il protoxilema si differenzia per primo, con elementi stretti e ispessimenti anulari/spiralati; il metaxilema dopo, con elementi più larghi e ispessimenti reticolati/punteggiati",
+      "Protoxilema e metaxilema sono identici, distinti solo dalla posizione nel midollo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il protoxilema si differenzia per primo, con elementi di calibro ridotto e ispessimenti anulari o spiralati che consentono l'allungamento dell'organo; il metaxilema si differenzia dopo, con elementi di calibro maggiore e ispessimenti reticolati o punteggiati.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.39-40"
+  },
+  {
+    "id": "bvg-fus-cambio-origine-007",
+    "topic": "biologia-vegetale",
+    "question": "Da quali due componenti si forma l'anello continuo del cambio cribro-vascolare?",
+    "suggestion": "Il procambio residuo dentro i fasci più una nuova fascia tra i fasci.",
+    "options": [
+      "Dal cambio fascicolare (procambio residuo nei fasci) e dal cambio interfascicolare (dai raggi midollari)",
+      "Dal solo protoderma esterno e dall'epidermide sottostante",
+      "Dal sughero esterno e dal felloderma interno del periderma, che si trova nella porzione più esterna del fusto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cambio cribro-vascolare nasce dall'unione del cambio fascicolare (il procambio residuo interno a ciascun fascio collaterale aperto) e del cambio interfascicolare (nuova fascia meristematica che si differenzia dai raggi midollari), formando un anello meristematico continuo attorno al cilindro centrale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.41"
+  },
+  {
+    "id": "bvg-fus-cambio-produzione-008",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa produce il cambio cribro-vascolare verso l'interno e verso l'esterno del fusto?",
+    "suggestion": "Legno da una parte, floema dall'altra, con netta prevalenza del primo.",
+    "options": [
+      "Xilema secondario verso l'esterno e floema secondario verso l'interno, in parti uguali e in quantità perfettamente uguali",
+      "Sughero verso l'interno e felloderma verso l'esterno",
+      "Xilema secondario (legno) verso l'interno e floema secondario verso l'esterno, con prevalenza dello xilema"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cambio cribro-vascolare produce xilema secondario (il legno) verso l'interno e floema secondario verso l'esterno, con netta prevalenza quantitativa della produzione xilematica. Ciò determina l'accrescimento in spessore del fusto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.41"
+  },
+  {
+    "id": "bvg-fus-iniziali-009",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa originano le iniziali fusiformi e le iniziali dei raggi del cambio?",
+    "suggestion": "Le une danno il sistema di conduzione verticale, le altre i raggi orizzontali.",
+    "options": [
+      "Le iniziali fusiformi danno il sistema assiale (xilema e floema verticali), le iniziali dei raggi il sistema radiale (raggi parenchimatici)",
+      "Le iniziali fusiformi danno i raggi orizzontali, le iniziali dei raggi il sistema verticale dell'intero sistema di conduzione dell'organo secondario verticale e orizzontale",
+      "Entrambe originano solo l'epidermide e il sughero di rivestimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le iniziali fusiformi (allungate secondo l'asse) originano il sistema di conduzione assiale (xilema e floema secondari verticali); le iniziali dei raggi (corte, isodiametriche) originano i raggi parenchimatici, il sistema radiale che collega centro e periferia del fusto.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.41"
+  },
+  {
+    "id": "bvg-fus-fill-periderma-010",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il meristema secondario che sostituisce l'epidermide producendo sughero verso l'esterno e felloderma verso l'interno è il cambio del sughero, o ___.",
+    "answers": [
+      [
+        "fellogeno",
+        "cambio subero-fellodermico"
+      ]
+    ],
+    "suggestion": "Il suo nome scientifico deriva dal greco 'phellos' (sughero).",
+    "explanation": "Il fellogeno (cambio subero-fellodermico) è il meristema secondario che produce sughero (fellema) verso l'esterno e felloderma verso l'interno, sostituendo l'epidermide che si lacera con l'accrescimento in spessore. Sughero + fellogeno + felloderma formano il periderma.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.42"
+  },
+  {
+    "id": "bvg-fus-lenticelle-011",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione delle lenticelle nel periderma del fusto?",
+    "suggestion": "Sostituiscono funzionalmente gli stomi, ormai assenti sul rivestimento suberificato.",
+    "options": [
+      "Producono la resina protettiva dei canali resiniferi delle gimnosperme accumulata nel legno secondario",
+      "Consentono gli scambi gassosi attraverso il periderma impermeabile, sostituendo gli stomi",
+      "Conducono la linfa elaborata dal floema alla corteccia esterna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le lenticelle sono zone del periderma con cellule di sughero disposte in modo lasso e ampi spazi intercellulari, che consentono gli scambi gassosi tra i tessuti interni vivi e l'atmosfera, sostituendo funzionalmente gli stomi dell'epidermide ormai assente.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.42"
+  },
+  {
+    "id": "bvg-fus-alburno-duramen-012",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue l'alburno dal duramen nello xilema secondario?",
+    "suggestion": "Uno è la parte esterna giovane ancora conduttrice, l'altro la parte interna vecchia e otturata.",
+    "options": [
+      "L'alburno è la parte interna antica e otturata, il duramen la parte esterna giovane e conduttrice dello xilema secondario dell'intero albero ancora pienamente funzionale alla conduzione",
+      "Alburno e duramen sono due nomi per il floema secondario attivo",
+      "L'alburno è la parte esterna giovane ancora attiva nella conduzione, il duramen la parte interna antica, otturata e impregnata di tannini/resine"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'alburno è la porzione più esterna e giovane dello xilema secondario, ancora attiva nella conduzione della linfa grezza; il duramen (o massello) è la parte più interna e antica, non più conduttrice, con elementi otturati e impregnati di tannini, resine o gomme che ne aumentano durezza e durevolezza.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.43"
+  },
+  {
+    "id": "bvg-fus-omoxilo-fibrotracheidi-013",
+    "topic": "biologia-vegetale",
+    "question": "Da quali elementi è formato principalmente il legno omoxilo delle gimnosperme?",
+    "suggestion": "Un solo tipo cellulare, dotato di punteggiature areolate, più raggi a una sola fila di cellule.",
+    "options": [
+      "Da trachee, fibre e raggi pluriseriati, come nelle dicotiledoni",
+      "Quasi esclusivamente da fibrotracheidi con punteggiature areolate e da raggi midollari uniseriati",
+      "Da soli tubi cribrosi e cellule compagne, senza elementi lignificati né alcun elemento lignificato di sostegno meccanico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il legno omoxilo delle gimnosperme è formato quasi esclusivamente da fibrotracheidi (con punteggiature areolate, dotate di toro-valvola) e raggi midollari uniseriati (una sola fila di cellule); presenta spesso canali resiniferi. Il legno eteroxilo (dicotiledoni) ha invece trachee, tracheidi, fibre e raggi pluriseriati.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.41-42"
+  },
+  {
+    "id": "bvg-fus-toro-014",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione del toro nelle punteggiature areolate delle gimnosperme?",
+    "suggestion": "È un ispessimento centrale mobile che agisce come una valvola per il flusso dei liquidi.",
+    "options": [
+      "Produce la resina che protegge il legno dalle infezioni fungine e dagli attacchi degli insetti xilofagi del legno",
+      "Agisce come valvola, spostandosi per occludere l'apertura in caso di eccessiva pressione o embolia",
+      "Fissa il carbonio della CO2 all'interno del vaso conduttore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il toro è l'ispessimento centrale della membrana della punteggiatura areolata: può spostarsi lateralmente per occludere l'apertura in risposta a variazioni di pressione o embolia, agendo come una valvola che regola il flusso dei liquidi tra le cellule.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.42"
+  },
+  {
+    "id": "bvg-fus-dendrocronologia-015",
+    "topic": "biologia-vegetale",
+    "question": "Perché le cerchie annuali del legno permettono la dendrocronologia?",
+    "suggestion": "La larghezza di ogni anello riflette le condizioni climatiche dell'anno in cui si è formato.",
+    "options": [
+      "Perché ogni anello corrisponde a un anno e la sua larghezza riflette le condizioni climatiche di quell'anno",
+      "Perché gli anelli contano il numero di foglie prodotte dalla pianta ogni stagione nel corso di ogni singola stagione vegetativa",
+      "Perché ogni anello registra il numero di fiori e frutti prodotti dall'albero"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ogni cerchia annuale corrisponde al legno prodotto in un anno; la sua larghezza dipende dalle condizioni ambientali (disponibilità idrica, temperatura) di quell'anno. La dendrocronologia misura la larghezza degli anelli, anche su legni antichi o fossili, per ricostruire serie climatiche estese nel tempo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.43"
+  }
+]

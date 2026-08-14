@@ -1,0 +1,229 @@
+[
+  {
+    "id": "bvg-rad-caliptra-001",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolgono le mucillagini liberate dalle cellule della cuffia (caliptra) radicale?",
+    "suggestion": "Riducono l'attrito tra l'apice e le particelle del terreno mentre la radice avanza.",
+    "options": [
+      "Attenuano l'attrito tra i tessuti radicali e le particelle del suolo, facilitando la progressione della radice",
+      "Fissano l'azoto atmosferico rendendolo disponibile alla pianta",
+      "Percepiscono la direzione della gravità grazie alla loro sedimentazione per effetto della sola forza di gravità terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cuffia (caliptra) protegge l'apice radicale; le sue cellule si disfano per frizione e per morte cellulare programmata, liberando mucillagini idrofile che attenuano l'attrito con le particelle del terreno, facilitando la penetrazione della radice.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.45"
+  },
+  {
+    "id": "bvg-rad-gravitropismo-002",
+    "topic": "biologia-vegetale",
+    "question": "Come percepisce la radice la direzione della gravità nel gravitropismo?",
+    "suggestion": "Tramite granuli di amido che sedimentano nelle cellule dell'apice.",
+    "options": [
+      "Tramite i peli radicali, che si orientano verso il basso seguendo l'acqua durante la loro infiltrazione nel terreno",
+      "Tramite gli statoliti, granuli di amido la cui sedimentazione segnala la direzione della gravità",
+      "Tramite la banda del Caspary, che blocca l'acqua sul lato inferiore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il gravitropismo si basa sugli statoliti, granuli di amido contenuti in cellule dell'apice radicale: la loro sedimentazione per effetto della gravità è il segnale che orienta la crescita della radice verso il centro della Terra.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.45"
+  },
+  {
+    "id": "bvg-rad-centro-quiescente-003",
+    "topic": "biologia-vegetale",
+    "question": "Qual è il ruolo del centro quiescente dell'apice radicale?",
+    "suggestion": "Appare inattivo, ma è una riserva di cellule che si attiva se il meristema è danneggiato.",
+    "options": [
+      "Produce continuamente statoliti per il gravitropismo della radice continuamente durante tutta la crescita",
+      "È il tessuto che assorbe attivamente acqua e sali dal terreno",
+      "È una riserva di cellule mitoticamente inattive che rigenera il meristema se danneggiato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il centro quiescente è un gruppo di cellule apparentemente inattive sotto l'apice radicale; funge da riserva che si attiva in caso di danno al meristema, rigenerandolo, e contribuisce all'organizzazione generale della radice.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.45"
+  },
+  {
+    "id": "bvg-rad-zone-004",
+    "topic": "biologia-vegetale",
+    "question": "In quali tre zone si succede l'accrescimento della radice, dall'apice verso la parte matura?",
+    "suggestion": "Prima le cellule si dividono, poi si allungano, infine si differenziano.",
+    "options": [
+      "Zona di divisione, zona di distensione e zona di maturazione",
+      "Zona pilifera, zona suberificata e zona lignificata lungo l'asse della radice",
+      "Cuffia, centro quiescente e cilindro centrale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dall'apice si susseguono: la zona di divisione cellulare (meristema apicale, mitosi), la zona di distensione (le cellule si allungano, causando gran parte dell'allungamento) e la zona di maturazione (differenziamento, con peli radicali ed endoderma maturo, sede dell'assorbimento).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.45-46"
+  },
+  {
+    "id": "bvg-rad-caspary-vie-005",
+    "topic": "biologia-vegetale",
+    "question": "Come la banda del Caspary dell'endoderma controlla l'ingresso di acqua e sali nel cilindro centrale?",
+    "suggestion": "Blocca la via apoplastica, obbligando il flusso ad attraversare le membrane.",
+    "options": [
+      "Blocca la via apoplastica, obbligando acqua e soluti a passare attraverso il simplasto (le membrane cellulari)",
+      "Blocca la via simplastica, costringendo l'acqua a scorrere solo nelle pareti cellulari senza mai attraversare le membrane cellulari",
+      "Aumenta la permeabilità dell'endoderma, lasciando passare liberamente qualsiasi soluto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La banda del Caspary (ispessimento suberificato sulle pareti radiali/trasversali dell'endoderma) blocca la via apoplastica, obbligando acqua e soluti ad attraversare la membrana plasmatica e quindi il simplasto: così l'endoderma esercita un controllo selettivo sull'ingresso nel cilindro centrale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.46"
+  },
+  {
+    "id": "bvg-rad-periciclo-006",
+    "topic": "biologia-vegetale",
+    "question": "Perché il periciclo è definito 'strato rizogeno'?",
+    "suggestion": "È il tessuto interno da cui originano le radici laterali.",
+    "options": [
+      "Perché produce i peli radicali della zona pilifera",
+      "Perché è il tessuto da cui si originano le radici laterali",
+      "Perché sintetizza la suberina della banda del Caspary sulle pareti delle cellule dell'endoderma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il periciclo, strato di cellule interno all'endoderma (derivato dal procambio), è lo strato rizogeno: le sue cellule riprendono l'attività mitotica e originano le radici laterali, che hanno quindi origine profonda (endogena) e attraversano corteccia e rizoderma per emergere.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.46-47"
+  },
+  {
+    "id": "bvg-rad-actinostele-007",
+    "topic": "biologia-vegetale",
+    "question": "Come sono disposti xilema e floema primari nella struttura actinostelica della radice?",
+    "suggestion": "In gruppi separati e alternati (arche), disposti a raggiera, non affiancati come nel fusto.",
+    "options": [
+      "In fasci in cui xilema e floema sono sempre affiancati, come nel fusto all'interno di uno stesso fascio conduttore",
+      "In gruppi separati e alternati (arche xilematiche e floematiche) disposti radialmente",
+      "In un unico cilindro pieno di xilema, privo di floema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella radice i tessuti conduttori seguono la struttura actinostelica (dal greco 'raggio'): xilema e floema sono in gruppi separati e alternati, detti arche xilematiche e floematiche, disposti radialmente. Nel fusto, invece, xilema e floema sono affiancati nello stesso fascio.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-monocot-dicot-008",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa la struttura primaria della radice di monocotiledone differisce da quella di dicotiledone?",
+    "suggestion": "Cambiano il numero di arche, la presenza del midollo e la possibilità di crescita secondaria.",
+    "options": [
+      "La monocotiledone ha poche arche (fino a 7), midollo assente e sviluppa struttura secondaria grazie all'attività dei meristemi cambiali",
+      "La monocotiledone ha molte arche (10 o più), midollo centrale e conserva la sola struttura primaria per tutta la vita",
+      "Monocotiledoni e dicotiledoni hanno struttura radicale identica sotto ogni aspetto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La radice di monocotiledone ha numerose arche (10 o più), un midollo centrale e conserva la sola struttura primaria per tutta la vita; quella di dicotiledone ha poche arche (fino a ~7), midollo raramente presente e può sviluppare struttura secondaria tramite i meristemi cambiali.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-secondaria-midollo-009",
+    "topic": "biologia-vegetale",
+    "question": "Quale differenza si osserva tra la struttura secondaria della radice e quella del fusto?",
+    "suggestion": "Uno dei due, in struttura secondaria, non presenta midollo centrale.",
+    "options": [
+      "La radice in struttura secondaria non presenta midollo, a differenza del fusto",
+      "La radice in struttura secondaria ha midollo centrale, il fusto no al contrario di quanto atteso",
+      "Nessuna delle due sviluppa xilema secondario"
+    ],
+    "correctIndex": 0,
+    "explanation": "A differenza del fusto, la radice in struttura secondaria non presenta il midollo. Il cambio cribrovascolare si attiva a partire dalle arche floematiche formando un anello continuo, produce xilema secondario verso l'interno e floema verso l'esterno, con la prima cerchia annuale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.48"
+  },
+  {
+    "id": "bvg-rad-fittone-fascicolato-010",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue un apparato radicale fittonante da uno fascicolato?",
+    "suggestion": "Uno ha una radice principale dominante, l'altro molte radici simili senza dominante.",
+    "options": [
+      "Il fittonante ha molte radici simili senza dominante (tipico monocotiledoni), il fascicolato una radice principale dominante e ben sviluppata nel terreno",
+      "Il fittonante ha una radice principale dominante (dicotiledoni/gimnosperme), il fascicolato molte radici simili avventizie (monocotiledoni)",
+      "Fittonante e fascicolato indicano lo stesso apparato radicale a diverse età"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'apparato fittonante ha una radice principale (fittone) dominante che penetra in profondità, tipico di gimnosperme e molte dicotiledoni (es. carota); il fascicolato, tipico delle monocotiledoni, ha molte radici simili (spesso avventizie) senza una dominante, che esplorano gli strati superficiali.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.49"
+  },
+  {
+    "id": "bvg-rad-pneumatofori-011",
+    "topic": "biologia-vegetale",
+    "question": "A quale adattamento rispondono i pneumatofori delle mangrovie e del cipresso calvo?",
+    "suggestion": "Vivono in suoli saturi d'acqua e poveri di ossigeno: queste radici crescono verso l'alto.",
+    "options": [
+      "All'ancoraggio su substrati rocciosi verticali e instabili",
+      "Alla carenza di ossigeno di suoli acquitrinosi: emergono verso l'alto per ossigenare i tessuti sommersi",
+      "All'accumulo di grandi riserve di amido per la stagione fredda durante i rigidi mesi della stagione fredda invernale"
+    ],
+    "correctIndex": 1,
+    "explanation": "I pneumatofori sono radici modificate delle piante di ambienti acquitrinosi (mangrovie, Taxodium distichum): crescono verticalmente verso l'alto emergendo dall'acqua o dal fango per garantire lo scambio gassoso e l'ossigenazione dei tessuti radicali sommersi in suoli poveri di ossigeno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.49"
+  },
+  {
+    "id": "bvg-rad-fill-austori-012",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Le radici aeree delle piante parassite come Cuscuta e Orobanche si modificano in organi che penetrano nei tessuti dell'ospite, detti ___.",
+    "answers": [
+      [
+        "austori",
+        "austorio",
+        "austorî"
+      ]
+    ],
+    "suggestion": "Sono gli stessi organi che i funghi parassiti usano per attingere all'ospite.",
+    "explanation": "Gli austori sono organi specializzati nella penetrazione dei tessuti della pianta ospite, attraverso cui il parassita (es. Cuscuta, Orobanche) ne sottrae acqua e sostanze nutritive. Nelle piante derivano da radici aeree modificate.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.49"
+  },
+  {
+    "id": "bvg-rad-avventizie-013",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza le radici avventizie, come quelle del mais o dell'edera?",
+    "suggestion": "Non originano dal periciclo di un'altra radice, ma da fusti o foglie.",
+    "options": [
+      "Originano da fusti o foglie, in posizione anomala rispetto alla tipica origine dal periciclo",
+      "Originano sempre e solo dal periciclo di una radice principale già formata, e mai da fusti o da foglie",
+      "Sono radici prive di qualsiasi funzione di ancoraggio o assorbimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le radici avventizie si sviluppano in posizione anomala, da fusti o foglie anziché dal periciclo di un'altra radice: nel mais (Zea mays) alla base del fusto per l'ancoraggio, nell'edera (Hedera helix) per l'adesione al substrato. Le radici a trampolo del Ficus sono avventizie di sostegno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.49-50"
+  },
+  {
+    "id": "bvg-rad-noduli-014",
+    "topic": "biologia-vegetale",
+    "question": "Quale vantaggio reciproco offre la simbiosi tra Fabaceae e batteri azotofissatori nei noduli radicali?",
+    "suggestion": "Il batterio fissa l'azoto per la pianta; la pianta cede al batterio prodotti della fotosintesi.",
+    "options": [
+      "La pianta riceve zuccheri dal batterio e il batterio riceve azoto atmosferico già fissato dalla pianta fissato direttamente dall'aria atmosferica",
+      "La pianta riceve composti azotati assimilabili dal batterio e il batterio riceve nutrienti fotosintetici dalla pianta",
+      "Entrambi gli organismi ricevono solo acqua, senza scambio di nutrienti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei noduli radicali i batteri azotofissatori (es. Bradyrhizobium con le Fabaceae, Frankia con alcune arboree) fissano l'azoto atmosferico in composti assimilabili per la pianta; in cambio ricevono dalla pianta sostanze nutritive derivate dalla fotosintesi. È una simbiosi a vantaggio reciproco.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.50"
+  },
+  {
+    "id": "bvg-rad-colletto-015",
+    "topic": "biologia-vegetale",
+    "question": "Perché il colletto è uno dei punti anatomicamente più delicati della pianta?",
+    "suggestion": "È la zona in cui la disposizione dei tessuti conduttori deve riorganizzarsi passando dalla radice al fusto.",
+    "options": [
+      "Perché è la zona di massima produzione di mucillagini della cuffia radicale che favorisce la penetrazione nel suolo profondo",
+      "Perché vi si concentrano tutti i peli radicali assorbenti della pianta",
+      "Perché è la zona di transizione radice-fusto, dove i tessuti conduttori riorganizzano la loro disposizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il colletto è la zona di passaggio tra radice e fusto: qui i tessuti conduttori devono riorganizzare la disposizione (dall'actinostele con arche alternate della radice ai fasci con xilema e floema affiancati del fusto), il che ne fa un punto anatomicamente delicato.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.48-49"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "bvg-fog-funzioni-001",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'anatomia della foglia è descritta come un compromesso tra due esigenze opposte?",
+    "suggestion": "Deve captare luce e CO2 per la fotosintesi, ma anche limitare la perdita d'acqua.",
+    "options": [
+      "Tra captare luce e CO2 per la fotosintesi e limitare la perdita d'acqua per traspirazione",
+      "Tra assorbire acqua dal suolo e ancorare la pianta al terreno",
+      "Tra accumulare amido di riserva e produrre semi per la riproduzione durante la sola stagione riproduttiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "La foglia svolge fotosintesi e traspirazione: la sua struttura è un compromesso tra la necessità di captare luce e CO2 (che richiede superfici ampie e aperture) e quella di limitare la perdita d'acqua per traspirazione (che richiede impermeabilizzazione e stomi regolabili).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-sviluppo-definito-002",
+    "topic": "biologia-vegetale",
+    "question": "Quale caratteristica distingue nettamente lo sviluppo della foglia da quello del fusto?",
+    "suggestion": "La foglia ha crescita limitata nel tempo e non compie accrescimento secondario.",
+    "options": [
+      "La foglia ha sviluppo indefinito e struttura secondaria, come il fusto già del tutto maturo",
+      "La foglia ha sviluppo definito (limitato) ed è priva di struttura secondaria",
+      "La foglia è priva di tessuti conduttori, presenti solo nel fusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo sviluppo della foglia è definito (limitato nel tempo) e privo di struttura secondaria: i suoi fasci sono cribro-vascolari chiusi (senza cambio). Il fusto, invece, ha accrescimento indefinito grazie ai meristemi secondari.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-mesofillo-dicot-003",
+    "topic": "biologia-vegetale",
+    "question": "Come è differenziato il mesofillo della foglia di dicotiledone?",
+    "suggestion": "In un tessuto superiore a cellule allungate e uno inferiore con ampi spazi per i gas.",
+    "options": [
+      "In tessuto a palizzata (superiore, cellule allungate ricche di cloroplasti) e tessuto lacunoso (inferiore, per gli scambi gassosi)",
+      "In un mesofillo omogeneo, privo di distinzione tra palizzata e lacunoso, uniforme lungo tutto lo spessore della lamina fogliare senza alcuna differenza tra pagina superiore e inferiore",
+      "In due epidermidi identiche prive di parenchima clorofilliano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il mesofillo della dicotiledone è differenziato in tessuto a palizzata (superiore, cellule allungate perpendicolari e ricche di cloroplasti, per la fotosintesi) e tessuto lacunoso (inferiore, cellule irregolari con ampi spazi intercellulari, per gli scambi gassosi). La foglia è dorso-ventrale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.52-53"
+  },
+  {
+    "id": "bvg-fog-dicot-monocot-004",
+    "topic": "biologia-vegetale",
+    "question": "Quali caratteri distinguono la foglia di monocotiledone da quella di dicotiledone?",
+    "suggestion": "Confronta nervatura, mesofillo e distribuzione degli stomi.",
+    "options": [
+      "Nervatura reticolata, mesofillo differenziato e stomi solo inferiori, come nelle dicotiledoni",
+      "Assenza di nervature e di stomi, con mesofillo ridotto a un solo strato",
+      "Nervatura parallela, mesofillo omogeneo e stomi su entrambe le pagine"
+    ],
+    "correctIndex": 2,
+    "explanation": "La foglia di monocotiledone ha nervatura parallelinervia, simmetria bilaterale, mesofillo omogeneo (senza palizzata/lacunoso) e stomi su entrambe le pagine. La dicotiledone ha nervatura retinervia, mesofillo differenziato e stomi soprattutto inferiori.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-bulliformi-005",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolgono le cellule bulliformi di alcune graminacee in condizioni di carenza idrica?",
+    "suggestion": "Cambiando turgore, provocano l'arrotolamento della foglia riducendo la superficie esposta.",
+    "options": [
+      "Aprono gli stomi per aumentare la traspirazione e raffreddare la foglia durante le ore più calde del giorno",
+      "Inducono l'arrotolamento della foglia, riducendo la superficie esposta alla traspirazione",
+      "Accumulano acqua di riserva come nelle foglie succulente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le cellule bulliformi sono grandi cellule epidermiche turgescenti che, in carenza idrica, inducono l'arrotolamento della foglia lungo l'asse longitudinale: un meccanismo fisico reversibile che riduce la superficie esposta alla traspirazione, limitando la perdita d'acqua.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-kranz-006",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza l'anatomia di Kranz delle foglie C4?",
+    "suggestion": "Due tipi cellulari disposti a corona concentrica attorno ai fasci conduttori, con cloroplasti diversi.",
+    "options": [
+      "Un mesofillo del tutto privo di cloroplasti, con la fotosintesi ristretta all'epidermide superiore e inferiore della lamina fogliare stessa e ai soli tessuti di rivestimento tegumentali",
+      "La disposizione concentrica di cellule del mesofillo (cloroplasti granali) e cellule della guaina del fascio (cloroplasti agranali) attorno ai fasci",
+      "L'assenza di fasci conduttori, sostituiti da canali resiniferi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'anatomia di Kranz (dal tedesco 'corona') delle piante C4 prevede due tipi cellulari disposti concentricamente attorno ai fasci: le cellule del mesofillo (cloroplasti granali, amido scarso) e le cellule della guaina del fascio (cloroplasti agranali, amido abbondante). Riflette la ripartizione del ciclo C4 tra i due comparti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-gimnosperma-007",
+    "topic": "biologia-vegetale",
+    "question": "Quali adattamenti alla bassa traspirazione presenta la foglia aghiforme delle gimnosperme?",
+    "suggestion": "Cuticola spessa, epidermide a più strati e stomi incassati sotto il piano epidermico.",
+    "options": [
+      "Epidermide sottile con numerosi stomi sporgenti e cuticola assente",
+      "Mesofillo differenziato in palizzata e lacunoso, con ampi spazi aeriferi e ampie lacune piene d'aria per gli scambi gassosi",
+      "Epidermide pluristratificata e molto cutinizzata, con stomi infossati protetti da peli e cere"
+    ],
+    "correctIndex": 2,
+    "explanation": "La foglia aghiforme delle gimnosperme ha epidermide pluristratificata e molto cutinizzata, stomi infossati protetti da peli e cere, mesofillo compatto e ipoderma meccanico sotto l'epidermide: tutti adattamenti a bassa traspirazione. Presenta inoltre canali resiniferi e parenchima di trasfusione attorno alla nervatura.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.54"
+  },
+  {
+    "id": "bvg-fog-idrofita-008",
+    "topic": "biologia-vegetale",
+    "question": "Perché nelle foglie natanti delle piante acquatiche (idrofite) gli stomi si trovano sulla pagina superiore?",
+    "suggestion": "Solo una delle due pagine resta a contatto con l'aria.",
+    "options": [
+      "Perché è la pagina superiore a restare a contatto con l'atmosfera, a differenza delle piante terrestri",
+      "Perché la pagina inferiore è più esposta alla luce solare diretta",
+      "Perché la pagina superiore è ricoperta da una spessa cuticola impermeabile e da uno spesso strato di cere idrorepellenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle idrofite a foglie natanti gli stomi sono sulla pagina superiore perché è quella a contatto con l'atmosfera (la inferiore è immersa nell'acqua), all'opposto delle piante terrestri. Le foglie hanno inoltre parenchima aerifero per il galleggiamento e la diffusione dei gas.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.54"
+  },
+  {
+    "id": "bvg-fog-eterofillia-009",
+    "topic": "biologia-vegetale",
+    "question": "A cosa è imputabile l'eterofillia (foglie diverse sullo stesso individuo) osservata in Ranunculus aquatilis?",
+    "suggestion": "Dipende dal diverso grado di turgore delle cellule epidermiche nelle foglie aeree e sommerse.",
+    "options": [
+      "A mutazioni genetiche diverse tra le foglie della stessa pianta",
+      "Al diverso grado di turgore delle cellule epidermiche: alto nelle sommerse (filiformi), basso nelle aeree",
+      "Alla presenza di cloroplasti solo nelle foglie aeree e non in quelle sommerse e diversamente esposte all'intensità della luce"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'eterofillia di Ranunculus aquatilis (foglie aeree, parzialmente e completamente sommerse) è imputabile al diverso turgore delle cellule epidermiche: le foglie sommerse, a turgore elevato, si allungano diventando filiformi; le aeree, a basso turgore, restano piccole ma con mesofillo più spesso.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.54"
+  },
+  {
+    "id": "bvg-fog-abscissione-010",
+    "topic": "biologia-vegetale",
+    "question": "Come avviene il distacco controllato della foglia (caduta) grazie allo strato di abscissione?",
+    "suggestion": "Uno strato di sughero, prodotto su induzione ormonale, occlude le connessioni con il fusto.",
+    "options": [
+      "Uno strato di sughero, indotto da ormoni, occlude le connessioni vascolari e parenchimatiche, staccando la foglia",
+      "Le cellule di guardia degli stomi si chiudono definitivamente, seccando la foglia fino alla completa disidratazione di tutti i tessuti",
+      "Il gelo rompe accidentalmente il picciolo senza alcun controllo biologico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La caduta della foglia è regolata dallo strato di abscissione, uno strato di sughero suberificato prodotto su induzione ormonale che occlude le connessioni vascolari e parenchimatiche tra foglia e cormo, determinando un distacco controllato (non una rottura accidentale).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-fillotassi-011",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza la fillotassi opposta decussata?",
+    "suggestion": "Due foglie per nodo, ma ogni coppia è ruotata di 90° rispetto alla successiva.",
+    "options": [
+      "Una sola foglia per nodo, alternata su lati opposti dell'asse",
+      "Due foglie opposte per nodo, con ogni coppia ruotata di 90° rispetto a quella sopra e sotto",
+      "Più di due foglie per nodo, disposte a raggiera attorno al fusto in tipica disposizione verticillata a raggiera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella fillotassi opposta decussata ci sono due foglie per nodo (opposte), ma ogni coppia è ruotata di 90° rispetto alla coppia sovra- e sottostante, ottimizzando l'esposizione alla luce. La fillotassi alterna ha una foglia per nodo, la verticillata più di due.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-mosaico-012",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa si intende per 'mosaico fogliare'?",
+    "suggestion": "È la disposizione delle foglie che minimizza la reciproca sovrapposizione, vista dall'alto.",
+    "options": [
+      "L'insieme ordinato delle foglie disposte in modo da minimizzare la reciproca ombreggiatura",
+      "La rete di nervature reticolate all'interno di una singola foglia ormai matura e pienamente sviluppata",
+      "L'alternanza di cellule granali e agranali nell'anatomia di Kranz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il mosaico fogliare è la disposizione ordinata delle foglie, osservabile dall'alto lungo l'asse del fusto, che minimizza la reciproca sovrapposizione e ombreggiatura per massimizzare la cattura della luce. È evidente nelle piante a rosetta o rampicanti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-fill-rachide-013",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "In una foglia composta, l'asse principale che porta le singole foglioline è detto ___.",
+    "answers": [
+      [
+        "rachide",
+        "rachidi"
+      ]
+    ],
+    "suggestion": "È l'equivalente, nella foglia, dell'asse su cui si inseriscono le foglioline (pennate).",
+    "explanation": "La rachide è l'asse principale della foglia composta, su cui si inseriscono le foglioline. La foglia composta si riconosce dalla presenza di una gemma ascellare (non una foglia) alla base del picciolo e dalle foglioline disposte su un unico piano.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-semplice-composta-014",
+    "topic": "biologia-vegetale",
+    "question": "Quale criterio permette di distinguere una foglia composta da un ramo con foglie semplici?",
+    "suggestion": "Cerca la gemma ascellare: alla base di una foglia composta c'è una gemma, non un'altra foglia.",
+    "options": [
+      "Alla base di una foglia composta si trova una gemma ascellare (non una foglia), e le foglioline stanno su un unico piano",
+      "La foglia composta ha sempre più gemme ascellari, una per ogni fogliolina",
+      "La foglia composta è priva di picciolo, mentre le foglie semplici lo hanno sempre, contrariamente a quanto avviene di norma nelle foglie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una foglia composta si distingue da un ramo con foglie semplici perché alla base del suo picciolo si trova una gemma ascellare (al massimo stipole), non un'altra foglia; inoltre tutte le foglioline giacciono su un unico piano. Ogni vera foglia porta sempre alla propria ascella una gemma.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-spine-cactus-015",
+    "topic": "biologia-vegetale",
+    "question": "Nei cactus, in che cosa sono trasformate le foglie e chi svolge la fotosintesi?",
+    "suggestion": "Le foglie diventano spine difensive; il verde è affidato a un altro organo.",
+    "options": [
+      "Le foglie sono trasformate in spine difensive e la fotosintesi è svolta dai fusti verdi e carnosi",
+      "Le foglie sono trasformate in cirri di sostegno e la fotosintesi è svolta dalle radici sotterranee e prive di clorofilla",
+      "Le foglie sono ingrossate in ascidi per catturare insetti e nutrirsi di azoto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei cactus le foglie sono modificate in spine con funzione difensiva (e di riduzione della traspirazione), mentre la fotosintesi è svolta prevalentemente dai fusti verdi e carnosi. È una foglia modificata, come cirri, brattee, stipole e squame.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.57"
+  },
+  {
+    "id": "bvg-fog-carnivore-016",
+    "topic": "biologia-vegetale",
+    "question": "Perché alcune piante hanno foglie modificate in trappole per insetti (es. Drosera, Nepenthes)?",
+    "suggestion": "Vivono in suoli poveri di nutrienti (ambienti umidi e torbosi) e integrano l'azoto catturando prede.",
+    "options": [
+      "Per aumentare la superficie fotosintetica in ambienti poco illuminati e poco illuminati del fitto sottobosco",
+      "Come adattamento a suoli poveri di nutrienti, integrando l'azoto tramite la cattura di prede",
+      "Per accumulare grandi riserve idriche negli ascidi durante la siccità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le foglie carnivore (tentacoli ghiandolari di Drosera, foglie vischiose di Pinguicola, ascidi a boccale di Nepenthes) sono un adattamento a suoli poveri di nutrienti tipici di ambienti umidi e torbosi: catturando e digerendo insetti, la pianta integra l'azoto e i nutrienti scarsi nel suolo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.57"
+  },
+  {
+    "id": "bvg-fog-stomi-disposizione-017",
+    "topic": "biologia-vegetale",
+    "question": "Come differisce la disposizione degli stomi tra dicotiledoni e monocotiledoni?",
+    "suggestion": "Casuale e sulla pagina inferiore in un gruppo; allineata lungo le nervature e su entrambe le pagine nell'altro.",
+    "options": [
+      "Nelle dicotiledoni gli stomi sono allineati lungo le nervature su entrambe le pagine, esattamente come accade anche in tutte le monocotiledoni erbacee e in tutte le altre piante a foglia stretta",
+      "In entrambe gli stomi sono assenti, sostituiti da lenticelle",
+      "Nelle dicotiledoni disposizione casuale e soprattutto sulla pagina inferiore; nelle monocotiledoni allineati lungo le nervature e su entrambe le pagine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negli stomi delle dicotiledoni la disposizione è casuale e concentrata sulla pagina inferiore; nelle monocotiledoni è ordinata, allineata lungo le nervature parallele, e gli stomi sono presenti su entrambe le pagine. Peli e tricomi attorno agli stomi creano un microclima umido che riduce la traspirazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.55"
+  }
+]

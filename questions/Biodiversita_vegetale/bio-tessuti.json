@@ -1,0 +1,333 @@
+[
+  {
+    "id": "bvg-tes-definizione-001",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue un vero tessuto da una colonia o da uno pseudotessuto?",
+    "suggestion": "Un tessuto è fatto di cellule differenziate da un'unica linea meristematica, con funzioni specializzate.",
+    "options": [
+      "Un tessuto è un insieme di cellule differenziate e specializzate, derivate da un meristema, con una funzione precisa",
+      "Un tessuto è un semplice aggregato di cellule identiche e autonome che restano unite dopo la divisione, senza alcuna reale differenziazione reciproca",
+      "Un tessuto è l'intreccio di due organismi diversi in simbiosi, come nei licheni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un tessuto è un insieme di cellule morfologicamente differenziate e specializzate per una funzione, derivate da un meristema. Le colonie (Gleocapsa, Volvox) sono cellule autonome simili senza differenziazione; gli pseudotessuti (miceli, licheni) sono intrecci non derivanti da un unico meristema.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.27"
+  },
+  {
+    "id": "bvg-tes-cormo-002",
+    "topic": "biologia-vegetale",
+    "question": "Perché le piante superiori sono dette cormofite?",
+    "suggestion": "Possiedono un corpo differenziato in organi, opposto al tallo indifferenziato.",
+    "options": [
+      "Perché hanno un tallo indifferenziato, come alghe e organismi inferiori e del tutto privi di veri organi differenziati",
+      "Perché possiedono un cormo, corpo differenziato in organi (radice, fusto, foglia, fiore, seme, frutto)",
+      "Perché sono prive di tessuti conduttori e si riproducono solo per spore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le cormofite hanno un cormo, un corpo complesso differenziato in organi (radice, fusto, foglia, fiore, seme, frutto), ciascuno formato da tessuti organizzati. Si distingue dal tallo, corpo non differenziato in organi tipico di alghe e organismi inferiori.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.27"
+  },
+  {
+    "id": "bvg-tes-meristemi-primari-003",
+    "topic": "biologia-vegetale",
+    "question": "Quali tre meristemi primari derivano dal meristema apicale e quali tessuti originano?",
+    "suggestion": "Uno dà l'epidermide, uno il tessuto fondamentale, uno i tessuti vascolari.",
+    "options": [
+      "Protoderma (epidermide), meristema fondamentale (parenchima/collenchima/sclerenchima) e procambio (xilema e floema primari)",
+      "Cambio vascolare, cambio del sughero e felloderma, che originano solo tessuti secondari soltanto durante l'accrescimento in spessore del fusto",
+      "Protoderma, sughero e periderma, che originano tutti i tessuti di rivestimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il meristema apicale genera tre meristemi primari: il protoderma (origina l'epidermide), il meristema fondamentale (parenchima, collenchima, sclerenchima) e il procambio (xilema e floema primari). Sono responsabili dell'accrescimento in lunghezza.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.28"
+  },
+  {
+    "id": "bvg-tes-meristemi-secondari-004",
+    "topic": "biologia-vegetale",
+    "question": "Quali tessuti produce il cambio subero-fellodermico (fellogeno)?",
+    "suggestion": "È il meristema secondario del rivestimento: produce sughero verso l'esterno e felloderma verso l'interno.",
+    "options": [
+      "Xilema e floema secondari, responsabili dell'accrescimento vascolare e in spessore dell'organo",
+      "L'epidermide e gli stomi del corpo primario della pianta",
+      "Il periderma, cioè sughero (verso l'esterno) e felloderma (verso l'interno)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cambio subero-fellodermico (fellogeno) produce il periderma: sughero verso l'esterno e felloderma verso l'interno. Il cambio cribro-vascolare produce invece xilema e floema secondari (accrescimento in spessore). Entrambi sono meristemi secondari, con attività dipleurica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.28"
+  },
+  {
+    "id": "bvg-tes-parenchima-totipotenza-005",
+    "topic": "biologia-vegetale",
+    "question": "Quale proprietà distingue il parenchima dalla maggior parte degli altri tessuti adulti?",
+    "suggestion": "Le sue cellule possono tornare a dividersi, cosa che gli altri tessuti definitivi non fanno.",
+    "options": [
+      "Conserva la capacità di de-differenziarsi e riacquisire potenzialità meristematiche",
+      "È l'unico tessuto formato da cellule morte a maturità",
+      "È l'unico tessuto privo di vacuolo e di spazi intercellulari fin dalle prime fasi del differenziamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il parenchima, a differenza degli altri tessuti definitivi, conserva la capacità di de-differenziarsi e riacquisire potenzialità meristematiche (totipotenza). Ha cellule ampie, a parete sottile poco lignificata, vacuolo sviluppato e ampi spazi intercellulari.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.27-29"
+  },
+  {
+    "id": "bvg-tes-aerenchima-006",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è l'aerenchima (parenchima aerifero) e in quali piante è tipico?",
+    "suggestion": "Ha ampi spazi pieni d'aria per la diffusione dei gas, utile in ambienti poveri di ossigeno.",
+    "options": [
+      "Un parenchima ricco di cloroplasti, sede della fotosintesi negli organi verdi",
+      "Un parenchima con ampie lacune piene d'aria, tipico delle piante acquatiche, che favorisce la diffusione dei gas",
+      "Un parenchima con cellule a parete lignificata, con funzione di sostegno meccanico e resistenza agli sforzi meccanici di tensione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'aerenchima è un parenchima aerifero con ampi spazi intercellulari pieni d'aria (lacune aerenchimatiche), che favorisce la diffusione dei gas ed è tipico delle piante acquatiche (es. Acorus). Le lacune si formano per digestione della lamella mediana o per morte cellulare programmata (in ipossia).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.29"
+  },
+  {
+    "id": "bvg-tes-stomi-007",
+    "topic": "biologia-vegetale",
+    "question": "Da quali cellule è delimitata la rima stomatica e quale spazio si trova al di sotto dello stoma?",
+    "suggestion": "Due cellule specializzate delimitano l'apertura; sotto c'è uno spazio comunicante con il parenchima.",
+    "options": [
+      "Da cellule compagne, con al di sotto la placca cribrosa perforata che regola il rilascio graduale della linfa elaborata",
+      "Da cellule di guardia, con al di sotto la camera sottostomatica comunicante con gli spazi intercellulari",
+      "Da tricoblasti, con al di sotto la banda del Caspary suberificata"
+    ],
+    "correctIndex": 1,
+    "explanation": "La rima stomatica è delimitata da due cellule di guardia (a rene o manubrio); al di sotto si trova la camera sottostomatica, in comunicazione con gli spazi intercellulari del parenchima, che facilita gli scambi gassosi tra atmosfera e tessuti interni.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.30"
+  },
+  {
+    "id": "bvg-tes-fill-caspary-008",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'ispessimento suberificato ad anello sulle pareti radiali e trasversali delle cellule endodermiche, che costituisce una barriera apoplastica, è detto banda del ___.",
+    "answers": [
+      [
+        "caspary",
+        "casparyano"
+      ]
+    ],
+    "suggestion": "Obbliga acqua e soluti ad attraversare la membrana (via simplastica) per entrare nel cilindro centrale.",
+    "explanation": "La banda del Caspary è un ispessimento impregnato di suberina che circonda le pareti radiali e trasversali delle cellule dell'endoderma: costituisce una barriera apoplastica che obbliga acqua e soluti a passare per il simplasto, regolando selettivamente l'ingresso nel cilindro centrale della radice.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.30"
+  },
+  {
+    "id": "bvg-tes-periderma-009",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono le lenticelle nel periderma?",
+    "suggestion": "Sono interruzioni del sughero impermeabile che permettono comunque gli scambi gassosi.",
+    "options": [
+      "Strutture a cellule lasse che interrompono il periderma consentendo gli scambi gassosi",
+      "Cristalli di ossalato di calcio che irrobustiscono il sughero impermeabile del rivestimento esterno del fusto",
+      "Peli epidermici che rivestono la superficie del periderma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le lenticelle sono strutture a cellule disposte in modo lasso che interrompono il periderma (rivestimento suberificato e impermeabile), consentendo gli scambi gassosi. Il periderma è formato da sughero (cellule morte suberificate) e felloderma.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.31"
+  },
+  {
+    "id": "bvg-tes-peli-radicali-010",
+    "topic": "biologia-vegetale",
+    "question": "Perché i peli radicali rappresentano l'unica porzione della superficie radicale non impermeabilizzata?",
+    "suggestion": "La loro funzione richiede il contatto diretto con l'acqua e i sali del suolo.",
+    "options": [
+      "Perché sono ricoperti da una spessa cuticola che li protegge dal disseccamento",
+      "Perché, non essendo cutinizzati, possono assorbire acqua e sali minerali dal suolo",
+      "Perché sono suberificati come la banda del Caspary, per bloccare l'acqua in eccesso"
+    ],
+    "correctIndex": 1,
+    "explanation": "I peli radicali (tricomi della zona pilifera, originati dai tricoblasti) non sono impermeabilizzati dalla cuticola: questa condizione è necessaria per l'assorbimento di acqua e sali minerali. L'apice radicale è invece protetto dalla cuffia rivestita di mucigel.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.31"
+  },
+  {
+    "id": "bvg-tes-xilema-floema-011",
+    "topic": "biologia-vegetale",
+    "question": "Quale differenza fondamentale distingue le cellule dello xilema da quelle del floema a maturità?",
+    "suggestion": "Uno conduce con cellule morte e lignificate, l'altro con cellule vive a parete cellulosica.",
+    "options": [
+      "Lo xilema è formato da cellule vive cellulosiche, il floema da cellule morte lignificate già a piena maturità",
+      "Xilema e floema sono entrambi formati da cellule morte lignificate identiche",
+      "Lo xilema è formato da cellule morte lignificate, il floema da cellule vive a parete cellulosica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo xilema conduce la linfa grezza (acqua e sali, verso l'alto) tramite trachee e tracheidi, cellule morte e lignificate; il floema conduce la linfa elaborata (zuccheri, multidirezionale) tramite tubi cribrosi, cellule vive a parete cellulosica non lignificata.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.32"
+  },
+  {
+    "id": "bvg-tes-trachee-tracheidi-012",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue le trachee dalle tracheidi nello xilema?",
+    "suggestion": "Le trachee sono vasi continui formati da più cellule con perforazioni terminali; le tracheidi sono cellule singole.",
+    "options": [
+      "Le trachee sono cellule singole senza perforazioni, le tracheidi vasi continui con placche di perforazione terminali disposte a scaletta lungo le pareti",
+      "Le trachee sono vasi continui formati da più elementi con perforazioni terminali, le tracheidi cellule singole che comunicano per punteggiature",
+      "Le trachee sono cellule vive del floema, le tracheidi cellule morte dello xilema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le trachee sono vasi continui formati dall'unione longitudinale di più elementi vasali tramite perforazioni terminali (es. placche scalariformi); le tracheidi sono cellule singole allungate, prive di perforazioni terminali complete, che comunicano tramite punteggiature.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.32"
+  },
+  {
+    "id": "bvg-tes-cellule-compagne-013",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'elemento del tubo cribroso, privo di nucleo a maturità, resta metabolicamente attivo?",
+    "suggestion": "È affiancato da una cellula parenchimatica nucleata che lo sostiene tramite i plasmodesmi.",
+    "options": [
+      "Perché recupera il nucleo dalle cellule xilematiche adiacenti",
+      "Perché è sostenuto dalla cellula compagna, nucleata, connessa tramite plasmodesmi",
+      "Perché a maturità riacquista nucleo, ribosomi e apparato di Golgi propri durante il processo di maturazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'elemento del tubo cribroso, a maturità, perde nucleo, ribosomi e apparato di Golgi ma resta metabolicamente attivo grazie alla cellula compagna (parenchimatica, nucleata), con cui è connesso da plasmodesmi. Le due derivano da una divisione asimmetrica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.32-33"
+  },
+  {
+    "id": "bvg-tes-callosio-014",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolge il callosio a livello delle placche cribrose del floema?",
+    "suggestion": "Si deposita in risposta a lesioni per chiudere i pori.",
+    "options": [
+      "Occlude temporaneamente i pori delle placche cribrose in risposta a lesioni, limitando la perdita di linfa",
+      "Lignifica le pareti dei tubi cribrosi rendendoli rigidi e resistenti",
+      "Trasporta attivamente gli zuccheri dalla cellula compagna al tubo cribroso passando attraverso i pori delle placche cribrose"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il callosio (polisaccaride di β-glucosio con legami β 1→3) si deposita sulle placche cribrose, specie in risposta a lesioni o stress meccanici, occludendo temporaneamente i pori e limitando la perdita di linfa elaborata.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.33"
+  },
+  {
+    "id": "bvg-tes-collenchima-015",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue il collenchima dallo sclerenchima tra i tessuti meccanici?",
+    "suggestion": "Uno è fatto di cellule vive a parete cellulosica, l'altro di cellule morte lignificate.",
+    "options": [
+      "Il collenchima ha cellule morte lignificate, lo sclerenchima cellule vive cellulosiche già nel corpo primario della giovane pianta",
+      "Il collenchima ha cellule vive a parete cellulosica ispessita, lo sclerenchima cellule morte a parete lignificata",
+      "Collenchima e sclerenchima sono entrambi formati da cellule morte del corpo secondario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il collenchima è formato da cellule vive con pareti cellulosiche ispessite in modo non uniforme (angolare, lamellare, lacunoso), presente solo nel corpo primario; lo sclerenchima da cellule morte a parete lignificata (fibre e sclereidi), presente anche nel corpo secondario.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.34"
+  },
+  {
+    "id": "bvg-tes-sclereidi-016",
+    "topic": "biologia-vegetale",
+    "question": "Quale tipo di cellule sclerenchimatiche conferisce alla polpa del pero (Pyrus) la caratteristica consistenza granulosa?",
+    "suggestion": "Sono cellule di forma irregolare riunite in gruppi detti isole petrose, distinte dalle fibre allungate.",
+    "options": [
+      "Le sclereidi, cellule di forma irregolare riunite in isole petrose",
+      "Le fibre xilari, cellule allungate e affusolate associate allo xilema",
+      "Le cellule di guardia, che regolano l'apertura degli stomi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le sclereidi sono cellule sclerenchimatiche di forma variabile e irregolare, spesso riunite in gruppi detti isole petrose (es. nel pero, Pyrus, e in Dracaena), che danno la consistenza granulosa. Le fibre sono invece allungate e affusolate (es. lino, canapa).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.34"
+  },
+  {
+    "id": "bvg-tes-laticiferi-017",
+    "topic": "biologia-vegetale",
+    "question": "In quale famiglia i tubi laticiferi, che producono latice, rappresentano un carattere diagnostico ricorrente?",
+    "suggestion": "È la famiglia del ciazio e delle piante succulente cactiformi convergenti.",
+    "options": [
+      "Le Poaceae (graminacee), con culmo cavo e fusto silicizzato",
+      "Le Euphorbiaceae, ma anche Ficus, Papaveraceae e Apiaceae",
+      "Le Fagaceae, con frutto a noce avvolto da cupola"
+    ],
+    "correctIndex": 1,
+    "explanation": "I tubi laticiferi, che producono e trasportano latice, sono un carattere ricorrente nelle Euphorbiaceae, ma anche in Ficus, Poinsettia, Hevea (caucciù), menta, Papaveraceae e Apiaceae. Il latice si ossida all'aria scurendosi (es. Chelidonium).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.35"
+  },
+  {
+    "id": "bvg-tes-tasche-lisigene-018",
+    "topic": "biologia-vegetale",
+    "question": "Come si formano le tasche lisigene, tipiche degli agrumi (Rutaceae), che accumulano oli essenziali?",
+    "suggestion": "Nascono dalla dissoluzione (lisi) di gruppi di cellule.",
+    "options": [
+      "Per lisi delle pareti e del contenuto di gruppi di cellule, formando una cavità circondata da residui",
+      "Per deposizione di lignina attorno a un lume centrale, come nei canali resiniferi secretore tipico delle gimnosperme resinose",
+      "Per ripiegamento della membrana delle cellule di guardia degli stomi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le tasche lisigene si formano per lisi (dissoluzione) delle pareti e del contenuto di gruppi di cellule, dando una cavità circondata da residui cellulari; sono tipiche delle Rutaceae (agrumi) e accumulano gli oli essenziali della scorza. I canali resiniferi delle Gimnosperme hanno invece cellule epiteliali secretorie.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.35"
+  },
+  {
+    "id": "bvg-tes-idatodi-019",
+    "topic": "biologia-vegetale",
+    "question": "Quale fenomeno è associato agli idatodi, tessuti ghiandolari che secernono all'esterno della pianta?",
+    "suggestion": "Secernono acqua di notte, quando gli stomi sono chiusi.",
+    "options": [
+      "La gutazione, cioè la secrezione di acqua durante la notte a stomi chiusi",
+      "La fotorespirazione, che dissipa energia quando gli stomi sono chiusi con una netta perdita di energia chimica",
+      "La gluconeogenesi, che converte gli acidi grassi in zuccheri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli idatodi sono tessuti ghiandolari che secernono acqua all'esterno durante la notte, quando gli stomi sono chiusi: è il fenomeno della gutazione. Alcuni (es. Tamarix) secernono invece i sali in eccesso.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.35-36"
+  },
+  {
+    "id": "bvg-tes-omoxilo-eteroxilo-020",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa il legno eteroxilo delle Angiosperme dicotiledoni differisce dal legno omoxilo delle Gimnosperme?",
+    "suggestion": "Uno è quasi solo tracheidi, l'altro ha più tipi cellulari tra cui i vasi.",
+    "options": [
+      "L'eteroxilo è formato quasi solo da tracheidi uniformi, l'omoxilo da vasi, fibre e parenchima e strutturalmente uniforme",
+      "L'eteroxilo comprende vasi, tracheidi, fibre e parenchima, l'omoxilo quasi solo tracheidi uniformi",
+      "L'eteroxilo è privo di lignina, l'omoxilo ne è fortemente impregnato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il legno eteroxilo (Angiosperme dicotiledoni) è diversificato: vasi (trachee), tracheidi, fibre e parenchima xilematico; il legno omoxilo (Gimnosperme) è quasi solo tracheidi, uniforme. In entrambi il legno tardivo autunnale forma gli anelli di accrescimento.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.33"
+  },
+  {
+    "id": "bvg-tes-tem-sem-021",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la differenza principale tra le immagini fornite dal microscopio elettronico a trasmissione (TEM) e a scansione (SEM)?",
+    "suggestion": "Uno mostra sezioni interne, l'altro la superficie tridimensionale.",
+    "options": [
+      "Il TEM mostra la superficie tridimensionale del campione, il SEM le sezioni interne interne più profonde del campione",
+      "Il TEM mostra sezioni interne del preparato, il SEM immagini tridimensionali della superficie",
+      "TEM e SEM forniscono immagini identiche, distinte solo dall'ingrandimento massimo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il TEM (a trasmissione) fa attraversare il fascio di elettroni da un preparato assottigliato, dando immagini di sezioni interne; il SEM (a scansione) fa scorrere il fascio sulla superficie, restituendo immagini tridimensionali della superficie del campione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.36"
+  },
+  {
+    "id": "bvg-tes-differenziamento-022",
+    "topic": "biologia-vegetale",
+    "question": "Quale meccanismo epigenetico può guidare il differenziamento di una cellula meristematica senza alterare la sequenza del DNA?",
+    "suggestion": "Modificazioni chimiche del DNA e degli istoni che modulano l'espressione genica.",
+    "options": [
+      "Metilazioni e acetilazioni del DNA e degli istoni, che modulano l'espressione genica",
+      "Mutazioni permanenti della sequenza nucleotidica del DNA",
+      "La perdita definitiva di interi cromosomi durante la divisione a ogni ciclo di divisione mitotica cellulare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli effetti epigenetici (metilazioni e acetilazioni del DNA e degli istoni) modulano l'espressione genica senza alterare la sequenza nucleotidica, contribuendo al differenziamento. Concorrono anche la direzione del piano di divisione, la divisione asimmetrica, la posizione cellulare e gli ormoni.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.29"
+  }
+]

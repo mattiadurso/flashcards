@@ -507,6 +507,30 @@
           "file": "Biodiversita_vegetale/bio-parete-cellulare.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
           "count": 14
+        },
+        {
+          "species": "I tessuti vegetali",
+          "file": "Biodiversita_vegetale/bio-tessuti.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 22
+        },
+        {
+          "species": "Il fusto: anatomia primaria e secondaria",
+          "file": "Biodiversita_vegetale/bio-fusto.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 15
+        },
+        {
+          "species": "La radice: anatomia e modificazioni",
+          "file": "Biodiversita_vegetale/bio-radice.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 15
+        },
+        {
+          "species": "La foglia: anatomia e adattamenti",
+          "file": "Biodiversita_vegetale/bio-foglia.json",
+          "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
+          "count": 17
         }
       ]
     }
