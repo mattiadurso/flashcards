@@ -1,0 +1,264 @@
+[
+  {
+    "id": "bdv-fab-rosidi-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa si intende per poliandria secondaria, carattere ricorrente nei Rosidi?",
+    "suggestion": "Gli stami sono numerosi, ma non disposti a spirale: mantengono un ordine in verticilli.",
+    "options": [
+      "Un aumento del numero di stami che restano però disposti in modo ordinato in verticilli",
+      "Una riduzione degli stami a un solo verticillo di cinque elementi saldati in tubo",
+      "La totale scomparsa di tutti gli stami del fiore, sostituiti da nettari e da petali sterili colorati"
+    ],
+    "correctIndex": 0,
+    "explanation": "La poliandria secondaria è l'aumento del numero di stami rispetto alla condizione ancestrale, ma con mantenimento di una disposizione ordinata in verticilli (non a spirale come la poliandria primaria delle Ranunculaceae). È tipica dei Rosidi, che hanno anche petali liberi, foglie stipolate e polline trisolcato.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.74-75"
+  },
+  {
+    "id": "bdv-fab-papilionaceo-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono organizzati i petali nel fiore papilionaceo delle Fabaceae?",
+    "suggestion": "Tre tipi di petali distinti: uno superiore grande, due laterali e due inferiori fusi all'apice.",
+    "options": [
+      "In cinque petali identici disposti a raggiera, tutti liberi e privi di funzioni distinte",
+      "In un vessillo superiore, due ali laterali e una carena inferiore di due petali fusi",
+      "In un tubo gamopetalo indiviso, privo di petali morfologicamente differenziati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fiore papilionaceo delle Fabaceae ha corolla dialipetala con tre tipi di petali: il vessillo (superiore, grande), le ali (due laterali) e la carena (due petali inferiori fusi all'apice che racchiudono gli organi riproduttivi). È zigomorfo, adatto all'impollinazione entomogama specializzata.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.75-76"
+  },
+  {
+    "id": "bdv-fab-fill-legume-003",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il frutto secco deiscente derivato da un unico carpello, che si apre lungo due linee di sutura, tipico delle Fabaceae, è detto ___.",
+    "answers": [["legume", "legumi", "baccello"]],
+    "suggestion": "È il 'baccello' del fagiolo o del pisello, derivato dal singolo carpello (G1).",
+    "explanation": "Il legume (baccello) è il frutto tipico delle Fabaceae: secco, deiscente, derivato dall'unico carpello (G1), che a maturità si apre lungo due linee di sutura. I semi sono privi di albume, con riserve nei cotiledoni.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.75-76"
+  },
+  {
+    "id": "bdv-fab-noduli-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché molte Fabaceae sono importanti per la fertilità del suolo?",
+    "suggestion": "Ospitano nei noduli radicali batteri capaci di rendere disponibile un elemento nutritivo.",
+    "options": [
+      "Perché ospitano nei noduli radicali batteri azotofissatori che rendono l'azoto assimilabile",
+      "Perché degradano rapidamente la lignina del legno morto liberando fosforo nel terreno",
+      "Perché accumulano nelle radici grandi quantità di silice che stabilizza la struttura del suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Fabaceae instaurano spesso una simbiosi con batteri azotofissatori (es. Rhizobium) alloggiati nei noduli radicali: questi trasformano l'azoto atmosferico in composti assimilabili, arricchendo il suolo. Sono anche piante mellifere.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.75"
+  },
+  {
+    "id": "bdv-fab-euph-ciazio-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è il ciazio, infiorescenza tipica del genere Euphorbia?",
+    "suggestion": "Un insieme che simula un singolo fiore: un femminile centrale con maschili ridotti attorno, in un involucro.",
+    "options": [
+      "Un singolo fiore ermafrodita completo e vistoso, con un ampio perianzio colorato e numerosi stami liberi disposti a spirale",
+      "Un amento pendulo e allungato, composto da molti fiori apetali unisessuali adattati all'impollinazione anemofila",
+      "Un fiore femminile centrale circondato da fiori maschili ridotti, racchiusi in un involucro che simula un perianzio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il ciazio è un'infiorescenza specializzata delle Euphorbiaceae (Euphorbia): un fiore femminile centrale circondato da più fiori maschili ridotti, il tutto racchiuso da un involucro con ghiandole che simula un perianzio, dando l'aspetto di un singolo fiore.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.77"
+  },
+  {
+    "id": "bdv-fab-euph-convergenza-006",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché alcune Euphorbiaceae succulente assomigliano ai cactus pur non essendo imparentate?",
+    "suggestion": "Hanno risposto allo stesso ambiente arido con adattamenti simili in modo indipendente.",
+    "options": [
+      "Per convergenza evolutiva: adattamenti simili a condizioni aride, comparsi in modo indipendente",
+      "Perché derivano in modo diretto proprio dalle Cactaceae americane per graduale perdita del lattice interno",
+      "Perché condividono con le Cactaceae un antenato comune recente ed esclusivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Euphorbiaceae succulente (es. E. canariensis) sono morfologicamente convergenti con le Cactaceae: hanno sviluppato un aspetto cactiforme in modo indipendente, come adattamento ad ambienti aridi analoghi, pur non essendo imparentate. Il lattice le distingue dai veri cactus.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.77"
+  },
+  {
+    "id": "bdv-fab-euph-seme-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura del seme delle Euphorbiaceae ne favorisce la dispersione a opera delle formiche?",
+    "suggestion": "È un'escrescenza carnosa che attira gli insetti dispersori.",
+    "options": [
+      "L'ala membranosa che rallenta la caduta del seme sfruttando le correnti d'aria",
+      "La caruncola, escrescenza carnosa che favorisce la dispersione da parte delle formiche",
+      "Il pappo piumoso che permette al seme di essere trasportato per lunghe distanze dal vento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il seme delle Euphorbiaceae è spesso caruncolato: la caruncola è un'escrescenza carnosa che ne favorisce la dispersione da parte delle formiche (mirmecocoria). Il frutto è spesso uno schizocarpo tricocco a deiscenza esplosiva.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.77"
+  },
+  {
+    "id": "bdv-fab-fill-ipanzio-008",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La struttura a coppa o tubo, originata dalla fusione delle basi di sepali, petali e stami, tipica delle Rosaceae, è detta ___.",
+    "answers": [["ipanzio", "ipanzi"]],
+    "suggestion": "Nel pomo (mela) forma gran parte della polpa; nel cinorrodo (rosa) racchiude gli acheni.",
+    "explanation": "L'ipanzio è una struttura a coppa/tubo formata dalla fusione delle basi di sepali, petali e stami, caratteristica dell'ordine Rosales (ben visibile in Rosaceae). Contribuisce a formare il pomo e il cinorrodo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.78"
+  },
+  {
+    "id": "bdv-fab-rosaceae-gineceo-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del fiore viene usato principalmente per distinguere le quattro sottofamiglie delle Rosaceae?",
+    "suggestion": "Riguarda i carpelli (numero, fusione), la posizione dell'ovario e di conseguenza il tipo di frutto.",
+    "options": [
+      "Il colore dei petali e la forma del calice, costanti in tutta la famiglia",
+      "Il gineceo (numero e fusione dei carpelli, posizione dell'ovario) e il tipo di frutto",
+      "Il solo numero degli stami dell'androceo, che è sempre esattamente cinque in tutte e quattro le sottofamiglie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le quattro sottofamiglie delle Rosaceae si distinguono in base al gineceo (numero e fusione dei carpelli, posizione dell'ovario) e al tipo di frutto: Spiraeoideae (follicolo), Rosoideae (acheni/drupeole), Prunoideae (drupa), Maloideae (pomo).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.78"
+  },
+  {
+    "id": "bdv-fab-maloideae-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale sottofamiglia delle Rosaceae ha ovario infero fuso con l'ipanzio e frutto a pomo (es. melo, pero)?",
+    "suggestion": "Il nome deriva proprio dal frutto tipico, la mela.",
+    "options": [
+      "Le Prunoideae, con un solo carpello, ovario supero e frutto a drupa",
+      "Le Rosoideae, con carpelli numerosi e liberi, ovario supero e frutti ad achenio",
+      "Le Maloideae, con 2-5 carpelli fusi all'ipanzio, ovario infero e frutto a pomo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Maloideae (Pomoideae) hanno da 2 a 5 carpelli fusi con l'ipanzio, ovario infero e frutto a pomo (Malus, Pyrus, Crataegus). Le Prunoideae hanno un carpello e drupa; le Rosoideae carpelli liberi e acheni/drupeole; le Spiraeoideae pochi carpelli liberi e follicolo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.78-79"
+  },
+  {
+    "id": "bdv-fab-fragaria-011",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il frutto commestibile della fragola (Fragaria vesca) è considerato un 'falso frutto'?",
+    "suggestion": "La parte carnosa non deriva dall'ovario, ma da un'altra struttura del fiore su cui stanno i veri frutti.",
+    "options": [
+      "Perché la parte carnosa è il ricettacolo accresciuto, su cui sono inseriti i veri frutti, minuscoli acheni",
+      "Perché deriva interamente e soltanto dall'ovario infero fuso con l'ipanzio della pianta, esattamente come avviene nel pomo del melo",
+      "Perché è un'unica grande drupa con endocarpo legnoso, come nelle Prunoideae"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella fragola la parte carnosa e commestibile è il ricettacolo accresciuto: i veri frutti sono i minuscoli acheni inseriti sulla sua superficie. È quindi un falso frutto, tipico delle Rosoideae, come il cinorrodo della rosa (ipanzio che racchiude gli acheni).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.79"
+  },
+  {
+    "id": "bdv-fab-apomissia-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché generi come Rubus e Alchemilla sono considerati tassonomicamente critici?",
+    "suggestion": "La riproduzione senza fecondazione genera moltissime microspecie quasi identiche.",
+    "options": [
+      "Perché sono privi di fiori e si riconoscono solo dal legno, difficile da esaminare",
+      "Perché la diffusa apomissia genera numerose microspecie morfologicamente molto simili",
+      "Perché ibridano solo con specie di altre famiglie, rendendo impossibile la classificazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Rubus e Alchemilla la diffusa apomissia (formazione di semi vitali senza fecondazione) genera un gran numero di microspecie morfologicamente molto simili, rendendo difficile la determinazione specifica: sono perciò gruppi tassonomicamente critici.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.79"
+  },
+  {
+    "id": "bdv-fab-rosaceae-ranun-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali due caratteri distinguono le Rosaceae dalle Ranunculaceae, con cui condividono una certa somiglianza fiorale?",
+    "suggestion": "Riguardano la presenza di appendici alla base della foglia e di un verticillo accessorio esterno al calice.",
+    "options": [
+      "Le Rosaceae hanno stipole ed epicalice, entrambi assenti nelle Ranunculaceae",
+      "Le Rosaceae hanno ovario sempre infero, le Ranunculaceae ovario sempre supero",
+      "Le Rosaceae hanno lattice e radici fittonanti, le Ranunculaceae no"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Rosaceae si distinguono dalle Ranunculaceae per la presenza di stipole (assenti nelle Ranunculaceae) e dell'epicalice (verticillo accessorio esterno al calice, anch'esso assente nelle Ranunculaceae). Il lattice caratterizza invece le Papaveraceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.79"
+  },
+  {
+    "id": "bdv-fab-fagaceae-frutto-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è il frutto delle Fagaceae (es. Quercus, Castanea) e da quale struttura è avvolto?",
+    "suggestion": "È un frutto secco a guscio legnoso, protetto da una struttura squamosa o spinosa derivata dai peduncoli.",
+    "options": [
+      "Una drupa carnosa avvolta da un arillo colorato che ne favorisce la dispersione zoocora",
+      "Una noce a pericarpo legnoso, avvolta da una cupola di brattee indurite e connate",
+      "Una capsula loculicida a semi pelosi, dispersa dal vento per anemocoria diretta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Fagaceae hanno come frutto una noce (frutto secco indeiscente a pericarpo legnoso), avvolta parzialmente o totalmente dalla cupola, formata da brattee indurite e connate derivate dai peduncoli fiorali. La disseminazione è zoocora (es. ghianda della farnia, castagna).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.79"
+  },
+  {
+    "id": "bdv-fab-salicaceae-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri del fiore accomunano Salicaceae e Fagaceae nell'ambito delle Fagales/Malpighiales a impollinazione prevalentemente anemofila?",
+    "suggestion": "Sono fiori ridotti, senza petali, riuniti in un tipo di infiorescenza allungata.",
+    "options": [
+      "Fiori grandi e vistosi, ermafroditi, riuniti in capolini densi e ricchi di nettare",
+      "Fiori tubulosi gamopetali zigomorfi, adattati all'impollinazione da parte dei lepidotteri",
+      "Fiori imperfetti (unisessuali) e apetali, riuniti in amenti, tipici di piante anemofile"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sia le Salicaceae (Salix, Populus) sia le Fagaceae hanno fiori imperfetti (unisessuali) e apetali, riuniti in amenti (infiorescenze allungate) adattate all'impollinazione anemofila. L'amento è comparso indipendentemente più volte per evoluzione convergente.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.76-79"
+  },
+  {
+    "id": "bdv-fab-salix-semi-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale caratteristica dei semi delle Salicaceae ne favorisce la dispersione da parte del vento?",
+    "suggestion": "I semi portano una struttura che li rende leggeri e facilmente sollevabili dall'aria.",
+    "options": [
+      "I semi sono pelosi, e questo ne favorisce la disseminazione anemocora",
+      "I semi sono racchiusi in una noce legnosa protetta da una cupola",
+      "I semi sono avvolti da un arillo carnoso che attira gli uccelli dispersori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Salicaceae hanno frutto a capsula loculicida contenente semi pelosi, la cui peluria ne favorisce la disseminazione anemocora (per vento). Populus e Salix producono infatti grandi quantità di semi cotonosi trasportati dall'aria.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.76"
+  },
+  {
+    "id": "bdv-fab-stami-diadelfi-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica la condizione 'diadelfa' dell'androceo in molte Fabaceae?",
+    "suggestion": "Riguarda come i filamenti degli stami sono saldati tra loro, in uno o più fasci.",
+    "options": [
+      "Gli stami sono tutti quanti liberi e separati tra loro, disposti in un unico verticillo raggiato",
+      "Gli stami sono saldati in due fasci distinti, tipicamente nove fusi e uno libero",
+      "Gli stami sono del tutto assenti, sostituiti da staminodi sterili e colorati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Negli stami diadelfi delle Fabaceae i filamenti sono saldati in due fasci distinti, tipicamente nove stami fusi e uno libero (formula A (9)+1); negli stami monadelfi tutti i filamenti sono saldati in un unico fascio (A (10)).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.75-76"
+  },
+  {
+    "id": "bdv-fab-robinia-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché Robinia pseudoacacia è di particolare interesse gestionale in Europa?",
+    "suggestion": "È una Fabacea arborea non originaria del continente, che si comporta in modo problematico.",
+    "options": [
+      "Perché è una specie arborea di origine nordamericana oggi considerata invasiva in Europa",
+      "Perché è un'antica specie endemica europea a forte rischio di estinzione, da proteggere con urgenza",
+      "Perché è l'unica Fabacea priva di simbiosi azotofissatrice e di noduli radicali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Robinia pseudoacacia è una Fabacea arborea di origine nordamericana, oggi considerata invasiva in Europa. Come Amorpha fruticosa, rientra tra le specie vegetali invasive introdotte, di rilievo per la gestione della biodiversità.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.76"
+  }
+]

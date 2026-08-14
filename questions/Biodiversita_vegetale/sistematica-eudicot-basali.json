@@ -1,0 +1,219 @@
+[
+  {
+    "id": "bdv-eud-tricolpato-001",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del polline definisce le Eudicotiledoni?",
+    "suggestion": "Riguarda il numero di solchi o aperture germinative del granulo pollinico.",
+    "options": [
+      "Il polline monocolpato, con una sola apertura, come nelle Monocotiledoni",
+      "Il polline tricolpato o tricolpato-derivato, con tre solchi germinativi",
+      "Il polline privo di aperture e di parete esterna, disperso solo in acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Eudicotiledoni sono definite dal polline tricolpato (o tricolpato-derivato), con tre solchi germinativi. Al loro interno si distinguono le Eudicotiledoni basali (Ranunculales) e quelle centrali o 'core eudicots' (Caryophyllales).",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.68-69"
+  },
+  {
+    "id": "bdv-eud-core-002",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri fiorali definiscono il clade delle Eudicotiledoni centrali (core eudicots)?",
+    "suggestion": "Pensa al numero di elementi per verticillo, alla disposizione ciclica e alla posizione degli ovuli.",
+    "options": [
+      "Fiori pentameri o tetrameri, ciclici, dialipetali e con placentazione assiale",
+      "Fiori con numero indefinito di elementi disposti a spirale e carpelli sempre liberi",
+      "Fiori privi di perianzio, ridotti a un solo stame, con placentazione parietale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Eudicotiledoni centrali formano un clade caratterizzato da fiori pentameri o tetrameri (5 o 4 elementi per verticillo), ciclici (organi in cerchi concentrici), dialipetali (petali liberi) e con placentazione assiale (ovuli lungo l'asse centrale dell'ovario).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.69"
+  },
+  {
+    "id": "bdv-eud-ranun-poliandria-003",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la poliandria primaria delle Ranunculaceae è considerata un carattere primitivo?",
+    "suggestion": "Riguarda stami numerosi disposti a spirale, come nei fiori ancestrali delle angiosperme.",
+    "options": [
+      "Perché gli stami sono pochi e tutti saldati insieme in un tubo, condizione derivata tipica delle angiosperme più evolute",
+      "Perché gli stami sono numerosi e disposti a spirale, come nei fiori ancestrali delle angiosperme",
+      "Perché gli stami sono del tutto assenti, sostituiti da nettari che attirano gli impollinatori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Ranunculaceae gli stami sono numerosi e disposti a spirale (poliandria primaria): è un carattere primitivo, coerente con l'ovario supero apocarpico (carpelli liberi) e i fiori spesso aciclici del gruppo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.69-70"
+  },
+  {
+    "id": "bdv-eud-ranun-serie-004",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella serie evolutiva delle Ranunculaceae, quale genere rappresenta il grado più primitivo (aciclico)?",
+    "suggestion": "Ha gli elementi disposti a spirale e il calice sostituito da brattee fogliari, con sepali petaloidi.",
+    "options": [
+      "Aconitum, con fiore ciclico zigomorfo e gineceo di tre carpelli",
+      "Nigella damascena, con fiore già del tutto ciclico e gineceo sincarpico formato da cinque carpelli fusi tra loro",
+      "Helleborus, con fiore aciclico, calice sostituito da brattee e sepali petaloidi nettariferi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Helleborus rappresenta il grado più primitivo (aciclico): elementi a spirale, calice sostituito da brattee fogliari, sepali petaloidi e nettariferi, petali assenti. La serie prosegue verso forme cicliche come Ranunculus, Aconitum (zigomorfo) e Nigella (gineceo sincarpico).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.70"
+  },
+  {
+    "id": "bdv-eud-aconitum-005",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale caratteristica rende Aconitum napellus il fiore più evoluto della serie delle Ranunculaceae ed è legata alla sua tossicità?",
+    "suggestion": "È ciclico e a simmetria bilaterale, e contiene una grande quantità di alcaloidi.",
+    "options": [
+      "Fiore ciclico e zigomorfo, con elevato contenuto di alcaloidi tossici che ne fanno la pianta più velenosa d'Europa",
+      "Fiore aciclico e attinomorfo, del tutto privo di alcaloidi e perciò considerato una specie commestibile e del tutto innocua",
+      "Fiore privo di perianzio e ridotto a un solo stame, adattato all'impollinazione anemofila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aconitum napellus ha fiore ciclico (elementi in verticilli) e zigomorfo, il grado più evoluto della serie; è considerata la pianta più velenosa d'Europa per l'elevato contenuto di alcaloidi tossici, comuni in molte Ranunculaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.70"
+  },
+  {
+    "id": "bdv-eud-fill-poliachenio-006",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il frutto secco composto da numerosi piccoli frutti indeiscenti monospermi, tipico di molte Ranunculaceae, è detto ___.",
+    "answers": [["poliachenio", "poliacheni"]],
+    "suggestion": "È un insieme di acheni; l'alternativa è il polifollicolo (insieme di follicoli).",
+    "explanation": "Il poliachenio è un frutto composto da numerosi acheni (frutti secchi indeiscenti a un solo seme), tipico delle Ranunculaceae; l'alternativa è il polifollicolo (insieme di follicoli deiscenti). Talvolta gli acheni hanno appendici piumose per la dispersione anemocora.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.69-70"
+  },
+  {
+    "id": "bdv-eud-papaver-lattice-007",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere vegetativo distingue le Papaveraceae ed è alla base dell'estrazione dell'oppio da Papaver somniferum?",
+    "suggestion": "Producono un liquido, spesso biancastro, che essuda dai tessuti lesionati.",
+    "options": [
+      "Sono piante succulente prive di lattice, che accumulano acqua nei tessuti fogliari carnosi",
+      "Sono piante laticifere, con cellule o canali che secernono lattice a seguito di lesioni",
+      "Sono piante prive di alcaloidi, che immagazzinano solo zuccheri e amido nelle radici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Papaveraceae sono laticifere: producono lattice (liquido spesso biancastro) da cellule o canali specializzati. Dal lattice di Papaver somniferum (papavero da oppio) si estraggono oppio e derivati. Contengono inoltre alcaloidi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.71"
+  },
+  {
+    "id": "bdv-eud-papaver-calice-008",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale caratteristica del calice delle Papaveraceae si osserva all'apertura del fiore?",
+    "suggestion": "Il calice è formato da pochi sepali che non restano a lungo sul fiore.",
+    "options": [
+      "Un calice di due soli sepali caduchi, che cadono precocemente all'apertura del fiore",
+      "Un calice gamosepalo persistente, che avvolge stabilmente il frutto fino a maturità",
+      "Un calice di numerosi sepali disposti a spirale, che permangono attorno alla capsula"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle Papaveraceae il calice è costituito da due soli sepali caduchi, che cadono all'apertura del fiore. La corolla ha 2+2 petali increspati nel boccio, gli stami sono numerosi e il frutto è una capsula poricida o loculicida.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.71"
+  },
+  {
+    "id": "bdv-eud-ranun-papaver-009",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale differenza distingue nettamente le Papaveraceae dalle Ranunculaceae?",
+    "suggestion": "Confronta la presenza di lattice e le radici, oltre al tipo di frutto.",
+    "options": [
+      "Le Papaveraceae hanno radici fascicolate e frutto a poliachenio, come le Ranunculaceae",
+      "Le Papaveraceae sono laticifere, con radici fittonanti e frutto a capsula, a differenza delle Ranunculaceae",
+      "Le Papaveraceae hanno stami numerosi disposti a spirale, mentre le Ranunculaceae ne sono del tutto prive e sterili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Papaveraceae sono laticifere, con radici fittonanti e frutto a capsula (poricida o loculicida); le Ranunculaceae non hanno lattice, hanno radici fascicolate e frutto a poliachenio o polifollicolo. Entrambe hanno però stami numerosi e alcaloidi.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.69-71"
+  },
+  {
+    "id": "bdv-eud-caryo-nodi-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere vegetativo aiuta a riconoscere le Caryophyllaceae?",
+    "suggestion": "Riguarda l'aspetto del fusto nei punti di inserzione delle foglie opposte.",
+    "options": [
+      "I nodi del fusto visibilmente ingrossati, con foglie opposte spesso connate alla base",
+      "Il fusto a sezione triangolare con foglie ridotte a squame appressate",
+      "Il fusto legnoso e ramificato con foglie alterne provviste di grandi stipole trasformate in spine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Caryophyllaceae hanno nodi del fusto ingrossati e foglie intere, opposte e spesso connate alla base. I petali sono distinti in unghia (base) e lembo; l'ovario è sincarpico e uniloculare, con placentazione centrale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.71-72"
+  },
+  {
+    "id": "bdv-eud-caryo-petalo-011",
+    "topic": "biodiversita-vegetale",
+    "question": "In un petalo di Caryophyllaceae, che cosa distingue l'unghia dal lembo?",
+    "suggestion": "Una è la parte basale ristretta che ancora il petalo, l'altra la porzione distale espansa.",
+    "options": [
+      "L'unghia è la porzione distale espansa e colorata, il lembo la base che ancora il petalo",
+      "L'unghia è la parte basale ristretta che ancora il petalo, il lembo la porzione distale espansa",
+      "L'unghia e il lembo sono in realtà due nomi diversi per la stessa identica struttura, senza alcuna differenza reale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei petali delle Caryophyllaceae l'unghia è la porzione basale ristretta che ancora il petalo al ricettacolo, mentre il lembo è la porzione distale, generalmente più espansa, che può essere bilobo o dentato. Alla loro giunzione possono esserci appendici corolline.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.72"
+  },
+  {
+    "id": "bdv-eud-caryo-sottofamiglie-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri distinguono la sottofamiglia Silenoideae dalle Alsinoideae nelle Caryophyllaceae?",
+    "suggestion": "Guarda se il calice è a sepali liberi o fusi e se è presente il carpoforo.",
+    "options": [
+      "Le Silenoideae hanno calice a sepali del tutto liberi tra loro e sono prive di carpoforo, esattamente come le Alsinoideae",
+      "Le Silenoideae hanno stipole ben sviluppate, assenti invece nelle Alsinoideae",
+      "Le Silenoideae hanno calice gamosepalo (fuso) e carpoforo presente, le Alsinoideae calice libero e senza carpoforo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Silenoideae (es. Silene, Dianthus) hanno calice gamosepalo (sepali fusi) e carpoforo (peduncolo interno che sostiene l'ovario); le Alsinoideae (es. Cerastium, Stellaria) hanno calice a sepali liberi e sono prive di carpoforo. Le Paronychioideae si distinguono per le stipole.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.73"
+  },
+  {
+    "id": "bdv-eud-dianthus-calicetto-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del fiore distingue il genere Dianthus da Silene, entrambi Silenoideae?",
+    "suggestion": "Riguarda la presenza di un verticillo di brattee alla base del calice.",
+    "options": [
+      "Dianthus possiede un calicetto di brattee alla base del calice, assente in Silene vulgaris",
+      "Dianthus è del tutto privo di calice, mentre in Silene il calice gamosepalo è ben sviluppato e persistente",
+      "Dianthus ha ovario infero, mentre Silene ha ovario supero sincarpico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dianthus (garofano) presenta un calicetto (verticillo di brattee sotto il calice), assente invece in Silene vulgaris. Entrambi hanno calice gamosepalo. Le specie europee di Dianthus mostrano il tasso di speciazione più elevato registrato tra piante e animali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.73-74"
+  },
+  {
+    "id": "bdv-eud-fill-vicarianza-014",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La sostituzione reciproca di specie strettamente imparentate su substrati diversi (Cerastium uniflorum su silice, C. latifolium su calcare) è detta vicarianza ___.",
+    "answers": [["ecologica", "ecologiche"]],
+    "suggestion": "Non è geografica ma legata al tipo di substrato/ambiente occupato.",
+    "explanation": "La vicarianza ecologica è la sostituzione reciproca di specie affini in relazione a substrati o condizioni ambientali diversi: nel genere Cerastium, C. uniflorum è legato ai substrati silicei, C. latifolium a quelli calcarei.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.73"
+  },
+  {
+    "id": "bdv-eud-antocianine-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale ruolo hanno le antocianine presenti nei tessuti di molte Caryophyllaceae?",
+    "suggestion": "Sono pigmenti idrosolubili responsabili di certe colorazioni di fiori e frutti.",
+    "options": [
+      "Sono enzimi digestivi che demoliscono le proteine e gli zuccheri del suolo tutt'attorno alle radici",
+      "Sono pigmenti idrosolubili responsabili delle colorazioni rosse, rosa, violacee e blu",
+      "Sono sostanze di riserva lipidica accumulate nei semi al posto dell'endosperma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le antocianine sono pigmenti idrosolubili responsabili delle colorazioni rosse, rosa, violacee e blu di molti fiori e frutti; sono presenti nei tessuti di numerose Caryophyllaceae. Il frutto tipico della famiglia è una capsula denticida.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.72"
+  }
+]

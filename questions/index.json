@@ -435,6 +435,18 @@
           "file": "Biodiversita_vegetale/sistematica-monocotiledoni.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
           "count": 22
+        },
+        {
+          "species": "Sistematica: Eudicotiledoni basali (Ranuncolaceae, Papaveraceae, Cariofillaceae)",
+          "file": "Biodiversita_vegetale/sistematica-eudicot-basali.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 15
+        },
+        {
+          "species": "Sistematica: clado dei Fabidi (Fabaceae, Rosaceae, Fagaceae...)",
+          "file": "Biodiversita_vegetale/sistematica-fabidi.json",
+          "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
+          "count": 18
         }
       ]
     }
