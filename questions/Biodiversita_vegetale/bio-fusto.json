@@ -224,5 +224,247 @@
     "explanation": "Ogni cerchia annuale corrisponde al legno prodotto in un anno; la sua larghezza dipende dalle condizioni ambientali (disponibilità idrica, temperatura) di quell'anno. La dendrocronologia misura la larghezza degli anelli, anche su legni antichi o fossili, per ricostruire serie climatiche estese nel tempo.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.43"
+  },
+  {
+    "id": "bvg-fus-apice-strutture-016",
+    "topic": "biologia-vegetale",
+    "question": "Osservando in sezione longitudinale l'apice vegetativo, quali meristemi primari si riconoscono procedendo dall'esterno verso l'interno?",
+    "suggestion": "Il più esterno darà l'epidermide, il più interno i tessuti conduttori.",
+    "options": [
+      "Epidermide, corteccia e midollo, tessuti ormai completamente differenziati e definitivi",
+      "Protoderma all'esterno, meristema fondamentale in posizione intermedia e procambio all'interno",
+      "Cambio del sughero, cambio cribro-vascolare e felloderma, tutti meristemi di tipo secondario"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nell'apice vegetativo, dall'esterno verso l'interno, si distinguono il protoderma (darà l'epidermide), il meristema fondamentale (parenchimi e tessuti meccanici) e il procambio (tessuti conduttori primari). Sono meristemi primari, non ancora tessuti differenziati né meristemi secondari.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-primordio-fogliare-017",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è il primordio fogliare visibile nella regione apicale del fusto?",
+    "suggestion": "È l'abbozzo di un organo futuro, formato da cellule che proliferano di lato all'apice.",
+    "options": [
+      "L'abbozzo di una futura foglia, formato per proliferazione di cellule laterali all'apice meristematico",
+      "Il tratto di tessuto conduttore che dal cilindro centrale si dirige verso una foglia già formata",
+      "L'interruzione del cilindro dei tessuti conduttori nel punto in cui la traccia fogliare si diparte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il primordio fogliare è l'abbozzo di una futura foglia, che si forma per proliferazione di cellule laterali all'apice. Da non confondere con la traccia fogliare (tessuto conduttore diretto alla foglia) e con la lacuna della traccia fogliare (interruzione del cilindro conduttore).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-traccia-fogliare-018",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione della traccia fogliare che si diparte dal cilindro centrale del fusto?",
+    "suggestion": "Collega i tessuti conduttori del fusto a una foglia, per nutrirla.",
+    "options": [
+      "Proteggere la gemma durante il riposo vegetativo per mezzo di foglie modificate indurite e resinose",
+      "Delimitare e regolare l'apertura degli stomi presenti sull'epidermide del giovane fusto in accrescimento",
+      "Rifornire di acqua e sostanze nutritive il primordio fogliare verso cui si dirige, in corrispondenza del nodo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La traccia fogliare è il tratto di tessuto conduttore che, dipartendosi dal cilindro centrale del fusto in corrispondenza del nodo, si dirige verso il primordio fogliare per rifornirlo di acqua e sostanze nutritive. Nel punto di distacco si crea la lacuna della traccia fogliare.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-lacuna-fill-019",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'interruzione del cilindro dei tessuti conduttori che si crea nel fusto nel punto in cui la traccia fogliare se ne distacca per dirigersi verso la foglia è detta ___ della traccia fogliare.",
+    "answers": [
+      [
+        "lacuna"
+      ]
+    ],
+    "suggestion": "È un 'vuoto' che si apre nel cilindro conduttore dove la traccia esce verso la foglia.",
+    "explanation": "La lacuna della traccia fogliare è l'interruzione del cilindro dei tessuti conduttori che si crea nel fusto nel punto in cui la traccia fogliare si diparte per dirigersi verso la foglia. È visibile nella regione apicale, in corrispondenza del nodo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-gemme-posizione-020",
+    "topic": "biologia-vegetale",
+    "question": "In base alla posizione sul cormo, come si distinguono le gemme terminali dalle gemme ascellari?",
+    "suggestion": "Le une stanno in cima, le altre nell'angolo tra foglia e fusto.",
+    "options": [
+      "Le terminali occupano l'apice del fusto o del ramo, le ascellari stanno all'ascella di una foglia",
+      "Le terminali generano soltanto fiori, mentre le ascellari generano soltanto rami vegetativi con foglie",
+      "Le terminali sono avvolte da perule resinose protettive, mentre le ascellari ne sono sempre del tutto prive"
+    ],
+    "correctIndex": 0,
+    "explanation": "In base alla posizione sul cormo, le gemme si distinguono in terminali (che costituiscono l'apice vegetativo del fusto o di un ramo) e ascellari (poste all'ascella di una foglia, cioè nell'angolo tra foglia e fusto). La distinzione in vegetative, fiorali e miste riguarda invece il germoglio prodotto.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.38"
+  },
+  {
+    "id": "bvg-fus-brattee-021",
+    "topic": "biologia-vegetale",
+    "question": "Nella gemma dell'ippocastano (Aesculus), che cosa distingue le brattee embricate dalle brattee divaricate?",
+    "suggestion": "Cambia il modo in cui si dispongono: sovrapposte come tegole oppure aperte e separate.",
+    "options": [
+      "Le embricate si aprono e si separano tra loro, mentre le divaricate si sovrappongono come tegole a protezione",
+      "Le embricate si sovrappongono parzialmente come tegole di un tetto, le divaricate si aprono lasciando intravedere l'interno",
+      "Le embricate generano esclusivamente fiori, mentre le divaricate danno origine soltanto a radici avventizie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le brattee embricate sono foglie modificate che si sovrappongono parzialmente, come le tegole di un tetto, a protezione della gemma; le brattee divaricate, in una fase più avanzata dello sviluppo, si aprono e si separano, lasciando intravedere le strutture interne della gemma.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.38-39"
+  },
+  {
+    "id": "bvg-fus-meristema-fondamentale-022",
+    "topic": "biologia-vegetale",
+    "question": "Quali tessuti del fusto derivano dal meristema fondamentale?",
+    "suggestion": "Sono i tessuti di riempimento e di sostegno, non quelli di rivestimento o conduzione.",
+    "options": [
+      "L'epidermide di rivestimento esterno e gli stomi deputati agli scambi gassosi con l'atmosfera",
+      "Lo xilema e il floema primari, organizzati insieme all'interno dei fasci cribrovascolari conduttori",
+      "Il solo periderma secondario, cioè il sughero e il felloderma prodotti dall'attività del fellogeno",
+      "Il parenchima midollare e corticale, il parenchima clorofilliano e i tessuti meccanici di sostegno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il meristema fondamentale origina il tessuto fondamentale, che si differenzia in parenchima midollare (midollo), parenchima corticale (corteccia), parenchima clorofilliano e tessuti meccanici (collenchima e sclerenchima). L'epidermide deriva dal protoderma, i tessuti conduttori dal procambio.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.39"
+  },
+  {
+    "id": "bvg-fus-fasci-cribrovascolari-023",
+    "topic": "biologia-vegetale",
+    "question": "Da quali componenti è costituito un fascio cribrovascolare del fusto?",
+    "suggestion": "Riunisce insieme il tessuto che conduce la linfa grezza e quello che conduce la linfa elaborata.",
+    "options": [
+      "Da una componente floematica (detta cribrosa) e da una componente xilematica (detta vascolare)",
+      "Dal solo sughero prodotto verso l'esterno e dal felloderma prodotto verso l'interno dal fellogeno",
+      "Da cellule di guardia e camera sottostomatica, che insieme regolano gli scambi gassosi dell'organo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il fascio cribrovascolare riunisce la componente floematica (o cribrosa, con protofloema e metafloema) e la componente xilematica (o vascolare, con protoxilema e metaxilema), entrambe derivate dal procambio. È l'unità conduttrice della struttura primaria del fusto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.39"
+  },
+  {
+    "id": "bvg-fus-zona-differenziazione-024",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La regione dell'apice in cui i meristemi primari completano il differenziamento dando origine ai tessuti definitivi, costituendo la struttura primaria del fusto, è detta zona di ___.",
+    "answers": [
+      [
+        "differenziazione",
+        "differenziamento"
+      ]
+    ],
+    "suggestion": "È la zona dove i meristemi primari 'diventano' tessuti adulti definitivi.",
+    "explanation": "La zona di differenziazione è la porzione dell'apice in cui si completano i processi di differenziamento, dando origine ai tessuti definitivi a partire dai meristemi primari: vi si costituisce la struttura primaria del fusto, tipica delle porzioni giovani dell'organo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.39"
+  },
+  {
+    "id": "bvg-fus-raggi-midollari-025",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione dei raggi midollari nell'eustele di dicotiledoni e gimnosperme?",
+    "suggestion": "Sono bande di parenchima che attraversano radialmente lo spazio tra i fasci.",
+    "options": [
+      "Impermeabilizzare la superficie del fusto, impedendo la traspirazione e la perdita di acqua dai tessuti",
+      "Connettere radialmente il midollo centrale con la corteccia, estendendosi tra i fasci conduttori",
+      "Produrre la resina protettiva che viene poi accumulata nei canali resiniferi del legno secondario"
+    ],
+    "correctIndex": 1,
+    "explanation": "I raggi midollari sono bande di tessuto parenchimatico che si estendono radialmente tra i fasci conduttori dell'eustele, connettendo il midollo centrale con la corteccia periferica. Dalle loro cellule si differenzierà poi il cambio interfascicolare.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.40"
+  },
+  {
+    "id": "bvg-fus-collaterali-aperti-026",
+    "topic": "biologia-vegetale",
+    "question": "Perché i fasci conduttori dell'eustele sono definiti collaterali aperti?",
+    "suggestion": "Tra xilema e floema rimane qualcosa di meristematico, utile per il futuro.",
+    "options": [
+      "Perché mancano completamente della componente floematica e conducono la linfa solo tramite lo xilema",
+      "Perché sono avvolti da una guaina sclerenchimatica di fibre che li isola dal tessuto parenchimatico",
+      "Perché a maturità conservano procambio residuo tra xilema e floema, disponibile per l'accrescimento secondario"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'eustele i fasci sono collaterali aperti perché a maturità permane, tra xilema e floema, il procambio residuo (cambio fascicolare), che non si esaurisce e resta disponibile per l'accrescimento secondario. Negli atactosteli delle monocotiledoni i fasci sono invece collaterali chiusi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.40"
+  },
+  {
+    "id": "bvg-fus-culmo-027",
+    "topic": "biologia-vegetale",
+    "question": "Quali caratteristiche presenta tipicamente il culmo, il fusto delle Poaceae?",
+    "suggestion": "Pensa al fusto del grano: spesso vuoto all'interno tra un nodo e l'altro.",
+    "options": [
+      "È spesso cavo in corrispondenza degli internodi, con collenchima periferico e spesso epidermide mineralizzata",
+      "È sempre pieno e legnoso, con un accrescimento secondario in spessore particolarmente marcato e continuo",
+      "Ha i fasci conduttori disposti in un unico anello ben ordinato attorno a un ampio midollo parenchimatico centrale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il culmo delle Poaceae è spesso cavo agli internodi, con collenchima di sostegno subito sotto l'epidermide e frequente mineralizzazione dello strato epidermico. I fasci sono collaterali chiusi e sparsi (atactostele), non in un unico anello ordinato come nell'eustele.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.40"
+  },
+  {
+    "id": "bvg-fus-divisione-cambio-028",
+    "topic": "biologia-vegetale",
+    "question": "Come avviene la divisione delle cellule iniziali del cambio cribro-vascolare?",
+    "suggestion": "L'iniziale non si trasforma subito: prima genera una cellula intermedia.",
+    "options": [
+      "La cellula iniziale si differenzia direttamente in vaso conduttore, senza generare alcuna cellula derivata intermedia",
+      "La cellula iniziale genera prima una cellula derivata, che solo in seguito si differenzia in floema o in xilema",
+      "La cellula iniziale produce esclusivamente sughero verso l'esterno e felloderma verso l'interno dell'organo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ogni volta che una cellula iniziale del cambio (C) si divide, genera dapprima una cellula derivata (D); solo successivamente, a seconda della direzione di divisione, questa si differenzia in un elemento di floema (verso l'esterno) o di xilema (verso l'interno), con netta prevalenza della produzione xilematica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.41"
+  },
+  {
+    "id": "bvg-fus-sezioni-cambio-029",
+    "topic": "biologia-vegetale",
+    "question": "Come appaiono le iniziali dei raggi in una sezione longitudinale tangenziale del fusto?",
+    "suggestion": "Non come lunghi cordoni, ma come piccoli gruppi isolati tra le altre iniziali.",
+    "options": [
+      "Come lunghi cordoni continui disposti parallelamente all'asse maggiore del fusto in accrescimento",
+      "Come vasi continui, ampi e perforati alle estremità, che conducono la linfa grezza verso l'alto",
+      "Come gruppi isolati di cellule inseriti tra i lunghi cordoni delle iniziali fusiformi assiali"
+    ],
+    "correctIndex": 2,
+    "explanation": "In una sezione longitudinale tangenziale (parallela alla superficie, non passante per l'asse) le iniziali dei raggi appaiono come gruppi isolati di cellule inseriti tra i lunghi cordoni delle iniziali fusiformi. In sezione radiale, invece, i due tipi si dispongono perpendicolarmente.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.42"
+  },
+  {
+    "id": "bvg-fus-ritidoma-030",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è il ritidoma (comunemente detto scorza o corteccia esterna) dei fusti legnosi maturi?",
+    "suggestion": "Si accumula man mano che il fellogeno si rinnova sempre più in profondità.",
+    "options": [
+      "L'insieme dei successivi strati di periderma prodotti nel tempo e dei tessuti corticali esterni ormai morti",
+      "La porzione più interna e antica dello xilema, con elementi otturati e impregnati di tannini e resine",
+      "Il meristema secondario che produce il sughero verso l'esterno e il felloderma vivo verso l'interno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ritidoma (scorza) è l'insieme di tutti gli strati di periderma via via prodotti dal fellogeno, che si rinnova progressivamente più in profondità, insieme ai resti dei tessuti corticali esterni ormai morti. Può essere liscio (betulla) o fessurato e solcato in altre specie.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.43"
+  },
+  {
+    "id": "bvg-fus-legno-tardivo-031",
+    "topic": "biologia-vegetale",
+    "question": "Perché la deposizione del legno tardivo (o legno di chiusura) rende visibili gli anelli annuali di accrescimento?",
+    "suggestion": "Le sue cellule sono nettamente diverse da quelle del legno prodotto a inizio stagione.",
+    "options": [
+      "Perché il legno tardivo ha cellule con lume più ampio e pareti sottili, del tutto identiche al legno primaticcio",
+      "Perché il legno tardivo ha cellule con lume ridotto e pareti più spesse, in netto contrasto col legno primaticcio",
+      "Perché il legno tardivo è del tutto privo di lignina e resta molle e chiaro per l'intero corso dell'anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Verso la fine della stagione vegetativa il cambio produce il legno tardivo (di chiusura), con elementi di calibro ridotto e pareti più spesse rispetto al legno primaticcio di inizio stagione. Il contrasto tra le due fasce genera il confine visibile di ciascuna cerchia annuale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.42-43"
   }
 ]

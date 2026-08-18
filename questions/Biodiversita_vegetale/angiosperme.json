@@ -22,7 +22,7 @@
     "options": [
       "È formato quasi esclusivamente da tracheidi uniformi, senza elementi dei vasi né fibre specializzate",
       "È costituito da più tipi cellulari differenziati, tra cui vasi conduttori, fibre e parenchima",
-      "È del tutto privo di lignina e resta rigido soltanto grazie alla pressione di"
+      "È del tutto privo di lignina e resta rigido soltanto grazie alla pressione di turgore delle cellule"
     ],
     "correctIndex": 1,
     "explanation": "Il legno eteroxilo delle angiosperme è costituito da più tipi cellulari differenziati (vasi conduttori, fibre, parenchima), mentre il legno omoxilo delle conifere è formato quasi esclusivamente da tracheidi. Le angiosperme hanno inoltre un floema con tubi cribrosi.",
@@ -128,7 +128,7 @@
     "options": [
       "I tegumenti nell'involucro del seme, le pareti dell'ovario nel frutto",
       "I tegumenti nell'endosperma nutritivo, le pareti dell'ovario nell'embrione in crescita",
-      "I tegumenti nel frutto carnoso, le pareti dell'ovario"
+      "I tegumenti nel frutto carnoso, le pareti dell'ovario nel tegumento seminale"
     ],
     "correctIndex": 0,
     "explanation": "Dopo la doppia fecondazione: il nucleo primario dà l'endosperma, lo zigote l'embrione, i tegumenti dell'ovulo l'involucro del seme (tegumento seminale) e le pareti dell'ovario il frutto. Sono i quattro eventi di sviluppo tipici delle angiosperme.",
@@ -329,5 +329,353 @@
     "explanation": "Durante la desertificazione giurassica dei tropici, le angiosperme sopravvissero in rifugi isolati (isolated refugia); la specie Amborella è considerata una relitta di questa fase. Solo il successivo miglioramento climatico preparò l'ampia radiazione cretacica.",
     "difficulty": "hard",
     "source": "Biodiversità vegetale.pdf p.36"
+  },
+  {
+    "id": "bdv-angio-archaefructus-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale significato ha il reperto fossile Archaefructus sinensis nello studio delle angiosperme?",
+    "suggestion": "È un reperto che documenta le prime fasi della storia evolutiva del gruppo delle piante a fiore.",
+    "options": [
+      "È il progenitore comune di tutte le gimnosperme viventi, privo però di ovario e di fiore",
+      "È considerato un esempio di angiosperma primitiva, che documenta l'origine antica del gruppo",
+      "È una felce a seme del Carbonifero da cui sarebbero derivate direttamente le conifere moderne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Archaefructus sinensis è considerato un esempio di angiosperma primitiva: documenta, insieme ad altri reperti, l'origine e l'evoluzione antica delle piante a fiore. Non è né una gimnosperma né una felce a seme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.36"
+  },
+  {
+    "id": "bdv-angio-origine-triassico-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la ricostruzione paleoclimatica, in quale contesto ambientale si colloca l'origine iniziale delle angiosperme?",
+    "suggestion": "Le prime fasi si collocano nel Triassico, in ambienti caldo-umidi delle basse latitudini.",
+    "options": [
+      "Nel Cretaceo superiore, dopo la piena diversificazione di monocotiledoni ed eudicotiledoni",
+      "Nel Carbonifero, nelle grandi foreste paludose dominate da felci arboree ed equiseti giganti",
+      "Nel Triassico inferiore, nei tropici umidi o, secondo altre ipotesi, in un dominio boreale umido"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ricostruzione paleoclimatica colloca l'origine iniziale delle angiosperme nel Triassico inferiore, nei tropici umidi (o, per altre ipotesi, in un dominio boreale umido). La grande diversificazione avviene solo più tardi, con la radiazione cretacica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-variabilita-taglia-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali specie illustrano l'enorme variabilità di dimensioni raggiunta dalle angiosperme?",
+    "suggestion": "Un esempio è tra gli alberi più alti del mondo, l'altro tra le piante da fiore più minute che esistano.",
+    "options": [
+      "Eucalyptus regnans, albero altissimo, e Wolffia arrhiza, minuscola pianta acquatica galleggiante",
+      "Sequoiadendron giganteum, albero enorme, e Welwitschia mirabilis, pianta desertica a due foglie",
+      "Ginkgo biloba, albero longevo, ed Ephedra, piccolo arbusto articolato dei climi aridi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La variabilità di taglia delle angiosperme spazia da specie arboree altissime come Eucalyptus regnans a specie acquatiche minuscole come Wolffia arrhiza, priva di radici. Sequoiadendron, Welwitschia, Ginkgo ed Ephedra sono invece gimnosperme.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-floema-cribroso-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del floema è tipico delle angiosperme?",
+    "suggestion": "Riguarda elementi conduttori specializzati, con pareti terminali particolari, per la linfa elaborata.",
+    "options": [
+      "Un floema formato solo da tracheidi morte, prive di protoplasto e con ispessimenti anulari",
+      "Un floema con tubi cribrosi, elementi conduttori dotati di pareti terminali perforate dette piastre cribrose",
+      "Un floema del tutto privo di elementi conduttori, sostituito da semplici canali resiniferi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le angiosperme hanno un floema dotato di tubi cribrosi, elementi conduttori specializzati per la linfa elaborata, con pareti terminali perforate dette piastre cribrose. Le tracheidi appartengono invece allo xilema, non al floema.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-microsporo-gametogenesi-027",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa differiscono la microsporogenesi e la microgametogenesi nella formazione dei gameti maschili?",
+    "suggestion": "Una è un processo meiotico che produce spore, l'altra uno sviluppo mitotico che matura il gametofito.",
+    "options": [
+      "La microsporogenesi matura il polline in tre cellule, la microgametogenesi produce le microspore per meiosi",
+      "Entrambe sono processi meiotici, la prima nell'antera e la seconda nell'ovario, con gli stessi prodotti",
+      "La microsporogenesi produce le microspore per meiosi, la microgametogenesi le sviluppa per mitosi nel gametofito maschile"
+    ],
+    "correctIndex": 2,
+    "explanation": "La microsporogenesi è il processo meiotico che, dai microsporociti delle sacche polliniche, produce le microspore; la microgametogenesi è il successivo sviluppo mitotico della microspora nel microgametofito maturo (polline a tre cellule). L'ordine e la natura dei due processi non vanno invertiti.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-fill-tappeto-028",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il tessuto nutritivo che circonda le sacche polliniche dell'antera e sostiene lo sviluppo delle microspore è detto ___.",
+    "answers": [
+      [
+        "tappeto"
+      ]
+    ],
+    "suggestion": "Ha una funzione di nutrimento; non confonderlo con l'intina o l'esina, che sono strati della parete del polline.",
+    "explanation": "Il tappeto è il tessuto nutritivo che avvolge le sacche polliniche (microsporociti) nell'antera e ne sostiene la microsporogenesi. È distinto dalle pareti del granulo pollinico (esina e intina).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-silphium-lilium-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché in Lilium il polline viene rilasciato dall'antera con due cellule anziché tre come in Silphium?",
+    "suggestion": "La differenza sta nel momento in cui la cellula generativa completa la sua divisione.",
+    "options": [
+      "Perché in Lilium la divisione della cellula generativa nelle due cellule spermatiche avviene più tardi, durante la crescita del tubetto pollinico",
+      "Perché in Lilium il polline non produce affatto cellule spermatiche e feconda con la sola cellula vegetativa",
+      "Perché in Lilium la cellula vegetativa si divide due volte, generando quattro nuclei del tubetto pollinico"
+    ],
+    "correctIndex": 0,
+    "explanation": "In Silphium il polline è già a tre cellule (una vegetativa e due spermatiche) all'uscita dall'antera; in Lilium è rilasciato a due cellule perché la divisione della cellula generativa nelle due cellule spermatiche avviene più tardi, durante la crescita del tubetto pollinico.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-fill-intina-030",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La parete interna del granulo pollinico, composta di cellulosa e pectine, è detta ___.",
+    "answers": [
+      [
+        "intina"
+      ]
+    ],
+    "suggestion": "È lo strato più interno; quello esterno, di sporopollenina, è l'esina.",
+    "explanation": "L'intina è la parete interna del polline, costituita da cellulosa e pectine; la parete esterna, di sporopollenina, è l'esina. Attraverso solchi o pori della parete fuoriesce poi il tubetto pollinico.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.37"
+  },
+  {
+    "id": "bdv-angio-pronubi-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa si intende per 'pronubi' nel ciclo riproduttivo delle angiosperme?",
+    "suggestion": "Sono gli agenti animali che spostano il polline tra i fiori, spesso attratti da riserve zuccherine o proteiche.",
+    "options": [
+      "I tessuti nutritivi dell'antera che alimentano lo sviluppo delle microspore prima della loro liberazione",
+      "Gli organismi impollinatori, quali insetti, uccelli o pipistrelli, che trasportano il polline da un fiore all'altro",
+      "Le cellule accessorie del sacco embrionale che guidano il tubetto pollinico verso l'oosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "I pronubi sono gli organismi impollinatori (insetti, uccelli, pipistrelli) che trasportano il polline da un fiore all'altro; amido e oli del polline ne costituiscono un'attrattiva alimentare. Non vanno confusi con il tappeto (tessuto dell'antera) né con le sinergidi.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-mega-processi-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale sequenza descrive correttamente la formazione del gametofito femminile delle angiosperme?",
+    "suggestion": "Prima un processo meiotico produce le megaspore, poi uno sviluppo mitotico forma il sacco embrionale.",
+    "options": [
+      "La megagametogenesi produce le megaspore per meiosi, poi la megasporogenesi le fonde in un unico nucleo",
+      "La doppia fecondazione precede la megasporogenesi, che sviluppa il sacco embrionale già fecondato",
+      "La microsporogenesi nella nucella produce le megaspore, subito mature come sacco embrionale a otto nuclei",
+      "La megasporogenesi produce per meiosi le megaspore nella nucella, poi la megagametogenesi sviluppa il sacco embrionale"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nella linea femminile la megasporogenesi è il processo meiotico che produce le megaspore dentro la nucella; segue la megagametogenesi, sviluppo mitotico della megaspora funzionale che origina il megagametofito maturo (sacco embrionale). La microsporogenesi riguarda invece la linea maschile.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-polygonum-calazale-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Nello sviluppo del sacco embrionale di tipo Polygonum, quale delle quattro megaspore prosegue lo sviluppo?",
+    "suggestion": "Delle quattro allineate dopo la meiosi, sopravvive quella all'estremità opposta al micropilo.",
+    "options": [
+      "Tutte e quattro le megaspore, che si fondono in un unico sacco embrionale poliploide a otto nuclei",
+      "Le due megaspore centrali, che insieme formano i nuclei polari del sacco embrionale maturo",
+      "Una sola megaspora, generalmente quella calazale, che per mitosi origina il sacco embrionale a otto nuclei"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel tipo Polygonum le quattro megaspore prodotte dalla meiosi si dispongono in fila e solo una, di norma la calazale (opposta al micropilo), prosegue con divisioni mitotiche fino al sacco embrionale maturo a otto nuclei. I tipi Fritillaria e Oenothera seguono percorsi diversi.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-sinergidi-034",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale funzione svolgono le sinergidi nel sacco embrionale maturo?",
+    "suggestion": "Affiancano l'oosfera all'estremità micropilare e assistono l'ingresso del tubetto pollinico.",
+    "options": [
+      "Facilitano la penetrazione del tubetto pollinico e il rilascio dei nuclei spermatici presso l'oosfera",
+      "Costituiscono il tessuto di riserva triploide che nutrirà l'embrione dopo la fecondazione",
+      "Sono le cellule calazali che, fondendosi con una spermatica, formano il nucleo dell'endosperma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le sinergidi affiancano l'oosfera all'estremità micropilare e sono cellule accessorie che facilitano la penetrazione del tubetto pollinico e il rilascio dei nuclei spermatici. Il tessuto di riserva è l'endosperma; le cellule calazali sono le antipodali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-fill-funicolo-035",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La struttura che collega l'ovulo alla placenta dell'ovario è detta ___.",
+    "answers": [
+      [
+        "funicolo"
+      ]
+    ],
+    "suggestion": "È il 'peduncolo' dell'ovulo; da non confondere con il micropilo, che è l'apertura del tegumento.",
+    "explanation": "Il funicolo è il peduncolo che collega l'ovulo alla placenta dell'ovario. Il micropilo è invece l'apertura del tegumento attraverso cui entra il tubetto pollinico.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-placentazione-tipi-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue la placentazione parietale da quella centrale libera in un ovario?",
+    "suggestion": "In un caso gli ovuli stanno sulla parete dell'ovario, nell'altro su una colonna che non tocca le pareti.",
+    "options": [
+      "Nella parietale gli ovuli stanno su un asse centrale collegato ai setti, nella centrale libera sulla parete esterna",
+      "Nella parietale gli ovuli sono inseriti sulla parete dell'ovario, nella centrale libera su una colonna centrale non collegata alle pareti",
+      "Nella parietale gli ovuli mancano del tutto, nella centrale libera sono fusi in un'unica massa centrale carnosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella placentazione parietale gli ovuli sono inseriti sulla parete dell'ovario; nella centrale libera stanno su una colonna centrale non collegata alle pareti. La placentazione con ovuli su un asse centrale che unisce i setti è invece quella assiale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.38"
+  },
+  {
+    "id": "bdv-angio-gineceo-ancestrale-037",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la ricostruzione del fiore ancestrale, come era organizzato il gineceo delle prime angiosperme?",
+    "suggestion": "Pensa alla posizione dei carpelli rispetto agli altri verticilli e al fatto che fossero uniti o separati.",
+    "options": [
+      "Infero, con pochi carpelli fusi tra loro e completamente avvolti dal tessuto ricettacolare",
+      "Ridotto a un solo carpello aperto, non ancora chiuso a formare un vero ovario",
+      "Supero, costituito da più di cinque carpelli disposti a spirale e liberi tra loro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fiore ancestrale ricostruito (Sauquet et al., 2017) aveva gineceo supero, con più di cinque carpelli disposti a spirale e liberi tra loro. Le condizioni infera e a carpelli fusi sono derivate; il singolo carpello aperto non corrisponde alla ricostruzione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-androceo-introrse-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa significa che le antere del fiore ancestrale erano 'introrse'?",
+    "suggestion": "Il termine indica la direzione in cui l'antera si apre e libera il polline rispetto al fiore.",
+    "options": [
+      "Che le antere erano rivolte verso l'interno del fiore, aprendosi verso il suo centro",
+      "Che le antere erano rivolte verso l'esterno del fiore, aprendosi lontano dal centro",
+      "Che gli stami erano del tutto privi di antere, ridotti a semplici filamenti sterili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Antere introrse sono rivolte verso l'interno del fiore e vi liberano il polline. Il fiore ancestrale aveva un androceo di più di sei stami in più verticilli trimeri, con antere introrse. Le antere rivolte all'esterno sono dette estrorse.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-origine-corolla-039",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa suggerisce la sequenza morfologica dai tepali agli stami sull'origine evolutiva della corolla?",
+    "suggestion": "Nei fiori antichi il perianzio non è distinto in calice e corolla e sfuma gradualmente verso gli organi maschili.",
+    "options": [
+      "Che la corolla derivi dalla fusione di più carpelli sterili spostati verso l'esterno del fiore",
+      "Che i petali siano foglie vegetative non modificate, semplicemente colorate e spostate nel fiore",
+      "Che il calice derivi per riduzione dagli stami, mentre la corolla sia comparsa del tutto indipendentemente",
+      "Che la corolla si sia originata da stami modificati, come mostra il passaggio graduale dei tepali verso gli stami"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nei fiori più antichi il perianzio non è distinto in calice e corolla; la sequenza morfologica in cui i tepali sfumano progressivamente verso gli stami illustra l'origine della corolla a partire da stami modificati, non da carpelli né da semplici foglie vegetative.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-numero-elementi-040",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale tendenza evolutiva si osserva nel numero di elementi di ciascun verticillo fiorale?",
+    "suggestion": "Si passa da fiori con elementi in numero variabile a fiori con un numero costante e prevedibile.",
+    "options": [
+      "Dal numero definito e costante, tipico dei fiori antichi, al numero indeterminato dei fiori più evoluti",
+      "Dal numero indeterminato, tipico dei fiori antichi, al numero definito e costante di elementi per verticillo",
+      "Dalla totale assenza di verticilli a un numero sempre crescente e indefinito di elementi fiorali"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tendenza evolutiva va dal numero indeterminato di elementi per verticillo (tipico dei fiori più antichi) al numero definito e costante. La direzione opposta, da definito a indeterminato, non corrisponde ai dati.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-talamo-041",
+    "topic": "biodiversita-vegetale",
+    "question": "Come evolve il talamo (ricettacolo) del fiore secondo le tendenze evolutive osservate?",
+    "suggestion": "Cambia la distanza tra i verticilli lungo l'asse fiorale: da distesi a molto ravvicinati.",
+    "options": [
+      "Da una condizione allungata, con verticilli distanziati, a una accorciata, con distanza internodale quasi nulla",
+      "Da una condizione accorciata e compatta a una progressivamente più allungata tra i verticilli",
+      "Da un asse ramificato che porta molti fiori a un asse semplice che ne porta uno solo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il talamo evolve da una condizione allungata, con maggiore distanza internodale tra i verticilli, verso una condizione accorciata, con distanza che si riduce fin quasi ad annullarsi. La direzione inversa non corrisponde alla tendenza descritta.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-autocoria-042",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza l'autocoria come modalità di dispersione dei semi?",
+    "suggestion": "La pianta dissemina da sé, senza affidarsi ad agenti esterni come vento, acqua o animali.",
+    "options": [
+      "La dispersione dei semi affidata alle correnti dell'acqua, tipica delle piante acquatiche galleggianti",
+      "La dispersione dei semi trasportati esternamente dagli animali grazie a frutti uncinati e adesivi",
+      "L'autodisseminazione operata dal frutto stesso, per semplice deiscenza e caduta, senza energie esterne"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'autocoria è l'autodisseminazione: il frutto dissemina da sé, per semplice deiscenza (apertura spontanea a maturità) e caduta, senza bisogno di agenti esterni. La dispersione con l'acqua è l'idrocoria, quella con animali la zoocoria.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.39"
+  },
+  {
+    "id": "bdv-angio-idrocoria-043",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale adattamento dei frutti o dei semi è associato alla dispersione idrocora?",
+    "suggestion": "Per sfruttare l'acqua come mezzo di trasporto, il seme deve poter restare in superficie per un certo tempo.",
+    "options": [
+      "Un'ala membranosa o un pappo di peli che aumentano la resistenza dell'aria durante la caduta",
+      "La capacità di galleggiare almeno per un certo periodo, tipica di molte piante acquatiche",
+      "Un rivestimento carnoso e zuccherino che invoglia gli animali a ingerire il frutto e disperderne i semi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'idrocoria è la dispersione per mezzo dell'acqua, privilegiata dalle piante acquatiche, i cui frutti o semi galleggiano almeno per un certo periodo. Ali e pappo servono all'anemocoria, i frutti carnosi zuccherini alla zoocoria (endozoocoria).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.40"
+  },
+  {
+    "id": "bdv-angio-zoocoria-sottotipi-044",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale sottotipo di zoocoria è correttamente abbinato al suo esempio?",
+    "suggestion": "Associa ciascun agente animale — formiche, roditori, uccelli — al termine specifico che lo indica.",
+    "options": [
+      "Ornitocoria, dispersione a opera dei roditori come la nocciola Corylus avellana",
+      "Mirmecocoria, dispersione a opera degli uccelli come in Passiflora sp.",
+      "Glirocoria, dispersione a opera dei rettili come nelle piante saurocore mediterranee",
+      "Mirmecocoria, dispersione a opera delle formiche come in Chelidonium majus"
+    ],
+    "correctIndex": 3,
+    "explanation": "La mirmecocoria è la dispersione a opera delle formiche, come in Chelidonium majus. La dispersione da roditori (es. Corylus avellana) è la glirocoria, quella da uccelli (es. Passiflora) l'ornitocoria, quella da rettili la saurocoria.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.41"
+  },
+  {
+    "id": "bdv-angio-apg-struttura-045",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali tre grandi raggruppamenti il sistema APG IV (2016) organizza le angiosperme?",
+    "suggestion": "Oltre ai due grandi gruppi distinti per numero di cotiledoni, c'è un insieme di ordini differenziatisi per primi.",
+    "options": [
+      "Gimnosperme, Pteridofite e Briofite, secondo il livello di organizzazione del sistema vascolare",
+      "Magnoliidae, Hamamelidae e Rosidae, le tre sottoclassi principali del sistema Cronquist",
+      "Gruppi basali, Monocotiledoni ed Eudicotiledoni, secondo l'analisi filogenetica molecolare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il sistema APG IV (2016), su base molecolare, organizza le angiosperme in gruppi basali, Monocotiledoni ed Eudicotiledoni. Gimnosperme, pteridofite e briofite non sono angiosperme; Magnoliidae, Hamamelidae e Rosidae sono sottoclassi del più vecchio sistema Cronquist.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.41"
   }
 ]

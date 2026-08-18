@@ -225,5 +225,248 @@
     "explanation": "Il colletto è la zona di passaggio tra radice e fusto: qui i tessuti conduttori devono riorganizzare la disposizione (dall'actinostele con arche alternate della radice ai fasci con xilema e floema affiancati del fusto), il che ne fa un punto anatomicamente delicato.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.48-49"
+  },
+  {
+    "id": "bvg-rad-origine-evolutiva-016",
+    "topic": "biologia-vegetale",
+    "question": "A partire da quale gruppo, nella storia evolutiva delle piante, compare la radice come organo specializzato?",
+    "suggestion": "Le forme più antiche ne erano prive; l'organo compare con un gruppo di crittogame vascolari.",
+    "options": [
+      "Fin dai primi Cyanobacteria, procarioti fotosintetici privi di nucleo differenziato",
+      "Soltanto con le Angiosperme, le piante più recenti dotate di fiore, seme e frutto",
+      "A partire dalle Felci in poi; le forme vegetali precedenti erano prive di un vero sistema radicale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radice è un organo tipico delle Cormofite, comparso nella storia evolutiva a partire dalle Felci in poi. Le forme vegetali precedenti, prive di un vero sistema radicale, non disponevano di questo organo specializzato nell'ancoraggio e nell'assorbimento.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.45"
+  },
+  {
+    "id": "bvg-rad-funzioni-017",
+    "topic": "biologia-vegetale",
+    "question": "Oltre all'assorbimento di acqua e sali, quale funzione della radice è particolarmente sviluppata nelle piante svernanti?",
+    "suggestion": "Serve a superare la stagione fredda accumulando qualcosa in organi sotterranei.",
+    "options": [
+      "L'accumulo di sostanze di riserva in organi sotterranei, utile a superare la stagione fredda",
+      "La fotosintesi clorofilliana, grazie ai numerosi cloroplasti presenti nell'epidermide radicale",
+      "La produzione dei gameti e la successiva dispersione delle spore riproduttive nel terreno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra le funzioni della radice (assorbimento, conduzione, esplorazione del terreno, ancoraggio e riserva), la funzione di riserva è particolarmente sviluppata nelle piante svernanti, che superano la stagione fredda accumulando sostanze nutritive in organi sotterranei.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.45"
+  },
+  {
+    "id": "bvg-rad-cuffia-morte-018",
+    "topic": "biologia-vegetale",
+    "question": "Attraverso quali processi si disfano le cellule della cuffia (caliptra) durante l'avanzamento della radice nel terreno?",
+    "suggestion": "Non solo per lo sfregamento col suolo, ma anche per un processo attivo e regolato.",
+    "options": [
+      "Solo per congelamento durante i mesi più freddi, restando invece intatte nel resto dell'anno",
+      "Per frizione meccanica con il suolo e per morte cellulare programmata, geneticamente controllata",
+      "Per digestione da parte dei batteri azotofissatori, che ne dissolvono le pareti per nutrirsi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le cellule della cuffia vanno incontro a disfacimento sia per frizione meccanica col terreno sia per un vero e proprio processo di morte cellulare programmata (autodistruzione geneticamente controllata). Nel disfarsi liberano mucillagini che riducono l'attrito con le particelle del suolo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.45"
+  },
+  {
+    "id": "bvg-rad-capillizio-019",
+    "topic": "biologia-vegetale",
+    "question": "Perché il capillizio radicale, cioè l'insieme dei peli radicali, è essenziale per l'assorbimento?",
+    "suggestion": "Ha a che fare con quanta superficie la radice mette a contatto con il terreno.",
+    "options": [
+      "Perché impermeabilizza la superficie radicale con una cuticola, impedendo la perdita di acqua",
+      "Perché ancora meccanicamente la pianta al suolo, penetrando in profondità come un fittone",
+      "Perché aumenta enormemente la superficie di scambio tra la radice e il terreno circostante"
+    ],
+    "correctIndex": 2,
+    "explanation": "I peli radicali sono estroflessioni tubulari delle cellule epidermiche che aumentano enormemente la superficie di scambio tra radice e terreno, incrementando l'efficienza dell'assorbimento di acqua e sali. A questo livello i tegumenti non sono impermeabilizzati, così da consentire il passaggio dei soluti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.46"
+  },
+  {
+    "id": "bvg-rad-tricoblasti-020",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Le cellule del rizoderma capaci di differenziarsi in peli radicali sono dette ___, e si distinguono dagli atricoblasti, che non producono peli.",
+    "answers": [
+      [
+        "tricoblasti",
+        "tricoblasto"
+      ]
+    ],
+    "suggestion": "Il nome contiene la radice greca 'trico-', che indica il pelo.",
+    "explanation": "Nel rizoderma (epidermide radicale) si distinguono due tipi cellulari: i tricoblasti, cellule capaci di differenziarsi in peli radicali, e gli atricoblasti, cellule epidermiche prive di questa capacità.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.46"
+  },
+  {
+    "id": "bvg-rad-corteccia-021",
+    "topic": "biologia-vegetale",
+    "question": "Da quali tessuti è costituita prevalentemente la corteccia della radice, tra rizoderma e cilindro centrale?",
+    "suggestion": "Sono tessuti di riempimento vivi, alcuni per l'aria e alcuni per l'amido.",
+    "options": [
+      "Da cellule morte e fortemente lignificate dello sclerenchima, con funzione di sola conduzione idrica",
+      "Da tubi cribrosi vivi e cellule compagne, specializzati nel trasporto della linfa elaborata zuccherina",
+      "Dal periderma secondario, cioè dal sughero e dal felloderma prodotti dall'attività del fellogeno",
+      "Da tessuti parenchimatici, tra cui l'aerifero (diffusione dell'aria) e l'amilifero (riserva di amido)"
+    ],
+    "correctIndex": 3,
+    "explanation": "La corteccia della radice, derivata dal meristema fondamentale, è costituita prevalentemente da tessuti parenchimatici, tra cui il parenchima aerifero (immagazzinamento e diffusione dell'aria) e il parenchima amilifero (accumulo di amido di riserva).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-endoderma-filtro-022",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione dell'endoderma, tessuto posto tra la corteccia e il cilindro centrale della radice?",
+    "suggestion": "Controlla che cosa passa prima di raggiungere i vasi conduttori centrali.",
+    "options": [
+      "Produrre i peli radicali della zona pilifera, che assorbono acqua e sali minerali dal terreno",
+      "Filtrare selettivamente la linfa grezza prima che raggiunga i tessuti conduttori centrali",
+      "Generare le radici laterali, riprendendo l'attività mitotica in qualità di strato rizogeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'endoderma è il tessuto tegumentale più profondo della radice, posto a delimitare la corteccia dal cilindro centrale: filtra selettivamente la linfa grezza prima che raggiunga i tessuti conduttori, grazie alla banda del Caspary. La formazione delle radici laterali spetta invece al periciclo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-cilindro-centrale-023",
+    "topic": "biologia-vegetale",
+    "question": "Quali tessuti si trovano all'interno del cilindro centrale (o cilindro vascolare) della radice?",
+    "suggestion": "È la parte più interna, sede della conduzione, delimitata da uno strato particolare.",
+    "options": [
+      "Soltanto parenchima aerifero e amilifero, con funzione di diffusione dell'aria e di riserva di amido",
+      "L'epidermide con i peli radicali assorbenti e la cuticola che impermeabilizza la superficie esterna",
+      "I tessuti conduttori primari, xilema e floema, delimitati esternamente dal periciclo (strato rizogeno)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cilindro centrale è la porzione più interna della radice, deputata alla conduzione: contiene lo xilema primario (proto- e metaxilema) e il floema primario, ed è delimitato esternamente dal periciclo, lo strato rizogeno da cui originano le radici laterali.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-arche-composizione-024",
+    "topic": "biologia-vegetale",
+    "question": "Da quali elementi sono costituite le arche xilematiche della struttura actinostelica della radice?",
+    "suggestion": "Sono cellule morte e lignificate, specializzate nel trasporto dell'acqua.",
+    "options": [
+      "Da trachee, tracheidi o fibrotracheidi, cellule morte e lignificate per la conduzione dell'acqua",
+      "Da tubi cribrosi vivi, che conducono la soluzione zuccherina elaborata prodotta con la fotosintesi",
+      "Da cellule di guardia disposte a coppie, che regolano l'apertura e la chiusura delle rime stomatiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella struttura actinostelica xilema e floema si organizzano in gruppi separati e alternati (arche). Le arche xilematiche sono formate da trachee, tracheidi o fibrotracheidi (cellule morte lignificate per la conduzione dell'acqua); le arche floematiche dai tubi cribrosi vivi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-actinostele-fill-025",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La disposizione radiale di xilema e floema in gruppi separati e alternati (arche), tipica della radice, è detta struttura ___.",
+    "answers": [
+      [
+        "actinostelica",
+        "actinostele"
+      ]
+    ],
+    "suggestion": "Il nome deriva dal greco 'actis', raggio, per la disposizione a raggiera.",
+    "explanation": "La struttura actinostelica (dal greco actis, raggio) è la disposizione dei tessuti conduttori primari della radice in cui xilema e floema si organizzano in gruppi separati e alternati, detti arche, disposti radialmente. Nel fusto, invece, xilema e floema sono affiancati nello stesso fascio.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.47"
+  },
+  {
+    "id": "bvg-rad-laterali-origine-026",
+    "topic": "biologia-vegetale",
+    "question": "Perché le radici laterali sono dette a origine profonda (endogena)?",
+    "suggestion": "Nascono da un tessuto interno e devono farsi strada verso l'esterno.",
+    "options": [
+      "Perché nascono dai tricoblasti superficiali del rizoderma e restano sempre esterne alla corteccia",
+      "Perché originano dal periciclo interno e attraversano la corteccia e il rizoderma per emergere",
+      "Perché derivano direttamente dalla cuffia radicale, che le protegge durante la crescita nel suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le radici laterali hanno origine profonda perché si formano dal periciclo, tessuto interno detto strato rizogeno: le sue cellule riprendono l'attività mitotica e generano un primordio che attraversa progressivamente corteccia e rizoderma della radice principale fino a emergere all'esterno.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.48"
+  },
+  {
+    "id": "bvg-rad-napiforme-027",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è una radice napiforme, come quella della barbabietola (Beta vulgaris)?",
+    "suggestion": "È una radice principale gonfia e tondeggiante, piena di riserve.",
+    "options": [
+      "Una radice aerea che penetra nei tessuti di una pianta ospite per sottrarne acqua e nutrimento",
+      "Una radice sottile, avventizia e fascicolata, priva di una radice principale nettamente dominante",
+      "Una radice principale ingrossata e tondeggiante, per accumulo di riserve nella porzione prossimale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radice napiforme è una radice ingrossata, di forma rigonfia e tondeggiante, derivata dall'accumulo di sostanze di riserva nella porzione prossimale della radice principale; un esempio è la barbabietola (Beta vulgaris).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.49"
+  },
+  {
+    "id": "bvg-rad-tuberosa-028",
+    "topic": "biologia-vegetale",
+    "question": "Quale carattere accomuna le radici tuberose di manioca, patata dolce e liquirizia?",
+    "suggestion": "Sono tutte rigonfie e carnose per una stessa ragione funzionale.",
+    "options": [
+      "Sono radici modificate, rigonfie e carnose, specializzate nell'accumulo di sostanze di riserva",
+      "Sono radici aeree modificate in austori, che penetrano nei tessuti di una pianta ospite parassitata",
+      "Sono radici che crescono verticalmente verso l'alto per ossigenare i tessuti sommersi nell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le radici tuberose sono radici modificate per l'accumulo di sostanze di riserva, con aspetto rigonfio e carnoso: esempi sono la manioca (da cui si ricavano tapioca e farine), la patata dolce, la curcuma, la liquirizia e il ginseng.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.49-50"
+  },
+  {
+    "id": "bvg-rad-trampolo-029",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione delle radici a trampolo (o colonnari) del Ficus e delle mangrovie?",
+    "suggestion": "Scendono dal fusto o dai rami verso il suolo per un preciso scopo strutturale.",
+    "options": [
+      "Penetrare nei tessuti di una pianta ospite per sottrarne acqua e sostanze nutritive, come fanno i parassiti",
+      "Fornire un sostegno meccanico supplementare, scendendo dal fusto o dai rami fino al terreno",
+      "Assorbire l'ossigeno atmosferico emergendo verticalmente da un substrato asfittico e saturo d'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le radici a trampolo (colonnari) sono radici avventizie di grosso calibro che si sviluppano dal fusto o dai rami e scendono al terreno, fornendo un sostegno meccanico supplementare. Sono tipiche di alcuni Ficus (es. Ficus magnolioides) e delle mangrovie, su substrati instabili.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.50"
+  },
+  {
+    "id": "bvg-rad-gimnosperme-030",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa la struttura secondaria della radice delle Gimnosperme differisce da quella delle Dicotiledoni?",
+    "suggestion": "Cambiano il tipo di legno e la presenza di strutture secretrici particolari.",
+    "options": [
+      "Ha legno eteroxilo con vasi ampi e manca del tutto di canali secretori nel corpo del legno",
+      "Non sviluppa alcuna struttura secondaria e conserva la sola struttura primaria per tutta la vita",
+      "Ha legno omoxilo (fibrotracheidi, senza vasi) e presenta canali resiniferi produttori di resina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La radice delle Gimnosperme, pur avendo struttura secondaria, se ne distingue per il legno omoxilo (costituito da fibrotracheidi, senza i vasi del legno eteroxilo delle Dicotiledoni) e per la presenza di canali resiniferi, strutture secretrici che producono e accumulano resina.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.49"
+  },
+  {
+    "id": "bvg-rad-cambio-attivazione-031",
+    "topic": "biologia-vegetale",
+    "question": "Dove si attiva inizialmente il cambio cribrovascolare nella radice, prima di formare un anello continuo?",
+    "suggestion": "Parte da uno dei due tipi di arche del cilindro centrale, non dagli apici né dal midollo.",
+    "options": [
+      "In corrispondenza delle arche floematiche, per poi estendersi fino a circondare tutto il cilindro centrale",
+      "Nella cuffia radicale, che protegge l'apice durante l'avanzamento e la penetrazione nel terreno profondo",
+      "Nel midollo centrale, elemento che risulta però sempre presente in ogni radice di dicotiledone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella radice il cambio cribrovascolare si attiva inizialmente in corrispondenza delle arche floematiche, per poi estendersi fino a formare un anello continuo con attività dipleurica (xilema secondario verso l'interno, floema verso l'esterno). A differenza del fusto, la radice in struttura secondaria non presenta midollo.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.48"
   }
 ]

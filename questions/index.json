@@ -374,97 +374,97 @@
           "species": "Tassonomia e sistematica vegetale",
           "file": "Biodiversita_vegetale/tassonomia.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 19
+          "count": 38
         },
         {
           "species": "Procarioti: Bacteria e Archaea",
           "file": "Biodiversita_vegetale/procarioti.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 19
+          "count": 38
         },
         {
           "species": "Protisti: le alghe",
           "file": "Biodiversita_vegetale/alghe.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 18
+          "count": 36
         },
         {
           "species": "Le briofite",
           "file": "Biodiversita_vegetale/briofite.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 19
+          "count": 38
         },
         {
           "species": "Le pteridofite",
           "file": "Biodiversita_vegetale/pteridofite.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 19
+          "count": 38
         },
         {
           "species": "La riproduzione delle piante — evoluzione del seme e Gimnosperme",
           "file": "Biodiversita_vegetale/gimnosperme.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 19
+          "count": 39
         },
         {
           "species": "Le Angiosperme — fiore, frutto e riproduzione",
           "file": "Biodiversita_vegetale/angiosperme.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 22
+          "count": 45
         },
         {
           "species": "I funghi e i licheni",
           "file": "Biodiversita_vegetale/funghi-licheni.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 23
+          "count": 46
         },
         {
           "species": "Biodiversità: distribuzione, minacce e conservazione",
           "file": "Biodiversita_vegetale/biodiversita-conservazione.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 22
+          "count": 44
         },
         {
           "species": "Sistematica: ordini basali e Magnolidi",
           "file": "Biodiversita_vegetale/sistematica-basali-magnoliidi.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 9
+          "count": 23
         },
         {
           "species": "Sistematica: Monocotiledoni",
           "file": "Biodiversita_vegetale/sistematica-monocotiledoni.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 22
+          "count": 44
         },
         {
           "species": "Sistematica: Eudicotiledoni basali (Ranuncolaceae, Papaveraceae, Cariofillaceae)",
           "file": "Biodiversita_vegetale/sistematica-eudicot-basali.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 15
+          "count": 30
         },
         {
           "species": "Sistematica: clado dei Fabidi (Fabaceae, Rosaceae, Fagaceae...)",
           "file": "Biodiversita_vegetale/sistematica-fabidi.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 18
+          "count": 36
         },
         {
           "species": "Sistematica: clado delle Malvidi (Brassicaceae, Sapindaceae/aceri)",
           "file": "Biodiversita_vegetale/sistematica-malvidi.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 15
+          "count": 31
         },
         {
           "species": "Sistematica: clado dei Lamiidi (Lamiaceae, Oleaceae, Rubiaceae...)",
           "file": "Biodiversita_vegetale/sistematica-lamiidi.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 15
+          "count": 30
         },
         {
           "species": "Sistematica: clado delle Campanulidi (Apiaceae, Asteraceae...)",
           "file": "Biodiversita_vegetale/sistematica-campanulidi.json",
           "source": "docs/Biodiversità vegetale/Biodiversità vegetale.pdf",
-          "count": 18
+          "count": 36
         }
       ]
     },
@@ -476,85 +476,85 @@
           "species": "Le molecole della vita: acqua e chimica del carbonio",
           "file": "Biodiversita_vegetale/bio-molecole-acqua.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 12
+          "count": 24
         },
         {
           "species": "I carboidrati",
           "file": "Biodiversita_vegetale/bio-carboidrati.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 12
+          "count": 24
         },
         {
           "species": "I lipidi",
           "file": "Biodiversita_vegetale/bio-lipidi.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 10
+          "count": 20
         },
         {
           "species": "Proteine, amminoacidi e nucleotidi",
           "file": "Biodiversita_vegetale/bio-proteine-nucleotidi.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 15
+          "count": 30
         },
         {
           "species": "La cellula vegetale e i suoi organelli",
           "file": "Biodiversita_vegetale/bio-cellula-organelli.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 20
+          "count": 40
         },
         {
           "species": "Parete cellulare e connessioni intercellulari",
           "file": "Biodiversita_vegetale/bio-parete-cellulare.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 14
+          "count": 29
         },
         {
           "species": "I tessuti vegetali",
           "file": "Biodiversita_vegetale/bio-tessuti.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 22
+          "count": 45
         },
         {
           "species": "Il fusto: anatomia primaria e secondaria",
           "file": "Biodiversita_vegetale/bio-fusto.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 15
+          "count": 31
         },
         {
           "species": "La radice: anatomia e modificazioni",
           "file": "Biodiversita_vegetale/bio-radice.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 15
+          "count": 31
         },
         {
           "species": "La foglia: anatomia e adattamenti",
           "file": "Biodiversita_vegetale/bio-foglia.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 17
+          "count": 34
         },
         {
           "species": "Membrane cellulari, trasporto e potenziale idrico",
           "file": "Biodiversita_vegetale/bio-membrane-trasporto.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 20
+          "count": 40
         },
         {
           "species": "Trasporto xilematico e floematico",
           "file": "Biodiversita_vegetale/bio-xilema-floema.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 20
+          "count": 43
         },
         {
           "species": "La respirazione cellulare",
           "file": "Biodiversita_vegetale/bio-respirazione.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 18
+          "count": 36
         },
         {
           "species": "La fotosintesi",
           "file": "Biodiversita_vegetale/bio-fotosintesi.json",
           "source": "docs/Biodiversità vegetale/Biologia veg.pdf",
-          "count": 20
+          "count": 40
         }
       ]
     }

@@ -301,5 +301,308 @@
     "explanation": "La RuBisCO addiziona la CO2 al ribulosio 1,5-bisfosfato (RuBP, C5) formando un intermedio C6 instabile che si scinde subito in due molecole di acido 3-fosfoglicerico (PGA, C3): è il primo composto stabile, da cui il nome piante C3. Nelle C4 il primo composto è invece l'ossalacetato (C4).",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.94"
+  },
+  {
+    "id": "bvg-fot-organicazione-021",
+    "topic": "biologia-vegetale",
+    "question": "Cosa si intende per 'organicazione della CO2' nella fotosintesi?",
+    "suggestion": "Il termine indica il passaggio del carbonio da inorganico a organico.",
+    "options": [
+      "La liberazione di CO2 dalla demolizione degli zuccheri di riserva della pianta",
+      "La scissione della molecola d'acqua con rilascio di ossigeno molecolare",
+      "L'incorporazione del carbonio inorganico (CO2) in scheletri carboniosi organici, cioè in zuccheri"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'organicazione della CO2 è l'incorporazione del carbonio inorganico in scheletri carboniosi organici (zuccheri semplici): è il cuore della fase di fissazione. Avviene contemporaneamente alla fotolisi dell'acqua, che è invece responsabile del rilascio dell'ossigeno.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.88"
+  },
+  {
+    "id": "bvg-fot-vanniel-022",
+    "topic": "biologia-vegetale",
+    "question": "Quale donatore di elettroni usano i solfobatteri purpurei studiati da Van Niel, e con quale prodotto di scarto?",
+    "suggestion": "Questi batteri depositano zolfo, non liberano ossigeno.",
+    "options": [
+      "L'acqua (H2O), liberando ossigeno molecolare come le piante superiori",
+      "La CO2, che scindono direttamente per ricavarne ossigeno gassoso",
+      "L'acido solfidrico (H2S), liberando zolfo elementare anziché ossigeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "I solfobatteri purpurei usano l'acido solfidrico (H2S) come donatore di elettroni, liberando zolfo elementare (2S) anziché ossigeno. Per analogia (CO2 + 2H2A), Van Niel dedusse che nelle piante l'O2 deriva dalla fotolisi dell'acqua, non dalla CO2.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.88"
+  },
+  {
+    "id": "bvg-fot-elodea-023",
+    "topic": "biologia-vegetale",
+    "question": "Cosa dimostrano le bollicine liberate dalle foglie illuminate della pianta acquatica Elodea densa?",
+    "suggestion": "Sono visibili solo alla luce, quando la fotosintesi è attiva.",
+    "options": [
+      "Che di giorno la pianta assorbe ossigeno soltanto per la respirazione",
+      "Che le foglie illuminate liberano ossigeno, prodotto visibile della fotosintesi",
+      "Che le bollicine sono CO2 proveniente dalla fotolisi dell'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le bollicine liberate dalle foglie illuminate di Elodea densa sono ossigeno: rendono visibile macroscopicamente l'evoluzione di O2 dovuta alla fotosintesi. L'ossigeno deriva dalla fotolisi dell'acqua, non dalla CO2.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.89"
+  },
+  {
+    "id": "bvg-fot-natura-luce-024",
+    "topic": "biologia-vegetale",
+    "question": "Secondo la fisica, qual è la natura della luce impiegata nella fotosintesi?",
+    "suggestion": "I due modelli non si escludono: coesistono.",
+    "options": [
+      "Esclusivamente ondulatoria, cioè un'onda elettromagnetica continua",
+      "Esclusivamente corpuscolare, cioè un flusso di particelle dette fotoni",
+      "Duplice: sia onda elettromagnetica sia particella (fotone), secondo il fenomeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La luce ha natura duplice e complementare: alcuni fenomeni si spiegano trattandola come onda elettromagnetica (con λ e frequenza), altri come particelle discrete (fotoni, E = hν). I due modelli descrivono aspetti diversi dello stesso fenomeno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.89"
+  },
+  {
+    "id": "bvg-fot-colore-025",
+    "topic": "biologia-vegetale",
+    "question": "Perché una foglia appare verde all'osservatore?",
+    "suggestion": "Il colore percepito è la luce che l'oggetto NON assorbe.",
+    "options": [
+      "Perché riflette (o trasmette) la luce verde e assorbe le altre lunghezze d'onda",
+      "Perché assorbe selettivamente la luce verde e riflette tutte le altre",
+      "Perché trasmette tutta la luce incidente senza assorbirne alcuna parte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un oggetto assorbe certe lunghezze d'onda e riflette (o trasmette) quella complementare, che ne determina il colore percepito: la foglia appare verde perché riflette/trasmette il verde e assorbe le altre λ (rosso e blu), impiegate nella fotosintesi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.90"
+  },
+  {
+    "id": "bvg-fot-fluorescenza-026",
+    "topic": "biologia-vegetale",
+    "question": "Cosa accade a una molecola di clorofilla eccitata se viene staccata dalla membrana tilacoidale?",
+    "suggestion": "Fuori dal fotosistema l'energia non può più essere sfruttata.",
+    "options": [
+      "Continua a trasferire l'energia per risonanza e ossidoriduzione, come nel tilacoide",
+      "Non è più in grado di assorbire alcun fotone di luce visibile",
+      "Disperde l'energia assorbita solo come fluorescenza rossastra, senza utilizzarla"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le clorofille staccate dalle membrane tilacoidali, se eccitate, non possono più trasferire l'energia per risonanza o ossidoriduzione (che richiedono l'organizzazione nel fotosistema): la disperdono unicamente come fluorescenza rossastra. L'organizzazione in membrana è quindi essenziale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.91"
+  },
+  {
+    "id": "bvg-fot-spettro-azione-027",
+    "topic": "biologia-vegetale",
+    "question": "A cosa corrisponde lo spettro d'azione della fotosintesi?",
+    "suggestion": "Tutti i pigmenti, non solo la clorofilla a, contribuiscono.",
+    "options": [
+      "Solo allo spettro di assorbimento della clorofilla a, unico pigmento attivo",
+      "Alla somma degli spettri di assorbimento delle clorofille e dei pigmenti accessori",
+      "Allo spettro della luce riflessa dalla foglia, che ne determina il colore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo spettro d'azione della fotosintesi corrisponde alla somma degli spettri di assorbimento delle clorofille e dei pigmenti accessori, perché tutti contribuiscono alla captazione della luce. Il confronto con gli spettri di assorbimento provò il coinvolgimento diretto dei pigmenti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.91"
+  },
+  {
+    "id": "bvg-fot-engelman-028",
+    "topic": "biologia-vegetale",
+    "question": "Cosa si osservò nell'esperimento di Engelman con l'alga Spirogyra e batteri aerobi?",
+    "suggestion": "I batteri fanno da 'sensore' dell'ossigeno prodotto.",
+    "options": [
+      "I batteri fuggivano dalle zone illuminate, danneggiati dall'ossigeno prodotto",
+      "I batteri si distribuivano uniformemente, a prescindere dal colore della luce",
+      "I batteri si addensavano dove l'alga liberava più O2, cioè dove la fotosintesi era più attiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'esperimento di Engelman i batteri aerobi, attratti dall'ossigeno, si concentravano lungo il filamento di Spirogyra nelle regioni illuminate dalle lunghezze d'onda in cui la fotosintesi era più attiva. Lo spettro d'azione risultò così sovrapponibile allo spettro di assorbimento della clorofilla.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.91"
+  },
+  {
+    "id": "bvg-fot-schema-z-029",
+    "topic": "biologia-vegetale",
+    "question": "Cosa rappresenta lo 'schema Z' della fase luminosa?",
+    "suggestion": "Il nome deriva dalla forma del grafico energia/percorso.",
+    "options": [
+      "La disposizione fisica dei grana e dei tilacoidi nello stroma",
+      "La struttura molecolare dell'anello tetrapirrolico della clorofilla",
+      "Il percorso a zig-zag degli elettroni tra i due fotosistemi, secondo il potenziale energetico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo schema Z rappresenta il percorso degli elettroni tra fotosistema II e fotosistema I in funzione del potenziale energetico: l'andamento a zig-zag (che ricorda la Z) mostra gli elettroni che salgono di energia assorbendo luce e scendono lungo i trasportatori, dall'acqua fino al NADP+.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.92"
+  },
+  {
+    "id": "bvg-fot-plastocianina-030",
+    "topic": "biologia-vegetale",
+    "question": "Attraverso quali trasportatori fluiscono gli elettroni dal fotosistema II al fotosistema I?",
+    "suggestion": "Sono gli stessi trasportatori intermedi dello schema Z.",
+    "options": [
+      "Solo attraverso la ferredossina e la NADP+ reduttasi dello stroma",
+      "Plastochinone, complesso dei citocromi e plastocianina, immersi nel tilacoide",
+      "Direttamente dall'acqua al NADP+, senza alcun trasportatore intermedio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli elettroni dal PS II al PS I fluiscono attraverso il plastochinone (Pq), il complesso dei citocromi e la plastocianina (Pc), trasportatori immersi nella membrana tilacoidale; il passaggio nel complesso dei citocromi è accoppiato alla sintesi di ATP (fotofosforilazione non ciclica).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.92"
+  },
+  {
+    "id": "bvg-fot-nonciclica-031",
+    "topic": "biologia-vegetale",
+    "question": "Cosa si intende per fotofosforilazione non ciclica?",
+    "suggestion": "'Non ciclica' perché gli elettroni non tornano indietro: vanno dall'acqua al NADP+.",
+    "options": [
+      "La sintesi di ATP associata al flusso non ciclico di elettroni dall'acqua al NADP+",
+      "La sintesi di ATP che coinvolge solo il fotosistema I, senza produrre NADPH2",
+      "L'idrolisi di ATP impiegata per pompare i protoni dentro il lume tilacoidale acido"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fotofosforilazione non ciclica è la sintesi di ATP associata al flusso non ciclico di elettroni che va dall'acqua (PS II) fino al NADP+ (PS I), producendo anche NADPH2 e O2. La variante ciclica coinvolge solo il PS I e produce ATP senza NADPH2 né O2.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.92-93"
+  },
+  {
+    "id": "bvg-fot-rubisco-struttura-032",
+    "topic": "biologia-vegetale",
+    "question": "Cosa caratterizza l'abbondanza e la struttura quaternaria della Rubisco?",
+    "suggestion": "È un enorme complesso solubile dello stroma, non di membrana.",
+    "options": [
+      "È un piccolo enzima monomerico e raro, presente solo nelle piante C4 tropicali",
+      "Costituisce fino al 30% delle proteine fogliari ed è formata da 8 subunità grandi e 8 piccole",
+      "È un enzima integrale di membrana, ancorato al tilacoide dalla coda di fitolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Rubisco può costituire fino al 30% delle proteine fogliari (probabilmente la proteina più abbondante sulla Terra) e ha struttura quaternaria con 8 subunità grandi (53-55 kDa) e 8 piccole (14-15 kDa), per circa 480 kDa totali.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.94"
+  },
+  {
+    "id": "bvg-fot-fase-oscura-033",
+    "topic": "biologia-vegetale",
+    "question": "Perché la definizione 'fase oscura' per il ciclo di Calvin è impropria?",
+    "suggestion": "Non è questione di buio, ma di dipendenza dai prodotti della luce.",
+    "options": [
+      "Perché quelle reazioni avvengono soltanto di notte, al buio completo",
+      "Perché non richiedono direttamente la luce, ma dipendono dai prodotti della fase luminosa",
+      "Perché consumano ossigeno molecolare invece di produrne"
+    ],
+    "correctIndex": 1,
+    "explanation": "La definizione 'fase oscura' è impropria: le reazioni del ciclo di Calvin non richiedono direttamente la luce, ma dipendono dall'ATP e dal NADPH2 prodotti dalla fase luminosa. Possono quindi avvenire al buio solo per un tempo limitato, finché durano quei prodotti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.93"
+  },
+  {
+    "id": "bvg-fot-calvin-riduzione-034",
+    "topic": "biologia-vegetale",
+    "question": "Nella fase di riduzione del ciclo di Calvin, a cosa servono l'ATP e il NADPH2 prodotti dalla fase luminosa?",
+    "suggestion": "Servono a portare il PGA fino al trioso finale (PGAL).",
+    "options": [
+      "A scindere l'acqua nel lume del tilacoide, liberando ossigeno molecolare",
+      "A rigenerare la clorofilla ossidata del centro di reazione P680",
+      "A fosforilare e ridurre il PGA fino a gliceraldeide 3-fosfato (PGAL)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella fase di riduzione ciascuna molecola di PGA viene fosforilata (consumando ATP) a 1,3-bisfosfoglicerato e poi ridotta (consumando NADPH2) a gliceraldeide 3-fosfato (PGAL). L'ATP e il NADPH2 della fase luminosa servono proprio a questo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.94"
+  },
+  {
+    "id": "bvg-fot-gliossilato-035",
+    "topic": "biologia-vegetale",
+    "question": "Quali tre compartimenti cellulari coinvolge il recupero del fosfoglicolato della fotorespirazione?",
+    "suggestion": "Tre organuli cooperano per recuperare il carbonio 'perso'.",
+    "options": [
+      "Citosol, reticolo endoplasmatico e apparato di Golgi",
+      "Cloroplasto, vacuolo e parete cellulare",
+      "Cloroplasto, perossisoma e mitocondrio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il recupero del fosfoglicolato prodotto dalla fotorespirazione (ciclo fotorespiratorio) coinvolge tre compartimenti: cloroplasto, perossisoma e mitocondrio. Permette di recuperare parte della CO2 e dell'energia, reimmettendo 3-fosfoglicerato nel ciclo di Calvin.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.95"
+  },
+  {
+    "id": "bvg-fot-pep-bicarbonato-036",
+    "topic": "biologia-vegetale",
+    "question": "Quale substrato fissa la PEP carbossilasi nel mesofillo delle piante C4?",
+    "suggestion": "Non usa la CO2 gassosa, ma la sua forma ionica disciolta.",
+    "options": [
+      "Il bicarbonato (HCO3-) in forma di sale disciolto, non la CO2 gassosa",
+      "L'ossigeno molecolare (O2), come fa la Rubisco in fotorespirazione",
+      "Il ribulosio 1,5-bisfosfato, l'accettore proprio del ciclo di Calvin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel mesofillo delle piante C4 la PEP carbossilasi fissa il carbonio inorganico sotto forma di bicarbonato (HCO3-) disciolto, non di CO2 gassosa, sul fosfoenolpiruvato (PEP), formando ossalacetato (C4). Questo consente di concentrare poi la CO2 attorno alla Rubisco.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.96"
+  },
+  {
+    "id": "bvg-fot-temperatura-037",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'aumento della temperatura favorisce l'attività ossigenasica della Rubisco?",
+    "suggestion": "Conta il rapporto tra i due gas disciolti, non la loro quantità assoluta.",
+    "options": [
+      "Perché il calore aumenta molto la concentrazione di CO2 disciolta negli spazi interni della foglia",
+      "Perché ad alta temperatura la Rubisco perde del tutto il proprio sito di legame per la CO2",
+      "Perché la solubilità della CO2 cala più di quella dell'O2, abbassando il rapporto CO2/O2"
+    ],
+    "correctIndex": 2,
+    "explanation": "All'aumentare della temperatura la solubilità dei gas cala, ma quella della CO2 diminuisce più rapidamente di quella dell'O2: il rapporto CO2/O2 in soluzione si abbassa, favorendo l'attività ossigenasica della Rubisco (fotorespirazione) rispetto a quella carbossilasica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.94"
+  },
+  {
+    "id": "bvg-fot-fill-feofitina-038",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'accettore primario di elettroni del fotosistema II, simile alla clorofilla ma privo dello ione magnesio centrale, è la ___.",
+    "answers": [
+      [
+        "feofitina",
+        "pheophytin",
+        "feofitine"
+      ]
+    ],
+    "suggestion": "Il nome ricorda la clorofilla, ma le manca il metallo centrale.",
+    "explanation": "L'accettore primario di elettroni del fotosistema II è la feofitina, una molecola simile alla clorofilla ma priva dello ione magnesio centrale. Riceve l'elettrone eccitato dal P680, che resta carico positivamente e lo reintegra dalla fotolisi dell'acqua.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.92"
+  },
+  {
+    "id": "bvg-fot-fill-stroma-039",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il ciclo di Calvin-Benson si svolge nella matrice fluida interna del cloroplasto, detta ___.",
+    "answers": [
+      [
+        "stroma"
+      ]
+    ],
+    "suggestion": "È l'equivalente della matrice mitocondriale, ma nel cloroplasto.",
+    "explanation": "Il ciclo di Calvin-Benson si svolge nello stroma, la matrice fluida interna del cloroplasto, sede degli enzimi solubili di fissazione del carbonio (come la Rubisco). La fase luminosa avviene invece nei tilacoidi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.88"
+  },
+  {
+    "id": "bvg-fot-fill-fitolo-040",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La lunga catena idrocarburica idrofoba che ancora la molecola di clorofilla alla membrana del tilacoide è il ___.",
+    "answers": [
+      [
+        "fitolo",
+        "phytol"
+      ]
+    ],
+    "suggestion": "È la 'coda' liposolubile che immerge la clorofilla nella membrana.",
+    "explanation": "La lunga catena idrocarburica idrofoba legata all'anello tetrapirrolico della clorofilla è il fitolo: ancora la molecola alla membrana del tilacoide. L'anello, ricco di doppi legami coniugati, è invece responsabile dell'assorbimento della luce.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.90"
   }
 ]

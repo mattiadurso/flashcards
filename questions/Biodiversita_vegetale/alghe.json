@@ -268,5 +268,279 @@
     "explanation": "Il crossing over è lo scambio di segmenti di DNA tra cromatidi omologhi durante la meiosi (visibile come chiasma) ed è responsabile della ricombinazione genica e della variabilità che alimenta l'evoluzione delle popolazioni.",
     "difficulty": "easy",
     "source": "Biodiversità vegetale.pdf p.16"
+  },
+  {
+    "id": "bdv-alghe-tre-domini-019",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali tre domini si articola l'albero della vita e quale criterio cellulare li separa?",
+    "suggestion": "Il discrimine è la presenza o assenza di un nucleo racchiuso da membrana.",
+    "options": [
+      "Animalia, Plantae e Fungi, tutti e tre formati solo da organismi pluricellulari",
+      "Bacteria ed Eukarya, entrambi procarioti, e Archaea, unico dominio a cellule nucleate",
+      "Excavata, Cromoalveolata e Archaeplastida, distinti dal tipo di plastidio posseduto",
+      "Archaea e Bacteria, procarioti privi di nucleo membranato, ed Eukarya, con nucleo membranato"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'albero della vita comprende tre domini: Archaea e Bacteria, procarioti (privi di nucleo delimitato da membrana), ed Eukarya (piante, animali, funghi, protisti), con cellule a nucleo membranato. I tre domini derivano da un antenato comune.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.16"
+  },
+  {
+    "id": "bdv-alghe-eterogamia-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue la gamia eterogama dalla isogama?",
+    "suggestion": "Guarda se i due gameti hanno la stessa taglia o taglie diverse, tenendo però conto di dove avviene la loro unione.",
+    "options": [
+      "Nell'eterogama i gameti hanno morfologia diversa, con il femminile più grande, ma si uniscono comunque in acqua",
+      "Nell'eterogama i due gameti sono identici e la fecondazione avviene dentro la struttura femminile",
+      "Nell'eterogama il gamete maschile è immobile e quello femminile flagellato e mobile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'isogamia i gameti hanno uguale morfologia e si uniscono in acqua; nell'eterogamia i gameti differiscono per morfologia (il femminile più grande) ma si uniscono anch'essi in acqua. La fecondazione interna alla struttura femminile con gamete maschile piccolo e mobile è invece dell'oogamia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.16-17"
+  },
+  {
+    "id": "bdv-alghe-allogame-autogame-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue le specie vegetali allogame da quelle autogame?",
+    "suggestion": "La differenza sta nel fatto che i due gameti provengano da individui diversi oppure dallo stesso individuo.",
+    "options": [
+      "Le allogame si fecondano all'interno dello stesso individuo per autofecondazione o cleistogamia",
+      "Le allogame si riproducono solo per via vegetativa, senza mai formare gameti",
+      "Le allogame si fecondano tra individui diversi per impollinazione incrociata, le autogame entro lo stesso individuo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le specie allogame realizzano la fecondazione tra individui diversi tramite impollinazione incrociata; le autogame la realizzano entro lo stesso individuo (autofecondazione o cleistogamia). Entrambe sono forme di riproduzione sessuale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-ciclo-diplonte-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza il ciclo metagenetico diplonte (a meiosi gametica)?",
+    "suggestion": "L'individuo adulto è diploide; la meiosi non riguarda lo zigote ma la produzione dei gameti.",
+    "options": [
+      "L'individuo adulto è diploide e produce direttamente i gameti per meiosi",
+      "L'individuo adulto è aploide e lo zigote, unica cellula diploide, subisce meiosi immediata",
+      "Sporofito e gametofito sono entrambi individui sviluppati che si alternano tra loro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel ciclo diplonte l'adulto è diploide e produce i gameti direttamente per meiosi (meiosi gametica); tipico di animali e alcune alghe. Nell'aplonte l'adulto è aploide con meiosi zigotica; nell'aplo-diplonte si alternano sporofito e gametofito entrambi sviluppati.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-aplo-diplonte-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza il ciclo aplo-diplonte (alternanza di generazioni)?",
+    "suggestion": "Entrambe le generazioni sono individui sviluppati: pensa a chi produce spore e a chi produce gameti.",
+    "options": [
+      "Solo lo sporofito diploide è un individuo sviluppato, mentre il gametofito è ridotto al solo zigote",
+      "L'adulto è sempre aploide e non esiste alcuna fase sporofitica pluricellulare",
+      "Sporofito diploide e gametofito aploide sono entrambi sviluppati: lo sporofito produce spore per meiosi, il gametofito gameti per mitosi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel ciclo aplo-diplonte (meiosi sporica) sporofito diploide e gametofito aploide sono entrambi individui sviluppati: lo sporofito produce spore per meiosi, il gametofito gameti per mitosi. È tipico delle piante e di molte alghe.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-fill-sporofito-024",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel ciclo metagenetico, la generazione che produce gameti è detta gametofito, mentre quella generalmente diploide che produce spore per meiosi è detta ___.",
+    "answers": [
+      [
+        "sporofito"
+      ]
+    ],
+    "suggestion": "Il termine unisce 'spora' e la desinenza -fito che indica la generazione produttrice.",
+    "explanation": "Lo sporofito è la generazione (generalmente diploide) che produce spore per meiosi (sporogonia); il gametofito è la generazione che produce gameti. La loro alternanza definisce il ciclo metagenetico.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-tallofite-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le macroalghe pluricellulari sono dette tallofite?",
+    "suggestion": "Il loro corpo non è organizzato negli organi tipici di una pianta terrestre.",
+    "options": [
+      "Perché il loro corpo è un tallo non differenziato in veri tessuti, radice, fusto e foglia",
+      "Perché possiedono radice, fusto e foglie proprio come le piante terrestri",
+      "Perché sono prive di clorofilla e vivono da eterotrofe ancorate sul fondale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le macroalghe pluricellulari hanno un corpo detto tallo, non differenziato in veri organi (radice, fusto, foglia) né in veri tessuti: per questo sono dette tallofite. Restano autotrofe, con clorofilla a e ruolo di produttori primari.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-cenobio-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è organizzata una microalga a cenobio come Volvox?",
+    "suggestion": "È una colonia, e le sue cellule mantengono la capacità di muoversi.",
+    "options": [
+      "Come una singola cellula rivestita da parete rigida e priva di flagelli",
+      "Come un'unica grande cellula multinucleata priva di setti interni",
+      "Come una colonia globosa di cellule flagellate"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'organizzazione a cenobio è una colonia flagellata globosa (es. Eudorina, Volvox). La cellula uninucleata con parete rigida priva di flagelli è l'organizzazione coccale; la cellula unica multinucleata senza setti è quella sifonale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-coccale-capsale-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue l'organizzazione coccale da quella capsale nelle microalghe?",
+    "suggestion": "Una ha una parete propria rigida attorno alla singola cellula, l'altra è un insieme di cellule immerse in gelatina senza parete propria.",
+    "options": [
+      "La coccale è una cellula con parete rigida, uninucleata e priva di flagelli; la capsale una colonia senza parete propria avvolta in massa gelatinosa",
+      "La coccale è una colonia gelatinosa priva di parete, la capsale una singola cellula con parete rigida",
+      "Entrambe sono flagellate e prive di parete, e differiscono solo per il colore dei plastidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'organizzazione coccale è una cellula con parete rigida, uninucleata e priva di flagelli; la capsale (es. Palmella) è una colonia priva di parete propria avvolta in una massa gelatinosa. Sono due dei cinque livelli di organizzazione delle microalghe.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.17"
+  },
+  {
+    "id": "bdv-alghe-pseudoparenchimatica-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza l'organizzazione pseudoparenchimatica delle macroalghe pluricellulari?",
+    "suggestion": "È l'organizzazione più complessa, con un tallo laminare che mostra parti dedicate a funzioni diverse.",
+    "options": [
+      "Un filamento di cellule uninucleate separate le une dalle altre da setti trasversali",
+      "Un'unica cellula grande e multinucleata priva di setti interni",
+      "Talli laminari differenziati in porzione di fissaggio, cauloide e lamina"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'organizzazione pseudoparenchimatica (es. Ulva, Laminaria) è costituita da talli laminari differenziati in porzione di fissaggio, cauloide, lamina e talvolta cisti di galleggiamento. Il filamento uninucleato con setti è la tricale; la cellula unica multinucleata è la sifonale.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.18"
+  },
+  {
+    "id": "bdv-alghe-endosimbiosi-primaria-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quale evento derivano i cloroplasti primari a due membrane di alghe rosse, alghe verdi e piante?",
+    "suggestion": "Un solo procariote fotosintetico viene inglobato: il basso numero di membrane rivela un unico passaggio.",
+    "options": [
+      "Dall'inglobamento di un'intera alga già dotata di cloroplasto da parte di un altro eucariote",
+      "Dal ripiegamento e distacco di porzioni della membrana plasmatica dell'eucariote",
+      "Dalla fusione di due mitocondri che hanno acquisito pigmenti fotosintetici",
+      "Dall'inglobamento di un cianobatterio simile a Prochloron da parte di un eucariote eterotrofo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nell'endosimbiosi primaria un eucariote eterotrofo ingloba un cianobatterio (simile a Prochloron), originando un cloroplasto a due membrane: da qui derivano alghe rosse, alghe verdi e piante terrestri. L'inglobamento di un'intera alga già dotata di cloroplasto è invece l'endosimbiosi secondaria (tre o quattro membrane).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.18-19"
+  },
+  {
+    "id": "bdv-alghe-tilacoidi-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Come varia l'organizzazione dei tilacoidi nei cloroplasti dei diversi gruppi algali?",
+    "suggestion": "La disposizione delle membrane interne rispecchia il gruppo e i suoi pigmenti accessori.",
+    "options": [
+      "Sono sempre impilati in grana, identici in tutti i gruppi algali",
+      "Isolati e associati a ficobilisomi nelle alghe rosse, in gruppi di tre-quattro nelle brune, in grana nelle verdi",
+      "Del tutto assenti nelle alghe rosse e presenti solo nelle alghe verdi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'organizzazione dei tilacoidi (sede delle reazioni luminose) varia col gruppo: isolati e associati a ficobilisomi nelle alghe rosse, in gruppi di tre-quattro nelle brune, in grana nelle verdi. Rispecchia anche la diversa origine endosimbiontica dei plastidi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-chlorophyta-pigmenti-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale corredo pigmentario caratterizza le Chlorophyta (alghe verdi)?",
+    "suggestion": "È lo stesso corredo che ritroviamo nelle piante terrestri, loro discendenti.",
+    "options": [
+      "Clorofilla a e ficobiline, del tutto prive di clorofilla b",
+      "Clorofilla a, c1, c2 e fucoxantina, con plastidi a quattro membrane",
+      "Clorofilla a e b più carotenoidi, con plastidi primari a due membrane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Chlorophyta possiedono clorofilla a e b più carotenoidi, con plastidi primari a due membrane e tilacoidi in grana, riserva di amido nei cloroplasti. Clorofilla a, c e fucoxantina caratterizzano invece gli Stramenopili; le ficobiline le alghe rosse.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.19-20"
+  },
+  {
+    "id": "bdv-alghe-fitobenthos-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il fitobenthos mostra una distribuzione verticale ordinata lungo la colonna d'acqua?",
+    "suggestion": "Ogni gruppo si spinge fin dove i suoi pigmenti riescono ancora a captare luce utile.",
+    "options": [
+      "Perché la temperatura dell'acqua aumenta con la profondità favorendo le alghe rosse in basso",
+      "Perché i diversi pigmenti accessori catturano le lunghezze d'onda disponibili a profondità diverse",
+      "Perché tutte le alghe bentoniche vivono indistintamente entro i primi dieci metri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fitobenthos (alghe ancorate al fondale) si distribuisce in verticale in base ai pigmenti: alghe verdi entro ~10 m, brune fino a ~150 m, rosse, grazie alle ficobiline, fino a ~200 m, dove arrivano solo le lunghezze d'onda blu-verdi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-fill-eutrofizzazione-033",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'arricchimento eccessivo di nutrienti in un corpo d'acqua, con crescita algale incontrollata dannosa per la biodiversità, è detto ___.",
+    "answers": [
+      [
+        "eutrofizzazione"
+      ]
+    ],
+    "suggestion": "Il termine deriva dal greco 'eu-' (bene) e 'trophé' (nutrimento), qui in senso di eccesso.",
+    "explanation": "L'eutrofizzazione è l'arricchimento di un corpo d'acqua in nutrienti, che provoca una crescita algale incontrollata dannosa per la biodiversità. Si contrappone al ruolo positivo del fitoplancton come base della catena alimentare.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-supergruppi-034",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali supergruppi di eucarioti si distribuiscono le alghe, a conferma della loro natura non monofiletica?",
+    "suggestion": "Sono ben quattro raggruppamenti distinti, uno dei quali indicato anche con la sigla SAR.",
+    "options": [
+      "In Bacteria, Archaea ed Eukarya",
+      "In un unico supergruppo esclusivo, gli Archaeplastida",
+      "Nelle sole Rhodophyta e Chlorophyta, entrambe Excavata",
+      "In Excavata, Cromoalveolata (o SAR), Archaeplastida e Unikonta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le alghe non sono monofiletiche: si distribuiscono in Excavata (Euglenophyta), Cromoalveolata o SAR (Dinophyceae, diatomee, alghe brune), Archaeplastida (Rhodophyta e Chlorophyta) e Unikonta. Ciò conferma che sono un gruppo artificiale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.19"
+  },
+  {
+    "id": "bdv-alghe-dinoflagellati-teca-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quale struttura deriva la teca rigida di molti dinoflagellati (Dinophyceae)?",
+    "suggestion": "Nasce da compartimenti posti subito sotto la membrana quando accumulano un certo materiale di parete.",
+    "options": [
+      "Da alveoli sottomembranari che, contenendo placche di cellulosa, formano un rivestimento rigido",
+      "Da due valve silicee che si incastrano come una scatola attorno alla cellula",
+      "Da un periplasto proteico elastico e spiralato privo di componenti di parete"
+    ],
+    "correctIndex": 0,
+    "explanation": "I dinoflagellati sono unicellulari biflagellati con alveoli sottomembranari: quando questi contengono placche di cellulosa, formano una teca rigida. Le due valve silicee (frustulo) sono delle diatomee; il periplasto proteico è delle Euglenophyta.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.20"
+  },
+  {
+    "id": "bdv-alghe-fill-paramilon-036",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La sostanza di riserva delle Euglenophyta, un polimero insolubile del glucosio con legami β1,3, è detta ___.",
+    "answers": [
+      [
+        "paramilon",
+        "paramilo"
+      ]
+    ],
+    "suggestion": "Il nome richiama l'amido (mylon), ma la molecola è insolubile e con legami β.",
+    "explanation": "Il paramilon è il polisaccaride di riserva delle Euglenophyta: un polimero insolubile del glucosio con legami β1,3, diverso quindi dall'amido delle alghe verdi. Queste alghe vivono soprattutto in acque dolci eutrofiche.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.20"
   }
 ]

@@ -286,5 +286,291 @@
     "explanation": "Woese (1990) distinse Bacteria, Archaea ed Eukarya: gli Eukarya hanno cellule con nucleo differenziato, mentre Bacteria e Archaea sono entrambi procarioti ma distinti per caratteristiche biochimiche e genetiche. Il criterio è cellulare e molecolare, non trofico.",
     "difficulty": "medium",
     "source": "Biodiversità vegetale.pdf p.8"
+  },
+  {
+    "id": "bdv-tass-caratteri-descrizione-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella descrizione morfologica di una pianta, quale distinzione separa i caratteri vegetativi da quelli riproduttivi?",
+    "suggestion": "Da una parte gli organi che nutrono e sostengono la pianta, dall'altra quelli implicati nella formazione dei semi.",
+    "options": [
+      "I caratteri vegetativi riguardano fiore, seme e frutto, mentre i riproduttivi riguardano foglia, fusto e radice",
+      "I caratteri vegetativi si osservano solo al microscopio, mentre i riproduttivi si osservano sempre a occhio nudo",
+      "I caratteri vegetativi riguardano foglia, fusto e radice, mentre i riproduttivi riguardano fiore, infiorescenza, seme e frutto"
+    ],
+    "correctIndex": 2,
+    "explanation": "La descrizione si fonda sulla morfologia, che distingue i caratteri vegetativi (organi non riproduttivi: foglia, fusto, radice) dai caratteri riproduttivi (fiore e infiorescenza, seme e frutto). La distinzione è funzionale, non legata allo strumento di osservazione.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.1"
+  },
+  {
+    "id": "bdv-tass-strumenti-identificazione-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali strumenti si usano tipicamente nell'attività di identificazione delle specie vegetali?",
+    "suggestion": "Servono un microscopio a basso ingrandimento, testi di riferimento come la Flora d'Italia e archivi online.",
+    "options": [
+      "Lo stereomicroscopio, testi come la Flora d'Italia di Pignatti e banche dati online sulla biodiversità",
+      "Esclusivamente il sequenziamento del DNA e l'analisi filogenetica molecolare di ogni campione",
+      "Soltanto la misura del corredo cromosomico tramite conta al microscopio ottico ad alto ingrandimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'identificazione si avvale dello stereomicroscopio (osservazione tridimensionale a basso ingrandimento), di testi specialistici come la Flora d'Italia di Sandro Pignatti e di banche dati e portali online dedicati alla biodiversità. Non richiede necessariamente analisi molecolari o cromosomiche.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.1"
+  },
+  {
+    "id": "bdv-tass-specie-filogenetica-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quale tipo di carattere si fonda il concetto di specie filogenetica di Nixon e Wheeler?",
+    "suggestion": "Non guarda alla sola forma né all'interfecondità, ma ai caratteri comparsi più di recente rispetto alla condizione ancestrale.",
+    "options": [
+      "Sulla sola somiglianza fenotipica complessiva tra gli individui, come nella morfospecie di Linneo",
+      "Sull'impossibilità per popolazioni diverse di scambiare geni attraverso la riproduzione sessuata",
+      "Sui caratteri apomorfi, cioè derivati, che individuano il più piccolo gruppo di popolazioni distinguibile"
+    ],
+    "correctIndex": 2,
+    "explanation": "La specie filogenetica (Nixon e Wheeler, 1990) è definita su base filogenetica attraverso i caratteri apomorfi (derivati) e corrisponde al più piccolo gruppo di popolazioni o linee evolutive distinguibile per una combinazione di caratteri. Si distingue dalla morfospecie (forma) e dalla specie biologica (isolamento riproduttivo).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.1"
+  },
+  {
+    "id": "bdv-tass-eterofillia-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'edera, che porta foglie di forma diversa sui rami sterili e su quelli fertili, è un esempio di eterofillia?",
+    "suggestion": "Qui la diversità di forma si trova all'interno di un solo individuo, non tra specie diverse.",
+    "options": [
+      "Perché due specie diverse hanno assunto la stessa forma fogliare adattandosi al medesimo ambiente arido",
+      "Perché una stessa pianta produce foglie di forma differente a seconda della loro posizione o funzione",
+      "Perché l'ibridazione tra due specie di edera ha generato una progenie con foglie intermedie e fertili"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'eterofillia è il fenomeno per cui una stessa pianta produce foglie di forma diversa a seconda della loro posizione o funzione: nell'edera le foglie dei rami sterili differiscono da quelle dei rami fertili. Non è convergenza (che riguarda specie diverse) né ibridazione.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-platano-ibrido-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il platano comune (Platanus × hispanica) mostra che nei vegetali l'ibridazione può originare entità stabili?",
+    "suggestion": "Nasce dall'incrocio di due specie con aree d'origine lontane, eppure dà una pianta capace di riprodursi.",
+    "options": [
+      "Perché deriva da un raddoppiamento cromosomico avvenuto in una singola specie di platano nordamericana",
+      "Perché è nato per selezione operata dall'uomo su semi di una sola specie, senza alcun incrocio interspecifico",
+      "Perché è un ibrido fertile tra Platanus occidentalis e Platanus orientalis, specie con areali d'origine separati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Platanus × hispanica è un ibrido stabile e fertile nato dall'incrocio tra Platanus occidentalis (nordamericano) e Platanus orientalis (eurasiatico), specie con areali d'origine geograficamente separati. Dimostra che nei vegetali l'ibridazione può generare entità stabili, complicando il criterio della specie biologica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-fill-introgressione-025",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il progressivo trasferimento di alleli da una specie all'altra tramite reincroci ripetuti dell'ibrido F1 con le specie parentali è detto ___.",
+    "answers": [
+      [
+        "introgressione"
+      ]
+    ],
+    "suggestion": "È un fenomeno associato all'ibridazione: gli alleli 'entrano' stabilmente nel patrimonio di un'altra specie generazione dopo generazione.",
+    "explanation": "L'introgressione è il progressivo trasferimento di alleli da una specie all'altra attraverso reincroci successivi tra un ibrido di prima generazione (F1) e le specie parentali, ripetuti per numerose generazioni. È strettamente legata al fenomeno dell'ibridazione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-coesione-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quale criterio si basa il concetto di specie di coesione proposto da Templeton?",
+    "suggestion": "Raggruppa gli individui in base alle risorse e alle condizioni ambientali che condividono, non alla forma né alla fecondità.",
+    "options": [
+      "Sulla condivisione della stessa nicchia adattativa e della stessa ecologia tra gli individui",
+      "Sulla sola somiglianza dei caratteri fenotipici osservabili tra gli individui della popolazione",
+      "Sulla preferenza reciproca degli individui nella scelta del partner durante la riproduzione"
+    ],
+    "correctIndex": 0,
+    "explanation": "La specie di coesione (Templeton, 1989) comprende organismi che condividono la stessa nicchia adattativa e la stessa ecologia. Si distingue dalla morfospecie (somiglianza di forma) e dalla specie di riconoscimento di Paterson (preferenza riproduttiva).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.2"
+  },
+  {
+    "id": "bdv-tass-coevoluzione-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza la coevoluzione rispetto all'evoluzione di una singola specie?",
+    "suggestion": "Riguarda due o più specie legate da una relazione reciproca, come piante e impollinatori.",
+    "options": [
+      "È la trasformazione graduale di un'unica linea evolutiva senza formazione di nuovi rami distinti",
+      "È l'evoluzione simultanea di due o più specie collegate tra loro, come piante e impollinatori",
+      "È la variazione casuale delle frequenze alleliche in una popolazione di piccole dimensioni"
+    ],
+    "correctIndex": 1,
+    "explanation": "La coevoluzione è il processo evolutivo che coinvolge simultaneamente due o più specie collegate tra loro, come le piante e i loro impollinatori o gli animali che se ne nutrono. È distinta dall'anagenesi (una sola linea) e dalla deriva genetica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-hardy-weinberg-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa descrive la legge di Hardy-Weinberg a proposito del pool genetico di una popolazione?",
+    "suggestion": "Definisce la situazione teorica in cui nulla cambia: le proporzioni degli alleli restano ferme nel tempo.",
+    "options": [
+      "Le condizioni in cui le mutazioni compaiono a un ritmo costante e prevedibile in ogni generazione",
+      "Le condizioni teoriche in cui le frequenze alleliche restano costanti in assenza di fattori evolutivi",
+      "Le condizioni in cui la deriva genetica agisce con la massima intensità sulle popolazioni molto piccole"
+    ],
+    "correctIndex": 1,
+    "explanation": "La legge di Hardy-Weinberg descrive le condizioni teoriche in cui le frequenze alleliche di una popolazione rimangono costanti nel tempo, in assenza di fattori evolutivi (mutazioni, flusso genico, accoppiamento non casuale, deriva, selezione). È il modello di riferimento dell'equilibrio.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-flusso-genico-029",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo il flusso genico può alterare l'equilibrio delle frequenze alleliche di una popolazione?",
+    "suggestion": "Pensa a che cosa portano con sé gli individui che arrivano da un'altra popolazione o che la lasciano.",
+    "options": [
+      "Introduce o sottrae alleli tramite emigrazione e immigrazione di individui tra popolazioni diverse",
+      "Genera nuovi alleli mai esistiti prima attraverso errori nella replicazione del materiale genetico",
+      "Elimina in modo casuale una parte degli alleli in seguito a un evento che decima la popolazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il flusso genico è lo scambio di alleli tra popolazioni diverse dovuto a emigrazione e immigrazione: sposta alleli già esistenti da una popolazione all'altra. Le mutazioni, invece, generano nuovi alleli e la deriva li elimina casualmente.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-effetto-fondatore-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'effetto fondatore riduce la variabilità genetica di una nuova popolazione?",
+    "suggestion": "Conta quanti individui danno origine alla nuova popolazione e quale porzione del pool genetico portano con sé.",
+    "options": [
+      "Perché un continuo arrivo di immigrati sostituisce gli alleli originari con alleli provenienti da altrove",
+      "Perché aumenta il tasso di mutazione negli individui che colonizzano per primi un nuovo territorio",
+      "Perché una nuova popolazione si origina da pochi individui, che portano solo parte degli alleli di partenza"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'effetto fondatore è una forma di deriva genetica: quando una nuova popolazione nasce da un numero ristretto di individui fondatori, essi trasferiscono solo un campione limitato del pool genetico originario, riducendo la variabilità. A differenza del collo di bottiglia, riguarda la fondazione di una popolazione nuova, non la decimazione di una esistente.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-micro-macroevoluzione-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la differenza tra microevoluzione e macroevoluzione?",
+    "suggestion": "Una riguarda i cambiamenti interni a una popolazione, l'altra la nascita di specie nuove.",
+    "options": [
+      "La microevoluzione è il cambiamento delle frequenze alleliche in una popolazione, la macroevoluzione l'origine di nuove specie",
+      "La microevoluzione riguarda solo gli organismi microscopici, la macroevoluzione solo quelli di grandi dimensioni",
+      "La microevoluzione avviene esclusivamente per mutazione, la macroevoluzione esclusivamente per selezione naturale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La microevoluzione è l'insieme dei cambiamenti nelle frequenze alleliche all'interno di una popolazione (mutazioni, flusso genico, deriva, selezione); la macroevoluzione è l'insieme dei processi che portano alla formazione di nuove specie, cioè la speciazione. La distinzione non dipende dalle dimensioni degli organismi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-fill-ecotipo-032",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Una popolazione di una stessa specie geneticamente differenziata in risposta alle condizioni ambientali locali è detta ___.",
+    "answers": [
+      [
+        "ecotipo",
+        "ecotipi"
+      ]
+    ],
+    "suggestion": "È l'adattamento locale che dà popolazioni distinte della stessa specie; da non confondere con il clino, che è invece una variazione graduale e continua.",
+    "explanation": "L'ecotipo è una popolazione di una stessa specie geneticamente differenziata in risposta a condizioni ambientali locali. Si distingue dal clino, che è una variazione graduale e continua di un carattere lungo un gradiente ambientale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.4"
+  },
+  {
+    "id": "bdv-tass-caratteri-filogenetici-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Che differenza c'è tra i caratteri morfologici e i caratteri molecolari usati per ricostruire le parentele evolutive?",
+    "suggestion": "Gli uni guardano alla forma degli organi, gli altri confrontano le sequenze delle biomolecole.",
+    "options": [
+      "I morfologici confrontano sequenze di DNA, i molecolari valutano la forma esterna del fiore e della foglia",
+      "I morfologici si usano solo per gli animali, i molecolari si applicano invece unicamente alle piante",
+      "I morfologici valutano tratti come la struttura del fiore, i molecolari confrontano sequenze di DNA e biomolecole"
+    ],
+    "correctIndex": 2,
+    "explanation": "I caratteri morfologici con valore filogenetico si basano su tratti come la morfologia del fiore (dal più primitivo al più evoluto); i caratteri molecolari si basano sul confronto di sequenze di DNA e altre biomolecole tra specie, individuando mutazioni come inserzioni e delezioni a partire da un antenato comune.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.5"
+  },
+  {
+    "id": "bdv-tass-plesiomorfia-034",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica un carattere plesiomorfo in cladistica?",
+    "suggestion": "È lo stato 'vecchio' del carattere, quello rimasto immutato; quando è condiviso da più specie prende un nome specifico.",
+    "options": [
+      "Una novità evolutiva comparsa di recente e condivisa solo dai membri di un unico clade derivato",
+      "Una condizione relativamente primitiva, non modificata di recente; se condivisa da più specie è simplesiomorfa",
+      "Un carattere simile per pura funzione ma di origine indipendente, frutto di convergenza evolutiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "La plesiomorfia è una condizione relativamente primitiva, cioè un carattere che non ha subito modificazioni in un passato recente; quando è condiviso da più specie si dice simplesiomorfia. È l'opposto dell'apomorfia (novità evolutiva) e non va confusa con l'analogia.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.5"
+  },
+  {
+    "id": "bdv-tass-suffissi-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella nomenclatura botanica, a quale rango tassonomico corrisponde il suffisso -aceae?",
+    "suggestion": "È il suffisso che riconosci in nomi come Rosaceae; colloca il taxon appena sopra il genere.",
+    "options": [
+      "Alla famiglia, come in Rosaceae; l'ordine ha invece suffisso -ales e la classe -opsida",
+      "All'ordine, come in Rosales; la famiglia ha invece suffisso -ales e la divisione -phyta",
+      "Alla divisione, come in Magnoliophyta; la classe ha invece suffisso -aceae e l'ordine -opsida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel mondo vegetale ogni rango ha un suffisso caratteristico: -aceae per la famiglia (Rosaceae), -ales per l'ordine (Rosales), -opsida per la classe (Magnoliopsida) e -phyta per la divisione (Magnoliophyta). I suffissi variano in parte per alghe, funghi, animali e batteri.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.6"
+  },
+  {
+    "id": "bdv-tass-entita-intraspecifiche-036",
+    "topic": "biodiversita-vegetale",
+    "question": "In base a quale criterio il tassonomista classico distingue sottospecie e varietà da cultivar e forme?",
+    "suggestion": "Il discrimine è se la differenza osservata ha una base ereditaria oppure è solo apparente.",
+    "options": [
+      "In base alle dimensioni: sottospecie e varietà sono piante grandi, cultivar e forme piante piccole",
+      "In base all'areale: sottospecie e varietà vivono in pianura, cultivar e forme solo in montagna",
+      "In base alla natura della differenza: sottospecie e varietà hanno base genetica, cultivar e forme solo fenotipica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le entità intraspecifiche si distinguono per il tipo di differenza: sottospecie (subsp.) e varietà (var.) presentano differenze genetiche; cultivar (cv.) e forme (fo.) presentano differenze solo fenotipiche, non ereditarie. In quest'ultima categoria rientrano ecotipi e clini.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.6"
+  },
+  {
+    "id": "bdv-tass-brassica-037",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché cavolfiore, cavolo nero e cavolo cappuccio appartengono tutti alla stessa specie Brassica oleracea?",
+    "suggestion": "Sono varietà coltivate selezionate dall'uomo per organi diversi, ma la specie di base è unica.",
+    "options": [
+      "Perché derivano da convergenza evolutiva tra tre specie selvatiche originariamente distinte tra loro",
+      "Perché sono cultivar della stessa specie, selezionate dall'uomo per caratteri morfologici differenti",
+      "Perché costituiscono tre sottospecie geografiche isolate riproduttivamente l'una dall'altra da secoli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cavolfiore (var. botrytis), cavolo nero (var. acephala) e cavolo cappuccio (var. capitata) sono cultivar, cioè varietà coltivate della medesima specie Brassica oleracea, selezionate dall'uomo per caratteri morfologici diversi. Non sono specie distinte né semplice convergenza.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.6"
+  },
+  {
+    "id": "bdv-tass-tallofite-tracheofite-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Su quale carattere si basa la suddivisione classica di convenienza tra Tallofite e Tracheofite?",
+    "suggestion": "Il discrimine è la presenza o l'assenza di veri tessuti e quindi di organi differenziati.",
+    "options": [
+      "Sulla presenza o assenza di veri tessuti: le Tallofite non li formano, le Tracheofite formano tessuti e organi",
+      "Sulla capacità di fotosintesi: le Tallofite sono sempre eterotrofe, le Tracheofite sempre autotrofe",
+      "Sul numero di corredi cromosomici: le Tallofite sono diploidi, le Tracheofite sempre poliploidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La suddivisione di convenienza distingue le Tallofite (organismi che non formano veri tessuti, con corpo vegetativo detto tallo: batteri, alghe, funghi, briofite) dalle Tracheofite (eucarioti fotosintetici pluricellulari che formano veri tessuti e organi, cioè il cormo: pteridofite e spermatofite).",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.8"
   }
 ]

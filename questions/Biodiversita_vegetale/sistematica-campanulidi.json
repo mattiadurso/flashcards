@@ -260,5 +260,270 @@
     "explanation": "Nella proterandria (protandria) delle Apiaceae gli organi maschili maturano prima di quelli femminili dello stesso fiore: quando il polline è disponibile lo stimma non è ancora recettivo, riducendo l'autoimpollinazione e favorendo l'incrocio tra fiori diversi.",
     "difficulty": "medium",
     "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-caratteri-clado-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri ricorrenti distinguono le linee evolutive delle Campanulidi rispetto ai Lamiidi?",
+    "suggestion": "Confronta il momento della fusione dei petali, la dimensione dei fiori e la lunghezza dell'embrione.",
+    "options": [
+      "Simpetalia precoce, fiori generalmente piccoli ed embrione corto nel seme",
+      "Simpetalia tardiva, fiori grandi ed embrione lungo che riempie il seme",
+      "Corolla dialipetala a petali del tutto liberi e assenza di ogni fusione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Campanulidi condividono, rispetto ai Lamiidi (a simpetalia tardiva), la simpetalia precoce (fusione dei petali già nelle prime fasi dello sviluppo fiorale), fiori generalmente di piccole dimensioni e un embrione corto all'interno del seme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.94"
+  },
+  {
+    "id": "bdv-camp-apiaceae-fusto-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si presenta tipicamente il fusto delle Apiaceae?",
+    "suggestion": "Osserva le nervature esterne, la cavità interna e i nodi.",
+    "options": [
+      "A sezione tetragona piena, con quattro angoli netti e midollo compatto",
+      "Costoluto, cioè con coste longitudinali sporgenti, cavo internamente e con nodi ingrossati",
+      "Legnoso e perfettamente cilindrico, privo di coste e di cavità interne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fusto delle Apiaceae è costoluto (percorso da coste longitudinali sporgenti), cavo internamente e provvisto di nodi ingrossati. Il fusto tetragono è invece tipico di Lamiaceae e Rubiaceae.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-fill-guaina-021",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Apiaceae il picciolo è allargato alla base fino a formare una ___ che avvolge il fusto.",
+    "answers": [["guaina"]],
+    "suggestion": "È la porzione basale espansa del picciolo che abbraccia il fusto, come nelle graminacee.",
+    "explanation": "Il picciolo delle Apiaceae è guainante: si allarga alla base fino a formare una guaina che avvolge il fusto. La foglia è inoltre alterna o in rosetta basale, spesso finemente divisa in lacinie.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-canali-oleiferi-022",
+    "topic": "biodiversita-vegetale",
+    "question": "A che cosa è dovuto l'aroma caratteristico di molte Apiaceae come finocchio e cumino?",
+    "suggestion": "Sono condotti secretori interni che accumulano oli essenziali.",
+    "options": [
+      "Alla presenza di cellule mirosiniche che liberano oli di senape al danneggiamento",
+      "Al latice bianco contenuto entro un sistema di vasi laticiferi",
+      "Alla presenza di canali oleiferi, condotti secretori interni contenenti oli essenziali"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'aroma delle Apiaceae è dovuto ai canali oleiferi, condotti secretori interni contenenti oli essenziali. Sono alla base degli impieghi alimentari e officinali della famiglia; il latice è invece tipico delle Asteraceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-orlaya-vessillari-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Che funzione svolgono i fiori periferici zigomorfi e sterili di Orlaya grandiflora (Apiaceae)?",
+    "suggestion": "Hanno petali ingranditi ma non producono frutti: servono a farsi notare.",
+    "options": [
+      "Funzione di accumulo dell'inulina come principale sostanza di riserva della pianta",
+      "Funzione di dispersione anemocora del frutto grazie ad ali membranose",
+      "Funzione di protezione meccanica dell'ombrella tramite brattee spinose",
+      "Funzione vessillare, di richiamo visivo per gli impollinatori con i petali ingranditi"
+    ],
+    "correctIndex": 3,
+    "explanation": "In Orlaya grandiflora i fiori centrali sono attinomorfi e fertili, mentre quelli periferici sono zigomorfi e sterili, con petali ingranditi che svolgono una funzione vessillare, cioè di richiamo visivo per gli impollinatori verso l'infiorescenza.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-eryngium-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale tipo di infiorescenza caratterizza il genere Eryngium, in deroga all'ombrella composta tipica delle Apiaceae?",
+    "suggestion": "È un'ombrella dai raggi molto ravvicinati, protetta da brattee pungenti.",
+    "options": [
+      "Un'ombrella semplice contratta, con raggi ravvicinati e circondata da brattee spinose",
+      "Un capolino con numerosi fiori sessili su un ricettacolo comune e involucro di squame",
+      "Un amento pendulo di fiori apetali unisessuali adattati all'impollinazione anemofila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel genere Eryngium (es. Eryngium alpinum, E. amethystinum) l'ombrella è semplice e contratta, con raggi molto ravvicinati e circondata da brattee spinose, diversa dall'ombrella composta 'a ombrella di ombrelle' tipica della famiglia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.95"
+  },
+  {
+    "id": "bdv-camp-fill-vitte-025",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nei mericarpi delle Apiaceae i canali secretori contenenti oli essenziali, visibili in sezione trasversale come piccole cavità, sono detti ___.",
+    "answers": [["vitte", "vitta"]],
+    "suggestion": "Sono le cavità oleifere che si osservano tra le coste tagliando il frutto.",
+    "explanation": "Le vitte sono i canali secretori contenenti oli essenziali che si osservano in sezione trasversale sui mericarpi delle Apiaceae, tra le coste (nervature longitudinali sporgenti). Contribuiscono all'aroma e al valore diagnostico del frutto.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-fittone-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale organo della pianta si consuma nella carota e nella pastinaca (Apiaceae)?",
+    "suggestion": "È la radice principale, ingrossata e a forma conica.",
+    "options": [
+      "Il capolino immaturo racchiuso nell'involucro di brattee, come nel carciofo",
+      "Il tubero sotterraneo ricco di inulina, come nel topinambur",
+      "Il fittone, cioè la radice principale ingrossata a forma conica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Della carota (Daucus carota) e della pastinaca (Pastinaca sativa) si consuma il fittone, la radice principale ingrossata a forma conica. Di altre Apiaceae si mangiano invece il germoglio e le foglie (finocchio) o il frutto usato come spezia (cumino dei prati).",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-asterales-ricchezza-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'ordine Asterales è considerato tra i più ricchi di specie fra le angiosperme?",
+    "suggestion": "Pensa all'ordine di grandezza del numero di famiglie, generi e specie che comprende.",
+    "options": [
+      "Perché è limitato alle sole regioni tropicali, ma con generi estremamente numerosi",
+      "Perché comprende un'unica grande famiglia cosmopolita di poche migliaia di specie",
+      "Perché è costituito da poche famiglie temperate a fioritura tardo-estiva",
+      "Perché comprende circa 11 famiglie, 1700 generi e 27 000 specie a diffusione ampia"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'ordine Asterales comprende circa 11 famiglie, 1700 generi e 27 000 specie, risultando uno dei più ricchi tra le angiosperme. Vi rientrano le Asteraceae, la famiglia più numerosa dell'ordine con circa 25 000 specie.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-sesquiterpeni-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali composti, oltre all'inulina, caratterizzano dal punto di vista biochimico le Asterales?",
+    "suggestion": "Sono composti terpenici e glucosidi monoterpenoidi accomunati dal sapore amaro.",
+    "options": [
+      "Sesquiterpeni e secoiridoidi, spesso responsabili del sapore amaro",
+      "Glucosinolati e oli di senape prodotti da cellule mirosiniche",
+      "Glicosidi cardiotonici come quelli tipici della digitale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oltre all'inulina (fruttano di riserva), le Asterales sono caratterizzate da sesquiterpeni (terpeni a 15 atomi di carbonio, spesso amari) e da secoiridoidi (glucosidi monoterpenoidi ad azione amara). I glucosinolati sono invece dei Brassicales.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-peli-collettori-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale ruolo hanno i peli collettori che circondano lo stilo nelle Campanulaceae?",
+    "suggestion": "Sono coinvolti nel modo in cui il polline viene presentato agli impollinatori, tipico delle Asterales.",
+    "options": [
+      "Fondono le antere in un tubo compatto che circonda e trattiene lo stilo",
+      "Partecipano all'impollinazione secondaria, presentando il polline sull'esterno dello stilo",
+      "Producono nettare fungendo da disco nettarifero alla base dell'ovario infero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Campanulaceae la corolla tubulosa o campanulata ospita lo stilo circondato da peli collettori, coinvolti nel meccanismo di impollinazione secondaria (a pistone) tipico delle Asterales: il polline è raccolto e presentato all'esterno dello stilo prima che lo stimma sia recettivo.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-legousia-rotata-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si presenta la corolla di Legousia speculum-veneris, diversamente da quella campanulata tipica del genere Campanula?",
+    "suggestion": "È appiattita e aperta, con i lobi disposti a raggiera.",
+    "options": [
+      "Bilabiata, con un labbro superiore ricurvo a elmo e uno inferiore trilobo",
+      "Ligulata, ridotta a un'unica linguetta appiattita e zigomorfa",
+      "Rotata, cioè appiattita a forma di stella, di colore violetto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Legousia speculum-veneris presenta una corolla rotata, appiattita a forma di stella e di colore violetto, diversa dai fiori campanulati tipici di Campanula. Altri generi delle Campanulaceae, come Physoplexis e Phyteuma, mostrano forme fiorali ancora più specializzate.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.96"
+  },
+  {
+    "id": "bdv-camp-latice-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa contengono i canali laticiferi presenti in molte Asteraceae?",
+    "suggestion": "È un liquido, non un olio essenziale né una mucillagine.",
+    "options": [
+      "Un latice, liquido lattiginoso generalmente di colore bianco",
+      "Oli essenziali aromatici secreti da peli ghiandolari epidermici",
+      "Mucillagini polisaccaridiche capaci di trattenere grandi quantità d'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "Molte Asteraceae sono provviste di un sistema di canali laticiferi contenenti un latice, liquido lattiginoso generalmente bianco. È un carattere diffuso nella famiglia, distinto dagli oli essenziali dei canali oleiferi delle Apiaceae.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.97-98"
+  },
+  {
+    "id": "bdv-camp-achenio-becco-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è il frutto delle Asteraceae e quale struttura può separarne il corpo dal pappo?",
+    "suggestion": "È un frutto secco monospermo; talora un prolungamento apicale lo distanzia dal pappo.",
+    "options": [
+      "Un diachenio i cui due mericarpi restano uniti a un carpoforo centrale",
+      "Un achenio, talora provvisto di un becco apicale che ne separa il corpo dal pappo",
+      "Una capsula setticida che si apre lungo i setti liberando molti semi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il frutto delle Asteraceae è un achenio, frutto secco indeiscente monospermo derivato da ovario infero, provvisto o meno di pappo persistente e talora di un becco, prolungamento apicale che separa il corpo dell'achenio dal pappo. Il diachenio è invece delle Apiaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.98"
+  },
+  {
+    "id": "bdv-camp-ovario-stimma-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono l'ovario e lo stimma nel fiore delle Asteraceae?",
+    "suggestion": "L'ovario ha una sola cavità e lo stimma si divide in due branche.",
+    "options": [
+      "Ovario supero e bicarpellare, con stilo ginobasico inserito alla base",
+      "Ovario infero e triloculare, ma con un solo loculo fertile perché gli altri abortiscono",
+      "Ovario infero, sincarpico e uniloculare, sormontato da uno stimma bifido"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle Asteraceae l'ovario è infero, sincarpico e uniloculare (a singola cavità), sormontato da uno stimma bifido, cioè diviso in due branche stigmatiche. L'ovario triloculare con un solo loculo fertile è invece tipico delle Valerianoideae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.98"
+  },
+  {
+    "id": "bdv-camp-margherita-034",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il capolino di Bellis perennis (la comune margherita) è detto capolino 'a margherita'?",
+    "suggestion": "Combina i due tipi di fiore del capolino, centrali e periferici.",
+    "options": [
+      "Perché unisce fiori del disco tubulosi (gialli) e fiori del raggio ligulati (bianchi)",
+      "Perché è formato da soli fiori ligulati, come nella cicoria e nel tarassaco",
+      "Perché è formato da soli fiori tubulosi, come nel carciofo e nei cardi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il capolino 'a margherita' di Bellis perennis combina fiori del disco tubulosi (centrali, gialli) e fiori del raggio ligulati (periferici, bianchi). I capolini con soli fiori ligulati sono detti liguliflori, quelli con soli fiori tubulosi tubuliflori.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.98"
+  },
+  {
+    "id": "bdv-camp-caprifoliaceae-sottogruppi-035",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali tre raggruppamenti, corrispondenti ad antiche famiglie, si articolano le Caprifoliaceae ampliate dell'APG III?",
+    "suggestion": "Corrispondono alle vecchie Valerianaceae, Dipsacaceae e Caprifoliaceae in senso stretto.",
+    "options": [
+      "Asteroideae, Cichorioideae e Carduoideae, secondo il tipo di capolino",
+      "Valerianoideae, Dipsacoideae e Caprifolioideae",
+      "Apioideae, Saniculoideae e Azorelloideae, secondo il tipo di ombrella"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Caprifoliaceae ampliate dall'APG III si articolano in tre raggruppamenti corrispondenti alle antiche famiglie: Valerianoideae (ex Valerianaceae), Dipsacoideae (ex Dipsacaceae) e Caprifolioideae (Caprifoliaceae in senso stretto). Sambucus e Viburnum sono invece passati alle Adoxaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.98-99"
+  },
+  {
+    "id": "bdv-camp-connata-perfogliata-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa significa che le foglie delle Dipsacoideae sono 'connate-perfogliate'?",
+    "suggestion": "Le basi delle due foglie opposte si saldano attorno al fusto.",
+    "options": [
+      "Le foglie sono ridotte a squame prive di lamina, disposte alterne lungo il fusto",
+      "Le foglie portano stipole connate simili a foglie, che simulano un verticillo",
+      "Le foglie ruotano di 90° a ogni nodo, dando l'illusione di più foglie sovrapposte",
+      "Le basi delle foglie opposte sono saldate attorno al fusto, che sembra attraversarne la lamina"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nelle Dipsacoideae la foglia è opposta e connata-perfogliata: le basi delle due foglie opposte sono saldate fra loro attorno al fusto, dando l'impressione che quest'ultimo attraversi la lamina fogliare. Le stipole connate che simulano un verticillo sono invece delle Rubiaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.98"
   }
 ]

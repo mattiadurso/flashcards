@@ -124,7 +124,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "La rotazione di 180 gradi del fiore delle Orchidaceae durante lo sviluppo, che porta il labello in basso, è detta ___.",
-    "answers": [["resupinazione"]],
+    "answers": [
+      [
+        "resupinazione"
+      ]
+    ],
     "suggestion": "È il fenomeno per cui il fiore si 'capovolge' durante la crescita.",
     "explanation": "La resupinazione è la rotazione di 180° del fiore delle orchidee durante lo sviluppo, che porta il labello nella posizione inferiore, offrendo una piattaforma di atterraggio agli impollinatori.",
     "difficulty": "hard",
@@ -180,7 +184,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Il frutto secco indeiscente delle Poaceae, in cui il pericarpo è saldato al tegumento del seme, è detto ___.",
-    "answers": [["cariosside", "cariossidi"]],
+    "answers": [
+      [
+        "cariosside",
+        "cariossidi"
+      ]
+    ],
     "suggestion": "È il 'chicco' dei cereali, formato da germe, endosperma amidaceo e crusca.",
     "explanation": "La cariosside è il frutto tipico delle Poaceae: secco, indeiscente, con pericarpo saldato al tegumento del seme. È costituita da embrione (germe), endosperma amidaceo e strato periferico (crusca).",
     "difficulty": "medium",
@@ -320,5 +329,347 @@
     "explanation": "Posidonia oceanica è la fanerogama marina dominante nel Mar Mediterraneo, dove forma estese praterie sommerse fino a ~50 m di profondità. Cymodocea nodosa forma praterie meno estese e più tolleranti; Halophila stipulacea è una specie introdotta.",
     "difficulty": "easy",
     "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-numero-specie-023",
+    "topic": "biodiversita-vegetale",
+    "question": "In che rapporto stanno Monocotiledoni ed Eudicotiledoni per numero di specie e posizione filogenetica?",
+    "suggestion": "Le Monocotiledoni sono il gruppo meno numeroso e occupano una posizione più basale rispetto al gruppo sister.",
+    "options": [
+      "Le Monocotiledoni (circa 170.000 specie) superano le Eudicotiledoni e ne rappresentano il gruppo più antico",
+      "Monocotiledoni ed Eudicotiledoni hanno lo stesso numero di specie e la stessa posizione nell'albero",
+      "Le Monocotiledoni (circa 70.000 specie, ~1/4 delle Angiosperme) sono in posizione basale rispetto alle Eudicotiledoni, gruppo sister con circa 170.000 specie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Monocotiledoni contano circa 70.000 specie, circa un quarto delle Angiosperme note, e si collocano in posizione basale rispetto alle Eudicotiledoni, il gruppo sister con circa 170.000 specie (ma successive ad Amborellales, Nymphaeales e Austrobaileyales).",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-plastidi-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere delle cellule cribrose del floema è una sinapomorfia delle Monocotiledoni?",
+    "suggestion": "Riguarda la forma dei plastidi contenuti nelle cellule conduttrici della linfa elaborata.",
+    "options": [
+      "L'assenza totale di plastidi e di ogni contenuto proteico nelle cellule cribrose",
+      "La presenza di grossi cristalli di ossalato di calcio al posto dei plastidi",
+      "La presenza di cloroplasti fotosintetizzanti attivi all'interno delle cellule cribrose",
+      "La presenza di plastidi proteinacei di forma cuneiforme"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra i caratteri sinapomorfici delle Monocotiledoni vi è la presenza, nelle cellule cribrose del floema (che conduce la linfa elaborata), di plastidi proteinacei di forma cuneiforme.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-liliales-cladodi-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali strutture e caratteri si possono osservare in alcune Liliales, oltre alle radici contrattili?",
+    "suggestion": "Alcuni rami assumono forma e funzione fogliare; in altre specie è tipico un odore particolare.",
+    "options": [
+      "Vasi conduttori legnosi prodotti da un attivo cambio vascolare, che consente crescita secondaria",
+      "Foglie con nervatura reticolata e stipole trasformate in spine, come nelle Eudicotiledoni",
+      "Cladodi (rami modificati con aspetto e funzione di foglie) e, in alcune specie, un odore dovuto a composti solfati allilici"
+    ],
+    "correctIndex": 2,
+    "explanation": "In alcune Liliales sono presenti cladodi, rami modificati con forma e funzione simile alle foglie, e in alcuni casi un caratteristico odore dovuto a composti solfati allilici. Le radici sono fascicolate e contrattili.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.64"
+  },
+  {
+    "id": "bdv-mono-lilium-tepali-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri del fiore rendono riconoscibili Lilium martagon e Lilium carniolicum?",
+    "suggestion": "Il perianzio si arrotola all'indietro e gli organi maschili sporgono dal fiore.",
+    "options": [
+      "Tepali revoluti (arrotolati verso l'esterno), stami sporgenti con antere versatili e ovario supero",
+      "Tepali saldati in un lungo tubo, stami inclusi e ovario infero avvolto dal ricettacolo",
+      "Perianzio assente, un solo stame fertile e ovario ridotto a un unico carpello"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lilium martagon (giglio martagone) e Lilium carniolicum hanno tepali revoluti (arrotolati verso l'esterno), stami sporgenti con antere versatili e ovario supero ben visibile alla base del fiore. La formula delle Liliaceae è *P3+3 A3+3 G(3).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-apg-colchicum-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella riorganizzazione APG delle vecchie Liliaceae, in quali famiglie sono stati collocati Colchicum e Veratrum?",
+    "suggestion": "Non sono confluiti nelle Asparagaceae né nelle Amaryllidaceae, ma in due famiglie proprie.",
+    "options": [
+      "Entrambi nelle Asparagaceae, come Muscari, Scilla e Ruscus",
+      "Entrambi nelle Amaryllidaceae, come il genere Allium",
+      "Entrambi restano nelle Liliaceae in senso stretto, insieme a Lilium e Tulipa",
+      "Colchicum nelle Colchicaceae e Veratrum nelle Melanthiaceae"
+    ],
+    "correctIndex": 3,
+    "explanation": "La classificazione APG ha smembrato le vecchie Liliaceae: i generi Bulbocodium e Colchicum sono confluiti nelle Colchicaceae, i generi Paris e Veratrum nelle Melanthiaceae. Le Liliaceae attuali comprendono Erythronium, Fritillaria, Gagea, Lilium, Tulipa e pochi altri.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-iridaceae-striature-028",
+    "topic": "biodiversita-vegetale",
+    "question": "A che cosa servono le striature scure sui tepali esterni ricadenti di Limniris pseudacorus (giaggiolo d'acqua)?",
+    "suggestion": "Sono segnali visivi sul perianzio, orientati verso il centro del fiore.",
+    "options": [
+      "A trattenere l'acqua piovana, indispensabile per la germinazione idrofila del polline",
+      "A fungere da guida per gli insetti impollinatori verso il centro del fiore",
+      "A rendere i tepali tossici e sgradevoli, scoraggiando i visitatori floreali"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Limniris pseudacorus (Iridaceae) i tepali esterni ricadenti recano striature scure che fungono da guida per gli insetti impollinatori. Le Iridaceae hanno tre soli stami fertili e ovario infero.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-ornithogalum-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere rende riconoscibile Ornithogalum umbellatum (latte di gallina) tra le Asparagaceae?",
+    "suggestion": "Guarda la pagina esterna dei tepali dei suoi fiori bianchi stellati.",
+    "options": [
+      "Fiori penduli a campana con una corona centrale gialla, come nel narciso",
+      "Infiorescenze compatte di fiori tubulosi azzurri riuniti in una densa spiga apicale",
+      "Fiori stellati bianchi con una banda verde sulla pagina esterna dei tepali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ornithogalum umbellatum (latte di gallina) ha fiori stellati bianchi con una caratteristica banda verde sulla pagina esterna dei tepali. Come le altre Asparagaceae ha ovario supero e formula *P3+3 A3+3 G(3).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-ruscus-cladodi-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sono le apparenti 'foglie' appuntite di Ruscus aculeatus (pungitopo)?",
+    "suggestion": "Non sono vere foglie, ma rami modificati appiattiti su cui compaiono fiori e frutti.",
+    "options": [
+      "Cladodi, cioè rami modificati appiattiti che simulano foglie, su cui compaiono i frutti a bacca rossa",
+      "Vere foglie coriacee con nervatura reticolata, trasformate all'apice in robuste spine",
+      "Brattee fiorali persistenti che avvolgono e proteggono l'infiorescenza a ombrella"
+    ],
+    "correctIndex": 0,
+    "explanation": "In Ruscus aculeatus (pungitopo, Asparagaceae) le strutture appuntite simili a foglie sono cladodi, rami modificati appiattiti; su di essi compaiono i fiori e i frutti a bacca rossa. Il genere Asparagus ha analogamente fusti cladodiformi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-convallaria-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri identificano Convallaria majalis (mughetto) tra le Asparagaceae?",
+    "suggestion": "Fiori bianchi a campana con un profumo intenso, seguiti da un frutto carnoso.",
+    "options": [
+      "Fiori gialli con tepali esterni striati ricadenti e frutto a capsula loculicida",
+      "Fiori stellati bianchi con banda verde esterna e frutto a capsula denticida",
+      "Fiori bianchi stellati riuniti in ombrella, con bulbo dall'odore di aglio",
+      "Fiori bianchi campanulati profumati e frutto a bacca"
+    ],
+    "correctIndex": 3,
+    "explanation": "Convallaria majalis (mughetto, Asparagaceae) è riconoscibile per i fiori bianchi campanulati e profumati e per il frutto a bacca. Come le altre Asparagaceae ha ovario supero.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.65"
+  },
+  {
+    "id": "bdv-mono-narcissus-corona-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura del fiore distingue il narciso (Narcissus radiiflorus) tra le Amaryllidaceae?",
+    "suggestion": "Al centro del perianzio è presente una vistosa struttura aggiuntiva, e l'ovario è in posizione infera.",
+    "options": [
+      "Un labello speronato peloso che imita una femmina di insetto per la pseudocopulazione",
+      "Un calicetto di brattee alla base del calice gamosepalo campanulato",
+      "Una corona centrale gialla sui fiori bianchi, con ovario infero ben distinguibile alla base",
+      "Un carpoforo interno che solleva l'ovario supero sopra gli altri elementi fiorali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Narcissus radiiflorus (narciso, Amaryllidaceae) ha fiori bianchi con una vistosa corona centrale gialla e ovario infero ben distinguibile alla base del fiore. La posizione infera dell'ovario è tipica della famiglia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-fill-colonna-033",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel fiore delle Orchidaceae, la struttura unica che deriva dalla fusione del filamento degli stami con lo stilo e lo stimma è detta colonna o ___.",
+    "answers": [
+      [
+        "gimnostenio",
+        "ginostemio"
+      ]
+    ],
+    "suggestion": "È il termine tecnico, alternativo a 'colonna', per l'organo che riunisce stami e gineceo.",
+    "explanation": "Nelle Orchidaceae stami, stilo e stimma sono fusi in un'unica struttura detta colonna o gimnostenio (ginostemio). Il polline è inoltre aggregato in pollinii.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-pollinii-034",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo il polline delle Orchidaceae viene trasferito da un fiore all'altro?",
+    "suggestion": "I granuli non sono dispersi singolarmente, ma raccolti in masse compatte.",
+    "options": [
+      "Come singoli granuli monocolpati dispersi in grande quantità dal vento (anemofilia)",
+      "Aggregato in pollinii, masse compatte trasportate in blocco dagli impollinatori",
+      "Disciolto in una goccia di nettare che l'insetto ingerisce insieme al polline"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Orchidaceae il polline è aggregato in pollinii, masse compatte di granuli pollinici trasportate in blocco dagli impollinatori (impollinazione entomogama). L'ovario è infero e sincarpico.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-neottia-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché Neottia nidus-avis è definita un'orchidea saprofita?",
+    "suggestion": "È priva del pigmento verde e non fotosintetizza: ricava nutrimento in altro modo.",
+    "options": [
+      "Perché è epifita e cresce sopra altre piante, sfruttandole solo come supporto",
+      "Perché è parassita e sottrae linfa elaborata direttamente ai tessuti dell'ospite",
+      "Perché forma estese praterie sommerse e vive completamente immersa in acqua",
+      "Perché è priva di clorofilla e si nutre tramite funghi che degradano sostanza organica morta"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neottia nidus-avis è una specie saprofita: priva di clorofilla, non fotosintetizza e si nutre tramite associazioni con funghi che degradano sostanza organica morta. Ha inoltre un labello privo di sperone.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-cypripedium-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Come funziona il labello di Cypripedium calceolus (pianella della Madonna) nell'impollinazione?",
+    "suggestion": "La sua forma rigonfia costringe l'insetto a un percorso obbligato prima di poter uscire.",
+    "options": [
+      "Imita l'aspetto e l'odore di una femmina di insetto, inducendo i maschi alla pseudocopulazione",
+      "Secerne grandi quantità di nettare in un lungo sperone che l'insetto succhia dall'esterno",
+      "È rigonfio a forma di scarpetta e agisce come trappola temporanea per gli insetti impollinatori",
+      "È ridotto e privo di sperone, e il fiore si affida quindi all'impollinazione anemofila"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cypripedium calceolus ha un labello rigonfio a forma di scarpetta che funziona da trappola temporanea per gli insetti impollinatori, costretti a un percorso obbligato. La strategia mimetica di pseudocopulazione è invece propria di Ophrys sphegodes.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-cites-037",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale strumento internazionale tutela numerose specie di Orchidaceae?",
+    "suggestion": "È la convenzione che regola il commercio internazionale delle specie minacciate.",
+    "options": [
+      "La convenzione CITES, che protegge numerose specie a livello internazionale",
+      "Il protocollo random forest per la classificazione satellitare delle popolazioni",
+      "La sola formula fiorale P3+3 A1-2 G(3), che ne certifica l'appartenenza alla famiglia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Numerose specie di Orchidaceae sono protette a livello internazionale dalla convenzione CITES, che regola il commercio delle specie minacciate. La famiglia ha frutto a capsula loculicida con semi minuti privi di endosperma.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-poales-silice-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale insieme di caratteri accomuna le piante dell'ordine Poales?",
+    "suggestion": "Pensa all'epidermide, al tipo di impollinazione e alla presenza o assenza di simbiosi fungine.",
+    "options": [
+      "Epidermide priva di silice, fiori vistosi entomofili ricchi di nettare e radici sempre micorrizate",
+      "Epidermide silicizzata, fiori spesso anemofili e ridotti, privi di nettari, e micorrize per lo più assenti",
+      "Tessuti succulenti privi di silice, fiori a labello speronato e obbligata simbiosi con funghi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Poales hanno epidermide silicizzata (arricchita di silice), fiori spesso anemofili, ridotti e bratteiformi, privi di nettari, e micorrize per lo più assenti (a differenza delle Orchidaceae). Comprendono Poaceae, Cyperaceae e Juncaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.66"
+  },
+  {
+    "id": "bdv-mono-culmo-039",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è fatto il culmo, il fusto tipico delle Poaceae?",
+    "suggestion": "È cilindrico e suddiviso in tratti da punti di inserzione delle foglie, e spesso non è pieno.",
+    "options": [
+      "Un fusto legnoso pieno, a sezione triangolare, privo di nodi e con crescita secondaria continua",
+      "Un rizoma sotterraneo carnoso privo di nodi, che funge da solo organo conduttore della pianta",
+      "Un fusto a sezione ovale interamente riempito di midollo, senza distinzione tra nodi e internodi",
+      "Un fusto cilindrico spesso cavo, articolato in nodi e internodi, con midollo presente ai nodi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il culmo delle Poaceae è un fusto cilindrico, spesso cavo, articolato in nodi e internodi, con midollo presente in corrispondenza dei nodi. Nei bambù i fusti diventano legnosi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-fill-lodicule-040",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel fiore delle Poaceae, le piccole strutture che, rigonfiandosi, ne favoriscono l'apertura al momento della fioritura sono dette ___.",
+    "answers": [
+      [
+        "lodicule",
+        "lodicola",
+        "lodicole"
+      ]
+    ],
+    "suggestion": "Sono interne alle glumette, distinte dalle glume e dalla rachilla.",
+    "explanation": "Le lodicule sono piccole strutture interne al fiore delle Poaceae che, rigonfiandosi, ne favoriscono l'apertura al momento della fioritura. Le glume proteggono la spighetta, le glumette (lemma e palea) il singolo fiore.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-glutine-041",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale sostanza allergenica prodotta da diverse Poaceae è responsabile di reazioni avverse nei soggetti sensibili?",
+    "suggestion": "È un complesso proteico presente nelle cariossidi di alcuni cereali.",
+    "options": [
+      "La silice depositata nell'epidermide fogliare, che irrita le vie respiratorie",
+      "Il lattice biancastro secreto dai culmi in seguito a lesione dei tessuti",
+      "Il glutine, complesso proteico responsabile di reazioni avverse nei soggetti sensibili"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tra le sostanze prodotte dalle Poaceae vi è il glutine, un complesso proteico responsabile di reazioni avverse nei soggetti sensibili. Le Poaceae comprendono specie con fotosintesi C3 e C4.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-cereali-042",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale coppia di specie appartiene ai cereali vernini (seminati in autunno-inverno) delle Poaceae?",
+    "suggestion": "Sono i frumenti e l'orzo, non i cereali seminati in primavera come riso e mais.",
+    "options": [
+      "Triticum aestivum (grano tenero) e Hordeum vulgare (orzo)",
+      "Oryza sativa (riso) e Zea mays (mais)",
+      "Arundo donax e Phragmites australis, canne palustri delle zone umide",
+      "Lolium perenne e Dactylis glomerata, essenze da foraggio e tappeti erbosi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i cereali vernini (seminati in autunno-inverno) figurano Triticum durum, Triticum aestivum (grano tenero) e Hordeum vulgare (orzo); Oryza sativa (riso) e Zea mays (mais) sono invece cereali estivi, seminati in primavera.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.67"
+  },
+  {
+    "id": "bdv-mono-luzula-043",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere fogliare distingue il genere Luzula dal genere Juncus nelle Juncaceae?",
+    "suggestion": "Osserva la forma della foglia e la presenza di peli sul margine.",
+    "options": [
+      "Luzula ha fusti rigidi e appuntiti tipici degli ambienti salmastri, come Juncus acutus",
+      "Luzula ha foglie ridotte a squame prive di lamina, mentre Juncus ha ampie foglie laminari",
+      "Luzula ha foglie piatte bordate di lunghi peli bianchi, assenti in Juncus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luzula campestris ha foglie piatte bordate di lunghi peli bianchi, carattere distintivo del genere rispetto a Juncus (es. Juncus acutus, con fusti rigidi e appuntiti). Entrambi hanno formula P3+3 A3+3 G(3), con sei tepali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.68"
+  },
+  {
+    "id": "bdv-mono-fill-idrofilia-044",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'impollinazione che avviene in ambiente acquatico, tipica delle fanerogame marine, è detta ___.",
+    "answers": [
+      [
+        "idrofilia",
+        "idrogamia"
+      ]
+    ],
+    "suggestion": "Il termine è analogo ad anemofilia (vento) ed entomofilia (insetti), ma riferito all'acqua.",
+    "explanation": "Le fanerogame marine producono fiori poco vistosi adattati all'impollinazione in ambiente acquatico, detta idrofilia. A differenza delle alghe, possiedono vere foglie, rizoma, radici e fiori.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.68"
   }
 ]

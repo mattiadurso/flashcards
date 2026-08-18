@@ -299,5 +299,307 @@
     "explanation": "La proteina transmembrana attraversa l'intero spessore della membrana (spesso con tratti idrofobici ad α-elica che possono formare canali); la periferica è associata solo superficialmente a una delle due facce, senza penetrare nel doppio strato. Le integrali sono stabilmente inserite nel bilayer.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.59"
+  },
+  {
+    "id": "bvg-mem-semipermeabile-021",
+    "topic": "biologia-vegetale",
+    "question": "Quali sostanze attraversano liberamente la membrana semipermeabile, e quale ha invece bisogno di proteine dedicate?",
+    "suggestion": "I piccoli gas diffondono da soli; una molecola polare come l'acqua no.",
+    "options": [
+      "Passano liberi O2, CO2 e gas come l'etilene; l'acqua richiede le acquaporine",
+      "Passa libera solo l'acqua; i gas richiedono invece specifici canali proteici",
+      "Non passa nulla senza spesa di ATP, neppure i gas disciolti nel citosol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le membrane sono semipermeabili: lasciano passare liberamente solo alcune sostanze, come O2, CO2 e gas quali l'etilene. L'acqua, essendo polare, non attraversa liberamente l'interno idrofobico e richiede le acquaporine, canali selettivi per le sue molecole.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.59"
+  },
+  {
+    "id": "bvg-mem-fill-criodecappaggio-022",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La tecnica di ___ (freeze-etching), che consiste nel congelare rapidamente il campione e fratturarlo per osservarne le superfici interne, ha permesso di elaborare i modelli di membrana.",
+    "answers": [
+      [
+        "crio-decappaggio",
+        "criodecappaggio"
+      ]
+    ],
+    "suggestion": "Unisce il congelamento del campione alla frattura per rivelarne le facce interne.",
+    "explanation": "Il crio-decappaggio (freeze-etching) è una metodologia di microscopia elettronica che congela rapidamente il campione e lo frattura per osservarne le superfici interne: su questi dati si è basata l'elaborazione dei modelli strutturali di membrana.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.59"
+  },
+  {
+    "id": "bvg-mem-flipflop-023",
+    "topic": "biologia-vegetale",
+    "question": "Come si confrontano il movimento laterale dei lipidi e il flip-flop nella membrana?",
+    "suggestion": "Spostarsi entro lo stesso foglietto è facile; passare all'altro foglietto no.",
+    "options": [
+      "Il movimento laterale è rarissimo, mentre il flip-flop avviene in modo continuo",
+      "Il movimento laterale è molto frequente, il flip-flop è raro (circa una volta al mese)",
+      "Entrambi i movimenti avvengono esattamente con la stessa identica frequenza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel doppio strato i lipidi si spostano lateralmente con altissima frequenza (movimento laterale, ~10^7 volte al secondo), mentre i movimenti trasversali tra i due foglietti (flip-flop) sono molto più rari, circa una volta al mese, perché richiedono di attraversare l'interno idrofobico.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.59"
+  },
+  {
+    "id": "bvg-mem-steroli-024",
+    "topic": "biologia-vegetale",
+    "question": "Quale ruolo svolgono gli steroli inseriti nel doppio strato lipidico della membrana?",
+    "suggestion": "Agiscono sul grado di rigidità o fluidità del bilayer.",
+    "options": [
+      "Catalizzano l'idrolisi dell'ATP fornendo energia al trasporto attivo",
+      "Formano canali selettivi per il passaggio rapido delle molecole d'acqua",
+      "Contribuiscono a modulare la fluidità della membrana"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli steroli sono molecole lipidiche che, inserite nel doppio strato, contribuiscono a modularne la fluidità. Non svolgono attività catalitica sull'ATP (compito delle ATPasi) né formano pori per l'acqua (compito delle acquaporine).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.60"
+  },
+  {
+    "id": "bvg-mem-riconoscimento-025",
+    "topic": "biologia-vegetale",
+    "question": "A che cosa servono i carboidrati legati a proteine e lipidi sulla faccia esterna della membrana?",
+    "suggestion": "Fanno da 'etichette' esposte sulla superficie della cellula.",
+    "options": [
+      "Al riconoscimento cellulare: identificano altre cellule o molecole specifiche",
+      "Alla sintesi diretta di ATP sulla faccia esterna della membrana plasmatica",
+      "A impermeabilizzare completamente la membrana anche nei confronti dei gas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sulla superficie esterna della membrana i carboidrati legati a proteine (glicoproteine) o a lipidi (glicolipidi) svolgono funzione di riconoscimento cellulare, permettendo alla cellula di identificare altre cellule o molecole specifiche.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.60"
+  },
+  {
+    "id": "bvg-mem-fasi-segnale-026",
+    "topic": "biologia-vegetale",
+    "question": "In quali tre fasi successive si articola la segnalazione ormonale nella cellula vegetale?",
+    "suggestion": "Prima si lega l'ormone, poi il segnale è convertito, infine si attivano i processi.",
+    "options": [
+      "Diffusione, osmosi e sviluppo del turgore cellulare interno",
+      "Incrostazione, apposizione e gelificazione della parete",
+      "Ricezione, trasduzione e induzione"
+    ],
+    "correctIndex": 2,
+    "explanation": "La segnalazione si articola in ricezione (legame dell'ormone al recettore), trasduzione (conversione del segnale in reazioni intracellulari, con fosforilazioni) e induzione (attivazione dei processi cellulari finali). Le altre triadi riguardano il trasporto dell'acqua o le modificazioni della parete.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.60"
+  },
+  {
+    "id": "bvg-mem-ioni-carica-027",
+    "topic": "biologia-vegetale",
+    "question": "Perché ioni come K+, Na+ e Cl- non attraversano da soli il doppio strato lipidico puro?",
+    "suggestion": "Il problema è la loro carica di fronte all'interno idrofobico della membrana.",
+    "options": [
+      "Perché sono troppo grandi per attraversare qualsiasi poro proteico di membrana",
+      "Perché la loro carica elettrica li rende praticamente impermeanti al bilayer idrofobico",
+      "Perché reagiscono chimicamente con i fosfolipidi, distruggendo il doppio strato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ioni come K+, Na+ e Cl- risultano praticamente impermeanti attraverso il doppio strato lipidico puro a causa della loro carica elettrica, e necessitano quindi di specifiche proteine di trasporto (canali e carrier) per attraversare la membrana.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.61"
+  },
+  {
+    "id": "bvg-mem-diffusione-distanza-028",
+    "topic": "biologia-vegetale",
+    "question": "Perché la diffusione è efficiente dentro la cellula ma inadeguata al trasporto a lunga distanza?",
+    "suggestion": "Il tempo necessario cresce enormemente con la distanza da percorrere.",
+    "options": [
+      "Perché è lenta sulle brevi distanze e diventa invece rapidissima su quelle lunghe",
+      "Perché funziona soltanto quando tutte le pompe protoniche sono attive insieme",
+      "Perché è rapida su scala cellulare (μm in secondi) ma lentissima sul metro (~32 anni)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La diffusione è rapida sulle brevi distanze (una molecola di glucosio percorre ~50 μm in circa 2,5 secondi) ma diventa estremamente lenta sulle lunghe: per un metro servirebbero ~10^9 secondi, cioè circa 32 anni. Per questo a lunga distanza serve il flusso di massa.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.62"
+  },
+  {
+    "id": "bvg-mem-equilibrio-dinamico-029",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa si intende per equilibrio dinamico nella diffusione attraverso una membrana?",
+    "suggestion": "Il movimento non cessa: si annulla soltanto il flusso netto.",
+    "options": [
+      "Le molecole smettono del tutto di muoversi una volta uniformata la distribuzione",
+      "Il soluto continua ad accumularsi soltanto da un lato della membrana",
+      "Le molecole continuano ad attraversare la membrana, ma alla stessa velocità nei due sensi"
+    ],
+    "correctIndex": 2,
+    "explanation": "All'equilibrio dinamico le molecole continuano ad attraversare la membrana, ma alla stessa velocità in entrambe le direzioni: il bilancio complessivo del movimento è nullo, quindi non si osserva più un flusso netto pur restando le singole molecole in movimento.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.62"
+  },
+  {
+    "id": "bvg-mem-ppasi-030",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue le PPasi dalle ATPasi tra le pompe protoniche?",
+    "suggestion": "Cambia la molecola ad alta energia che viene idrolizzata per pompare H+.",
+    "options": [
+      "Le PPasi pompano protoni idrolizzando il pirofosfato (PPi) anziché l'ATP",
+      "Le PPasi trasportano molecole d'acqua invece di trasportare i protoni",
+      "Le PPasi lavorano solo secondo gradiente, senza alcuna spesa di energia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le pompe protoniche appartengono a due classi: le ATPasi, che pompano protoni idrolizzando ATP, e le PPasi, che li pompano idrolizzando il pirofosfato (PPi), un composto ad alta energia. Entrambe operano un trasporto attivo primario di H+ contro gradiente.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.62"
+  },
+  {
+    "id": "bvg-mem-atpasi-reversibile-031",
+    "topic": "biologia-vegetale",
+    "question": "In presenza di un elevato gradiente elettrochimico (alto ΔμH+), come può funzionare l'ATPasi?",
+    "suggestion": "Con molta energia disponibile nel gradiente, la reazione può invertirsi.",
+    "options": [
+      "Si blocca del tutto e smette di catalizzare qualsiasi reazione chimica",
+      "In senso inverso, da sintetasi, producendo ATP a partire da ADP e Pi",
+      "Come acquaporina, limitandosi a lasciar passare le sole molecole d'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con un basso ΔμH+ l'ATPasi funziona da idrolasi (scinde l'ATP per pompare protoni); con un alto ΔμH+, cioè molta energia disponibile nel gradiente, può funzionare in senso inverso da sintetasi, producendo ATP a partire da ADP e Pi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.63"
+  },
+  {
+    "id": "bvg-mem-elettrochimico-032",
+    "topic": "biologia-vegetale",
+    "question": "Da quali due componenti è formato il gradiente elettrochimico dei protoni (ΔμH+)?",
+    "suggestion": "Una componente è di carica, l'altra di concentrazione protonica.",
+    "options": [
+      "Dal gradiente di pressione (ΨP) e da quello osmotico di soluto (ΨS)",
+      "Dal potenziale di gravità e dalla viscosità complessiva del citosol",
+      "Dalla temperatura dell'ambiente e dalla concentrazione degli zuccheri",
+      "Dal gradiente elettrico (ΔΨ) e da quello chimico di pH (ΔpH)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il gradiente elettrochimico dei protoni (ΔμH+) generato dalle pompe protoniche è la somma di due componenti: il gradiente elettrico (ΔΨ, differenza di cariche tra i due lati) e il gradiente chimico di pH (ΔpH, differenza di concentrazione dei protoni).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.63"
+  },
+  {
+    "id": "bvg-mem-secondario-saccarosio-033",
+    "topic": "biologia-vegetale",
+    "question": "Come funziona il trasporto attivo secondario (simporto) del saccarosio nel floema?",
+    "suggestion": "Riutilizza il gradiente protonico creato dalle pompe primarie.",
+    "options": [
+      "Idrolizza direttamente l'ATP per spingere il saccarosio fuori dalla cellula",
+      "Sfrutta l'osmosi dell'acqua per trascinare passivamente il saccarosio nel floema",
+      "Accoppia il rientro passivo dei protoni H+ (secondo gradiente) al trasporto del saccarosio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il trasporto attivo secondario (cotrasporto in simporto) dissipa il gradiente protonico creato dalle pompe primarie: il cotrasportatore saccarosio-H+ accoppia il rientro passivo del protone al trasporto del saccarosio contro gradiente, caricandolo nel floema.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.63"
+  },
+  {
+    "id": "bvg-mem-antiporto-034",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza un sistema di trasporto in antiporto?",
+    "suggestion": "I due soluti carichi attraversano la membrana in versi contrari.",
+    "options": [
+      "Due soluti carichi vengono trasportati in direzioni opposte (ad esempio H+ e K+)",
+      "Un solo soluto viene trasportato attraverso la membrana in una sola direzione",
+      "Due soluti differenti vengono trasportati insieme nella stessa direzione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nell'antiporto due soluti differenti, entrambi carichi elettricamente, vengono trasportati in senso inverso l'uno rispetto all'altro (ad esempio H+ e K+). Nell'uniporto viene trasportato un solo soluto, nel simporto due soluti vanno nella stessa direzione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.63"
+  },
+  {
+    "id": "bvg-mem-fill-uniporto-035",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il trasporto di un singolo soluto attraverso la membrana, spesso abbinato all'attività di una ATPasi, è detto ___.",
+    "answers": [
+      [
+        "uniporto"
+      ]
+    ],
+    "suggestion": "Un solo soluto, una sola direzione: il prefisso indica 'uno'.",
+    "explanation": "L'uniporto è il trasporto di un singolo soluto attraverso la membrana, spesso abbinato all'attività di una ATPasi (ad esempio l'ingresso di K+ guidato dal potenziale di membrana generato dalla pompa protonica).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.63"
+  },
+  {
+    "id": "bvg-mem-vie-trasporto-036",
+    "topic": "biologia-vegetale",
+    "question": "Quali sono le tre vie con cui le sostanze si spostano tra le cellule dei tessuti vegetali?",
+    "suggestion": "Una passa per i citosol connessi, una per le pareti, una attraversa le membrane.",
+    "options": [
+      "La via glicolitica, la via del pentoso fosfato e il ciclo di Krebs",
+      "La via simplastica, la via apoplastica e la via transmembranaria",
+      "La via simplastica, la via apoplastica e la via xilematica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei tessuti le sostanze si spostano per tre vie: la via simplastica (attraverso i citosol connessi dai plasmodesmi), la via apoplastica (attraverso pareti e spazi extracellulari) e la via transmembranaria (attraversamento ripetuto delle membrane). Le sostanze possono usare più vie insieme.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.64"
+  },
+  {
+    "id": "bvg-mem-endocitosi-recettore-037",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza l'endocitosi mediata da recettore rispetto alle altre forme di endocitosi?",
+    "suggestion": "È selettiva: prevede un recettore e un rivestimento proteico della vescicola.",
+    "options": [
+      "Ingloba particelle solide come i batteri per semplice invaginazione della membrana",
+      "Ingloba liquidi extracellulari senza alcun riconoscimento molecolare specifico",
+      "Riconosce una molecola specifica e forma una fossetta rivestita di clatrina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'endocitosi mediata da recettore una proteina recettrice riconosce specificamente la molecola da trasportare; si forma poi una fossetta rivestita di clatrina e infine la vescicola rivestita si distacca. La fagocitosi ingloba solidi, la pinocitosi liquidi, entrambe per invaginazione non selettiva.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.64"
+  },
+  {
+    "id": "bvg-mem-gravita-038",
+    "topic": "biologia-vegetale",
+    "question": "Quanto vale mediamente il potenziale di gravità (ΨG) e quando diventa rilevante?",
+    "suggestion": "È piccolo per singola cellula, ma si somma lungo l'altezza del fusto.",
+    "options": [
+      "Circa 1 MPa per metro: risulta determinante anche a livello della singola cellula",
+      "È nullo a qualsiasi altezza, perché la gravità non influenza in alcun modo l'acqua",
+      "Circa 0,01 MPa per metro: trascurabile nella cellula, importante nella pianta alta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il potenziale di gravità (ΨG) vale in media circa 0,01 MPa per metro di altezza (ogni 10 m ~0,1 MPa, cioè ~1 atm). È trascurabile a livello della singola cellula, ma diventa importante a livello della pianta intera, specie negli organismi molto alti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.66"
+  },
+  {
+    "id": "bvg-mem-fill-citorrisi-039",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Nelle piante superiori, dotate di tessuti impermeabilizzati, la perdita di turgore equivalente alla plasmolisi prende il nome di ___.",
+    "answers": [
+      [
+        "citorrisi"
+      ]
+    ],
+    "suggestion": "Avviene sotto rivestimenti come la cuticola, non per distacco del plasmalemma.",
+    "explanation": "La citorrisi è la perdita di turgore in cellule protette da rivestimenti impermeabilizzanti (come la cuticola), tipica delle piante superiori. È l'equivalente della plasmolisi, che invece si verifica in alghe e piante acquatiche non impermeabilizzate, con distacco del plasmalemma dalla parete.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.67"
+  },
+  {
+    "id": "bvg-mem-potassio-040",
+    "topic": "biologia-vegetale",
+    "question": "Qual è lo ione più abbondante nei tessuti vegetali, a fronte del basso contenuto citosolico di Na+ e Ca2+?",
+    "suggestion": "È un catione monovalente accumulato attivamente nelle cellule.",
+    "options": [
+      "Il cloro (Cl-)",
+      "Il sodio (Na+)",
+      "Il potassio (K+)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il potassio (K+) è il principale ione presente nei tessuti vegetali, mentre il contenuto citosolico di sodio (Na+) e calcio (Ca2+) è generalmente basso. Tra gli anioni del citosol prevalgono invece cloro (Cl-), fosfato (PO4 3-) e nitrato (NO3-).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.64"
   }
 ]

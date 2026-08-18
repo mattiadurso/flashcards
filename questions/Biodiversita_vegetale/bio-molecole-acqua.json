@@ -181,5 +181,186 @@
     "explanation": "L'idrolisi è la reazione che inserisce una molecola d'acqua in un legame, provocandone la rottura: è il processo inverso della sintesi per disidratazione (condensazione) e scinde i polimeri nei monomeri costitutivi.",
     "difficulty": "easy",
     "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-elementi-sei-013",
+    "topic": "biologia-vegetale",
+    "question": "Quali sono i sei principali elementi chimici che compongono gli organismi viventi?",
+    "suggestion": "Sono spesso riassunti nella sequenza C, H, N, O, P, S.",
+    "options": [
+      "Carbonio, idrogeno, azoto, ossigeno, fosforo e zolfo",
+      "Carbonio, idrogeno, sodio, ossigeno, cloro e calcio",
+      "Silicio, idrogeno, azoto, ossigeno, ferro e zolfo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I sei elementi principali dei viventi sono carbonio, idrogeno, azoto, ossigeno, fosforo e zolfo (C, H, N, O, P, S): relativamente rari nell'ambiente inorganico ma abbondantissimi negli organismi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-selezione-014",
+    "topic": "biologia-vegetale",
+    "question": "Perché i sei elementi principali dei viventi sono molto più abbondanti negli organismi che nella crosta terrestre?",
+    "suggestion": "La loro proporzione negli organismi è ben diversa da quella dell'ambiente inorganico.",
+    "options": [
+      "Perché la pianta li assorbe passivamente in proporzione alla loro disponibilità nel suolo circostante",
+      "Perché riflettono una selezione chimica operata nel corso dell'evoluzione della vita",
+      "Perché durante la fotosintesi vengono creati ex novo a partire dalla sola energia luminosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pur essendo relativamente rari nell'ambiente inorganico, C, H, N, O, P, S sono abbondantissimi nei viventi: questa sproporzione testimonia una selezione chimica avvenuta nel corso dell'evoluzione della vita.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-ghiaccio-015",
+    "topic": "biologia-vegetale",
+    "question": "Perché nel ghiaccio le molecole d'acqua si dispongono in un reticolo tridimensionale ordinato?",
+    "suggestion": "Ogni molecola resta circondata da altre grazie agli stessi legami deboli che derivano dalla polarità.",
+    "options": [
+      "Perché i legami idrogeno tra molecole vicine le vincolano in una struttura cristallina regolare",
+      "Perché a basse temperature l'acqua diventa apolare e le molecole si respingono ordinatamente",
+      "Perché gli ioni disciolti fungono da impalcatura attorno a cui l'acqua cristallizza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grazie alla polarità, ogni molecola d'acqua forma legami idrogeno con le vicine: nel ghiaccio questi legami dispongono le molecole in un reticolo tridimensionale ordinato, la struttura cristallina.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-tensione-016",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa dipende la tensione superficiale dell'acqua?",
+    "suggestion": "È la resistenza che la superficie di un liquido oppone alla rottura.",
+    "options": [
+      "Dall'adesione dell'acqua alle pareti dei vasi conduttori della pianta",
+      "Dall'apolarità delle molecole superficiali, che non interagiscono tra loro",
+      "Dalla coesione tra le molecole d'acqua della superficie, che oppone resistenza alla rottura"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tensione superficiale è la resistenza che la superficie del liquido oppone alla rottura ed è dovuta alla coesione tra le molecole d'acqua superficiali, a sua volta riconducibile ai legami idrogeno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.1"
+  },
+  {
+    "id": "bvg-mol-ossidrile-017",
+    "topic": "biologia-vegetale",
+    "question": "Quale gruppo funzionale, formato da un ossigeno legato a un idrogeno, caratterizza la classe degli alcoli come l'etanolo?",
+    "suggestion": "È un gruppo −OH; dà il nome agli alcoli.",
+    "options": [
+      "Il gruppo carbonile (>C=O)",
+      "Il gruppo ossidrile (−OH)",
+      "Il gruppo amminico (−NH2)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il gruppo ossidrile (−OH), un ossigeno legato a un idrogeno, è caratteristico degli alcoli, come l'etanolo. Il carbonile caratterizza aldeidi e chetoni, l'amminico le ammine.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-carbonile-018",
+    "topic": "biologia-vegetale",
+    "question": "Il gruppo carbonile (>C=O) caratterizza aldeidi e chetoni: che cosa li distingue?",
+    "suggestion": "Conta a che cosa è legato il carbonio del carbonile.",
+    "options": [
+      "Nelle aldeidi il carbonio carbonilico è legato a un idrogeno, nei chetoni a due catene carboniose",
+      "Nelle aldeidi il carbonile è sempre interno alla catena, nei chetoni è terminale",
+      "Nelle aldeidi il carbonile è salificato con calcio, nei chetoni è esterificato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il carbonile dà un'aldeide quando il carbonio carbonilico è legato a un idrogeno (es. acetaldeide) e un chetone quando è legato a due catene carboniose (es. acetone).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-amminico-019",
+    "topic": "biologia-vegetale",
+    "question": "Quale carattere conferisce alla molecola il gruppo amminico (−NH2), tipico delle ammine come la metilammina?",
+    "suggestion": "È il gruppo tipico delle ammine.",
+    "options": [
+      "Un carattere acido, tipico degli acidi carbossilici (es. acido acetico)",
+      "Un carattere basico, tipico delle ammine (es. metilammina)",
+      "Un carattere ossidante, tipico dei gruppi fosfato energetici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il gruppo amminico (−NH2) è caratteristico delle ammine (es. metilammina) e conferisce alla molecola carattere basico; il gruppo carbossile dà invece carattere acido.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-fill-fosfato-020",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il gruppo funzionale −OPO3²⁻, presente nei fosfati organici e centrale nel metabolismo energetico, è il gruppo ___.",
+    "answers": [
+      [
+        "fosfato",
+        "gruppo fosfato"
+      ]
+    ],
+    "suggestion": "È presente ad esempio nell'acido 3-fosfoglicerico.",
+    "explanation": "Il gruppo fosfato (−OPO3²⁻) caratterizza i fosfati organici (es. acido 3-fosfoglicerico) e ha un ruolo centrale nel metabolismo energetico.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-mol-sulfidrile-021",
+    "topic": "biologia-vegetale",
+    "question": "Quale gruppo funzionale, caratteristico dei tioli, è coinvolto nella formazione dei ponti disolfuro delle proteine?",
+    "suggestion": "Contiene zolfo ed è tipico dei tioli, come il mercaptoetanolo.",
+    "options": [
+      "Il gruppo sulfidrile (−SH)",
+      "Il gruppo ossidrile (−OH)",
+      "Il gruppo carbossile (−COOH)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il gruppo sulfidrile (−SH), caratteristico dei tioli (es. mercaptoetanolo), partecipa alla formazione dei ponti disolfuro nelle proteine.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-mol-ibridazione-022",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è l'ibridazione degli orbitali che permette al carbonio la geometria tetraedrica?",
+    "suggestion": "Genera quattro orbitali tra loro equivalenti.",
+    "options": [
+      "La perdita di un elettrone di legame, che rende il carbonio uno ione tetravalente",
+      "La combinazione di orbitali atomici puri, diversi per forma ed energia, in nuovi orbitali equivalenti",
+      "La rotazione di 180° di un orbitale rispetto ai legami covalenti adiacenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ibridazione è la combinazione di orbitali atomici puri (di forma ed energia diverse) in nuovi orbitali equivalenti, gli orbitali ibridi: nel carbonio ne genera quattro a geometria tetraedrica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-macromolecole-023",
+    "topic": "biologia-vegetale",
+    "question": "Quali sono le quattro principali classi di macromolecole biologiche fondate sull'ossatura di carbonio?",
+    "suggestion": "Una di esse, i lipidi, fa eccezione alla regola dei polimeri.",
+    "options": [
+      "Carboidrati, lipidi, proteine e nucleotidi",
+      "Carboidrati, sali minerali, proteine e vitamine",
+      "Lipidi, acqua, proteine e pigmenti fotosintetici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le quattro classi principali sono carboidrati, lipidi, proteine e nucleotidi. Tutte tendono a formare polimeri tranne i lipidi, che fanno eccezione.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.2"
+  },
+  {
+    "id": "bvg-mol-modelli-024",
+    "topic": "biologia-vegetale",
+    "question": "Quale modello di rappresentazione degli zuccheri mostra la reale conformazione tridimensionale dell'anello, distinguendo i sostituenti assiali ed equatoriali?",
+    "suggestion": "Distingue i sostituenti in posizione assiale ed equatoriale.",
+    "options": [
+      "La proiezione di Haworth",
+      "Il modello a riempimento di spazio (space-filling)",
+      "Il modello conformazionale di Fisher"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il modello conformazionale di Fisher rappresenta la reale conformazione tridimensionale dell'anello, distinguendo i sostituenti assiali ed equatoriali. La proiezione di Haworth mostra l'anello in prospettiva; lo space-filling mostra i volumi atomici.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.3"
   }
 ]

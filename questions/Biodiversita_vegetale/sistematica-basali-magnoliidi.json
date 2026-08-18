@@ -129,5 +129,211 @@
     "explanation": "Liriodendron tulipifera ha foglie a margine lobato e fiori giallo-verdastri con banda arancione alla base dei tepali, dalla forma che ricorda un tulipano. Magnolia grandiflora ha invece foglie persistenti, coriacee e lucide.",
     "difficulty": "easy",
     "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-magnolidi-ordini-010",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali ordini comprende il clade delle Magnolidi (Magnoliids)?",
+    "suggestion": "È uno dei quattro grandi raggruppamenti delle angiosperme, distinto sia dai gruppi basali sia dai due grandi cladi con uno o due cotiledoni.",
+    "options": [
+      "Amborellales, Nymphaeales, Austrobaileyales e Chloranthales, cioè le linee più basali",
+      "Monocotiledoni, Eudicotiledoni, gimnosperme e pteridofite prive di semi racchiusi",
+      "Laurales, Magnoliales, Canellales e Piperales, ordini riuniti in un unico clade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Magnolidi costituiscono un clade che comprende gli ordini Laurales, Magnoliales, Canellales e Piperales. Il primo elenco riporta invece i gruppi basali; il secondo mescola cladi e gruppi esterni alle angiosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.59"
+  },
+  {
+    "id": "bdv-sysb-basali-ordini-011",
+    "topic": "biodiversita-vegetale",
+    "question": "In quale ordine di divergenza si dispongono i gruppi basali delle angiosperme?",
+    "suggestion": "Il primo a separarsi è l'ordine con un'unica specie legnosa; l'ultimo dà nome a un gruppo con piante affini al pepe.",
+    "options": [
+      "Amborellales, Nymphaeales, Austrobaileyales e Chloranthales",
+      "Magnoliales, Laurales, Piperales e Canellales, tutti compresi nei basali",
+      "Monocotiledoni, Eudicotiledoni e Magnolidi, in ordine di comparsa"
+    ],
+    "correctIndex": 0,
+    "explanation": "I gruppi basali comprendono, in ordine di divergenza dal resto delle angiosperme, gli ordini Amborellales, Nymphaeales, Austrobaileyales e Chloranthales. Gli ordini del secondo elenco appartengono alle Magnolidi, mentre il terzo elenco non è costituito da gruppi basali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.59"
+  },
+  {
+    "id": "bdv-sysb-basali-perche-012",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché lo studio dei gruppi basali è fondamentale per comprendere l'evoluzione delle angiosperme?",
+    "suggestion": "Sono i rami che si sono staccati per primi: cosa possono rivelare sui caratteri di partenza dell'intero gruppo?",
+    "options": [
+      "Perché comprendono la maggior parte delle specie coltivate di interesse economico e ornamentale",
+      "Perché rappresentano le angiosperme più recenti e derivate dell'intero albero filogenetico",
+      "Perché, essendosi separati per primi, aiutano a riconoscere quali caratteri siano primitivi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I gruppi basali occupano una posizione filogenetica basale: essendosi separati per primi dalle altre linee, il loro studio è fondamentale per capire quali caratteri morfologici siano da considerarsi primitivi (ancestrali) nell'intera divisione delle angiosperme. Non sono né i più derivati né i più ricchi di specie coltivate.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.59-60"
+  },
+  {
+    "id": "bdv-sysb-atactostele-013",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere della vasculatura del fusto compare in corrispondenza delle Monocotiledoni sul cladogramma?",
+    "suggestion": "Riguarda come sono disposti i fasci conduttori e se è presente un tessuto che permette l'ispessimento in diametro.",
+    "options": [
+      "Fasci conduttori disposti in cerchi concentrici con un cambio vascolare ben sviluppato",
+      "Vasculatura atactostelica, con fasci conduttori sparsi e assenza di cambio vascolare",
+      "Assenza completa di tessuti conduttori, sostituiti da un parenchima acquifero di riserva"
+    ],
+    "correctIndex": 1,
+    "explanation": "In corrispondenza delle Monocotiledoni compare una vasculatura di tipo atactostelico, con fasci conduttori sparsi e non organizzati in cerchi, e l'assenza del cambio vascolare (quindi niente crescita secondaria in spessore). I fasci in cerchi concentrici col cambio sono tipici delle altre angiosperme.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-monocot-foglia-014",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri fogliari ed embrionali sono diagnostici delle Monocotiledoni?",
+    "suggestion": "Pensa a come corrono le nervature nella lamina e a quante prime foglie embrionali contiene il seme.",
+    "options": [
+      "Venatura parallela e presenza di un solo cotiledone",
+      "Venatura reticolata e presenza di due cotiledoni",
+      "Venatura parallela e presenza di tre cotiledoni saldati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Monocotiledoni sono diagnosticate dalla venatura fogliare di tipo parallelo e dalla presenza di un solo cotiledone, contro i due cotiledoni e la venatura reticolata generali delle altre angiosperme. Non esistono monocotiledoni con tre cotiledoni saldati.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-vessels-015",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa rappresenta la comparsa dei vasi xilematici (vessels) nel cladogramma delle angiosperme?",
+    "suggestion": "È un carattere condiviso da quasi tutto il gruppo, con qualche eccezione dovuta a una perdita successiva.",
+    "options": [
+      "Un carattere comune alla quasi totalità delle angiosperme, pur perso secondariamente in alcuni taxa",
+      "Un carattere esclusivo delle sole Monocotiledoni acquatiche, assente nelle altre linee evolutive",
+      "Un carattere del tutto assente nelle angiosperme e presente unicamente nelle gimnosperme a seme nudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I vasi conduttori xilematici (vessels), elementi del legno costituiti da cellule morte disposte in serie, sono comuni alla quasi totalità delle angiosperme, sebbene siano stati secondariamente persi in alcuni taxa. Non sono esclusivi delle monocotiledoni né assenti nelle angiosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-magno-distribuzione-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si descrive la distribuzione geografica della famiglia delle Magnoliaceae?",
+    "suggestion": "Non è continua: la famiglia occupa aree separate in due parti lontane del mondo.",
+    "options": [
+      "Cosmopolita e uniforme su tutti i continenti, comprese le regioni polari più fredde",
+      "Ristretta a un'unica piccola isola, come accade per Amborella trichopoda",
+      "Disgiunta, tra il continente americano centro-meridionale e l'Asia orientale e sud-orientale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Magnoliaceae hanno una distribuzione disgiunta, cioè suddivisa in aree geograficamente separate: sono diffuse nel continente americano (regioni centrali e meridionali) e in Asia orientale e sud-orientale. Non sono cosmopolite né limitate a un'unica isola.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-magno-perianzio-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è organizzato il perianzio del fiore delle Magnoliaceae?",
+    "suggestion": "Gli elementi esterni del fiore non si distinguono in calice e corolla e non sono saldati fra loro.",
+    "options": [
+      "Differenziato in un calice verde e una corolla colorata ben distinti tra loro",
+      "Dialitepalo petaloide, con tepali liberi e simili a petali, in un fiore attinomorfo",
+      "Ridotto a un unico tepalo saldato tutt'intorno agli organi riproduttivi del fiore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il fiore delle Magnoliaceae è attinomorfo e dialitepalo petaloide: gli elementi del perianzio sono tepali (non differenziati in calice e corolla), liberi tra loro e simili a petali. Non c'è quindi distinzione calice-corolla né un unico tepalo saldato.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-sysb-fill-arillo-018",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Magnoliaceae il rivestimento carnoso e spesso vivacemente colorato che avvolge il seme e attira gli animali dispersori è detto ___.",
+    "answers": [["arillo", "arilli"]],
+    "suggestion": "È un tegumento carnoso che ha funzione di richiamo per gli animali che disperdono i semi.",
+    "explanation": "L'arillo è un rivestimento carnoso, spesso colorato, che si sviluppa attorno al seme con funzione di attrazione verso gli animali dispersori. Nelle Magnoliaceae i semi arillati restano appesi al frutto tramite il funicolo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-sysb-magno-infiorescenza-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono disposti i fiori sulla pianta nelle Magnoliaceae?",
+    "suggestion": "L'infiorescenza di questa famiglia è ridotta al minimo possibile.",
+    "options": [
+      "In dense spighe pendule formate da numerosi piccoli fiori unisessuali",
+      "In ombrelle composte terminali che riuniscono molti fiori peduncolati",
+      "In un unico fiore solitario terminale, posto all'apice del ramo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle Magnoliaceae l'infiorescenza è ridotta al singolo fiore solitario terminale, posto all'apice del ramo. Non si tratta quindi di spighe né di ombrelle composte, coerentemente con il fiore grande e perfetto della famiglia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-sysb-formula-fiorale-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella formula fiorale delle Magnoliaceae 'P n; A n; G n', che cosa indica la lettera n?",
+    "suggestion": "Non è un valore fisso: richiama la disposizione a spirale con molti elementi del fiore.",
+    "options": [
+      "Che il fiore è privo dell'elemento corrispondente, ridotto quindi a zero unità",
+      "Che il numero di elementi è variabile e generalmente elevato, come atteso in un fiore spiralato",
+      "Che gli elementi sono sempre in numero fisso di nove per ciascun verticillo distinto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella formula P n; A n; G n la lettera n indica che il numero di elementi (perianzio, androceo e gineceo) è variabile e generalmente elevato, coerentemente con la disposizione spiralata degli elementi fiorali. Non significa assenza dell'elemento né un numero fisso.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-sysb-samara-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Oltre all'aggregato di follicoli, quale altro tipo di frutto possono presentare, più raramente, le Magnoliaceae?",
+    "suggestion": "Pensa a un frutto pensato per viaggiare lontano dalla pianta madre senza l'aiuto di animali.",
+    "options": [
+      "Una samara, frutto secco alato che favorisce la dispersione anemocora ad opera del vento",
+      "Una drupa carnosa provvista di endocarpo legnoso e di un unico grosso seme centrale",
+      "Un legume deiscente che si apre lungo due linee di sutura opposte liberando i semi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Più raramente il frutto delle Magnoliaceae è una samara, frutto secco indeiscente provvisto di un'ala membranacea che ne favorisce la dispersione anemocora (ad opera del vento). Non è una drupa carnosa né un legume.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.62"
+  },
+  {
+    "id": "bdv-sysb-plastidi-cribrosi-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere dei tubi cribrosi del floema è indicato come diagnostico sul cladogramma delle angiosperme?",
+    "suggestion": "Riguarda il tipo particolare di organuli contenuti negli elementi conduttori delle sostanze elaborate.",
+    "options": [
+      "La totale assenza di plastidi e di qualsiasi contenuto cellulare negli elementi ormai maturi",
+      "La presenza, negli elementi cribrosi, di plastidi di tipo proteinaceo o cuneato",
+      "La presenza di cloroplasti fotosinteticamente attivi che riempiono l'intero lume cellulare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sul cladogramma è indicata, nei tubi cribrosi (elementi conduttori del floema), la presenza di plastidi di tipo proteinaceo o cuneato. I tubi cribrosi mantengono contenuto cellulare (a differenza degli elementi dei vasi) e non contengono cloroplasti attivi.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.61"
+  },
+  {
+    "id": "bdv-sysb-nymphaeaceae-esempi-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si distinguono, per il colore del fiore, Nymphaea alba e Nuphar lutea, entrambe Nymphaeaceae?",
+    "suggestion": "Il nome specifico di ciascuna delle due piante allude proprio al colore della sua corolla.",
+    "options": [
+      "Nymphaea alba ha fiori gialli, mentre Nuphar lutea ha corolla di colore bianco",
+      "Entrambe hanno fiori rosso vivo e si distinguono solo per la forma delle foglie natanti",
+      "Nymphaea alba ha corolla bianca, mentre Nuphar lutea ha fiori di colore giallo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nymphaea alba ha fiori dalla corolla bianca, Nuphar lutea fiori di colore giallo: entrambe sono Nymphaeaceae acquatiche con foglie natanti. La prima opzione inverte i due colori.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.61"
   }
 ]

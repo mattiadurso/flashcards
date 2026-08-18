@@ -208,5 +208,231 @@
     "explanation": "La maturazione degli elementi conduttori dello xilema comporta la morte programmata del protoplasto: la cellula svuotata del contenuto vivente diventa un condotto che consente il libero flusso della linfa. È uno degli esempi di morte cellulare programmata (PCD) nelle piante.",
     "difficulty": "hard",
     "source": "Biologia veg.pdf p.18"
+  },
+  {
+    "id": "bvg-par-legame-beta14-015",
+    "topic": "biologia-vegetale",
+    "question": "Con quale legame sono unite le unità di glucosio nella cellulosa, e come si chiama il dimero che ne risulta?",
+    "suggestion": "È un legame β tra due unità di glucosio; il dimero ha un nome proprio.",
+    "options": [
+      "Legame peptidico come nelle proteine; il dimero è il maltosio",
+      "Legame estere idrolizzabile; il dimero è il saccarosio",
+      "Legame glicosidico β 1→4; il dimero è il cellobiosio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella cellulosa le unità di glucosio sono legate da un legame glicosidico β 1→4; l'unione di due glucosi tramite tale legame forma il dimero detto cellobiosio. È questa geometria β a permettere il super-avvolgimento in micelle e microfibrille.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.23"
+  },
+  {
+    "id": "bvg-par-lamella-mediana-016",
+    "topic": "biologia-vegetale",
+    "question": "Qual è lo strato più esterno della parete cellulare, condiviso tra due cellule contigue?",
+    "suggestion": "È il primo strato che si incontra procedendo dall'esterno verso l'interno.",
+    "options": [
+      "La parete secondaria, organizzata negli strati concentrici S1, S2 e S3",
+      "La lamella mediana, posta all'esterno della parete primaria e condivisa",
+      "Il plasmalemma, la membrana situata all'interno della parete cellulare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Procedendo dall'esterno verso l'interno si incontrano la lamella mediana (lo strato più esterno, condiviso tra cellule contigue), la parete primaria e la parete secondaria (a sua volta in strati S1, S2, S3). Il plasmalemma è invece interno alla parete.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.23"
+  },
+  {
+    "id": "bvg-par-cemento-armato-017",
+    "topic": "biologia-vegetale",
+    "question": "Nel modello 'a cemento armato' della parete, quali ruoli svolgono rispettivamente cellulosa e matrice?",
+    "suggestion": "La componente fibrosa lavora a trazione, quella di riempimento a compressione.",
+    "options": [
+      "La cellulosa fa da cemento resistendo alla pressione, la matrice da tondino resistendo alla tensione",
+      "Entrambe resistono soltanto alla tensione, senza opporsi mai ad alcuna pressione applicata",
+      "La cellulosa fa da tondino resistendo alla tensione, la matrice da cemento resistendo alla pressione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel modello a cemento armato la cellulosa svolge la funzione del tondino metallico, resistendo agli sforzi di tensione, mentre la matrice di emicellulose e protopectine svolge quella del cemento, resistendo alla pressione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-primaria-idratabile-018",
+    "topic": "biologia-vegetale",
+    "question": "Perché la parete primaria è più idratabile della parete secondaria?",
+    "suggestion": "Nella primaria prevale la componente di matrice, non quella fibrillare.",
+    "options": [
+      "Perché è ricca di pectine e matrice (con elevato potere di rigonfiamento) e povera di cellulosa",
+      "Perché è impregnata di lignina, cutina e suberina, che trattengono grandi quantità d'acqua",
+      "Perché è costituita quasi esclusivamente da cellulosa cristallina, di natura idrofobica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La parete primaria è povera di cellulosa e ricca di pectine e matrice, sostanze con elevato potere di rigonfiamento: ciò la rende spiccatamente idratabile ed elastica. La secondaria, ricca di cellulosa e impregnata di lignina/cutina/suberina, è invece idrofobica.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-gelificazione-019",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa consiste la gelificazione come modificazione della parete cellulare?",
+    "suggestion": "Dipende da un aumento delle sostanze pectiche e dà pareti mucillaginose.",
+    "options": [
+      "Nell'infiltrazione di lignina negli spazi interfibrillari tra le molecole di cellulosa",
+      "Nella deposizione di cutina e cere impermeabili sulla superficie esterna della parete",
+      "Nell'estrusione di sostanze pectiche che formano mucillagini, capaci di rigonfiarsi in acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "La gelificazione è dovuta all'estrusione e all'aumento di sostanze pectiche: la parete assume aspetto mucillaginoso e in acqua si rigonfia enormemente. È distinta dall'incrostazione (infiltrazione, es. lignina) e dall'apposizione (deposizione superficiale, es. cutina).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24-25"
+  },
+  {
+    "id": "bvg-par-fill-cuticola-020",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Lo strato impermeabile all'acqua che risulta dalla cutinizzazione della parete e riveste l'epidermide è detto ___.",
+    "answers": [
+      [
+        "cuticola"
+      ]
+    ],
+    "suggestion": "È particolarmente sviluppato nelle piante xerofite e succulente.",
+    "explanation": "La cuticola è il rivestimento che risulta dalla cutinizzazione (apposizione di cutina): conferisce impermeabilità all'acqua e, in misura minore, ai gas. È molto sviluppata negli strati epidermici delle xerofite e delle piante succulente.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.25"
+  },
+  {
+    "id": "bvg-par-suberina-021",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa è costituita principalmente la suberina depositata nella parete durante la suberificazione?",
+    "suggestion": "È una sostanza lipidica responsabile del colore bruno del sughero.",
+    "options": [
+      "Da acidi grassi a catena molto lunga coniugati con alcoli e composti fenolici",
+      "Da lunghe catene di glucosio unite da legami glicosidici di tipo β 1→4",
+      "Da cristalli di carbonato di calcio e di biossido di silicio precipitati"
+    ],
+    "correctIndex": 0,
+    "explanation": "La suberina è costituita da acidi grassi a catena molto lunga (18–24 atomi di carbonio) coniugati con alcoli e sostanze fenoliche; è responsabile della caratteristica colorazione bruna del sughero. La suberificazione è una modificazione della parete secondaria per apposizione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.25"
+  },
+  {
+    "id": "bvg-par-mineralizzazione-silice-022",
+    "topic": "biologia-vegetale",
+    "question": "Quale sostanza minerale incrosta la parete delle diatomee formandone i frustuli?",
+    "suggestion": "È la silice, che rende la parete particolarmente dura.",
+    "options": [
+      "L'ossalato di calcio disposto in cristalli aciculari (rafidi)",
+      "Il carbonato di calcio, secondo il processo di calcificazione",
+      "La lignina polimerizzata negli spazi interfibrillari della parete",
+      "Il biossido di silicio (SiO2), cioè la silice"
+    ],
+    "correctIndex": 3,
+    "explanation": "I frustuli, gli involucri esterni delle diatomee, sono incrostati di biossido di silicio (SiO2), la silice, che aumenta durezza e resistenza della parete. Quando l'incrostazione è invece dovuta al carbonato di calcio si parla di calcificazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-punteggiatura-areolata-023",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue una punteggiatura areolata da una semplice sulla parete secondaria?",
+    "suggestion": "Sulla parete secondaria si distinguono due tipi di punteggiature.",
+    "options": [
+      "La totale assenza di parete e di lamella mediana in corrispondenza di quel punto",
+      "Il riempimento completo della cavità con cristalli di lignina e di silice",
+      "Un bordo dato dalla parete secondaria che si ripiega verso la cavità della punteggiatura"
+    ],
+    "correctIndex": 2,
+    "explanation": "La punteggiatura areolata è caratterizzata dalla presenza di un bordo, cioè di un ispessimento della parete secondaria che si ripiega verso l'interno della cavità; la punteggiatura semplice ne è priva. Entrambe sono zone a ispessimento ridotto che favoriscono gli scambi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.25"
+  },
+  {
+    "id": "bvg-par-microtubuli-guida-024",
+    "topic": "biologia-vegetale",
+    "question": "Quale osservazione dimostra che i microtubuli guidano la sintesi della parete cellulare?",
+    "suggestion": "Le fluorescenze di cellulosa e microtubuli si sovrappongono esattamente.",
+    "options": [
+      "Il fatto che la lignina si depositi soltanto dove i microtubuli sono del tutto assenti",
+      "La colocalizzazione della fluorescenza di cellulosa e microtubuli, che si sovrappone esattamente",
+      "La presenza dei microtubuli esclusivamente nel vacuolo delle cellule ormai mature"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fluorescenza associata alla cellulosa e quella dei microtubuli risultano colocalizzate, cioè si sovrappongono esattamente: questa prova indica che i microtubuli allineano le microfibrille e guidano la sintesi della parete, orientando anche le vescicole del Golgi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
+  },
+  {
+    "id": "bvg-par-microtubuli-struttura-025",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la struttura di base di un microtubulo del citoscheletro?",
+    "suggestion": "È un cilindro cavo formato da subunità proteiche di due tipi.",
+    "options": [
+      "Un filamento pieno di actina, del diametro di circa 6 nanometri",
+      "Una struttura cava di dimeri di tubulina (alfa e beta), di circa 25 nanometri",
+      "Una fibra proteica simile alla cheratina, del diametro di 7–10 nanometri"
+    ],
+    "correctIndex": 1,
+    "explanation": "I microtubuli sono strutture cave costituite da dimeri di tubulina, ciascuno formato da una subunità di alfa-tubulina e una di beta-tubulina, con diametro di circa 25 nm. I microfilamenti di actina (~6 nm) e i filamenti intermedi (7–10 nm) sono gli altri due tipi di filamenti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
+  },
+  {
+    "id": "bvg-par-fill-fragmoplasto-026",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Durante la divisione cellulare, il primo setto di separazione che si forma tra le due cellule figlie in via di formazione è detto ___.",
+    "answers": [
+      [
+        "fragmoplasto"
+      ]
+    ],
+    "suggestion": "Precede la deposizione della nuova parete cellulare tra le cellule figlie.",
+    "explanation": "Il fragmoplasto è il primo setto di separazione tra le due cellule figlie che si forma durante la divisione cellulare; su di esso, tramite il traffico vescicolare operato dall'apparato di Golgi, viene poi deposta la nuova parete (a partire dalla lamella mediana).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-pigmentazione-027",
+    "topic": "biologia-vegetale",
+    "question": "Che effetto ha la pigmentazione della parete a opera di tannini e altri polifenoli?",
+    "suggestion": "Sono sostanze bruno-rossastre con una funzione protettiva.",
+    "options": [
+      "Rende la parete pienamente permeabile all'acqua e ai gas atmosferici",
+      "Trasforma la cellulosa strutturale della parete in amido di riserva",
+      "Conferisce alla parete forti proprietà antisettiche, come nel sughero e nel legno d'ebano"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pigmentazione avviene per impregnazione della parete con sostanze bruno-rossastre come tannini e altri polifenoli, dotate di forti proprietà antisettiche: si osserva ad esempio nei semi di ricino, nel legno d'ebano e nel sughero degli alberi. È una modificazione per incrostazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-golgi-trafficking-028",
+    "topic": "biologia-vegetale",
+    "question": "Attraverso quale meccanismo il materiale della parete viene portato all'esterno della cellula?",
+    "suggestion": "Le vescicole prodotte da un organulo dell'endomembrana raggiungono il plasmalemma.",
+    "options": [
+      "Per diffusione libera del materiale attraverso il doppio strato lipidico della membrana",
+      "Tramite il traffico vescicolare (trafficking) operato dall'apparato di Golgi",
+      "Per trasporto lungo i plasmodesmi in direzione del nucleo della cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "La parete è prodotta trasportando all'esterno metaboliti cellulari secondo il meccanismo del trafficking (traffico vescicolare) operato dall'apparato di Golgi: le vescicole, orientate dai microtubuli corticali, si fondono con il plasmalemma e depongono il materiale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.24"
+  },
+  {
+    "id": "bvg-par-filamenti-intermedi-029",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolge l'intreccio dei filamenti intermedi nel citoscheletro?",
+    "suggestion": "Sostiene i ribosomi disposti in catena sul reticolo endoplasmatico rugoso.",
+    "options": [
+      "Genera le correnti citoplasmatiche che muovono organelli e vescicole nella cellula",
+      "Costituisce l'impalcatura del fuso mitotico durante la divisione cellulare",
+      "Fornisce il supporto strutturale ai poliribosomi associati al reticolo endoplasmatico rugoso"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'intreccio dei filamenti intermedi (proteine simili alla cheratina, 7–10 nm) costituisce il supporto strutturale per i poliribosomi associati al reticolo endoplasmatico rugoso. Le correnti citoplasmatiche sono generate dall'actina, il fuso mitotico dai microtubuli.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
   }
 ]

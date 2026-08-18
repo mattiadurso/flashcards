@@ -49,7 +49,11 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "L'apertura del tegumento dell'ovulo attraverso cui passa il tubetto pollinico durante la fecondazione è detta ___.",
-    "answers": [["micropilo"]],
+    "answers": [
+      [
+        "micropilo"
+      ]
+    ],
     "suggestion": "È il 'piccolo poro' del tegumento; da non confondere con la nocella, che è lo sporangio interno.",
     "explanation": "Il micropilo è l'apertura del tegumento dell'ovulo che consente il passaggio del tubetto pollinico. Il tegumento avvolge la nocella (lo sporangio), all'interno della quale si sviluppa il gametofito femminile.",
     "difficulty": "medium",
@@ -180,7 +184,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Lo strobilo femminile maturo delle Cupressaceae, cilindrico e carnoso nel ginepro o legnoso nel cipresso, è detto ___.",
-    "answers": [["galbulo", "galbuli"]],
+    "answers": [
+      [
+        "galbulo",
+        "galbuli"
+      ]
+    ],
     "suggestion": "È il 'frutto' del ginepro (la 'bacca' azzurra) e del cipresso; non è la pigna delle Pinaceae.",
     "explanation": "Il galbulo è lo strobilo femminile maturo delle Cupressaceae: carnoso nel ginepro (Juniperus), membranaceo nella tuia, legnoso nel cipresso. È l'analogo della pigna delle Pinaceae, ma con squame a scudo fuse alle brattee.",
     "difficulty": "medium",
@@ -275,5 +284,312 @@
     "explanation": "L'ipotesi 'anthophyte' unisce le Gnetophyta alle angiosperme in un gruppo detto Antofite, separandole dalle altre gimnosperme. Le alternative sono 'gnetifer' (Gnetophyta sorelle delle Coniferophyta) e 'gnepine' (Gnetophyta vicine alle sole Pinaceae).",
     "difficulty": "hard",
     "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-fill-nocella-020",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Lo sporangio dell'ovulo, all'interno del quale la megaspora superstite sviluppa il gametofito femminile, è detto ___.",
+    "answers": [
+      [
+        "nocella",
+        "nucella"
+      ]
+    ],
+    "suggestion": "È il tessuto avvolto dal tegumento; l'apertura di quest'ultimo è invece il micropilo.",
+    "explanation": "La nocella (o nucella) è il macrosporangio dell'ovulo: al suo interno resta trattenuta la megaspora che, sopravvivendo alle altre tre, dà il gametofito femminile. È circondata dal tegumento, aperto in corrispondenza del micropilo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-elkinsia-cupula-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il fossile devoniano Elkinsia polymorpha è importante nella storia evolutiva del seme?",
+    "suggestion": "Databile a circa 365 milioni di anni fa, mostra già alcune strutture protettive attorno all'ovulo.",
+    "options": [
+      "Documenta una delle più antiche testimonianze del seme, con cupula e lobi del tegumento già riconoscibili attorno all'ovulo",
+      "Rappresenta la prima angiosperma nota, con ovuli già racchiusi in un ovario chiuso e un vero frutto carnoso",
+      "È la più antica felce a spore conosciuta, del tutto priva di tegumento e di qualunque struttura riconducibile all'ovulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elkinsia polymorpha (Devoniano, circa 365 milioni di anni fa) è una delle più antiche testimonianze dell'origine del seme: vi si riconoscono già una cupula a lobi e i lobi del tegumento che avvolgono parzialmente l'ovulo. Non è né un'angiosperma né una semplice felce a spore.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-genomosperma-cupula-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa documenta la serie di fossili Genomosperma, Eurystoma e Stamnostoma nell'evoluzione dell'ovulo?",
+    "suggestion": "Confrontando i reperti nel tempo geologico si osserva un cambiamento graduale nel modo in cui la cupula avvolge l'ovulo.",
+    "options": [
+      "La comparsa improvvisa della doppia fecondazione, con endosperma triploide già presente nelle prime gimnosperme",
+      "La perdita progressiva del tegumento, con ovuli che diventano sempre più esposti e privi di protezione",
+      "La progressiva chiusura e integrazione della cupula attorno all'ovulo, fino all'organizzazione del seme moderno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Questa serie di fossili (Genomosperma kidstonii e latens, Eurystoma angulare, Stamnostoma huttonense) documenta lungo il tempo profondo la graduale chiusura e integrazione della cupula intorno all'ovulo, tappa chiave verso il seme moderno. La doppia fecondazione è invece esclusiva delle angiosperme.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-cordaitales-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingueva le estinte Cordaitales dagli altri gruppi di gimnosperme fossili?",
+    "suggestion": "Il tratto saliente riguarda la loro taglia e il portamento, non l'aspetto delle foglie.",
+    "options": [
+      "Erano felci a seme dall'aspetto fogliare simile a quello delle felci, come il genere Medullosa",
+      "Avevano apparati riproduttivi con ovulo provvisto di camera pollinica, come le Bennettitales",
+      "Producevano già veri frutti carnosi derivati da un ovario chiuso, come le prime angiosperme",
+      "Erano piante arboree di grandi dimensioni, oggi note unicamente allo stato fossile"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Cordaitales erano gimnosperme arboree di grandi dimensioni, oggi note solo come fossili. Le felci a seme con fronde simili a felci sono le Pteridospermales (Medullosa); l'ovulo con camera pollinica caratterizza le Bennettitales; il frutto da ovario chiuso è proprio delle sole angiosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-bennettitales-camera-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura riproduttiva, ben conservata nei fossili delle Bennettitales (es. Cycadeoidea), accoglieva il polline nell'ovulo?",
+    "suggestion": "È una cavità dell'ovulo destinata a ricevere i granuli pollinici, diversa dal semplice micropilo.",
+    "options": [
+      "Uno stimma vischioso portato all'apice di uno stilo, come nelle angiosperme entomofile",
+      "Una camera pollinica, cavità dell'ovulo in cui veniva accolto il polline",
+      "Un arillo carnoso e colorato che avvolgeva il seme favorendone la dispersione animale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Bennettitales (o cicadoidee, per l'aspetto simile alle cicadofite) avevano ovuli provvisti di camera pollinica, la cavità che accoglieva il polline, oltre a tegumento e becco della nocella ben visibili nei fossili. Stilo e stimma appartengono alle angiosperme, l'arillo al tasso.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.33"
+  },
+  {
+    "id": "bdv-gimno-sporangi-nomi-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle gimnosperme, come sono denominati rispettivamente i macrosporangi e i microsporangi?",
+    "suggestion": "Uno è la struttura che contiene gli ovuli, l'altro quella che libera i granuli pollinici.",
+    "options": [
+      "I macrosporangi sono gli ovuli, i microsporangi sono le sacche polliniche",
+      "I macrosporangi sono le sacche polliniche, i microsporangi sono gli ovuli",
+      "Entrambi coincidono con lo strobilo femminile, che produce sia ovuli sia polline"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle gimnosperme i macrosporangi corrispondono agli ovuli, che contengono le megaspore, mentre i microsporangi sono le sacche polliniche, che producono le microspore, cioè i granuli pollinici. All'interno di questi ultimi si differenzia il gamete maschile.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-gnepine-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sostiene l'ipotesi cladistica 'gnepine' sulle relazioni delle Gnetophyta?",
+    "suggestion": "Il nome stesso fonde 'gneto-' con il nome di una famiglia di conifere.",
+    "options": [
+      "Che le Gnetophyta formino con le angiosperme il gruppo delle Antofite, fuori dalle gimnosperme",
+      "Che le Gnetophyta siano il gruppo fratello dell'intero insieme delle Coniferophyta",
+      "Che le Gnetophyta derivino direttamente dalle sole Cycadophyta, per riduzione delle foglie",
+      "Che le Gnetophyta siano in stretta relazione con le sole Pinaceae, all'interno delle conifere"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'ipotesi 'gnepine' (da gneto- e pinacee) pone le Gnetophyta in stretta relazione con le sole Pinaceae, dentro le conifere. L'ipotesi 'gnetifer' le vede sorelle di tutte le Coniferophyta, mentre l'ipotesi 'anthophyte' le unisce alle angiosperme (Antofite).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-coniferophyta-sistematica-027",
+    "topic": "biodiversita-vegetale",
+    "question": "A quali categorie sistematiche appartengono le Coniferophyta e quali famiglie principali comprendono?",
+    "suggestion": "Pensa alla classe e all'ordine che raccolgono pini, cipressi e tassi.",
+    "options": [
+      "Alla classe Cycadopsida e all'ordine Cycadales, con le famiglie Cycadaceae e Zamiaceae",
+      "Alla classe Magnoliopsida e all'ordine Pinales, con le famiglie Magnoliaceae e Lauraceae",
+      "Alla classe Pinopsida e all'ordine Pinales, con le famiglie Pinaceae, Cupressaceae e Taxaceae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le conifere appartengono alla classe Pinopsida e all'ordine Pinales, che comprende Pinaceae, Cupressaceae e Taxaceae, cui si affianca la famiglia Araucariaceae. Cycadopsida e Magnoliopsida sono classi di altri gruppi (cicadofite e dicotiledoni).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-aplodiplonte-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel ciclo aplodiplonte delle conifere, quale fase è dominante e di lunga durata?",
+    "suggestion": "È la pianta che riconosciamo comunemente, come l'abete o il pino, e ha corredo diploide.",
+    "options": [
+      "Lo sporofito diploide, la pianta vegetativa che porta gli strobili e domina il ciclo",
+      "Il gametofito aploide, che costituisce la fase vegetativa dominante e più longeva",
+      "Lo zigote diploide, che resta indipendente e fotosintetizzante per gran parte del ciclo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ciclo aplodiplonte alterna gametofito aploide e sporofito diploide, ma è quest'ultimo a dominare: lo sporofito è la pianta adulta (abete, pino) che porta gli strobili maschili e femminili. Il gametofito è ridotto e dipendente.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-larice-caduco-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere rende Larix decidua un'eccezione tra le conifere europee?",
+    "suggestion": "Riguarda il comportamento degli aghi con il cambio di stagione, insolito per una conifera.",
+    "options": [
+      "È l'unica conifera europea con foglie squamose appressate al ramo anziché aghiformi",
+      "È l'unica conifera europea dioica, con individui maschili e femminili nettamente separati",
+      "È l'unica conifera europea a foglie caduche, che perde gli aghi nella stagione avversa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Larix decidua (il larice), tra i Laricoideae, è l'unica conifera europea a foglie caduche: perde gli aghi in autunno, a differenza delle conifere sempreverdi. Porta gli aghi sia sul macroblasto sia, in seguito, su brachiblasti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-cupressaceae-foglie-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si presentano tipicamente le foglie delle Cupressaceae rispetto a quelle delle Pinaceae?",
+    "suggestion": "Confronta la forma della foglia: sottile e appuntita in un gruppo, minuta e aderente al ramo nell'altro.",
+    "options": [
+      "Sono ridotte a piccole squame appressate al ramo, oppure aghiformi disposte in verticilli",
+      "Sono sempre aghiformi e riunite a ciuffi su brachiblasti, come nel genere Pinus",
+      "Sono ampie foglie pennato-composte, simili alle fronde delle felci e delle cicadofite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle Cupressaceae le foglie sono tipicamente ridotte a piccole squame appressate al ramo, talvolta aghiformi e in verticilli, persistenti anche sul ramo secco. Gli aghi a ciuffi su brachiblasti caratterizzano le Pinaceae (Pinus); le foglie pennato-composte sono delle cicadofite.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-metasequoia-sequoia-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale coppia di generi notevoli appartiene alle Cupressaceae per interesse biogeografico e dimensioni?",
+    "suggestion": "Uno è considerato un fossile vivente, l'altro è tra gli alberi più grandi del mondo.",
+    "options": [
+      "Ginkgo, fossile vivente, e Welwitschia, pianta dei deserti africani",
+      "Cycas, relitto tropicale, e Araucaria, dall'areale disgiunto sudamericano e oceaniano",
+      "Ephedra, arbusto articolato, e Gnetum, liana tropicale a foglie ampie",
+      "Metasequoia glyptostroboides, fossile vivente, e Sequoiadendron giganteum, la sequoia gigante"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tra le Cupressaceae spiccano Metasequoia glyptostroboides, considerata un fossile vivente, e Sequoiadendron giganteum, la sequoia gigante, tra gli organismi vegetali più grandi al mondo. Ginkgo, Cycas, Ephedra, Gnetum e Welwitschia appartengono ad altri gruppi di gimnosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-araucariaceae-areale-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa testimonia l'areale disgiunto delle Araucariaceae, distribuite tra Sud America e Oceania?",
+    "suggestion": "Due aree oggi lontane e separate dall'oceano condividono lo stesso gruppo: pensa al passato dei continenti.",
+    "options": [
+      "Una recente introduzione della famiglia da parte dell'uomo in entrambi gli emisferi",
+      "Antiche connessioni biogeografiche tra territori oggi geograficamente separati",
+      "Un'impollinazione a lunghissima distanza operata dalle correnti oceaniche tra i due continenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'areale disgiunto delle Araucariaceae (es. Araucaria araucana), frammentato tra Sud America e Oceania, testimonia antiche connessioni biogeografiche tra territori un tempo uniti e oggi separati, non una diffusione recente né trasporti oceanici del polline.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-cicadofite-convergenza-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'aspetto simile a quello delle palme delle Cycadophyta è un esempio da interpretare con cautela?",
+    "suggestion": "L'apparenza esteriore somiglia a quella delle palme, ma i due gruppi hanno storie evolutive del tutto diverse.",
+    "options": [
+      "Perché le cicadofite somigliano alle palme pur non essendo loro imparentate, essendo gimnosperme",
+      "Perché le cicadofite sono in realtà palme primitive, cioè angiosperme monocotiledoni ancestrali",
+      "Perché le palme derivano direttamente dalle cicadofite per acquisizione del fiore e del frutto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Cycadophyta hanno portamento e foglie pennato-composte simili a quelle delle palme, ma non sono loro imparentate: sono gimnosperme, mentre le palme sono angiosperme monocotiledoni. È una somiglianza d'aspetto, non di parentela.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-ginkgo-foglie-034",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere fogliare distingue Ginkgo biloba dalle conifere?",
+    "suggestion": "Osserva la forma a ventaglio della lamina e come si comportano le nervature al suo interno.",
+    "options": [
+      "Foglie ridotte a squame appressate al ramo, disposte in verticilli e persistenti sul secco",
+      "Foglie aghiformi riunite a ciuffi su brachiblasti, con un'unica nervatura centrale non ramificata",
+      "Foglie flabellate, a ventaglio, percorse da nervature dicotomiche che si biforcano ripetutamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ginkgo biloba ha foglie flabellate (a ventaglio) con nervature dicotomiche vere, che si biforcano più volte in rami di uguale importanza: un carattere che lo distingue nettamente dalle foglie aghiformi o squamose delle conifere. La ramificazione è monopodiale.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.36"
+  },
+  {
+    "id": "bdv-gimno-fill-amento-035",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Negli individui maschili di Ginkgo biloba le sacche polliniche sono portate su un asse allungato detto ___.",
+    "answers": [
+      [
+        "amento",
+        "amenti"
+      ]
+    ],
+    "suggestion": "È la struttura maschile allungata; da non confondere con il brachiblasto, che è solo il corto ramo di sostegno.",
+    "explanation": "Nel Ginkgo maschile le sacche polliniche sono riunite su un asse allungato detto amento, che produce spermatozoidi flagellati come nelle cicadofite. Amenti e ovuli sono comunque portati su brachiblasti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.36"
+  },
+  {
+    "id": "bdv-gimno-gnetophyta-generi-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Come si differenziano per portamento i tre generi di Gnetophyta viventi?",
+    "suggestion": "Uno è una liana, uno un arbusto a fusti verdi articolati, uno una bizzarra pianta desertica a due foglie.",
+    "options": [
+      "Gnetum arbusto desertico a due foglie, Ephedra liana tropicale, Welwitschia arbusto articolato",
+      "Gnetum albero delle taighe boreali, Ephedra pianta acquatica natante, Welwitschia epifita tropicale",
+      "Gnetum pianta erbacea annuale, Ephedra felce arborea, Welwitschia succulenta strisciante a foglie squamose",
+      "Gnetum liana tropicale a foglie ampie, Ephedra arbusto articolato a fusti verdi, Welwitschia pianta desertica a due foglie"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Gnetophyta comprendono Gnetum, liane tropicali a foglie ampie; Ephedra, arbusti a portamento articolato con fusti verdi fotosintetizzanti e foglie squamose; e Welwitschia mirabilis, pianta dei deserti africani con fusto ridotto e due sole foglie nastriformi persistenti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.36"
+  },
+  {
+    "id": "bdv-gimno-fill-monopodiale-037",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'accrescimento guidato da un unico asse principale dominante, dal quale si dipartono i rami laterali, definisce il portamento a crescita ___.",
+    "answers": [
+      [
+        "monopodiale",
+        "monopodiali"
+      ]
+    ],
+    "suggestion": "Il termine indica 'un solo piede/asse'; è il portamento tipico di molte conifere come l'abete.",
+    "explanation": "La crescita monopodiale è guidata da un unico asse principale dominante, dal quale si dipartono i rami laterali: è il portamento generale delle gimnosperme, ben evidente nella forma conica dell'abete. Fa eccezione, tra le Cupressaceae, il ginepro.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.34"
+  },
+  {
+    "id": "bdv-gimno-archegoni-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Dove si trova il gamete femminile (cellula uovo) nell'ovulo delle gimnosperme?",
+    "suggestion": "Il gametofito femminile, cresciuto dentro il tegumento, contiene organi che ospitano ciascuno una cellula uovo.",
+    "options": [
+      "Negli archegoni del gametofito femminile endosporico, ciascuno dei quali contiene una cellula uovo",
+      "Nel sacco embrionale a sette cellule e otto nuclei, come avviene tipicamente nelle angiosperme",
+      "Direttamente nelle sacche polliniche, dove la cellula uovo attende l'arrivo delle microspore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle gimnosperme la megaspora superstite sviluppa un gametofito femminile endosporico, provvisto di archegoni, ciascuno contenente il gamete femminile (cellula uovo). Il sacco embrionale a otto nuclei è delle angiosperme; le sacche polliniche producono invece il polline.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.35"
+  },
+  {
+    "id": "bdv-gimno-squame-strobilo-039",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quali strutture derivano le squame che, nello strobilo femminile delle Pinaceae, portano gli ovuli nudi?",
+    "suggestion": "Come molti organi riproduttivi delle piante, derivano da foglie modificate specializzate nel portare sporangi.",
+    "options": [
+      "Da vere e proprie foglie fotosintetiche non modificate, semplicemente ripiegate attorno al seme",
+      "Da sporofilli modificati in una squama ovulare e in una squama copritrice, disposte a spirale sull'asse",
+      "Dalle pareti di un ovario chiuso che, seccandosi, si suddivide in numerose squame legnose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Pinaceae gli ovuli sono nudi ed esposti su sporofilli (foglie modificate portatrici di sporangi) trasformati in una squama ovulare e in una squama copritrice, disposte a spirale sull'asse dello strobilo. Non esiste ovario, assente in tutte le gimnosperme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.35"
   }
 ]

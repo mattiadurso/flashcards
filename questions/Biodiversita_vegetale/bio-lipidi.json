@@ -149,5 +149,157 @@
     "explanation": "I lipidi sono una classe eterogenea accomunata dalla scarsa affinità con l'acqua (idrofobicità). Svolgono funzioni energetica, di riserva, impermeabilizzante/strutturale, di pigmento/antiossidante e di segnale (ormoni). A differenza degli altri gruppi non formano polimeri veri e propri.",
     "difficulty": "easy",
     "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-palmitico-011",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza strutturalmente un acido grasso come l'acido palmitico?",
+    "suggestion": "È un composto apolare 'lineare', da cui la scarsa affinità con l'acqua.",
+    "options": [
+      "Una lunga catena alifatica priva di anelli (sedici carboni nel palmitico)",
+      "Una struttura ciclica a quattro anelli condensati fusi tra loro",
+      "Una testa fosfato idrofila e due code idrofobe apolari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un acido grasso è un composto apolare con una lunga catena alifatica (priva di anelli): l'acido palmitico ne ha sedici atomi di carbonio (C16). Da questa struttura deriva la scarsa affinità con l'acqua.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-insaturi-012",
+    "topic": "biologia-vegetale",
+    "question": "Quale dei seguenti è un acido grasso saturo, privo di doppi legami?",
+    "suggestion": "Gli insaturi hanno da uno a tre doppi legami; il saturo non ne ha.",
+    "options": [
+      "L'acido oleico",
+      "L'acido stearico",
+      "L'acido linolenico"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'acido stearico è saturo (nessun doppio legame). L'acido oleico e l'acido linolenico sono insaturi, con da uno a tre doppi legami lungo la catena.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-fill-estere-013",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il legame covalente che si forma tra il gruppo carbossilico di un acido grasso e un gruppo ossidrilico del glicerolo, con eliminazione di acqua, è detto legame ___.",
+    "answers": [
+      [
+        "estere",
+        "estereo"
+      ]
+    ],
+    "suggestion": "È il legame che unisce i tre acidi grassi al glicerolo nei trigliceridi.",
+    "explanation": "Il legame estere si forma per disidratazione tra il carbossile di un acido grasso e un ossidrile del glicerolo: tre legami estere uniscono i tre acidi grassi al glicerolo in un trigliceride.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-lip-bilayer-014",
+    "topic": "biologia-vegetale",
+    "question": "Come si dispongono i fosfolipidi in un doppio strato (bilayer) in ambiente acquoso?",
+    "suggestion": "La parte affine all'acqua sta a contatto con l'acqua.",
+    "options": [
+      "Le code idrofobe verso l'esterno acquoso e le teste idrofile all'interno protette",
+      "Le teste idrofile verso l'esterno acquoso e le code idrofobe rivolte all'interno",
+      "Tutte le molecole allineate nella stessa direzione, teste e code sullo stesso lato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel doppio strato le teste idrofile (fosfato-colina) si orientano verso l'ambiente acquoso esterno, mentre le code idrofobe si dispongono all'interno, al riparo dall'acqua: è la base delle membrane biologiche.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-micelle-liposomi-015",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue una micella da un liposoma?",
+    "suggestion": "Una racchiude un nucleo lipidico con un solo strato, l'altra è una vescicola a due strati.",
+    "options": [
+      "La micella è delimitata da un doppio strato, il liposoma da un monostrato di oleosine",
+      "La micella è formata da soli zuccheri, il liposoma da soli fosfati inorganici",
+      "La micella è un monostrato attorno a un nucleo lipidico, il liposoma una vescicola a doppio strato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella micella (o sferosoma) i fosfolipidi formano un unico strato attorno a un nucleo lipidico; il liposoma è invece una vescicola delimitata da un doppio strato fosfolipidico.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-fill-pruina-016",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Lo strato ceroso ulteriore, soggetto a sfaldamento e sovrapposto alla cuticola, è detto pruina o cere ___.",
+    "answers": [
+      [
+        "epicuticolari",
+        "epicuticolare"
+      ]
+    ],
+    "suggestion": "Il nome comune di questo strato è 'pruina'.",
+    "explanation": "Sopra la cuticola può depositarsi uno strato ceroso ulteriore, soggetto a sfaldamento, detto pruina o cere epicuticolari.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-cutina-017",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la composizione e la funzione della cutina?",
+    "suggestion": "Insieme alle cere forma la cuticola impermeabile.",
+    "options": [
+      "Un polimero del glucosio con legami β 1→4, che irrigidisce la parete cellulare",
+      "Una miscela di ioni calcio e magnesio, che cementa le cellule contigue",
+      "Una miscela di acidi grassi medi e polifenoli, che impermeabilizza la parete"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cutina è una miscela di acidi grassi di media lunghezza (~18 C) e pochi polifenoli; impermeabilizza la parete cellulare e, insieme alle cere, costituisce la cuticola.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-steroli-018",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa accomuna strutturalmente fitosteroli, ergosterolo e colesterolo, e come si distribuiscono?",
+    "suggestion": "Condividono la struttura ciclica degli steroli, ma prevalgono in regni diversi.",
+    "options": [
+      "Sono zuccheri ciclici: fitosteroli nelle piante, ergosterolo nei funghi, colesterolo negli animali",
+      "Sono steroli a quattro anelli condensati: fitosteroli nelle piante, ergosterolo nei funghi, colesterolo negli animali",
+      "Sono acidi grassi insaturi: fitosteroli negli animali, ergosterolo nelle piante, colesterolo nei funghi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli steroli hanno una struttura ciclica a quattro anelli condensati: l'α-sitosterolo (fitosterolo) prevale nelle piante e alghe verdi, l'ergosterolo nei funghi, il colesterolo negli animali. I fitosteroli stabilizzano le membrane.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-brassinosteroidi-019",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono i brassinosteroidi?",
+    "suggestion": "Sono steroidi con ruolo di tipo ormonale, legati a una specifica famiglia.",
+    "options": [
+      "Composti steroidei ormono-simili, caratteristici delle Brassicaceae",
+      "Pigmenti accessori della fotosintesi, tipici delle Graminacee",
+      "Polisaccaridi di riserva accumulati negli amiloplasti"
+    ],
+    "correctIndex": 0,
+    "explanation": "I brassinosteroidi sono composti steroidei ormono-simili, caratteristici della famiglia delle Brassicaceae (Cruciferae).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.7"
+  },
+  {
+    "id": "bvg-lip-segnale-020",
+    "topic": "biologia-vegetale",
+    "question": "Oltre a funzioni energetica, di riserva, impermeabilizzante e di pigmento, quale altra funzione svolgono i lipidi?",
+    "suggestion": "Alcuni lipidi agiscono come messaggeri chimici.",
+    "options": [
+      "Una funzione di catalisi enzimatica delle reazioni biochimiche",
+      "Una funzione di segnale, costituendo la base chimica di alcuni ormoni",
+      "Una funzione di trasporto attivo degli ioni attraverso la parete"
+    ],
+    "correctIndex": 1,
+    "explanation": "I lipidi svolgono anche una funzione di segnale, essendo la base chimica di alcuni ormoni. La catalisi è invece propria degli enzimi (proteine).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.6"
   }
 ]

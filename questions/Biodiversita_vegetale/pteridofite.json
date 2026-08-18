@@ -285,5 +285,295 @@
     "explanation": "Le pteridofite sono piante vascolari (con xilema e floema) ma prive di seme, che si riproducono per spore: costituiscono un gruppo parafiletico intermedio che testimonia il passaggio dalle prime piante terrestri senza seme alle spermatofite (Gimnosperme e Angiosperme).",
     "difficulty": "medium",
     "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-apparato-radicale-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Tra i cinque adattamenti fondamentali delle tracheofite, quale garantisce l'ancoraggio al substrato e l'assorbimento di acqua e nutrienti?",
+    "suggestion": "È l'organo ipogeo che manca alle briofite, dotate solo di rizoidi.",
+    "options": [
+      "Lo sviluppo dell'apparato radicale",
+      "La deposizione di lignina nelle pareti cellulari",
+      "La comparsa dei meristemi apicali e della ramificazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i cinque adattamenti (vasi conduttori, lignina, meristemi/ramificazione/polisporangi, apparato radicale, spore o seme resistenti), è l'apparato radicale a garantire ancoraggio e assorbimento di acqua e nutrienti. La lignina dà sostegno, i meristemi la crescita in lunghezza.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-pter-fill-crittogame-021",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Le pteridofite, che uniscono la riproduzione per spore alla presenza di tessuti vascolari, sono chiamate anche ___ vascolari.",
+    "answers": [
+      [
+        "crittogame"
+      ]
+    ],
+    "suggestion": "Il termine indica le piante che si riproducono per spore, con organi riproduttivi 'nascosti', in contrapposizione alle fanerogame a seme.",
+    "explanation": "'Crittogame vascolari' unisce la riproduzione per spore, tipica delle crittogame, alla presenza di tessuti vascolari: comprendono circa 13.000 specie nel mondo, di cui 124 in Italia.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-sifonostele-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale caratteristica distingue la sifonostele dalla protostele nell'organizzazione del cilindro vascolare?",
+    "suggestion": "Una possiede una regione centrale di parenchima che l'altra non ha.",
+    "options": [
+      "La sifonostele è organizzata in fasci distinti tipici di Angiosperme e Gimnosperme",
+      "La sifonostele possiede un midollo centrale, assente nella protostele",
+      "La sifonostele è priva di lignina, mentre la protostele ne è riccamente provvista"
+    ],
+    "correctIndex": 1,
+    "explanation": "La protostele è priva di midollo centrale; la sifonostele possiede un midollo centrale e può presentare o meno lacune fogliari. Caratterizza la maggior parte delle pteridofite attuali. L'organizzazione in fasci distinti è invece l'eustele.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-pter-fill-telomi-023",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la teoria telomica, le foglie derivano evolutivamente da assi fotosintetici privi di lamina fogliare, chiamati ___.",
+    "answers": [
+      [
+        "telomi",
+        "telomo"
+      ]
+    ],
+    "suggestion": "Da queste strutture ancestrali si originano, per vie diverse, sia i microfilli sia i megafilli.",
+    "explanation": "La teoria telomica spiega l'origine delle foglie a partire dai telomi, assi fotosintetici privi di lamina: da essi derivano microfilli (enazioni con un solo fascio) e megafilli (con nervature ramificate).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.27"
+  },
+  {
+    "id": "bdv-pter-tegumentale-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è il rizoderma nel sistema tegumentale delle piante vascolari?",
+    "suggestion": "È l'epidermide di un organo specifico, specializzata in una funzione precisa.",
+    "options": [
+      "Il tessuto di riempimento con funzioni metaboliche e di riserva del fusto",
+      "Il cilindro di tessuti conduttori disposti al centro della radice",
+      "L'epidermide specializzata della radice, deputata all'assorbimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il sistema tegumentale comprende l'epidermide (rivestimento esterno) e il rizoderma, l'epidermide specializzata della radice deputata all'assorbimento di acqua e sali. Il tessuto di riempimento è il parenchima, appartenente ai tessuti fondamentali.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-embrione-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura dell'embrione delle pteridofite lo mette in comunicazione con il gametofito materno assicurandone la nutrizione?",
+    "suggestion": "Non è la radichetta né il cotiledone, ma un organo di connessione con funzione nutritiva.",
+    "options": [
+      "Il cotiledone, cioè la prima foglia embrionale",
+      "L'apice del germoglio, da cui si sviluppa il fusto",
+      "La radichetta, che darà l'apparato radicale",
+      "Il piede, struttura che nutre l'embrione collegandolo al gametofito"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nell'embrione delle pteridofite si riconoscono l'apice del germoglio, un cotiledone, una radichetta e il piede: quest'ultimo è la struttura nutritiva che mette in comunicazione l'embrione con il gametofito materno finché la piantina non diventa autosufficiente.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28"
+  },
+  {
+    "id": "bdv-pter-rizoma-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è il rizoma tipico dello sporofito perenne delle pteridofite?",
+    "suggestion": "È un fusto modificato, non una radice, con una funzione di sopravvivenza stagionale.",
+    "options": [
+      "Una radice avventizia carnosa specializzata nel solo assorbimento dell'acqua",
+      "Un fusto modificato, sotterraneo o strisciante, con funzione di perennazione e propagazione vegetativa",
+      "La foglia fertile che porta gli sporangi riuniti in sori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il rizoma è un fusto modificato, sotterraneo o strisciante, che consente la perennazione (superamento della stagione avversa) e la propagazione vegetativa mediante frammentazione. Non è una radice, pur essendo ipogeo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.28-29"
+  },
+  {
+    "id": "bdv-pter-vegetativa-027",
+    "topic": "biodiversita-vegetale",
+    "question": "In quale modo le pteridofite possono riprodursi per via vegetativa, senza fecondazione?",
+    "suggestion": "Pensa al fusto ipogeo che si accresce e a nuovi individui che possono comparire ai bordi delle foglie.",
+    "options": [
+      "Producendo semi resistenti che germinano lontano dalla pianta madre",
+      "Fondendo microspore e megaspore in un unico gametofito bisessuale",
+      "Tramite frammentazione del rizoma o, più raramente, individui prodotti al margine delle foglie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oltre alla riproduzione sessuale per spore, le pteridofite si propagano vegetativamente per frammentazione del rizoma o, più raramente, tramite nuovi individui di sporofito prodotti al margine delle foglie. Le pteridofite non producono semi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-isosporee-bisessuali-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Che tipo di gametofito originano le spore delle pteridofite isosporee come felci ed equiseti?",
+    "suggestion": "Le spore sono tutte identiche, quindi il gametofito che ne deriva non è né solo maschile né solo femminile.",
+    "options": [
+      "Un gametofito bisessuale, capace di produrre sia anteridi sia archegoni",
+      "Due gametofiti unisessuali distinti, uno maschile e uno femminile",
+      "Un gametofito interamente maschile che disperde le spore col vento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle isosporee le spore sono tutte identiche e danno gametofiti bisessuali, con anteridi e archegoni sullo stesso individuo; spesso barriere anteridiogene ne regolano la sequenza temporale per favorire l'incrocio. I gametofiti unisessuali distinti sono propri delle eterosporee.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-eufillofite-029",
+    "topic": "biodiversita-vegetale",
+    "question": "All'interno delle tracheofite, quali gruppi comprendono le Eufillofite?",
+    "suggestion": "È il raggruppamento contrapposto alle Licofite a microfilli; include le felci vere e le piante a seme.",
+    "options": [
+      "Le sole Licofite, caratterizzate da microfilli e talora da ligula",
+      "Le Monilofite (felci vere) e le Lignofite (piante a seme)",
+      "I taxa estinti Rhyniophyta e Zosterophyllophyta, privi di vere foglie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le tracheofite prive di seme si dividono in Licofite (a microfilli) ed Eufillofite; queste ultime comprendono le Monilofite (felci vere e proprie, a megafilli) e le Lignofite, cioè le piante a seme. È una suddivisione basata su caratteri derivati condivisi.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-taxa-estinti-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere morfologico condividevano i taxa estinti Rhyniophyta, Zosterophyllophyta e Trimerophytophyta?",
+    "suggestion": "Erano piante vascolari molto primitive: mancava loro un organo che comparirà più tardi.",
+    "options": [
+      "Possedevano già veri semi protetti da tegumenti resistenti",
+      "Avevano foglie megafillari con complesse nervature ramificate",
+      "Erano prive di vere foglie, con un asse centrale semplice contenente xilema e floema"
+    ],
+    "correctIndex": 2,
+    "explanation": "Questi tre gruppi, dominanti dal Siluriano superiore al Devoniano medio (circa 420-370 milioni di anni fa), erano piante prive di vere foglie, con un asse semplice contenente xilema e floema e rivestito da cuticola. Il seme e i megafilli compaiono più tardi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.31"
+  },
+  {
+    "id": "bdv-pter-rhyniophyta-stomi-031",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa le Zosterophyllophyta si distinguevano dalle Rhyniophyta?",
+    "suggestion": "Guarda dove erano collocati gli stomi e come erano disposti gli sporangi.",
+    "options": [
+      "Avevano già megafilli con nervature ramificate e riproduzione eterosporea",
+      "Erano piante a seme, mentre le Rhyniophyta si riproducevano per spore",
+      "Possedevano un asse a divisione trimera all'origine di felci e progimnosperme",
+      "Avevano stomi limitati alla porzione superiore dei fusti e sporangi disposti lateralmente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Rhyniophyta avevano stomi distribuiti su tutta la superficie dell'asse; le Zosterophyllophyta invece stomi limitati alla porzione superiore dei fusti e sporangi laterali. La divisione trimera all'origine di felci e progimnosperme è delle Trimerophytophyta.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.31"
+  },
+  {
+    "id": "bdv-pter-fill-ligula-032",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle licofite, la piccola escrescenza situata alla base della foglia, sopra il fascio conduttore, è detta ___.",
+    "answers": [
+      [
+        "ligula",
+        "ligule"
+      ]
+    ],
+    "suggestion": "È presente ad esempio in Selaginella e Isoetes, sopra il microfillo.",
+    "explanation": "La ligula è una piccola escrescenza posta alla base della foglia, sopra il fascio conduttore, presente in molte licofite (dette perciò ligulate, come Selaginellaceae e Isoetaceae).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.29"
+  },
+  {
+    "id": "bdv-pter-lycopodiaceae-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono organizzati gli sporangi e quale riproduzione caratterizza le Lycopodiaceae?",
+    "suggestion": "Gli sporangi si concentrano in strutture coniche; il tipo di spore prodotte è uno solo.",
+    "options": [
+      "Sporangi isolati all'ascella delle foglie, con riproduzione eterosporea e protallo endosporico",
+      "Sporangi riuniti in strobili conici, con riproduzione isosporea",
+      "Sporangi alla base di microfilli su un rizoma carnoso acquatico, con metabolismo CAM"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Lycopodiaceae (generi Huperzia e Lycopodium in Italia) gli sporangi sono riuniti in strobili, strutture coniche di foglie sporifere addensate, e la riproduzione è isosporea. Gli sporangi ascellari con eterosporia caratterizzano invece Selaginella.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.31"
+  },
+  {
+    "id": "bdv-pter-selaginella-034",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale tipo di riproduzione e di protallo caratterizza il genere Selaginella?",
+    "suggestion": "Produce due tipi di spore, e il gametofito si sviluppa dentro la parete della spora.",
+    "options": [
+      "Isosporea, con protalli laminari verdi e autonomi che vivono liberi sul terreno umido",
+      "Isosporea, con gametofiti bisessuali ipogei e simbionti con funghi da cui traggono nutrimento",
+      "Eterosporea, con protallo di tipo endosporico che si sviluppa dentro la parete della spora"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Selaginellaceae (unico genere Selaginella) hanno riproduzione eterosporea, con micro e megaspore, e protallo endosporico, che si sviluppa interamente entro la parete della spora. Le foglie ligulate sono disposte in quattro serie sul fusto strisciante.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.31"
+  },
+  {
+    "id": "bdv-pter-monilophyta-classi-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale gruppo, oltre alle felci vere e proprie, è incluso nelle Monilophyta?",
+    "suggestion": "È un gruppo antico dal fusto articolato e silicizzato, non una felce in senso stretto.",
+    "options": [
+      "Gli equiseti (Equisetopsida)",
+      "Le licofite arboree del Carbonifero come Lepidodendron",
+      "Le Gimnosperme a seme nudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Monilophyta riuniscono le felci in senso lato e gli equiseti, tutti a megafilli, in quattro classi: Psilopsida, Marattiopsida, Polypodiopsida ed Equisetopsida (gli equiseti). Le licofite sono una linea distinta, le Gimnosperme sono piante a seme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.30-31"
+  },
+  {
+    "id": "bdv-pter-polypodiopsida-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri definiscono le Polypodiopsida, il gruppo più ricco di felci?",
+    "suggestion": "Considera il tipo di sporangio e la capacità nutritiva del loro protallo.",
+    "options": [
+      "Sono eusporangiate e isosporee, con gametofiti ipogei simbionti con funghi",
+      "Sono eterosporee, con protallo endosporico dentro la parete della megaspora",
+      "Sono felci arboree eusporangiate del Carbonifero, oggi rappresentate dal genere Psaronius",
+      "Sono leptosporangiate e generalmente isosporee, con protallo autotrofo fotosintetizzante"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Polypodiopsida (circa 10.500 specie) sono felci leptosporangiate, generalmente isosporee (salvo le forme acquatiche), con gametofito (protallo) autotrofo, capace di fotosintesi autonoma. Le eusporangiate simbionti sono le Psilopsida; le arboree fossili le Marattiopsida.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-pter-fronda-037",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella fronda delle Polypodiopsida, come si chiamano le divisioni primarie della lamina inserite sull'asse principale?",
+    "suggestion": "L'asse principale è la rachide; le sue divisioni immediate si suddividono a loro volta in unità più piccole.",
+    "options": [
+      "I sori, gruppi di sporangi disposti sulla pagina inferiore",
+      "Le pinnule, cioè le ulteriori suddivisioni di ordine minore",
+      "Le pinne, cioè le divisioni primarie della lamina"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fronda si organizza in rachide (asse principale), pinne (divisioni primarie della lamina) e pinnule (ulteriori suddivisioni delle pinne). I sori sono invece i raggruppamenti di sporangi sulla pagina inferiore.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.32"
+  },
+  {
+    "id": "bdv-pter-equiseti-verticilli-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono disposti i rami lungo il fusto epigeo degli equiseti e cosa si trova ai nodi?",
+    "suggestion": "I rami si inseriscono a raggiera allo stesso livello; ai nodi c'è un anello di piccole foglie ridotte.",
+    "options": [
+      "Rami disposti in verticilli, con ai nodi una guaina di piccole brattee",
+      "Rami sparsi a spirale, con ai nodi grandi megafilli fotosintetici espansi",
+      "Rami opposti a due a due, con ai nodi sori protetti da indusio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il fusto epigeo articolato degli equiseti porta rami disposti in verticilli (a raggiera, allo stesso livello del nodo); in corrispondenza dei nodi si trova una guaina fogliare di piccole brattee, foglie modificate e ridotte a squame.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.31-32"
   }
 ]

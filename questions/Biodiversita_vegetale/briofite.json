@@ -285,5 +285,296 @@
     "explanation": "Nelle antocerote lo sporofito ha la caratteristica forma di corno (da cui il nome), matura gradualmente dalla base verso l'apice e si apre longitudinalmente; è inoltre capace di fotosintesi autonoma prolungata e può sopravvivere anche separato dal gametofito, mostrando maggiore indipendenza fisiologica.",
     "difficulty": "medium",
     "source": "Biodiversità vegetale.pdf p.25"
+  },
+  {
+    "id": "bdv-brio-streptofite-020",
+    "topic": "biodiversita-vegetale",
+    "question": "All'interno delle Viridiplantae, a quale raggruppamento appartengono le Embriofite insieme alle Carofite?",
+    "suggestion": "È la linea che riunisce le alghe verdi d'acqua dolce più affini alle piante e le piante terrestri vere e proprie.",
+    "options": [
+      "Alle Streptofite, che comprendono Carofite ed Embriofite",
+      "Alle Clorofite in senso stretto, cioè le alghe verdi prevalentemente acquatiche",
+      "Alle Rhodophyta, le alghe rosse a plastidi primari con ficobiline"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Viridiplantae si articolano in Clorofite (alghe verdi in senso stretto, per lo più acquatiche) e Streptofite; queste ultime comprendono le Carofite (alghe verdi d'acqua dolce filogeneticamente più vicine alle piante) e le Embriofite, il regno delle piante terrestri.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.21"
+  },
+  {
+    "id": "bdv-brio-polisporangiofite-021",
+    "topic": "biodiversita-vegetale",
+    "question": "In base alle tappe evolutive, in quali due grandi raggruppamenti si suddividono le Embriofite?",
+    "suggestion": "Uno riunisce le piante non vascolari, l'altro le linee che portano allo sviluppo di tessuti conduttori.",
+    "options": [
+      "In Gimnosperme (seme nudo) e Angiosperme (seme nel frutto)",
+      "In Briofite (piante non vascolari) e Polisporangiofite (che includono le piante vascolari)",
+      "In isosporee ed eterosporee, secondo il tipo di spore prodotte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Embriofite si dividono in Briofite (piante non vascolari, prive di xilema e floema differenziati) e Polisporangiofite, che comprendono le Protracheofite fossili e le piante vascolari o Cormofite. Gimnosperme e Angiosperme sono invece sottogruppi delle sole Spermatofite.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.22"
+  },
+  {
+    "id": "bdv-brio-propaguli-022",
+    "topic": "biodiversita-vegetale",
+    "question": "A che cosa servono le scodelle propagulifere presenti in alcune briofite?",
+    "suggestion": "Sono strutture a forma di coppa legate alla moltiplicazione senza fusione di gameti.",
+    "options": [
+      "A produrre e proteggere gli spermatozoidi biflagellati prima del loro rilascio nell'acqua",
+      "A sostenere gli archegoni durante la fecondazione dell'oosfera immobile",
+      "A contenere propaguli, porzioni di tessuto vegetativo che generano nuovi individui identici alla pianta madre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le scodelle propagulifere sono strutture a coppa che contengono propaguli, piccole porzioni di tessuto vegetativo capaci di dare origine a un nuovo individuo geneticamente identico alla pianta madre. Rientrano quindi nella riproduzione assessuata (vegetativa) delle briofite.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.23"
+  },
+  {
+    "id": "bdv-brio-dioiche-monoiche-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue una briofita dioica da una monoica?",
+    "suggestion": "La differenza sta nel fatto che i gametangi maschili e femminili si trovino sullo stesso individuo o su individui separati.",
+    "options": [
+      "La dioica alterna gametofito e sporofito, la monoica presenta invece una sola generazione persistente",
+      "La dioica produce spore per mitosi, la monoica le produce per meiosi nello sporangio",
+      "La dioica ha gametofiti privi di clorofilla, la monoica gametofiti verdi e fotosintetici",
+      "La dioica porta gametangi maschili e femminili su individui separati, la monoica entrambi sullo stesso individuo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nelle specie dioiche i gametofiti maschili e femminili sono individui separati; nelle monoiche entrambi i tipi di gametangi (anteridi e archegoni) sono presenti sullo stesso individuo. La distinzione riguarda la distribuzione dei sessi, non il tipo di ciclo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.22"
+  },
+  {
+    "id": "bdv-brio-fill-gametangi-024",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Gli organi che producono i gameti, dotati di uno strato di cellule sterili protettive, sono chiamati ___.",
+    "answers": [
+      [
+        "gametangi",
+        "gametangio"
+      ]
+    ],
+    "suggestion": "Nelle briofite sono di due tipi: gli archegoni femminili a fiasco e gli anteridi maschili a clava.",
+    "explanation": "I gametangi sono gli organi che producono i gameti, protetti da uno strato di cellule sterili: la loro comparsa (anteridi e archegoni) è una delle sinapomorfie delle Embriofite, utile a proteggere i gameti dal disseccamento in ambiente terrestre.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.22"
+  },
+  {
+    "id": "bdv-brio-meiosi-spore-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Attraverso quale processo lo sporofito diploide delle briofite produce le spore?",
+    "suggestion": "È la divisione cellulare che dimezza il corredo cromosomico, generando cellule aploidi.",
+    "options": [
+      "Per gemmazione a partire dalle cellule del protonema giovanile",
+      "Per meiosi, che dimezza il corredo cromosomico originando spore aploidi",
+      "Per mitosi, mantenendo il corredo diploide della cellula madre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel ciclo aplo-diplonte lo sporofito (2n) produce per meiosi le meiospore aploidi (n), che germinando danno il nuovo gametofito. È invece il gametofito a produrre i gameti per mitosi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.23"
+  },
+  {
+    "id": "bdv-brio-tallo-cormoide-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la differenza tra una briofita talloide e una cormoide?",
+    "suggestion": "Una ha un corpo indifferenziato, l'altra un corpo distinto in parti simili a fusto e foglie.",
+    "options": [
+      "La talloide vive solo in acqua, la cormoide solo su substrati rocciosi asciutti",
+      "La talloide ha rizoidi pluricellulari, la cormoide rizoidi unicellulari",
+      "La talloide ha corpo indifferenziato (tallo), la cormoide un corpo distinto in cauloide e filloidi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le forme talloidi (es. Marchantia) hanno un corpo appiattito e indifferenziato, il tallo; le forme cormoidi hanno un corpo differenziato in cauloide (fusticino) e filloidi (foglioline), strutture che ricordano fusto e foglie senza esserne omologhe. Entrambe sono ancorate da rizoidi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.23"
+  },
+  {
+    "id": "bdv-brio-gametofori-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa sono le ombrelle anteridiofore e archegoniofore di Marchantia?",
+    "suggestion": "Sono strutture erette (gametofori) che sollevano ed espongono i gametangi.",
+    "options": [
+      "Gametofori eretti che portano rispettivamente gli anteridi e gli archegoni",
+      "Le due valve silicee che racchiudono e proteggono lo sporofito in maturazione",
+      "Strutture a coppa che contengono i propaguli per la riproduzione vegetativa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle epatiche la riproduzione sessuata coinvolge i gametofori: le ombrelle anteridiofore, discoidali, portano gli anteridi; le ombrelle archegoniofore, a raggiera con margine frastagliato, portano gli archegoni. I propaguli stanno invece nelle scodelle propagulifere.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.23-24"
+  },
+  {
+    "id": "bdv-brio-fill-caliptra-028",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nei muschi, il residuo dell'archegonio lacerato che avvolge e protegge la base della capsula in via di maturazione è detto ___.",
+    "answers": [
+      [
+        "caliptra",
+        "calittra"
+      ]
+    ],
+    "suggestion": "È una cuffia aploide di origine materna posta all'apice dello sporofito, sopra la capsula.",
+    "explanation": "La caliptra è la struttura protettiva formata dai residui dell'archegonio lacerato durante la crescita dello sporofito; avvolge la base della capsula ed è di natura aploide (di origine gametofitica).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-brio-seta-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la funzione della seta nello sporofito dei muschi?",
+    "suggestion": "È il filamento che collega il piede alla capsula: pensa alla posizione della capsula rispetto al gametofito.",
+    "options": [
+      "Produrre gli spermatozoidi biflagellati che fecondano l'oosfera",
+      "Elevare la capsula al di sopra del gametofito, favorendo la dispersione delle spore",
+      "Nutrire l'intero sporofito trasferendogli i fotosintati del gametofito"
+    ],
+    "correctIndex": 1,
+    "explanation": "La seta è il filamento di sostegno che eleva la capsula (lo sporangio) sopra il gametofito, favorendo la dispersione aerea delle spore. La dipendenza nutrizionale è invece localizzata nel piede, mentre la caliptra protegge la base della capsula.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.26"
+  },
+  {
+    "id": "bdv-brio-idroidi-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Negli pseudotessuti dei muschi, qual è la funzione degli idroidi rispetto ai leptoidi?",
+    "suggestion": "I due tipi cellulari conducono sostanze diverse, analogamente a due tessuti vascolari distinti.",
+    "options": [
+      "Gli idroidi danno sostegno meccanico, i leptoidi rivestono e proteggono l'epidermide",
+      "Gli idroidi assorbono acqua dal substrato, i leptoidi ancorano la pianta al terreno",
+      "Gli idroidi conducono l'acqua (idroma), i leptoidi conducono i fotosintati (leptoma)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli idroidi costituiscono l'idroma, deputato alla conduzione dell'acqua (analogo funzionale dello xilema); i leptoidi formano il leptoma, che conduce i fotosintati (analogo del floema). Il sostegno meccanico spetta invece agli stereidi dello stereoma.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.25"
+  },
+  {
+    "id": "bdv-brio-marchantia-pori-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Come avvengono gli scambi gassosi nella pagina superiore del tallo delle epatiche come Marchantia?",
+    "suggestion": "Osserva le aperture della pagina superiore e la camera che sta sotto di esse.",
+    "options": [
+      "Tramite stomi a regolazione attiva identici a quelli delle piante vascolari",
+      "Attraverso i rizoidi unicellulari della pagina inferiore, che aspirano aria dal substrato",
+      "Per diffusione diretta attraverso la cuticola cerosa, del tutto priva di aperture",
+      "Attraverso pori aeriferi ad apertura fissa che immettono in una camera aerifera sottostante"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il gametofito talloide delle epatiche ha organizzazione dorso-ventrale: la pagina superiore, con cuticola cerosa, porta pori aeriferi ad apertura fissa (privi di regolazione attiva) che immettono in una camera aerifera sottostante, sede degli scambi gassosi per la fotosintesi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.24"
+  },
+  {
+    "id": "bdv-brio-capsula-apertura-032",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo differisce l'apertura della capsula tra le epatiche e i muschi?",
+    "suggestion": "In un gruppo la capsula si fende lungo alcune linee longitudinali, nell'altro si stacca un coperchio apicale.",
+    "options": [
+      "Nelle epatiche non si apre affatto, nei muschi si apre solo dopo la decomposizione della seta",
+      "Nelle epatiche si apre lungo quattro linee longitudinali, nei muschi mediante il distacco di un opercolo",
+      "In entrambe l'apertura avviene per distacco di un opercolo che scopre il peristoma dentato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Marchantiophyta la capsula si apre lungo quattro linee longitudinali, liberando spore ed elateri; nei muschi la capsula perde un opercolo apicale, esponendo anulus e peristoma, i cui denti igroscopici regolano il rilascio graduale delle spore.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.25-26"
+  },
+  {
+    "id": "bdv-brio-pioniere-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché muschi e licheni sono considerati specie pioniere nella successione ecologica?",
+    "suggestion": "Pensa a chi arriva per primo su un substrato nudo e a come prepara il terreno per gli organismi successivi.",
+    "options": [
+      "Perché rappresentano lo stadio finale e stabile della successione, cioè il climax della comunità",
+      "Perché impediscono l'insediamento di altre piante competendo per la luce fino a escluderle del tutto",
+      "Perché colonizzano per primi substrati privi di vita, accumulando sostanza organica e favorendo le piante successive"
+    ],
+    "correctIndex": 2,
+    "explanation": "Come specie pioniere, muschi e licheni colonizzano substrati inizialmente privi di vita (ambienti polari e alpini, greti, rocce incoerenti) e, accumulando sostanza organica, preparano il substrato per l'insediamento di piante erbacee, arbustive e infine arboree, fino al climax.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.27"
+  },
+  {
+    "id": "bdv-brio-tessuti-categorie-034",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali tre categorie funzionali si differenziano i tessuti nelle prime piante terrestri?",
+    "suggestion": "Pensa a chi riveste e protegge, a chi sostiene e a chi trasporta.",
+    "options": [
+      "Tessuti tegumentali, tessuti di sostegno e tessuti conduttori",
+      "Xilema, floema e cambio vascolare secondario",
+      "Meristemi apicali, laterali e intercalari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il passaggio alla terraferma ha favorito la differenziazione dei tessuti in tre categorie funzionali: tegumentali (rivestimento e protezione), di sostegno e conduttori. Xilema e floema veri e propri compaiono solo nelle piante vascolari, non nelle briofite.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.22"
+  },
+  {
+    "id": "bdv-brio-italia-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale gruppo di briofite è di gran lunga il più ricco di specie nella flora italiana?",
+    "suggestion": "È lo stesso gruppo più numeroso a livello mondiale tra le briofite: quello a forma cormoide.",
+    "options": [
+      "Le antocerote, con appena 6 specie note in Italia",
+      "I muschi (Bryophyta), con 866 specie, contro le 289 epatiche e le 6 antocerote",
+      "Le epatiche (Marchantiophyta), nettamente prevalenti sui muschi",
+      "Le Charophyceae, incluse tra le briofite della flora italiana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delle 1155 specie di briofite italiane, 866 sono muschi, 289 epatiche e 6 antocerote: i muschi (Bryophyta) sono il gruppo più ricco, coerentemente con la loro prevalenza a livello mondiale. Le Charophyceae sono alghe, non briofite.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.27"
+  },
+  {
+    "id": "bdv-brio-fill-torba-036",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Negli ambienti umidi fondati dagli sfagni, l'accumulo progressivo di materiale vegetale scarsamente decomposto forma nel tempo un deposito detto ___.",
+    "answers": [
+      [
+        "torba"
+      ]
+    ],
+    "suggestion": "Dà il nome anche all'ambiente che la genera (la torbiera).",
+    "explanation": "La torba è il deposito che si forma nelle torbiere per l'accumulo di materiale vegetale poco decomposto: gli sfagni la generano trattenendo grandi quantità d'acqua e resistendo alla decomposizione grazie ai composti fenolici.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.25"
+  },
+  {
+    "id": "bdv-brio-cuticola-037",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale funzione svolge la cuticola comparsa nelle briofite in relazione alla vita terrestre?",
+    "suggestion": "È uno strato ceroso sull'epidermide: pensa al problema principale di una pianta fuori dall'acqua.",
+    "options": [
+      "Assorbire acqua e sali minerali direttamente dall'aria umida circostante",
+      "Produrre attivamente gli spermatozoidi necessari alla fecondazione oogama",
+      "Fissare l'azoto atmosferico rendendolo disponibile per il metabolismo cellulare",
+      "Ridurre la traspirazione impermeabilizzando l'epidermide contro la perdita d'acqua"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cuticola è uno strato ceroso impermeabile che riveste l'epidermide riducendo la traspirazione: è uno degli adattamenti chiave alla vita emersa, associato negli briofite a stomi ad apertura fissa.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.23"
+  },
+  {
+    "id": "bdv-brio-antocerote-sporangio-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Come matura e si apre lo sporangio a forma di corno delle antocerote?",
+    "suggestion": "La maturazione non è simultanea: segue una direzione precisa lungo il corno.",
+    "options": [
+      "Matura gradualmente dalla base verso l'apice e si apre longitudinalmente",
+      "Matura tutto insieme e libera le spore staccando un opercolo apicale",
+      "Matura dall'apice verso la base e si apre lungo quattro linee trasversali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle Anthocerophyta lo sporofito ha forma di corno: lo sporangio matura progressivamente dalla base verso l'apice e si apre longitudinalmente per liberare le spore, a differenza dell'opercolo dei muschi e delle quattro linee longitudinali delle epatiche.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.25"
   }
 ]

@@ -215,5 +215,244 @@
     "explanation": "Aesculus hippocastanum ha fiore zigomorfo (simmetria bilaterale) con calice gamosepalo (formula x K(5) C5 A4+4 G(3)), diverso dal fiore attinomorfo dell'acero (*K5 C5 A5 G(2)). Ha foglie composte palmate e frutto a capsula spinosa con semi grossi e lucidi.",
     "difficulty": "medium",
     "source": "Biodiversità vegetale.pdf p.87"
+  },
+  {
+    "id": "bdv-malv-rosidi-dialipetalia-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quale carattere della corolla sono definiti i Rosidi, la linea delle Eudicotiledoni che comprende le Malvidi?",
+    "suggestion": "Riguarda se i petali sono liberi tra loro oppure saldati in un tubo.",
+    "options": [
+      "Dalla gamopetalia, cioè dalla corolla con petali saldati in un tubo",
+      "Dall'apetalia costante, cioè dalla totale assenza di petali nel fiore",
+      "Dalla dialipetalia, cioè dalla corolla con petali liberi tra loro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle Eudicotiledoni si distinguono Rosidi e Asteridi: i Rosidi (a cui appartengono Fabidi e Malvidi) sono caratterizzati dalla dialipetalia, condizione in cui i petali della corolla sono liberi fra loro, non saldati in un tubo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.82"
+  },
+  {
+    "id": "bdv-malv-stomi-ciclocitici-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Oltre alla struttura del seme, quale carattere ricorre lungo la dorsale del clado delle Malvidi?",
+    "suggestion": "Riguarda il portamento della pianta e l'anello di cellule che circonda gli stomi.",
+    "options": [
+      "La condizione legnosa e la presenza di stomi fogliari ciclocitici",
+      "La simbiosi radicale con batteri azotofissatori alloggiati nei noduli",
+      "La corolla papilionata con vessillo, ali e carena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lungo la dorsale del clado delle Malvidi ricorrono la condizione legnosa e la presenza di stomi ciclocitici, cioè stomi circondati da un anello regolare di cellule accessorie disposte in cerchio attorno alle due cellule di guardia. I noduli azotofissatori e il fiore papilionaceo sono caratteri delle Fabaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.82"
+  },
+  {
+    "id": "bdv-malv-caratteri-combinati-018",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché nessuno dei caratteri diagnostici dei Brassicales è sufficiente, da solo, a definire l'ordine?",
+    "suggestion": "Il valore diagnostico nasce dall'insieme, perché ogni singolo tratto si ritrova anche altrove.",
+    "options": [
+      "Perché tutti i caratteri sono esclusivi dei Brassicales ma compaiono solo negli individui adulti",
+      "Perché ciascun carattere, preso singolarmente, ricorre anche in altri gruppi: contano solo combinati",
+      "Perché i caratteri cambiano con la stagione e non sono mai osservabili contemporaneamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "I cinque caratteri dei Brassicales (foglie alterne, fiori 4-meri, ovario supero, infiorescenze racemose, glucosinolati) vanno considerati in combinazione: nessuno è esclusivo se preso singolarmente, perché ciascuno ricorre anche in altri gruppi. È la loro presenza congiunta a definire l'ordine.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.82"
+  },
+  {
+    "id": "bdv-malv-placentazione-parietale-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Che tipo di placentazione presenta l'ovario supero delle Brassicaceae?",
+    "suggestion": "Gli ovuli non stanno su una colonna centrale, ma lungo le linee di saldatura dei carpelli.",
+    "options": [
+      "Assiale, con gli ovuli inseriti su una colonna centrale dell'ovario",
+      "Basale, con un unico ovulo inserito sul fondo dell'ovario",
+      "Centrale libera, con gli ovuli su una colonna non collegata alle pareti",
+      "Parietale, con gli ovuli sulle pareti in corrispondenza delle saldature carpellari"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'ovario supero bicarpellare delle Brassicaceae ha placentazione parietale: gli ovuli sono inseriti sulle pareti laterali, in corrispondenza delle linee di saldatura dei carpelli, e non su una colonna centrale. Le due placente sono unite dal replo.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.85"
+  },
+  {
+    "id": "bdv-malv-stilo-stimma-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono organizzati stilo e stimma nel gineceo bicarpellare delle Brassicaceae?",
+    "suggestion": "Un solo prolungamento sopra l'ovario, terminante in una superficie ingrossata a capocchia.",
+    "options": [
+      "Stilo unico e stimma capitato, cioè ingrossato a capocchia",
+      "Stili numerosi e liberi, uno per ogni ovulo, con stimmi piumosi",
+      "Stilo del tutto assente, con lo stimma sessile disposto sull'ovario"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel gineceo delle Brassicaceae lo stilo è unico e lo stimma è capitato, cioè ingrossato a capocchia. Ogni placenta parietale porta da uno a molti ovuli. Non vi sono quindi stili multipli né uno stimma sessile.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.85"
+  },
+  {
+    "id": "bdv-malv-eterofillia-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa si intende per eterofillia, carattere costante nelle Brassicaceae?",
+    "suggestion": "Riguarda la coesistenza, sullo stesso individuo, di foglie di forma nettamente diversa.",
+    "options": [
+      "La presenza di stipole trasformate in spine alla base del picciolo",
+      "La presenza, sullo stesso individuo, di foglie di forma diversa secondo la posizione",
+      "La disposizione delle foglie in coppie opposte e decussate lungo il fusto"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'eterofillia è la presenza sullo stesso individuo di foglie di forma nettamente diversa a seconda della posizione, tipicamente fra la rosetta basale e le foglie cauline. Nelle Brassicaceae le stipole sono invece sempre assenti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.85"
+  },
+  {
+    "id": "bdv-malv-corimbo-022",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa un corimbo differisce da un racemo semplice nelle Brassicaceae?",
+    "suggestion": "Dipende dalla lunghezza dei peduncoli: nel corimbo i fiori arrivano tutti quasi alla stessa altezza.",
+    "options": [
+      "Il corimbo è un racemo ramificato, cioè composto in più assi secondari",
+      "Il corimbo porta un solo fiore terminale che arresta la crescita dell'asse",
+      "Nel corimbo i peduncoli inferiori sono più lunghi, portando i fiori sullo stesso piano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il corimbo è un racemo in cui i peduncoli inferiori sono più lunghi di quelli superiori, così che tutti i fiori vengono a trovarsi approssimativamente sullo stesso piano. Il racemo ramificato è invece la pannocchia; il fiore terminale che arresta la crescita caratterizza le cime.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.85"
+  },
+  {
+    "id": "bdv-malv-fill-siliquetta-023",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'infestante Capsella bursa-pastoris si riconosce per la caratteristica siliquetta di forma ___ (a cuore rovesciato).",
+    "answers": [["triangolare", "obcordata", "triangolare-obcordata"]],
+    "suggestion": "Ricorda una piccola borsa da pastore, da cui il nome della specie.",
+    "explanation": "Capsella bursa-pastoris ha una siliquetta triangolare-obcordata (a cuore rovesciato), carattere distintivo che, insieme alle foglie cauline sessili e amplessicauli, la rende facilmente riconoscibile fra le Brassicaceae infestanti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.86"
+  },
+  {
+    "id": "bdv-malv-diacritici-ranking-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Nella determinazione delle specie di Brassicaceae, qual è l'ordine di importanza dei caratteri diacritici?",
+    "suggestion": "Il carattere più discriminante è quello del frutto; seguono colore e rivestimento.",
+    "options": [
+      "Forma del frutto, poi colore dei fiori, poi pelosità di fusto e foglie",
+      "Colore dei fiori, poi forma del frutto, poi numero degli stami",
+      "Numero dei carpelli, poi tipo di placentazione, poi lunghezza dello stilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Poiché il piano fiorale è molto uniforme, i caratteri diacritici delle Brassicaceae sono, in ordine di importanza: la forma del frutto (di gran lunga il più discriminante), il colore dei fiori e la pelosità di fusto e foglie.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.86"
+  },
+  {
+    "id": "bdv-malv-samara-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cos'è una samara e a che serve la sua ala, nel frutto degli aceri?",
+    "suggestion": "È un frutto secco a un solo seme, dotato di un'espansione che lo fa volteggiare col vento.",
+    "options": [
+      "Un frutto carnoso con seme protetto da endocarpo legnoso, disperso dagli animali",
+      "Una capsula deiscente a più valve che libera semi pelosi trasportati dal vento",
+      "Un legume secco che si apre lungo due suture proiettando i semi a distanza",
+      "Un achenio con espansione membranosa alare che favorisce la dispersione anemocora"
+    ],
+    "correctIndex": 3,
+    "explanation": "La samara è un achenio (frutto secco indeiscente a un seme) provvisto di un'espansione membranosa a forma di ala, che ne favorisce la dispersione anemocora (a opera del vento). Negli aceri due samare unite formano la disamara.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.87"
+  },
+  {
+    "id": "bdv-malv-acer-attinomorfo-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa indica il simbolo a stella (*) nella formula fiorale dell'acero (* K5 C5 A5 G(2))?",
+    "suggestion": "Riguarda la simmetria del fiore: quanti piani lo dividono in metà speculari.",
+    "options": [
+      "Che l'ovario è infero, saldato agli altri verticilli fiorali",
+      "Che il fiore è unisessuale, con un solo sesso funzionale",
+      "Che il fiore è attinomorfo, cioè a simmetria raggiata"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella formula fiorale il simbolo a stella (*) indica un fiore attinomorfo, cioè a simmetria raggiata, con più piani di simmetria. Il fiore dell'acero è quindi attinomorfo, a differenza di quello zigomorfo dell'ippocastano (Aesculus).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.87"
+  },
+  {
+    "id": "bdv-malv-acer-gemme-ramuli-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri vegetativi, oltre all'angolo della disamara, aiutano a distinguere le specie di Acer?",
+    "suggestion": "Osserva se i rametti dell'anno sono pelosi e se le gemme aderiscono o si allontanano dal ramo.",
+    "options": [
+      "La pubescenza dei ramuli e le gemme divergenti o appressate rispetto al rametto",
+      "La presenza o assenza di noduli radicali azotofissatori sulle radici",
+      "Il colore e il sapore amaro del ritidoma dovuto agli antrachinoni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oltre all'angolo della disamara, si usano la pubescenza dei ramuli (glabri o pubescenti) e la posizione delle gemme (divergenti o appressate al rametto), insieme al lattice del picciolo. I noduli azotofissatori sono delle Fabaceae, il ritidoma amaro per antrachinoni dei Picramniales.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.88"
+  },
+  {
+    "id": "bdv-malv-acer-monspessulanum-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere distingue nettamente Acer monspessulanum dalle tre specie di acero più comuni?",
+    "suggestion": "Guarda il numero e la forma dei lobi della foglia, e la sua consistenza.",
+    "options": [
+      "La foglia semplice a cinque lobi acuti, terminanti in punte allungate",
+      "La foglia trilobata, con tre soli lobi interi, arrotondati e coriacei",
+      "La totale assenza di disamara, sostituita da un frutto a capsula spinosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acer monspessulanum si distingue per la foglia trilobata, con tre soli lobi interi, arrotondati e di consistenza coriacea, e per le disamare con ali quasi parallele. La foglia a cinque lobi acuti è di A. platanoides; la capsula spinosa è il frutto dell'ippocastano.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.88"
+  },
+  {
+    "id": "bdv-malv-aesculus-foglia-frutto-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri di foglia e frutto distinguono Aesculus hippocastanum nelle Sapindaceae?",
+    "suggestion": "Le foglioline partono a raggiera da un punto e il frutto è protetto da spine.",
+    "options": [
+      "Foglie composte imparipennate e frutto a disamara con ali ad angolo acuto",
+      "Foglie semplici a cinque lobi e frutto a disamara con ali a 180°",
+      "Foglie semplici trilobate e frutto a legume deiscente lungo due suture",
+      "Foglie composte palmate e frutto a capsula spinosa con grossi semi lucidi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aesculus hippocastanum ha foglie composte palmate (foglioline a raggiera da un unico punto) e frutto a capsula spinosa che a maturità libera uno o pochi semi grossi e lucidi. La disamara è invece il frutto degli aceri; il legume è delle Fabaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.89"
+  },
+  {
+    "id": "bdv-malv-myrtales-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere fiorale distingue l'ordine Myrtales all'interno delle Malvidi?",
+    "suggestion": "Riguarda la posizione dell'ovario rispetto agli altri verticilli, associata a foglie opposte.",
+    "options": [
+      "Ovario infero, foglie opposte e calice valvato persistente",
+      "Ovario supero, glucosinolati solforati e cellule mirosiniche difensive",
+      "Corolla papilionata con stami diadelfi e frutto a legume"
+    ],
+    "correctIndex": 0,
+    "explanation": "I Myrtales si distinguono per l'ovario infero, le foglie opposte con colleteri e il calice valvato e persistente. L'ovario supero con glucosinolati e cellule mirosiniche caratterizza i Brassicales; la corolla papilionata è delle Fabaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.82-83"
+  },
+  {
+    "id": "bdv-malv-malvales-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri contraddistinguono l'ordine Malvales, cui appartengono le Malvaceae?",
+    "suggestion": "Pensa a una corteccia fibrosa, a tricomi ramificati a raggiera e alla disposizione dei petali nel bocciolo.",
+    "options": [
+      "Fiori 4-meri, glucosinolati solforati e infiorescenze racemose",
+      "Ritidoma fibroso, peli spesso stellati e petali contorti nella prefioritura",
+      "Foglie imparipennate, disco intrastaminale e produzione di oli eterei"
+    ],
+    "correctIndex": 1,
+    "explanation": "I Malvales si riconoscono per il ritidoma fibroso, i peli spesso stellati e i petali contorti nella prefioritura (ciascuno copre il margine del successivo). I fiori 4-meri con glucosinolati sono dei Brassicales; le foglie imparipennate con disco intrastaminale e oli eterei dei Sapindales.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.83"
   }
 ]

@@ -254,5 +254,261 @@
     "explanation": "Negli stomi delle dicotiledoni la disposizione è casuale e concentrata sulla pagina inferiore; nelle monocotiledoni è ordinata, allineata lungo le nervature parallele, e gli stomi sono presenti su entrambe le pagine. Peli e tricomi attorno agli stomi creano un microclima umido che riduce la traspirazione.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.55"
+  },
+  {
+    "id": "bvg-fog-meristemi-018",
+    "topic": "biologia-vegetale",
+    "question": "Quali meristemi guidano rispettivamente la formazione dell'asse fogliare e l'espansione della lamina?",
+    "suggestion": "L'apice del germoglio origina la bozza e l'asse; i margini della bozza espandono il lembo.",
+    "options": [
+      "I meristemi apicali del germoglio originano bozza e asse fogliare; i meristemi marginali sviluppano la lamina",
+      "I meristemi marginali originano l'asse fogliare; i meristemi apicali sviluppano solo il picciolo",
+      "Un unico cambio cribrovascolare produce sia l'asse sia la lamina, come avviene nel fusto secondario"
+    ],
+    "correctIndex": 0,
+    "explanation": "La foglia origina dai meristemi apicali del germoglio, che formano dapprima la bozza fogliare e poi l'asse fogliare; i meristemi marginali, posti ai lati della bozza, sono responsabili dello sviluppo della lamina, cioè della parte espansa e appiattita.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-crescita-intercalare-019",
+    "topic": "biologia-vegetale",
+    "question": "A che cosa è dovuta la crescita intercalare della foglia rispettivamente nelle Dicotiledoni e nelle Monocotiledoni?",
+    "suggestion": "In un gruppo prevale l'allungamento dell'asse, nell'altro l'attività dei meristemi ai margini.",
+    "options": [
+      "In entrambe è dovuta esclusivamente all'attività di un cambio secondario posto alla base del picciolo fogliare",
+      "Nelle Dicotiledoni all'allungamento dell'asse fogliare, nelle Monocotiledoni all'attività dei meristemi marginali",
+      "Nelle Dicotiledoni ai meristemi marginali, nelle Monocotiledoni al solo allungamento dei tessuti conduttori"
+    ],
+    "correctIndex": 1,
+    "explanation": "La crescita intercalare (accrescimento non solo apicale ma anche in punti intermedi) è dovuta, nelle Dicotiledoni, all'allungamento dell'asse fogliare; nelle Monocotiledoni è invece imputabile all'attività dei meristemi marginali.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-bozza-gemma-020",
+    "topic": "biologia-vegetale",
+    "question": "Perché la costante associazione tra bozza fogliare e gemma ascellare è un carattere diagnostico importante?",
+    "suggestion": "Serve poi a riconoscere se una struttura è una vera foglia o una fogliolina di foglia composta.",
+    "options": [
+      "Perché indica il punto in cui il fusto compie l'accrescimento secondario e forma il sughero",
+      "Perché ogni bozza fogliare è priva di gemma, così da distinguerla dai rami laterali del fusto",
+      "Perché ogni vera foglia porta alla propria ascella una gemma, criterio usato per riconoscere le foglie composte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le bozze fogliari nascono ai lati del meristema apicale e sono sempre associate a una gemma ascellare (posta nell'angolo tra foglia e fusto). Questa associazione costante è diagnostica: consente di distinguere una foglia composta (alla cui base c'è una gemma) da un ramo con foglie semplici.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-mesofillo-componenti-021",
+    "topic": "biologia-vegetale",
+    "question": "Quali tre componenti funzionali costituiscono il mesofillo fogliare?",
+    "suggestion": "Il tessuto fotosintetico, quelli di sostegno e quelli di trasporto.",
+    "options": [
+      "Parenchima clorofilliano, tessuti meccanici (collenchima e sclerenchima) e tessuti conduttori (xilema e floema)",
+      "Cutina, suberina e lignina depositate nelle pareti delle sole cellule epidermiche di rivestimento",
+      "Epidermide superiore, cuticola e strato di abscissione posti a protezione della lamina fogliare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il mesofillo, compreso tra le due epidermidi, comprende tre componenti funzionali: il parenchima clorofilliano (ricco di cloroplasti, per la fotosintesi), i tessuti meccanici (collenchima e sclerenchima, di sostegno) e i tessuti conduttori (xilema e floema, per il trasporto).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.52"
+  },
+  {
+    "id": "bvg-fog-tracce-nodo-022",
+    "topic": "biologia-vegetale",
+    "question": "In corrispondenza di ogni nodo, come si distribuiscono le due tracce del sistema conduttore?",
+    "suggestion": "Una raggiunge il ramo che origina dalla gemma, l'altra raggiunge la foglia.",
+    "options": [
+      "Entrambe le tracce raggiungono la foglia, lasciando privo di conduzione il ramo ascellare del nodo",
+      "Una traccia è diretta al ramo (dalla gemma) e l'altra alla foglia, con lo xilema sempre superiore al floema",
+      "Le due tracce si fondono in un unico fascio privo di floema, con solo xilema disposto inferiormente"
+    ],
+    "correctIndex": 1,
+    "explanation": "A ogni nodo si distaccano dal cilindro centrale due tracce: una diretta al ramo (che origina dalla gemma) e una diretta alla foglia. In entrambe i vasi xilematici sono disposti superiormente rispetto ai tubi cribrosi floematici, rispecchiando la polarità del fusto.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-epidermidi-dicot-023",
+    "topic": "biologia-vegetale",
+    "question": "Come differiscono le due epidermidi della foglia di Dicotiledone quanto a cutinizzazione e stomi?",
+    "suggestion": "Una è ben impermeabilizzata e con pochi stomi, l'altra è sottile e ne porta molti.",
+    "options": [
+      "La superiore è sottile con molti stomi; la inferiore è spessa e cutinizzata, del tutto priva di stomi",
+      "Entrambe hanno lo stesso spessore e uguale numero di stomi distribuiti in modo perfettamente simmetrico",
+      "La superiore ha pareti cutinizzate e pochi stomi; la inferiore è sottile, poco cutinizzata e con molti stomi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella foglia dorso-ventrale delle Dicotiledoni l'epidermide superiore ha pareti tangenziali cutinizzate e scarsità o assenza di stomi e peli; l'epidermide inferiore ha parete sottile con poca cutina e numerosi stomi e peli. La differenziazione riflette la diversa esposizione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-scleren-collen-024",
+    "topic": "biologia-vegetale",
+    "question": "Quale differenza distingue lo sclerenchima dal collenchima tra i tessuti meccanici fogliari?",
+    "suggestion": "Uno ha pareti lignificate e cellule morte a maturità, l'altro pareti ispessite non lignificate e cellule vive.",
+    "options": [
+      "Lo sclerenchima ha pareti lignificate e cellule morte a maturità; il collenchima ha pareti ispessite non lignificate e cellule vive",
+      "Lo sclerenchima è formato da cellule vive non lignificate; il collenchima da cellule morte lignificate",
+      "Entrambi sono privi di ispessimenti di parete e svolgono unicamente la fotosintesi nel mesofillo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entrambi sono tessuti di sostegno associati ai fasci conduttori, ma differiscono: lo sclerenchima ha pareti lignificate e cellule morte a maturità; il collenchima ha pareti ispessite ma non lignificate e cellule vive.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-silice-monocot-025",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolgono i depositi silicei presenti sulle pareti cellulari di alcune Monocotiledoni?",
+    "suggestion": "Non riguardano gli scambi gassosi, ma la rigidità del tessuto.",
+    "options": [
+      "Aumentano la permeabilità dell'epidermide favorendo l'ingresso della CO2 negli spazi del mesofillo",
+      "Aumentano la consistenza e la resistenza meccanica del tessuto fogliare",
+      "Sostituiscono i cloroplasti nelle cellule epidermiche svolgendo direttamente la fotosintesi"
+    ],
+    "correctIndex": 1,
+    "explanation": "In alcune Monocotiledoni si osservano accumuli di silice sulle pareti cellulari, la cui funzione è aumentare la consistenza e la resistenza meccanica del tessuto fogliare, irrigidendolo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.53"
+  },
+  {
+    "id": "bvg-fog-xerofita-026",
+    "topic": "biologia-vegetale",
+    "question": "Quali adattamenti anatomici presenta la foglia di pianta xerofita per limitare la perdita d'acqua?",
+    "suggestion": "Epidermide rinforzata e stomi protetti, collocati solo su una pagina.",
+    "options": [
+      "Epidermide sottile monostratificata con stomi sporgenti su entrambe le pagine e cuticola assente",
+      "Mesofillo aerifero con ampie lacune piene d'aria e stomi collocati solo sulla pagina superiore natante",
+      "Epidermide ispessita e pluristratificata, con stomi infossati e circondati da peli, solo sulla pagina inferiore"
+    ],
+    "correctIndex": 2,
+    "explanation": "La foglia xerofita (di ambienti aridi) ha epidermide ispessita e pluristratificata, stomi esclusivamente sulla pagina inferiore, infossati e circondati da peli, oltre a idioblasti e strutture sclerenchimatiche lignificate: tutti adattamenti che riducono la traspirazione e irrigidiscono il tessuto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.55"
+  },
+  {
+    "id": "bvg-fog-sole-ombra-027",
+    "topic": "biologia-vegetale",
+    "question": "In che modo l'intensità luminosa influenza l'organizzazione del mesofillo di una foglia?",
+    "suggestion": "Con molta luce il tessuto a palizzata si sviluppa; con poca luce il mesofillo diventa meno compatto.",
+    "options": [
+      "Le foglie di piena luce hanno tessuto a palizzata ben sviluppato e compatto; le foglie d'ombra hanno mesofillo meno compatto con ampi spazi",
+      "Le foglie di piena luce sono prive di palizzata; le foglie d'ombra sviluppano un doppio strato di palizzata compatta",
+      "L'intensità luminosa non modifica il mesofillo, che resta identico in ogni condizione di illuminazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "La luce influenza la morfologia fogliare: le foglie sviluppate in piena illuminazione hanno un tessuto a palizzata ben sviluppato, con cellule allungate e compatte; le foglie ombreggiate hanno un mesofillo meno compatto, con cellule irregolari e maggiori spazi intercellulari, per ottimizzare la cattura della scarsa luce.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.55"
+  },
+  {
+    "id": "bvg-fog-tricomi-028",
+    "topic": "biologia-vegetale",
+    "question": "In che modo peli e tricomi disposti attorno alla rima stomatica riducono la traspirazione?",
+    "suggestion": "Modificano il microclima immediatamente sopra il poro.",
+    "options": [
+      "Sigillano fisicamente il poro stomatico impedendo in modo permanente qualsiasi scambio gassoso",
+      "Creano un microclima locale più umido attorno allo stoma, riducendo la velocità di traspirazione",
+      "Aumentano la temperatura fogliare accelerando l'evaporazione dell'acqua dal mesofillo sottostante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peli e tricomi (escrescenze epidermiche) disposti attorno alla rima stomatica creano un microclima locale più umido, che riduce il gradiente di concentrazione del vapore acqueo e quindi la velocità di traspirazione, senza chiudere lo stoma.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.55"
+  },
+  {
+    "id": "bvg-fog-fill-sessile-029",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Una foglia priva di picciolo, la cui lamina si inserisce direttamente sul fusto, è detta ___.",
+    "answers": [
+      [
+        "sessile",
+        "sessili"
+      ]
+    ],
+    "suggestion": "È l'opposto di 'picciolata'; la lamina manca del peduncolo di collegamento al fusto.",
+    "explanation": "Una foglia sessile è priva di picciolo e la lamina si inserisce direttamente sul fusto; è l'opposto della foglia picciolata, dotata di picciolo. Il margine della lamina può inoltre essere intero (contorno continuo) o inciso (con insenature).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-guainanti-030",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza le foglie guainanti e abbraccianti (perfogliate), frequenti nelle graminacee?",
+    "suggestion": "È il modo in cui la base della foglia si rapporta al fusto.",
+    "options": [
+      "La lamina è trasformata in spina difensiva, mentre la fotosintesi passa al fusto verde carnoso",
+      "La lamina è suddivisa in foglioline disposte a ventaglio attorno a un unico punto di inserzione basale",
+      "La base della foglia avvolge parzialmente o totalmente il fusto, formando una guaina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le foglie guainanti e abbraccianti (dette anche perfogliate) hanno la base che avvolge parzialmente o totalmente il fusto, formando una guaina. Questo tipo di inserzione è frequente nelle graminacee.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-flabellate-ginkgo-031",
+    "topic": "biologia-vegetale",
+    "question": "Quale morfologia fogliare caratterizza il genere Ginkgo (Ginkgo biloba)?",
+    "suggestion": "La lamina ricorda un ventaglio, con nervature che partono da un unico punto basale.",
+    "options": [
+      "Foglie flabellate, a forma di ventaglio, con nervature che si dipartono a raggiera da un punto basale",
+      "Foglie aghiformi con un'unica nervatura centrale e stomi infossati protetti da cere",
+      "Foglie pedate suddivise in segmenti disposti a ricordare la forma di un piede"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il Ginkgo biloba ha foglie flabellate: la lamina ha forma di ventaglio, con nervature che si dipartono a raggiera da un unico punto basale. Le foglie pedate (a forma di piede) caratterizzano invece generi come Helleborus.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.56"
+  },
+  {
+    "id": "bvg-fog-succulente-agave-032",
+    "topic": "biologia-vegetale",
+    "question": "Perché le foglie succulente, come quelle del genere Agave, hanno un mesofillo particolarmente sviluppato?",
+    "suggestion": "Contengono tessuti parenchimatici specializzati nell'immagazzinamento di una risorsa scarsa negli ambienti aridi.",
+    "options": [
+      "Perché il mesofillo ospita gli organi riproduttivi e i semi durante la stagione secca",
+      "Perché il mesofillo è ricco di parenchima deputato all'accumulo di acqua, adattamento agli ambienti aridi",
+      "Perché il mesofillo è trasformato in spine difensive contro gli animali erbivori del deserto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le foglie succulente (es. Agave) hanno un mesofillo molto sviluppato e ricco di tessuti parenchimatici deputati all'accumulo di acqua: è un adattamento tipico delle piante che vivono in ambienti aridi, dove l'acqua è scarsa.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.57"
+  },
+  {
+    "id": "bvg-fog-squamiformi-033",
+    "topic": "biologia-vegetale",
+    "question": "Come sono disposte le foglie squamiformi in generi come Cupressus?",
+    "suggestion": "Sono piccole squame sovrapposte come le tegole di un tetto.",
+    "options": [
+      "In grandi lamine flabellate isolate, distanziate lungo tutto il fusto principale",
+      "In verticilli di foglioline filiformi trasformate in cirri di sostegno per l'arrampicamento",
+      "In piccole squame disposte in modo embricato, sovrapposte come le tegole di un tetto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le foglie squamiformi (es. Cupressus) sono ridotte a piccole squame disposte in modo embricato, cioè sovrapposte le une alle altre come le tegole di un tetto. È una delle numerose modificazioni della foglia.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.57"
+  },
+  {
+    "id": "bvg-fog-cirri-034",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la funzione dei cirri, foglie o porzioni di foglia modificate in strutture filiformi e avvolgenti?",
+    "suggestion": "Permettono alla pianta di attaccarsi a supporti dell'ambiente.",
+    "options": [
+      "Il sostegno meccanico: consentono alla pianta di aggrapparsi ai supporti disponibili nell'ambiente",
+      "La cattura e la digestione di insetti in suoli poveri di nutrienti azotati",
+      "L'accumulo di acqua di riserva per superare i lunghi periodi di siccità estiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "I cirri sono foglie o porzioni di foglia (es. foglioline) modificate in strutture filiformi e avvolgenti con funzione di sostegno meccanico, che consentono alla pianta di aggrapparsi ai supporti disponibili nell'ambiente circostante.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.57"
   }
 ]

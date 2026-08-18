@@ -271,5 +271,283 @@
     "explanation": "La membrana mitocondriale interna è impermeabile agli ioni H+: questa proprietà impedisce il rientro libero dei protoni pompati dai complessi, permettendo di mantenere il gradiente elettrochimico che l'ATP sintasi sfrutta per produrre ATP. È selettivamente permeabile solo ad ATP, ADP e piruvato.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.82"
+  },
+  {
+    "id": "bvg-res-reazione-generale-019",
+    "topic": "biologia-vegetale",
+    "question": "Qual è la reazione complessiva della respirazione cellulare aerobia?",
+    "suggestion": "Il glucosio si ossida completamente consumando ossigeno.",
+    "options": [
+      "Glucosio + ossigeno → CO2 + acqua + energia (ossidazione completa dello zucchero)",
+      "CO2 + acqua + energia luminosa → glucosio + ossigeno, come nella sintesi degli zuccheri",
+      "Glucosio + acqua → etanolo + CO2, senza alcun consumo di ossigeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La respirazione aerobia ossida completamente il glucosio con l'ossigeno, producendo CO2, acqua ed energia (ATP). È l'inverso concettuale della fotosintesi, che invece usa energia luminosa per ridurre la CO2 a zuccheri liberando O2.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.79"
+  },
+  {
+    "id": "bvg-res-glicolisi-ancestrale-020",
+    "topic": "biologia-vegetale",
+    "question": "Perché la glicolisi è considerata una via metabolica ancestrale?",
+    "suggestion": "Una via così diffusa e citosolica deve essere comparsa prima dei mitocondri.",
+    "options": [
+      "Perché avviene solo nei mitocondri degli eucarioti più evoluti",
+      "Perché è comparsa molto precocemente nell'evoluzione ed è comune a quasi tutti i viventi",
+      "Perché richiede ossigeno, comparso presto nell'atmosfera primordiale"
+    ],
+    "correctIndex": 1,
+    "explanation": "La glicolisi è comparsa molto precocemente nell'evoluzione ed è comune a pressoché tutti gli organismi viventi; si svolge nel citosol senza ossigeno, coerentemente con le condizioni anaerobie della Terra primordiale.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.79"
+  },
+  {
+    "id": "bvg-res-fill-esochinasi-021",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La prima reazione della glicolisi, che fosforila il glucosio a glucosio 6-fosfato consumando una molecola di ATP, è catalizzata dall'___.",
+    "answers": [
+      [
+        "esochinasi",
+        "esokinasi",
+        "hexokinase"
+      ]
+    ],
+    "suggestion": "È la prima chinasi della via, che 'investe' una molecola di ATP.",
+    "explanation": "Nello stadio 1 della fase preparatoria l'esochinasi trasferisce un gruppo fosfato dall'ATP al glucosio, formando glucosio 6-fosfato; è la reazione regolativa d'ingresso della glicolisi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.80"
+  },
+  {
+    "id": "bvg-res-aldolasi-022",
+    "topic": "biologia-vegetale",
+    "question": "Quale reazione della glicolisi dà il nome all'intera via ('distruzione dello zucchero')?",
+    "suggestion": "Il nome 'glicolisi' richiama la rottura dello zucchero in due metà.",
+    "options": [
+      "La fosforilazione iniziale del glucosio a glucosio 6-fosfato da parte dell'esochinasi",
+      "La riduzione finale del piruvato ad acido lattico durante la fermentazione",
+      "La scissione, a opera dell'aldolasi, dello zucchero C6 in due molecole a 3 atomi di carbonio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nello stadio 4 l'aldolasi scinde il fruttosio 1,6-bisfosfato (C6) in due triosi (diidrossiacetonfosfato e gliceraldeide 3-fosfato); da questo taglio deriva il nome 'glicolisi' (distruzione dello zucchero) e inizia il tratto condiviso con il ciclo di Calvin.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.80"
+  },
+  {
+    "id": "bvg-res-fosfofruttochinasi-023",
+    "topic": "biologia-vegetale",
+    "question": "Come è regolato allostericamente l'enzima fosfofruttochinasi nella glicolisi?",
+    "suggestion": "Un indicatore di bassa carica energetica accelera la via; uno di alta carica la frena.",
+    "options": [
+      "È attivato dall'AMP e inibito dall'ATP",
+      "È attivato dall'ATP e inibito dall'AMP",
+      "È inibito dall'ossigeno e attivato dalla CO2"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fosfofruttochinasi (stadio 3) è modulata allostericamente: l'AMP la attiva (segnale di bassa carica energetica) e l'ATP la inibisce (segnale di abbondanza), regolando così il flusso dell'intera glicolisi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.80"
+  },
+  {
+    "id": "bvg-res-piruvato-energia-024",
+    "topic": "biologia-vegetale",
+    "question": "Perché la glicolisi rappresenta solo una tappa parziale della degradazione del glucosio?",
+    "suggestion": "Il piruvato è ancora una molecola 'ricca', non del tutto ossidata.",
+    "options": [
+      "Perché consuma più ATP di quanto ne produca, con bilancio netto negativo",
+      "Perché le due molecole di piruvato prodotte conservano ancora circa l'80% dell'energia del glucosio",
+      "Perché avviene nei mitocondri e richiede ossigeno per completarsi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le due molecole di piruvato prodotte conservano ancora circa l'80% dell'energia originaria del glucosio (delle 686 kcal/mole, circa 546 restano nel piruvato): la glicolisi è quindi solo la prima tappa parziale della degradazione ossidativa.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.81"
+  },
+  {
+    "id": "bvg-res-ferm-lattica-025",
+    "topic": "biologia-vegetale",
+    "question": "Quale prodotto genera la fermentazione lattica e in quali organismi è presente?",
+    "suggestion": "A differenza della fermentazione alcolica, qui non si libera anidride carbonica.",
+    "options": [
+      "Etanolo e CO2, tipici dei soli lieviti e delle radici sommerse",
+      "CO2 e acqua, con ossidazione completa del piruvato",
+      "Acido lattico, in animali, funghi e batteri, senza liberazione di CO2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella fermentazione lattica il piruvato è ridotto direttamente ad acido lattico (con consumo di NADH2), senza decarbossilazione e quindi senza liberare CO2; è presente in animali, funghi e batteri. La fermentazione alcolica dà invece etanolo e CO2.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.82"
+  },
+  {
+    "id": "bvg-res-ferm-efficienza-026",
+    "topic": "biologia-vegetale",
+    "question": "Qual è l'efficienza energetica e la resa in ATP della fermentazione per molecola di glucosio?",
+    "suggestion": "Solo 2 ATP per glucosio: molto meno della via aerobia.",
+    "options": [
+      "Circa il 28% di efficienza, con sole 2 molecole di ATP prodotte",
+      "Circa il 38% di efficienza, con 36 molecole di ATP prodotte",
+      "Circa il 100% di efficienza, con conversione totale dell'energia in ATP"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fermentazione produce solo 2 ATP per glucosio, con efficienza energetica di circa il 28% (14 kcal immagazzinate su 52 liberate). È comunque sufficiente per organismi come i lieviti e rigenera il NAD+ necessario alla glicolisi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.82"
+  },
+  {
+    "id": "bvg-res-mito-creste-027",
+    "topic": "biologia-vegetale",
+    "question": "Come si chiamano le introflessioni della membrana interna del mitocondrio e lo spazio che racchiudono?",
+    "suggestion": "Attento a non confonderle con le strutture del cloroplasto.",
+    "options": [
+      "Tilacoidi le introflessioni, stroma lo spazio racchiuso",
+      "Grana le introflessioni, lume lo spazio racchiuso",
+      "Creste le introflessioni, matrice mitocondriale lo spazio racchiuso"
+    ],
+    "correctIndex": 2,
+    "explanation": "La membrana mitocondriale interna forma introflessioni dette creste; lo spazio da esse racchiuso è la matrice mitocondriale, sede del ciclo di Krebs. Tilacoidi, grana e stroma appartengono invece al cloroplasto.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.82"
+  },
+  {
+    "id": "bvg-res-membrana-selettiva-028",
+    "topic": "biologia-vegetale",
+    "question": "Quali molecole attraversano selettivamente la membrana mitocondriale interna tramite trasportatori?",
+    "suggestion": "Solo poche molecole passano per trasportatori; i gas diffondono liberi.",
+    "options": [
+      "Tutti gli ioni liberamente, compresi i protoni H+",
+      "Solo le grandi macromolecole come proteine e polisaccaridi",
+      "ATP, ADP e piruvato (mentre CO2 e O2 diffondono liberamente)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La membrana interna è permeabile selettivamente solo ad ATP, ADP e piruvato (via trasporto facilitato), mentre CO2 e O2 diffondono liberamente. È inoltre impermeabile agli H+, condizione indispensabile per il gradiente protonico.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.82"
+  },
+  {
+    "id": "bvg-res-krebs-inizio-029",
+    "topic": "biologia-vegetale",
+    "question": "Con quale reazione inizia il ciclo di Krebs?",
+    "suggestion": "Un composto a 2 carboni si unisce a uno a 4 per darne uno a 6.",
+    "options": [
+      "La decarbossilazione diretta del piruvato ad acetil-CoA nella matrice",
+      "La fosforilazione del glucosio a glucosio 6-fosfato da parte dell'esochinasi",
+      "La condensazione dell'acetil-CoA (C2) con l'ossalacetato (C4) a formare citrato (C6)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il ciclo di Krebs inizia con la condensazione dell'acetil-CoA (C2) e dell'ossalacetato (C4), catalizzata dalla citrato sintasi, con formazione di citrato (C6, acido tricarbossilico, da cui il nome del ciclo).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.83"
+  },
+  {
+    "id": "bvg-res-fill-ossalacetato-030",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Al termine di ogni giro del ciclo di Krebs viene rigenerato l'accettore iniziale a quattro atomi di carbonio, l'___.",
+    "answers": [
+      [
+        "ossalacetato",
+        "acido ossalacetico",
+        "oaa"
+      ]
+    ],
+    "suggestion": "È il C4 di partenza, ricostituito ad ogni giro dalla malato deidrogenasi.",
+    "explanation": "Nel ciclo di Krebs il citrato viene decarbossilato due volte e, dopo una serie di reazioni, il malato è ossidato dalla malato deidrogenasi a ossalacetato (C4), rigenerando l'accettore iniziale per un nuovo giro.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.83"
+  },
+  {
+    "id": "bvg-res-fill-ubichinone-031",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Il trasportatore lipidico di natura terpenica che trasferisce elettroni e protoni tra i complessi, onnipresente negli eucarioti, è l'___ (coenzima Q).",
+    "answers": [
+      [
+        "ubichinone",
+        "ubiquinone",
+        "coenzima q",
+        "coenzima q10",
+        "coq"
+      ]
+    ],
+    "suggestion": "Il nome ne sottolinea l'ubiquità in tutti gli eucarioti.",
+    "explanation": "L'ubichinone (coenzima Q) è un composto terpenico onnipresente negli eucarioti; riducendosi a ubichinolo trasporta elettroni e, a differenza delle proteine Fe-S, anche protoni dalla matrice verso lo spazio intermembrana.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.84"
+  },
+  {
+    "id": "bvg-res-citocromi-fes-032",
+    "topic": "biologia-vegetale",
+    "question": "Cosa distingue i citocromi dalle proteine ferro-zolfo (Fe-S) nella catena di trasporto?",
+    "suggestion": "La differenza sta in come il ferro è legato: dentro un anello o direttamente alla proteina.",
+    "options": [
+      "Entrambi sono privi di ferro e trasportano soltanto protoni",
+      "I citocromi hanno ferro non eme legato a cisteine, le Fe-S un gruppo eme porfirinico",
+      "I citocromi hanno ferro in un gruppo eme, le Fe-S ferro non eme legato alla proteina"
+    ],
+    "correctIndex": 2,
+    "explanation": "I citocromi contengono ferro all'interno di un gruppo eme (anello porfirinico), mentre le proteine Fe-S contengono ferro non eme legato direttamente alla proteina tramite cisteine. Entrambi trasportano elettroni lungo la catena.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.84"
+  },
+  {
+    "id": "bvg-res-complessi-ordine-033",
+    "topic": "biologia-vegetale",
+    "question": "Da quale coenzima riceve gli elettroni il complesso I e da quale il complesso II?",
+    "suggestion": "Il coenzima a più alta energia entra 'prima', al complesso I.",
+    "options": [
+      "Il complesso I dal FADH2, il complesso II dal NADH2",
+      "Entrambi i complessi ricevono gli elettroni direttamente dall'ossigeno",
+      "Il complesso I dal NADH2, il complesso II dal FADH2 (via succinico deidrogenasi)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il complesso I riceve gli elettroni dal NADH2, il complesso II dal FADH2 (tramite la succinico deidrogenasi). Entrambi li cedono all'ubichinone, poi al complesso III, al citocromo c e infine al complesso IV, che li dona all'ossigeno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.84"
+  },
+  {
+    "id": "bvg-res-gradiente-componenti-034",
+    "topic": "biologia-vegetale",
+    "question": "Da quali due componenti è costituito il gradiente elettrochimico protonico (ΔμH) mitocondriale?",
+    "suggestion": "Una parte è dovuta alle cariche, l'altra alla concentrazione di H+.",
+    "options": [
+      "Da un gradiente elettrico (ΔΨ) e da un gradiente di pH (ΔpH)",
+      "Da un gradiente di temperatura e da uno di pressione osmotica",
+      "Dal solo gradiente di concentrazione del glucosio tra i due lati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il gradiente elettrochimico protonico (ΔμH) è la somma di un gradiente elettrico (ΔΨ, diversa distribuzione di cariche) e di un gradiente di pH (ΔpH, diversa concentrazione di protoni tra matrice e spazio intermembrana).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.85"
+  },
+  {
+    "id": "bvg-res-protoni-atp-035",
+    "topic": "biologia-vegetale",
+    "question": "Quanti protoni servono mediamente per sintetizzare una molecola di ATP e quanti ne estrude il NADH2?",
+    "suggestion": "Servono pochi protoni per ATP; ogni coppia di elettroni del NADH ne estrude molti.",
+    "options": [
+      "Servono 10 protoni per ATP, e il NADH2 ne estrude soltanto 3",
+      "Servono circa 3 protoni per ATP, e il NADH2 ne estrude circa 10",
+      "Serve 1 solo protone per ATP, e il NADH2 non ne estrude alcuno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mediamente occorrono circa 3 protoni per sintetizzare 1 ATP. Ogni NADH2 provoca l'estrusione di circa 10 protoni, permettendo la sintesi di 3 ATP; il FADH2, entrando più in basso nella catena, ne rende solo 2.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.85"
+  },
+  {
+    "id": "bvg-res-atpsintasi-reversibile-036",
+    "topic": "biologia-vegetale",
+    "question": "In quali condizioni l'ATP sintasi può funzionare in senso inverso, come ATP idrolasi?",
+    "suggestion": "Il verso della reazione dipende dall'energia libera disponibile.",
+    "options": [
+      "Quando la temperatura della matrice mitocondriale scende bruscamente",
+      "In nessun caso, perché la sintesi di ATP è del tutto irreversibile",
+      "Quando il ΔG rende sfavorevole la sintesi: l'enzima idrolizza ATP pompando protoni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quando la variazione di energia libera (ΔG) rende sfavorevole la sintesi di ATP, l'ATP sintasi può funzionare al contrario, come ATP idrolasi, idrolizzando ATP per pompare protoni attraverso la membrana: il meccanismo è reversibile e dipende dal ΔG.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.85"
   }
 ]

@@ -312,5 +312,323 @@
     "explanation": "La proposta 'Half-Earth' di E.O. Wilson suggerisce di proteggere il 50% della superficie terrestre per garantire la sopravvivenza di circa l'85% delle specie. Rientra in una strategia integrata di maggiore conservazione e di produzione e consumo più sostenibili.",
     "difficulty": "easy",
     "source": "Biodiversità vegetale.pdf p.58"
+  },
+  {
+    "id": "bdv-cons-definizione-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo la definizione di E.O. Wilson (1988), che cosa comprende la biodiversità?",
+    "suggestion": "Non si ferma alla singola specie: pensa a tutti i livelli, dalle varianti dei geni fino agli interi ecosistemi.",
+    "options": [
+      "La varietà degli organismi a tutti i livelli, dalle varianti genetiche fino alle specie e agli ecosistemi",
+      "Il solo numero di specie animali e vegetali che vivono oggi sulla Terra, senza le loro varianti genetiche",
+      "Unicamente la varietà delle categorie tassonomiche superiori, come generi, famiglie, ordini e regni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per Wilson la biodiversità è la varietà degli organismi a tutti i livelli, dalle varianti genetiche entro una specie fino alle specie, ai livelli tassonomici superiori e agli ecosistemi: in sintesi, la varietà della vita sulla Terra. Non si riduce quindi al conteggio delle specie né ai soli livelli tassonomici alti.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.53"
+  },
+  {
+    "id": "bdv-cons-genesi-genetica-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Attraverso quali processi si genera principalmente la diversità genetica di una popolazione?",
+    "suggestion": "Pensa a ciò che rimescola e modifica il DNA da una generazione all'altra, non a ciò che lo impoverisce.",
+    "options": [
+      "Attraverso la sola propagazione clonale, che mantiene identico il patrimonio genetico degli individui",
+      "Attraverso la deriva genetica e la frammentazione dell'habitat, che ne ampliano la variabilità",
+      "Attraverso la riproduzione sessuata e la ricombinazione, le mutazioni e la trasmissione genica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La diversità genetica si genera con la riproduzione sessuata e la ricombinazione, le mutazioni e la trasmissione genica (ad es. nei batteri). La propagazione clonale non crea nuove varianti; la riduzione della popolazione e la frammentazione dell'habitat, al contrario, causano perdita di diversità genetica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.53"
+  },
+  {
+    "id": "bdv-cons-fill-areale-025",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'area geografica in cui una specie è naturalmente presente è detta suo ___.",
+    "answers": [["areale", "areali"]],
+    "suggestion": "È l'estensione naturale di distribuzione di una specie, da cui essa può scomparire del tutto o in gran parte.",
+    "explanation": "L'areale è l'area geografica in cui una specie è naturalmente presente. Una specie in pericolo rischia l'estinzione a breve termine da tutto il proprio areale o da gran parte di esso.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-ricchezza-mondiale-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale gruppo di organismi rappresenta la quota maggiore di specie finora descritte?",
+    "suggestion": "Un solo grande gruppo supera i tre quarti delle specie note, trainato soprattutto da una classe di invertebrati.",
+    "options": [
+      "Le piante, con circa il 15% delle specie descritte e all'incirca 270.000 specie note",
+      "Gli animali, con circa il 76% delle specie descritte, di cui gli insetti la grande maggioranza",
+      "I funghi, che da soli superano la metà di tutte le specie finora descritte sul pianeta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli animali costituiscono circa il 75,7% delle specie conosciute (circa 1.324.000), e gli insetti da soli ne rappresentano il 72,7%. Le piante sono circa il 15,4% (circa 270.000 specie). I funghi non superano la metà delle specie descritte.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.53"
+  },
+  {
+    "id": "bdv-cons-servizi-categorie-027",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali quattro categorie principali si possono raggruppare i servizi ecosistemici?",
+    "suggestion": "Riguardano ciò che gli ecosistemi producono, ciò che regolano, ciò che offrono alla cultura umana e ciò che sostiene gli altri servizi.",
+    "options": [
+      "Diversità genetica, diversità specifica, diversità ecosistemica e diversità funzionale",
+      "Estrazione mineraria, urbanizzazione, agricoltura intensiva e pesca commerciale su vasta scala",
+      "Produzioni, regolazione dei processi ambientali, servizi culturali e servizi di supporto agli altri"
+    ],
+    "correctIndex": 2,
+    "explanation": "I servizi ecosistemici sono i benefici che l'uomo ottiene dagli ecosistemi e si raggruppano in quattro categorie: produzioni, regolazione dei processi ambientali, servizi culturali e servizi indiretti di supporto ad altri servizi. La prima opzione elenca invece i livelli della biodiversità.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.54"
+  },
+  {
+    "id": "bdv-cons-foreste-spugna-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché le foreste ben conservate sono considerate un importante servizio ecosistemico di regolazione?",
+    "suggestion": "Pensa a come una foresta gestisce l'acqua piovana e il carbonio dell'atmosfera, non ai prodotti che se ne ricavano.",
+    "options": [
+      "Perché esercitano un effetto 'spugna', assorbendo e disperdendo l'acqua e fissando il diossido di carbonio",
+      "Perché producono direttamente la maggior parte dei principi attivi medicinali impiegati dall'uomo",
+      "Perché accelerano l'erosione del suolo, favorendo un rapido ricambio dei minerali nutritivi disponibili"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i servizi indiretti, le foreste esercitano un effetto 'spugna' assorbendo e disperdendo l'acqua e fissano la CO₂; gli ecosistemi ben conservati prevengono (non accelerano) l'erosione del suolo. La produzione di principi attivi medicinali è invece un servizio diretto legato agli organismi in generale.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.54"
+  },
+  {
+    "id": "bdv-cons-funzionale-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa aggiunge la biodiversità funzionale rispetto ai livelli genetico, specifico ed ecosistemico?",
+    "suggestion": "Non è un quarto elenco di elementi, ma riguarda ciò che accade fra e dentro i tre livelli già noti.",
+    "options": [
+      "Il semplice conteggio del numero totale di specie presenti in ciascuno degli ecosistemi",
+      "La classificazione tassonomica gerarchica degli organismi in regni, phyla, classi e famiglie",
+      "La diversità delle interazioni che si esplicano all'interno e fra i tre livelli precedenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La biodiversità funzionale è la diversità delle interazioni che si esplicano dentro e fra i tre livelli (genetico, specifico ed ecosistemico): interazioni tra specie, tra specie e ambiente, combinazioni e frequenze geniche. Non è né un conteggio di specie né una classificazione tassonomica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.54"
+  },
+  {
+    "id": "bdv-cons-gruppi-tassonomici-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale abbinamento tra gruppo vegetale e sua caratteristica distintiva è corretto?",
+    "suggestion": "Ricorda chi ha i vasi conduttori e chi no, e chi produce semi (nudi o racchiusi in un frutto) e chi no.",
+    "options": [
+      "Gimnosperme = piante con semi racchiusi in un frutto; angiosperme = piante a semi nudi",
+      "Pteridofite = piante vascolari prive di semi; briofite = piante non vascolari come i muschi",
+      "Briofite = piante vascolari con fiore; gimnosperme = piante prive di tessuti conduttori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le pteridofite (es. felci) sono piante vascolari prive di semi; le briofite (muschi ed epatiche) sono piante non vascolari. Le gimnosperme hanno semi nudi e le angiosperme semi racchiusi in un frutto: la prima opzione inverte proprio questi due caratteri.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.54"
+  },
+  {
+    "id": "bdv-cons-ipotesi-ambientali-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Secondo le ipotesi ambientali, perché le zone tropicali ospitano più specie di quelle temperate?",
+    "suggestion": "Confronta energia disponibile, stabilità del clima e varietà di ambienti fra tropici e regioni temperate.",
+    "options": [
+      "Perché ai tropici la produttività, la stabilità del clima e l'eterogeneità degli habitat sono maggiori",
+      "Perché nelle zone temperate la produttività e l'energia disponibile risultano nettamente maggiori",
+      "Perché ai tropici il clima è più severo e instabile, il che stimola una rapida speciazione delle piante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le ipotesi ambientali attribuiscono la maggiore ricchezza tropicale a produttività ed energia più elevate, minore severità e maggiore stabilità del clima e maggiore eterogeneità degli habitat. Le altre opzioni invertono queste condizioni (energia maggiore alle temperate, clima tropicale severo).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-produttivita-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Che forma ha tipicamente la relazione tra diversità di specie e produttività di un ambiente?",
+    "suggestion": "Né poche risorse né troppe favoriscono la diversità: pensa a dove si colloca il valore massimo.",
+    "options": [
+      "A campana (unimodale): la diversità è massima a livelli intermedi di risorse disponibili",
+      "Lineare crescente: più risorse sono presenti, più specie coesistono, senza alcun limite superiore",
+      "Decrescente continua: la diversità risulta massima quando le risorse disponibili sono minime"
+    ],
+    "correctIndex": 0,
+    "explanation": "La relazione diversità-produttività segue spesso un andamento a campana (unimodale): a basse risorse le popolazioni sono piccole e a rischio, a risorse intermedie molte specie coesistono, ad alte risorse poche specie competitive dominano riducendo la diversità.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-atr-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa comportò la 'rivoluzione terrestre delle angiosperme' (ATR) a livello delle foglie?",
+    "suggestion": "Riguarda quante aperture per gli scambi gassosi e quante nervature compaiono per unità di superficie fogliare.",
+    "options": [
+      "Una riduzione della densità stomatica e delle venature fogliari per limitare la traspirazione",
+      "La comparsa del legno omoxilo e la contemporanea scomparsa dei vasi xilematici nelle foglie",
+      "Un aumento della densità degli stomi e delle venature, col passaggio dalle gimnosperme alle angiosperme"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ATR portò a un aumento della densità degli stomi (da 100 a 1.000 per mm²) e delle venature fogliari (da 4 a 9 mm per mm²), accompagnando il passaggio da ecosistemi dominati da gimnosperme a ecosistemi dominati da angiosperme. Non fu una riduzione, né riguarda la perdita dei vasi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-fill-esclusione-034",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "A bassi livelli di disturbo, poche specie dominano la comunità ed eliminano le altre per esclusione ___.",
+    "answers": [["competitiva"]],
+    "suggestion": "È il processo per cui la specie ecologicamente più forte estromette le altre dallo stesso habitat.",
+    "explanation": "L'esclusione competitiva è il processo per cui una specie superiore nella competizione elimina un'altra dallo stesso habitat. A basso disturbo domina questo meccanismo e la diversità è bassa; a disturbo intermedio competitori e pioniere coesistono e la diversità è massima.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.55"
+  },
+  {
+    "id": "bdv-cons-geologia-fvg-035",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo il tipo di substrato geologico influenza la flora del Friuli Venezia Giulia?",
+    "suggestion": "Collega la chimica del suolo (basica o acida) al tipo di specie che vi si insedia: amanti o fuggitive del calcare.",
+    "options": [
+      "I substrati calcareo-dolomitici ospitano specie calcifile, quelli silicei con suoli acidi specie calcifughe",
+      "I substrati calcarei ospitano soltanto specie calcifughe, mentre quelli silicei soltanto specie calcifile",
+      "I substrati silicei rendono il suolo basico e alcalino, quelli calcarei lo rendono acido e umido"
+    ],
+    "correctIndex": 0,
+    "explanation": "I sostrati calcareo-dolomitici danno suoli basici e alcalini con specie calcifile; i sostrati silicei danno suoli acidi e ambienti umidi con specie calcifughe. Le altre opzioni invertono l'associazione specie-substrato o la chimica dei suoli.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-tasso-estinzione-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Quanto è elevato il tasso di estinzione attuale delle piante rispetto al tasso di fondo pre-Antropocene?",
+    "suggestion": "L'accelerazione dovuta all'uomo è di ordini di grandezza, non di poco superiore al valore naturale.",
+    "options": [
+      "Circa il doppio del tasso naturale di estinzione di fondo pre-Antropocene",
+      "Leggermente inferiore al tasso di fondo, perché la conservazione ha già invertito la tendenza",
+      "Fino a 500 volte superiore al tasso naturale di estinzione di fondo pre-Antropocene"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il tasso di estinzione attuale delle piante è stimato fino a 500 volte superiore al tasso di estinzione di fondo pre-Antropocene (quello naturale in assenza di impatto umano). Non è quindi né il doppio né inferiore al tasso di fondo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-pericolo-minacciata-037",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la differenza tra una specie 'in pericolo' e una specie 'minacciata'?",
+    "suggestion": "Una è già sull'orlo dell'estinzione a breve; l'altra rischia di arrivarci in un secondo momento.",
+    "options": [
+      "Sono termini equivalenti: entrambi indicano una specie già completamente estinta in natura",
+      "La specie in pericolo rischia l'estinzione a breve termine, la minacciata rischia di diventarlo in futuro",
+      "La specie minacciata rischia l'estinzione a breve termine, quella in pericolo solo in un futuro remoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una specie in pericolo rischia l'estinzione a breve termine dal suo areale o da gran parte di esso; una specie minacciata corre il rischio di diventare in pericolo in un futuro prossimo. La terza opzione inverte i due concetti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.56"
+  },
+  {
+    "id": "bdv-cons-popolazione-vitale-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa individua il criterio della 'popolazione minima vitale'?",
+    "suggestion": "Non è quanti individui l'ambiente può sostenere, ma il minimo che serve alla specie per non scomparire nel tempo.",
+    "options": [
+      "Il numero massimo di individui che un habitat può sostenere prima del collasso delle sue risorse",
+      "Il numero di individui da prelevare ogni anno per mantenere costante la dimensione della popolazione",
+      "La più piccola dimensione di popolazione con ragionevole probabilità di sopravvivere nel lungo periodo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La popolazione minima vitale è la dimensione più piccola di una popolazione che ha una ragionevole probabilità di sopravvivere nel lungo periodo, e tende a preservarne la variabilità genetica. Non coincide con la capacità portante dell'habitat né con un tasso di prelievo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-estinzione-locale-039",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa esemplifica Crambe tataria, ancora presente nei magredi del Meduna e Cellina ma scomparsa dal Carso?",
+    "suggestion": "La specie non è sparita dal pianeta: è venuta a mancare solo in una porzione del territorio che occupava.",
+    "options": [
+      "Un'estinzione globale e definitiva della specie su tutto il pianeta, ormai irreversibile",
+      "Un'estinzione locale, cioè la scomparsa della specie solo da una parte del suo areale",
+      "L'arrivo di una specie aliena invasiva che ne ha preso il posto in tutto l'areale naturale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crambe tataria è un esempio di estinzione locale: la specie persiste nei magredi friulani di Meduna e Cellina ma non è più rinvenuta sul Carso. Non si tratta quindi di estinzione globale né di sostituzione da parte di una specie aliena.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-antropocene-termine-040",
+    "topic": "biodiversita-vegetale",
+    "question": "A chi si deve la proposta del termine 'Antropocene' e la sua diffusione?",
+    "suggestion": "Nasce negli anni '80 da un biologo e diventa celebre grazie a un noto scienziato dell'atmosfera nei primi anni 2000.",
+    "options": [
+      "Fu coniato da Charles Darwin nell'Ottocento e ripreso da E.O. Wilson nel 1988",
+      "Fu proposto da Eugene Stoermer negli anni '80 e reso celebre da Paul Crutzen nel 2002",
+      "Fu introdotto dall'IUCN insieme alla prima pubblicazione della Lista Rossa delle specie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il termine Antropocene fu proposto negli anni '80 dal biologo Eugene F. Stoermer e reso celebre da Paul Crutzen nel 2002. Indica l'attuale epoca geologica segnata dall'impatto crescente delle attività umane sulla biosfera.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-fill-colombiano-041",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Il trasferimento bidirezionale di piante, animali e malattie tra Vecchio e Nuovo Mondo dopo la scoperta dell'America è detto scambio ___.",
+    "answers": [["colombiano"]],
+    "suggestion": "Prende nome dal navigatore genovese che aprì la rotta atlantica verso le Americhe.",
+    "explanation": "Lo scambio colombiano è il trasferimento bidirezionale di piante, animali, malattie e tecnologie tra Vecchio e Nuovo Mondo seguito alla scoperta dell'America (Fase 3 dell'Antropocene, la 'globalizzazione 1.0').",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.57"
+  },
+  {
+    "id": "bdv-cons-grande-accelerazione-042",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza la Fase 5 dell'Antropocene, la cosiddetta 'grande accelerazione'?",
+    "suggestion": "È la fase più recente, successiva al 1945: pensa a energia e popolazione mondiale.",
+    "options": [
+      "Il forte incremento dell'uso di energia da fonti fossili e della crescita demografica dopo il 1945",
+      "L'inizio dell'agricoltura neolitica e la prima trasformazione dei paesaggi naturali in coltivi",
+      "Le prime estinzioni di grandi mammiferi dovute alla caccia e raccolta del Paleolitico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Fase 5, la 'grande accelerazione' dopo il 1945, è trainata dall'uso di energia da fonti fossili e dalla crescita della popolazione mondiale. L'agricoltura neolitica appartiene alla Fase 2 e le estinzioni paleolitiche alla Fase 1.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.58"
+  },
+  {
+    "id": "bdv-cons-torbiere-043",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale sorte hanno avuto torbiere e prati umidi in Friuli Venezia Giulia a causa dei cambiamenti d'uso del suolo?",
+    "suggestion": "Sono tra gli ambienti più penalizzati dalla trasformazione del territorio negli ultimi due secoli.",
+    "options": [
+      "Un forte aumento della loro estensione, grazie alla riduzione delle aree urbane e agricole",
+      "Una sostanziale stabilità, trattandosi di ambienti non toccati dalle attività umane della regione",
+      "Una drastica riduzione della loro superficie, registrata soprattutto tra il 1804 e il 2000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le torbiere e i prati umidi hanno subito una drastica riduzione tra il 1804 e il 2000. Nello stesso periodo (1950-2000) sono diminuite le aree agricole, sono aumentate fortemente le aree urbane e i boschi solo lievemente, mentre i prati sono rimasti abbastanza stabili.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.58"
+  },
+  {
+    "id": "bdv-cons-cause-perdita-044",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali sono considerate le principali cause di perdita di biodiversità nell'Antropocene?",
+    "suggestion": "Sono processi legati all'azione umana su territorio, clima, specie introdotte, prelievo di risorse e inquinamento.",
+    "options": [
+      "Cambiamenti d'uso del suolo, cambiamenti climatici, specie aliene, sovrasfruttamento e inquinamento",
+      "Inbreeding, deriva genetica e colli di bottiglia demografici nelle piccole popolazioni isolate",
+      "Cambiamenti d'uso del suolo, specie aliene, inquinamento e attività vulcanica sottomarina profonda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le principali cause di perdita nell'Antropocene sono i cambiamenti d'uso del suolo, i cambiamenti climatici e l'aumento di CO₂, le specie aliene, lo sfruttamento non sostenibile (sovrasfruttamento) e l'inquinamento. Inbreeding e deriva genetica sono meccanismi interni alle piccole popolazioni, non cause globali; l'attività vulcanica non rientra tra queste cause antropiche.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.58"
   }
 ]

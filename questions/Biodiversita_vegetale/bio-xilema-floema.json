@@ -298,5 +298,350 @@
     "explanation": "Il flusso floematico, essendo un flusso di massa (non semplice diffusione), è nettamente più veloce: mediamente circa 1 m/ora (0,3–1,5 m/ora). La diffusione pura sarebbe lentissima su lunghe distanze. La velocità si misura con CO2 marcata o sonde fluorescenti.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.77"
+  },
+  {
+    "id": "bvg-xf-polarita-021",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa deriva la capacità dell'acqua di formare legami idrogeno tra le sue molecole?",
+    "suggestion": "Dipende dalla distribuzione asimmetrica delle cariche nella molecola.",
+    "options": [
+      "Dalla sua polarità: l'ossigeno attrae gli elettroni condivisi, creando poli parzialmente positivi e negativi",
+      "Dalla sua apolarità, che rende uniforme la distribuzione delle cariche su tutta la molecola",
+      "Dalla presenza di ioni disciolti, senza i quali le molecole d'acqua non interagiscono tra loro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La molecola d'acqua è polare: l'ossigeno attira maggiormente gli elettroni condivisi, generando regioni debolmente negative (sull'ossigeno) e positive (sugli idrogeni). Questa polarità permette i legami idrogeno tra molecole adiacenti e conferisce all'acqua un alto potere solvatante.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.69"
+  },
+  {
+    "id": "bvg-xf-colligative-022",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa dipendono le proprietà colligative di una soluzione, come l'abbassamento del punto di congelamento?",
+    "suggestion": "Contano quante particelle di soluto ci sono, non che tipo di sostanza siano.",
+    "options": [
+      "Dalla natura chimica specifica del soluto disciolto, indipendentemente dal suo numero",
+      "Dal solo volume del solvente, indipendentemente dalla quantità di soluto presente",
+      "Dal numero di particelle di soluto disciolte, e non dalla loro natura chimica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le proprietà colligative (es. abbassamento del punto di congelamento, innalzamento del punto di ebollizione) dipendono dal numero di particelle di soluto disciolte, non dalla loro natura chimica. L'acqua con i soluti disciolti si comporta come una soluzione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.69"
+  },
+  {
+    "id": "bvg-xf-menisco-023",
+    "topic": "biologia-vegetale",
+    "question": "Perché il menisco dell'acqua in un tubo capillare risulta concavo?",
+    "suggestion": "Dipende da quale forza prevale tra adesione alle pareti e coesione interna.",
+    "options": [
+      "Perché le forze di coesione tra le molecole prevalgono nettamente su quelle di adesione alle pareti",
+      "Perché le forze di adesione alle pareti prevalgono su quelle di coesione tra le molecole",
+      "Perché l'acqua è priva di tensione superficiale e non aderisce ad alcuna superficie solida"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il menisco (superficie curva del liquido in un capillare) è concavo quando le forze di adesione dell'acqua alle pareti prevalgono su quelle di coesione interne. Dall'azione combinata di adesione e coesione derivano la risalita capillare e la tensione superficiale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.69"
+  },
+  {
+    "id": "bvg-xf-vantaggio-terra-024",
+    "topic": "biologia-vegetale",
+    "question": "Quale 'scotto' ha comportato per le piante il passaggio evolutivo dalla vita acquatica alle terre emerse?",
+    "suggestion": "Guadagnarono efficienza d'uso di CO2, luce e nutrienti, ma persero qualcosa di prima abbondante.",
+    "options": [
+      "L'impossibilità di sfruttare i nutrienti concentrati nel suolo, che restano dispersi come in acqua",
+      "La perdita totale della capacità fotosintetica, sostituita dall'assorbimento diretto di sostanza organica",
+      "Vivere in un ambiente in cui l'acqua può diventare un fattore limitante, con rischio di disidratazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "La conquista delle terre emerse diede vantaggi (migliore efficienza d'uso di CO2, luce e nutrienti concentrati nel suolo), ma comportò lo 'scotto' di vivere dove l'acqua può essere limitante: da qui la necessità di protezione contro la disidratazione e di un sistema di trasporto a lunga distanza.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-forma-guardia-025",
+    "topic": "biologia-vegetale",
+    "question": "Quale forma assumono tipicamente le cellule di guardia nelle graminacee e quale nelle dicotiledoni?",
+    "suggestion": "In un gruppo hanno un profilo 'a manubrio', nell'altro un profilo a fagiolo.",
+    "options": [
+      "A manubrio nelle graminacee e reniforme nelle dicotiledoni",
+      "Reniforme nelle graminacee e a manubrio nelle dicotiledoni",
+      "Sferica in entrambe, senza alcuna differenza di forma tra i due gruppi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le cellule di guardia hanno forma 'a manubrio' nelle graminacee e forma reniforme (a fagiolo) nelle dicotiledoni. In entrambi i casi le microfibrille di cellulosa disposte radialmente permettono l'apertura del poro per inarcamento della cellula rigonfia.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-temperatura-stomi-026",
+    "topic": "biologia-vegetale",
+    "question": "Quale effetto hanno sulle cellule di guardia le temperature superiori a 30-35 °C?",
+    "suggestion": "Ad alte temperature la pianta tende a proteggersi dalla perdita d'acqua.",
+    "options": [
+      "Provocano l'apertura permanente degli stomi per dissipare calore tramite maggiore traspirazione",
+      "Non hanno alcun effetto sugli stomi, che rispondono solo alla luce e mai alla temperatura",
+      "Tendono a far chiudere gli stomi, come avviene anche al buio e in carenza idrica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli stomi tendono a chiudersi a temperature superiori a 30-35 °C. La chiusura è indotta anche da buio, bassa disponibilità idrica, alta CO2 nel mesofillo e acido abscissico; l'apertura è favorita da luce, acqua abbondante e bassa CO2 interna.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.70"
+  },
+  {
+    "id": "bvg-xf-99percento-027",
+    "topic": "biologia-vegetale",
+    "question": "Delle grandi quantità di acqua assorbite dalla pianta, per quali vie viene persa la parte di gran lunga maggiore?",
+    "suggestion": "Quasi tutta l'acqua assorbita se ne va; una via domina nettamente sull'altra.",
+    "options": [
+      "Circa il 99% viene persa: il 90% per traspirazione attraverso gli stomi e il resto attraverso la cuticola",
+      "Solo circa il 10% viene persa, quasi interamente attraverso la cuticola e non dagli stomi",
+      "Circa il 99% viene persa esclusivamente attraverso le radici, e nulla dalle parti aeree"
+    ],
+    "correctIndex": 0,
+    "explanation": "Circa il 99% dell'acqua assorbita viene persa: di questa, il 90% esce per traspirazione attraverso gli stomi e la parte restante attraverso la cuticola. Solo una minima frazione è trattenuta e usata dalla pianta.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.71"
+  },
+  {
+    "id": "bvg-xf-strato-limite-028",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è lo 'strato limite' che si forma sull'epidermide fogliare e come influenza la traspirazione?",
+    "suggestion": "È un velo d'aria a contatto con la foglia, favorito dall'assenza di vento.",
+    "options": [
+      "Uno strato di cere impermeabili prodotto dagli stomi che blocca del tutto l'uscita del vapore acqueo",
+      "Uno strato d'aria satura di vapore acqueo presso la superficie fogliare, che riduce la velocità di diffusione dei gas",
+      "Uno strato di cellule morte suberificate che stacca la foglia dal fusto durante l'abscissione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo strato limite è un sottile strato d'aria satura di vapore acqueo che si forma presso la superficie fogliare in assenza di vento: riduce la velocità di diffusione dei gas (e quindi la traspirazione). Il vento forte lo assottiglia, rimescolando l'aria e favorendo la traspirazione.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.71"
+  },
+  {
+    "id": "bvg-xf-tre-fasi-evapo-029",
+    "topic": "biologia-vegetale",
+    "question": "In quali tre fasi successive si articola l'evapo-traspirazione fogliare?",
+    "suggestion": "Dai vasi al mesofillo, poi il passaggio di stato, infine l'uscita dallo stoma.",
+    "options": [
+      "Evaporazione nello xilema radicale, risalita capillare nel fusto e condensazione finale nelle nervature",
+      "Assorbimento di CO2 dallo stoma, fissazione nel cloroplasto e rilascio di ossigeno dalla cuticola",
+      "Diffusione dell'acqua dalle nervature al mesofillo, evaporazione sulle cellule del tessuto lacunoso, diffusione del vapore attraverso gli stomi"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'evapo-traspirazione avviene in tre fasi: (1) diffusione dell'acqua dai tessuti conduttori (nervature) alle cellule del mesofillo; (2) evaporazione (liquido→vapore) sulle superfici delle cellule del tessuto lacunoso; (3) diffusione del vapore acqueo attraverso gli stomi verso l'atmosfera.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.71"
+  },
+  {
+    "id": "bvg-xf-menisco-suzione-030",
+    "topic": "biologia-vegetale",
+    "question": "Secondo la relazione Ψp = −2T/r, che cosa accade alla pressione idrostatica quando il raggio di curvatura del menisco diminuisce?",
+    "suggestion": "La tensione superficiale resta costante mentre il denominatore si riduce.",
+    "options": [
+      "Diventa sempre più negativa, generando una forza di suzione crescente",
+      "Diventa sempre più positiva, spingendo l'acqua fuori dalle cellule del mesofillo",
+      "Rimane costante, perché non dipende dal raggio di curvatura del menisco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella relazione Ψp = −2T/r la tensione superficiale (T) è costante: quando l'acqua evapora, il raggio di curvatura (r) del menisco diminuisce e la pressione idrostatica diventa sempre più negativa, generando una forza di suzione crescente che richiama acqua.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.71"
+  },
+  {
+    "id": "bvg-xf-vento-031",
+    "topic": "biologia-vegetale",
+    "question": "In che modo un vento forte agisce sulla traspirazione fogliare?",
+    "suggestion": "Agisce proprio sullo strato d'aria satura a ridosso della superficie.",
+    "options": [
+      "La riduce, ispessendo lo strato limite di aria umida attorno alla foglia",
+      "La favorisce, rimescolando gli strati d'aria e riducendo lo spessore dello strato limite",
+      "Non ha alcun effetto, poiché la traspirazione dipende solo dalla temperatura del suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il vento forte rimescola gli strati d'aria a contatto con la foglia, riducendo lo spessore dello strato limite (aria satura di vapore) e favorendo così la traspirazione. Umidità dell'aria e temperatura sono gli altri fattori ambientali che la controllano.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.71"
+  },
+  {
+    "id": "bvg-xf-velocita-xilema-032",
+    "topic": "biologia-vegetale",
+    "question": "Come varia la velocità del flusso xilematico con il diametro dei vasi conduttori?",
+    "suggestion": "Vasi più larghi lasciano scorrere la linfa molto più velocemente.",
+    "options": [
+      "È indipendente dal diametro dei vasi: resta costante attorno a 1 metro all'ora in ogni pianta",
+      "È maggiore nei vasi di piccolo diametro (16-45 m/h) e minore in quelli di grande diametro (1-6 m/h)",
+      "È maggiore nei vasi di grande diametro (16-45 m/h) e minore in quelli di piccolo diametro (1-6 m/h)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La velocità del flusso xilematico dipende dal diametro dei vasi: nelle piante con vasi di grande diametro raggiunge 16-45 m/h, mentre in quelle con vasi più stretti si riduce a 1-6 m/h. Ciò riflette la forte dipendenza del flusso dal raggio del condotto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.72"
+  },
+  {
+    "id": "bvg-xf-fosfato-luce-033",
+    "topic": "biologia-vegetale",
+    "question": "Quale osservazione dimostra che l'assorbimento del fosfato da parte della radice è un processo attivo?",
+    "suggestion": "Il suo andamento segue la disponibilità di energia legata alla fotosintesi.",
+    "options": [
+      "L'assorbimento di fosfato aumenta nei periodi di buio prolungato e si arresta con il ritorno della luce",
+      "L'assorbimento di fosfato diminuisce nei periodi di buio prolungato e riprende rapidamente col ritorno della luce",
+      "L'assorbimento di fosfato è costante giorno e notte, del tutto indipendente dalla luce"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'assorbimento del fosfato diminuisce durante i periodi di buio prolungato e riprende rapidamente al ritorno della luce, seguendo la disponibilità di energia prodotta dalla fotosintesi: ciò dimostra che è un processo attivo, dipendente dal metabolismo energetico della pianta.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.72-73"
+  },
+  {
+    "id": "bvg-xf-micorrize-034",
+    "topic": "biologia-vegetale",
+    "question": "Quale differenza distingue le ectomicorrize dalle endomicorrize vescicolo-arbuscolari?",
+    "suggestion": "Cambia se il fungo entra o no dentro le cellule della radice.",
+    "options": [
+      "Nelle ectomicorrize il fungo avvolge esternamente le radici senza penetrare nelle cellule; nelle endomicorrize penetra all'interno delle cellule radicali",
+      "Nelle ectomicorrize il fungo penetra nelle cellule radicali; nelle endomicorrize si limita ad avvolgerle esternamente",
+      "In entrambe il fungo resta nel suolo senza mai contattare le radici, scambiando nutrienti a distanza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle ectomicorrize il fungo avvolge esternamente le radici senza penetrare nelle cellule; nelle endomicorrize vescicolo-arbuscolari il fungo penetra all'interno delle cellule radicali, formando strutture per lo scambio di nutrienti. Le micorrize migliorano soprattutto l'assorbimento del fosfato, poco disponibile nel suolo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.73"
+  },
+  {
+    "id": "bvg-xf-pressione-radicale-035",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa origina la pressione radicale e in quali condizioni è più rilevabile?",
+    "suggestion": "Nasce dall'accumulo di soluti nel cilindro centrale, isolato dalla banda del Caspary.",
+    "options": [
+      "Dall'evaporazione dalle foglie, ed è massima di giorno con stomi aperti e forte traspirazione",
+      "Dalla concentrazione di soluti nel cilindro centrale, che richiama acqua per osmosi, ed è più rilevabile di notte con stomi chiusi",
+      "Dalla pressione atmosferica sulle foglie, ed è misurabile solo nelle piante prive di radici"
+    ],
+    "correctIndex": 1,
+    "explanation": "La concentrazione di soluti nel cilindro centrale (resa possibile dalla banda del Caspary) genera una pressione osmotica che richiama acqua: nasce così la pressione radicale, di entità modesta ma più rilevabile di notte (stomi chiusi, metabolismo rallentato) o quando la pianta è priva di chioma. Contribuisce a guttazione e refilling.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.73"
+  },
+  {
+    "id": "bvg-xf-sollevamento-036",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa consiste il sollevamento idraulico (montacarichi idraulico) operato da certi alberi?",
+    "suggestion": "Riguarda il trasferimento di acqua profonda a beneficio di piante vicine.",
+    "options": [
+      "Alberi con radici profonde richiamano acqua dagli orizzonti vicini alla falda e la rendono disponibile alle piante circostanti a radici superficiali",
+      "Alberi con radici superficiali spingono l'acqua piovana verso gli strati profondi del suolo per ricaricare la falda",
+      "Alberi che assorbono vapore acqueo dall'atmosfera attraverso le foglie e lo trasferiscono al suolo tramite le radici"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel sollevamento idraulico alberi con apparato radicale profondo richiamano acqua dagli orizzonti profondi (vicini alla falda) e la mettono a disposizione delle piante circostanti a radici più superficiali. È dimostrato dalla maggiore percentuale di acqua non meteorica nei tessuti delle erbacee vicine alla base dell'albero.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.73"
+  },
+  {
+    "id": "bvg-xf-floema-angio-037",
+    "topic": "biologia-vegetale",
+    "question": "Come è organizzato il floema delle angiosperme quanto a elementi conduttori e placche cribrose?",
+    "suggestion": "Tubi continui con placche a pori aperti; presente una proteina protettiva specifica.",
+    "options": [
+      "Cellule cribrose con sole aree cribrose e pori delimitati da membrane, prive della proteina P",
+      "Tubi cribrosi con placche cribrose a pori aperti, dotati di proteina P (assente solo in alcune monocotiledoni)",
+      "Vasi xilematici lignificati e morti, privi di placche cribrose e di continuità simplastica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle angiosperme il floema è formato da tubi cribrosi con aree e placche cribrose i cui pori risultano aperti, ed è presente la proteina P (assente solo in alcune monocotiledoni). Le gimnosperme hanno invece cellule cribrose con sole aree cribrose a pori delimitati da membrane e prive di proteina P.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.75"
+  },
+  {
+    "id": "bvg-xf-albuminose-038",
+    "topic": "biologia-vegetale",
+    "question": "Nelle gimnosperme, quali cellule sostituiscono le cellule compagne come fonte di ATP e metaboliti per gli elementi conduttori del floema?",
+    "suggestion": "Hanno un nome che richiama l'albume; affiancano le cellule cribrose.",
+    "options": [
+      "Le transfer cells, dotate di introflessioni della parete per assorbire soluti dall'apoplasto",
+      "Le cellule intermedie, ricche di plasmodesmi e di piccoli vacuoli",
+      "Le cellule albuminose, che affiancano le cellule cribrose"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle gimnosperme le cellule albuminose sostituiscono le cellule compagne come fonte di ATP e metaboliti per gli elementi cribrosi. Transfer cells, cellule compagne comuni e cellule intermedie sono invece i tre tipi di cellule compagne delle angiosperme.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.75"
+  },
+  {
+    "id": "bvg-xf-transfer-cells-039",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza le transfer cells rispetto agli altri tipi di cellule compagne?",
+    "suggestion": "Massimizzano la superficie di membrana per prelevare soluti dallo spazio esterno alle cellule.",
+    "options": [
+      "Presentano numerose introflessioni della parete che ne aumentano la superficie, per assorbire soluti dall'apoplasto",
+      "Sono prive di parete e di plasmodesmi, e prelevano i soluti direttamente dallo xilema adiacente",
+      "Possiedono numerosi plasmodesmi che le rendono adatte a un caricamento prevalentemente simplastico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le transfer cells hanno numerose introflessioni della parete cellulare che ne aumentano la superficie, specializzandole nell'assorbimento dei soluti dall'apoplasto. Le cellule intermedie, invece, hanno molti plasmodesmi e favoriscono il trasporto simplastico; le cellule compagne comuni hanno pochi plasmodesmi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.75"
+  },
+  {
+    "id": "bvg-xf-callosio-040",
+    "topic": "biologia-vegetale",
+    "question": "Come si differenziano proteina P e callosio nella rimarginazione delle ferite del tubo cribroso?",
+    "suggestion": "Una agisce all'istante, l'altro consolida l'occlusione col tempo.",
+    "options": [
+      "La proteina P deposita lignina nelle pareti; il callosio è un enzima che idrolizza il saccarosio in eccesso",
+      "La proteina P occlude subito i pori danneggiati; il callosio è una risposta a più lungo termine che consolida l'occlusione",
+      "Il callosio agisce immediatamente occludendo i pori; la proteina P interviene solo dopo giorni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei sistemi di rimarginazione dei tubi cribrosi la proteina P agisce con effetto immediato, occludendo rapidamente i pori danneggiati, mentre il callosio (polisaccaride) rappresenta una risposta a più lungo termine, che consolida progressivamente l'occlusione del danno.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.75"
+  },
+  {
+    "id": "bvg-xf-afidi-041",
+    "topic": "biologia-vegetale",
+    "question": "Perché lo stiletto dell'apparato boccale degli afidi è utile per analizzare il succo floematico?",
+    "suggestion": "Permette un prelievo mirato senza rovinare la linfa raccolta.",
+    "options": [
+      "Perché stimola i tubi cribrosi a produrre più zuccheri, aumentando la resa del campione prelevato",
+      "Perché miscela la linfa floematica con quella xilematica, fornendo un campione medio delle due",
+      "Perché consente di prelevare linfa direttamente dai tubi cribrosi senza alterarne significativamente la composizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli afidi inseriscono lo stiletto pungente-succhiante direttamente nei tubi cribrosi: recidendolo si può prelevare la linfa elaborata senza alterarne significativamente la composizione. Le analisi (es. su Ricinus communis) mostrano un succo ricco di zuccheri (80-106 mg/ml), poi amminoacidi, acidi organici e ioni.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.75"
+  },
+  {
+    "id": "bvg-xf-pi-atp-042",
+    "topic": "biologia-vegetale",
+    "question": "Come influisce il rapporto tra fosfato inorganico (Pi) e ATP sulla ripartizione degli zuccheri nella cellula?",
+    "suggestion": "Molto Pi e poco ATP spingono lo zucchero fuori; il contrario lo trattiene come amido.",
+    "options": [
+      "Alto Pi e basso ATP favoriscono l'esportazione degli zuccheri; basso Pi e alto ATP ne favoriscono l'accumulo come amido",
+      "Alto Pi e basso ATP favoriscono l'accumulo di amido; basso Pi e alto ATP ne favoriscono l'esportazione",
+      "Il rapporto Pi/ATP non influenza gli zuccheri, che vengono sempre esportati in egual misura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un'elevata concentrazione di fosfato inorganico (Pi) con basso ATP favorisce l'esportazione degli zuccheri dalla cellula; un basso Pi con alto ATP ne favorisce l'accumulo come amido. L'enzima chiave è l'antiporto Pi/trioso fosfati sulla membrana interna del cloroplasto.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.74"
+  },
+  {
+    "id": "bvg-xf-scaricamento-vie-043",
+    "topic": "biologia-vegetale",
+    "question": "In quali tessuti prevale rispettivamente lo scaricamento floematico per via simplastica e quello per via apoplastica?",
+    "suggestion": "Uno serve tessuti in forte crescita, l'altro semi ed embrioni o accumulatori di saccarosio.",
+    "options": [
+      "La via simplastica prevale in embrioni e semi; la via apoplastica in apici meristematici e foglie giovani",
+      "La via simplastica prevale in tessuti in forte accrescimento (apici, foglie giovani); la via apoplastica in embrioni, semi e piante accumulatrici di saccarosio",
+      "Entrambe le vie operano solo nelle radici, mai negli apici, nei semi o nei frutti in sviluppo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo scaricamento simplastico è tipico dei tessuti in forte accrescimento o accumulo di amido (apici meristematici, foglie giovani); quello apoplastico è tipico di embrioni in sviluppo, semi e piante accumulatrici di saccarosio come barbabietola (Beta) e canna da zucchero (Saccharum).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.77"
   }
 ]

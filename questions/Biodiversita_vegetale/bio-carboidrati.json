@@ -179,5 +179,187 @@
     "explanation": "Le emicellulose (es. xiloglucani, arabani) sono oligomeri eterogenei che compongono la porzione di matrice della parete, distinta dalla componente fibrillare (la cellulosa). La cementazione intercellulare è invece compito delle pectine.",
     "difficulty": "medium",
     "source": "Biologia veg.pdf p.5"
+  },
+  {
+    "id": "bvg-carb-fill-esoso-013",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Un monosaccaride costituito da sei atomi di carbonio (C6H12O6), come il glucosio, è chiamato ___.",
+    "answers": [
+      [
+        "esoso",
+        "esosi"
+      ]
+    ],
+    "suggestion": "I triosi ne hanno tre, i pentosi cinque.",
+    "explanation": "In base al numero di atomi di carbonio i monosaccaridi si dicono triosi (C3), tetrosi, pentosi (C5) ed esosi (C6): glucosio, fruttosio, mannosio e galattosio sono esosi.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-carb-ribosio-014",
+    "topic": "biologia-vegetale",
+    "question": "Quale pentoso è un costituente essenziale dell'RNA?",
+    "suggestion": "È uno zucchero a cinque atomi di carbonio.",
+    "options": [
+      "Il glucosio",
+      "Il ribosio",
+      "Il galattosio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il ribosio è un pentoso (C5) ed è un costituente essenziale dell'RNA. Glucosio e galattosio sono invece esosi (C6).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-carb-fill-asimmetrico-015",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Un atomo di carbonio legato a quattro sostituenti tutti diversi tra loro, che rende lo zucchero chirale, è detto carbonio ___.",
+    "answers": [
+      [
+        "asimmetrico",
+        "asimmetrici"
+      ]
+    ],
+    "suggestion": "Rende la molecola non sovrapponibile alla propria immagine speculare.",
+    "explanation": "Un carbonio asimmetrico è legato a quattro sostituenti diversi: la sua presenza rende la molecola chirale, cioè non sovrapponibile alla propria immagine speculare.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.3"
+  },
+  {
+    "id": "bvg-carb-piranosica-016",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue la forma piranosica del glucosio dalla forma furanosica del fruttosio?",
+    "suggestion": "La differenza sta nel numero di atomi che compongono l'anello.",
+    "options": [
+      "La piranosica ha un anello a sei termini, la furanosica un anello a cinque termini",
+      "La piranosica è una forma lineare, la furanosica una forma ciclica",
+      "La piranosica contiene fruttosio, la furanosica contiene glucosio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La forma piranosica (tipica del glucosio) ha un anello a sei termini, quella furanosica (tipica del fruttosio) un anello a cinque termini.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-glicosidico-017",
+    "topic": "biologia-vegetale",
+    "question": "Come si forma e come si rompe il legame glicosidico tra due monosaccaridi?",
+    "suggestion": "La sintesi elimina acqua tra due ossidrili; un enzima specifico scinde il saccarosio.",
+    "options": [
+      "Si forma per idrolisi, con aggiunta d'acqua, e si rompe per deidratazione",
+      "Si forma per deidratazione e si rompe per idrolisi, catalizzata nel saccarosio dall'invertasi",
+      "Si forma e si rompe per ossidazione del carbonio anomerico terminale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il legame glicosidico si forma per sintesi per deidratazione tra l'ossidrile anomerico di uno zucchero e un ossidrile di un altro; si rompe per idrolisi, che nel saccarosio è catalizzata dall'invertasi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-saccarosio-018",
+    "topic": "biologia-vegetale",
+    "question": "Da quali monosaccaridi è costituito il saccarosio e con quale legame?",
+    "suggestion": "Uno dei due monomeri è un chetoso.",
+    "options": [
+      "Da due glucosi uniti da un legame α 1→4",
+      "Da galattosio e glucosio uniti da un legame β 1→4",
+      "Da glucosio e fruttosio uniti da un legame α 1→2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il saccarosio è formato da glucosio e fruttosio uniti da un legame glicosidico α 1→2. Due glucosi α 1→4 danno il maltosio; galattosio + glucosio β 1→4 danno il lattosio.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-lattosio-019",
+    "topic": "biologia-vegetale",
+    "question": "Da quali monosaccaridi è costituito il lattosio?",
+    "suggestion": "Uno dei due esosi è il galattosio.",
+    "options": [
+      "Da galattosio e glucosio, uniti da un legame β 1→4",
+      "Da glucosio e fruttosio, uniti da un legame α 1→2",
+      "Da due unità di fruttosio, unite da un legame β 1→2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il lattosio è formato da galattosio e glucosio uniti da un legame β 1→4. Il saccarosio è glucosio + fruttosio (α 1→2); l'inulina è un polimero del fruttosio (β 1→2).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-ciclica-reattiva-020",
+    "topic": "biologia-vegetale",
+    "question": "Perché la forma ciclica di uno zucchero è chimicamente meno reattiva della forma lineare?",
+    "suggestion": "Un gruppo funzionale che era libero viene coinvolto nel legame dell'anello.",
+    "options": [
+      "Perché nell'anello il numero di atomi di carbonio si riduce, diminuendo i siti reattivi",
+      "Perché il gruppo carbonile, impegnato nella chiusura dell'anello, non è più libero di reagire",
+      "Perché la forma ciclica perde tutti i gruppi ossidrilici presenti nella catena aperta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella chiusura dell'anello il gruppo carbonile (sul C1 del glucosio) si lega all'ossigeno del C5: impegnato nell'anello, non è più libero di reagire, così la forma ciclica è meno reattiva della lineare.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.4"
+  },
+  {
+    "id": "bvg-carb-resa-energetica-021",
+    "topic": "biologia-vegetale",
+    "question": "In termini di resa energetica per grammo, come si ordinano lipidi, proteine e zuccheri?",
+    "suggestion": "Il composto più ridotto e apolare rende di più.",
+    "options": [
+      "Lipidi (~9,1 kcal/g) > proteine (~3,8 kcal/g) > zuccheri (~3,1 kcal/g)",
+      "Zuccheri (~9,1 kcal/g) > proteine (~3,8 kcal/g) > lipidi (~3,1 kcal/g)",
+      "Proteine (~9,1 kcal/g) > lipidi (~3,8 kcal/g) > zuccheri (~3,1 kcal/g)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A parità di massa i lipidi rendono ~9,1 kcal/g, le proteine ~3,8 kcal/g e gli zuccheri ~3,1 kcal/g. L'amido, pur meno energetico dei lipidi, resta la riserva preferenziale perché osmoticamente inattivo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.5"
+  },
+  {
+    "id": "bvg-carb-callosio-022",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è il callosio?",
+    "suggestion": "Come amido e cellulosa è un polimero del glucosio, ma con un legame diverso.",
+    "options": [
+      "Un polimero del glucosio caratterizzato da legami α 1→3",
+      "Un polimero del fruttosio caratterizzato da legami β 1→2",
+      "Un polimero dell'acido galatturonico della lamella mediana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il callosio è un polimero del glucosio con legami α 1→3. L'inulina è invece un polimero del fruttosio (β 1→2); le pectine sono polimeri dell'acido galatturonico.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.5"
+  },
+  {
+    "id": "bvg-carb-pectati-023",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa si forma quando i gruppi carbossilici dell'acido pectico vengono salificati con ioni calcio o magnesio?",
+    "suggestion": "Si tratta dei sali dell'acido pectico con quei due cationi.",
+    "options": [
+      "Gli xiloglucani e gli arabani della matrice emicellulosica",
+      "I pectati di calcio e di magnesio",
+      "Gli esteri metilici che costituiscono le cere epicuticolari"
+    ],
+    "correctIndex": 1,
+    "explanation": "I carbossili dell'acido pectico possono essere esterificati con gruppi metilici (pectine propriamente dette) o salificati con Ca²⁺ o Mg²⁺, formando i pectati di calcio e di magnesio.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.6"
+  },
+  {
+    "id": "bvg-carb-microfibrilla-024",
+    "topic": "biologia-vegetale",
+    "question": "Come si organizzano le molecole di cellulosa nella parete cellulare a livello sovramolecolare?",
+    "suggestion": "Le molecole parallele, tenute da legami idrogeno, si associano in unità via via più grandi.",
+    "options": [
+      "Ogni singola molecola avvolge da sola l'intera parete, senza aggregarsi ad altre",
+      "Circa 80 molecole formano una microfibrilla e più microfibrille formano una macrofibrilla",
+      "Le molecole si dispongono a elica, come nell'amilosio, formando granuli di riserva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Circa 80 molecole di cellulosa parallele, unite da legami idrogeno, formano una microfibrilla (unità architettonica della parete); più microfibrille si associano in macrofibrille.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.5"
   }
 ]

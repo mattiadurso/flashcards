@@ -260,5 +260,270 @@
     "explanation": "Robinia pseudoacacia è una Fabacea arborea di origine nordamericana, oggi considerata invasiva in Europa. Come Amorpha fruticosa, rientra tra le specie vegetali invasive introdotte, di rilievo per la gestione della biodiversità.",
     "difficulty": "easy",
     "source": "Biodiversità vegetale.pdf p.76"
+  },
+  {
+    "id": "bdv-fab-polline-trisolcato-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del polline è distintivo delle eudicotiledoni cui appartengono i Rosidi?",
+    "suggestion": "Riguarda il numero di aperture o solchi germinativi del granulo pollinico.",
+    "options": [
+      "Un polline inaperturato, del tutto privo di solchi germinativi, come nelle piante più primitive",
+      "Un polline monosolcato, con un unico solco germinativo, come nelle Magnolidi",
+      "Un polline trisolcato, dotato di tre solchi germinativi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I Rosidi appartengono alle eudicotiledoni, caratterizzate da polline trisolcato (con tre solchi germinativi), a differenza delle dicotiledoni più primitive. Questo carattere accompagna la dialipetalia e la poliandria secondaria tipiche del gruppo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.76"
+  },
+  {
+    "id": "bdv-fab-legume-gineceo-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quale caratteristica del gineceo delle Fabales deriva il frutto a legume?",
+    "suggestion": "Il legume si apre lungo due suture: pensa a quanti carpelli lo formano.",
+    "options": [
+      "Da un gineceo con numerosi carpelli liberi, ciascuno dei quali forma un piccolo achenio",
+      "Da un gineceo tricarpellare sincarpico che dà origine a una capsula a tre logge",
+      "Da un gineceo bicarpellare con placentazione parietale e falso setto detto replo",
+      "Da un gineceo formato da un solo carpello (G1), che a maturità si apre lungo due suture"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Fabales hanno gineceo generalmente monocarpellare (G1); da questo unico carpello deriva il legume, frutto secco deiscente che a maturità si apre lungo due linee di sutura. Il gineceo tricarpellare (G3) e la placentazione parietale con replo appartengono ad altri gruppi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.76"
+  },
+  {
+    "id": "bdv-fab-fill-cotiledoni-021",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Fabaceae il seme è privo di albume: le sostanze di riserva sono accumulate direttamente nei ___, cioè nelle foglie embrionali.",
+    "answers": [["cotiledoni", "cotiledone"]],
+    "suggestion": "Sono le due foglioline embrionali che nel fagiolo o nel pisello costituiscono gran parte del seme.",
+    "explanation": "I semi delle Fabaceae sono privi di albume: il tessuto di riserva è assente perché le sostanze nutritive sono immagazzinate direttamente nei cotiledoni, le foglie embrionali del seme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.77"
+  },
+  {
+    "id": "bdv-fab-biochimica-lectine-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali composti presenti in molte Fabaceae spiegano la tossicità di alcuni loro semi?",
+    "suggestion": "Sono composti azotati e proteine capaci di legare selettivamente gli zuccheri.",
+    "options": [
+      "Oli eterei aromatici volatili e acido ellagico prodotti da cavità secretrici",
+      "Alcaloidi, aminoacidi non proteici e lectine che legano gli zuccheri",
+      "Glucosinolati solforati idrolizzati dalla mirosinasi alla masticazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Fabaceae sono presenti alcaloidi, aminoacidi non proteici e lectine (proteine che legano selettivamente gli zuccheri, spesso tossiche): a questi composti si deve la tossicità di alcuni semi. Gli oli eterei sono tipici dei Sapindales/Geraniales, i glucosinolati dei Brassicales.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.76"
+  },
+  {
+    "id": "bdv-fab-foglia-cirri-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è tipicamente organizzata la foglia delle Fabaceae e a che servono i cirri di alcune specie?",
+    "suggestion": "La foglia è divisa in più foglioline; i cirri sono organi filiformi che si aggrappano a un supporto.",
+    "options": [
+      "Foglia semplice, intera e opposta; i cirri sono peli urticanti con funzione difensiva",
+      "Foglia palmatolobata e sessile; i cirri sono ghiandole nettarifere extrafiorali",
+      "Foglia alterna, composta e pennata o trifogliata; i cirri sono organi filiformi di sostegno"
+    ],
+    "correctIndex": 2,
+    "explanation": "La foglia delle Fabaceae è alterna, composta, pennata o trifogliata, con stipole talvolta trasformate in foglie o spine. I cirri sono organi filiformi derivati dalla modificazione di foglie o loro porzioni, con funzione di sostegno su un supporto (portamento rampicante).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.76-77"
+  },
+  {
+    "id": "bdv-fab-zigomorfia-calice-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel fiore papilionaceo delle Fabaceae, come si concilia la corolla zigomorfa con il calice?",
+    "suggestion": "La simmetria bilaterale riguarda la corolla; il verticillo più esterno può conservare simmetria raggiata.",
+    "options": [
+      "Il fiore è zigomorfo per la corolla papilionata, ma il calice gamosepalo resta attinomorfo",
+      "Sia la corolla sia il calice sono rigorosamente attinomorfi, con più piani di simmetria",
+      "Il calice è zigomorfo e la corolla attinomorfa, in modo opposto rispetto alla norma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il fiore delle Fabaceae è zigomorfo per via della corolla papilionata (vessillo, ali, carena), ma il calice gamosepalo è attinomorfo, cioè conserva una simmetria raggiata. Convivono quindi due tipi di simmetria in verticilli diversi dello stesso fiore.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.77"
+  },
+  {
+    "id": "bdv-fab-malpighiales-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri distinguono l'ordine Malpighiales, cui appartengono Salicaceae ed Euphorbiaceae?",
+    "suggestion": "Pensa a ghiandole nettarifere non sul fiore, al margine della foglia e al numero di carpelli.",
+    "options": [
+      "Fiori papilionacei, frutto a legume e simbiosi con batteri azotofissatori nei noduli",
+      "Nettari extrafiorali, margine fogliare dentato e gineceo tricarpellato (G3)",
+      "Ipanzio a coppa, epicalice e poliandria secondaria a maturazione centripeta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Malpighiales si riconoscono per la presenza di nettari extrafiorali (ghiandole nettarifere fuori dal fiore), il margine fogliare dentato e il gineceo tricarpellato (G3). I fiori papilionacei e il legume sono delle Fabales, l'ipanzio con epicalice delle Rosales.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.77"
+  },
+  {
+    "id": "bdv-fab-salicaceae-impollinazione-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale modalità di impollinazione presentano le Salicaceae?",
+    "suggestion": "Nonostante l'amento apetalo tipico delle anemofile, i fiori possiedono anche ghiandole che attirano insetti.",
+    "options": [
+      "Esclusivamente entomogama specializzata, mediata da una corolla papilionata",
+      "Esclusivamente anemofila, per la totale assenza di nettare nei fiori",
+      "Esclusivamente idrofila, con polline trasportato dall'acqua corrente",
+      "Sia anemogama sia entomogama, quest'ultima grazie alle ghiandole nettarifere"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Salicaceae hanno impollinazione mista: anemogama (l'amento apetalo è tipico delle anemofile) ma anche entomogama, resa possibile dalle ghiandole nettarifere associate ai fiori. È un carattere insolito per fiori così ridotti.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.78"
+  },
+  {
+    "id": "bdv-fab-euph-caucciu-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere delle Euphorbiaceae è alla base della produzione di caucciù?",
+    "suggestion": "Riguarda cellule e canali specializzati che producono un liquido biancastro.",
+    "options": [
+      "La presenza di strutture laticifere che producono e trasportano lattice",
+      "L'accumulo di glucosinolati solforati nelle cellule mirosiniche",
+      "La formazione di noduli radicali con batteri azotofissatori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le Euphorbiaceae possiedono strutture laticifere (cellule o canali specializzati) che producono e trasportano lattice, contenente gomme e resine. Dal lattice si ricava il caucciù (gomma naturale). I glucosinolati caratterizzano invece i Brassicales.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.78"
+  },
+  {
+    "id": "bdv-fab-euph-schizocarpo-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Come avviene la dispersione dei semi nel frutto tipico di molte Euphorbiaceae?",
+    "suggestion": "Il frutto si suddivide in tre porzioni e si apre bruscamente proiettando i semi.",
+    "options": [
+      "Tramite un'ala membranosa che sfrutta le correnti d'aria per l'anemocoria",
+      "Tramite uno schizocarpo tricocco a deiscenza esplosiva che proietta i semi a distanza",
+      "Tramite un frutto carnoso a bacca, ingerito e disperso dagli uccelli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il frutto tipico delle Euphorbiaceae è uno schizocarpo tricocco, che a maturità si suddivide in tre mericarpi monospermi e ha deiscenza esplosiva, proiettando i semi lontano dalla pianta. Il seme caruncolato è poi disperso anche dalle formiche.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.78"
+  },
+  {
+    "id": "bdv-fab-rosaceae-centripeta-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono disposti e come maturano i numerosi stami del fiore delle Rosaceae?",
+    "suggestion": "Sono organizzati in più cerchi concentrici; la maturazione procede dall'esterno verso l'interno.",
+    "options": [
+      "In un unico verticillo di cinque stami, come nella condizione fiorale ancestrale",
+      "Saldati in due fasci diadelfi, con nove stami fusi e uno libero",
+      "In più verticilli per poliandria secondaria, con maturazione centripeta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle Rosaceae gli stami sono numerosi e disposti in più verticilli (poliandria secondaria), con maturazione centripeta, cioè dall'esterno verso l'interno del fiore. Gli stami diadelfi (9+1) sono invece un carattere delle Fabaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.79"
+  },
+  {
+    "id": "bdv-fab-cinorrodo-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il cinorrodo della rosa (Rosa canina) è considerato un falso frutto?",
+    "suggestion": "La parte carnosa non è l'ovario, ma una coppa che avvolge i veri frutti al suo interno.",
+    "options": [
+      "Perché è formato dall'ipanzio carnoso che racchiude i veri frutti, piccoli acheni",
+      "Perché deriva dall'ovario infero fuso con l'ipanzio, come il pomo del melo",
+      "Perché è un'unica grande drupa con endocarpo legnoso, come nel ciliegio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cinorrodo è un falso frutto tipico della rosa: la parte carnosa è l'ipanzio accresciuto, che racchiude al proprio interno i veri frutti, piccoli acheni. Si distingue dal pomo (ovario infero fuso all'ipanzio) e dalla drupa delle Prunoideae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.79-80"
+  },
+  {
+    "id": "bdv-fab-prunoideae-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale sottofamiglia delle Rosaceae comprende ciliegio, pesco e mandorlo, con frutto a drupa?",
+    "suggestion": "Il nome alternativo della sottofamiglia deriva dal genere del mandorlo e delle sue affini.",
+    "options": [
+      "Le Maloideae, con 2-5 carpelli fusi all'ipanzio, ovario infero e frutto a pomo",
+      "Le Rosoideae, con carpelli numerosi e liberi e frutti ad achenio",
+      "Le Spiraeoideae, con pochi carpelli liberi e frutto a follicolo",
+      "Le Prunoideae (Amygdaloideae), con un solo carpello, ovario supero e drupa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Prunoideae (Amygdaloideae) hanno un solo carpello, ovario supero e frutto a drupa: vi appartengono Prunus avium (ciliegio), P. persica (pesco), P. dulcis (mandorlo). Le Maloideae danno il pomo, le Rosoideae acheni/drupeole, le Spiraeoideae il follicolo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.80"
+  },
+  {
+    "id": "bdv-fab-rubus-drupeole-032",
+    "topic": "biodiversita-vegetale",
+    "question": "Che tipo di frutto sono, botanicamente, la mora e il lampone del genere Rubus?",
+    "suggestion": "Non sono singoli frutti né bacche: derivano da tanti piccoli carpelli, ciascuno con endocarpo legnoso.",
+    "options": [
+      "Bacche polisperme derivate da un ovario infero uniloculare",
+      "Falsi frutti costituiti dal solo ricettacolo carnoso accresciuto",
+      "Frutti aggregati di piccole drupe, dette drupeole"
+    ],
+    "correctIndex": 2,
+    "explanation": "More e lamponi (Rubus fruticosus, R. idaeus) sono frutti aggregati costituiti da numerose piccole drupe (drupeole), ciascuna derivata da un carpello libero della sottofamiglia Rosoideae. Non sono quindi bacche né semplici accrescimenti del ricettacolo.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.80"
+  },
+  {
+    "id": "bdv-fab-fill-follicolo-033",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "La sottofamiglia delle Rosaceae con pochi carpelli liberi e ovario supero (es. Aruncus, Spiraea) ha come frutto secco, che si apre lungo un'unica sutura, il ___.",
+    "answers": [["follicolo", "follicoli"]],
+    "suggestion": "È il frutto secco monocarpellare che si apre lungo una sola linea, tipico delle Spiraeoideae.",
+    "explanation": "Le Spiraeoideae hanno frutto a follicolo, frutto secco deiscente che si apre lungo un'unica linea di sutura. Si contrappone al legume delle Fabaceae, che si apre invece lungo due suture.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.80"
+  },
+  {
+    "id": "bdv-fab-fagales-amento-034",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché l'infiorescenza ad amento delle Fagales è comparsa più volte in modo indipendente?",
+    "suggestion": "Linee evolutive diverse hanno risposto in modo simile alla stessa pressione: il trasporto del polline dal vento.",
+    "options": [
+      "Per evoluzione convergente, come adattamento all'impollinazione anemofila",
+      "Perché tutte le Fagales derivano da un unico antenato con amenti già formati",
+      "Perché l'amento richiede la simbiosi con impollinatori entomogami specializzati"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'amento è comparso indipendentemente più volte in diverse famiglie delle Fagales per evoluzione convergente, come adattamento all'impollinazione anemofila (fiori piccoli, apetali, unisessuali). Non deriva quindi da un singolo antenato comune.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.80"
+  },
+  {
+    "id": "bdv-fab-betulaceae-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali generi appartengono alle Betulaceae, famiglia delle Fagales affine alle Fagaceae?",
+    "suggestion": "Comprende nocciolo, betulla, carpini e ontano, non le querce.",
+    "options": [
+      "Quercus, Castanea e Fagus, con frutto a noce avvolto da cupola",
+      "Corylus, Betula, Ostrya, Carpinus e Alnus",
+      "Salix e Populus, con capsula loculicida e semi pelosi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Betulaceae comprendono Corylus (nocciolo), Betula (betulla), Ostrya (carpino nero), Carpinus (carpino bianco) e Alnus (ontano). Condividono con le Fagaceae i caratteri dell'ordine Fagales: polline trisolcato, fiori imperfetti e apetali, amento. Quercus/Castanea/Fagus sono Fagaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.81"
+  },
+  {
+    "id": "bdv-fab-fagaceae-zoocoria-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali specie rappresentano le Fagaceae e come vengono disseminati i loro frutti?",
+    "suggestion": "Sono grandi alberi da bosco (querce, castagno, faggio); i frutti pesanti sono trasportati dagli animali.",
+    "options": [
+      "Populus nigra e Salix alba, con semi pelosi dispersi dal vento",
+      "Robinia pseudoacacia e Amorpha fruticosa, con legumi deiscenti",
+      "Quercus robur, Castanea sativa e Fagus sylvatica, con disseminazione zoocora"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le Fagaceae comprendono Quercus robur (farnia), Castanea sativa (castagno) e Fagus sylvatica (faggio); il frutto a noce, avvolto dalla cupola, ha disseminazione zoocora (a opera degli animali). Populus/Salix sono Salicaceae, Robinia/Amorpha sono Fabaceae.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.81"
   }
 ]

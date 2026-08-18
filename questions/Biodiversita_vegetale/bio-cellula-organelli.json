@@ -299,5 +299,324 @@
     "explanation": "La fluorescenza dei microtubuli (dimeri di α- e β-tubulina) e quella della cellulosa risultano colocalizzate (perfettamente sovrapposte): è la prova che i microtubuli corticali guidano l'orientamento delle microfibrille di cellulosa durante la sintesi della parete. I microtubuli formano anche il fuso mitotico.",
     "difficulty": "hard",
     "source": "Biologia veg.pdf p.22"
+  },
+  {
+    "id": "bvg-cel-plasmidi-021",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono i plasmidi che molti batteri contengono nel citoplasma, oltre al nucleoide?",
+    "suggestion": "Sono piccole molecole di DNA circolare indipendenti dal cromosoma principale.",
+    "options": [
+      "Ribosomi di grandi dimensioni che sintetizzano le proteine di resistenza agli antibiotici",
+      "Introflessioni della membrana plasmatica che aumentano la superficie di scambio del batterio",
+      "Piccole molecole di DNA circolare extra-cromosomiale, capaci di replicarsi autonomamente",
+      "Vescicole delimitate da membrana che accumulano riserve lipidiche nel citoplasma batterico"
+    ],
+    "correctIndex": 2,
+    "explanation": "I plasmidi sono piccole molecole di DNA circolare extra-cromosomiale, indipendenti dal cromosoma batterico principale, capaci di replicarsi autonomamente e di conferire alla cellula caratteristiche specifiche, come la resistenza agli antibiotici.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.13"
+  },
+  {
+    "id": "bvg-cel-continuita-022",
+    "topic": "biologia-vegetale",
+    "question": "Cosa afferma il principio della continuità cellulare, comune a tutte le cellule?",
+    "suggestion": "Riguarda l'origine di ogni nuova cellula.",
+    "options": [
+      "Ogni cellula può sintetizzare autonomamente il proprio DNA a partire da molecole inorganiche",
+      "Ogni cellula si origina esclusivamente da un'altra cellula preesistente, tramite divisione",
+      "Ogni cellula mantiene invariate le proprie dimensioni per tutta la durata della vita",
+      "Ogni cellula scambia liberamente il proprio contenuto genetico con le cellule vicine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il principio della continuità cellulare afferma che ogni cellula si origina esclusivamente da un'altra cellula preesistente, tramite processi di divisione, con trasmissione fedele dell'informazione genetica alle cellule figlie. È una delle proprietà comuni a tutte le cellule.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.13"
+  },
+  {
+    "id": "bvg-cel-frazionamento-023",
+    "topic": "biologia-vegetale",
+    "question": "Nella centrifugazione differenziale di un omogenato cellulare, cosa distingue il precipitato dal surnatante?",
+    "suggestion": "A ogni velocità, una frazione si deposita sul fondo mentre il resto rimane nel liquido sovrastante.",
+    "options": [
+      "Il precipitato contiene solo acqua e sali, mentre il surnatante raccoglie tutti gli organelli",
+      "Il precipitato è il liquido sovrastante, mentre il surnatante è la frazione depositata sul fondo",
+      "Il precipitato raccoglie il componente che sedimenta, il surnatante è il fluido sovrastante con il resto",
+      "Il precipitato contiene i soli ribosomi, il surnatante i soli nuclei, a qualsiasi velocità applicata"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella centrifugazione differenziale, a velocità e tempi crescenti, un dato componente sedimenta nel precipitato mentre il fluido sovrastante (surnatante) contiene gli elementi restanti. Applicando velocità crescenti si raccolgono in sequenza nuclei, poi mitocondri (e cloroplasti), poi microsomi e infine ribosomi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.14"
+  },
+  {
+    "id": "bvg-cel-membrana-funzioni-024",
+    "topic": "biologia-vegetale",
+    "question": "Su quale proprietà della membrana plasmatica si basa il trasporto selettivo di metaboliti tra interno ed esterno della cellula?",
+    "suggestion": "È la capacità di lasciar passare solo determinate sostanze.",
+    "options": [
+      "Sulla semipermeabilità, la capacità di lasciar passare solo determinate sostanze",
+      "Sulla rigidità della parete cellulare di cellulosa che circonda la membrana",
+      "Sulla presenza di clorofilla che assorbe l'energia luminosa per il trasporto",
+      "Sull'accumulo di amido nei granuli plastidiali immersi nella membrana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il trasporto selettivo di metaboliti attraverso la membrana plasmatica si basa sulla sua semipermeabilità, cioè la capacità di lasciar passare solo determinate sostanze. La membrana svolge anche trasporto di elettroni, creazione di gradienti, ricezione di segnali e sede della sintesi della parete.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.15"
+  },
+  {
+    "id": "bvg-cel-anisotropia-025",
+    "topic": "biologia-vegetale",
+    "question": "Perché l'anisotropia della membrana plasmatica è funzionalmente importante per la cellula?",
+    "suggestion": "Le due facce della membrana non hanno le stesse proprietà: questo consente qualcosa di utile.",
+    "options": [
+      "Perché rende la membrana perfettamente uniforme, impedendo qualsiasi scambio con l'esterno",
+      "Perché, differenziando le due facce, consente la formazione di gradienti fra i due lati",
+      "Perché elimina le proteine di membrana, lasciando solo il doppio strato lipidico puro",
+      "Perché rende la membrana impermeabile a ogni sostanza, come una parete di cellulosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'anisotropia è la non uniformità delle proprietà della membrana lungo le due facce e la sua estensione. Proprio questa asimmetria consente la formazione di gradienti tra i due lati, fondamentali per numerosi processi di trasporto e di segnalazione.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.15"
+  },
+  {
+    "id": "bvg-cel-nucleo-026",
+    "topic": "biologia-vegetale",
+    "question": "Come è strutturato l'involucro nucleare e quale struttura si osserva all'interno del nucleo?",
+    "suggestion": "L'involucro è doppio e forato, in continuità con un sistema di membrane; all'interno c'è una regione densa.",
+    "options": [
+      "Una singola membrana priva di aperture, con al centro il tonoplasto che regola il turgore",
+      "Una parete rigida di cellulosa attraversata dai plasmodesmi, con al centro un amiloplasto",
+      "Un monostrato lipidico stabilizzato da oleosine, con al centro un corpo prolamellare",
+      "Una doppia membrana con pori nucleari, in continuità col reticolo endoplasmatico, con il nucleolo interno"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il nucleo è delimitato da una doppia membrana (involucro nucleare) provvista di pori nucleari che regolano il passaggio selettivo di molecole, in diretta continuità col reticolo endoplasmatico. Al suo interno si osserva il nucleolo, regione densa sede della sintesi dei componenti dei ribosomi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.16"
+  },
+  {
+    "id": "bvg-cel-proplastidi-027",
+    "topic": "biologia-vegetale",
+    "question": "Qual è il ruolo dei proplastidi e in quali tessuti sono sempre presenti?",
+    "suggestion": "Sono i precursori indifferenziati da cui derivano gli altri plastidi.",
+    "options": [
+      "Sono i precursori di tutti gli altri plastidi, sempre presenti nelle regioni meristematiche",
+      "Sono plastidi maturi ricchi di clorofilla, presenti solo nelle cellule epidermiche esposte alla luce",
+      "Sono plastidi che accumulano carotenoidi, presenti solo nei petali dei fiori maturi",
+      "Sono plastidi che accumulano amido, presenti solo nei tessuti di riserva sotterranei"
+    ],
+    "correctIndex": 0,
+    "explanation": "I proplastidi sono i precursori di tutti gli altri tipi di plastidi (cloroplasti, cromoplasti, leucoplasti, ezioplasti) e sono sempre presenti nelle regioni meristematiche, costituite da cellule indifferenziate con capacità proliferativa. Sono particolarmente numerosi nel seme germinante.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.16"
+  },
+  {
+    "id": "bvg-cel-corpo-prolamellare-028",
+    "topic": "biologia-vegetale",
+    "question": "Perché al buio si forma il corpo prolamellare tipico degli ezioplasti?",
+    "suggestion": "La sintesi dei lipidi di membrana continua, ma quella di un'altra componente si blocca.",
+    "options": [
+      "Perché al buio la sintesi dei lipidi di membrana si arresta del tutto, lasciando la membrana incompleta",
+      "Perché la sintesi dei lipidi procede anche al buio, ma la produzione delle proteine di membrana è inibita",
+      "Perché al buio la clorofilla si accumula in eccesso e precipita formando strutture cristalline",
+      "Perché al buio i tilacoidi già formati si disgregano in frammenti paracristallini di membrana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il corpo prolamellare si genera perché, mentre al buio la sintesi dei lipidi delle membrane interne procede normalmente, la produzione delle necessarie proteine di membrana è inibita in assenza di luce. Alla luce i corpi prolamellari si riorganizzano in tilacoidi in circa 24 ore.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.16-17"
+  },
+  {
+    "id": "bvg-cel-eliofile-sciafile-029",
+    "topic": "biologia-vegetale",
+    "question": "Come varia l'organizzazione dei grana nel cloroplasto tra piante eliofile e piante sciafile?",
+    "suggestion": "La pianta d'ombra deve massimizzare la cattura della poca luce disponibile.",
+    "options": [
+      "Le eliofile e le sciafile hanno lo stesso numero di grana, poiché la luce non influenza la loro struttura",
+      "Le eliofile presentano numerosi grana e pochi tilacoidi stromatici, le sciafile il contrario esatto",
+      "Le eliofile presentano pochi grana e molti tilacoidi stromatici, le sciafile numerosi grana",
+      "Le sciafile sono prive di grana e possiedono soltanto tilacoidi stromatici, come i cromoplasti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le piante eliofile (di pieno sole) presentano pochi grana e numerosi tilacoidi stromatici, mentre le sciafile (di ombra) presentano numerosi grana e pochi tilacoidi stromatici: un adattamento che ottimizza la cattura della luce disponibile nei rispettivi ambienti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.17"
+  },
+  {
+    "id": "bvg-cel-elaioplasti-030",
+    "topic": "biologia-vegetale",
+    "question": "Quale funzione svolgono gli elaioplasti e quali inclusioni si osservano nel loro stroma?",
+    "suggestion": "Sono leucoplasti legati alla sintesi di composti volatili aromatici.",
+    "options": [
+      "Sono coinvolti nella sintesi di monoterpeni e presentano plastoglobuli lipidici nello stroma",
+      "Sono coinvolti nella fotosintesi e presentano grana ricchi di clorofilla impilati nello stroma",
+      "Sono coinvolti nell'accumulo di amido e presentano granuli amilacei specie-specifici nello stroma",
+      "Sono coinvolti nella respirazione cellulare e presentano creste introflesse nella membrana interna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli elaioplasti sono leucoplasti incolori coinvolti nella sintesi di monoterpeni (composti volatili responsabili di aromi e profumi); nel loro stroma denso si osservano i plastoglobuli, inclusioni lipidiche tondeggianti. Sono circondati da reticolo endoplasmatico liscio. Gli amiloplasti accumulano invece amido.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.18"
+  },
+  {
+    "id": "bvg-cel-mito-pleiomorfici-031",
+    "topic": "biologia-vegetale",
+    "question": "Perché il numero di mitocondri per cellula può variare da centinaia a migliaia?",
+    "suggestion": "Il loro numero riflette una specifica esigenza della cellula, diversa da tessuto a tessuto.",
+    "options": [
+      "Perché ogni mitocondrio si divide una sola volta durante la vita della cellula, in numero fisso",
+      "Perché il numero riflette il diverso fabbisogno energetico del tipo cellulare e dello stadio di sviluppo",
+      "Perché i mitocondri si formano solo dai proplastidi presenti nei tessuti meristematici della pianta",
+      "Perché il loro numero dipende esclusivamente dalla quantità di luce che colpisce la cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "I mitocondri sono organelli pleiomorfici, capaci di assumere forme diverse; il loro numero varia da centinaia a migliaia per cellula in funzione del tipo cellulare e dello stadio di sviluppo, riflettendo il diverso fabbisogno energetico dei tessuti. Si dividono per scissione, indipendentemente dal ciclo cellulare.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.18"
+  },
+  {
+    "id": "bvg-cel-pcd-032",
+    "topic": "biologia-vegetale",
+    "question": "Quale esempio illustra la morte cellulare programmata (PCD) al servizio dello sviluppo della pianta?",
+    "suggestion": "Alcuni tessuti funzionano proprio grazie alla morte controllata delle loro cellule.",
+    "options": [
+      "L'accumulo di antociani nel vacuolo che colora di rosso-violetto i petali dei fiori",
+      "La duplicazione del corredo cromosomico indotta dalla colchicina che blocca il fuso mitotico",
+      "La chiusura degli stomi che innesca la fotorespirazione nei perossisomi fogliari",
+      "La maturazione delle cellule del trasporto xilematico, che richiede la morte del protoplasto"
+    ],
+    "correctIndex": 3,
+    "explanation": "La maturazione degli elementi conduttori dello xilema richiede la morte programmata del protoplasto, per consentire il libero flusso della linfa. Altri esempi di PCD nelle piante sono la senescenza fogliare, la degradazione dello strato aleuronico e l'eliminazione delle cellule della cuffia radicale.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.18-19"
+  },
+  {
+    "id": "bvg-cel-fill-uricosomi-033",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "I microcorpi presenti nei noduli delle leguminose, che fissano l'azoto atmosferico in composti organici (ureidi), sono detti ___.",
+    "answers": [
+      [
+        "uricosomi",
+        "uricosoma"
+      ]
+    ],
+    "suggestion": "Come i gliossisomi e i perossisomi, prendono nome dalla loro localizzazione tissutale.",
+    "explanation": "Gli uricosomi sono i microcorpi dei noduli delle leguminose, coinvolti nella fissazione dell'azoto atmosferico (N2) in composti organici ricchi di azoto detti ureidi. Nei semi oleosi gli stessi microcorpi si chiamano gliossisomi, nelle foglie perossisomi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.19"
+  },
+  {
+    "id": "bvg-cel-fotorespirazione-034",
+    "topic": "biologia-vegetale",
+    "question": "In quale condizione si innesca la fotorespirazione nelle foglie delle piante C3?",
+    "suggestion": "Si verifica quando la pianta è costretta a bloccare gli scambi gassosi con l'esterno.",
+    "options": [
+      "Quando la pianta è al buio completo e i proplastidi si differenziano in ezioplasti",
+      "Quando la pianta chiude gli stomi e, invece della fotosintesi, compie un processo catabolico",
+      "Quando la concentrazione di CO2 è massima e la fotosintesi procede alla massima velocità",
+      "Quando il vacuolo raggiunge il 90% del volume cellulare mantenendo il turgore"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fotorespirazione è un processo dissipativo che si innesca quando la pianta è costretta a chiudere gli stomi: in questa condizione, invece di attuare la fotosintesi (anabolica), la cellula compie una respirazione (catabolica), tramite il ciclo C2 nei perossisomi, in associazione con mitocondri e cloroplasti.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.19"
+  },
+  {
+    "id": "bvg-cel-fill-tonoplasto-035",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "La singola membrana che delimita il vacuolo, originata dall'apparato di Golgi, è denominata ___.",
+    "answers": [
+      [
+        "tonoplasto"
+      ]
+    ],
+    "suggestion": "È la membrana che separa il succo vacuolare dal citoplasma.",
+    "explanation": "Il tonoplasto è la singola membrana che circonda il vacuolo, originata dall'apparato di Golgi; racchiude il succo vacuolare, una soluzione a pH 5,5 di sali, zuccheri, amminoacidi e acidi organici.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.20"
+  },
+  {
+    "id": "bvg-cel-re-liscio-036",
+    "topic": "biologia-vegetale",
+    "question": "Quali funzioni svolge il reticolo endoplasmatico liscio (privo di ribosomi) nella cellula vegetale?",
+    "suggestion": "È coinvolto nel metabolismo dei grassi e in due ruoli legati al calcio e alle sostanze nocive.",
+    "options": [
+      "Sintesi di lipidi complessi, accumulo del calcio e detossificazione di molecole nocive",
+      "Sintesi e maturazione delle proteine da secernere e aggiunta di zuccheri alle glicoproteine",
+      "Fissazione della CO2 nel ciclo di Calvin e sintesi di amido e di ATP per la cellula",
+      "Degradazione degli acidi grassi per beta-ossidazione durante la germinazione del seme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il reticolo endoplasmatico liscio (privo di ribosomi) svolge la sintesi di lipidi complessi (usando scheletri carboniosi dei cloroplasti), è sito di accumulo del calcio (Ca2+, messaggero secondario) e opera la detossificazione di molecole nocive. La sintesi delle proteine da secernere spetta invece al RER.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.20"
+  },
+  {
+    "id": "bvg-cel-polisomi-037",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa sono i polisomi (o poliribosomi) e quale vantaggio offrono nella sintesi proteica?",
+    "suggestion": "Nascono dall'associazione di più ribosomi sulla stessa molecola informativa.",
+    "options": [
+      "Ribosomi giganti a singola subunità, che sintetizzano una proteina di dimensioni doppie",
+      "Pile di membrane discoidali del Golgi da cui gemmano vescicole di trasporto proteico",
+      "Più ribosomi associati allo stesso mRNA, che sintetizzano più catene polipeptidiche in batteria",
+      "Frammenti di reticolo endoplasmatico che si raccolgono nel precipitato dopo centrifugazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "I polisomi (o poliribosomi) sono l'associazione di più ribosomi lungo la stessa molecola di mRNA; rappresentano il sito effettivo della sintesi proteica e consentono la sintesi 'in batteria' di più catene polipeptidiche identiche, tutte usando il medesimo mRNA come stampo.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.21"
+  },
+  {
+    "id": "bvg-cel-tgn-038",
+    "topic": "biologia-vegetale",
+    "question": "Nel traffico vescicolare associato al trans-Golgi network, come si distinguono esocitosi ed endocitosi?",
+    "suggestion": "Una espelle materiale verso l'esterno, l'altra lo introduce; le vescicole rivestite di clatrina vanno in una direzione precisa.",
+    "options": [
+      "Esocitosi introduce materiale rivestito di clatrina; endocitosi lo espelle con vescicole lisce",
+      "Esocitosi ed endocitosi indicano entrambe l'espulsione di materiale, ma a velocità diverse",
+      "Esocitosi espelle materiale con vescicole lisce; endocitosi lo introduce con vescicole rivestite di clatrina",
+      "Esocitosi ed endocitosi avvengono solo nel nucleo, attraverso i pori dell'involucro nucleare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'esocitosi la cellula espelle verso l'esterno materiale racchiuso in vescicole lisce; nell'endocitosi introduce materiale dall'esterno con vescicole rivestite di clatrina (proteine che ne indirizzano il contenuto verso l'interno). Il trans-Golgi network gestisce entrambi i processi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.21"
+  },
+  {
+    "id": "bvg-cel-citoscheletro-039",
+    "topic": "biologia-vegetale",
+    "question": "Da quali tre tipi di filamenti proteici è costituito il citoscheletro della cellula vegetale?",
+    "suggestion": "Si distinguono per composizione e per diametro decrescente.",
+    "options": [
+      "Microtubuli di tubulina, filamenti intermedi cheratino-simili e filamenti di actina",
+      "Microfibrille di cellulosa, fibre di lignina e lamelle di suberina impermeabilizzante",
+      "Grana, tilacoidi stromatici e membrane dello stroma dei cloroplasti fotosintetici",
+      "Nucleosomi, fibra di cromatina da 30 nm e cromosomi metafasici condensati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il citoscheletro è costituito da tre tipi di filamenti proteici: microtubuli (di tubulina, ~25 nm), filamenti intermedi (proteine simili alla cheratina, 7-10 nm) e filamenti di actina o microfilamenti (~6 nm). Svolge funzioni di sostegno, movimento degli organelli, formazione del fuso mitotico e costruzione della parete.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
+  },
+  {
+    "id": "bvg-cel-fill-ciclosi-040",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Le correnti citoplasmatiche, generate dai microfilamenti di actina e responsabili dei movimenti di organelli e vescicole, sono dette ___.",
+    "answers": [
+      [
+        "ciclosi",
+        "ciclosi citoplasmatica"
+      ]
+    ],
+    "suggestion": "Sono create dall'allungamento e dalla contrazione delle proteine del citoscheletro.",
+    "explanation": "Le ciclosi sono le correnti citoplasmatiche, create dall'allungamento e dalla contrazione delle proteine del citoscheletro (in particolare i microfilamenti di actina); muovono organelli e vescicole e possono determinare, ad esempio, l'orientamento dei cloroplasti nel citoplasma.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.22"
   }
 ]

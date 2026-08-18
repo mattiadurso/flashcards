@@ -219,5 +219,225 @@
     "explanation": "Le Gentianaceae hanno ovario supero (K(4-5) C(4-5) A4-5 G(2)) e frutto a capsula setticida; le Rubiaceae hanno ovario infero. Il genere Gentiana comprende molte specie montane a corolla blu o gialla (Gentiana lutea, di uso farmaceutico e liquoristico).",
     "difficulty": "hard",
     "source": "Biodiversità vegetale.pdf p.93"
+  },
+  {
+    "id": "bdv-lam-oli-eterei-016",
+    "topic": "biodiversita-vegetale",
+    "question": "Da quali composti sono formati in prevalenza gli oli eterei prodotti dai peli ghiandolari delle Lamiales?",
+    "suggestion": "Sono flavonoidi ossigenati in una posizione particolare, un acido fenolico antiossidante e certi oligosaccaridi.",
+    "options": [
+      "Glucosinolati e oli di senape liberati da cellule mirosiniche specializzate",
+      "Latice bianco e alcaloidi tropanici accumulati entro vasi laticiferi",
+      "Glicosidi cardiotonici e saponine concentrati nei tessuti fogliari",
+      "Flavoni 6-ossigenati, acido rosmarinico e oligosaccaridi come il verbascoside"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gli oli eterei delle Lamiales sono costituiti in prevalenza da flavoni 6-ossigenati (flavonoidi con gruppo ossigenato in posizione 6), acido rosmarinico (composto fenolico antiossidante) e oligosaccaridi caratteristici come cornoside e verbascoside. I glucosinolati sono invece tipici dei Brassicales.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.90-91"
+  },
+  {
+    "id": "bdv-lam-lamiales-caratteri-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali caratteri fiorali e fogliari accomunano la maggior parte dell'ordine Lamiales?",
+    "suggestion": "Pensa alla disposizione delle foglie al nodo, alla simmetria del fiore e al numero ridotto di antere fertili.",
+    "options": [
+      "Foglie alterne, fiori attinomorfi e dieci stami tutti fertili disposti a spirale",
+      "Foglie opposte, fiori zigomorfi e antere spesso in numero di due, talora con altre due ridotte (2+2)",
+      "Foglie verticillate, fiori apetali e antere numerose adattate all'anemofilia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La maggior parte delle Lamiales condivide foglie opposte, fiori zigomorfi (a simmetria bilaterale) e antere spesso in numero di due, talvolta accompagnate da altre due ridotte o sterili, condizione indicata con la notazione 2(+2). Producono inoltre oli eterei da peli ghiandolari.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.90-91"
+  },
+  {
+    "id": "bdv-lam-fill-verticillastro-018",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Lamiaceae le cime contratte dell'infiorescenza (spicastro) sono riunite in falsi verticilli detti ___.",
+    "answers": [["verticillastri", "verticillastro"]],
+    "suggestion": "Sembrano veri verticilli di fiori attorno al fusto, ma sono in realtà gruppi di cime ravvicinate.",
+    "explanation": "L'infiorescenza tipica delle Lamiaceae è lo spicastro, composto da cime contratte riunite in falsi verticilli detti verticillastri, spesso accompagnati da foglie o brattee. Sembrano veri verticilli ma derivano da cime ascellari opposte.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-corolla-bilabiata-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è tipicamente conformata la corolla delle Lamiaceae?",
+    "suggestion": "È divisa in due parti disuguali, con la superiore spesso ricurva a protezione degli stami.",
+    "options": [
+      "Attinomorfa e rotata, con cinque petali uguali e distesi su un solo piano",
+      "Ridotta a un'unica linguetta ligulata e zigomorfa, priva di tubo",
+      "Bilabiata, con labbro superiore spesso ricurvo a elmo e labbro inferiore talora trilobo",
+      "Del tutto assente, con il fiore ridotto ai soli stami e carpelli"
+    ],
+    "correctIndex": 2,
+    "explanation": "La corolla delle Lamiaceae è tipicamente bilabiata: un labbro superiore spesso ricurvo a formare una struttura a elmo e un labbro inferiore, talvolta trilobo, che può recare speroni nettariferi o linee guida per gli impollinatori. In Teucrium e Ajuga il labbro superiore è però ridotto.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-unilabiato-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché in generi come Teucrium e Ajuga il fiore delle Lamiaceae è detto unilabiato?",
+    "suggestion": "Confronta con la corolla bilabiata tipica: qui manca una delle due labbra.",
+    "options": [
+      "Perché entrambe le labbra si fondono in un tubo perfettamente attinomorfo",
+      "Perché la corolla si riduce a un unico petalo libero non fuso agli altri",
+      "Perché il labbro superiore è ridotto o assente e resta ben sviluppato solo quello inferiore"
+    ],
+    "correctIndex": 2,
+    "explanation": "In Teucrium e Ajuga il labbro superiore della corolla è ridotto o del tutto assente, cosicché resta ben sviluppato solo il labbro inferiore: il fiore è perciò detto unilabiato, in contrapposizione alla corolla bilabiata tipica della famiglia.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-stilo-ginobasico-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa comporta lo stilo ginobasico dell'ovario delle Lamiaceae?",
+    "suggestion": "Riguarda il punto in cui lo stilo si inserisce sull'ovario e la conseguente divisione in logge.",
+    "options": [
+      "Lo stilo si inserisce all'apice dell'ovario, che resta indiviso in un'unica loggia",
+      "Lo stilo si inserisce alla base dell'ovario, che a maturità si suddivide in quattro logge",
+      "Lo stilo funge da disco nettarifero posto alla base dei filamenti staminali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle Lamiaceae lo stilo è ginobasico, cioè inserito alla base dell'ovario supero e non al suo apice; l'ovario a maturità si suddivide in quattro logge distinte, condizione che porta al frutto a tetrachenio (quattro mericarpi monospermi).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-stami-didinami-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa significa che i quattro stami delle Lamiaceae sono 'didinami'?",
+    "suggestion": "Riguarda la loro lunghezza reciproca e la disposizione a coppie.",
+    "options": [
+      "Sono di lunghezza disuguale, disposti a coppie (due più lunghi e due più corti)",
+      "Sono tutti fusi lateralmente in un tubo che circonda lo stilo",
+      "Sono ridotti a staminodi sterili privi di antere funzionali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli stami didinami delle Lamiaceae sono quattro, epipetali (saldati al tubo corollino) e di lunghezza disuguale, disposti a coppie: due più lunghi e due più corti. In alcuni generi si riducono a due soli stami.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-epizoocoria-023",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo il calice persistente e i peli uncinati favoriscono la dispersione del tetrachenio delle Lamiaceae?",
+    "suggestion": "Pensa a come il frutto può 'agganciarsi' a chi passa vicino alla pianta.",
+    "options": [
+      "Aprendo bruscamente la capsula per lanciare i semi a distanza (autocoria)",
+      "Formando un'ala membranosa che porta il frutto lontano col vento (anemocoria)",
+      "Aderendo al pelo degli animali che sfiorano la pianta, realizzando l'epizoocoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle Lamiaceae il calice persistente, che si accresce dopo la fecondazione, e i peli talora uncinati favoriscono la dispersione del tetrachenio tramite adesione al pelo degli animali: è l'epizoocoria. Il frutto è secco e indeiscente, quindi non lancia semi come una capsula.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.91"
+  },
+  {
+    "id": "bdv-lam-plantaginaceae-generi-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali generi ha accolto la famiglia Plantaginaceae nella riorganizzazione APG delle vecchie Scrophulariaceae?",
+    "suggestion": "Sono generi ornamentali e officinali non parassiti, tra cui la digitale e la bocca di leone.",
+    "options": [
+      "Euphrasia, Melampyrum, Pedicularis e Rhinanthus, a tendenza parassita",
+      "Antirrhinum, Digitalis, Linaria e Veronica, oltre a Callitrichaceae e Globulariaceae",
+      "Scrophularia e Verbascum, rimasti nel nucleo delle Scrophulariaceae in senso stretto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con l'APG la Plantaginaceae ha accolto generi come Antirrhinum, Digitalis, Linaria e Veronica, includendo anche famiglie un tempo autonome (Callitrichaceae, Globulariaceae, Hippuridaceae). I generi parassiti come Rhinanthus sono passati invece alle Orobancaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.92"
+  },
+  {
+    "id": "bdv-lam-orobancaceae-generi-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali generi a tendenza parassita sono confluiti nelle Orobancaceae con la classificazione APG?",
+    "suggestion": "Sono emiparassiti dei prati e dei pascoli, che sottraggono risorse a piante ospiti.",
+    "options": [
+      "Antirrhinum, Digitalis, Linaria e Veronica, di uso ornamentale e officinale",
+      "Scrophularia e Verbascum, rimasti nelle Scrophulariaceae in senso stretto",
+      "Euphrasia, Melampyrum, Pedicularis e Rhinanthus, a marcata tendenza parassita"
+    ],
+    "correctIndex": 2,
+    "explanation": "La classificazione APG ha attribuito alle Orobancaceae i generi a tendenza parassita quali Euphrasia, Melampyrum, Pedicularis e Rhinanthus, che prelevano risorse da piante ospiti tramite austori. Antirrhinum, Digitalis e Veronica sono invece passati alle Plantaginaceae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.92"
+  },
+  {
+    "id": "bdv-lam-corolla-personata-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza una corolla 'personata' nel gruppo Scrophulariaceae-Plantaginaceae?",
+    "suggestion": "Riguarda la fauce del tubo corollino, ostruita da una parte del labbro inferiore.",
+    "options": [
+      "La fauce del tubo corollino è chiusa da un rigonfiamento del labbro inferiore detto palato",
+      "La corolla porta un lungo sperone nettarifero patente alla base del tubo",
+      "La corolla è ridotta a una ligula zigomorfa appiattita priva di tubo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella corolla personata la fauce (apertura del tubo corollino) è chiusa da un rigonfiamento del labbro inferiore detto palato. È una delle molte forme di corolla del gruppo (labiata, speronata, tubulosa), che presenta notevole variabilità morfologica.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.92"
+  },
+  {
+    "id": "bdv-lam-oleaceae-peli-peltati-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere microscopico distintivo permette di riconoscere le Oleaceae?",
+    "suggestion": "Sono tricomi a forma di scudo, ancorati per il centro e non per la base.",
+    "options": [
+      "Un fusto a sezione tetragona provvisto di peli ghiandolari aromatici",
+      "Peli peltati, cioè tricomi a forma di scudo inseriti al centro anziché alla base",
+      "Cellule mirosiniche contenenti l'enzima mirosinasi per liberare oli di senape"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Oleaceae presentano peli peltati, tricomi a forma di scudo inseriti al centro anziché alla base. Hanno inoltre foglie opposte prive di stipole, fiore attinomorfo tetramero con due soli stami (K(4) C4/(4) A2 G(2)).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.93"
+  },
+  {
+    "id": "bdv-lam-oleaceae-frutti-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale gamma di frutti diversi può presentare la famiglia Oleaceae a seconda del genere?",
+    "suggestion": "Comprende sia frutti carnosi sia frutti secchi alati o deiscenti.",
+    "options": [
+      "Solo tetracheni formati da quattro mericarpi monospermi",
+      "Solo silique e siliquette allungate munite di replo membranoso",
+      "Solo capsule spinose che a maturità liberano pochi grossi semi lucidi",
+      "Bacca, drupa (come nell'olivo), samara alata (come nel frassino) o capsula"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Oleaceae mostrano una notevole varietà di frutti a seconda del genere: bacca, drupa (Olea europaea, l'olivo), samara alata a dispersione anemocora (Fraxinus, i frassini) oppure capsula. Il tetrachenio è invece tipico delle Lamiaceae.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.93"
+  },
+  {
+    "id": "bdv-lam-fill-triptofano-029",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Gli alcaloidi indolici caratteristici dell'ordine Gentianales derivano biosinteticamente dall'amminoacido ___.",
+    "answers": [["triptofano"]],
+    "suggestion": "È l'amminoacido aromatico che porta già nella sua struttura un anello indolico.",
+    "explanation": "Gli alcaloidi indolici delle Gentianales derivano biosinteticamente dall'amminoacido triptofano, tramite un anello indolico. Insieme agli iridoidi, questi composti azotati ad attività biologica sono un tratto biochimico distintivo dell'ordine.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.94"
+  },
+  {
+    "id": "bdv-lam-rubiaceae-fusto-030",
+    "topic": "biodiversita-vegetale",
+    "question": "A che cosa è dovuto il fusto tipicamente tetragono delle Rubiaceae?",
+    "suggestion": "Non è un carattere anatomico interno, ma dipende da espansioni laminari lungo gli spigoli.",
+    "options": [
+      "Alla presenza di ali, espansioni laminari sviluppate lungo i quattro angoli del fusto",
+      "Alla suddivisione dell'ovario supero in quattro logge visibili all'esterno",
+      "Alla fusione di quattro stami epipetali che irrigidiscono la parete del fusto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle Rubiaceae il fusto è tetragono per la presenza di ali, espansioni laminari lungo gli angoli; può inoltre avere portamento volubile, avvolgendosi a spirale attorno a un supporto. Il carattere non è legato all'ovario, che è invece infero.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.93"
   }
 ]

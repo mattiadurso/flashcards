@@ -283,5 +283,291 @@
     "explanation": "Gli studi filogenomici indicano che gli eucarioti si sarebbero originati dall'interno degli Archaea, con una stretta relazione con il gruppo Asgard (in particolare le Heimdallarchaeota), candidato parente archeale più prossimo alla linea che ha portato al nucleo eucariotico.",
     "difficulty": "hard",
     "source": "Biodiversità vegetale.pdf p.14"
+  },
+  {
+    "id": "bdv-proc-antichita-020",
+    "topic": "biodiversita-vegetale",
+    "question": "In quale fase della storia della Terra compaiono per la prima volta i procarioti?",
+    "suggestion": "Sono le forme di vita più antiche: pensa all'eone in cui si formarono le prime cellule, ben prima degli eucarioti.",
+    "options": [
+      "Nell'Olocene, l'epoca geologica attuale, contemporaneamente alla comparsa della specie umana",
+      "Nell'Eone Archeano, tra circa 4 e 2,5 miliardi di anni fa, quando comparvero le prime forme di vita",
+      "Nel Cenozoico, subito dopo la colonizzazione delle terre emerse da parte delle piante superiori"
+    ],
+    "correctIndex": 1,
+    "explanation": "I procarioti sono le forme di vita più antiche e compaiono nelle fasi iniziali della storia terrestre, nell'Eone Archeano (circa 4-2,5 miliardi di anni fa) e nel successivo Proterozoico. Ossigeno atmosferico, eucarioti, animali e specie umana compaiono molto più tardi.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.9"
+  },
+  {
+    "id": "bdv-proc-ribosomi-021",
+    "topic": "biodiversita-vegetale",
+    "question": "In che rapporto stanno i ribosomi dei batteri con quelli delle cellule eucariotiche?",
+    "suggestion": "Cambia la taglia dell'organulo, ma non il compito che svolge nella cellula.",
+    "options": [
+      "Sono racchiusi da una membrana propria e servono ad accumulare le riserve energetiche della cellula",
+      "Sono di dimensioni minori ma svolgono la stessa funzione di sintesi proteica per traduzione",
+      "Sono più grandi di quelli eucariotici e sono deputati alla duplicazione del DNA del nucleoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "I ribosomi batterici sono di dimensioni minori rispetto a quelli eucariotici ma funzionalmente simili: svolgono lo stesso compito di traduzione dell'informazione genetica in proteine. Sono organuli non membranosi e non hanno a che fare con la duplicazione del DNA.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.9"
+  },
+  {
+    "id": "bdv-proc-forme-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Quali sono le tre morfologie principali con cui si presentano i batteri unicellulari?",
+    "suggestion": "Una forma è sferica, una allungata a bastoncello e una ricurva o a spirale.",
+    "options": [
+      "Cocchi (sferici), bacilli (a bastoncello) e spirilli o vibrioni (elicoidali o ricurvi)",
+      "Eterocisti, acineti e cellule vegetative, distinte in base alla funzione riproduttiva",
+      "Monotrichi, lofotrichi e peritrichi, distinti in base al numero di flagelli posseduti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per forma i batteri unicellulari si distinguono in cocchi (sferici), bacilli o batteri propriamente detti (a bastoncello) e spirilli e vibrioni (elicoidali o ricurvi). Monotrichi/lofotrichi/peritrichi classificano invece la disposizione dei flagelli, non la forma cellulare.",
+    "difficulty": "easy",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-pili-023",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la funzione dei pili (o fimbrie) dei batteri, a differenza dei flagelli?",
+    "suggestion": "Sono appendici corte e sottili: non spostano la cellula, ma servono a scambiare qualcosa tra batteri.",
+    "options": [
+      "Consentono lo spostamento attivo e rapido della cellula batterica nell'ambiente circostante",
+      "Formano la parete rigida che protegge il batterio e ne mantiene la forma caratteristica",
+      "Sono deputati al trasferimento di materiale genetico tra cellule batteriche, non al movimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "I pili o fimbrie sono appendici corte e sottili deputate al trasferimento di materiale genetico tra cellule batteriche. Non servono al movimento, che è invece affidato ai flagelli (appendici lunghe e spesse).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-lisozima-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché il lisozima ha un'azione antibatterica sulla parete cellulare dei batteri?",
+    "suggestion": "Agisce da enzima su un legame preciso tra i due zuccheri del peptidoglicano.",
+    "options": [
+      "Idrolizza il legame β1→4 del peptidoglicano, degradando la parete e indebolendo la cellula",
+      "Aggiunge nuove catene di peptidoglicano che irrigidiscono eccessivamente la parete fino a romperla",
+      "Neutralizza i lipopolisaccaridi della membrana esterna, propri di tutti i batteri Gram-positivi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il peptidoglicano è formato da N-acetilglucosammina e acido N-acetilmuramico uniti da legami β1→4. Il lisozima è un enzima che idrolizza proprio questo legame, degradando la parete e svolgendo così la sua azione antibatterica.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-lps-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale componente strutturale distingue la parete dei batteri Gram- oltre al sottile strato di peptidoglicano?",
+    "suggestion": "Verso l'esterno hanno un ulteriore involucro membranoso ricco di molecole lipidico-glucidiche.",
+    "options": [
+      "Uno spesso e uniforme strato di peptidoglicano che avvolge da solo l'intera cellula",
+      "Una capsula di cianoficina che accumula riserve di azoto attorno alla cellula",
+      "Una membrana esterna contenente lipopolisaccaridi, posta oltre il sottile peptidoglicano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei Gram- il sottile strato di peptidoglicano, addossato al plasmalemma, è racchiuso da una membrana esterna che contiene lipopolisaccaridi (porzione lipidica + porzione glucidica). Questa membrana esterna è assente nei Gram+, che hanno invece peptidoglicano spesso e uniforme.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10"
+  },
+  {
+    "id": "bdv-proc-biofilm-fasi-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la corretta successione delle fasi di formazione di un biofilm batterico?",
+    "suggestion": "Si parte dall'attacco delle cellule libere e si finisce con il rilascio di nuove cellule nell'ambiente.",
+    "options": [
+      "Adesione delle cellule planctoniche, formazione di microcolonie, maturazione e dispersione",
+      "Dispersione delle cellule, maturazione del biofilm, formazione di microcolonie e infine adesione",
+      "Sporulazione, germinazione, scissione binaria e infine adesione alla superficie disponibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formazione del biofilm procede per fasi successive: adesione delle cellule planctoniche (libere) alla superficie, formazione di microcolonie, maturazione del biofilm e infine dispersione di nuove cellule nell'ambiente. Sporulazione e germinazione riguardano invece le endospore.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.10-11"
+  },
+  {
+    "id": "bdv-proc-scissione-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché la scissione binaria è descritta come una forma di 'diffusione spaziale' del batterio?",
+    "suggestion": "È una riproduzione asessuata rapida: pensa a come una popolazione occupa velocemente l'ambiente circostante.",
+    "options": [
+      "Perché trasferisce il batterio nel tempo permettendogli di superare i periodi ambientali sfavorevoli",
+      "Perché consente lo scambio di DNA tra due batteri distinti, aumentando la variabilità genetica",
+      "Perché produce rapidamente numerose cellule figlie, permettendo alla popolazione di occupare l'ambiente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La scissione binaria (duplicazione del DNA, segregazione del cromosoma e citodieresi) è una riproduzione asessuata rapida che permette ai batteri una veloce 'diffusione spaziale', cioè l'occupazione dell'ambiente. Alla 'diffusione temporale' provvedono invece le endospore.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-coniugazione-028",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa caratterizza la coniugazione rispetto agli altri meccanismi di ricombinazione genica batterica?",
+    "suggestion": "Qui il DNA passa per contatto diretto tra due cellule, veicolato da un particolare elemento genetico mobile.",
+    "options": [
+      "Il batterio assume DNA libero disperso nell'ambiente esterno, senza contatto con altre cellule",
+      "Il DNA passa direttamente tra due batteri a contatto, mediato da plasmidi detti anche episomi",
+      "Il DNA è trasferito da una cellula all'altra tramite un virus batterico che ne funge da vettore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella coniugazione il DNA passa direttamente tra due individui batterici a contatto, mediato da plasmidi (in questo contesto detti episomi). Nella trasformazione il batterio assume DNA libero dall'ambiente; nella trasduzione un virus fa da vettore.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-trasformazione-029",
+    "topic": "biodiversita-vegetale",
+    "question": "In che cosa consiste la trasformazione come meccanismo di ricombinazione genica nei batteri?",
+    "suggestion": "Non serve un altro batterio a contatto né un virus: il DNA è già presente sciolto nell'ambiente.",
+    "options": [
+      "Nell'assunzione di DNA libero presente nell'ambiente esterno, che può conferire nuovi geni al batterio",
+      "Nel passaggio di DNA tra due batteri a contatto diretto attraverso un ponte citoplasmatico",
+      "Nel trasporto di DNA da un batterio all'altro per opera di un virus che agisce da vettore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella trasformazione il batterio assume DNA libero presente nell'ambiente esterno, che può contenere geni capaci di esprimere proteine che il ricevente non possiede. Si distingue dalla coniugazione (contatto diretto via plasmidi) e dalla trasduzione (virus vettore).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-fotoautotrofi-030",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue un batterio fotoautotrofo ossigenico da uno anossigenico?",
+    "suggestion": "Entrambi usano la luce e la CO2, ma differiscono per un sottoprodotto della loro fotosintesi.",
+    "options": [
+      "L'ossigenico ricava carbonio da sostanza organica, l'anossigenico direttamente dall'anidride carbonica",
+      "L'ossigenico vive solo in acqua salata, l'anossigenico esclusivamente in ambienti di acqua dolce",
+      "L'ossigenico libera ossigeno come prodotto di scarto della fotosintesi, l'anossigenico no"
+    ],
+    "correctIndex": 2,
+    "explanation": "I fotoautotrofi usano la luce come fonte di energia e la CO2 come fonte di carbonio; si distinguono in ossigenici (la cui fotosintesi produce O2 come prodotto di scarto) e anossigenici (la cui fotosintesi non produce ossigeno). Entrambi ricavano carbonio dalla CO2.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-chemioeterotrofi-031",
+    "topic": "biodiversita-vegetale",
+    "question": "Tra i batteri chemioeterotrofi, che cosa distingue un saprofita da un parassita?",
+    "suggestion": "Conta se la sostanza organica proviene da organismi morti oppure da un ospite vivo che ne viene danneggiato.",
+    "options": [
+      "Il saprofita si nutre di sostanza organica di organismi morti, il parassita a spese di organismi vivi",
+      "Il saprofita ricava energia dalla luce solare, il parassita dall'ossidazione di composti inorganici",
+      "Il saprofita fissa l'azoto atmosferico nei noduli, il parassita ossida l'ammonio a nitrati nel suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I chemioeterotrofi ricavano energia e carbonio dalla sostanza organica. Tra essi il saprofita si nutre di sostanza organica di organismi morti, il parassita a spese di organismi vivi (danneggiandoli) e il simbionte instaura un rapporto mutualistico vantaggioso per entrambi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.11"
+  },
+  {
+    "id": "bdv-proc-fissazione-032",
+    "topic": "biodiversita-vegetale",
+    "question": "In che modo la fissazione biotica dell'azoto rende disponibile l'azoto atmosferico agli organismi?",
+    "suggestion": "Avviene a opera di batteri, alcuni ospitati nei noduli radicali delle leguminose, altri liberi nel suolo.",
+    "options": [
+      "Attraverso fulmini e attività vulcanica, che trasformano l'azoto per via puramente abiotica",
+      "Attraverso la denitrificazione, che riduce i nitrati del suolo restituendo azoto gassoso all'atmosfera",
+      "Attraverso batteri simbionti dei noduli radicali delle leguminose e batteri liberi nel suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fissazione biotica dell'azoto è operata da batteri: simbionti nei noduli radicali delle leguminose (come Rhizobium) o non simbionti liberi nel suolo. L'ammonio prodotto viene poi assimilato dalle piante. La via abiotica (fulmini, vulcani, industria) è distinta, e la denitrificazione fa il percorso inverso.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.12"
+  },
+  {
+    "id": "bdv-proc-denitrificazione-033",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue la denitrificazione dall'ammonificazione nel ciclo dell'azoto?",
+    "suggestion": "Una restituisce azoto gassoso all'atmosfera, l'altra libera ammonio dai composti organici azotati.",
+    "options": [
+      "La denitrificazione ossida l'ammonio a nitrati, l'ammonificazione riduce i nitrati ad azoto molecolare",
+      "La denitrificazione riduce i nitrati ad azoto gassoso, l'ammonificazione trasforma l'azoto organico in ammonio",
+      "La denitrificazione incorpora l'ammonio negli amminoacidi delle piante, l'ammonificazione lo fissa dall'aria"
+    ],
+    "correctIndex": 1,
+    "explanation": "La denitrificazione è la riduzione dei nitrati ad azoto gassoso, restituito all'atmosfera; l'ammonificazione è la trasformazione dei composti organici azotati in ammonio a opera dei decompositori. L'ossidazione dell'ammonio a nitrati è invece la nitrificazione.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.12"
+  },
+  {
+    "id": "bdv-proc-fill-carbossisoma-034",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nel citoplasma dei cianobatteri, il granulo che contiene l'enzima Rubisco per la fissazione del carbonio è detto ___.",
+    "answers": [
+      [
+        "carbossisoma",
+        "carbossisomi"
+      ]
+    ],
+    "suggestion": "Il nome richiama la carbossilazione: è il compartimento dove opera la ribulosio-1,5-bisfosfato carbossilasi.",
+    "explanation": "Il carbossisoma è un granulo che racchiude la Rubisco (ribulosio-1,5-bisfosfato carbossilasi/ossigenasi), enzima chiave della fissazione del carbonio nella fotosintesi. È distinto da altri corpi come i granuli di cianoficina (riserva di azoto) e di polifosfati (riserva di fosforo).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.13"
+  },
+  {
+    "id": "bdv-proc-riserve-035",
+    "topic": "biodiversita-vegetale",
+    "question": "Qual è la funzione dei vacuoli gassosi presenti in molti cianobatteri?",
+    "suggestion": "Regolano la posizione della cellula nella colonna d'acqua, agendo sulla spinta verso l'alto.",
+    "options": [
+      "Consentono il galleggiamento della cellula nella colonna d'acqua",
+      "Costituiscono la principale riserva di fosforo inorganico utilizzabile per sintetizzare ATP",
+      "Racchiudono l'enzima nitrogenasi impiegato per la fissazione dell'azoto molecolare atmosferico"
+    ],
+    "correctIndex": 0,
+    "explanation": "I vacuoli gassosi permettono il galleggiamento del cianobatterio nella colonna d'acqua. La riserva di fosforo inorganico è invece nei granuli di polifosfati, mentre la nitrogenasi è localizzata nelle eterocisti, non nei vacuoli gassosi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.13"
+  },
+  {
+    "id": "bdv-proc-cromatoplasma-036",
+    "topic": "biodiversita-vegetale",
+    "question": "Che differenza c'è tra il cromatoplasma e il centroplasma di un cianobatterio?",
+    "suggestion": "Uno è la zona periferica ricca di membrane fotosintetiche, l'altro la zona centrale dove sta il materiale genetico.",
+    "options": [
+      "Il cromatoplasma è la zona periferica con i tilacoidi e i pigmenti, il centroplasma la zona centrale col nucleoide",
+      "Il cromatoplasma contiene il nucleoide, mentre il centroplasma raccoglie tutti i pigmenti fotosintetici della cellula",
+      "Il cromatoplasma è la parete a peptidoglicano, mentre il centroplasma è la guaina mucillaginosa più esterna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel cianobatterio la porzione periferica del citoplasma, ricca di membrane fotosintetiche (tilacoidi) e pigmenti, è il cromatoplasma; la porzione più centrale, dove è localizzato il nucleoide, è il centroplasma.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.13"
+  },
+  {
+    "id": "bdv-proc-fill-nitrogenasi-037",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "L'enzima che, nelle eterocisti dei cianobatteri, catalizza la trasformazione dell'azoto molecolare in gruppi amminici assimilabili è detto ___.",
+    "answers": [
+      [
+        "nitrogenasi"
+      ]
+    ],
+    "suggestion": "È l'enzima della fissazione dell'azoto, ed è inattivato dall'ossigeno: per questo agisce in un ambiente anaerobio.",
+    "explanation": "La nitrogenasi catalizza la trasformazione dell'azoto molecolare (N2) in gruppi amminici (-NH2), forma assimilabile. È localizzata nelle eterocisti perché è inattivata dall'ossigeno, che quelle cellule tengono a bada con parete spessa e assenza di fotosistema II.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.14"
+  },
+  {
+    "id": "bdv-proc-anossigenica-038",
+    "topic": "biodiversita-vegetale",
+    "question": "Perché alcuni cianobatteri, in condizioni anaerobie, possono svolgere una fotosintesi anossigenica?",
+    "suggestion": "In assenza di ossigeno usano un solo fotosistema, quello che non scinde l'acqua.",
+    "options": [
+      "Perché perdono del tutto i pigmenti fotosintetici e passano a nutrirsi di sola sostanza organica",
+      "Perché utilizzano il solo fotosistema I, senza scindere l'acqua e quindi senza liberare ossigeno",
+      "Perché raddoppiano l'attività del fotosistema II, aumentando la produzione di ossigeno molecolare"
+    ],
+    "correctIndex": 1,
+    "explanation": "In condizioni normali i cianobatteri usano entrambi i fotosistemi per una fotosintesi ossigenica. In condizioni anaerobie alcuni possono impiegare esclusivamente il fotosistema I, realizzando una fotosintesi anossigenica che non scinde l'acqua e non produce ossigeno.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.13-14"
   }
 ]

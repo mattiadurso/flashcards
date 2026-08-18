@@ -224,5 +224,247 @@
     "explanation": "Il NADP+ (forma fosforilata del NAD) si riduce a NADPH nel cloroplasto durante la fotosintesi; il NAD+/NADH opera invece soprattutto nel mitocondrio durante la respirazione. Entrambi trasportano elettroni (potere riducente) alternando forma ossidata e ridotta.",
     "difficulty": "hard",
     "source": "Biologia veg.pdf p.11"
+  },
+  {
+    "id": "bvg-pro-osmoliti-016",
+    "topic": "biologia-vegetale",
+    "question": "In condizioni di stress idrico come la siccità, quale funzione possono svolgere i singoli amminoacidi liberi nella cellula?",
+    "suggestion": "Si accumulano nel citoplasma e influiscono sul potenziale osmotico cellulare.",
+    "options": [
+      "Fungono da pigmenti accessori che ampliano lo spettro di luce captato durante la fotosintesi",
+      "Fungono da traslocatori di potere riducente, alternando forma ossidata e ridotta come il NAD",
+      "Fungono da osmoliti, accumulandosi nel citoplasma per regolare il potenziale osmotico cellulare",
+      "Fungono da enzimi che catalizzano direttamente le reazioni di sintesi della parete cellulare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oltre alle funzioni strutturale, di riserva e catalitica delle proteine, i singoli amminoacidi liberi possono agire come osmoliti: si accumulano nel citoplasma per regolare il potenziale osmotico cellulare in condizioni di stress idrico (siccità).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-classi-aa-017",
+    "topic": "biologia-vegetale",
+    "question": "In base a quale criterio i venti amminoacidi delle proteine si classificano in non polari, polari non carichi e carichi (acidi o basici)?",
+    "suggestion": "Il criterio riguarda l'unico gruppo che varia da un amminoacido all'altro.",
+    "options": [
+      "In base alla lunghezza dello scheletro polipeptidico e al numero di legami peptidici presenti",
+      "In base alle caratteristiche chimico-fisiche del gruppo R (catena laterale) di ciascun amminoacido",
+      "In base al numero di gruppi fosforici legati al carbonio α di ciascun amminoacido",
+      "In base al tipo di zucchero pentoso associato al gruppo amminico dell'amminoacido"
+    ],
+    "correctIndex": 1,
+    "explanation": "I venti amminoacidi si classificano in base alle proprietà chimico-fisiche del gruppo R (catena laterale): non polari/idrofobici (glicina, alanina, valina...), polari non carichi (serina, treonina, cisteina...) e carichi, a loro volta acidi (aspartico, glutammico) o basici (lisina, arginina, istidina).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-primaria-018",
+    "topic": "biologia-vegetale",
+    "question": "Perché la struttura primaria è il livello di organizzazione più resistente e stabile di una proteina?",
+    "suggestion": "Dipende dal tipo di legame che tiene uniti gli amminoacidi in sequenza.",
+    "options": [
+      "Perché è stabilizzata da legami covalenti (i legami peptidici) tra amminoacidi contigui",
+      "Perché è stabilizzata da soli legami idrogeno tra gli atomi dello scheletro peptidico",
+      "Perché è stabilizzata da interazioni idrofobiche e ponti disolfuro tra i gruppi laterali R",
+      "Perché è stabilizzata dall'associazione di più subunità in un unico complesso funzionale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La struttura primaria è la sequenza lineare degli amminoacidi, così come tradotta dall'mRNA. Essendo stabilizzata da legami covalenti (i legami peptidici), rappresenta il livello più resistente e stabile: la denaturazione, che colpisce i livelli superiori, non la intacca.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-quaternaria-019",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa caratterizza la struttura quaternaria di proteine come la RuBisCO e l'ATP sintasi?",
+    "suggestion": "È il livello più complesso e coinvolge più catene polipeptidiche distinte.",
+    "options": [
+      "Il ripiegamento locale della singola catena in α-elica e foglietto β ripiegato",
+      "La sequenza lineare degli amminoacidi stabilizzata dai soli legami peptidici covalenti",
+      "L'associazione di più subunità proteiche distinte in un unico complesso funzionale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La struttura quaternaria è data dall'associazione di più subunità proteiche distinte (talora identiche) in un unico complesso funzionale. Ne sono esempi la RuBisCO e l'ATP sintasi. Il ripiegamento locale è la struttura secondaria; la sequenza lineare è la primaria.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-glob-fil-020",
+    "topic": "biologia-vegetale",
+    "question": "Quale differenza distingue le proteine filamentose dalle proteine globulari?",
+    "suggestion": "Pensa alla forma complessiva e a dove si trovano nella cellula.",
+    "options": [
+      "Le filamentose sono prive di struttura terziaria, mentre le globulari ne sono dotate",
+      "Le filamentose costituiscono citoscheletro e fuso mitotico, le globulari includono le proteine di riserva",
+      "Le filamentose sono stabilizzate da legami idrogeno, le globulari da soli legami covalenti",
+      "Le filamentose si trovano solo nei procarioti, le globulari solo negli eucarioti"
+    ],
+    "correctIndex": 1,
+    "explanation": "In base alla forma complessiva le proteine si distinguono in filamentose, come quelle del citoscheletro o del fuso mitotico, e globulari, come le proteine di riserva ad elevato peso molecolare. La distinzione riguarda la forma tridimensionale, non la presenza dei livelli strutturali.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-fill-dalton-021",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "L'unità di massa atomica unificata con cui si esprime la massa delle proteine è il ___.",
+    "answers": [
+      [
+        "dalton",
+        "Dalton",
+        "dalton (Da)",
+        "Da"
+      ]
+    ],
+    "suggestion": "La massa delle proteine si colloca in genere tra 10 e 100 dei suoi multipli (kilo-).",
+    "explanation": "Il Dalton è l'unità di massa atomica unificata (1,66 × 10⁻²⁷ kg nel SI) con cui si esprime la massa delle proteine, che generalmente è compresa tra 10 e 100 kDa (chiloDalton).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.8"
+  },
+  {
+    "id": "bvg-pro-funz-nucleotidi-022",
+    "topic": "biologia-vegetale",
+    "question": "Quali sono le tre funzioni principali svolte dai nucleotidi nei viventi?",
+    "suggestion": "Oltre a conservare l'informazione ereditaria, ne esistono una energetica e una di segnale.",
+    "options": [
+      "Conservazione dell'informazione genetica, funzione energetica e funzione di messaggeri secondari",
+      "Impermeabilizzazione delle superfici, sostegno strutturale e riserva di azoto nei semi",
+      "Catalisi enzimatica delle reazioni, regolazione osmotica e trasporto di ossigeno",
+      "Sintesi dei lipidi di membrana, detossificazione e accumulo di calcio nel reticolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I nucleotidi svolgono tre funzioni principali: conservazione dell'informazione genetica (acidi nucleici), funzione energetica (ATP) e, in alcuni casi, funzione di messaggeri secondari (come l'AMP ciclico, che trasmette segnali intracellulari).",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-camp-023",
+    "topic": "biologia-vegetale",
+    "question": "Quale molecola nucleotidica agisce da messaggero secondario nella trasmissione di segnali intracellulari?",
+    "suggestion": "È una forma ciclica del nucleotide dell'adenina.",
+    "options": [
+      "Il desossiribosio, lo zucchero pentoso caratteristico del DNA",
+      "L'uracile, la base pirimidinica presente esclusivamente nell'RNA",
+      "L'AMP ciclico (AMP ciclico), che trasmette segnali all'interno della cellula",
+      "L'istone H1, la proteina che si lega al DNA spaziatore tra i nucleosomi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alcuni nucleotidi svolgono la funzione di messaggeri secondari, cioè molecole che trasmettono segnali intracellulari: è il caso dell'AMP ciclico (cAMP). Le altre opzioni non sono molecole di segnalazione ma componenti strutturali di acidi nucleici o cromatina.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.9"
+  },
+  {
+    "id": "bvg-pro-componenti-024",
+    "topic": "biologia-vegetale",
+    "question": "Da quali tre elementi covalentemente legati è composto un nucleotide?",
+    "suggestion": "Uno zucchero a cinque atomi di carbonio, una parte azotata e una parte acida.",
+    "options": [
+      "Un gruppo amminico, un gruppo carbossilico e un gruppo R variabile legati al carbonio α",
+      "Un gruppo fosforico, uno zucchero pentoso e una base azotata",
+      "Una molecola di glicerolo esterificata da tre code di acidi grassi a lunga catena",
+      "Una testa idrofila fosfato-colina e due code idrofobe di acidi grassi apolari"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un nucleotide è composto da tre elementi covalentemente legati: un gruppo fosforico, uno zucchero pentoso (a cinque atomi di carbonio) e una base azotata. L'unione della sola base con lo zucchero, priva del fosfato, è invece il nucleoside.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.10"
+  },
+  {
+    "id": "bvg-pro-fill-desossiribosio-025",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Lo zucchero pentoso caratteristico del DNA, privo di un ossidrile in posizione 2' rispetto al ribosio, è il ___.",
+    "answers": [
+      [
+        "desossiribosio",
+        "deossiribosio",
+        "2-desossiribosio"
+      ]
+    ],
+    "suggestion": "Si differenzia dallo zucchero dell'RNA per l'assenza di un gruppo ossidrile.",
+    "explanation": "Il desossiribosio è lo zucchero pentoso del DNA; si differenzia dal ribosio (tipico dell'RNA) per l'assenza del gruppo ossidrile in posizione 2'. Gli atomi di carbonio dello zucchero si indicano con l'apice (es. 3', 5') per distinguerli da quelli della base.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.10"
+  },
+  {
+    "id": "bvg-pro-fosfodiesterico-026",
+    "topic": "biologia-vegetale",
+    "question": "Quale legame unisce due nucleotidi contigui lungo lo stesso filamento di acido nucleico, e quale direzionalità conferisce?",
+    "suggestion": "È un legame covalente tra il fosfato di un nucleotide e lo zucchero del successivo.",
+    "options": [
+      "Un legame fosfodiesterico covalente, che dà al filamento direzionalità dall'estremità 5' alla 3'",
+      "Un legame idrogeno debole, che appaia le basi complementari dei due filamenti opposti",
+      "Un legame peptidico per disidratazione, tra il carbossile e il gruppo amminico dei nucleotidi",
+      "Un ponte disolfuro covalente, tra due atomi di zolfo appartenenti a residui di cisteina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lungo un filamento i nucleotidi contigui sono uniti da legami fosfodiesterici (covalenti) tra il gruppo fosforico di un nucleotide e lo zucchero del successivo, che conferiscono al filamento direzionalità 5'→3'. I legami idrogeno operano invece tra i due filamenti complementari, appaiando le basi.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.10"
+  },
+  {
+    "id": "bvg-pro-semiconservativa-027",
+    "topic": "biologia-vegetale",
+    "question": "Perché la duplicazione del DNA è definita un processo semiconservativo?",
+    "suggestion": "Considera come sono fatte le due molecole figlie rispetto ai filamenti di partenza.",
+    "options": [
+      "Perché conserva solo metà dell'informazione genetica, perdendo l'altra metà a ogni divisione",
+      "Perché ciascuna molecola figlia è formata da un filamento parentale e uno di nuova sintesi",
+      "Perché avviene solo nella metà delle cellule, quelle destinate alla riproduzione sessuata",
+      "Perché copia il DNA in RNA conservandone solo la sequenza delle basi puriniche"
+    ],
+    "correctIndex": 1,
+    "explanation": "La duplicazione è semiconservativa perché da una molecola parentale si originano due molecole figlie, ciascuna costituita da un filamento parentale originario (che funge da stampo) e da un filamento di nuova sintesi, appaiato secondo le regole di complementarità.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.11"
+  },
+  {
+    "id": "bvg-pro-rna-tipi-028",
+    "topic": "biologia-vegetale",
+    "question": "Quale ruolo svolge l'RNA transfer (tRNA) durante la sintesi proteica?",
+    "suggestion": "È il tipo di RNA che porta fisicamente i mattoni della proteina al ribosoma.",
+    "options": [
+      "Trasporta l'informazione genetica dal DNA fino ai ribosomi, fungendo da stampo di lettura",
+      "Costituisce la componente strutturale e catalitica del ribosoma su cui avviene la traduzione",
+      "Trasporta i singoli amminoacidi riconoscendo la sequenza codificante presente sull'mRNA",
+      "Avvolge il DNA attorno agli istoni per formare i nucleosomi della cromatina condensata"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il tRNA (RNA transfer) trasporta i singoli amminoacidi durante la sintesi proteica, riconoscendo la sequenza codificante dell'mRNA. L'mRNA trasporta l'informazione dal DNA ai ribosomi; l'rRNA costituisce la componente strutturale e catalitica del ribosoma.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.11"
+  },
+  {
+    "id": "bvg-pro-sedi-sintesi-029",
+    "topic": "biologia-vegetale",
+    "question": "In quali sedi cellulari avvengono rispettivamente la trascrizione e la traduzione durante la sintesi proteica?",
+    "suggestion": "Una copia l'informazione dove risiede il DNA; l'altra assembla la proteina dove stanno i ribosomi.",
+    "options": [
+      "La trascrizione nel nucleo, la traduzione sul ribosoma nel citoplasma dopo il passaggio dei pori nucleari",
+      "La trascrizione sul ribosoma citoplasmatico, la traduzione all'interno del nucleo sullo stampo di DNA",
+      "Entrambe all'interno del mitocondrio, sede unica sia della copia sia dell'assemblaggio della proteina",
+      "Entrambe nel vacuolo, dove il succo vacuolare fornisce l'ambiente per la sintesi delle proteine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella trascrizione l'mRNA è sintetizzato nel nucleo sullo stampo di DNA; l'mRNA passa poi nel citoplasma attraverso i pori nucleari. Nella traduzione l'mRNA raggiunge il ribosoma (spesso associato al RER), dove è tradotto in sequenza polipeptidica grazie ai tRNA.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.11"
+  },
+  {
+    "id": "bvg-pro-foglietto-beta-030",
+    "topic": "biologia-vegetale",
+    "question": "Quale conformazione della struttura secondaria è particolarmente caratteristica delle proteine di trasporto di membrana, come canali e pori?",
+    "suggestion": "Non è avvolta a spirale, ma formata da segmenti paralleli disposti a pieghe.",
+    "options": [
+      "L'α-elica avvolta a spirale, tipica delle proteine globulari di riserva ad alto peso molecolare",
+      "La struttura quaternaria data dall'associazione di più subunità proteiche distinte",
+      "La struttura primaria, cioè la semplice sequenza lineare degli amminoacidi della catena",
+      "Il foglietto β ripiegato, con i segmenti della catena disposti paralleli tra loro a pieghe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le due conformazioni principali della struttura secondaria sono l'α-elica e il foglietto β ripiegato; quest'ultimo, con segmenti della catena disposti paralleli a formare pieghe, è particolarmente caratteristico delle proteine di trasporto attraverso le membrane, come canali e pori.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.9"
   }
 ]

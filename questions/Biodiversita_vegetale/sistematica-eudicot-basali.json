@@ -79,7 +79,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "Il frutto secco composto da numerosi piccoli frutti indeiscenti monospermi, tipico di molte Ranunculaceae, è detto ___.",
-    "answers": [["poliachenio", "poliacheni"]],
+    "answers": [
+      [
+        "poliachenio",
+        "poliacheni"
+      ]
+    ],
     "suggestion": "È un insieme di acheni; l'alternativa è il polifollicolo (insieme di follicoli).",
     "explanation": "Il poliachenio è un frutto composto da numerosi acheni (frutti secchi indeiscenti a un solo seme), tipico delle Ranunculaceae; l'alternativa è il polifollicolo (insieme di follicoli deiscenti). Talvolta gli acheni hanno appendici piumose per la dispersione anemocora.",
     "difficulty": "medium",
@@ -195,7 +200,12 @@
     "type": "fill",
     "topic": "biodiversita-vegetale",
     "question": "La sostituzione reciproca di specie strettamente imparentate su substrati diversi (Cerastium uniflorum su silice, C. latifolium su calcare) è detta vicarianza ___.",
-    "answers": [["ecologica", "ecologiche"]],
+    "answers": [
+      [
+        "ecologica",
+        "ecologiche"
+      ]
+    ],
     "suggestion": "Non è geografica ma legata al tipo di substrato/ambiente occupato.",
     "explanation": "La vicarianza ecologica è la sostituzione reciproca di specie affini in relazione a substrati o condizioni ambientali diversi: nel genere Cerastium, C. uniflorum è legato ai substrati silicei, C. latifolium a quelli calcarei.",
     "difficulty": "hard",
@@ -215,5 +225,236 @@
     "explanation": "Le antocianine sono pigmenti idrosolubili responsabili delle colorazioni rosse, rosa, violacee e blu di molti fiori e frutti; sono presenti nei tessuti di numerose Caryophyllaceae. Il frutto tipico della famiglia è una capsula denticida.",
     "difficulty": "easy",
     "source": "Biodiversità vegetale.pdf p.72"
+  },
+  {
+    "id": "bdv-eud-due-gradi-016",
+    "topic": "biodiversita-vegetale",
+    "question": "In quali due gradi evolutivi successivi si articolano le Eudicotiledoni, e a quali ordini corrispondono?",
+    "suggestion": "Un grado è quello più antico (Ranunculales), l'altro è quello delle 'core eudicots' (Caryophyllales).",
+    "options": [
+      "Eudicotiledoni marine e terrestri, corrispondenti rispettivamente a Poales e Asparagales",
+      "Un unico grado indiviso, coincidente con il solo ordine Ranunculales, senza core eudicots",
+      "Eudicotiledoni basali (ordine Ranunculales) ed Eudicotiledoni centrali o core eudicots (ordine Caryophyllales)"
+    ],
+    "correctIndex": 2,
+    "explanation": "All'interno delle Eudicotiledoni si riconoscono due gradi successivi: le Eudicotiledoni basali, cui appartiene l'ordine Ranunculales, e le Eudicotiledoni centrali (core eudicots), cui appartiene l'ordine Caryophyllales.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.70"
+  },
+  {
+    "id": "bdv-eud-caryo-colonna-centrale-017",
+    "topic": "biodiversita-vegetale",
+    "question": "Come sono disposti gli ovuli nell'ovario delle Caryophyllaceae?",
+    "suggestion": "L'ovario è uniloculare pur derivando da più carpelli fusi: gli ovuli si inseriscono al centro.",
+    "options": [
+      "Su placente parietali distribuite lungo la parete interna di più logge separate",
+      "Uno solo per ciascuna delle numerose logge, come in un ovario pluriloculare",
+      "Appesi all'apice dell'ovario, in posizione apicale pendula",
+      "Su una colonna centrale che si sviluppa dalla base dell'ovario uniloculare"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nelle Caryophyllaceae l'ovario è sincarpico ma uniloculare: gli ovuli sono inseriti su una colonna centrale che si sviluppa dalla base dell'ovario (placentazione centrale). L'ovario porta (2) 3-5 stili.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.73"
+  },
+  {
+    "id": "bdv-eud-ranun-veleno-018",
+    "topic": "biodiversita-vegetale",
+    "question": "A quali sostanze è dovuta la tossicità o l'azione irritante di molte Ranunculaceae?",
+    "suggestion": "Sono composti azotati e glucosidi accumulati nei tessuti, tra cui alcuni con proprietà schiumogene.",
+    "options": [
+      "Alla sola presenza di lattice biancastro secreto dai tessuti lesionati",
+      "Ad alcaloidi, glucosidi e saponine presenti nei tessuti",
+      "All'accumulo di silice nell'epidermide, che rende i tessuti abrasivi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei tessuti delle Ranunculaceae sono spesso presenti alcaloidi (composti azotati), glucosidi e saponine (glucosidi schiumogeni): per questo la famiglia comprende numerose specie velenose o irritanti. Le Ranunculaceae non sono laticifere.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.70"
+  },
+  {
+    "id": "bdv-eud-clematis-019",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa rappresenta Clematis vitalba nella serie evolutiva dei fiori delle Ranunculaceae?",
+    "suggestion": "È una liana rampicante con perianzio di pochi tepali, ma androceo e gineceo ancora a spirale.",
+    "options": [
+      "Il grado più evoluto, con fiore ciclico zigomorfo e gineceo sincarpico di cinque carpelli fusi",
+      "Il grado più primitivo, del tutto aciclico, con il calice sostituito da brattee fogliari nettarifere",
+      "Un grado intermedio emiciclico, con perianzio di 4 tepali (P4, C0) e androceo e gineceo ancora spiralati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clematis vitalba (vitalba), pianta rampicante lianosa, illustra un grado intermedio emiciclico: perianzio di 4 tepali, petali assenti (P4, C0), mentre androceo e gineceo restano a disposizione spiralata (An, Gn apocarpico).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.71"
+  },
+  {
+    "id": "bdv-eud-anemonoides-020",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale carattere del fiore accomuna Anemonoides ed Helleborus nelle Ranunculaceae?",
+    "suggestion": "In entrambi ciò che sembra un calice è in realtà formato da foglie modificate poste sotto il fiore.",
+    "options": [
+      "In entrambi foglie bratteali simulano un calice, in un fiore ancora a organizzazione emiciclica o aciclica",
+      "In entrambi il fiore è già del tutto ciclico e zigomorfo, con gineceo sincarpico di carpelli fusi",
+      "In entrambi gli stami sono del tutto assenti e sostituiti da nettari"
+    ],
+    "correctIndex": 0,
+    "explanation": "In Anemonoides (anemone) le foglie bratteali simulano un calice, come avviene in Helleborus: il fiore è ancora poco evoluto (emiciclico/aciclico), con androceo e gineceo spiralati e apocarpici. La formula di Anemonoides è P 3-n, C 0, A n spiralati, G n.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.71"
+  },
+  {
+    "id": "bdv-eud-ranunculus-grado-021",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale novità strutturale segna il grado di Ranunculus (e Pulsatilla) rispetto ai generi più primitivi delle Ranunculaceae?",
+    "suggestion": "Per la prima volta il perianzio è nettamente separato in due verticilli con funzioni distinte.",
+    "options": [
+      "Il perianzio è ridotto a soli 4 tepali indifferenziati, con androceo e gineceo già del tutto ciclici",
+      "Il calice è sostituito da brattee fogliari e i petali sono del tutto assenti (C 0)",
+      "Il gineceo diventa sincarpico, con i cinque carpelli fusi in un unico ovario composto",
+      "Calice e corolla sono ormai differenziati (K5, C5), mentre androceo e gineceo restano spiralati"
+    ],
+    "correctIndex": 3,
+    "explanation": "In Ranunculus (ranuncolo) e Pulsatilla il grado emiciclico raggiunge la differenziazione di calice e corolla (K5, C5), pur mantenendo androceo e gineceo a disposizione spiralata e apocarpica (A n, G n).",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.71"
+  },
+  {
+    "id": "bdv-eud-nigella-sincarpico-022",
+    "topic": "biodiversita-vegetale",
+    "question": "Che cosa distingue Nigella damascena dagli altri fiori evoluti e ciclici delle Ranunculaceae, come Aconitum?",
+    "suggestion": "La differenza è nel gineceo: i carpelli non restano liberi.",
+    "options": [
+      "Ha fiore aciclico con elementi a spirale, il grado più primitivo dell'intera serie",
+      "Ha gineceo sincarpico, con i cinque carpelli fusi in un unico ovario composto",
+      "Ha androceo ridotto a un solo stame fertile e perianzio del tutto assente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nigella damascena è un fiore evoluto e ciclico ma con gineceo sincarpico (formula P 5, C 0, A n, G (5)): i cinque carpelli sono fusi in un unico ovario composto, a differenza dei generi apocarpici a carpelli liberi come Aconitum.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.72"
+  },
+  {
+    "id": "bdv-eud-fill-carpoforo-023",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Silenoideae il breve peduncolo interno al fiore che sostiene l'ovario, dovuto all'allungamento del ricettacolo tra androceo e gineceo, è detto ___.",
+    "answers": [
+      [
+        "carpoforo",
+        "carpofori"
+      ]
+    ],
+    "suggestion": "È uno dei caratteri che distinguono le Silenoideae (presente) dalle Alsinoideae (assente).",
+    "explanation": "Il carpoforo è il breve peduncolo interno al fiore che sostiene l'ovario, prodotto dall'allungamento del ricettacolo tra androceo e gineceo. È presente nelle Silenoideae e assente nelle Alsinoideae e Paronychioideae.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.74"
+  },
+  {
+    "id": "bdv-eud-papaver-fittone-024",
+    "topic": "biodiversita-vegetale",
+    "question": "Come è organizzato l'apparato radicale delle Papaveraceae?",
+    "suggestion": "È dominato da un asse principale verticale, a differenza delle radici delle Ranunculaceae.",
+    "options": [
+      "Radici fascicolate, in un fascio di radici simili senza asse dominante, come nelle Ranunculaceae",
+      "Radici avventizie che partono dai nodi di un rizoma sotterraneo strisciante",
+      "Radici del tutto assenti, sostituite da austori parassitari su piante ospiti",
+      "Radici fittonanti, con un asse principale verticale da cui si dipartono radici secondarie più sottili"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le Papaveraceae hanno radici fittonanti, organizzate attorno a un asse principale verticale ben sviluppato da cui partono radici secondarie più sottili; le Ranunculaceae hanno invece radici fascicolate. Entrambe contengono alcaloidi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.72"
+  },
+  {
+    "id": "bdv-eud-papaver-formula-025",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale struttura di calice e corolla riassume la formula fiorale K2, C2+2 delle Papaveraceae?",
+    "suggestion": "Pochi sepali in un solo verticillo e petali disposti in due verticilli.",
+    "options": [
+      "Un calice di 2 sepali caduchi e una corolla di 2+2 petali disposti in due verticilli",
+      "Un calice gamosepalo di 5 sepali persistenti e una corolla di 5 petali saldati in tubo",
+      "Un perianzio indifferenziato di numerosi tepali disposti a spirale su un ricettacolo conico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formula K 2, C 2+2 (6) indica un calice di 2 soli sepali caduchi e una corolla di 4 petali disposti in 2 verticilli (2+2), increspati nel boccio; gli stami sono numerosi (A n) e il gineceo sincarpico (G (2-n)).",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.72"
+  },
+  {
+    "id": "bdv-eud-chelidonium-026",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale frutto caratterizza Chelidonium majus (celidonia) tra le Papaveraceae?",
+    "suggestion": "È una capsula, ma di forma insolita e con una sola cavità interna.",
+    "options": [
+      "Un poliachenio composto da numerosi acheni con appendici piumose per la dispersione anemocora",
+      "Un aggregato di follicoli monospermi disposti a spirale su un ricettacolo conico allungato",
+      "Una capsula lineare uniloculare, deiscente per due valve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chelidonium majus (celidonia) ha un frutto a capsula lineare uniloculare (una sola cavità interna), deiscente per due valve. Nel genere Papaver il frutto è invece una capsula poricida o loculicida.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.72"
+  },
+  {
+    "id": "bdv-eud-caryophyllales-ordine-027",
+    "topic": "biodiversita-vegetale",
+    "question": "Quale insieme di caratteri descrive l'ordine Caryophyllales, tra le Eudicotiledoni centrali?",
+    "suggestion": "Pensa all'habitus prevalente, alla posizione dell'ovario, al tipo di frutto e al margine fogliare.",
+    "options": [
+      "Piante prevalentemente legnose, con ovario infero, frutto a bacca e foglie profondamente lobate",
+      "Piante prevalentemente erbacee, con fiori attinomorfi provvisti di perianzio, ovario supero, frutto a capsula e foglie intere",
+      "Piante prive di perianzio, con fiori ridotti a un solo stame e impollinazione esclusivamente anemofila"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le Caryophyllales sono piante prevalentemente erbacee, con fiori attinomorfi provvisti di perianzio (calice e corolla), ovario supero, frutto a capsula e foglie intere. L'ordine comprende 18 famiglie, circa 700 generi e circa 11.500 specie.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.73"
+  },
+  {
+    "id": "bdv-eud-caryo-lepidotteri-028",
+    "topic": "biodiversita-vegetale",
+    "question": "A quali animali è affidata prevalentemente l'impollinazione delle Caryophyllaceae?",
+    "suggestion": "Il petalo con unghia lunga e lembo espanso è coerente con un impollinatore provvisto di spiritromba.",
+    "options": [
+      "A uccelli nettarivori attirati dalle antocianine rosse dei tepali",
+      "Al vento (anemofilia), grazie a fiori ridotti, bratteiformi e privi di nettari",
+      "A coleotteri masticatori che si nutrono direttamente del polline e dei carpelli",
+      "A lepidotteri, cioè farfalle"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nelle Caryophyllaceae l'impollinazione è generalmente affidata a lepidotteri (farfalle), coerentemente con la corolla vistosa dai petali distinti in unghia lunga e lembo espanso.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.73"
+  },
+  {
+    "id": "bdv-eud-caryo-denticida-029",
+    "topic": "biodiversita-vegetale",
+    "question": "Come avviene la deiscenza della capsula tipica delle Caryophyllaceae?",
+    "suggestion": "Si apre all'apice mediante piccoli denti, il cui numero è legato a quello degli stili.",
+    "options": [
+      "Per pori disposti sulla sommità, come nella capsula poricida del papavero",
+      "Per denti apicali, in numero pari a una o due volte il numero degli stili (capsula denticida)",
+      "Non si apre affatto: è un frutto secco indeiscente con pericarpo saldato al seme"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il frutto delle Caryophyllaceae è una capsula denticida: si apre all'apice tramite denti in numero pari a una o due volte il numero degli stili del fiore. I semi contenuti variano da uno a numerosi.",
+    "difficulty": "medium",
+    "source": "Biodiversità vegetale.pdf p.74"
+  },
+  {
+    "id": "bdv-eud-fill-baccoide-030",
+    "type": "fill",
+    "topic": "biodiversita-vegetale",
+    "question": "Nelle Caryophyllaceae, quando la capsula assume consistenza carnosa e aspetto simile a una bacca, come nel genere Cucubalus, si parla di capsula ___.",
+    "answers": [
+      [
+        "baccoide",
+        "baccoidi"
+      ]
+    ],
+    "suggestion": "Il termine deriva dalla somiglianza con una bacca, pur trattandosi di una capsula.",
+    "explanation": "In Cucubalus baccifer la capsula assume consistenza carnosa e aspetto simile a una bacca: si parla di capsula baccoide. Resta comunque una capsula, non un vero frutto carnoso.",
+    "difficulty": "hard",
+    "source": "Biodiversità vegetale.pdf p.74"
   }
 ]

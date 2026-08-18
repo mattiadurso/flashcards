@@ -329,5 +329,356 @@
     "explanation": "Gli effetti epigenetici (metilazioni e acetilazioni del DNA e degli istoni) modulano l'espressione genica senza alterare la sequenza nucleotidica, contribuendo al differenziamento. Concorrono anche la direzione del piano di divisione, la divisione asimmetrica, la posizione cellulare e gli ormoni.",
     "difficulty": "hard",
     "source": "Biologia veg.pdf p.29"
+  },
+  {
+    "id": "bvg-tes-colonie-023",
+    "topic": "biologia-vegetale",
+    "question": "Perché il genere Volvox, che forma sfere cave di cellule flagellate, è considerato una colonia e non un vero tessuto?",
+    "suggestion": "Le cellule restano unite dopo la divisione, ma nessuna si specializza rispetto alle altre.",
+    "options": [
+      "Perché le sue cellule, pur restando unite dopo la divisione, sono morfologicamente simili e prive di reale differenziazione funzionale reciproca",
+      "Perché le sue cellule derivano da un unico meristema che le specializza in funzioni diverse e complementari tra loro",
+      "Perché è costituito dall'intreccio simbiotico stabile tra un'alga fotosintetica e un fungo filamentoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le colonie (Gleocapsa tra i Cyanobacteria, Volvox tra le Chlorophyceae) sono aggregati di cellule autonome, morfologicamente simili, che restano unite dopo la divisione ma non presentano differenziazione funzionale reciproca. Manca quindi la specializzazione che definisce un vero tessuto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.27"
+  },
+  {
+    "id": "bvg-tes-pseudotessuti-024",
+    "topic": "biologia-vegetale",
+    "question": "Perché il micelio di Aspergillus e il corpo dei licheni sono definiti pseudotessuti e non veri tessuti?",
+    "suggestion": "Manca l'origine da un'unica linea meristematica: sono intrecci di ife o di organismi diversi.",
+    "options": [
+      "Perché sono formati da cellule identiche e autonome immerse in una comune matrice mucillaginosa",
+      "Perché sono intrecci di ife (o di due organismi distinti) non derivati da un'unica linea meristematica",
+      "Perché sono costituiti da cellule morte e lignificate specializzate nella sola conduzione dell'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli pseudotessuti sono aggregati in cui le cellule sono intrecciate in filamenti (ife), pur non derivando da un unico meristema: es. il micelio di Aspergillus (un fungo) o il corpo dei licheni, dato dall'intreccio di un'alga e un fungo filogeneticamente distinti. Non sono quindi veri tessuti istologici.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.27"
+  },
+  {
+    "id": "bvg-tes-meristemi-intercalari-025",
+    "topic": "biologia-vegetale",
+    "question": "Dove sono localizzati i meristemi intercalari, responsabili dell'allungamento degli internodi nelle Poaceae?",
+    "suggestion": "Non stanno agli apici veri e propri, ma lungo il fusto, tra i nodi.",
+    "options": [
+      "All'apice del germoglio e all'apice radicale, nelle porzioni terminali di attiva proliferazione",
+      "Sui fianchi del fusto, nei punti in cui originano le gemme ascellari e i rami laterali",
+      "In posizione distante dagli apici, alla base degli internodi del culmo delle graminacee"
+    ],
+    "correctIndex": 2,
+    "explanation": "I meristemi intercalari si trovano in posizione distante dagli apici veri e propri: un esempio è dato dai meristemi che allungano gli internodi nel culmo (fusto cavo e nodoso) delle Poaceae. I meristemi apicali stanno invece all'apice del germoglio e della radice.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.28"
+  },
+  {
+    "id": "bvg-tes-meristemi-avventizi-026",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue i meristemi avventizi dagli altri meristemi primari?",
+    "suggestion": "Compaiono dove normalmente non c'è tessuto meristematico, in risposta a un evento.",
+    "options": [
+      "Si attivano in seguito a traumi o stress, formando nuovi tessuti in punti normalmente non meristematici",
+      "Restano sempre attivi all'apice della radice per tutta la vita della pianta, senza alcuna interruzione",
+      "Producono soltanto sughero verso l'esterno e felloderma verso l'interno del rivestimento del fusto"
+    ],
+    "correctIndex": 0,
+    "explanation": "I meristemi avventizi si attivano in seguito a traumi o a condizioni di stress, consentendo la formazione di nuovi tessuti in punti dell'organismo normalmente non meristematici. Si distinguono così dai meristemi apicali (agli apici) e intercalari (agli internodi).",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.28"
+  },
+  {
+    "id": "bvg-tes-cellule-meristematiche-027",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Le cellule piccole, poliedriche e indifferenziate, costantemente in attiva divisione e localizzate perlopiù negli apici, costituiscono i tessuti ___.",
+    "answers": [
+      [
+        "meristematici",
+        "meristematico",
+        "meristemi"
+      ]
+    ],
+    "suggestion": "Sono i tessuti embrionali responsabili dell'accrescimento per divisione cellulare.",
+    "explanation": "Le cellule meristematiche sono piccole, poliedriche, indifferenziate e costantemente in divisione (visibili le figure mitotiche con colorazioni istologiche), localizzate perlopiù negli apici: costituiscono i tessuti meristematici, responsabili dell'accrescimento della pianta per divisione cellulare.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.28"
+  },
+  {
+    "id": "bvg-tes-tessuti-adulti-028",
+    "topic": "biologia-vegetale",
+    "question": "In quante e quali grandi categorie funzionali si classificano i tessuti adulti (definitivi) della pianta?",
+    "suggestion": "Sono cinque, e comprendono anche i tessuti di riempimento e quelli di sostegno.",
+    "options": [
+      "Tre categorie: i tessuti meristematici embrionali, i tessuti conduttori vascolari e i tessuti meccanici di sostegno",
+      "Quattro categorie: i tessuti tegumentali, i conduttori, i secretori e i tessuti meristematici embrionali",
+      "Due categorie soltanto: i tessuti meristematici ancora in divisione e i tessuti adulti ormai differenziati",
+      "Cinque categorie: i tessuti parenchimatici, i tegumentali, i conduttori, i secretori e i meccanici"
+    ],
+    "correctIndex": 3,
+    "explanation": "I tessuti adulti (definitivi o somatici) si distinguono in cinque grandi categorie funzionali: parenchimatici, tegumentali, conduttori, secretori (o escretori) e meccanici. Derivano dal differenziamento delle cellule meristematiche, con origine primaria o secondaria.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.29"
+  },
+  {
+    "id": "bvg-tes-parenchima-riserva-029",
+    "topic": "biologia-vegetale",
+    "question": "In quale forma il parenchima di riserva del tubero di patata accumula le sostanze nutritive?",
+    "suggestion": "Un polisaccaride di riserva, contenuto in plastidi specializzati.",
+    "options": [
+      "Come amido, entro plastidi specializzati nel suo accumulo, detti amiloplasti",
+      "Come acqua, entro ampie cellule dalla parete sottile e trasparente tipiche dei tessuti acquiferi",
+      "Come aria, entro ampie lacune aerenchimatiche formate dalla digestione della lamella mediana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il parenchima di riserva del tubero di patata accumula amido (un polisaccaride di riserva) sotto forma di amiloplasti, plastidi specializzati nell'accumulo di amido. L'accumulo di acqua è invece proprio del parenchima acquifero, quello di aria del parenchima aerifero.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.29-30"
+  },
+  {
+    "id": "bvg-tes-parenchima-acquifero-030",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue il parenchima acquifero dal parenchima aerifero?",
+    "suggestion": "Uno immagazzina un liquido in cellule a parete sottile, l'altro contiene ampi spazi gassosi.",
+    "options": [
+      "Il primo favorisce la diffusione dei gas, il secondo accumula amido come sostanza di riserva",
+      "Il primo accumula acqua in cellule dalla parete sottile e trasparente, il secondo contiene ampi spazi intercellulari pieni d'aria",
+      "Il primo è ricco di cloroplasti per la fotosintesi, il secondo accumula cristalli aghiformi di ossalato di calcio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il parenchima acquifero è specializzato nell'accumulo di acqua in ampie cellule dalla parete sottile e trasparente; il parenchima aerifero (aerenchima) è caratterizzato da ampi spazi intercellulari colmi d'aria (lacune aerenchimatiche) che favoriscono la diffusione dei gas, tipico delle piante acquatiche.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.29-30"
+  },
+  {
+    "id": "bvg-tes-cellule-stellate-031",
+    "topic": "biologia-vegetale",
+    "question": "A che cosa serve la forma delle cellule stellate del parenchima aerifero fogliare di Victoria e Typha?",
+    "suggestion": "La loro forma serve a lasciare grandi spazi vuoti tra una cellula e l'altra.",
+    "options": [
+      "Ad accumulare grandi riserve di amido nel mesofillo della foglia galleggiante durante l'estate",
+      "A secernere all'esterno i sali in eccesso durante la notte, quando gli stomi restano chiusi",
+      "A delimitare, con i loro prolungamenti, ampi spazi aeriferi che favoriscono la diffusione dei gas"
+    ],
+    "correctIndex": 2,
+    "explanation": "In alcune specie (ninfea gigante Victoria, Typha latifolia) il parenchima aerifero presenta cellule stellate, disposte in modo da delimitare ampi spazi aeriferi: la loro forma ramificata serve a lasciare grandi lacune piene d'aria per la diffusione dei gas nei tessuti sommersi o galleggianti.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.30"
+  },
+  {
+    "id": "bvg-tes-transfer-cells-032",
+    "topic": "biologia-vegetale",
+    "question": "Quale caratteristica morfologica rende le transfer cells (cellule di trasferimento) del floema efficienti nel trasporto?",
+    "suggestion": "La loro membrana ha una superficie molto ampliata rispetto a una cellula normale.",
+    "options": [
+      "L'assenza totale di nucleo e citoplasma, come negli elementi delle trachee ormai morti a maturità",
+      "Pareti fortemente lignificate e ispessite, con funzione esclusiva di sostegno meccanico dell'organo",
+      "La capacità di fissare l'azoto atmosferico, convertendolo in composti azotati assimilabili dalla pianta",
+      "Membrane plasmatiche fortemente ripiegate, che ne ampliano la superficie per il trasporto attivo di soluti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le transfer cells sono cellule parenchimatiche specializzate, associate al floema, dotate di membrane fortemente ripiegate che ne aumentano la superficie e le rendono efficienti nel trasporto attivo di soluti attraverso la membrana. Affiancano gli elementi conduttori insieme alle cellule compagne.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.30"
+  },
+  {
+    "id": "bvg-tes-cuticola-033",
+    "topic": "biologia-vegetale",
+    "question": "Di che cosa è composta la cuticola che riveste l'epidermide e quale funzione svolge?",
+    "suggestion": "È uno strato lipidico esterno che limita la perdita d'acqua.",
+    "options": [
+      "Di suberina e lignina; irrobustisce meccanicamente la parete delle cellule endodermiche interne",
+      "Di cutina (polimero di acidi grassi) e cere epicuticolari; riduce la perdita d'acqua per traspirazione",
+      "Di cellulosa e pectine; consente il libero passaggio dell'acqua e dei soluti verso l'esterno della cellula"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cuticola è lo strato esterno che ricopre le cellule epidermiche, composto da cutina (polimero di acidi grassi) e cere epicuticolari: riduce la perdita di acqua per traspirazione e costituisce una barriera protettiva verso l'ambiente esterno. La suberina impregna invece la banda del Caspary e il sughero.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.31"
+  },
+  {
+    "id": "bvg-tes-velamen-034",
+    "topic": "biologia-vegetale",
+    "question": "Che cos'è il velamen delle radici aeree delle orchidee epifite?",
+    "suggestion": "È un'epidermide che, a differenza del solito, è formata da più strati di cellule.",
+    "options": [
+      "Un tessuto secretore che produce mucillagini lubrificanti per la penetrazione nel terreno profondo",
+      "Uno spesso strato di cere epicuticolari che impermeabilizza completamente la radice aerea esposta",
+      "Un'epidermide pluristratificata con funzione di assorbimento e di protezione, tipica delle epifite"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il velamen è un'epidermide pluristratificata (a più strati) presente nelle radici delle orchidee, con funzione di assorbimento e protezione, tipica delle specie epifite. È un esempio di epidermide pluristratificata, come l'ipoderma della foglia di oleandro.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.31"
+  },
+  {
+    "id": "bvg-tes-tricomi-funzioni-035",
+    "topic": "biologia-vegetale",
+    "question": "Quali funzioni svolge lo strato di peli (tomento) formato dai tricomi epidermici?",
+    "suggestion": "Agiscono sulla luce, sull'umidità superficiale e sulla difesa della pianta.",
+    "options": [
+      "Protezione dalla luce eccessiva, creazione di microclimi umidi attorno alla superficie e difesa dai patogeni",
+      "Conduzione della linfa grezza dalla radice verso le foglie attraverso vasi lignificati continui",
+      "Fissazione dell'azoto atmosferico e sua conversione in composti azotati assimilabili dalla pianta"
+    ],
+    "correctIndex": 0,
+    "explanation": "I tricomi formano uno strato di peli (tomento) con diverse funzioni: protezione dalla luce eccessiva, creazione di microclimi umidi attorno alla superficie, protezione e dispersione dei semi e difesa dai patogeni. Sono strutture epidermiche di una o più cellule, molto variabili tra specie.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.32"
+  },
+  {
+    "id": "bvg-tes-tricomi-uncinati-036",
+    "topic": "biologia-vegetale",
+    "question": "Perché i tricomi uncinati dell'Arctium lappa (bardana) favoriscono la dispersione zoocora dei frutti?",
+    "suggestion": "La loro forma ricurva sfrutta il passaggio degli animali.",
+    "options": [
+      "Perché secernono un nettare zuccherino che attira gli animali impollinatori sul frutto maturo",
+      "Perché la loro forma ricurva si aggancia al pelo degli animali, che così trasportano i frutti",
+      "Perché rilasciano al contatto sostanze urticanti che inducono gli animali a spostare i semi"
+    ],
+    "correctIndex": 1,
+    "explanation": "I tricomi uncinati dell'Arctium lappa hanno forma ricurva che favorisce l'aggancio al pelo degli animali di passaggio, i quali trasportano così i frutti altrove: è la dispersione zoocora (mediata dagli animali). È un esempio della grande variabilità morfologica dei tricomi.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.32"
+  },
+  {
+    "id": "bvg-tes-peli-urticanti-037",
+    "topic": "biologia-vegetale",
+    "question": "Come agiscono i peli urticanti di Urtica dioica (ortica), strutture epidermiche di origine mista?",
+    "suggestion": "Si comportano come minuscole fiale rigide che cedono al tocco.",
+    "options": [
+      "Secernono di notte gocce d'acqua che irritano la pelle per un contatto lento e prolungato",
+      "Agganciano meccanicamente la pelle grazie alla loro estremità ricurva a forma di uncino",
+      "Si rompono al contatto, rilasciando nella pelle il loro contenuto irritante e appuntito"
+    ],
+    "correctIndex": 2,
+    "explanation": "I peli urticanti di Urtica dioica sono strutture appuntite e rigide contenenti sostanze irritanti; si rompono al contatto e rilasciano il loro contenuto nella pelle di chi le tocca. Sono considerate strutture di origine mista, perché coinvolgono anche tessuti sottostanti l'epidermide.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.32"
+  },
+  {
+    "id": "bvg-tes-idioblasti-038",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Le cellule isolate, chimicamente diverse dalle circostanti, con pareti mineralizzate da ossalato di calcio e funzione mista escretoria e di rinforzo meccanico, sono dette ___.",
+    "answers": [
+      [
+        "idioblasti",
+        "idioblasto"
+      ]
+    ],
+    "suggestion": "Sono cellule 'diverse' immerse in un tessuto di cellule uniformi.",
+    "explanation": "Gli idioblasti sono cellule isolate, morfologicamente e chimicamente differenti da quelle circostanti, con pareti mineralizzate da deposito di ossalato di calcio: contribuiscono sia a funzioni escretorie (accumulo di sali) sia a un rinforzo meccanico localizzato del tessuto.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.34"
+  },
+  {
+    "id": "bvg-tes-secrezione-escrezione-039",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue secrezione, escrezione e recrezione nei tessuti secretori?",
+    "suggestion": "Una produce sostanze utili, una elimina rifiuti, una rilascia sostanze assorbite senza modificarle.",
+    "options": [
+      "La secrezione elimina i rifiuti del metabolismo, l'escrezione rilascia sostanze utili e la recrezione produce enzimi digestivi",
+      "La secrezione produce sostanze utili all'organismo, l'escrezione elimina rifiuti del metabolismo, la recrezione rilascia sostanze assorbite senza modificarle",
+      "Sono tre termini del tutto equivalenti che indicano lo stesso processo di accumulo di sostanze nel vacuolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "I tessuti secretori operano tre funzioni distinte: la secrezione (produzione e rilascio di sostanze utili), l'escrezione (eliminazione di sostanze di rifiuto del metabolismo) e la recrezione (rilascio all'esterno di sostanze assorbite senza modificazioni sostanziali).",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.35"
+  },
+  {
+    "id": "bvg-tes-canali-resiniferi-040",
+    "topic": "biologia-vegetale",
+    "question": "Da che cosa è costituito un canale resinifero, struttura secretoria tipica delle Gimnosperme?",
+    "suggestion": "Ha un lume centrale attorno al quale sta un rivestimento di cellule che producono resina.",
+    "options": [
+      "Da un lume centrale circondato da cellule epiteliali secretorie che producono e riversano la resina",
+      "Da una cavità formata per lisi delle pareti e del contenuto di gruppi di cellule, come le tasche lisigene",
+      "Da un tubo continuo di cellule morte e lignificate che conduce la linfa grezza verso le parti aeree"
+    ],
+    "correctIndex": 0,
+    "explanation": "I canali resiniferi sono strutture secretorie tipiche delle Gimnosperme, costituite da un lume centrale circondato da cellule epiteliali secretorie che producono e secernono resina all'interno del corpo della pianta. Le tasche lisigene degli agrumi si formano invece per lisi cellulare.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.35"
+  },
+  {
+    "id": "bvg-tes-rafidi-druse-041",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa distingue i rafidi dalle druse, due forme di accumulo di ossalato di calcio?",
+    "suggestion": "Una è fatta di aghi paralleli, l'altra ha forma stellata.",
+    "options": [
+      "I rafidi sono aggregati stellati attorno a un nucleo, le druse cristalli aghiformi disposti in fasci paralleli",
+      "I rafidi si formano solo nel floema, le druse esclusivamente nello xilema lignificato dei vasi",
+      "I rafidi sono cristalli aghiformi disposti in fasci paralleli, le druse aggregati stellati di piccoli cristalli"
+    ],
+    "correctIndex": 2,
+    "explanation": "I rafidi sono cristalli aghiformi di ossalato di calcio disposti in fasci paralleli entro cellule specializzate (es. Sansevieria); le druse sono aggregati cristallini stellati, formati dall'unione di piccoli cristalli attorno a un nucleo. Entrambe sono forme di accumulo di sali insolubili con funzione escretoria.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.35"
+  },
+  {
+    "id": "bvg-tes-carnivore-042",
+    "topic": "biologia-vegetale",
+    "question": "Quali strutture permettono alla Dionaea (venere acchiappamosche) di catturare e digerire le prede?",
+    "suggestion": "Servono sia ghiandole che producono enzimi sia strutture tattili che scattano.",
+    "options": [
+      "Soltanto ghiandole adesive che intrappolano l'insetto con abbondanti secrezioni vischiose e collose",
+      "Tubi laticiferi che rilasciano un latice tossico capace di paralizzare rapidamente la preda catturata",
+      "Peli urticanti che, rompendosi al contatto, iniettano sostanze irritanti nei tessuti della preda animale",
+      "Ghiandole digestive che secernono enzimi e peli sensitivi che, se stimolati, innescano la chiusura della trappola"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nella Dionaea si osservano sia ghiandole digestive (che secernono enzimi) sia peli sensitivi, strutture tattili che, se stimolate, innescano il rapido movimento di chiusura della foglia trappola. Le ghiandole adesive (es. Drosophyllum) servono invece solo all'intrappolamento.",
+    "difficulty": "medium",
+    "source": "Biologia veg.pdf p.36"
+  },
+  {
+    "id": "bvg-tes-proteina-p-043",
+    "topic": "biologia-vegetale",
+    "question": "Che cosa si conosce della proteina P osservata al microscopio elettronico nel floema?",
+    "suggestion": "È presente in un solo grande gruppo di Angiosperme e ha una funzione non del tutto chiarita.",
+    "options": [
+      "È presente nel floema di tutte le monocotiledoni ma del tutto assente nelle dicotiledoni, dove è sostituita dal callosio",
+      "Costituisce l'ispessimento lignificato che rinforza le pareti dei tubi cribrosi ormai giunti a piena maturità",
+      "È stata individuata nel floema delle dicotiledoni (assente nelle monocotiledoni) e forse partecipa al trasporto o all'occlusione dei pori"
+    ],
+    "correctIndex": 2,
+    "explanation": "La proteina P (proteina specifica del floema) è stata individuata al microscopio elettronico nel floema delle dicotiledoni, mentre risulta assente nelle monocotiledoni. La sua funzione non è del tutto chiarita: potrebbe agire come il callosio o partecipare al trasporto della linfa elaborata.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.33"
+  },
+  {
+    "id": "bvg-tes-floema-gimnosperme-044",
+    "topic": "biologia-vegetale",
+    "question": "In che cosa il floema delle Gimnosperme differisce da quello delle Angiosperme?",
+    "suggestion": "Mancano le placche cribrose specializzate e le vere cellule compagne.",
+    "options": [
+      "Ha aree cribrose (prive della placca cribrosa specializzata) e cellule albuminose al posto delle cellule compagne",
+      "Ha tubi cribrosi con placche cribrose ben definite e vere cellule compagne, esattamente come le Angiosperme",
+      "È del tutto privo di elementi di conduzione e si limita ad accumulare amido come sostanza di riserva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle Gimnosperme il floema presenta solo aree cribrose (senza la placca cribrosa specializzata delle Angiosperme), cellule albuminose (equivalente funzionale, ma non omologo, delle cellule compagne) e raggi parenchimatici per il trasporto laterale. Nelle Angiosperme vi sono fibre, cellule compagne e tubi cribrosi con placche.",
+    "difficulty": "hard",
+    "source": "Biologia veg.pdf p.34"
+  },
+  {
+    "id": "bvg-tes-microscopio-oculare-045",
+    "type": "fill",
+    "topic": "biologia-vegetale",
+    "question": "Nel microscopio ottico l'ingrandimento totale si ottiene moltiplicando l'ingrandimento fornito dall'obiettivo per quello fornito dall'___.",
+    "answers": [
+      [
+        "oculare"
+      ]
+    ],
+    "suggestion": "È la lente posta in prossimità dell'occhio dell'osservatore.",
+    "explanation": "Nel microscopio ottico l'ingrandimento totale si calcola moltiplicando l'ingrandimento dell'obiettivo (lente vicina al preparato) per quello dell'oculare (lente vicina all'occhio). La luce attraversa il preparato e le due lenti ne formano l'immagine progressivamente ingrandita.",
+    "difficulty": "easy",
+    "source": "Biologia veg.pdf p.37"
   }
 ]
