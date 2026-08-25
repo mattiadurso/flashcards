@@ -1,0 +1,455 @@
+[
+  {
+    "id": "cons-c20-energia-forme-001",
+    "topic": "conservazione",
+    "question": "Qual è la differenza fondamentale tra energia potenziale ed energia cinetica?",
+    "suggestion": "Una è energia immagazzinata pronta all'uso, l'altra si manifesta solo nel movimento.",
+    "options": [
+      "L'energia potenziale è energia immagazzinata disponibile a compiere lavoro, quella cinetica è l'energia del movimento",
+      "L'energia potenziale è l'energia del movimento, mentre quella cinetica è energia immagazzinata nei legami chimici delle molecole",
+      "Entrambe compiono lavoro, ma solo l'energia cinetica può essere immagazzinata e poi riutilizzata nel tempo"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'energia potenziale è energia immagazzinata e disponibile a compiere lavoro; l'energia cinetica è l'energia del movimento, che compie lavoro quando una forza sposta un oggetto.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-prima-legge-002",
+    "topic": "conservazione",
+    "question": "Cosa afferma la prima legge della termodinamica riguardo all'energia in un ecosistema?",
+    "suggestion": "È il principio di conservazione: pensa a cosa succede alla quantità totale di energia.",
+    "options": [
+      "L'energia aumenta ogni volta che viene trasferita da un organismo all'altro attraverso il cibo",
+      "L'energia diminuisce progressivamente a ogni trasformazione fino ad esaurirsi del tutto",
+      "L'energia non viene né creata né distrutta, ma può solo trasformarsi da una forma all'altra"
+    ],
+    "correctIndex": 2,
+    "explanation": "La prima legge descrive la conservazione dell'energia: l'energia non si crea né si distrugge, ma si trasforma, senza guadagno o perdita nella quantità totale.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-eso-endo-003",
+    "topic": "conservazione",
+    "question": "In che modo si distinguono le reazioni esotermiche da quelle endotermiche?",
+    "suggestion": "Guarda la direzione del flusso di energia rispetto al sistema che reagisce.",
+    "options": [
+      "Nelle esotermiche l'energia viene assorbita dal sistema, nelle endotermiche viene rilasciata dal sistema",
+      "Nelle esotermiche l'energia viene rilasciata dal sistema, nelle endotermiche viene assorbita dal sistema",
+      "In entrambe l'energia viene rilasciata dal sistema, ma a temperature nettamente diverse tra loro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nelle reazioni esotermiche l'energia è rilasciata dal sistema, in quelle endotermiche è assorbita dal sistema.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-fotosintesi-energia-004",
+    "topic": "conservazione",
+    "question": "Perché nella fotosintesi i prodotti immagazzinano più energia dei reagenti senza violare la conservazione dell'energia?",
+    "suggestion": "L'energia in più non compare dal nulla: chiediti da quale fonte esterna proviene.",
+    "options": [
+      "Perché i reagenti cedono ai prodotti parte del calore assorbito dall'ambiente circostante",
+      "Perché l'energia aggiuntiva immagazzinata nei prodotti proviene dalla luce solare",
+      "Perché la respirazione cellulare fornisce ai prodotti l'energia per costruire le molecole complesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "I reagenti semplici immagazzinano meno energia dei prodotti complessi: l'energia aggiuntiva proviene dalla luce solare, quindi la quantità totale di energia si conserva.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-entropia-fill-005",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La grandezza che descrive la riduzione dell'energia potenziale disponibile durante i trasferimenti energetici è l'___.",
+    "answers": [["entropia"]],
+    "suggestion": "È la grandezza che aumenta ogni volta che l'energia viene trasferita, secondo la seconda legge.",
+    "explanation": "L'entropia descrive la riduzione dell'energia potenziale disponibile: quando l'energia viene trasferita, l'entropia aumenta e l'energia assume una forma non più capace di compiere lavoro.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-seconda-legge-006",
+    "topic": "conservazione",
+    "question": "Cosa accade all'entropia complessiva quando l'energia viene trasferita da un organismo a un altro sotto forma di cibo?",
+    "suggestion": "Parte dell'energia finisce nei tessuti, parte no: pensa a quella che se ne va.",
+    "options": [
+      "Rimane costante, perché la quantità totale di energia trasferita si conserva integralmente",
+      "Diminuisce, perché l'energia si concentra e si ordina nei tessuti viventi del ricevente",
+      "Aumenta, perché una parte dell'energia viene immagazzinata e un'altra dispersa come calore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel trasferimento, una parte dell'energia si immagazzina nei tessuti e un'altra si disperde come calore: in entrambi i casi l'entropia complessiva aumenta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-calore-fill-007",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'energia potenziale che si degrada e non è più in grado di compiere lavoro si disperde dal sistema verso l'ambiente sotto forma di ___.",
+    "answers": [["calore"]],
+    "suggestion": "È la forma di energia in cui si dissipa, ad esempio, quella liberata dalla legna che brucia.",
+    "explanation": "Attraverso i trasferimenti, l'energia potenziale si degrada e si disperde verso l'ambiente sotto forma di calore, non più disponibile a compiere lavoro.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-sistemi-aperti-008",
+    "topic": "conservazione",
+    "question": "Perché gli ecosistemi, a differenza dei sistemi chiusi, riescono a mantenere l'ordine biologico nel tempo?",
+    "suggestion": "Un sistema chiuso alla lunga esaurisce l'energia utile: cosa manca a un ecosistema per essere chiuso?",
+    "options": [
+      "Perché al loro interno l'entropia non aumenta mai durante i trasferimenti di energia tra organismi",
+      "Perché ricevono un apporto costante di energia esterna, soprattutto solare, che contrasta l'aumento dell'entropia",
+      "Perché non scambiano energia né materia con l'ambiente, mantenendo così costante il proprio ordine interno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli ecosistemi sono sistemi aperti: l'apporto costante di energia (soprattutto luce solare) contrasta l'aumento dell'entropia e mantiene l'ordine biologico. I sistemi chiusi, senza scambi, esauriscono l'energia utile.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-produttivita-def-009",
+    "topic": "conservazione",
+    "question": "Come si definisce la produttività primaria di un ecosistema?",
+    "suggestion": "È un tasso, riferito alla trasformazione dell'anidride carbonica da parte degli autotrofi.",
+    "options": [
+      "Il tasso al quale gli autotrofi convertono l'anidride carbonica in composti organici",
+      "La quantità totale di composti organici presenti negli autotrofi in un dato istante",
+      "Il tasso al quale gli eterotrofi demoliscono i composti organici liberando anidride carbonica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La produttività primaria è il tasso al quale gli autotrofi convertono l'anidride carbonica (atmosferica o disciolta) in composti organici. La quantità presente in un istante è invece la biomassa in piedi.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-autotrofi-010",
+    "topic": "conservazione",
+    "question": "Qual è la differenza tra chemioautotrofi e fotoautotrofi nel fissare il carbonio?",
+    "suggestion": "Entrambi sono autotrofi: la distinzione sta nella fonte di energia che utilizzano.",
+    "options": [
+      "Entrambi usano la luce solare, ma i chemioautotrofi solo in assenza di ossigeno disciolto",
+      "I chemioautotrofi usano la luce solare, mentre i fotoautotrofi ossidano composti chimici donatori",
+      "I chemioautotrofi usano energia da composti chimici, i fotoautotrofi usano l'energia della luce solare"
+    ],
+    "correctIndex": 2,
+    "explanation": "I chemioautotrofi ricavano energia dall'ossidazione di composti chimici; i fotoautotrofi usano l'energia della luce solare attraverso la fotosintesi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-gpp-def-011",
+    "topic": "conservazione",
+    "question": "Che cosa rappresenta la produttività primaria lorda (GPP)?",
+    "suggestion": "È un valore 'totale', prima di sottrarre qualsiasi consumo energetico.",
+    "options": [
+      "La quantità di biomassa vegetale complessivamente accumulata per unità di superficie in un istante",
+      "Il tasso totale di fotosintesi, ossia l'energia complessivamente assimilata dagli autotrofi",
+      "Il tasso di accumulo di energia nelle molecole organiche al netto della respirazione cellulare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La GPP è il tasso totale di fotosintesi, cioè tutta l'energia assimilata dagli autotrofi. Il valore al netto della respirazione è invece la NPP.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-npp-gpp-012",
+    "topic": "conservazione",
+    "question": "In che modo la produttività primaria netta (NPP) si differenzia da quella lorda (GPP)?",
+    "suggestion": "Ricorda la relazione NPP = GPP − R e cosa rappresenta la R.",
+    "options": [
+      "La NPP coincide con la GPP ogni volta che la fotosintesi supera nettamente la respirazione",
+      "La NPP è la GPP diminuita dell'energia consumata dagli autotrofi nella respirazione cellulare",
+      "La NPP è la GPP aumentata dell'energia consumata dagli autotrofi nella respirazione cellulare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La NPP è l'energia immagazzinata come molecole organiche al netto della respirazione: NPP = GPP − R.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-npp-disponibile-013",
+    "topic": "conservazione",
+    "question": "Perché la NPP, e non la GPP, indica l'energia effettivamente disponibile per i livelli trofici superiori?",
+    "suggestion": "Pensa a quale quota di energia gli autotrofi 'spendono' per sé prima di renderla disponibile.",
+    "options": [
+      "Perché la NPP comprende anche l'energia dispersa dagli autotrofi con la respirazione cellulare",
+      "Perché la NPP misura soltanto l'energia luminosa assorbita dai pigmenti fotosintetici delle foglie",
+      "Perché la NPP esclude l'energia che gli autotrofi consumano per la propria respirazione cellulare"
+    ],
+    "correctIndex": 2,
+    "explanation": "La NPP è ciò che resta dopo la respirazione degli autotrofi (NPP = GPP − R): è l'energia realmente immagazzinata e trasferibile ai consumatori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-scb-tasso-014",
+    "topic": "conservazione",
+    "question": "Perché la biomassa vegetale in piedi (standing crop biomass) non coincide con la produttività?",
+    "suggestion": "Una è una quantità fotografata in un istante, l'altra si riferisce a un intervallo di tempo.",
+    "options": [
+      "Perché misura l'energia dispersa come calore anziché quella immagazzinata nei tessuti vegetali",
+      "Perché rappresenta una quantità accumulata in un dato istante e non un tasso riferito al tempo",
+      "Perché include soltanto la materia organica delle radici e non quella della parte aerea"
+    ],
+    "correctIndex": 1,
+    "explanation": "La SCB è la materia organica accumulata in un'area in un dato momento (g/m²): è una quantità istantanea, non un tasso, quindi non coincide con la produttività.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-unita-produttivita-015",
+    "topic": "conservazione",
+    "question": "In quali unità viene generalmente espressa la produttività primaria?",
+    "suggestion": "Essendo un tasso, l'unità deve contenere un riferimento sia alla superficie sia al tempo.",
+    "options": [
+      "In grammi di materia organica secca per singola pianta nel corso di un intero anno",
+      "In energia o sostanza secca per unità di superficie e di tempo, come kcal/m²/anno",
+      "In energia per unità di superficie senza riferimento al tempo, come le kcal/m²"
+    ],
+    "correctIndex": 1,
+    "explanation": "La produttività si esprime come energia o sostanza organica secca per unità di superficie e di tempo (kcal/m²/anno o g/m²/anno); l'unità priva del tempo descrive invece la biomassa in piedi.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.38"
+  },
+  {
+    "id": "cons-c20-npp-perdite-016",
+    "topic": "conservazione",
+    "question": "Perché per stimare la NPP terrestre dalla biomassa in piedi occorre sommare a ΔSCB anche la mortalità (D) e il consumo da erbivori (C)?",
+    "suggestion": "La sola variazione di biomassa non 'vede' ciò che è stato prodotto ma poi rimosso nell'intervallo.",
+    "options": [
+      "Perché sono biomasse prodotte durante l'intervallo ma poi perse, che la sola ΔSCB non registra",
+      "Perché rappresentano energia respirata dalle piante e quindi mai fissata in composti organici",
+      "Perché indicano biomassa importata da altri ecosistemi e accumulatasi durante l'intervallo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con NPP = ΔSCB + D + C si recuperano le biomasse effettivamente prodotte ma poi perse per morte delle piante (D) e consumo da parte degli erbivori (C), non contabilizzate dalla sola variazione di SCB.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.38-39"
+  },
+  {
+    "id": "cons-c20-bottiglia-chiara-017",
+    "topic": "conservazione",
+    "question": "Nel metodo delle bottiglie chiara e scura, cosa stima l'ossigeno accumulato nella bottiglia chiara?",
+    "suggestion": "Nella bottiglia illuminata avvengono sia fotosintesi sia respirazione: il saldo netto misura cosa?",
+    "options": [
+      "Una stima della sola respirazione degli autotrofi presenti nel campione incubato",
+      "Una stima della produttività primaria lorda totale prodotta nel campione incubato",
+      "Una stima della produttività primaria netta, quando la fotosintesi supera la respirazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella bottiglia chiara l'ossigeno si accumula se la fotosintesi supera la respirazione: il valore fornisce una stima della NPP.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-bottiglia-scura-018",
+    "topic": "conservazione",
+    "question": "Perché nella bottiglia scura l'ossigeno disciolto diminuisce nel corso dell'incubazione?",
+    "suggestion": "Al buio manca la fotosintesi: quale processo resta a consumare ossigeno?",
+    "options": [
+      "Perché in assenza di luce avviene solo la respirazione, che consuma l'ossigeno disciolto",
+      "Perché la fotosintesi al buio consuma ossigeno anziché produrlo come avviene alla luce",
+      "Perché l'ossigeno si lega all'anidride carbonica prodotta in abbondanza dagli autotrofi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al buio la fotosintesi non avviene e resta solo la respirazione, che consuma ossigeno: il calo di O₂ fornisce una stima della respirazione (R).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-bottiglie-gpp-019",
+    "topic": "conservazione",
+    "question": "Come si ricava la produttività primaria lorda con il metodo delle bottiglie chiara e scura?",
+    "suggestion": "GPP = fotosintesi totale; combina il saldo netto alla luce con il consumo al buio.",
+    "options": [
+      "Dal solo calo di ossigeno registrato nella bottiglia scura durante l'incubazione",
+      "Dalla differenza tra i valori di ossigeno misurati nelle due bottiglie, chiara e scura",
+      "Dal solo valore di ossigeno accumulato nella bottiglia chiara durante l'incubazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La differenza tra l'ossigeno delle due bottiglie stima la fotosintesi totale, cioè la GPP (che include sia la NPP misurata alla luce sia la respirazione misurata al buio).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-clima-npp-020",
+    "topic": "conservazione",
+    "question": "In che modo la NPP degli ecosistemi terrestri varia con precipitazioni e temperatura medie annue?",
+    "suggestion": "Entrambe le variabili spingono nella stessa direzione la produttività terrestre.",
+    "options": [
+      "Dipende solo dalle precipitazioni medie annue ed è del tutto indipendente dalla temperatura",
+      "Aumenta con le precipitazioni ma diminuisce all'aumentare della temperatura media annua",
+      "Aumenta all'aumentare sia delle precipitazioni sia della temperatura media annua"
+    ],
+    "correctIndex": 2,
+    "explanation": "La NPP terrestre cresce sia con le precipitazioni medie annue sia con la temperatura media annua (quest'ultima correlata alla radiazione solare).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-stagione-crescita-021",
+    "topic": "conservazione",
+    "question": "Perché aree con temperature medie giornaliere più elevate tendono ad avere una NPP maggiore?",
+    "suggestion": "Più giorni sono abbastanza caldi da sostenere la fotosintesi: pensa alla durata del periodo utile.",
+    "options": [
+      "Perché hanno stagioni di crescita più lunghe, con più giorni adatti a sostenere la fotosintesi",
+      "Perché le temperature elevate riducono la respirazione delle piante conservando così più energia",
+      "Perché il caldo diminuisce la traspirazione fogliare e quindi anche il fabbisogno idrico complessivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Temperature giornaliere più alte allungano la stagione di crescita, cioè i giorni con temperature sufficienti alla fotosintesi, aumentando la NPP.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-bilancio-idrico-022",
+    "topic": "conservazione",
+    "question": "Perché la disponibilità di acqua limita la fotosintesi e quindi la produttività delle piante?",
+    "suggestion": "Assorbire CO₂ ha un costo idrico: pensa a cosa entra e cosa esce quando si aprono gli stomi.",
+    "options": [
+      "Perché l'acqua serve a dissolvere l'anidride carbonica atmosferica prima del suo assorbimento fogliare",
+      "Perché aprire gli stomi per assorbire l'anidride carbonica comporta una perdita di acqua per traspirazione",
+      "Perché senza acqua sufficiente le radici non riescono ad assorbire adeguatamente la radiazione solare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fotosintesi richiede CO₂ e acqua: gli stomi si aprono per assorbire CO₂ ma perdono acqua per traspirazione. L'acqua disponibile limita sia il tasso fotosintetico sia il numero di foglie sostenibili.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-caldo-siccita-023",
+    "topic": "conservazione",
+    "question": "Perché con temperature dell'aria elevate ma scarsa disponibilità idrica la NPP risulta bassa?",
+    "suggestion": "Il caldo fa salire la domanda d'acqua della pianta: cosa succede se l'acqua non basta a soddisfarla?",
+    "options": [
+      "Perché l'acqua scarsa fa aumentare la respirazione delle piante più rapidamente della fotosintesi",
+      "Perché l'alta temperatura arresta completamente l'apertura degli stomi, indipendentemente dall'acqua disponibile",
+      "Perché l'alta temperatura aumenta traspirazione e richiesta idrica, che l'acqua scarsa non soddisfa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con temperature elevate crescono traspirazione e fabbisogno idrico: se l'acqua è scarsa, la domanda non è soddisfatta e la NPP risulta bassa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-freddo-npp-024",
+    "topic": "conservazione",
+    "question": "Come varia la NPP in un sito con temperature dell'aria basse ma buona disponibilità di acqua?",
+    "suggestion": "Con il freddo, l'abbondanza d'acqua non riesce a compensare: quale fattore diventa limitante?",
+    "options": [
+      "Resta bassa, perché le basse temperature limitano la NPP indipendentemente dalla disponibilità di acqua",
+      "Diventa massima, perché l'acqua abbondante compensa pienamente l'effetto negativo delle basse temperature",
+      "Resta su valori medi, perché la temperatura bassa e l'acqua abbondante si bilanciano tra loro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con temperature dell'aria basse la NPP è bassa a prescindere dall'acqua disponibile: il freddo è il fattore limitante.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-aet-025",
+    "topic": "conservazione",
+    "question": "Che cosa esprime l'evapotraspirazione reale (AET) in relazione ai fattori che regolano la produttività?",
+    "suggestion": "Combina due componenti di perdita d'acqua e dipende sia dall'apporto sia dalla domanda climatica.",
+    "options": [
+      "Il valore combinato di evaporazione superficiale e traspirazione, con acqua da precipitazioni e domanda climatica",
+      "La sola acqua persa per traspirazione dalle foglie durante l'assorbimento della CO₂ dall'atmosfera circostante",
+      "La quantità totale di precipitazioni che ricade su un ecosistema nel corso di un intero anno solare"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'AET è il valore combinato di evaporazione superficiale e traspirazione: le precipitazioni forniscono l'acqua, mentre radiazione in entrata e temperatura ne determinano la domanda.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-latitudine-026",
+    "topic": "conservazione",
+    "question": "Perché i valori più elevati di NPP si osservano generalmente nelle regioni tropicali?",
+    "suggestion": "Alle basse latitudini si incontrano contemporaneamente due condizioni climatiche favorevoli.",
+    "options": [
+      "Perché la minore radiazione solare alle basse latitudini riduce la traspirazione delle piante",
+      "Perché nelle regioni tropicali si combinano temperature elevate e adeguata disponibilità idrica",
+      "Perché alle basse latitudini i nutrienti disponibili nel suolo sono sempre più abbondanti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei tropici temperature elevate e adeguato apporto idrico determinano i valori più alti di NPP; la produttività cala poi all'aumentare della latitudine.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-azoto-suolo-027",
+    "topic": "conservazione",
+    "question": "Cosa hanno mostrato gli studi sulle foreste del Wisconsin e sulle savane a quercia riguardo ai nutrienti del suolo?",
+    "suggestion": "Il fattore misurato è l'azoto: pensa a come varia la produttività al crescere della sua disponibilità.",
+    "options": [
+      "Che un eccesso di azoto nel suolo riduce la NPP dei popolamenti studiati",
+      "Che la NPP aumenta all'aumentare della disponibilità di azoto presente nel suolo",
+      "Che la NPP dipende dall'azoto solo nelle foreste temperate e non nelle savane a quercia"
+    ],
+    "correctIndex": 1,
+    "explanation": "In entrambi gli studi, all'aumentare della disponibilità di azoto nel suolo si osservava un corrispondente aumento della NPP.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-par-fill-028",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Negli ecosistemi acquatici, la radiazione luminosa utilizzabile dagli autotrofi per la fotosintesi è indicata con l'acronimo ___.",
+    "answers": [["PAR"]],
+    "suggestion": "È l'acronimo inglese di 'radiazione fotosinteticamente attiva'.",
+    "explanation": "La PAR (photosynthetically active radiation) è la radiazione fotosinteticamente attiva, che negli ecosistemi acquatici diminuisce esponenzialmente con la profondità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-controlli-acquatici-029",
+    "topic": "conservazione",
+    "question": "Quali sono i principali controlli della produttività primaria netta negli ecosistemi acquatici?",
+    "suggestion": "Uno dei due dipende dalla profondità dell'acqua; l'altro riguarda le sostanze nutritive.",
+    "options": [
+      "La temperatura media annua e le precipitazioni medie annue, come negli ecosistemi terrestri",
+      "La profondità della colonna d'acqua e la concentrazione di ossigeno disciolto disponibile",
+      "La disponibilità di luce e la disponibilità di nutrienti nella colonna d'acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negli ecosistemi acquatici i principali controlli della NPP sono la luce e la disponibilità di nutrienti; temperatura e precipitazioni sono invece i controlli tipici degli ecosistemi terrestri.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-par-profondita-030",
+    "topic": "conservazione",
+    "question": "Come varia la radiazione fotosinteticamente attiva (PAR) con la profondità in un ecosistema acquatico?",
+    "suggestion": "Il calo non è costante metro dopo metro: l'attenuazione è più marcata vicino alla superficie.",
+    "options": [
+      "Diminuisce in modo esponenziale all'aumentare della profondità dell'acqua",
+      "Diminuisce in modo lineare e costante fino a raggiungere il fondo del bacino",
+      "Rimane pressoché costante fino a un brusco calo negli strati più profondi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negli ecosistemi acquatici la PAR diminuisce esponenzialmente con la profondità dell'acqua.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  },
+  {
+    "id": "cons-c20-fitoplancton-profondita-031",
+    "topic": "conservazione",
+    "question": "Come si comportano il tasso fotosintetico e la respirazione del fitoplancton lungo la colonna d'acqua?",
+    "suggestion": "Una delle due grandezze ha un massimo a valori intermedi di luce, l'altra cambia poco con la profondità.",
+    "options": [
+      "Il tasso fotosintetico è massimo a livelli intermedi di PAR, mentre la respirazione resta pressoché costante con la profondità",
+      "Sia il tasso fotosintetico sia la respirazione aumentano con la profondità, ma la respirazione cresce più rapidamente",
+      "Il tasso fotosintetico cresce con la profondità mentre la respirazione si annulla del tutto nelle acque più profonde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tasso fotosintetico (e quindi la GPP del fitoplancton) è massimo a livelli intermedi di PAR, mentre la respirazione rimane relativamente costante all'aumentare della profondità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.39"
+  }
+]

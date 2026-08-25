@@ -1,0 +1,817 @@
+[
+  {
+    "id": "cons-c11-limiti-001",
+    "topic": "conservazione",
+    "question": "Perché il modello di crescita esponenziale non descrive adeguatamente le popolazioni naturali?",
+    "suggestion": "Rifletti sulle assunzioni del modello: che cosa presuppone riguardo alle risorse e alla stabilità dell'ambiente?",
+    "options": [
+      "Perché considera soltanto la fecondità e ignora del tutto l'effetto del tasso di mortalità",
+      "Perché assume risorse illimitate e un ambiente costante, condizioni che in natura non si verificano",
+      "Perché assume che la mortalità sia sempre superiore alla natalità in ogni ambiente naturale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il modello esponenziale si fonda su risorse illimitate e ambiente costante; in natura le risorse sono limitate e l'ambiente variabile, per cui la crescita rallenta all'aumentare della densità.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.10"
+  },
+  {
+    "id": "cons-c11-limiti-002",
+    "topic": "conservazione",
+    "question": "Nell'equazione del tasso di natalità denso-dipendente b = b0 − aN, che cosa rappresenta il termine b0?",
+    "suggestion": "Immagina cosa succede al valore di b quando N è prossimo a zero: quale caso ideale descrive?",
+    "options": [
+      "La riduzione del tasso di natalità dovuta all'aumento della densità di popolazione",
+      "Il tasso di natalità effettivo osservato quando la popolazione raggiunge la capacità portante",
+      "Il tasso di natalità massimo in condizioni ideali, quando la densità è prossima allo zero"
+    ],
+    "correctIndex": 2,
+    "explanation": "b0 è l'intercetta sull'asse delle ordinate, cioè il tasso di natalità massimo in condizioni ideali (densità prossima a zero); il termine aN riduce b all'aumentare di N.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.10"
+  },
+  {
+    "id": "cons-c11-limiti-003",
+    "topic": "conservazione",
+    "question": "A quale condizione della popolazione corrisponde la capacità portante K nel modello con natalità e mortalità denso-dipendenti?",
+    "suggestion": "Pensa a quando la popolazione smette di crescere: che rapporto c'è tra natalità e mortalità in quel punto?",
+    "options": [
+      "Alla densità in cui il tasso di natalità è massimo e la mortalità è minima",
+      "Alla densità in cui il tasso di natalità eguaglia il tasso di mortalità e dN/dt = 0",
+      "Alla densità in cui il tasso di mortalità raggiunge il proprio valore minimo d0"
+    ],
+    "correctIndex": 1,
+    "explanation": "K è la densità in cui b = d, per cui dN/dt = 0: la popolazione ha raggiunto la dimensione massima sostenibile, N = (b0 − d0)/(a + c).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.10"
+  },
+  {
+    "id": "cons-c11-limiti-004",
+    "topic": "conservazione",
+    "question": "Che cosa accade quando, all'aumentare della densità, il consumo di risorse supera il loro tasso di rinnovamento?",
+    "suggestion": "Se la base di risorse si assottiglia, in che direzione si muovono natalità e mortalità?",
+    "options": [
+      "La base di risorse si riduce, aumentando la mortalità e/o diminuendo la fecondità",
+      "Le risorse si rinnovano più rapidamente, sostenendo un'ulteriore crescita esponenziale",
+      "La mortalità diminuisce perché gli individui riducono il proprio fabbisogno energetico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando il consumo supera il rinnovamento, la disponibilità pro capite cala: ne conseguono un aumento della mortalità, una riduzione della fecondità, o entrambi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.10"
+  },
+  {
+    "id": "cons-c11-limiti-fill-005",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La dimensione massima di popolazione sostenibile in un dato ambiente, in cui il tasso di natalità eguaglia quello di mortalità, è detta ___.",
+    "answers": [
+      ["capacità portante", "capacita portante", "carrying capacity"]
+    ],
+    "suggestion": "È il valore costante di N verso cui la popolazione tende, indicato con la lettera K.",
+    "explanation": "La capacità portante (K) è la densità in cui natalità e mortalità si eguagliano; oltre di essa la crescita diventa negativa.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.10"
+  },
+  {
+    "id": "cons-c11-logistica-006",
+    "topic": "conservazione",
+    "question": "Quale equazione descrive il modello di crescita logistica di una popolazione?",
+    "suggestion": "Cerca la formula che combina un termine di crescita esponenziale con un fattore che dipende da K.",
+    "options": [
+      "dN/dt = rN(1 − N/K)",
+      "dN/dt = (b − d)N",
+      "dN/dt = rN(1 + N/K)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il modello logistico è dN/dt = rN(1 − N/K): (b − d)N è quello esponenziale, mentre il segno + al posto del − farebbe accelerare la crescita con la densità, il contrario di quanto osservato.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-logistica-007",
+    "topic": "conservazione",
+    "question": "Nel modello logistico dN/dt = rN(1 − N/K), quale ruolo svolge il termine (1 − N/K)?",
+    "suggestion": "Osserva come cambia questo fattore quando N si avvicina a K: verso quale valore tende?",
+    "options": [
+      "Rappresenta la componente di crescita puramente esponenziale della popolazione",
+      "Rappresenta il tasso intrinseco di accrescimento indipendente dalla densità",
+      "Rappresenta l'effetto frenante della capacità portante sulla crescita della popolazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il termine (1 − N/K) traduce l'effetto della capacità portante: tende a 1 quando N è piccolo (crescita quasi esponenziale) e a 0 quando N si avvicina a K, frenando la crescita.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-logistica-008",
+    "topic": "conservazione",
+    "question": "Nel modello logistico, come cresce la popolazione quando N è molto inferiore a K?",
+    "suggestion": "Se N è piccolo rispetto a K, quanto vale il fattore (1 − N/K) e quindi quale modello si avvicina?",
+    "options": [
+      "Cresce quasi esponenzialmente, perché il termine (1 − N/K) si avvicina a 1",
+      "Cresce lentamente, perché il termine (1 − N/K) si avvicina a zero",
+      "Non cresce affatto, perché il tasso di natalità è nullo alle basse densità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con N ≪ K il fattore (1 − N/K) è prossimo a 1, quindi dN/dt ≈ rN e la crescita è quasi esponenziale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-logistica-009",
+    "topic": "conservazione",
+    "question": "Secondo il modello logistico, che cosa accade se N supera la capacità portante K?",
+    "suggestion": "Considera il segno del fattore (1 − N/K) quando N è maggiore di K.",
+    "options": [
+      "La crescita accelera ulteriormente fino a raggiungere un nuovo equilibrio più alto",
+      "La crescita resta invariata finché non intervengono fattori denso-indipendenti",
+      "La crescita diventa negativa e la dimensione della popolazione tende a ridursi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se N > K il fattore (1 − N/K) diventa negativo, dN/dt < 0 e la popolazione diminuisce riportandosi verso K.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-logistica-010",
+    "topic": "conservazione",
+    "question": "In corrispondenza di quale densità il tasso di crescita dN/dt della curva logistica raggiunge il valore massimo?",
+    "suggestion": "Non è né all'inizio né alla saturazione: è a metà strada verso la capacità portante.",
+    "options": [
+      "Quando N è pari a K, cioè alla capacità portante",
+      "Quando N è pari a K/2, a metà della capacità portante",
+      "Quando N è prossimo a zero, all'inizio della crescita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il tasso di crescita è massimo nel punto di flesso della curva logistica, a N = K/2, dove il prodotto tra numero di individui ed effetto frenante è massimo.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-logistica-fill-011",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Nel modello logistico, la densità N = K/2 in cui il tasso di crescita dN/dt raggiunge il valore massimo è chiamata ___ della curva.",
+    "answers": [
+      ["punto di flesso", "flesso"]
+    ],
+    "suggestion": "È il punto in cui la curva a S cambia concavità e la crescita è più rapida.",
+    "explanation": "A N = K/2 la curva logistica presenta il punto di flesso, in cui dN/dt è massimo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-densodip-012",
+    "topic": "conservazione",
+    "question": "Che tipo di meccanismo di regolazione implica il concetto di capacità portante K?",
+    "suggestion": "Pensa a come la disponibilità di risorse pro capite reagisce a un aumento della densità.",
+    "options": [
+      "Una retroazione positiva che accelera la crescita all'aumentare della densità",
+      "Una retroazione negativa tra aumento della densità e disponibilità di risorse pro capite",
+      "Un'assenza di relazione tra densità di popolazione e disponibilità di risorse"
+    ],
+    "correctIndex": 1,
+    "explanation": "K implica una retroazione negativa: più cresce la densità, meno risorse pro capite, e questo limita la crescita fino a stabilizzare la popolazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-densodip-013",
+    "topic": "conservazione",
+    "question": "Perché la regolazione denso-dipendente è definita proprio 'denso-dipendente'?",
+    "suggestion": "Il nome indica in che rapporto sta l'intensità dell'effetto con la dimensione della popolazione.",
+    "options": [
+      "Perché agisce sulla popolazione in misura proporzionale alla sua dimensione",
+      "Perché colpisce la stessa proporzione di individui a qualunque densità",
+      "Perché dipende esclusivamente da eventi ambientali casuali come le tempeste"
+    ],
+    "correctIndex": 0,
+    "explanation": "È denso-dipendente perché l'intensità dell'effetto cresce con la densità; colpire la stessa proporzione a ogni densità è invece la definizione di fattore denso-indipendente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-densodip-014",
+    "topic": "conservazione",
+    "question": "Qual è la differenza tra mortalità denso-dipendente e fecondità denso-dipendente?",
+    "suggestion": "Attenzione a quale dei due tassi sale e quale scende all'aumentare della densità.",
+    "options": [
+      "In entrambe la mortalità aumenta con la densità, cambiando solo la velocità dell'effetto",
+      "La fecondità aumenta con la densità nella prima, la mortalità diminuisce con la densità nella seconda",
+      "La mortalità aumenta con la densità nella prima, la fecondità diminuisce con la densità nella seconda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella mortalità denso-dipendente il tasso di mortalità sale con la densità; nella fecondità denso-dipendente è il tasso di fecondità a scendere. I due meccanismi possono coesistere.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-densodip-015",
+    "topic": "conservazione",
+    "question": "Quali fattori possono determinare una regolazione denso-dipendente della popolazione?",
+    "suggestion": "Cerca i fattori la cui intensità cambia con la densità, non gli eventi che colpiscono a caso.",
+    "options": [
+      "Alluvioni, incendi e tempeste che colpiscono la popolazione indipendentemente dalla densità",
+      "La riduzione delle risorse, i cambiamenti nella predazione e la diffusione di malattie e parassiti",
+      "La deriva genetica e le mutazioni casuali che si accumulano nel corso delle generazioni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sono denso-dipendenti la riduzione delle risorse, i mutamenti della predazione e la diffusione di malattie e parassiti; alluvioni e incendi agiscono invece indipendentemente dalla densità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-densodip-016",
+    "topic": "conservazione",
+    "question": "Che cosa caratterizza i fattori denso-indipendenti che regolano una popolazione?",
+    "suggestion": "Chiediti se l'effetto di un incendio o di una tempesta cambia col numero di individui presenti.",
+    "options": [
+      "Colpiscono la popolazione in misura direttamente proporzionale alla sua densità corrente",
+      "Agiscono soltanto quando la densità della popolazione supera la capacità portante K",
+      "Colpiscono la popolazione indipendentemente dal numero di individui presenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "I fattori denso-indipendenti, come alluvioni, incendi e tempeste, colpiscono la popolazione senza relazione con la densità, o colpiscono la stessa proporzione a qualsiasi densità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-competizione-017",
+    "topic": "conservazione",
+    "question": "In quale condizione si verifica competizione tra individui di una popolazione?",
+    "suggestion": "La competizione richiede che la risorsa condivisa non basti per tutti; se abbonda, che succede?",
+    "options": [
+      "Quando gli individui utilizzano una risorsa comune limitata, insufficiente per tutti",
+      "Quando la risorsa è abbondante e sufficiente per tutti gli individui presenti",
+      "Ogni volta che due individui della stessa specie occupano lo stesso habitat"
+    ],
+    "correctIndex": 0,
+    "explanation": "La competizione esiste solo quando la risorsa comune è limitata; se è sufficiente per tutti e non influisce su sopravvivenza, crescita e riproduzione, non c'è competizione.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-competizione-018",
+    "topic": "conservazione",
+    "question": "Perché la competizione intraspecifica tende a essere particolarmente intensa?",
+    "suggestion": "Confronta quanto si somigliano le esigenze di risorse tra individui della stessa specie e tra specie diverse.",
+    "options": [
+      "Perché individui di specie diverse condividono sempre le stesse identiche risorse",
+      "Perché gli individui della stessa specie hanno esigenze di risorse molto simili tra loro",
+      "Perché le specie diverse non entrano mai in competizione per alcuna risorsa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Membri della stessa specie hanno esigenze quasi identiche, quindi competono per le stesse identiche risorse: da qui l'intensità della competizione intraspecifica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-competizione-019",
+    "topic": "conservazione",
+    "question": "Qual è la differenza tra competizione per esaurimento (scramble) e competizione per contesa (contest)?",
+    "suggestion": "Attenzione a quale modalità distribuisce la penalizzazione fra tutti e quale la concentra su alcuni.",
+    "options": [
+      "Nello scramble crescita e riproduzione si riducono ugualmente per tutti; nel contest alcuni monopolizzano le risorse escludendo gli altri",
+      "Nello scramble alcuni monopolizzano le risorse escludendo gli altri; nel contest crescita e riproduzione si riducono ugualmente per tutti",
+      "In entrambe crescita e riproduzione si riducono ugualmente per tutti, cambia soltanto la rapidità con cui ciò avviene"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nello scramble la riduzione è ripartita in egual misura fra tutti; nel contest alcuni individui si accaparrano risorse sufficienti negandole agli altri. La seconda opzione inverte proprio le due modalità.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.11"
+  },
+  {
+    "id": "cons-c11-competizione-020",
+    "topic": "conservazione",
+    "question": "Quale conseguenza distingue gli esiti della competizione per esaurimento da quelli della competizione per contesa?",
+    "suggestion": "Attenzione a quale modalità può mettere a rischio l'intera popolazione e quale colpisce solo alcuni.",
+    "options": [
+      "Lo scramble penalizza solo i perdenti, mentre il contest può portare tutta la popolazione all'estinzione",
+      "Lo scramble può portare tutta la popolazione all'estinzione, mentre il contest penalizza solo i perdenti",
+      "Entrambi lasciano comunque a tutti gli individui risorse sufficienti per sopravvivere e riprodursi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nello scramble tutti possono restare con risorse insufficienti, con rischio di estinzione; nel contest i vincitori sopravvivono e si riproducono, penalizzati sono solo i perdenti.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.11-12"
+  },
+  {
+    "id": "cons-c11-competizione-021",
+    "topic": "conservazione",
+    "question": "Che cosa caratterizza la competizione per sfruttamento (exploitation)?",
+    "suggestion": "Si tratta di interazioni indirette: gli individui non si affrontano, ma consumano la stessa risorsa comune.",
+    "options": [
+      "Interazioni dirette, in cui un individuo impedisce attivamente agli altri di accedere alla risorsa",
+      "Assenza di qualsiasi interazione, poiché ogni individuo dispone di risorse illimitate",
+      "Interazioni indirette, in cui l'uso della risorsa ne riduce la quantità disponibile per gli altri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nello sfruttamento l'interazione è indiretta: consumando la risorsa (es. l'albero che assorbe acqua) se ne riduce la quantità per gli altri, senza impedire fisicamente l'accesso.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-competizione-022",
+    "topic": "conservazione",
+    "question": "L'uccello che difende l'area attorno al proprio nido impedendo ad altri di nidificare illustra quale tipo di competizione?",
+    "suggestion": "Qui c'è un'azione diretta di esclusione, non solo un consumo silenzioso della risorsa.",
+    "options": [
+      "Competizione per interferenza, basata su interazioni dirette",
+      "Competizione per sfruttamento, basata su interazioni indirette",
+      "Competizione per esaurimento, con effetti uguali per tutti gli individui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Difendere attivamente un'area e impedire l'accesso agli altri è competizione per interferenza (interazione diretta), distinta dallo sfruttamento indiretto della risorsa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-crescita-023",
+    "topic": "conservazione",
+    "question": "Che cosa si intende per crescita denso-dipendente?",
+    "suggestion": "Collega la densità di popolazione alla velocità con cui il singolo individuo si accresce.",
+    "options": [
+      "Il tasso di crescita individuale aumenta all'aumentare della densità di popolazione",
+      "Il tasso di crescita della popolazione resta costante a qualsiasi densità",
+      "Il tasso di crescita individuale si riduce in condizioni di competizione per le risorse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con crescita denso-dipendente si intende la riduzione del tasso di accrescimento dei singoli individui quando la densità aumenta e la competizione per le risorse si intensifica.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-crescita-024",
+    "topic": "conservazione",
+    "question": "Cosa mostrano gli esperimenti sul trifoglio bianco coltivato a densità crescenti?",
+    "suggestion": "Se più piante condividono lo stesso vaso, che ne è della biomassa media di ciascuna?",
+    "options": [
+      "Il peso medio di ciascuna pianta diminuisce all'aumentare del numero di piante per vaso",
+      "Il peso medio di ciascuna pianta aumenta all'aumentare del numero di piante per vaso",
+      "Il peso medio delle piante resta invariato indipendentemente dalla densità del vaso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel trifoglio bianco il peso medio per pianta cala all'aumentare della densità: la competizione per le risorse riduce la crescita individuale.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-crescita-025",
+    "topic": "conservazione",
+    "question": "Nelle piante di orache coltivate ad alta densità, quale meccanismo spiega principalmente l'inibizione della crescita?",
+    "suggestion": "L'indizio è nella riduzione del 50% del tasso netto di fotosintesi: pensa all'assorbimento del carbonio.",
+    "options": [
+      "Un aumento del tasso netto di fotosintesi che accelera il consumo delle riserve interne",
+      "Un declino del tasso netto di assorbimento del carbonio, con fotosintesi ridotta del 50%",
+      "Una riduzione della disponibilità di acqua nel substrato dei vasi ad alta densità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ad alta densità il tasso netto di fotosintesi cala del 50%: l'inibizione della crescita dipende soprattutto dal minore assorbimento netto di carbonio dovuto alla competizione per la luce.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-crescita-026",
+    "topic": "conservazione",
+    "question": "Perché nelle piante di orache ad alta densità aumenta il rapporto tra area fogliare e biomassa (leaf area ratio)?",
+    "suggestion": "Ad alta densità la risorsa più contesa è la luce: dove conviene alla pianta investire i prodotti fotosintetici?",
+    "options": [
+      "Perché la pianta riduce la produzione di foglie per concentrare le risorse nelle radici",
+      "Perché la pianta alloca più prodotti fotosintetici alle foglie per competere per la luce",
+      "Perché la competizione avviene principalmente per l'acqua e non per la luce"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'aumento del leaf area ratio indica una maggiore allocazione verso le foglie a scapito del resto della pianta: l'alta densità intensifica la competizione per la luce.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-crescita-027",
+    "topic": "conservazione",
+    "question": "Cosa accade al tasso di crescita medio dei girini di rana dei boschi all'aumentare della densità?",
+    "suggestion": "La relazione tra densità e accrescimento individuale è la stessa osservata nelle piante in competizione.",
+    "options": [
+      "Aumenta, perché la competizione stimola un accrescimento più rapido",
+      "Diminuisce, per effetto della competizione intraspecifica per le risorse",
+      "Diminuisce solo alle densità più basse, dove la competizione sarebbe più intensa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei girini di rana dei boschi il tasso di crescita medio individuale cala all'aumentare della densità, per la competizione intraspecifica per il cibo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-crescita-028",
+    "topic": "conservazione",
+    "question": "Come si spiega il fatto che i girini ad alta densità sviluppano corpi più lunghi, code più corte e bocche più larghe?",
+    "suggestion": "Lo stesso corredo genetico può dare forme diverse a seconda dell'ambiente: come si chiama questo fenomeno?",
+    "options": [
+      "Come mutazione genetica indotta dalla densità che modifica in modo ereditario la morfologia dei girini",
+      "Come selezione naturale che nel giro di poche settimane elimina i fenotipi individuali meno competitivi",
+      "Come plasticità fenotipica indotta dalla competizione: uno stesso genotipo esprime fenotipi diversi in ambienti diversi"
+    ],
+    "correctIndex": 2,
+    "explanation": "È plasticità fenotipica indotta dalla competizione: lo stesso genotipo esprime fenotipi differenti (morfologia e comportamento) più adatti a competere, senza cambiamenti ereditari.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-mortalita-029",
+    "topic": "conservazione",
+    "question": "Cosa accade alla sopravvivenza delle uova di farfalla monarca all'aumentare della densità di uova deposte su una stessa pianta?",
+    "suggestion": "La competizione per la stessa pianta ospite influisce sulle probabilità di arrivare allo sviluppo.",
+    "options": [
+      "La probabilità di sopravvivenza aumenta",
+      "La probabilità di sopravvivenza diminuisce",
+      "La probabilità di sopravvivenza non cambia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella farfalla monarca, più uova sono deposte sulla stessa pianta, minore è la probabilità di sopravvivenza: è un esempio di mortalità denso-dipendente.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.12"
+  },
+  {
+    "id": "cons-c11-mortalita-030",
+    "topic": "conservazione",
+    "question": "Nell'esperimento sulla saeppola canadese (horseweed), cosa provocò la riduzione della densità da 100.000 a circa 1000 piante per m²?",
+    "suggestion": "La mortalità qui dipende dalla densità: quale processo elimina la gran parte delle plantule?",
+    "options": [
+      "Una forte competizione per le risorse limitate, che causò la morte del 99% delle plantule",
+      "Un attacco di parassiti denso-indipendente che colpì la stessa proporzione di piante",
+      "Una riduzione artificiale della densità operata rimuovendo manualmente le plantule"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'intensa competizione per risorse limitate uccise circa il 99% delle plantule: mortalità denso-dipendente che riduce la densità e libera risorse per i superstiti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-mortalita-fill-031",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La riduzione progressiva della densità accompagnata dalla crescita degli individui superstiti, per effetto della mortalità denso-dipendente, prende il nome di ___.",
+    "answers": [
+      ["autodiradamento", "self-thinning", "self thinning", "selfthinning"]
+    ],
+    "suggestion": "È il fenomeno tipico delle piante dense e di animali sessili come cirripedi e mitili.",
+    "explanation": "L'autodiradamento (self-thinning) combina mortalità denso-dipendente e crescita: la densità cala mentre gli individui rimasti aumentano di dimensione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-mortalita-032",
+    "topic": "conservazione",
+    "question": "Perché nell'autodiradamento le plantule sopravvissute aumentano progressivamente di dimensione?",
+    "suggestion": "Con meno individui a competere, come cambia la quota di risorse disponibile per ciascun superstite?",
+    "options": [
+      "Perché le plantule superstiti erano geneticamente predisposte a crescere di più",
+      "Perché l'alta densità iniziale garantisce comunque più risorse alle piante superstiti",
+      "Perché la morte di molte plantule aumenta la disponibilità di risorse pro capite"
+    ],
+    "correctIndex": 2,
+    "explanation": "La morte del 99% delle plantule aumenta le risorse pro capite per i superstiti, che perciò crescono di più: è il meccanismo dell'autodiradamento.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-mortalita-033",
+    "topic": "conservazione",
+    "question": "Cosa si osserva riguardo alla trota fario nei corsi d'acqua della Sierra Nevada?",
+    "suggestion": "È un autodiradamento in un animale mobile: quale relazione lega taglia dei pesci e densità?",
+    "options": [
+      "Quanto maggiori sono le dimensioni delle trote, tanto minore è la densità di pesci",
+      "Quanto maggiori sono le dimensioni delle trote, tanto maggiore è la densità di pesci",
+      "La densità dei pesci non presenta alcuna relazione con le loro dimensioni corporee"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella trota fario, a trote più grandi corrisponde una densità minore: la mortalità dovuta alla competizione lascia più cibo, e quindi più crescita, ai pesci rimasti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-mortalita-034",
+    "topic": "conservazione",
+    "question": "In quali animali, oltre alle piante, è comunemente osservato l'autodiradamento?",
+    "suggestion": "Pensa a organismi ancorati al substrato, e ad alcuni pesci di acque correnti.",
+    "options": [
+      "Soltanto in mammiferi terrestri e territoriali come i lupi, le marmotte e i conigli",
+      "In animali sessili come cirripedi e mitili, e in alcuni pesci di acque correnti",
+      "Esclusivamente negli insetti sociali regolati dai feromoni della regina"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'autodiradamento si osserva nelle piante, in animali sessili come cirripedi e mitili e in pesci di acque correnti come le trote, non nei mammiferi territoriali né negli insetti sociali.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-riproduzione-035",
+    "topic": "conservazione",
+    "question": "Perché la fertilità della foca della Groenlandia è considerata denso-dipendente?",
+    "suggestion": "Le femmine maturano al raggiungimento dell'87% del peso adulto: come incide la densità sulla velocità di crescita?",
+    "options": [
+      "Ad alta densità le femmine raggiungono prima l'87% del peso adulto, anticipando il primo parto",
+      "La maturità dipende dal peso corporeo, ma il peso è indipendente dalla densità di popolazione",
+      "Ad alta densità le femmine crescono più lentamente e raggiungono la maturità sessuale più tardi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ad alta densità le femmine aumentano di peso più lentamente e maturano più tardi, ritardando il primo parto: la fertilità dipende quindi dalla densità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-riproduzione-036",
+    "topic": "conservazione",
+    "question": "Nel lucioperca, in cui la maturità dipende dalla taglia, cosa comporta un aumento della densità di popolazione?",
+    "suggestion": "Se la densità rallenta la crescita e la maturità è legata alla taglia, come cambiano età alla maturità e produzione di uova?",
+    "options": [
+      "Una maturità più precoce e un aumento della produzione di uova",
+      "Un aumento dell'età alla maturità e una diminuzione della produzione di uova",
+      "Una maturità legata solo all'età, con produzione di uova indipendente dalla densità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiché la maturità dipende dalla taglia e l'alta densità rallenta la crescita, i pesci maturano più tardi e producono meno uova: regolazione denso-dipendente della fecondità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-riproduzione-037",
+    "topic": "conservazione",
+    "question": "Cosa accade alla produzione di semi nelle piante di soia e salicornia all'aumentare della densità?",
+    "suggestion": "Il controllo denso-dipendente della fecondità agisce anche nelle piante: in che direzione va la produzione di semi?",
+    "options": [
+      "Aumenta, perché la competizione stimola una riproduzione compensativa",
+      "Diminuisce, come controllo denso-dipendente della fecondità",
+      "Diminuisce solo nella soia, mentre la salicornia mantiene la produzione costante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sia nella soia sia nella salicornia la produzione di semi per pianta cala all'aumentare della densità: è un controllo denso-dipendente della fecondità comune nelle piante.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-stress-038",
+    "topic": "conservazione",
+    "question": "Quali effetti fisiologici può innescare lo stress da alta densità negli animali?",
+    "suggestion": "Pensa a come i cambiamenti ormonali da stress agiscono su crescita, riproduzione e attività sessuale.",
+    "options": [
+      "Cambiamenti ormonali che sopprimono la crescita, riducono la riproduzione e ritardano l'attività sessuale",
+      "Un rafforzamento del sistema immunitario e un incremento della fertilità dovuto alle maggiori interazioni",
+      "Un aumento del tasso di natalità e una riduzione della mortalità grazie alla cooperazione tra individui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo stress da sovraffollamento innesca cambiamenti ormonali che sopprimono crescita e riproduzione, ritardano l'attività sessuale e indeboliscono il sistema immunitario, non lo rafforzano.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.13"
+  },
+  {
+    "id": "cons-c11-stress-039",
+    "topic": "conservazione",
+    "question": "Nell'esperimento sui topi domestici selvatici, cosa provocò l'esposizione all'urina proveniente da una popolazione ad alta densità?",
+    "suggestion": "L'urina veicolava feromoni: l'effetto era di accelerare o di rallentare lo sviluppo delle femmine giovani?",
+    "options": [
+      "Un'accelerazione della pubertà nelle femmine giovani esposte",
+      "Un ritardo della pubertà nelle femmine giovani esposte",
+      "Nessun effetto misurabile sulla maturazione delle femmine giovani"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'urina della popolazione ad alta densità ritardò la pubertà delle femmine giovani, mentre quella a bassa densità non ebbe effetto: un meccanismo che rallenta la crescita in condizioni di affollamento.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-stress-fill-040",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Le sostanze chimiche rilasciate nell'ambiente che influenzano il comportamento o la fisiologia di altri individui della stessa specie sono dette ___.",
+    "answers": [
+      ["feromoni", "pheromones", "feromone"]
+    ],
+    "suggestion": "Negli insetti sociali è la regina a rilasciarle per controllare lo sviluppo della colonia.",
+    "explanation": "I feromoni sono segnali chimici che agiscono su altri individui: possono, per esempio, ritardare la maturazione sessuale in condizioni di alta densità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-dispersione-041",
+    "topic": "conservazione",
+    "question": "In condizioni di alta densità, quali individui sono più spesso costretti a disperdersi?",
+    "suggestion": "Chi tende a restare nell'area d'origine e chi viene spinto via dall'aggressività degli adulti?",
+    "options": [
+      "Gli adulti dominanti, che cercano attivamente nuovi territori liberi da colonizzare",
+      "Le femmine riproduttive più anziane, allontanate dai giovani nati nel corso dell'anno",
+      "I sub-adulti, espulsi dall'aggressività degli adulti che restano nell'area di origine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ad alta densità sono di norma i sub-adulti a disperdersi, espulsi dall'aggressività degli adulti, che invece tendono a rimanere nell'area d'origine.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-dispersione-042",
+    "topic": "conservazione",
+    "question": "Perché la dispersione che avviene ad alta densità non è considerata un meccanismo efficace di regolazione?",
+    "suggestion": "Confronta il momento in cui scatta: interviene prima o dopo che le risorse sono già scarse?",
+    "options": [
+      "Perché avviene solo quando le risorse sono già molto scarse, in reazione al sovrappopolamento",
+      "Perché coinvolge sempre tutti gli individui della popolazione contemporaneamente",
+      "Perché riduce la densità in modo così drastico da causare l'estinzione locale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ad alta densità la dispersione è tardiva, una reazione al sovrappopolamento quando le risorse sono già scarse; sarebbe più efficace a densità bassa o crescente, prima che le risorse si esauriscano.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-dispersione-043",
+    "topic": "conservazione",
+    "question": "Nello studio sullo scoiattolo rosso nello Yukon, quale beneficio comporta la dispersione estiva delle femmine più anziane?",
+    "suggestion": "La partenza avviene in estate, quando il cibo abbonda; chi ne trae vantaggio nell'inverno successivo?",
+    "options": [
+      "Aumenta la competizione invernale tra i giovani rimasti nell'area d'origine",
+      "Garantisce maggiore cibo alla prole rimasta nell'area d'origine durante l'inverno",
+      "Riduce la disponibilità di cibo per i giovani, costringendoli a loro volta a disperdersi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'abbandono estivo dell'area da parte delle femmine più anziane lascia più cibo alla prole rimasta durante l'inverno, quando le risorse scarseggiano.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-dispersione-044",
+    "topic": "conservazione",
+    "question": "Oltre ad allentare la competizione locale, quale ulteriore vantaggio genetico offre la dispersione dei giovani?",
+    "suggestion": "Allontanarsi dall'area natale riduce la probabilità di accoppiarsi con quali individui?",
+    "options": [
+      "Accentua la deriva genetica all'interno della popolazione d'origine",
+      "Assicura che ogni singolo individuo disperso trovi sempre un habitat idoneo",
+      "Riduce la probabilità di incrocio tra consanguinei (inbreeding)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Disperdendosi, i giovani riducono la probabilità di incrocio tra consanguinei; molti dispersori muoiono, quindi non è vero che tutti trovino un habitat idoneo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-sociale-045",
+    "topic": "conservazione",
+    "question": "Che cosa descrive il comportamento sociale in relazione alla regolazione delle popolazioni?",
+    "suggestion": "Riguarda quanto gli individui della stessa specie si tollerano a vicenda in uno stesso habitat.",
+    "options": [
+      "L'insieme dei fattori denso-indipendenti che colpiscono a caso la popolazione locale",
+      "Il grado di tolleranza reciproca tra individui, che limita quanti possono vivere in un habitat",
+      "La capacità di dispersione dei giovani verso nuovi habitat non ancora occupati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il comportamento sociale è il grado di tolleranza reciproca tra individui e sembra limitare quanti animali possono condividere un habitat con un dato approvvigionamento alimentare.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-sociale-046",
+    "topic": "conservazione",
+    "question": "In una gerarchia di dominanza semplice, quale individuo occupa la posizione di subordinazione totale?",
+    "suggestion": "Segui la scala dalla lettera greca iniziale a quella finale dell'alfabeto.",
+    "options": [
+      "L'individuo alfa, dominante su tutti gli altri",
+      "L'individuo beta, subordinato solo all'alfa",
+      "L'individuo omega, subordinato a tutti gli altri"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'omega è subordinato a tutti gli altri; l'alfa domina tutti e il beta è dominante su tutti tranne l'alfa.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.14"
+  },
+  {
+    "id": "cons-c11-sociale-047",
+    "topic": "conservazione",
+    "question": "Perché una gerarchia di dominanza, una volta stabilita, riduce il dispendio energetico del gruppo?",
+    "suggestion": "Pensa a cosa succede alle dispute quando i ranghi sono già noti a tutti i membri.",
+    "options": [
+      "Perché formalizza la competizione: le dispute si risolvono senza continui scontri fisici",
+      "Perché elimina completamente e in via definitiva la competizione tra i membri del gruppo",
+      "Perché costringe tutti gli individui subordinati a disperdersi verso nuovi territori"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gerarchia stabilizza e formalizza la competizione: stabiliti i ranghi, le dispute si risolvono con minima spesa energetica, senza scontri fisici continui. Non elimina però la competizione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-sociale-048",
+    "topic": "conservazione",
+    "question": "In che modo la struttura sociale del branco di lupi limita la riproduzione?",
+    "suggestion": "Chi, all'interno del branco, ha il controllo esclusivo dell'accoppiamento?",
+    "options": [
+      "Ogni femmina matura del branco produce una propria cucciolata ogni anno",
+      "Solo la coppia alfa si riproduce, impedendo agli altri membri di accoppiarsi",
+      "L'accoppiamento spetta ai giovani dell'anno precedente e non alla coppia alfa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel branco l'accoppiamento è controllato dalla coppia alfa: il maschio alfa impedisce agli altri maschi di accoppiarsi con la femmina alfa, che a sua volta impedisce alle altre femmine di riprodursi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-sociale-049",
+    "topic": "conservazione",
+    "question": "Perché la dominanza sociale nei lupi produce un effetto denso-dipendente sulla popolazione?",
+    "suggestion": "Attenzione a quali condizioni favoriscono la fondazione di nuovi branchi e quali portano invece a espulsioni e morti.",
+    "options": [
+      "A bassa densità i maturi fondano nuovi branchi e si riproducono; ad alta densità aumentano espulsioni e mortalità",
+      "A bassa densità aumentano espulsioni e mortalità; ad alta densità quasi tutte le femmine si riproducono",
+      "La riproduzione dipende solo dalla disponibilità di cibo e non varia con la densità del branco"
+    ],
+    "correctIndex": 0,
+    "explanation": "A bassa densità i maturi lasciano il branco e fondano nuovi branchi, così quasi tutte le femmine si riproducono; ad alta densità, con cibo scarso, individui vengono espulsi, la mortalità sale e la natalità cala.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-conservazione-050",
+    "topic": "conservazione",
+    "question": "Come viene generalmente definita la popolazione minima vitale (MVP)?",
+    "suggestion": "Ricorda la coppia di valori usata come soglia: una probabilità di sopravvivenza molto alta su un orizzonte molto lungo.",
+    "options": [
+      "La dimensione che garantisce il 99% di probabilità di sopravvivenza per 1000 anni",
+      "La dimensione che garantisce il 50% di probabilità di sopravvivenza per 100 anni",
+      "Il numero minimo di individui necessario a saturare la capacità portante dell'area"
+    ],
+    "correctIndex": 0,
+    "explanation": "La MVP è di norma definita come la dimensione che assicura il 99% di probabilità di sopravvivenza della specie per 1000 anni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-conservazione-051",
+    "topic": "conservazione",
+    "question": "A quali fattori deve poter resistere una popolazione di dimensione pari alla MVP?",
+    "suggestion": "Cerca l'insieme che raccoglie le variazioni casuali di natalità e mortalità, non le sole minacce antropiche.",
+    "options": [
+      "La perdita di habitat, l'inquinamento chimico e la caccia illegale operata dall'uomo",
+      "Variazioni casuali di nascite e morti, cambiamenti ambientali, deriva genetica ed eventi catastrofici",
+      "La competizione interspecifica, la predazione e la comparsa di nuovi parassiti nell'area"
+    ],
+    "correctIndex": 1,
+    "explanation": "La MVP deve essere abbastanza grande da resistere alle fluttuazioni casuali di nascite e morti, ai cambiamenti ambientali, alla deriva genetica e agli eventi catastrofici.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-conservazione-052",
+    "topic": "conservazione",
+    "question": "In che modo l'effetto Allee può vincolare la dimensione minima di una popolazione?",
+    "suggestion": "Ragiona sul segno dell'effetto: a densità molto basse il successo riproduttivo migliora o peggiora?",
+    "options": [
+      "Aumentando il successo riproduttivo man mano che la densità scende sotto una soglia",
+      "Agendo solo alle alte densità, dove la competizione riduce la riproduzione",
+      "Riducendo il successo riproduttivo o la sopravvivenza quando la densità è troppo bassa"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'effetto Allee è la riduzione del successo riproduttivo o della sopravvivenza a basse densità: impone quindi un limite diretto alla dimensione minima necessaria.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-conservazione-053",
+    "topic": "conservazione",
+    "question": "Perché la MVP stimata per molti invertebrati e piante annuali (circa 10.000) è superiore a quella dei vertebrati (circa 1000)?",
+    "suggestion": "Confronta l'ampiezza con cui oscilla nel tempo la dimensione di questi due gruppi di popolazioni.",
+    "options": [
+      "Perché tali specie mostrano ampie fluttuazioni nella dimensione della popolazione",
+      "Perché tali specie hanno una capacità di dispersione molto più limitata tra i frammenti",
+      "Perché hanno tempi di generazione più lunghi e quindi una deriva genetica più rapida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Molti invertebrati e piante annuali oscillano fortemente in numero: per assorbire queste ampie fluttuazioni la MVP stimata sale a circa 10.000, contro i circa 1000 dei vertebrati.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-conservazione-054",
+    "topic": "conservazione",
+    "question": "A che cosa serve un'analisi di vitalità della popolazione (PVA)?",
+    "suggestion": "È un metodo statistico: cosa stima a partire dalle caratteristiche della specie per orientare la conservazione?",
+    "options": [
+      "A misurare in modo diretto la capacità portante effettiva di un habitat protetto",
+      "A valutare statisticamente il rischio di estinzione per stimare la MVP di una specie",
+      "A eliminare del tutto la deriva genetica dalle piccole popolazioni isolate e frammentate"
+    ],
+    "correctIndex": 1,
+    "explanation": "La PVA è un metodo statistico che stima il rischio di estinzione in base alle caratteristiche della specie, fornendo informazioni utili a determinare la MVP.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  },
+  {
+    "id": "cons-c11-conservazione-fill-055",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La variazione casuale delle frequenze alleliche in una popolazione dovuta al caso è chiamata ___.",
+    "answers": [
+      ["deriva genetica", "genetic drift"]
+    ],
+    "suggestion": "È uno dei rischi che minacciano soprattutto le popolazioni di piccole dimensioni.",
+    "explanation": "La deriva genetica è la variazione casuale delle frequenze alleliche dovuta al caso; è particolarmente pericolosa nelle piccole popolazioni e va considerata nel calcolo della MVP.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.15"
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "id": "cons-c13-definizione-001",
+    "topic": "conservazione",
+    "question": "Che tipo di effetto ha la competizione interspecifica sulle popolazioni delle specie coinvolte?",
+    "suggestion": "Pensa al segno dell'interazione: entrambe le specie ci guadagnano, ci perdono o è indifferente?",
+    "options": [
+      "Un effetto negativo su entrambe le specie coinvolte (−, −)",
+      "Un effetto negativo su una specie e positivo sull'altra (+, −)",
+      "Un effetto positivo su entrambe le specie coinvolte (+, +)"
+    ],
+    "correctIndex": 0,
+    "explanation": "La competizione interspecifica danneggia le popolazioni di due o più specie che condividono una risorsa limitante, per cui l'interazione è classificata come (−, −).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.21"
+  },
+  {
+    "id": "cons-c13-intra-inter-002",
+    "topic": "conservazione",
+    "question": "Negli anni di scarsa produzione di ghiande, perché gli scoiattoli grigi sperimentano insieme competizione intra- e interspecifica?",
+    "suggestion": "Chiediti chi altro, oltre agli scoiattoli grigi stessi, si nutre delle stesse ghiande.",
+    "options": [
+      "Perché la scarsità di ghiande danneggia soltanto le specie diverse dallo scoiattolo grigio comune",
+      "Perché competono solo con individui della propria specie e mai con specie diverse",
+      "Perché competono con altri scoiattoli grigi e con cervi, tacchini e ghiandaie per le ghiande"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le ghiande scarse sono contese sia tra scoiattoli grigi (intraspecifica) sia con cervo dalla coda bianca, tacchino, topo dai piedi bianchi e ghiandaia azzurra (interspecifica): le due forme coesistono nella stessa comunità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.21"
+  },
+  {
+    "id": "cons-c13-sfrut-interf-003",
+    "topic": "conservazione",
+    "question": "Qual è la differenza tra competizione per sfruttamento e competizione per interferenza?",
+    "suggestion": "In un caso le specie si toccano direttamente, nell'altro l'effetto passa attraverso la risorsa consumata.",
+    "options": [
+      "Lo sfruttamento agisce per interazioni dirette tra individui, l'interferenza per consumo indiretto della risorsa",
+      "Lo sfruttamento agisce per consumo indiretto della risorsa, l'interferenza per interazioni dirette tra individui",
+      "Entrambe agiscono solo per contatto fisico diretto, ma lo sfruttamento riguarda solo lo spazio conteso"
+    ],
+    "correctIndex": 1,
+    "explanation": "La competizione per sfruttamento è indiretta e mediata dal consumo della risorsa condivisa; quella per interferenza è basata su interazioni dirette tra gli individui delle specie coinvolte.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-prelazione-004",
+    "topic": "conservazione",
+    "question": "Perché la competizione per prelazione è tipica di organismi sessili come i cirripedi?",
+    "suggestion": "Per un organismo che non si muove, la risorsa contesa più critica è il posto dove attaccarsi.",
+    "options": [
+      "Perché una specie cresce fisicamente sopra l'altra ombreggiandola e togliendole luce e nutrienti",
+      "Perché una specie rilascia sostanze tossiche che uccidono gli individui vicini a sé",
+      "Perché una specie occupa lo spazio fisico impedendone l'uso agli individui di un'altra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella competizione per prelazione (preemption) gli individui di una specie occupano lo spazio impedendone l'uso ad altri: negli organismi sessili come i cirripedi lo spazio di ancoraggio è la risorsa contesa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-sovraccrescita-005",
+    "topic": "conservazione",
+    "question": "In quale tipo di competizione una pianta più alta danneggia una più bassa ombreggiandola?",
+    "suggestion": "Il nome descrive letteralmente il crescere sopra l'altro individuo.",
+    "options": [
+      "Competizione per sovraccrescita",
+      "Competizione per interazione chimica",
+      "Competizione per prelazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella competizione per sovraccrescita (overgrowth) gli individui di una specie crescono sopra quelli di un'altra inibendone l'accesso a una risorsa, come piante alte che ombreggiano quelle più basse.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-allelopatia-fill-006",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La secrezione da parte di una pianta di sostanze chimiche capaci di inibire la germinazione di altre specie è detta ___.",
+    "answers": [["allelopatia", "allelopathy"]],
+    "suggestion": "È un caso di competizione per interazione chimica proprio delle piante.",
+    "explanation": "L'allelopatia è la competizione per interazione chimica nelle piante: rilascio di inibitori di crescita o sostanze tossiche che inibiscono altre specie, ad esempio bloccandone la germinazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-territoriale-incontro-007",
+    "topic": "conservazione",
+    "question": "Cosa distingue la competizione territoriale dalla competizione per incontro?",
+    "suggestion": "In un caso si difende attivamente un'area delimitata, nell'altro gli scontri sono occasionali.",
+    "options": [
+      "La territoriale nasce da scontri occasionali, mentre l'incontro difende una località come territorio",
+      "La territoriale esclude un'altra specie da una località difesa, l'incontro nasce da scontri non territoriali",
+      "Entrambe si basano solo sul rilascio di sostanze chimiche tossiche verso gli individui vicini dell'altra specie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella competizione territoriale il comportamento esclude un'altra specie da una località difesa come territorio; nella competizione per incontro gli scontri sono non territoriali, come necrofagi che si contendono una carcassa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-consumo-008",
+    "topic": "conservazione",
+    "question": "Come agisce la competizione per consumo tra due specie?",
+    "suggestion": "Nessun contatto diretto: una specie sottrae all'altra qualcosa che entrambe usano.",
+    "options": [
+      "Una specie occupa lo spazio disponibile impedendone del tutto l'uso agli individui dell'altra specie",
+      "Una specie rilascia sostanze chimiche tossiche che inibiscono o uccidono gli individui dell'altra specie",
+      "Una specie inibisce l'altra consumando una risorsa condivisa e sottraendogliela progressivamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella competizione per consumo una specie inibisce l'altra sottraendo una risorsa condivisa, come nell'esempio delle ghiande contese da più specie.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-lv-origine-009",
+    "topic": "conservazione",
+    "question": "Da quale modello di crescita partono le equazioni di Lotka-Volterra per la competizione tra due specie?",
+    "suggestion": "È il modello di crescita che prevede una capacità portante K, non quello a crescita illimitata.",
+    "options": [
+      "Dalle equazioni di crescita logistica di ciascuna specie considerata separatamente",
+      "Dalle equazioni di crescita esponenziale illimitata di ciascuna delle due specie",
+      "Dalle equazioni predatore-preda applicate contemporaneamente a due specie di prede"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il modello di Lotka-Volterra parte dalle equazioni logistiche dN/dt = rN(1 − N/K) di ciascuna specie, aggiungendo poi un termine competitivo che include la popolazione dell'altra specie.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-coeff-alpha-010",
+    "topic": "conservazione",
+    "question": "Cosa quantifica il coefficiente di competizione α nel modello di Lotka-Volterra?",
+    "suggestion": "Attenzione alla direzione: chi subisce l'effetto e chi lo esercita? α compare nell'equazione della specie 1.",
+    "options": [
+      "La capacità portante complessiva delle due specie considerate insieme",
+      "L'effetto pro capite della specie 2 sulla crescita della specie 1",
+      "L'effetto pro capite della specie 1 sulla crescita della specie 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "α misura l'effetto pro capite della specie 2 sulla specie 1, mentre β misura quello della specie 1 sulla specie 2. Confondere le due direzioni è l'errore tipico.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-coeff-significato-011",
+    "topic": "conservazione",
+    "question": "In che senso i coefficienti di competizione sono dei 'fattori di conversione'?",
+    "suggestion": "Servono a esprimere un individuo di una specie in 'unità equivalenti' dell'altra, rispetto all'uso delle risorse.",
+    "options": [
+      "Traducono la capacità portante di una specie nel tasso di crescita massimo dell'altra specie in competizione",
+      "Convertono il tempo di generazione di una specie nel tempo di generazione dell'altra specie",
+      "Traducono un individuo della specie competitrice nel numero equivalente di individui della specie esaminata"
+    ],
+    "correctIndex": 2,
+    "explanation": "I coefficienti convertono un individuo della specie competitrice nell'equivalente numero di individui della specie di cui si esamina la crescita, sulla base dell'uso condiviso delle risorse che determinano K.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-coeff-esempio-012",
+    "topic": "conservazione",
+    "question": "Se gli individui della specie 2 hanno massa doppia e mangiano al doppio del ritmo della specie 1, quali valori assumono i coefficienti?",
+    "suggestion": "Un individuo 'grande' vale due 'piccoli' come impatto; il coefficiente inverso è il reciproco.",
+    "options": [
+      "α = 2,0 (effetto della specie 2 sulla 1) e β = 0,5 (effetto della specie 1 sulla 2)",
+      "α = 0,5 (effetto della specie 2 sulla 1) e β = 2,0 (effetto della specie 1 sulla 2)",
+      "α = 2,0 e β = 2,0, dato che entrambe consumano esattamente le stesse piante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un individuo della specie 2 equivale a due della specie 1 come impatto sulle risorse: α = 2,0. All'inverso, un individuo della specie 1 vale mezzo individuo della specie 2: β = 0,5.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-no-competizione-013",
+    "topic": "conservazione",
+    "question": "Cosa prevede il modello di Lotka-Volterra quando la competizione interspecifica è assente?",
+    "suggestion": "Se il termine competitivo si annulla, resta solo l'equazione di partenza di ogni specie.",
+    "options": [
+      "Entrambe le popolazioni si estinguono per la mancanza di ogni forma di regolazione interna",
+      "Ciascuna popolazione cresce in modo logistico fino alla propria capacità portante K",
+      "Ciascuna popolazione cresce in modo esponenziale illimitato senza raggiungere K"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando α o N2 (oppure β o N1) sono pari a zero, il termine competitivo si annulla e ogni popolazione segue la crescita logistica fino al proprio K.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-isoclina-fill-014",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'insieme delle combinazioni (N1, N2) per cui il tasso di crescita di una specie è pari a zero è detto isoclina di crescita ___.",
+    "answers": [["zero", "nulla"]],
+    "suggestion": "Il nome indica il valore che assume dN/dt lungo questa retta.",
+    "explanation": "L'isoclina di crescita zero è l'insieme dei punti (N1, N2) in cui dN/dt = 0, ossia dove la somma pesata delle due popolazioni eguaglia la capacità portante della specie considerata.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-isoclina-condizione-015",
+    "topic": "conservazione",
+    "question": "A quale condizione corrisponde l'isoclina di crescita zero di una specie?",
+    "suggestion": "La crescita si annulla quando le due popolazioni 'pesate' saturano la capacità portante di quella specie.",
+    "options": [
+      "Quando il tasso di crescita r della specie raggiunge il suo valore massimo possibile in assoluto",
+      "Quando entrambe le popolazioni raggiungono simultaneamente il valore zero individui",
+      "Quando la somma pesata delle due popolazioni eguaglia la capacità portante della specie"
+    ],
+    "correctIndex": 2,
+    "explanation": "dN/dt = 0 si verifica quando la somma pesata delle popolazioni (es. N1 + αN2) eguaglia K della specie considerata: lungo quella retta la crescita è nulla.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.22"
+  },
+  {
+    "id": "cons-c13-isoclina1-intercette-016",
+    "topic": "conservazione",
+    "question": "Per l'isoclina della specie 1 (N1 + αN2 = K1), quali sono le intercette sugli assi?",
+    "suggestion": "Poni prima N2 = 0 e poi N1 = 0 nell'equazione della retta e ricava l'altro valore.",
+    "options": [
+      "Intercetta N1 = K1 sulle ascisse e N2 = K1/α sulle ordinate",
+      "Intercetta N1 = K1/α sulle ascisse e N2 = K1 sulle ordinate",
+      "Intercetta N1 = K2 sulle ascisse e N2 = K2/β sulle ordinate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ponendo N2 = 0 si ottiene N1 = K1 (intercetta sulle ascisse); ponendo N1 = 0 si ottiene N2 = K1/α (intercetta sulle ordinate).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-isoclina2-intercette-017",
+    "topic": "conservazione",
+    "question": "Per l'isoclina della specie 2 (N2 + βN1 = K2), quali sono le intercette sugli assi?",
+    "suggestion": "Ricorda che per la specie 2 compare β, non α, e che N1 resta sull'asse delle ascisse.",
+    "options": [
+      "Intercetta N1 = K2 sulle ascisse e N2 = K2/β sulle ordinate",
+      "Intercetta N1 = K2/β sulle ascisse e N2 = K2 sulle ordinate",
+      "Intercetta N1 = K1/α sulle ascisse e N2 = K1 sulle ordinate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ponendo N2 = 0 si ricava N1 = K2/β (intercetta sulle ascisse); ponendo N1 = 0 si ricava N2 = K2 (intercetta sulle ordinate).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-sotto-isoclina1-018",
+    "topic": "conservazione",
+    "question": "Cosa accade al tasso di crescita della specie 1 nei punti (N1, N2) situati al di sotto della sua isoclina?",
+    "suggestion": "Sotto la retta la somma pesata è ancora inferiore a K1: c'è spazio per crescere.",
+    "options": [
+      "È positivo, perché la somma N1 + αN2 resta inferiore a K1",
+      "È negativo, perché la somma N1 + αN2 risulta superiore a K1",
+      "È nullo, perché la somma N1 + αN2 è esattamente uguale a K1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sotto l'isoclina della specie 1 la somma N1 + αN2 è minore di K1, quindi il tasso di crescita è positivo; sopra la retta la somma supera K1 e la crescita diventa negativa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-quattro-esiti-019",
+    "topic": "conservazione",
+    "question": "Cosa determina quale dei quattro possibili esiti della competizione si realizza nel modello di Lotka-Volterra?",
+    "suggestion": "Tutto dipende da come sono disposte le due rette sul grafico: parallele o incrociate, e quale sta sopra.",
+    "options": [
+      "Il solo valore assoluto della capacità portante K1 della prima specie",
+      "Il numero di risorse consumate, a prescindere dalla posizione delle isocline",
+      "La posizione relativa delle due isocline di crescita zero sul grafico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sovrapponendo le due isocline sullo stesso grafico, è la loro posizione relativa (parallele con una sopra l'altra, oppure intersecantesi) a determinare quale dei quattro esiti si verifica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-specie1-vince-020",
+    "topic": "conservazione",
+    "question": "In quale configurazione delle isocline la specie 1 vince ed esclude la specie 2?",
+    "suggestion": "Perché una specie vinca sempre, le rette non devono incrociarsi e quella della vincitrice deve stare tutta sopra.",
+    "options": [
+      "Le isocline si intersecano in un punto di equilibrio stabile condiviso",
+      "Le isocline sono parallele e quella della specie 1 sta tutta sopra quella della specie 2",
+      "Le isocline sono parallele e quella della specie 2 sta tutta sopra quella della specie 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando le isocline sono parallele e quella della specie 1 sta tutta sopra quella della specie 2, esiste una regione in cui solo la specie 1 cresce: nel tempo la specie 1 raggiunge K1 e la specie 2 si estingue.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-regione-intermedia-021",
+    "topic": "conservazione",
+    "question": "Nel caso in cui la specie 1 vince, cosa succede nella regione compresa tra le due isocline?",
+    "suggestion": "In quella fascia una sola delle due specie 'vede' ancora spazio disponibile sotto la propria retta.",
+    "options": [
+      "La specie 1 ha crescita positiva mentre la specie 2 ha crescita negativa",
+      "Entrambe le specie hanno crescita positiva e aumentano contemporaneamente",
+      "Entrambe le specie hanno crescita negativa e declinano contemporaneamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra le due isocline la specie 1 è sotto la propria isoclina (cresce) mentre la specie 2 è sopra la propria (declina): la specie 1 avanza verso K1 e la 2 si estingue.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-coesistenza-stabile-022",
+    "topic": "conservazione",
+    "question": "Quale configurazione delle isocline produce la coesistenza stabile delle due specie?",
+    "suggestion": "La coesistenza permanente richiede un punto d'incontro verso cui il sistema torna sempre, da qualunque regione parta.",
+    "options": [
+      "Le isocline restano parallele, con quella della specie 1 del tutto sopra quella della specie 2",
+      "Le isocline si intersecano ma la dinamica diverge dal punto nelle regioni C e D",
+      "Le isocline si intersecano e la dinamica di tutte e quattro le regioni converge al punto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella coesistenza stabile le isocline si intersecano e la dinamica di tutte e quattro le regioni converge verso il punto di intersezione, che è un equilibrio stabile in cui le due specie persistono insieme.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-equilibrio-instabile-023",
+    "topic": "conservazione",
+    "question": "Cosa caratterizza il quarto esito, in cui vince l'una o l'altra specie a seconda delle condizioni iniziali?",
+    "suggestion": "Anche qui le rette si incrociano, ma il punto d'incontro respinge il sistema invece di attirarlo in due delle regioni.",
+    "options": [
+      "Le isocline si intersecano ma nelle regioni C e D la dinamica diverge dal punto di equilibrio",
+      "Le isocline si intersecano e la dinamica converge al punto di equilibrio da ogni regione",
+      "Le isocline sono parallele fra loro, quindi non esiste alcun punto di equilibrio comune tra le due"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel quarto caso le isocline si intersecano ma nelle regioni C e D la dinamica diverge dal punto centrale, che è un equilibrio instabile: una specie raggiunge K e l'altra si estingue.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-instabile-fill-024",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Quando le isocline si intersecano ma la dinamica diverge dal punto d'incontro nelle regioni C e D, tale punto è un equilibrio ___.",
+    "answers": [["instabile"]],
+    "suggestion": "È il contrario dell'equilibrio verso cui il sistema ritorna sempre.",
+    "explanation": "Se la dinamica si allontana dal punto di intersezione (regioni C e D) invece di convergervi, il punto è un equilibrio instabile: l'esito dipende dalle popolazioni iniziali e dai tassi di crescita.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-instabile-dipende-025",
+    "topic": "conservazione",
+    "question": "Nell'esito con equilibrio instabile, da cosa dipende quale delle due specie prevarrà?",
+    "suggestion": "Se il punto d'incontro non attira, ciò che conta è da dove e con quale slancio parte ciascuna popolazione.",
+    "options": [
+      "Solo dalla specie con la capacità portante K più bassa, che prevale sempre",
+      "Dalle dimensioni di popolazione iniziali e dai tassi di crescita r di ciascuna specie",
+      "Esclusivamente dal valore del coefficiente α, a prescindere dalle condizioni iniziali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con equilibrio instabile l'esito è determinato dalle dimensioni iniziali (N1, N2) e dai tassi di crescita (r1, r2) al momento dell'incontro: quella favorita raggiunge K, l'altra si estingue.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-sotto-entrambe-026",
+    "topic": "conservazione",
+    "question": "Nei grafici delle isocline, cosa avviene nella regione al di sotto di entrambe le rette (punto A)?",
+    "suggestion": "Sotto tutte e due le rette nessuna delle due specie ha ancora saturato la propria capacità portante.",
+    "options": [
+      "Entrambe le specie hanno un tasso di crescita positivo",
+      "Entrambe le specie hanno un tasso di crescita negativo",
+      "Una specie cresce mentre l'altra specie declina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al di sotto di entrambe le isocline (punto A) ciascuna somma pesata è inferiore alla rispettiva K, quindi entrambe le specie crescono; al di sopra di entrambe (punto B) entrambe declinano.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-lab-motivo-027",
+    "topic": "conservazione",
+    "question": "Perché i primi test del modello di Lotka-Volterra furono condotti in laboratorio anziché sul campo?",
+    "suggestion": "In un ambiente controllato è più facile stabilire con sicurezza chi vince e chi si estingue.",
+    "options": [
+      "Perché il modello vale solo per gli organismi da laboratorio e non per quelli selvatici in libera natura",
+      "Perché sul campo le due specie non entrano praticamente mai in competizione reale",
+      "Perché in condizioni controllate è più agevole determinare con certezza l'esito della competizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "In laboratorio le condizioni controllate rendono più semplice determinare con certezza l'esito della competizione, cosa difficile sul campo dove intervengono molte variabili.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.23"
+  },
+  {
+    "id": "cons-c13-gause-aurelia-028",
+    "topic": "conservazione",
+    "question": "Nell'esperimento di Gause con P. aurelia e P. caudatum nella stessa provetta, quale fu l'esito?",
+    "suggestion": "Vinse la specie con tasso di crescita più alto e maggiore tolleranza alle densità elevate.",
+    "options": [
+      "P. aurelia sopravvisse e P. caudatum si estinse",
+      "P. caudatum sopravvisse e P. aurelia si estinse",
+      "Le due specie coesistettero stabilmente in equilibrio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con una quantità fissa di cibo condivisa, P. aurelia — dotata di tasso di crescita più alto e maggiore tolleranza alla densità — prevalse, mentre P. caudatum si estinse.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.23-24"
+  },
+  {
+    "id": "cons-c13-gause-bursaria-029",
+    "topic": "conservazione",
+    "question": "Perché P. caudatum e P. bursaria riuscirono a coesistere nello stesso contenitore?",
+    "suggestion": "Le due specie mangiavano i batteri in punti diversi della provetta, riducendo la sovrapposizione.",
+    "options": [
+      "Perché la quantità di cibo batterico fu resa illimitata, eliminando ogni competizione tra le due specie",
+      "Perché differivano nel comportamento alimentare, nutrendosi di batteri in punti diversi della provetta",
+      "Perché una delle due specie smise completamente di nutrirsi dei batteri disponibili"
+    ],
+    "correctIndex": 1,
+    "explanation": "P. caudatum si nutriva di batteri sospesi in soluzione e P. bursaria di batteri depositati sul fondo: la ridotta sovrapposizione nell'uso della risorsa permise la coesistenza.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-clark-tribolium-030",
+    "topic": "conservazione",
+    "question": "Cosa dimostrò l'esperimento di Clark sui coleotteri della farina Tribolium riguardo all'esito della competizione?",
+    "suggestion": "L'esito non era fisso: cambiava con le condizioni fisiche dell'ambiente.",
+    "options": [
+      "Che T. castaneum vinceva sempre, a prescindere da qualunque condizione fisica o climatica dell'ambiente",
+      "Che le due specie coesistevano in modo stabile in qualunque condizione sperimentale",
+      "Che l'esito era variabile e dipendeva da temperatura, umidità e fluttuazioni nel numero di individui"
+    ],
+    "correctIndex": 2,
+    "explanation": "In Tribolium l'esito era variabile: dipendeva da temperatura e umidità ambientali oltre che dalle fluttuazioni nel numero di uova, larve, pupe e adulti, e poteva richiedere molte generazioni per definirsi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-tilman-diatomee-031",
+    "topic": "conservazione",
+    "question": "Nell'esperimento di Tilman con le diatomee, come Synedra ulna portò Asterionella formosa all'estinzione?",
+    "suggestion": "Entrambe dipendono dalla silice per la parete cellulare: chi la abbassa di più mette in crisi l'altra.",
+    "options": [
+      "Consumando la silice fino a un livello troppo basso per la sopravvivenza di A. formosa",
+      "Rilasciando una sostanza tossica che uccideva direttamente e rapidamente le cellule di A. formosa",
+      "Crescendo fisicamente sopra le cellule di A. formosa e privandole della luce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entrambe le diatomee dipendono dalla silice: coltivate insieme, S. ulna riduceva la silice disciolta sotto il livello necessario ad A. formosa, che veniva così condotta all'estinzione (competizione per consumo).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-gause-isolate-032",
+    "topic": "conservazione",
+    "question": "Perché coltivare ciascuna specie di Paramecium da sola era un controllo necessario negli esperimenti di Gause?",
+    "suggestion": "Bisogna prima dimostrare che la specie sopravvive da sola, altrimenti la sua scomparsa in coltura mista non proverebbe nulla.",
+    "options": [
+      "Perché serviva a fornire alle specie più cibo del necessario prima di iniziare il test",
+      "Perché mostrava che ogni specie da sola sopravviveva, isolando l'effetto della competizione",
+      "Perché dimostrava che nessuna delle due specie si nutriva realmente dei batteri forniti in provetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ogni specie posta da sola sopravviveva almeno 20 giorni con cibo fisso: la successiva estinzione in coltura mista è quindi attribuibile alla competizione interspecifica e non a un difetto delle condizioni.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.23-24"
+  },
+  {
+    "id": "cons-c13-esclusione-fill-033",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il principio secondo cui due competitori completi non possono coesistere è detto principio di ___ competitiva.",
+    "answers": [["esclusione"]],
+    "suggestion": "Il nome indica ciò che accade al perdente: viene eliminato dalla comunità.",
+    "explanation": "Il principio di esclusione competitiva afferma che due competitori completi — specie con esattamente le stesse esigenze ecologiche nello stesso luogo — non possono coesistere.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-competitori-completi-034",
+    "topic": "conservazione",
+    "question": "Come sono definiti i 'competitori completi' nel principio di esclusione competitiva?",
+    "suggestion": "Sono così simili che occupano lo stesso posto e usano le risorse esattamente allo stesso modo.",
+    "options": [
+      "Due specie che vivono in luoghi diversi ma sfruttano risorse in parte sovrapposte",
+      "Due popolazioni della medesima specie che competono per la stessa risorsa limitante disponibile",
+      "Due specie distinte che vivono nello stesso luogo con le medesime esigenze ecologiche"
+    ],
+    "correctIndex": 2,
+    "explanation": "I competitori completi sono due specie distinte che occupano lo stesso luogo e presentano esattamente le stesse esigenze ecologiche: proprio per questo non possono coesistere.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-esclusione-condizioni-035",
+    "topic": "conservazione",
+    "question": "Quali due condizioni devono essere soddisfatte perché si realizzi l'esclusione competitiva?",
+    "suggestion": "Serve identità totale nelle risorse richieste e un ambiente che non cambi nel tempo.",
+    "options": [
+      "Che i competitori richiedano esattamente le stesse risorse e che l'ambiente resti costante nel tempo",
+      "Che i competitori usino risorse differenti e che l'ambiente vari di continuo nel corso del tempo considerato",
+      "Che le due specie abbiano la stessa capacità portante e che vivano in luoghi separati tra loro"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'esclusione competitiva richiede sia che le specie richiedano esattamente le stesse risorse sia che le condizioni ambientali rimangano costanti: condizioni che in natura si verificano raramente.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-tre-su-quattro-036",
+    "topic": "conservazione",
+    "question": "Su quale osservazione del modello di Lotka-Volterra si fonda il principio di esclusione competitiva?",
+    "suggestion": "Conta quanti dei quattro esiti finiscono con la scomparsa di una specie.",
+    "options": [
+      "Che tutti e quattro i possibili esiti conducono sempre alla coesistenza stabile delle due specie",
+      "Che tre dei quattro possibili esiti conducono all'estinzione di una delle due specie",
+      "Che uno solo dei quattro possibili esiti porta all'estinzione di una delle specie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel modello tre dei quattro esiti portano all'estinzione di una specie (specie 1 vince, specie 2 vince, equilibrio instabile): solo la coesistenza stabile le mantiene entrambe. Questo è alla base del principio.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-fattori-non-risorsa-037",
+    "topic": "conservazione",
+    "question": "In che senso fattori come la temperatura e il pH possono influenzare la competizione pur non essendo risorse?",
+    "suggestion": "Sono condizioni ambientali che nessuna specie 'consuma', ma che alterano chi cresce e sopravvive meglio.",
+    "options": [
+      "Vengono consumati dalle specie esattamente come avviene per il cibo o lo spazio conteso",
+      "Non producono alcun effetto reale sull'esito della competizione interspecifica",
+      "Influenzano sopravvivenza, crescita e riproduzione senza essere risorse consumabili"
+    ],
+    "correctIndex": 2,
+    "explanation": "Temperatura e pH sono fattori ambientali che condizionano sopravvivenza, crescita e riproduzione senza essere risorse consumabili: possono comunque alterare quale specie prevale nella competizione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-fattori-esito-038",
+    "topic": "conservazione",
+    "question": "Quale dei seguenti è indicato come fattore che influenza l'esito della competizione interspecifica?",
+    "suggestion": "Pensa a come le specie possono 'spartirsi' l'uso delle risorse per convivere.",
+    "options": [
+      "La ripartizione delle risorse (resource partitioning) tra le specie coinvolte",
+      "L'identità genetica completa fra le due specie che entrano in competizione diretta",
+      "L'assenza totale di variazione spaziale nella disponibilità delle risorse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tra i fattori citati che influenzano l'esito ci sono i fattori ambientali non-risorsa, la variazione spazio-temporale delle risorse, la competizione per risorse multiple limitanti e la ripartizione delle risorse tra le specie.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-trote-temperatura-039",
+    "topic": "conservazione",
+    "question": "Cosa indagava l'esperimento sulle tre specie ittiche delle Montagne Rocciose (salmerino, trota fario, chub)?",
+    "suggestion": "Il fattore studiato non era una risorsa consumabile ma una condizione fisica dell'acqua.",
+    "options": [
+      "Come la disponibilità di silice disciolta determinasse la crescita delle tre specie",
+      "Come la temperatura dell'acqua influenzasse la capacità competitiva relativa delle specie",
+      "Come l'allelopatia reciproca fra le tre specie ne regolasse la distribuzione altitudinale"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'esperimento esaminava l'effetto della temperatura dell'acqua (fattore non-risorsa) sulla capacità competitiva relativa di salmerino di fonte, trota fario e chub di torrente, distribuiti a quote diverse.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  },
+  {
+    "id": "cons-c13-trote-metodo-040",
+    "topic": "conservazione",
+    "question": "Nell'esperimento sulle tre specie ittiche, quale specie veniva considerata competitivamente superiore a una data temperatura?",
+    "suggestion": "Il criterio di 'vittoria' era legato a quanto ciascuna specie riusciva a mangiare.",
+    "options": [
+      "Quella che tollerava la temperatura più bassa in assoluto fra le tre",
+      "Quella con la massa corporea maggiore tra le tre specie a confronto",
+      "Quella che consumava il maggior numero di prede a quella temperatura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pesci di dimensioni comparabili venivano posti insieme e la specie che consumava più prede a una data temperatura era considerata competitivamente superiore, mostrando che la superiorità variava con la temperatura.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.24"
+  }
+]

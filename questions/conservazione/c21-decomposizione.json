@@ -1,0 +1,684 @@
+[
+  {
+    "id": "cons-c21-riciclo-001",
+    "topic": "conservazione",
+    "question": "In quale forma le piante assorbono l'azoto dal suolo attraverso le radici?",
+    "suggestion": "Pensa alle forme minerali dell'azoto disponibili nella soluzione del suolo, non ai composti che la pianta sintetizzerà poi.",
+    "options": [
+      "Sotto forma di azoto molecolare gassoso",
+      "Sotto forma di proteine e acidi nucleici",
+      "Sotto forma di ammonio e nitrato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le piante assorbono l'azoto in forma inorganica (minerale), cioè come ammonio e nitrato, e solo dopo lo convertono in forma organica sintetizzando proteine e acidi nucleici.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.40"
+  },
+  {
+    "id": "cons-c21-ritrasloc-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il recupero dei nutrienti dai tessuti in senescenza e il loro trasferimento verso le parti perenni della pianta, prima della caduta delle foglie, è detto ___.",
+    "answers": [
+      ["ritraslocazione", "riassorbimento", "retranslocation", "resorption"]
+    ],
+    "suggestion": "Il termine descrive uno spostamento interno dei nutrienti, non la loro perdita con la lettiera.",
+    "explanation": "Con la ritraslocazione (o riassorbimento) la pianta recupera parte dei nutrienti dai tessuti senescenti trasferendoli alle parti perenni, prima di lasciar cadere le foglie.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.40"
+  },
+  {
+    "id": "cons-c21-riciclo-002",
+    "topic": "conservazione",
+    "question": "Perché in autunno gli alberi decidui riassorbono fino al 70% dell'azoto delle foglie prima che cadano?",
+    "suggestion": "L'azoto è un nutriente limitante: conviene alla pianta trattenerlo o disperderlo con le foglie?",
+    "options": [
+      "Per aumentare il contenuto di azoto della lettiera che cadrà al suolo",
+      "Per recuperare un nutriente limitante conservandolo nelle parti perenni",
+      "Per accelerare la caduta delle foglie riducendone il peso complessivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'azoto è un nutriente prezioso e spesso limitante: riassorbendolo prima della caduta delle foglie, la pianta lo conserva nelle parti perenni invece di disperderlo con la lettiera.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.40"
+  },
+  {
+    "id": "cons-c21-riciclo-003",
+    "topic": "conservazione",
+    "question": "Quale processo restituisce i nutrienti minerali al suolo completando il ciclo dei nutrienti in un ecosistema terrestre?",
+    "suggestion": "Cerca la fase finale del ciclo, quella che riporta gli elementi dalla forma organica a quella minerale.",
+    "options": [
+      "L'assorbimento radicale (plant uptake) dei nutrienti minerali",
+      "La ritraslocazione dei nutrienti verso le parti perenni della pianta",
+      "La decomposizione e la mineralizzazione della materia organica morta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sono la decomposizione e la mineralizzazione a riconvertire i composti organici in nutrienti minerali, restituendoli al suolo e chiudendo il ciclo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.40"
+  },
+  {
+    "id": "cons-c21-riciclo-004",
+    "topic": "conservazione",
+    "question": "Perché la disponibilità di azoto nel suolo influenza direttamente la produttività primaria netta?",
+    "suggestion": "Collega la quantità di azoto assorbibile alla capacità della pianta di costruire proteine e quindi di fotosintetizzare.",
+    "options": [
+      "Perché l'azoto viene respirato dalle piante per ricavare energia",
+      "Perché limita il tasso di assorbimento e la sintesi dei composti azotati",
+      "Perché l'azoto in eccesso viene ritraslocato di nuovo verso il suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La quantità di azoto disponibile limita il tasso di assorbimento e quindi la sintesi di proteine e acidi nucleici, influenzando direttamente fotosintesi e produttività primaria netta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.40"
+  },
+  {
+    "id": "cons-c21-decomp-001",
+    "topic": "conservazione",
+    "question": "In cosa consiste essenzialmente la decomposizione dal punto di vista chimico?",
+    "suggestion": "Pensa al destino dei legami chimici formati quando i tessuti organici erano stati costruiti.",
+    "options": [
+      "Nella rottura dei legami chimici formati costruendo le molecole organiche",
+      "Nella formazione di nuovi legami che stabilizzano la materia nel suolo",
+      "Nell'assorbimento dei composti organici da parte delle radici vive"
+    ],
+    "correctIndex": 0,
+    "explanation": "La decomposizione consiste nella rottura dei legami chimici formatisi durante la costruzione delle molecole organiche, liberando energia, CO2 e acqua e producendo nutrienti minerali.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.40-41"
+  },
+  {
+    "id": "cons-c21-decomp-002",
+    "topic": "conservazione",
+    "question": "Quale dei seguenti è uno dei processi fisici che concorrono alla decomposizione della materia organica?",
+    "suggestion": "Cerca un processo che rimuove o disgrega fisicamente parte della lettiera, non uno che la costruisce.",
+    "options": [
+      "La ritraslocazione dell'azoto verso i rami perenni della pianta",
+      "La fissazione dell'azoto atmosferico da parte dei batteri simbionti",
+      "Il dilavamento (leaching) dei composti solubili dalla lettiera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La decomposizione comprende dilavamento, frammentazione, cambiamenti fisico-chimici, ingestione ed escrezione: il leaching dei composti solubili è uno di questi processi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.40-41"
+  },
+  {
+    "id": "cons-c21-decomp-003",
+    "topic": "conservazione",
+    "question": "Perché si afferma che tutti gli organismi eterotrofi agiscono in una certa misura come decompositori?",
+    "suggestion": "Rifletti su cosa accade alla materia organica durante la normale digestione di qualsiasi eterotrofo.",
+    "options": [
+      "Perché digerendo il cibo degradano materia organica e ne escretano una parte",
+      "Perché si nutrono tutti esclusivamente di materia organica morta o detrito",
+      "Perché secernono enzimi digestivi direttamente nel suolo che li circonda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Digerendo il cibo, ogni eterotrofo degrada e altera materia organica rilasciandone parte come rifiuto metabolico: in questo senso partecipa alla decomposizione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-001",
+    "topic": "conservazione",
+    "question": "Cosa hanno in comune, dal punto di vista alimentare, decompositori e detritivori?",
+    "suggestion": "Guarda la fonte di cibo che li accomuna, indicata dalla radice stessa della parola detritivoro.",
+    "options": [
+      "Sono entrambi organismi autotrofi che fissano il carbonio",
+      "Si nutrono entrambi di materia organica morta, il detrito",
+      "Colonizzano entrambi solo la lettiera fogliare ancora fresca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Decompositori e detritivori sono organismi che si nutrono di materia organica morta (detrito); non sono autotrofi né limitati alla lettiera fresca.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-002",
+    "topic": "conservazione",
+    "question": "Quali organismi rappresentano i decompositori dominanti del materiale vegetale morto?",
+    "suggestion": "Uno dei due grandi gruppi microbici è specializzato sui tessuti vegetali; l'altro sulla materia animale.",
+    "options": [
+      "I batteri aerobici",
+      "I nematodi del suolo",
+      "I funghi saprotrofi"
+    ],
+    "correctIndex": 2,
+    "explanation": "I funghi sono i decompositori dominanti del materiale vegetale, mentre i batteri prevalgono nella decomposizione della materia animale morta.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-003",
+    "topic": "conservazione",
+    "question": "Quali organismi sono i decompositori dominanti della materia animale morta?",
+    "suggestion": "È il gruppo microbico che può essere sia aerobico sia anaerobico.",
+    "options": [
+      "I batteri, aerobici o anaerobici",
+      "I funghi filamentosi del terreno",
+      "I collemboli detritivori del suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I batteri, aerobici o anaerobici, sono i decompositori dominanti della materia animale morta; i funghi dominano invece sul materiale vegetale.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-004",
+    "topic": "conservazione",
+    "question": "In che modo i decompositori microbici degradano i composti organici dei tessuti?",
+    "suggestion": "Diversamente dai detritivori, non frammentano il detrito: agiscono chimicamente prima di assorbire.",
+    "options": [
+      "Ingeriscono frammenti di tessuto e li digeriscono in un apparato interno",
+      "Frammentano meccanicamente il detrito senza ricorrere ad alcun enzima",
+      "Secernono enzimi nei tessuti e poi assorbono i prodotti della degradazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "I decompositori microbici secernono enzimi all'interno dei tessuti per degradare i composti organici e ne assorbono poi i prodotti; la frammentazione meccanica è invece opera dei detritivori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-005",
+    "topic": "conservazione",
+    "question": "In base a quale criterio i detritivori invertebrati vengono suddivisi in quattro gruppi principali?",
+    "suggestion": "È un criterio puramente dimensionale, che va dalla microfauna alla megafauna.",
+    "options": [
+      "In base alla larghezza corporea",
+      "In base al tipo di enzimi digestivi",
+      "In base alla profondità nel suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "I detritivori invertebrati sono classificati in microfauna, mesofauna, macrofauna e megafauna sulla base della larghezza corporea.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-006",
+    "topic": "conservazione",
+    "question": "A quale gruppo dimensionale appartengono acari, enchitreidi e collemboli che vivono negli spazi aeriferi del suolo?",
+    "suggestion": "È la classe intermedia, compresa tra 100 µm e 2 mm di larghezza corporea.",
+    "options": [
+      "Alla microfauna (inferiore a 100 µm)",
+      "Alla mesofauna (100 µm – 2 mm)",
+      "Alla macrofauna (2 – 20 mm)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli organismi tra 100 µm e 2 mm, come acari, enchitreidi e collemboli, costituiscono la mesofauna, che vive negli spazi aeriferi del suolo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-007",
+    "topic": "conservazione",
+    "question": "Quali organismi costituiscono la microfauna e la microflora del suolo (inferiori a 100 µm)?",
+    "suggestion": "Sono i più piccoli e vivono nell'acqua contenuta nei pori del suolo, non negli spazi aeriferi.",
+    "options": [
+      "Acari e collemboli che vivono negli spazi aeriferi del suolo",
+      "Millepiedi e lombrichi che scavano negli strati profondi",
+      "Protisti e nematodi che vivono nell'acqua dei pori del suolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La microfauna e microflora (< 100 µm) comprende protisti e nematodi che vivono nell'acqua contenuta nei pori del suolo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-organismi-008",
+    "topic": "conservazione",
+    "question": "Di cosa si nutrono principalmente i microbivori del suolo?",
+    "suggestion": "Il nome indica la loro preda: microrganismi, non detrito vegetale né radici.",
+    "options": [
+      "Di batteri e di funghi del suolo",
+      "Solo di detrito vegetale fresco",
+      "Di radici vive e essudati radicali"
+    ],
+    "correctIndex": 0,
+    "explanation": "I microbivori si nutrono di batteri e funghi; le forme più grandi possono integrare la dieta anche con del detrito.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-studio-001",
+    "topic": "conservazione",
+    "question": "A cosa servono i litterbag negli esperimenti sulla decomposizione della lettiera vegetale?",
+    "suggestion": "Si tratta di sacchetti che vengono raccolti e pesati a intervalli di tempo successivi.",
+    "options": [
+      "A impedire completamente l'accesso dei decompositori alla lettiera",
+      "A seguire la perdita di massa della lettiera vegetale nel tempo",
+      "A misurare la fotosintesi delle foglie ancora attaccate all'albero"
+    ],
+    "correctIndex": 1,
+    "explanation": "I litterbag permettono di raccogliere e pesare la lettiera a intervalli successivi, ricostruendo la curva di perdita di massa nel tempo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-studio-002",
+    "topic": "conservazione",
+    "question": "Perché i litterbag presentano fori di 1-2 mm invece di essere completamente chiusi?",
+    "suggestion": "I fori devono bilanciare due esigenze opposte: far entrare qualcosa e trattenere qualcos'altro.",
+    "options": [
+      "Per consentire l'accesso ai decompositori senza far uscire il materiale",
+      "Per far entrare la luce necessaria alla fotosintesi della lettiera",
+      "Per permettere la fuoriuscita dell'anidride carbonica prodotta"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fori di 1-2 mm sono abbastanza grandi da lasciar entrare i decompositori ma abbastanza piccoli da trattenere il materiale vegetale nel sacchetto.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-studio-003",
+    "topic": "conservazione",
+    "question": "Perché la massa della lettiera contenuta nei litterbag diminuisce con il passare del tempo?",
+    "suggestion": "Segui il destino del carbonio della lettiera: verso dove viene rilasciato durante la respirazione?",
+    "options": [
+      "Perché l'azoto viene dilavato via completamente dalle piogge",
+      "Perché il carbonio è perso come CO2 con la respirazione",
+      "Perché i funghi trasportano massa all'esterno del sacchetto"
+    ],
+    "correctIndex": 1,
+    "explanation": "La massa cala perché il carbonio viene perso verso l'atmosfera sotto forma di anidride carbonica attraverso la respirazione dei decompositori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-studio-004",
+    "topic": "conservazione",
+    "question": "Cosa comprende la massa residua misurata in un litterbag, oltre al materiale vegetale originario?",
+    "suggestion": "Sulla lettiera in decomposizione cresce una nuova biomassa vivente: chi la produce?",
+    "options": [
+      "L'acqua trattenuta nei pori del sacchetto sintetico",
+      "Solo i sali minerali precipitati dalla soluzione del suolo",
+      "La biomassa di batteri e funghi cresciuti sulla lettiera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La massa residua include la biomassa primaria (materiale vegetale originario) e la biomassa secondaria di batteri e funghi cresciuti sulla lettiera in decomposizione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-studio-005",
+    "topic": "conservazione",
+    "question": "Nello studio di Swift sulla segatura, perché il tasso di decomposizione reale (0,09/settimana) superava quello apparente (0,04/settimana)?",
+    "suggestion": "La crescita di nuova biomassa sul substrato può 'mascherare' quanta massa originaria è stata davvero persa.",
+    "options": [
+      "Perché la biomassa fungina cresciuta maschera parte della massa reale persa",
+      "Perché la segatura assorbe acqua e aumenta nel tempo il peso residuo misurato",
+      "Perché la chitina fungina si decompone più lentamente della segatura"
+    ],
+    "correctIndex": 0,
+    "explanation": "La segatura perse il 39% del peso, ma il 58% della massa residua era biomassa fungina: questa crescita nasconde parte della perdita reale, per cui il tasso reale (al netto dei funghi) risulta più alto di quello apparente.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.41"
+  },
+  {
+    "id": "cons-c21-studio-006",
+    "topic": "conservazione",
+    "question": "Perché negli studi sui leaf packs fluviali si fa variare la dimensione delle maglie della rete?",
+    "suggestion": "Una maglia fine esclude gli organismi grandi; confrontarla con una grossolana isola un contributo specifico.",
+    "options": [
+      "Per aumentare la velocità di dilavamento dei nutrienti solubili",
+      "Per stimare l'importanza relativa di microrganismi e macroinvertebrati",
+      "Per impedire completamente la colonizzazione da parte dei funghi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Variando la maglia si separa il contributo dei soli microrganismi (maglia fine) da quello di microrganismi più macroinvertebrati (maglia grossolana), stimandone l'importanza relativa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-kappa-001",
+    "topic": "conservazione",
+    "question": "Cosa indica un valore più elevato del coefficiente di decomposizione k nella funzione massa residua = e^(−kt)?",
+    "suggestion": "k è la pendenza della curva esponenziale negativa: più è ripida, più rapidamente cala la massa.",
+    "options": [
+      "Una maggiore quantità iniziale di massa nella lettiera",
+      "Una maggiore resistenza della lettiera alla decomposizione",
+      "Un tasso di decomposizione più rapido della lettiera"
+    ],
+    "correctIndex": 2,
+    "explanation": "k è la pendenza della curva esponenziale negativa: un k più alto corrisponde a una decomposizione più rapida.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-kappa-002",
+    "topic": "conservazione",
+    "question": "Confrontando acero rosso (k=0,0167) e pino della Virginia (k=0,0097), quale materiale si decompone più rapidamente?",
+    "suggestion": "Ricorda cosa significa un valore di k più grande in una curva di perdita di massa.",
+    "options": [
+      "L'acero rosso, perché presenta un coefficiente k più elevato",
+      "Il pino della Virginia, perché presenta un coefficiente k più basso",
+      "Entrambi alla stessa velocità, poiché k misura la massa iniziale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un k maggiore indica decomposizione più rapida: l'acero rosso (0,0167) si decompone più velocemente del pino della Virginia (0,0097).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-kappa-003",
+    "topic": "conservazione",
+    "question": "Nella funzione massa residua = e^(−kt), cosa rappresenta il parametro k?",
+    "suggestion": "Non è né il tempo né la massa iniziale: è ciò che descrive la ripidità del calo.",
+    "options": [
+      "Il tempo trascorso dall'inizio dell'esperimento",
+      "Il coefficiente di decomposizione della lettiera",
+      "La massa iniziale della lettiera nel sacchetto"
+    ],
+    "correctIndex": 1,
+    "explanation": "k è il coefficiente di decomposizione, cioè la pendenza della curva esponenziale negativa, stimato per regressione; t è il tempo e non la massa iniziale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-fattori-001",
+    "topic": "conservazione",
+    "question": "Perché il glucosio e gli zuccheri semplici sono fonti di carbonio di alta qualità per i microrganismi?",
+    "suggestion": "Confronta la loro dimensione molecolare e i loro legami con quelli della lignina.",
+    "options": [
+      "Costituiscono la parete cellulare e resistono all'azione enzimatica",
+      "Sono molecole grandi con una complessa struttura tridimensionale",
+      "Sono molecole piccole con legami ad alta energia, facili da decomporre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zuccheri semplici e glucosio sono molecole piccole con legami ad alta energia, facilmente decomponibili: forniscono un buon guadagno energetico ai microrganismi.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-fattori-002",
+    "topic": "conservazione",
+    "question": "Perché la lignina è considerata una fonte energetica di bassa qualità per i decompositori?",
+    "suggestion": "Pensa a quanto è difficile per un enzima attaccare una molecola grande e tridimensionalmente complessa.",
+    "options": [
+      "È una molecola piccola e solubile, consumata troppo rapidamente dai microbi",
+      "È tossica per i batteri ma non per i funghi, che la evitano",
+      "È una molecola grande e complessa, difficile da attaccare enzimaticamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lignina è una molecola grande con complessa struttura tridimensionale che gli enzimi non attaccano facilmente, con guadagno energetico netto quasi nullo: è tra i tessuti a decomposizione più lenta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-fattori-003",
+    "topic": "conservazione",
+    "question": "In quale ordine vengono generalmente consumati i composti carboniosi della lettiera durante la decomposizione?",
+    "suggestion": "Si parte dalle fonti di qualità più alta e facilmente digeribili, lasciando per ultima quella più recalcitrante.",
+    "options": [
+      "Prima la lignina, poi la cellulosa e l'emicellulosa, infine i composti solubili",
+      "Prima i composti solubili, poi cellulosa ed emicellulosa, infine la lignina",
+      "Tutti i composti contemporaneamente, alla medesima velocità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vengono consumati prima i composti solubili, poi cellulosa ed emicellulosa; la lignina, la fonte di qualità più bassa, resta in gran parte intatta anche dopo 80 giorni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-fattori-004",
+    "topic": "conservazione",
+    "question": "Perché la proporzione di carbonio contenuta in composti a base di lignina viene usata come indice della qualità della lettiera?",
+    "suggestion": "Se la lignina è la componente più difficile da decomporre, cosa dice la sua abbondanza sulla velocità del processo?",
+    "options": [
+      "Perché la lignina è la principale fonte di azoto per i decompositori",
+      "Perché la lignina viene decomposta per prima, segno di lettiera fresca",
+      "Perché la lignina è di bassa qualità e ne rallenta la decomposizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Essendo una fonte energetica di bassa qualità e a decomposizione lentissima, il contenuto di lignina è un buon indice inverso della qualità della lettiera.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-fattori-005",
+    "topic": "conservazione",
+    "question": "Perché le foglie di platano (36,4% di lignina) si decompongono più lentamente di quelle di acero rosso (11,7%)?",
+    "suggestion": "Metti in relazione il contenuto di lignina con la qualità della lettiera come fonte di cibo.",
+    "options": [
+      "Perché l'elevato contenuto di lignina abbassa la qualità della lettiera",
+      "Perché l'elevato contenuto di lignina aumenta l'azoto disponibile",
+      "Perché il platano possiede un rapporto C/N più basso dell'acero"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un contenuto di lignina più alto rende la lettiera una fonte energetica più povera e difficile da decomporre: per questo il platano si decompone più lentamente dell'acero rosso.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.42"
+  },
+  {
+    "id": "cons-c21-fattori-006",
+    "topic": "conservazione",
+    "question": "Quali organismi sono in grado di decomporre la lignina nei tessuti vegetali?",
+    "suggestion": "Non è un compito che tutti i microrganismi possono svolgere: uno dei due grandi gruppi ne è escluso.",
+    "options": [
+      "I batteri anaerobici dei sedimenti privi di ossigeno",
+      "I protisti e i nematodi della microfauna del suolo",
+      "I funghi, mentre i batteri non ne sono capaci"
+    ],
+    "correctIndex": 2,
+    "explanation": "La decomposizione della lignina spetta esclusivamente ai funghi; i batteri non sono in grado di degradarla.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.42-43"
+  },
+  {
+    "id": "cons-c21-fattori-007",
+    "topic": "conservazione",
+    "question": "Perché nei fanghi e nei sedimenti poveri di ossigeno la lignina tende ad accumularsi?",
+    "suggestion": "Chi svolge la decomposizione in condizioni anossiche, e questo gruppo sa attaccare la lignina?",
+    "options": [
+      "Perché la decomposizione è affidata a batteri anaerobici, incapaci con la lignina",
+      "Perché in assenza di ossigeno i funghi degradano attivamente solo la lignina residua",
+      "Perché la lignina in condizioni anossiche diventa altamente solubile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei sedimenti a basso ossigeno decompongono soprattutto batteri anaerobici, che non degradano la lignina; solo nelle acque più ossigenate i funghi possono farlo, per cui altrove la lignina si accumula.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-fattori-008",
+    "topic": "conservazione",
+    "question": "Quali condizioni ambientali inibiscono maggiormente l'attività dei microrganismi decompositori?",
+    "suggestion": "Pensa a cosa rallenta la vita microbica: manca calore o manca acqua?",
+    "options": [
+      "Temperature elevate e alta umidità del suolo",
+      "Basse temperature e condizioni di aridità",
+      "Elevata concentrazione di ossigeno e pH neutro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Temperatura e umidità influenzano fortemente l'attività microbica: basse temperature e aridità inibiscono i microrganismi rallentando la decomposizione.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-fattori-009",
+    "topic": "conservazione",
+    "question": "Perché le foglie di acero rosso si decompongono più lentamente nel New Hampshire che in Virginia?",
+    "suggestion": "Le due località differiscono per latitudine e quindi per clima: cosa fa il freddo ai decompositori?",
+    "options": [
+      "Perché il clima più freddo delle alte latitudini rallenta l'attività microbica",
+      "Perché la lettiera del New Hampshire contiene più azoto disponibile per i microrganismi",
+      "Perché in Virginia le foglie contengono molta più lignina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il New Hampshire, a latitudine più elevata e più freddo, presenta il tasso di decomposizione più basso: le basse temperature inibiscono i decompositori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-fattori-010",
+    "topic": "conservazione",
+    "question": "Perché il rilascio di anidride carbonica dai decompositori mostra un andamento giornaliero (diurno)?",
+    "suggestion": "Segui la temperatura nel corso della giornata e la sua influenza sull'attività microbica.",
+    "options": [
+      "Perché di notte i decompositori interrompono la respirazione cellulare",
+      "Perché l'attività microbica aumenta nelle ore più calde della giornata",
+      "Perché il dilavamento della lettiera si verifica soltanto di notte"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'attività microbica dipende dalla temperatura: cresce nelle ore più calde, con un maggiore rilascio di CO2, generando il pattern diurno.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-fattori-011",
+    "topic": "conservazione",
+    "question": "Perché il fitoplancton si decompone più rapidamente delle piante vascolari di palude negli ambienti marini costieri?",
+    "suggestion": "Confronta il contenuto di lignina dei due tipi di produttori primari.",
+    "options": [
+      "Perché contiene concentrazioni di lignina molto più elevate",
+      "Perché vive in acque anossiche che accelerano la decomposizione",
+      "Perché presenta basse concentrazioni di lignina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fitoplancton ha basse concentrazioni di lignina e si decompone rapidamente, mentre le piante vascolari possono averne quantità paragonabili a quelle terrestri, decomponendosi più lentamente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.42-43"
+  },
+  {
+    "id": "cons-c21-mineral-001",
+    "topic": "conservazione",
+    "question": "Perché una lettiera fogliare con contenuto di azoto più elevato ha maggiore valore nutritivo per batteri e funghi?",
+    "suggestion": "L'azoto serve ai decompositori per un uso strutturale, non come combustibile energetico.",
+    "options": [
+      "Perché l'azoto fornisce l'energia che essi ossidano nella respirazione",
+      "Perché l'azoto è un macronutriente necessario alla loro crescita",
+      "Perché l'azoto abbassa il rapporto lignina/cellulosa della lettiera"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'azoto è un macronutriente indispensabile alla crescita e riproduzione di batteri e funghi: più ne contiene la lettiera, maggiore è il suo valore nutritivo per i decompositori.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il processo con cui i decompositori microbici convertono l'azoto e altri elementi da composti organici a forme inorganiche è detto ___.",
+    "answers": [
+      ["mineralizzazione", "mineralization"]
+    ],
+    "suggestion": "Il termine deriva dal fatto che gli elementi vengono resi disponibili in forma minerale.",
+    "explanation": "La mineralizzazione è la conversione degli elementi da forma organica a forma inorganica (minerale) operata dai decompositori microbici.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-fill-002",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'assorbimento e l'assimilazione dei nutrienti minerali da parte dei decompositori microbici, che li sottrae al suolo, è detto ___.",
+    "answers": [
+      ["immobilizzazione", "immobilization"]
+    ],
+    "suggestion": "È il processo opposto alla mineralizzazione: invece di liberare i minerali, li trattiene nella biomassa microbica.",
+    "explanation": "L'immobilizzazione è l'assorbimento e assimilazione dei nutrienti minerali da parte dei decompositori microbici, che avviene simultaneamente alla mineralizzazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-002",
+    "topic": "conservazione",
+    "question": "Come si definisce il tasso netto di mineralizzazione, ossia il tasso a cui i minerali diventano disponibili al suolo?",
+    "suggestion": "Due processi opposti avvengono insieme: il risultato netto dipende da quale prevale.",
+    "options": [
+      "La differenza tra tasso di mineralizzazione e tasso di immobilizzazione",
+      "La somma tra tasso di mineralizzazione e tasso di immobilizzazione",
+      "Il rapporto tra tasso di immobilizzazione e contenuto di lignina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mineralizzazione e immobilizzazione avvengono simultaneamente; il tasso netto di mineralizzazione è la differenza tra i due, cioè quanto azoto minerale viene effettivamente reso disponibile al suolo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-003",
+    "topic": "conservazione",
+    "question": "Perché il rapporto C/N di batteri e funghi (10:1–15:1) è molto più basso di quello della lettiera vegetale (50:1–100:1)?",
+    "suggestion": "Un rapporto C/N basso, a parità di carbonio, indica una maggiore proporzione di quale elemento?",
+    "options": [
+      "Perché la lettiera contiene molto più azoto per unità di carbonio",
+      "Perché i decompositori sono molto più ricchi di azoto della lettiera",
+      "Perché la lettiera vegetale è quasi del tutto priva di carbonio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un rapporto C/N più basso significa più azoto rispetto al carbonio: batteri e funghi sono molto più ricchi di azoto del materiale vegetale di cui si nutrono.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-004",
+    "topic": "conservazione",
+    "question": "Perché il contenuto di azoto della lettiera può aumentare oltre il 100% del valore originario nelle prime fasi di decomposizione?",
+    "suggestion": "Se i decompositori hanno bisogno di più azoto di quanto la lettiera contenga, da dove lo prelevano?",
+    "options": [
+      "Perché la mineralizzazione rilascia altro azoto dentro la lettiera stessa",
+      "Perché il carbonio viene fissato nella lettiera aumentandone la massa",
+      "Perché i decompositori immobilizzano azoto prelevandolo dal suolo circostante"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quando l'immobilizzazione supera la mineralizzazione, i decompositori importano azoto dal suolo circostante nella lettiera, il cui contenuto di azoto può così superare il 100% iniziale.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-005",
+    "topic": "conservazione",
+    "question": "Perché nelle fasi avanzate della decomposizione si verifica un rilascio netto di azoto verso il suolo?",
+    "suggestion": "Con il tempo la qualità del carbonio residuo cala e cresce la lignina: come cambia il bilancio tra i due processi?",
+    "options": [
+      "Perché la qualità del carbonio cala e la mineralizzazione supera l'immobilizzazione",
+      "Perché l'immobilizzazione cresce man mano che aumenta la lignina residua nella lettiera",
+      "Perché i decompositori cessano di respirare i composti carboniosi residui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con il progredire della decomposizione la qualità del carbonio residuo diminuisce (più lignina) e la mineralizzazione arriva a superare l'immobilizzazione, dando un rilascio netto di azoto al suolo.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-mineral-006",
+    "topic": "conservazione",
+    "question": "Cosa accade alla dinamica dell'azoto se la lettiera fogliare presenta una concentrazione iniziale di azoto già elevata?",
+    "suggestion": "Con molto azoto di partenza, i decompositori devono ancora importarne dall'esterno?",
+    "options": [
+      "La mineralizzazione supera subito l'immobilizzazione e l'azoto non oltrepassa il valore iniziale",
+      "L'immobilizzazione domina l'intero processo e l'azoto supera ampiamente il valore iniziale della lettiera",
+      "La decomposizione si arresta del tutto per un eccesso di azoto disponibile nel suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se l'azoto iniziale è elevato, la mineralizzazione può prevalere fin dall'inizio: non serve importare azoto e la concentrazione non supera mai il 100% del valore originario.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-humus-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La materia organica scura e omogenea in cui la lettiera si trasforma con il progredire della decomposizione e della mineralizzazione è detta ___.",
+    "answers": [
+      ["humus"]
+    ],
+    "suggestion": "È la componente organica scura che, incorporata nella matrice del suolo, costituisce la sostanza organica del suolo.",
+    "explanation": "Con la decomposizione la lettiera si degrada in humus, una materia organica scura e omogenea che, incorporata nel suolo, forma la sostanza organica del suolo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  },
+  {
+    "id": "cons-c21-humus-001",
+    "topic": "conservazione",
+    "question": "Cos'è la sostanza organica del suolo (soil organic matter)?",
+    "suggestion": "Non è la lettiera fresca né i minerali disciolti: è la forma stabile e scura incorporata nel suolo.",
+    "options": [
+      "Lettiera fresca appena caduta sulla superficie",
+      "Humus incorporato nella matrice del suolo",
+      "L'insieme dei nutrienti minerali disciolti nell'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "La sostanza organica del suolo è costituita da humus incorporato nella matrice del suolo, prodotto finale della decomposizione della lettiera.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.43"
+  }
+]

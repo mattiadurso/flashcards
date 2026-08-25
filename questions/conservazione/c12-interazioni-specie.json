@@ -1,0 +1,752 @@
+[
+  {
+    "id": "cons-c12-effetti-reciproci-001",
+    "topic": "conservazione",
+    "question": "Su quale criterio si basa la classificazione delle interazioni interspecifiche in categorie come mutualismo, competizione o predazione?",
+    "suggestion": "Pensa al segno dell'effetto (+, − o 0) che ciascuna specie esercita sull'altra.",
+    "options": [
+      "Sulla combinazione degli effetti reciproci, positivi, dannosi o neutri, tra le due specie",
+      "Sulla distanza filogenetica e sul grado di parentela evolutiva tra le due specie coinvolte",
+      "Sulla dimensione corporea e sulla longevità relativa delle due specie che interagiscono"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le interazioni si classificano combinando l'effetto (+, − o 0) che ciascuna specie esercita sull'altra, non in base a parentela o taglia.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-mutualismo-002",
+    "topic": "conservazione",
+    "question": "Come si rappresenta la relazione di mutualismo secondo la notazione degli effetti reciproci?",
+    "suggestion": "Nel mutualismo entrambe le specie ottengono un vantaggio dall'interazione.",
+    "options": [
+      "Come (+, 0), perché una specie trae beneficio e l'altra rimane del tutto indifferente",
+      "Come (−, −), perché entrambe le specie subiscono un danno reciproco dalla loro interazione diretta",
+      "Come (+, +), perché entrambe le specie traggono un beneficio reciproco dall'interazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel mutualismo entrambe le specie traggono beneficio dall'interazione, quindi la relazione è (+, +); (+, 0) è il commensalismo e (−, −) la competizione.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-commensalismo-003",
+    "topic": "conservazione",
+    "question": "Perché un'orchidea epifita che cresce sul ramo di un albero è un esempio di commensalismo?",
+    "suggestion": "Considera chi ottiene un vantaggio e se l'altro organismo subisce un effetto apprezzabile.",
+    "options": [
+      "Perché l'orchidea danneggia l'albero sottraendogli acqua e nutrienti direttamente dai suoi tessuti",
+      "Perché l'orchidea e l'albero traggono entrambi un beneficio reciproco dal loro contatto",
+      "Perché l'orchidea trae sostegno fisico mentre l'albero non ne risulta affatto influenzato"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel commensalismo (+, 0) una specie trae beneficio senza incidere sull'altra: l'orchidea sfrutta il ramo come supporto senza danneggiare l'albero.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-competizione-004",
+    "topic": "conservazione",
+    "question": "Perché la competizione tra due specie viene rappresentata come una relazione (−, −)?",
+    "suggestion": "Rifletti su cosa accade alle due popolazioni quando dividono la stessa risorsa limitata.",
+    "options": [
+      "Perché entrambe le specie sono danneggiate dal contendersi una o più risorse comuni",
+      "Perché una specie viene danneggiata mentre l'altra non subisce alcun effetto apprezzabile",
+      "Perché entrambe le specie traggono vantaggio dallo sfruttare insieme la stessa risorsa comune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella competizione entrambe le popolazioni subiscono un danno perché si contendono risorse comuni, da cui la notazione (−, −).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-amensalismo-005",
+    "topic": "conservazione",
+    "question": "Perché alcuni ecologi considerano l'amensalismo una forma di competizione asimmetrica?",
+    "suggestion": "Nell'amensalismo una specie è danneggiata mentre l'altra non ne risente affatto.",
+    "options": [
+      "Perché entrambe le specie subiscono un danno reciproco dal contendersi la medesima risorsa comune limitata",
+      "Perché una specie danneggia l'altra senza subirne alcun effetto, come una pianta alta che ombreggia una più bassa",
+      "Perché entrambe le specie traggono un beneficio reciproco dalla vicinanza nello spazio che si trovano a condividere"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'amensalismo è (−, 0): una specie subisce un danno mentre l'altra è indifferente, come nella pianta alta che ombreggia quella più bassa senza risentirne.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-neutralismo-006",
+    "topic": "conservazione",
+    "question": "Cosa caratterizza una relazione neutra tra due specie?",
+    "suggestion": "Considera il caso in cui nessuna delle due specie modifica il destino dell'altra.",
+    "options": [
+      "Una specie trae un netto beneficio mentre l'altra subisce un danno chiaramente apprezzabile",
+      "Entrambe le specie subiscono un lieve danno reciproco dalla loro reciproca presenza",
+      "Nessuna delle due specie esercita un effetto apprezzabile sull'altra specie coinvolta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella relazione neutra (0, 0) nessuna delle due specie influenza l'altra in modo apprezzabile.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-notazione-commensalismo-007",
+    "topic": "conservazione",
+    "question": "Quale coppia di effetti reciproci corrisponde al commensalismo?",
+    "suggestion": "Una sola delle due specie ricava un vantaggio, l'altra non è toccata.",
+    "options": [
+      "(+, −), perché una specie ne trae beneficio e l'altra viene invece danneggiata",
+      "(+, 0), perché una specie ne trae beneficio e l'altra non è affatto influenzata",
+      "(0, 0), perché nessuna delle due specie coinvolte viene in alcun modo influenzata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il commensalismo è (+, 0): una specie trae beneficio mentre l'altra non ne risente. (+, −) è predazione/parassitismo, (0, 0) è neutralismo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-predazione-008",
+    "topic": "conservazione",
+    "question": "Cosa distingue la predazione dal parassitismo nel modo in cui una specie sfrutta l'altra?",
+    "suggestion": "Rifletti sul destino finale dell'organismo sfruttato in ciascuna delle due interazioni.",
+    "options": [
+      "Il predatore uccide la preda di cui si nutre, mentre il parassita ne riduce la fitness senza ucciderla",
+      "Il predatore riduce la fitness della preda senza ucciderla, mentre il parassita la uccide immediatamente",
+      "Entrambi uccidono l'organismo sfruttato, ma soltanto il parassita agisce nutrendosi dall'interno del corpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La predazione comporta l'uccisione della preda; il parassitismo riduce la fitness dell'ospite senza ucciderlo. Entrambe sono relazioni (+, −).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-parassitismo-009",
+    "topic": "conservazione",
+    "question": "In che modo il parassitismo incide sull'organismo ospite?",
+    "suggestion": "Il parassita ha convenienza a non provocare la morte immediata dell'ospite.",
+    "options": [
+      "Ne provoca la morte immediata per potersi nutrire indisturbato dei suoi tessuti",
+      "Ne riduce la fitness, cioè il successo riproduttivo relativo, senza però ucciderlo",
+      "Ne aumenta la fitness fornendogli in cambio una discreta protezione contro i suoi predatori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il parassita si nutre dell'ospite riducendone la fitness (il successo riproduttivo relativo) ma senza ucciderlo, a differenza del predatore.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-parassitoidismo-010",
+    "topic": "conservazione",
+    "question": "Cosa distingue il parassitoidismo dal parassitismo classico?",
+    "suggestion": "Considera se l'ospite sopravvive all'interazione in ciascuno dei due casi.",
+    "options": [
+      "Nel parassitoidismo l'ospite non viene mai ucciso, ma soltanto sfruttato come sostegno fisico per la riproduzione",
+      "Nel parassitoidismo le larve si nutrono dell'ospite fino a ucciderlo, mentre il parassita non uccide l'ospite",
+      "Nel parassitoidismo l'interazione risulta nettamente vantaggiosa per entrambe le specie che vi prendono parte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel parassitoidismo la specie sfrutta l'altra per riprodursi: le larve del parassitoide si nutrono dell'ospite fino a ucciderlo, mentre il parassita classico non uccide l'ospite.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-relazioni-piu-meno-011",
+    "topic": "conservazione",
+    "question": "Quale gruppo di interazioni condivide la notazione (+, −), in cui una specie beneficia e l'altra è danneggiata?",
+    "suggestion": "Cerca le relazioni in cui un organismo si nutre di un altro o ne sfrutta il corpo.",
+    "options": [
+      "Mutualismo, commensalismo e neutralismo reciproco",
+      "Competizione, amensalismo e neutralismo",
+      "Predazione, parassitismo e parassitoidismo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Predazione, parassitismo e parassitoidismo sono tutte relazioni (+, −): una specie ne trae vantaggio mentre l'altra viene danneggiata.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-fill-mutualismo-012",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'interazione (+, +) in cui entrambe le specie traggono beneficio reciproco, come nell'impollinazione, è detta ___.",
+    "answers": [
+      [
+        "mutualismo"
+      ]
+    ],
+    "suggestion": "È l'interazione vantaggiosa per entrambe, tipica del rapporto tra fiori e impollinatori.",
+    "explanation": "Il mutualismo è la relazione (+, +) in cui entrambe le specie ricavano un beneficio reciproco, come tra pianta e impollinatore.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-fill-commensalismo-013",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'interazione (+, 0) in cui una specie trae beneficio mentre l'altra non risulta influenzata è detta ___.",
+    "answers": [
+      [
+        "commensalismo"
+      ]
+    ],
+    "suggestion": "È la relazione esemplificata dall'orchidea epifita che usa il ramo come sostegno.",
+    "explanation": "Il commensalismo è la relazione (+, 0): una specie ne beneficia (l'orchidea epifita) mentre l'altra (l'albero) non ne risente.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.16"
+  },
+  {
+    "id": "cons-c12-predatore-mortalita-014",
+    "topic": "conservazione",
+    "question": "In che modo un aumento del numero di predatori influisce sulla popolazione di prede?",
+    "suggestion": "Il predatore agisce come un fattore che sottrae individui alla popolazione preda.",
+    "options": [
+      "Aumenta il tasso di mortalità delle prede, agendo come agente di mortalità sulla popolazione",
+      "Aumenta il tasso di natalità delle prede, per un effetto di compensazione denso-dipendente",
+      "Non modifica il tasso di mortalità delle prede finché la loro risorsa alimentare è abbondante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il predatore agisce come agente di mortalità: più predatori catturano e uccidono più prede, aumentando il tasso di mortalità (dpreda) della popolazione preda.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-d0-preda-015",
+    "topic": "conservazione",
+    "question": "Cosa rappresenta il termine d0preda nella funzione che lega la mortalità delle prede al numero di predatori?",
+    "suggestion": "Considera quale sarebbe la mortalità delle prede in totale assenza di predatori.",
+    "options": [
+      "Il tasso di mortalità delle prede quando il numero di predatori presenti è pari a zero",
+      "Il tasso di mortalità massimo raggiunto quando i predatori presenti sono numerosissimi",
+      "Il numero di prede uccise da ciascun singolo predatore presente nell'unità di tempo"
+    ],
+    "correctIndex": 0,
+    "explanation": "d0preda è il tasso di mortalità della popolazione di prede quando i predatori sono assenti (Npredatore = 0); la mortalità cresce poi linearmente con il numero di predatori.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-predatore-natalita-016",
+    "topic": "conservazione",
+    "question": "Perché il tasso di natalità del predatore (bpredatore) dovrebbe aumentare all'aumentare del numero di prede disponibili?",
+    "suggestion": "Collega la quantità di cibo catturato al successo riproduttivo del predatore.",
+    "options": [
+      "Perché la presenza di più prede riduce la competizione tra i predatori a prescindere dal cibo che ciascuno di essi assume",
+      "Perché la fitness riproduttiva del predatore dipende dal consumo di prede, che cresce con la loro disponibilità",
+      "Perché un maggior numero di prede disponibili abbassa in modo diretto la mortalità dei predatori adulti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se la cattura cresce con le prede disponibili e la fitness riproduttiva dipende dal consumo di prede, allora più prede implicano più natalità del predatore: esiste un legame diretto tra Npreda e bpredatore.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-analogia-densodipendente-017",
+    "topic": "conservazione",
+    "question": "A quale meccanismo di regolazione è concettualmente simile l'effetto dei predatori sul tasso di crescita delle prede?",
+    "suggestion": "Pensa a come la crescita di una popolazione rallenta all'aumentare della sua stessa densità.",
+    "options": [
+      "Alla regolazione denso-dipendente, di cui costituisce un'estensione alle interazioni tra specie",
+      "Alla crescita esponenziale illimitata, tipica delle popolazioni prive di qualunque regolazione",
+      "Alla dispersione casuale degli individui, del tutto indipendente dalla densità reale di popolazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'aumento di predatori riduce il tasso di crescita delle prede in modo analogo alla regolazione denso-dipendente, estesa però al caso delle interazioni tra specie diverse.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-capacita-portante-018",
+    "topic": "conservazione",
+    "question": "Cosa esprime la capacità portante (K) nel modello logistico di crescita della popolazione?",
+    "suggestion": "Considera il valore verso cui tende la popolazione quando dN/dt si avvicina a zero.",
+    "options": [
+      "Il tasso intrinseco di crescita della popolazione in totale assenza di fattori limitanti ambientali",
+      "Il numero di predatori necessari ad azzerare del tutto la popolazione di prede considerata",
+      "La dimensione di popolazione verso cui si tende quando dN/dt si avvicina progressivamente a zero"
+    ],
+    "correctIndex": 2,
+    "explanation": "K è la capacità portante: quando dN/dt si avvicina a zero la popolazione si avvicina a K, incorporando gli effetti della competizione intraspecifica e della regolazione denso-dipendente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-termine-n2-019",
+    "topic": "conservazione",
+    "question": "Nel modello dN1/dt = r1N1(1 − (N1+N2)/K1), perché la presenza della specie 2 riduce la crescita della specie 1?",
+    "suggestion": "Se le due specie usano la stessa risorsa allo stesso modo, condividono la stessa capacità portante.",
+    "options": [
+      "Perché il termine N2 aumenta il tasso intrinseco di crescita r1, rendendo la specie 1 nettamente più prolifica",
+      "Perché gli individui della specie 2 consumano parte della capacità portante disponibile per la specie 1",
+      "Perché la specie 2 preda direttamente gli individui della specie 1, riducendone così il numero totale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Usando la stessa risorsa nello stesso modo, gli individui N2 occupano parte di K1: se K1 = 1000 e N2 = 250, la capacità disponibile per la specie 1 scende a 750, riducendone la crescita.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-verifica-numerica-020",
+    "topic": "conservazione",
+    "question": "Perché, a N1 = 400, la crescita della specie 1 scende da 36 a 21 individui quando si aggiunge la specie 2 con N2 = 250?",
+    "suggestion": "Confronta il termine (1 − N1/K1) con il termine (1 − (N1+N2)/K1) a parità di r1 e N1.",
+    "options": [
+      "Perché la specie 2 riduce la capacità portante effettiva, abbassando il fattore (1 − (N1+N2)/K1)",
+      "Perché la presenza della specie 2 fa diminuire il tasso intrinseco r1 da 0,15 a un valore inferiore",
+      "Perché la specie 2 riduce direttamente N1 da 400 a un valore più basso all'interno del calcolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con N2 = 250 il termine diventa 0,15 × 400 × (1 − 650/1000) = 21 invece di 36: la specie 2 sottrae capacità portante, quindi si aggiungono 15 individui in meno.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-coefficiente-alfa-021",
+    "topic": "conservazione",
+    "question": "Cosa descrive il coefficiente di competizione α introdotto nell'equazione dN1/dt = r1N1(1 − (N1+αN2)/K1)?",
+    "suggestion": "Serve a esprimere quanto un individuo di una specie pesa, in termini di risorsa, rispetto a uno dell'altra.",
+    "options": [
+      "Il tasso intrinseco di crescita della specie 2 relativo a quello della specie 1",
+      "La frazione di individui della specie 2 che muore competendo direttamente con la specie 1",
+      "L'impatto competitivo di un individuo della specie 2 su un individuo della specie 1"
+    ],
+    "correctIndex": 2,
+    "explanation": "α è il coefficiente di competizione: quantifica l'impatto di un individuo della specie 2 sulla specie 1 in termini di uso della risorsa condivisa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-alfa-mezzo-022",
+    "topic": "conservazione",
+    "question": "Perché il coefficiente α vale 0,5 se un individuo della specie 2 ha metà della massa corporea e consuma metà dell'erba rispetto alla specie 1?",
+    "suggestion": "α misura l'impatto di un individuo della specie 2 in unità equivalenti di specie 1.",
+    "options": [
+      "Perché un individuo della specie 2 esercita metà dell'impatto competitivo di uno della specie 1",
+      "Perché la specie 2 ha una capacità portante pari esattamente alla metà di quella della specie 1",
+      "Perché il tasso intrinseco di crescita della specie 2 è dimezzato rispetto a quello della specie 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consumando metà della risorsa, un individuo della specie 2 pesa come mezzo individuo della specie 1: α = 0,5. Con α = 0,5 la crescita della specie 1 sale da 21 a 28 rispetto ad α = 1,0.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-coefficiente-beta-023",
+    "topic": "conservazione",
+    "question": "Perché il coefficiente β, che descrive l'impatto della specie 1 sulla specie 2, vale 2,0 nell'esempio delle antilopi?",
+    "suggestion": "Se un individuo della specie 1 mangia il doppio, equivale a quanti individui della specie 2?",
+    "options": [
+      "Perché la specie 1 ha un tasso intrinseco di crescita doppio rispetto a quello della specie 2",
+      "Perché la capacità portante K2 della specie 2 vale esattamente il doppio di quella K1 nell'esempio numerico qui considerato",
+      "Perché un individuo della specie 1 consuma quanto due individui della specie 2, esercitandone il doppio dell'impatto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poiché la specie 2 ha metà massa e consumo, un individuo della specie 1 equivale a due individui della specie 2: il suo impatto competitivo su di essa è doppio, quindi β = 2,0.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-fill-coefficiente-024",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il fattore α che quantifica l'impatto competitivo di un individuo di una specie su un'altra è detto ___ di competizione.",
+    "answers": [
+      [
+        "coefficiente"
+      ]
+    ],
+    "suggestion": "È il termine, indicato con la lettera greca α, che converte gli individui di una specie in equivalenti dell'altra.",
+    "explanation": "Il coefficiente di competizione (α o β) descrive l'impatto di un individuo di una specie sull'altra, tenendo conto della loro equivalenza nell'uso della risorsa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-fenotipo-selezione-025",
+    "topic": "conservazione",
+    "question": "Perché le interazioni tra due specie non influenzano in egual misura tutti gli individui delle popolazioni coinvolte?",
+    "suggestion": "Rifletti sul fatto che le caratteristiche fisiologiche, morfologiche e comportamentali variano da individuo a individuo.",
+    "options": [
+      "Perché le interazioni coinvolgono caratteristiche fenotipiche che variano tra i singoli individui",
+      "Perché tutti gli individui di una popolazione condividono lo stesso identico fenotipo ereditato",
+      "Perché le interazioni tra specie sono sempre del tutto casuali e indipendenti dal fenotipo individuale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le interazioni dipendono da caratteristiche fenotipiche (fisiologiche, morfologiche, comportamentali) che variano tra gli individui, generando differenze nel tipo e nell'intensità delle interazioni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-semi-becco-026",
+    "topic": "conservazione",
+    "question": "Perché la preferenza degli uccelli granivori per i semi piccoli sposta nel tempo la popolazione vegetale verso semi più grandi?",
+    "suggestion": "Considera quali piante subiscono la maggiore penalizzazione riproduttiva a causa della predazione dei semi.",
+    "options": [
+      "Perché i semi più grandi germinano molto più rapidamente di quelli piccoli una volta nel terreno",
+      "Perché la predazione dei semi piccoli riduce la fitness delle piante che li producono, favorendo quelle a semi grandi",
+      "Perché gli uccelli disperdono in modo attivo i semi più grandi verso siti di germinazione posti a maggiore distanza dalla pianta madre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Predando i semi piccoli, gli uccelli abbassano la fitness delle piante che li producono: la distribuzione fenotipica vegetale si sposta verso semi più grandi e più duri.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-becco-risposta-027",
+    "topic": "conservazione",
+    "question": "In che modo la popolazione vegetale a semi più grandi agisce a sua volta come agente di selezione sugli uccelli?",
+    "suggestion": "Se diminuiscono i semi piccoli, quali uccelli restano svantaggiati nell'alimentazione?",
+    "options": [
+      "Riducendo i semi piccoli disponibili, penalizza gli uccelli dal becco piccolo e sposta i fenotipi verso becchi maggiori",
+      "Aumentando i semi piccoli disponibili, finisce per favorire proprio gli uccelli dotati del becco più piccolo",
+      "Modificando il colore dei propri semi, orienta la selezione verso uccelli dotati di una vista notevolmente più acuta e sensibile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con meno semi piccoli, gli uccelli dal becco piccolo hanno fitness ridotta: nel tempo i fenotipi si spostano verso becchi più grandi, capaci di rompere semi più duri.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-coevoluzione-028",
+    "topic": "conservazione",
+    "question": "Cosa si intende per coevoluzione tra due specie?",
+    "suggestion": "Pensa a un cambiamento evolutivo che avviene in entrambe le specie, ciascuna in risposta all'altra.",
+    "options": [
+      "Il cambiamento evolutivo di una sola delle due specie in risposta all'ambiente fisico",
+      "La comparsa simultanea di due specie distinte a partire da un unico antenato comune condiviso",
+      "Il cambiamento evolutivo reciproco di due specie, ciascuna agente di selezione sull'altra"
+    ],
+    "correctIndex": 2,
+    "explanation": "La coevoluzione è il processo per cui due specie subiscono un cambiamento evolutivo reciproco tramite selezione naturale, agendo l'una da agente di selezione sull'altra.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-controadattativi-029",
+    "topic": "conservazione",
+    "question": "In quale tipo di interazione si osservano più frequentemente i cambiamenti controadattativi della coevoluzione?",
+    "suggestion": "Considera dove ogni specie ha convenienza a contrastare l'evoluzione dell'altra.",
+    "options": [
+      "Nelle relazioni predatore-preda, in cui ciascuna delle due specie tenta di contrastare l'altra",
+      "Nelle relazioni mutualistiche tra piante e impollinatori, che si rinforzano vicendevolmente",
+      "Nelle relazioni commensali, in cui una delle due specie non risente in alcun modo della presenza dell'altra"
+    ],
+    "correctIndex": 0,
+    "explanation": "I cambiamenti controadattativi, che tentano di contrastare l'altra specie, sono tipici delle relazioni predatore-preda; nelle interazioni mutualistiche i cambiamenti si rinforzano invece a vicenda.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-fill-coevoluzione-030",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il processo per cui due specie subiscono un cambiamento evolutivo reciproco attraverso la selezione naturale è detto ___.",
+    "answers": [
+      [
+        "coevoluzione"
+      ]
+    ],
+    "suggestion": "È il cambiamento evolutivo che avviene in entrambe le specie, ciascuna in risposta all'altra.",
+    "explanation": "La coevoluzione è il cambiamento evolutivo reciproco di due specie mediante selezione naturale, come nell'esempio uccelli-semi o fiori-impollinatori.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  },
+  {
+    "id": "cons-c12-segnali-ricompense-031",
+    "topic": "conservazione",
+    "question": "Qual è la differenza tra i segnali e le ricompense che le piante impiegano per attirare gli impollinatori?",
+    "suggestion": "Uno serve a farsi individuare, l'altro a fornire un vantaggio concreto all'animale.",
+    "options": [
+      "I segnali forniscono nutrimento all'animale, mentre le ricompense servono soltanto a rendere il fiore molto più visibile",
+      "I segnali, come colori e profumi, attirano l'animale, mentre le ricompense, come il nettare, gli danno un vantaggio",
+      "I segnali e le ricompense sono in fondo la stessa cosa, entrambi finalizzati a nutrire l'impollinatore visitatore"
+    ],
+    "correctIndex": 1,
+    "explanation": "I segnali (fiori vivaci, profumi) servono ad attirare l'impollinatore; le ricompense (nettare, polline) gli forniscono un beneficio concreto in cambio del trasporto del polline.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-nettare-032",
+    "topic": "conservazione",
+    "question": "Qual è la funzione del nettare prodotto dai nettari fiorali?",
+    "suggestion": "È un liquido ricco di zuccheri il cui scopo è legato alla presenza degli animali visitatori.",
+    "options": [
+      "Nutrire l'embrione della pianta durante lo sviluppo del seme all'interno del fiore",
+      "Difendere il fiore dagli erbivori grazie al suo sapore particolarmente sgradevole",
+      "Attrarre gli impollinatori come ricompensa ricca di zuccheri prodotta dai nettari"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il nettare è un liquido zuccherino prodotto dai nettari il cui unico scopo è attrarre gli impollinatori: agisce come ricompensa nell'interazione mutualistica.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-colibri-033",
+    "topic": "conservazione",
+    "question": "Perché nella coevoluzione tra colibrì e fiori tubolari si selezionano contemporaneamente becchi più lunghi e fiori più grandi?",
+    "suggestion": "Considera come la fitness di ciascuna specie dipenda dalla caratteristica ereditabile dell'altra.",
+    "options": [
+      "Perché i fiori più grandi producono più nettare e ricevono più visite, mentre i becchi più lunghi accedono meglio al nettare",
+      "Perché i fiori più grandi tendono a respingere i colibrì, costringendoli così ad allungare progressivamente il becco come difesa",
+      "Perché i becchi più lunghi impollinano in modo meno efficiente, finendo per favorire i fiori di dimensioni minori"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fiori grandi producono più nettare, ricevono più visite e più impollinazione (maggiore fitness); i colibrì dal becco più lungo accedono a più nettare (maggiore fitness): i due fenotipi si spostano di pari passo, rinforzandosi.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-relazione-obbligata-034",
+    "topic": "conservazione",
+    "question": "Perché una relazione coevolutiva molto specializzata può diventare rischiosa per le specie coinvolte?",
+    "suggestion": "Pensa a cosa accade quando due specie diventano reciprocamente indispensabili l'una all'altra.",
+    "options": [
+      "Perché la specializzazione accresce la capacità di ciascuna specie di interagire con molte altre specie differenti",
+      "Perché in una relazione obbligata il declino o l'estinzione di una specie compromette gravemente anche l'altra",
+      "Perché la specializzazione elimina completamente la competizione tra le due specie che vi sono coinvolte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un'elevata specializzazione può portare a una relazione obbligata in cui le specie dipendono l'una dall'altra: il declino o l'estinzione di una mette a rischio anche l'altra.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-character-displacement-035",
+    "topic": "conservazione",
+    "question": "Cosa si intende per differenziamento dei caratteri (character displacement)?",
+    "suggestion": "È un esito evolutivo che riduce la sovrapposizione tra due specie in competizione.",
+    "options": [
+      "La convergenza dei caratteri di due specie competitrici verso un unico fenotipo intermedio comune e stabile",
+      "La divergenza dei caratteri fenotipici di due specie che riduce l'intensità della loro interazione",
+      "La comparsa di caratteri del tutto identici in specie che vivono in aree geografiche separate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il differenziamento dei caratteri è la divergenza dei tratti fenotipici che riduce l'intensità di un'interazione negativa, frequente nelle interazioni competitive.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-overlap-semi-036",
+    "topic": "conservazione",
+    "question": "Perché due specie di uccelli granivori con becchi parzialmente sovrapposti competono soprattutto per i semi di dimensione intermedia?",
+    "suggestion": "Rifletti su quali semi possono essere sfruttati da individui di entrambe le specie.",
+    "options": [
+      "Perché i semi di dimensione intermedia sono gli unici presenti sull'isola durante l'intero arco dell'anno, in ogni stagione",
+      "Perché soltanto la specie più piccola risulta in grado di aprire e consumare i semi intermedi",
+      "Perché i semi intermedi rientrano nell'intervallo di becco di entrambe le specie, dove gli intervalli si sovrappongono"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sovrapposizione parziale degli intervalli di dimensione del becco fa sì che entrambe le specie possano sfruttare i semi intermedi, generando lì la competizione più intensa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-divergenza-coesistenza-037",
+    "topic": "conservazione",
+    "question": "In che modo la divergenza della dimensione media del becco permette la coesistenza delle due specie di uccelli sull'isola?",
+    "suggestion": "Se i becchi diventano più diversi, come cambia la porzione di risorsa condivisa?",
+    "options": [
+      "Riducendo la sovrapposizione nell'uso delle risorse e quindi la competizione tra le due specie",
+      "Aumentando la sovrapposizione delle diete, così da spartire più equamente i semi disponibili",
+      "Eliminando del tutto la variabilità del becco all'interno di ciascuna delle due specie coinvolte"
+    ],
+    "correctIndex": 0,
+    "explanation": "La divergenza dei becchi riduce la sovrapposizione nell'uso delle risorse e quindi la competizione, permettendo alle due specie di coesistere.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-fill-character-displacement-038",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La divergenza dei caratteri fenotipici che riduce l'intensità della competizione tra due specie è detta differenziamento dei ___.",
+    "answers": [
+      [
+        "caratteri"
+      ]
+    ],
+    "suggestion": "È l'esito che, spostando i tratti delle due specie, ne diminuisce la sovrapposizione nell'uso delle risorse.",
+    "explanation": "Il differenziamento dei caratteri (character displacement) è la divergenza dei tratti che riduce la competizione e favorisce la coesistenza.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.19"
+  },
+  {
+    "id": "cons-c12-areale-interazioni-039",
+    "topic": "conservazione",
+    "question": "Perché una specie con un areale geografico molto ampio tende a presentare interazioni biotiche più varie?",
+    "suggestion": "Un areale ampio espone la specie a una maggiore varietà di condizioni e di altri organismi.",
+    "options": [
+      "Perché un areale molto ampio riduce sensibilmente la variabilità genetica tra le popolazioni locali della specie",
+      "Perché incontra una maggiore diversità di competitori, predatori e patogeni, con diverse pressioni selettive",
+      "Perché tutte le sue popolazioni locali finiscono per sperimentare condizioni ambientali del tutto identiche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un ampio areale espone la specie a una maggiore varietà di condizioni fisiche e di interazioni biotiche (più competitori, predatori e patogeni), generando differenti pressioni selettive locali.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-serpe-ttx-040",
+    "topic": "conservazione",
+    "question": "Perché il livello di resistenza alla tetrodotossina nelle serpi giarrettiera varia geograficamente in funzione dei tritoni locali?",
+    "suggestion": "La resistenza è ereditabile e risponde alla pressione selettiva esercitata dalla tossicità delle prede locali.",
+    "options": [
+      "Perché la resistenza alla TTX dipende soltanto dalla temperatura media annuale dell'habitat in cui vivono le serpi delle popolazioni locali",
+      "Perché ogni serpe acquisisce la resistenza nutrendosi di tritoni durante la vita, senza alcuna componente ereditaria",
+      "Perché la resistenza si è coevoluta in risposta alla tossicità dei tritoni: dove essi sono più tossici, le serpi sono più resistenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La resistenza alla TTX, ereditabile, riflette la pressione selettiva locale: è minima dove i tritoni sono assenti o non tossici ed è tanto più alta quanto più tossici sono i tritoni locali.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-correlazione-tossicita-041",
+    "topic": "conservazione",
+    "question": "Cosa dimostra la correlazione diretta tra tossicità dei tritoni e resistenza delle serpi nelle 40 popolazioni locali studiate?",
+    "suggestion": "Considera come la variazione locale di una pressione selettiva plasmi un tratto ereditabile.",
+    "options": [
+      "Che la natura dell'interazione predatore-preda può variare geograficamente, riflettendo differenze locali di pressione selettiva",
+      "Che il livello di resistenza alla TTX è del tutto identico in ogni popolazione di serpi, a prescindere dai tritoni presenti",
+      "Che i tritoni sviluppano la propria tossicità solo là dove le popolazioni di serpi risultano già pienamente resistenti alla neurotossina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La resistenza cresce con la tossicità locale dei tritoni: la stessa interazione predatore-preda assume caratteristiche diverse nello spazio, riflettendo differenze locali di pressione selettiva.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-micorrize-contesto-042",
+    "topic": "conservazione",
+    "question": "Perché l'interazione tra funghi micorrizici e pianta può passare da (+, +) a (+, 0) a seconda dell'ambiente?",
+    "suggestion": "Valuta quanto sia utile alla pianta l'assorbimento extra di nutrienti quando il suolo ne è già ricco.",
+    "options": [
+      "Perché in un suolo ricco di nutrienti il fungo smette del tutto di ricevere il carbonio fotosintetico dalla pianta ospite",
+      "Perché in un suolo ricco di nutrienti il beneficio per la pianta si annulla e il fungo diventa un mero costo di carbonio",
+      "Perché in un suolo povero di nutrienti la pianta non trae in realtà alcun vantaggio dall'associazione col fungo"
+    ],
+    "correctIndex": 1,
+    "explanation": "In suoli poveri il fungo aumenta l'assorbimento di nutrienti (vantaggio per entrambi, +, +); in suoli ricchi il beneficio per la pianta è scarso o nullo mentre continua a fornire carbonio, così l'interazione diventa (+, 0).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-micorrize-scambio-043",
+    "topic": "conservazione",
+    "question": "Qual è lo scambio reciproco alla base dell'associazione micorrizica in suoli poveri di nutrienti?",
+    "suggestion": "Ciascun partner fornisce all'altro qualcosa che è in grado di procurarsi meglio.",
+    "options": [
+      "La pianta cede acqua al fungo e ne riceve in cambio una efficace protezione contro i patogeni radicali",
+      "Il fungo cede alla pianta azoto atmosferico fissato e ne riceve in cambio ossigeno molecolare",
+      "Il fungo aumenta l'assorbimento di acqua e nutrienti per la pianta e ne riceve in cambio carbonio"
+    ],
+    "correctIndex": 2,
+    "explanation": "I funghi micorrizici ampliano la superficie radicale utile all'assorbimento di acqua e nutrienti, ricevendo in cambio carbonio dalla pianta: uno scambio vantaggioso soprattutto in suoli poveri.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-interazioni-diffuse-044",
+    "topic": "conservazione",
+    "question": "Cosa caratterizza le interazioni diffuse tra specie?",
+    "suggestion": "Pensa a quanti partner sono realmente coinvolti nella maggior parte delle interazioni in natura.",
+    "options": [
+      "Coinvolgono più specie contemporaneamente, non essendo esclusive di due sole specie",
+      "Coinvolgono sempre e soltanto due specie, legate tra loro da un rapporto obbligato",
+      "Si verificano in modo esclusivo tra specie che vivono in ambienti di tipo acquatico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le interazioni diffuse non sono esclusive né limitate a due specie: coinvolgono molte specie insieme, come nella competizione per i semi tra insetti, uccelli e mammiferi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-reti-impollinazione-045",
+    "topic": "conservazione",
+    "question": "Perché le interazioni pianta-impollinatore costituiscono spesso reti di impollinazione anziché coppie esclusive?",
+    "suggestion": "Considera quante specie di fiori visita un impollinatore e quante specie impollinano un fiore.",
+    "options": [
+      "Perché ogni pianta viene impollinata da una sola specie animale altamente specializzata proprio su di essa",
+      "Perché gli impollinatori tendono a evitare di visitare più di una singola specie vegetale per stagione",
+      "Perché la maggior parte delle piante è impollinata da più specie e ogni impollinatore visita più piante"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella maggior parte dei casi una pianta è impollinata da più specie e ogni impollinatore visita più piante: queste interazioni mutualistiche diffuse formano reti di impollinazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-coevoluzione-diffusa-046",
+    "topic": "conservazione",
+    "question": "In cosa si distingue la coevoluzione diffusa dalla coevoluzione specifica tra due sole specie?",
+    "suggestion": "Rifletti su quanti soggetti evolvono reciprocamente all'interno di una rete di interazioni.",
+    "options": [
+      "Nella coevoluzione diffusa evolve una sola specie, in risposta esclusivamente al solo ambiente fisico abiotico circostante",
+      "Nella coevoluzione diffusa gruppi di specie subiscono un cambiamento evolutivo reciproco interagendo con altri gruppi",
+      "La coevoluzione diffusa riguarda unicamente specie prive di qualsiasi interazione di tipo mutualistico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella coevoluzione diffusa il cambiamento evolutivo reciproco coinvolge un'intera rete: gruppi di specie interagiscono con altri gruppi, anziché due sole specie in modo bilaterale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-ttx-diffusa-047",
+    "topic": "conservazione",
+    "question": "Perché l'evoluzione della resistenza alla TTX nelle serpi giarrettiera è considerata un esempio di interazione diffusa?",
+    "suggestion": "Considera quante specie di tritoni producono la tossina e quanti predatori si nutrono del genere Taricha.",
+    "options": [
+      "Perché la resistenza si è evoluta in risposta a una singola specie di tritone particolarmente tossica",
+      "Perché la tossicità dei tritoni risulta del tutto indipendente da qualunque predatore che se ne nutra",
+      "Perché più specie e sottospecie di tritoni producono TTX e le serpi non ne sono gli unici predatori"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tre specie e quattro sottospecie di tritoni producono TTX e le serpi non ne sono gli unici predatori: la tossicità difende i tritoni da più antagonisti, quindi l'interazione è diffusa, non bilaterale.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-competizione-diffusa-048",
+    "topic": "conservazione",
+    "question": "Quale situazione illustra una interazione diffusa di natura competitiva?",
+    "suggestion": "Cerca una risorsa condivisa contemporaneamente da molti gruppi di organismi diversi.",
+    "options": [
+      "Insetti, uccelli e piccoli mammiferi che competono tutti quanti per i medesimi semi",
+      "Un'orchidea epifita che cresce lentamente sul ramo di un albero traendone solo un sostegno",
+      "Un colibrì che estrae il nettare da un fiore tubolare particolarmente allungato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle comunità terrestri numerosi animali (insetti, uccelli, piccoli mammiferi) si nutrono degli stessi semi, competendo tra loro: è una competizione diffusa che coinvolge molte specie.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.20"
+  },
+  {
+    "id": "cons-c12-predazione-parassitoidismo-049",
+    "topic": "conservazione",
+    "question": "Cosa accomuna predazione e parassitoidismo pur trattandosi di interazioni distinte?",
+    "suggestion": "In entrambe l'organismo sfruttato non sopravvive, anche se i tempi e le modalità differiscono.",
+    "options": [
+      "In entrambe l'organismo sfruttato sopravvive, ma con una fitness riproduttiva sensibilmente ridotta nel tempo",
+      "In entrambe l'organismo sfruttato va incontro alla morte, subito nel predatore e infine nel parassitoide",
+      "In entrambe le due specie coinvolte finiscono per trarre un chiaro beneficio reciproco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sia predazione sia parassitoidismo portano alla morte dell'organismo sfruttato: il predatore uccide la preda direttamente, mentre le larve del parassitoide ne causano infine la morte. Il parassita classico, invece, non uccide l'ospite.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.17"
+  },
+  {
+    "id": "cons-c12-mutualismo-controadattativi-050",
+    "topic": "conservazione",
+    "question": "Perché nelle interazioni mutualistiche i cambiamenti coevolutivi tendono a rinforzarsi reciprocamente anziché contrastarsi?",
+    "suggestion": "Nel mutualismo la maggiore efficienza di una specie migliora anche la fitness dell'altra.",
+    "options": [
+      "Perché ciascuna delle due specie ha convenienza a neutralizzare tutti i nuovi adattamenti evolutivi dell'altra specie",
+      "Perché l'interazione è vantaggiosa per entrambe, quindi gli adattamenti di una accrescono la fitness dell'altra",
+      "Perché nel mutualismo la selezione naturale non riesce ad agire su nessuna delle due specie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Essendo l'interazione mutualmente vantaggiosa, un adattamento in una specie aumenta il beneficio per l'altra: i cambiamenti si rinforzano a vicenda, a differenza dei cambiamenti controadattativi predatore-preda.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.18"
+  }
+]

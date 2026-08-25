@@ -120,6 +120,9 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
                                     plant/organism groups (topic "biodiversita-vegetale"). "Biologia veg.pdf"
                                     ("Le molecole della vita") = plant biochemistry/cell/tissue/physiology
                                     (topic "biologia-vegetale").
+    conservazione/               ← course 6: ecology dispensa (Conservazione_della_Natura_Dispensa_Parte2_1.pdf,
+                                    48pp) — population/community ecology. One PDF → 11 per-chapter banks under
+                                    questions/conservazione/ (topic "conservazione").
   questions/                     ← the question banks the website actually loads
     index.json                   ← MANIFEST. Lists every bank file; a file not listed here is invisible to the site
     Anatomia_e_Biologia/         ← one JSON bank per species/lecture (cervo.json, capriolo.json, …)
@@ -132,6 +135,11 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
                                     families) + topic "biologia-vegetale" (14 banks, prefix bvg-: molecole, cellula,
                                     tessuti, fusto/radice/foglia, membrane/trasporto, respirazione, fotosintesi).
                                     NB: folder name has no accent/space (mirrors the docs/ folder per the no-spaces rule)
+    conservazione/               ← 11 per-chapter banks from the ecology dispensa (~508 questions, topic
+                                    "conservazione", id prefix cons-cNN-): c09 accrescimento, c10 storia vitale/rK,
+                                    c11 regolazione intraspecifica, c12 interazioni tra specie, c13 competizione
+                                    interspecifica, c14 predazione, c16 struttura comunità, c18 successione, c20
+                                    energetica ecosistemi, c21 decomposizione, c22 cicli biogeochimici.
     easter-eggs.json             ← hidden "bonus" questions; deliberately NOT in index.json; spliced in at random
   tests/
     test_question_banks.py       ← validates every bank + index.json against QUESTION_FORMAT.md (plain python3)

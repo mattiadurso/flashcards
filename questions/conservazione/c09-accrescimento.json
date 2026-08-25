@@ -1,0 +1,910 @@
+[
+  {
+    "id": "cons-c09-open-closed-001",
+    "topic": "conservazione",
+    "question": "Che cosa distingue una popolazione aperta da una popolazione chiusa?",
+    "suggestion": "Pensa a quali dei quattro flussi demografici possono attraversare i confini della popolazione.",
+    "options": [
+      "La popolazione aperta ha immigrazione ed emigrazione significative, quella chiusa dipende solo da nascite e morti",
+      "La popolazione aperta dipende soltanto da nascite e morti, mentre quella chiusa scambia individui con le aree vicine",
+      "La popolazione aperta ha solo nascite ed emigrazione, quella chiusa solo morti e immigrazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "In una popolazione aperta i flussi di immigrazione ed emigrazione contribuiscono in modo sostanziale alle variazioni numeriche; in una chiusa tali flussi sono assenti o trascurabili, e la dinamica dipende solo dal bilancio tra nascite e morti. La seconda opzione inverte le due definizioni, la terza mescola i flussi in modo scorretto.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-flussi-002",
+    "topic": "conservazione",
+    "question": "Quali processi permettono a una popolazione di aumentare i propri effettivi?",
+    "suggestion": "Considera i due modi in cui un individuo può 'entrare' nella popolazione.",
+    "options": [
+      "Le morti e l'emigrazione verso altre aree",
+      "Le nascite e l'immigrazione da altre popolazioni",
+      "L'immigrazione e l'emigrazione tra popolazioni vicine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una popolazione guadagna individui tramite nascite e immigrazione, mentre li perde tramite morti ed emigrazione. La prima opzione elenca i due processi di perdita, la terza accoppia un guadagno e una perdita.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-gemmazione-fill-003",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'idra d'acqua dolce si riproduce prevalentemente in modo asessuato per ___, formando una protuberanza che diventa un nuovo individuo.",
+    "answers": [
+      [
+        "gemmazione",
+        "budding"
+      ]
+    ],
+    "suggestion": "È il termine che descrive la nascita di un nuovo individuo come 'germoglio' del corpo del genitore.",
+    "explanation": "La gemmazione (budding) è la formazione di una nuova protuberanza corporea che si sviluppa in un individuo autonomo; nell'idra rappresenta l'equivalente delle nascite nel bilancio demografico.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-b-vs-b-004",
+    "topic": "conservazione",
+    "question": "Perché si preferisce esprimere le nascite come tasso pro capite b anziché come numero assoluto B?",
+    "suggestion": "Chiediti quale delle due grandezze cambia semplicemente perché la popolazione è più numerosa.",
+    "options": [
+      "Perché b tiene conto anche dell'immigrazione netta, mentre B considera soltanto le nascite interne della popolazione",
+      "Perché B è misurabile solo nelle popolazioni chiuse, mentre b vale anche per quelle aperte",
+      "Perché b è indipendente dalla dimensione della popolazione, mentre B dipende dal numero di individui presenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il numero assoluto di nascite B dipende dalla dimensione della popolazione; dividendolo per N si ottiene b, un tasso per individuo confrontabile tra popolazioni di dimensioni diverse. Le altre opzioni attribuiscono a b e B proprietà (immigrazione, tipo di popolazione) che non riguardano questa distinzione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-calcolo-b-005",
+    "topic": "conservazione",
+    "question": "In una popolazione di 100 idre che produce 40 nuovi individui in un giorno, come si calcola il tasso di natalità pro capite b?",
+    "suggestion": "Il tasso pro capite si ottiene rapportando l'evento demografico alla dimensione della popolazione.",
+    "options": [
+      "Dividendo il numero di nascite per la dimensione della popolazione: 40/100 = 0,4",
+      "Sottraendo le morti alle nascite e dividendo per la popolazione: (40−10)/100 = 0,3",
+      "Dividendo le nascite per la somma di nascite e morti: 40/50 = 0,8"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tasso di natalità pro capite è b = B/N = 40/100 = 0,4. La seconda opzione calcola in realtà il tasso di accrescimento r, la terza usa un denominatore privo di significato demografico.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-r-definizione-006",
+    "topic": "conservazione",
+    "question": "Come è definito il tasso di accrescimento pro capite r di una popolazione?",
+    "suggestion": "Deriva dalla differenza tra i due tassi che governano una popolazione chiusa.",
+    "options": [
+      "Come la somma del tasso di natalità e del tasso di mortalità pro capite (b + d)",
+      "Come la differenza tra il tasso di natalità e il tasso di mortalità pro capite (b − d)",
+      "Come il rapporto tra il tasso di natalità e il tasso di mortalità pro capite (b / d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiché ΔN/Δt = (b − d)N, il tasso di accrescimento pro capite è r = b − d. La somma e il rapporto non corrispondono al parametro che compare nell'equazione di crescita.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-slope-007",
+    "topic": "conservazione",
+    "question": "A quale grandezza geometrica corrisponde il tasso di crescita della popolazione ΔN/Δt?",
+    "suggestion": "Rappresenta quanto varia N per ogni unità di tempo lungo la curva di crescita.",
+    "options": [
+      "All'area totale sottesa dalla curva che descrive la crescita della popolazione nel tempo",
+      "All'intercetta della retta di crescita con l'asse verticale delle ordinate",
+      "Alla pendenza della retta che descrive la crescita della popolazione nel tempo"
+    ],
+    "correctIndex": 2,
+    "explanation": "ΔN/Δt esprime la variazione della dimensione della popolazione per unità di tempo e corrisponde geometricamente alla pendenza (slope) della curva di crescita. Area e intercetta non rappresentano un tasso di variazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.2"
+  },
+  {
+    "id": "cons-c09-geom-vs-esp-008",
+    "topic": "conservazione",
+    "question": "Qual è la differenza fondamentale tra il modello di crescita geometrico e quello esponenziale?",
+    "suggestion": "Concentrati su come viene trattato il tempo: a scatti oppure senza interruzioni.",
+    "options": [
+      "Il modello geometrico si applica solo alle popolazioni aperte, quello esponenziale soltanto a quelle chiuse e stabili",
+      "Il modello geometrico assume un tasso r variabile nel tempo, quello esponenziale un tasso r sempre costante",
+      "Il modello geometrico proietta a intervalli discreti, quello esponenziale tratta il tempo come continuo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La crescita geometrica descrive variazioni a intervalli discreti (nascite e morti non continue), mentre la crescita esponenziale nasce facendo tendere Δt a zero, con tasso di variazione istantaneo. Le altre opzioni introducono distinzioni (tipo di popolazione, variabilità di r) non pertinenti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.2-3"
+  },
+  {
+    "id": "cons-c09-eq-esponenziale-009",
+    "topic": "conservazione",
+    "question": "Nell'equazione della crescita esponenziale N(t) = N(0)e^rt, che cosa rappresenta il parametro r?",
+    "suggestion": "In condizioni continue r assume il significato di tasso 'istantaneo' proprio della popolazione.",
+    "options": [
+      "La capacità portante dell'ambiente, cioè il numero massimo di individui sostenibili",
+      "Il tasso intrinseco di accrescimento, ovvero il tasso istantaneo pro capite di crescita",
+      "Il numero medio di figlie femmine prodotte da una femmina nel corso della vita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel modello continuo r è il tasso di accrescimento istantaneo pro capite, cioè il tasso intrinseco della popolazione. La capacità portante e il numero di figlie femmine (R0) sono concetti diversi, non rappresentati da r.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-r-segno-010",
+    "topic": "conservazione",
+    "question": "Che cosa implica un valore di r < 0 per la dinamica di una popolazione?",
+    "suggestion": "Collega il segno di r al confronto tra il tasso di natalità e quello di mortalità.",
+    "options": [
+      "Che b = d e la dimensione della popolazione rimane costante nel tempo",
+      "Che b > d e la popolazione cresce in modo esponenziale",
+      "Che b < d e la popolazione diminuisce in modo esponenziale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Poiché r = b − d, un valore negativo indica che la mortalità supera la natalità (b < d) e la popolazione decresce esponenzialmente. r = 0 corrisponde a b = d (stabilità) e r > 0 a b > d (crescita).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-densita-bassa-011",
+    "topic": "conservazione",
+    "question": "In quali condizioni le popolazioni mostrano tipicamente un andamento di crescita esponenziale?",
+    "suggestion": "Pensa a quando le risorse sono ancora abbondanti rispetto al numero di individui.",
+    "options": [
+      "In ambienti sfavorevoli e ad alta densità, quando la competizione tra individui è intensa",
+      "In ambienti favorevoli e a bassa densità, come durante colonizzazione e insediamento",
+      "In popolazioni che hanno appena raggiunto la capacità portante dell'ambiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "La crescita esponenziale si osserva in ambienti favorevoli a bassa densità, tipicamente durante colonizzazione e insediamento, quando le risorse abbondano rispetto agli individui presenti. Alta densità o capacità portante raggiunta limitano invece la crescita.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-gru-urlatrice-012",
+    "topic": "conservazione",
+    "question": "Perché il recupero della gru urlatrice dopo il 1938 può essere descritto da un modello di crescita esponenziale?",
+    "suggestion": "Considera in che rapporto stava la popolazione superstite con la capacità portante dell'ambiente.",
+    "options": [
+      "Perché la specie era stata reintrodotta in un ambiente del tutto nuovo mai occupato prima",
+      "Perché i censimenti riguardavano soltanto le femmine riproduttive e non l'intera popolazione locale",
+      "Perché la popolazione ridotta a pochi individui era a densità bassa rispetto alla capacità portante"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ridotta a 15 individui nel 1938, la gru urlatrice si trovava a densità bassissima rispetto alla capacità portante: la ripresa demografica seguì quindi un andamento esponenziale, come una fase di colonizzazione. Non fu una reintroduzione in ambiente nuovo, e i censimenti riguardavano l'intera popolazione.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-tavola-vita-scopo-013",
+    "topic": "conservazione",
+    "question": "Perché è necessaria una tavola di vita per stimare r in molte popolazioni naturali?",
+    "suggestion": "Nel modello esponenziale semplice b e d sono costanti: nella realtà spesso non lo sono.",
+    "options": [
+      "Perché b e d spesso variano con l'età, quindi servono tassi di mortalità e natalità età-specifici",
+      "Perché consente di includere immigrazione ed emigrazione, assenti nel modello esponenziale",
+      "Perché permette di misurare direttamente la capacità portante dell'ambiente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il modello esponenziale assume b e d costanti, ma in molti organismi questi tassi variano con l'età: la tavola di vita fornisce un resoconto età-specifico di mortalità e sopravvivenza che consente di stimare r. Non serve a trattare i flussi migratori né a misurare la capacità portante.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-coorte-fill-014",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Un gruppo di individui di una popolazione nati nello stesso periodo di tempo è detto ___.",
+    "answers": [
+      [
+        "coorte",
+        "cohort"
+      ]
+    ],
+    "suggestion": "È l'insieme di individui che una tavola di vita dinamica segue dalla nascita alla morte dell'ultimo componente.",
+    "explanation": "Una coorte è un gruppo di individui nati nello stesso periodo; una tavola di vita di coorte ne segue il destino dalla nascita fino alla morte dell'ultimo individuo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-nx-015",
+    "topic": "conservazione",
+    "question": "Che cosa indica la colonna nx in una tavola di vita?",
+    "suggestion": "È un conteggio, non una proporzione né un tasso.",
+    "options": [
+      "La proporzione di individui della coorte ancora vivi all'età x rispetto all'inizio",
+      "Il numero di individui della coorte ancora vivi all'età x",
+      "Il numero di individui della coorte che muoiono tra l'età x e l'età successiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "nx è il numero assoluto di individui della coorte ancora vivi all'età x. La proporzione di sopravvissuti è lx, mentre il numero di morti nell'intervallo è dx.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.3"
+  },
+  {
+    "id": "cons-c09-lx-016",
+    "topic": "conservazione",
+    "question": "Come si calcola la sopravvivenza lx a una determinata età x?",
+    "suggestion": "È una proporzione riferita alla dimensione iniziale della coorte.",
+    "options": [
+      "Come il numero di vivi all'età x diviso il numero di vivi all'età precedente (nx/nx−1)",
+      "Come il numero di morti nell'intervallo diviso i vivi all'inizio dell'intervallo (dx/nx)",
+      "Come il numero di vivi all'età x diviso la dimensione originaria della coorte (nx/n0)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sopravvivenza lx = nx/n0 è la proporzione della coorte iniziale ancora viva all'età x. Il rapporto dx/nx è invece il tasso di mortalità qx; nx/nx−1 non è una variabile standard della tavola.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-dx-017",
+    "topic": "conservazione",
+    "question": "Come si ottiene la mortalità età-specifica dx in una tavola di vita basata sull'età?",
+    "suggestion": "Confronta il numero di vivi in una classe con quello della classe immediatamente successiva.",
+    "options": [
+      "Come i vivi all'età x divisi la dimensione iniziale complessiva della coorte (nx/n0)",
+      "Come i morti nell'intervallo divisi i vivi all'inizio dell'intervallo (dx/nx)",
+      "Come la differenza tra i vivi all'età x e i vivi all'età successiva (nx − nx+1)"
+    ],
+    "correctIndex": 2,
+    "explanation": "dx è il numero di individui che muoiono nell'intervallo, cioè nx − nx+1. Il rapporto nx/n0 è la sopravvivenza lx, mentre dx/nx è il tasso di mortalità qx.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-qx-018",
+    "topic": "conservazione",
+    "question": "Che cosa esprime il tasso di mortalità età-specifico qx e come si calcola?",
+    "suggestion": "È una probabilità di morire riferita a chi era vivo all'inizio dell'intervallo.",
+    "options": [
+      "La proporzione della coorte iniziale che è ancora in vita a quella età, calcolata come nx/n0",
+      "La frazione di vivi all'inizio dell'intervallo che muore nell'intervallo stesso, cioè dx/nx",
+      "Il numero medio di anni ancora da vivere per un individuo di età x, cioè Tx/nx"
+    ],
+    "correctIndex": 1,
+    "explanation": "qx = dx/nx è la proporzione di individui vivi all'inizio dell'intervallo che muore durante l'intervallo. nx/n0 è la sopravvivenza lx, mentre Tx/nx è la speranza di vita ex.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-q0-scoiattoli-019",
+    "topic": "conservazione",
+    "question": "Nella coorte di 530 scoiattoli grigi, con 371 morti nel primo anno, che cosa indica un valore q0 = 0,70?",
+    "suggestion": "Rapporta i morti del primo anno agli individui presenti alla nascita.",
+    "options": [
+      "Che il 70% degli scoiattoli nati muore prima di raggiungere l'età di un anno",
+      "Che il 70% degli scoiattoli grigi sopravvive oltre il proprio primo anno di vita",
+      "Che in media ogni scoiattolo vive 0,70 anni a partire dalla nascita"
+    ],
+    "correctIndex": 0,
+    "explanation": "q0 = d0/n0 = 371/530 = 0,70 è la frazione di nati che muore entro il primo anno: il 70%. Il complemento (30%) è la sopravvivenza; la speranza di vita è invece una media di anni, non un tasso.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-lx-020",
+    "topic": "conservazione",
+    "question": "Che cosa rappresenta Lx nel calcolo della speranza di vita, e quale assunzione richiede?",
+    "suggestion": "È una media dei vivi durante un intervallo di età, non a un istante preciso.",
+    "options": [
+      "Il numero totale di anni vissuti in futuro dalla classe x, ottenuto sommando i vivi dal fondo della tabella",
+      "Il numero medio di individui vivi durante l'intervallo tra x e x+1, assumendo mortalità uniforme nell'anno",
+      "La proporzione di coorte iniziale ancora viva all'età x rispetto alla nascita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lx = (nx + nx+1)/2 stima il numero medio di vivi durante l'intervallo tra x e x+1, assumendo che la mortalità sia distribuita uniformemente nell'anno. Il totale di anni futuri è Tx, mentre la proporzione di sopravvissuti è lx.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-ex-021",
+    "topic": "conservazione",
+    "question": "Come si calcola la speranza di vita età-specifica ex per una classe di età?",
+    "suggestion": "Rapporta il totale di anni futuri della classe al numero di individui presenti in quella classe.",
+    "options": [
+      "Dividendo il totale di anni futuri Tx per il numero di vivi nella classe nx",
+      "Dividendo il numero di morti dx per il numero di vivi all'inizio nx",
+      "Dividendo il numero di vivi nx per la dimensione iniziale della coorte n0"
+    ],
+    "correctIndex": 0,
+    "explanation": "ex = Tx/nx è il numero medio di anni ancora da vivere per un individuo di età x. dx/nx è il tasso di mortalità qx e nx/n0 è la sopravvivenza lx.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-ex-picco-022",
+    "topic": "conservazione",
+    "question": "Perché negli scoiattoli grigi la speranza di vita ex raggiunge il valore massimo alla classe di età 1 e non alla nascita?",
+    "suggestion": "Rifletti su chi ha già 'pagato' il pedaggio della fase di vita più rischiosa.",
+    "options": [
+      "Perché a un anno le femmine raggiungono il massimo tasso di natalità età-specifico",
+      "Perché a un anno gli individui hanno già superato la fase di elevata mortalità giovanile",
+      "Perché alla nascita la coorte è più numerosa e questo abbassa il valore medio di ex"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alla nascita gli individui devono ancora affrontare l'elevata mortalità giovanile, che abbassa la speranza di vita; superata questa fase, a un anno ex raggiunge il massimo. Non dipende dal tasso di natalità né dalla mera numerosità della coorte.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-speranza-vita-fill-023",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il numero medio di anni che un individuo si può attendere di vivere a partire dalla nascita è detto ___.",
+    "answers": [
+      [
+        "speranza di vita",
+        "aspettativa di vita",
+        "life expectancy"
+      ]
+    ],
+    "suggestion": "Si calcola a partire dai dati di una tavola di vita e può essere anche età-specifica (ex).",
+    "explanation": "La speranza di vita (life expectancy) è il numero medio di anni che un individuo può attendersi di vivere; nella forma età-specifica ex indica gli anni ancora da vivere a partire da una certa età.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-cohort-vs-static-024",
+    "topic": "conservazione",
+    "question": "Qual è la differenza tra una tavola di vita di coorte (dinamica) e una statica (tempo-specifica)?",
+    "suggestion": "Una segue nel tempo un unico gruppo di nati; l'altra fotografa le classi di età in un solo momento.",
+    "options": [
+      "La dinamica campiona la struttura per età in un solo periodo, la statica segue una coorte dalla nascita alla morte",
+      "La dinamica segue una coorte dalla nascita alla morte, la statica campiona la struttura per età in un solo periodo",
+      "La dinamica riguarda solo le piante annuali, la statica solo i vertebrati longevi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tavola dinamica (di coorte) segue il destino di un gruppo di nati dalla nascita alla morte; la statica (tempo-specifica) campiona la distribuzione delle classi di età in un unico periodo. La prima opzione inverte le definizioni, la terza inventa una distinzione tassonomica inesistente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-composita-025",
+    "topic": "conservazione",
+    "question": "In che cosa una tavola di vita composita dinamica differisce da una classica tavola di coorte?",
+    "suggestion": "Riguarda il numero di 'momenti di nascita' da cui provengono gli individui seguiti.",
+    "options": [
+      "È costruita da individui nati in diversi periodi di tempo, anziché in un unico momento",
+      "È costruita campionando la popolazione in un unico istante, senza seguire i nati",
+      "È costruita assumendo che i tassi età-specifici restino costanti nel tempo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tavola composita dinamica combina individui nati in periodi diversi, invece di seguire una singola coorte nata in un unico momento. Il campionamento istantaneo caratterizza la tavola statica, che richiede anche l'assunzione di tassi costanti.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-assunzioni-statica-026",
+    "topic": "conservazione",
+    "question": "Quale assunzione è richiesta per costruire una tavola di vita statica ma non una tavola di coorte?",
+    "suggestion": "La tavola statica ricostruisce la mortalità da una singola 'fotografia', quindi deve fidarsi della stabilità nel tempo.",
+    "options": [
+      "Che tutti gli individui della popolazione appartengano alla medesima classe di età",
+      "Che le generazioni della popolazione non si sovrappongano mai",
+      "Che i tassi di natalità e di mortalità età-specifici restino costanti nel tempo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tavola statica assume che ogni classe sia campionata in proporzione alla sua consistenza e che i tassi età-specifici di natalità e mortalità restino costanti nel tempo. Le altre opzioni descrivono situazioni particolari (specie a una sola stagione) non richieste in generale.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-insetti-027",
+    "topic": "conservazione",
+    "question": "Perché in molti insetti le generazioni non si sovrappongono?",
+    "suggestion": "Considera per quante stagioni riproduttive vivono questi organismi.",
+    "options": [
+      "Perché la loro mortalità giovanile è talmente bassa da mantenere costante nel tempo la struttura per età",
+      "Perché passano dallo stadio di uovo a quello di adulto quasi senza alcuna mortalità intermedia",
+      "Perché vivono una sola stagione riproduttiva, così tutti gli individui sono nella stessa classe di età"
+    ],
+    "correctIndex": 2,
+    "explanation": "Molti insetti vivono una sola stagione riproduttiva: gli individui appartengono tutti alla stessa classe di età e le generazioni non si sovrappongono, a differenza dei vertebrati longevi. La bassa mortalità o l'assenza di mortalità non sono la ragione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.4"
+  },
+  {
+    "id": "cons-c09-piante-annuali-028",
+    "topic": "conservazione",
+    "question": "Nelle tavole di vita delle piante annuali, che cosa rappresentano le variabili lx e dx?",
+    "suggestion": "Per le piante il conteggio non è per età ma per stadio, ed è espresso in termini relativi.",
+    "options": [
+      "lx è il numero assoluto di individui ancora vivi e dx il numero assoluto di individui morti in ciascuno stadio",
+      "lx è la proporzione di vivi all'inizio di ciascuno stadio e dx la proporzione che muore durante lo stadio",
+      "lx è la proporzione di semi germinati e dx il numero di semi prodotti in ciascuno stadio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per le piante annuali lx è la proporzione di individui vivi all'inizio di ciascuno stadio e dx la proporzione che muore durante lo stadio, non numeri assoluti come nelle tavole basate sull'età. Il ciclo parte dalla formazione del seme.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-piante-seme-029",
+    "topic": "conservazione",
+    "question": "Qual è il punto iniziale del ciclo vitale considerato nelle tavole di vita delle piante annuali?",
+    "suggestion": "È lo stadio da cui prende avvio la nuova generazione della pianta.",
+    "options": [
+      "La comparsa della prima foglia vera nella plantula affermata",
+      "La fioritura e la produzione del polline della pianta adulta",
+      "Il momento della formazione del seme della nuova generazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per le piante annuali il ciclo vitale è impostato a partire dalla formazione del seme, che costituisce lo stadio iniziale. Fioritura e comparsa delle foglie sono stadi successivi, non il punto di partenza.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-curva-mortalita-030",
+    "topic": "conservazione",
+    "question": "Quale variabile viene riportata in funzione dell'età in una curva di mortalità?",
+    "suggestion": "È il tasso che misura la probabilità di morire in ciascun intervallo di età.",
+    "options": [
+      "La sopravvivenza lx, spesso su scala logaritmica",
+      "Il tasso di mortalità età-specifico qx",
+      "La speranza di vita età-specifica ex"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una curva di mortalità riporta i tassi di mortalità qx in funzione dell'età. La sopravvivenza lx caratterizza invece le curve di sopravvivenza, mentre ex è la speranza di vita, non rappresentata in questi grafici.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-mortalita-fasi-031",
+    "topic": "conservazione",
+    "question": "Come si presenta tipicamente la curva di mortalità degli scoiattoli grigi lungo il ciclo vitale?",
+    "suggestion": "Ci sono una fase iniziale ad alto rischio e un minimo intermedio prima della ripresa senile.",
+    "options": [
+      "Mortalità elevata nella fase giovanile, poi in calo fino a un minimo, quindi di nuovo in aumento con l'età",
+      "Mortalità costante per tutta la vita, senza differenze apprezzabili tra la fase giovanile e quella adulta",
+      "Mortalità bassa nella fase giovanile, in crescita costante fino a un massimo nella vecchiaia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La curva mostra un'elevata mortalità giovanile, un calo fino a un minimo nella fase post-giovanile e un nuovo aumento con l'invecchiamento. Non è costante né monotona crescente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-curva-sopravvivenza-scala-032",
+    "topic": "conservazione",
+    "question": "Su quale scala viene tipicamente rappresentata la sopravvivenza lx in una curva di sopravvivenza?",
+    "suggestion": "Serve una scala che comprima ampi intervalli di valori numerici della sopravvivenza.",
+    "options": [
+      "Su scala logaritmica in base 10 (log10)",
+      "Su scala lineare tra 0 e 1",
+      "Su scala percentuale cumulata dei morti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sopravvivenza lx è di norma rappresentata su scala logaritmica in base 10, che rende leggibili le variazioni su più ordini di grandezza. Una scala lineare o la percentuale di morti non sono l'uso standard descritto.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-tipo-i-033",
+    "topic": "conservazione",
+    "question": "Quale andamento della mortalità descrive una curva di sopravvivenza di tipo I (fortemente convessa)?",
+    "suggestion": "Pensa a organismi che sopravvivono bene a lungo e muoiono soprattutto alla fine.",
+    "options": [
+      "Mortalità molto elevata nelle prime fasi di vita, tipica di ostriche e molti invertebrati",
+      "Tassi di sopravvivenza pressoché costanti con l'età, tipici di uccelli adulti e roditori",
+      "Sopravvivenza elevata per gran parte della vita, con mortalità concentrata verso la fine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le curve di tipo I descrivono sopravvivenza elevata lungo quasi tutta la vita e mortalità concentrata nella fase finale, come negli esseri umani e in altri mammiferi. L'alta mortalità precoce è il tipo III, la sopravvivenza costante è il tipo II.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-tipo-iii-034",
+    "topic": "conservazione",
+    "question": "Quale gruppo di organismi è tipicamente descritto da una curva di sopravvivenza di tipo III (concava)?",
+    "suggestion": "Sono specie che producono moltissima prole con altissima mortalità nelle prime fasi.",
+    "options": [
+      "Esseri umani e altri mammiferi, con mortalità concentrata verso la fine della vita",
+      "Uccelli adulti e rettili, con tassi di sopravvivenza pressoché costanti lungo tutta la vita",
+      "Ostriche, pesci e molti invertebrati, con mortalità elevatissima nelle prime fasi di vita"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le curve di tipo III, concave, descrivono un'altissima mortalità precoce e caratterizzano ostriche, pesci e molti invertebrati. I mammiferi rientrano nel tipo I e gli uccelli adulti nel tipo II.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-tipo-ii-035",
+    "topic": "conservazione",
+    "question": "Che cosa caratterizza una curva di sopravvivenza di tipo II (rettilinea)?",
+    "suggestion": "La probabilità di morire non dipende molto dall'età raggiunta.",
+    "options": [
+      "Una sopravvivenza altissima fino alla vecchiaia, con la mortalità concentrata proprio alla fine",
+      "Tassi di sopravvivenza che non variano molto con l'età, tipici di uccelli adulti e roditori",
+      "Una mortalità elevatissima nelle prime fasi, tipica di molte piante e invertebrati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le curve di tipo II, rettilinee, indicano tassi di sopravvivenza pressoché costanti con l'età, come in uccelli adulti, roditori e rettili. Sopravvivenza elevata fino alla vecchiaia è il tipo I, alta mortalità precoce il tipo III.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-modelli-idealizzati-036",
+    "topic": "conservazione",
+    "question": "Perché i tre tipi di curve di sopravvivenza sono definiti modelli idealizzati?",
+    "suggestion": "Chiediti se un singolo organismo reale deve appartenere per forza a un solo tipo puro.",
+    "options": [
+      "Perché descrivono soltanto popolazioni allevate in laboratorio e non si osservano mai in natura",
+      "Perché valgono unicamente per le popolazioni a distribuzione stabile per età",
+      "Perché molti organismi combinano componenti di più tipi in fasi diverse del ciclo vitale"
+    ],
+    "correctIndex": 2,
+    "explanation": "I tre tipi sono modelli idealizzati perché molti organismi mostrano curve che combinano tratti di più tipi nelle diverse fasi della vita. Non si limitano al laboratorio né richiedono una distribuzione stabile per età.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-belding-037",
+    "topic": "conservazione",
+    "question": "A quale scopo si prestano le curve di sopravvivenza costruite per una singola popolazione?",
+    "suggestion": "Riflettono un solo momento e ambiente, quindi si prestano a confronti tra condizioni.",
+    "options": [
+      "A confrontare periodi, luoghi o sessi diversi, come maschi e femmine di scoiattolo di Belding",
+      "A stimare in modo diretto la capacità portante dell'ambiente in cui vive la data popolazione naturale",
+      "A misurare i flussi di immigrazione ed emigrazione tra popolazioni contigue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Basandosi su una popolazione in un dato momento e ambiente, le curve permettono confronti tra periodi, luoghi o sessi: ad esempio le femmine di scoiattolo di Belding sopravvivono più a lungo dei maschi. Non servono a stimare capacità portante o flussi migratori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-crude-birthrate-038",
+    "topic": "conservazione",
+    "question": "Come si calcola il tasso di natalità grezzo di una popolazione?",
+    "suggestion": "È rapportato a un numero convenzionale di individui e a un intervallo di tempo.",
+    "options": [
+      "Dividendo le nascite dell'anno per le femmine in età riproduttiva e moltiplicando per 1000",
+      "Dividendo le nascite di un periodo per la popolazione stimata all'inizio e moltiplicando per 1000",
+      "Sommando i tassi di natalità età-specifici bx attraverso tutte le classi di età"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il tasso di natalità grezzo si ottiene dividendo le nascite del periodo per la dimensione stimata della popolazione all'inizio, moltiplicando per 1000. Non si limita alle femmine (quello è un affinamento successivo) né corrisponde alla somma dei bx.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.5"
+  },
+  {
+    "id": "cons-c09-solo-femmine-039",
+    "topic": "conservazione",
+    "question": "Perché nelle stime raffinate del tasso di natalità si considerano solo le femmine di una popolazione con dimorfismo sessuale?",
+    "suggestion": "L'incremento della popolazione dipende dal sesso che genera direttamente la prole.",
+    "options": [
+      "Perché solo le femmine partoriscono e l'incremento della popolazione è funzione del loro numero",
+      "Perché le femmine sono sempre più numerose dei maschi nelle popolazioni dimorfe",
+      "Perché i maschi hanno tassi di mortalità età-specifici troppo variabili per essere stimati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Solo le femmine partoriscono, quindi l'incremento della popolazione è funzione del numero di femmine: per questo la stima si affina considerandole separatamente. La maggiore numerosità o la variabilità della mortalità maschile non sono la ragione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-bx-040",
+    "topic": "conservazione",
+    "question": "Che cosa misura il tasso di natalità età-specifico bx?",
+    "suggestion": "È un conteggio medio di prole, ristretto a un solo sesso della discendenza.",
+    "options": [
+      "Il numero totale di nascite ogni 1000 individui della popolazione in un anno",
+      "Il numero medio di figlie femmine nate da ciascuna femmina di un determinato gruppo di età",
+      "Il numero medio di figlie femmine prodotte da una femmina neonata nel corso della vita"
+    ],
+    "correctIndex": 1,
+    "explanation": "bx è il numero medio di figlie femmine nate da ciascuna femmina in una data classe di età. Le nascite ogni 1000 individui sono il tasso grezzo, mentre il numero di figlie prodotte nell'intera vita corretto per la sopravvivenza è R0.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-gross-rate-041",
+    "topic": "conservazione",
+    "question": "Come si ottiene il tasso lordo di riproduzione a partire dai valori di bx?",
+    "suggestion": "Aggrega il contributo riproduttivo di tutte le classi di età, senza correggerlo.",
+    "options": [
+      "Sommando i valori di bx attraverso tutte le classi di età, senza correzione per la mortalità",
+      "Sommando i prodotti lxbx attraverso tutte le classi di età, con correzione per la sopravvivenza",
+      "Moltiplicando il valore massimo di bx per il numero totale di classi di età"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tasso lordo di riproduzione è la somma dei bx su tutte le classi, cioè il numero medio di figlie femmine se la femmina sopravvive fino all'età massima. La somma dei prodotti lxbx dà invece il tasso netto R0.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-fecundity-table-042",
+    "topic": "conservazione",
+    "question": "In che cosa una tavola di fecondità differisce da una semplice tabella dei tassi di natalità età-specifici?",
+    "suggestion": "Aggiunge una colonna presa dalla tavola di vita per correggere la fertilità.",
+    "options": [
+      "Utilizza anche la colonna della sopravvivenza lx, oltre ai valori di bx",
+      "Sostituisce i valori di bx con i tassi di mortalità età-specifici qx",
+      "Considera anche i flussi di immigrazione ed emigrazione delle femmine"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tavola di fecondità aggiunge la colonna della sopravvivenza lx a quella dei bx, così da correggere la fertilità per la mortalità. Non sostituisce bx con qx né introduce i flussi migratori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-lxbx-043",
+    "topic": "conservazione",
+    "question": "Che cosa rappresenta il prodotto lxbx in una tavola di fecondità?",
+    "suggestion": "È il contributo riproduttivo di una classe, 'scontato' della probabilità di arrivarci vivi.",
+    "options": [
+      "Il numero totale di figlie femmine che una femmina produrrebbe sopravvivendo fino alla massima età possibile",
+      "La proporzione di coorte iniziale ancora viva all'inizio di una determinata classe di età",
+      "Il numero di figlie femmine di una classe corretto per la probabilità di sopravvivere fino a quell'età"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moltiplicando bx per lx si corregge il numero medio di figlie femmine di una classe per la sopravvivenza fino a quell'età. Il numero di figlie senza correzione è il tasso lordo; la sola sopravvivenza è lx.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-r0-fill-044",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il numero medio di figlie femmine prodotte da una femmina neonata nel corso della propria vita è detto tasso netto di ___.",
+    "answers": [
+      [
+        "riproduzione",
+        "reproduction"
+      ]
+    ],
+    "suggestion": "Si ottiene sommando i valori lxbx su tutte le classi di età e si indica con R0.",
+    "explanation": "Il tasso netto di riproduzione (R0 = Σlxbx) è il numero medio di figlie femmine prodotte da una femmina neonata nell'intera vita, corretto per la sopravvivenza età-specifica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-r0-soglia-045",
+    "topic": "conservazione",
+    "question": "Che cosa indica un tasso netto di riproduzione R0 > 1,0 per il futuro di una popolazione?",
+    "suggestion": "Confronta quante figlie sostituiscono in media ciascuna femmina.",
+    "options": [
+      "Che in media ogni femmina produce esattamente una figlia e la popolazione è stabile",
+      "Che in media ogni femmina produce più di una figlia e la popolazione è in crescita",
+      "Che in media ogni femmina produce meno di una figlia e la popolazione è in declino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con R0 > 1,0 ogni femmina lascia in media più di una figlia, quindi la popolazione cresce. R0 = 1,0 corrisponde alla stabilità (una figlia per femmina) e R0 < 1,0 al declino.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-gross-vs-net-046",
+    "topic": "conservazione",
+    "question": "Perché negli scoiattoli grigi il tasso lordo di riproduzione è 10 mentre il tasso netto R0 è solo 1,4?",
+    "suggestion": "Il tasso lordo presuppone la sopravvivenza fino all'età massima; il netto la corregge per la realtà.",
+    "options": [
+      "Perché il tasso lordo conta anche i figli maschi, mentre il netto considera solo le figlie femmine",
+      "Perché pochissime femmine sopravvivono fino a cinque anni per realizzare le 10 figlie previste dal tasso lordo",
+      "Perché il tasso netto include l'emigrazione delle femmine, che riduce sensibilmente il numero di figlie prodotte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il tasso lordo assume che la femmina viva fino all'età massima; correggendo per la sopravvivenza (lx), poiché pochissime femmine raggiungono i cinque anni, il tasso netto scende a 1,4. Entrambi i tassi contano solo figlie femmine e non riguardano l'emigrazione.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-r0-lifehistory-047",
+    "topic": "conservazione",
+    "question": "Di quali caratteristiche del ciclo vitale è espressione il valore di R0?",
+    "suggestion": "Pensa alle scelte di allocazione e di tempistica riproduttiva di un individuo.",
+    "options": [
+      "Della capacità portante dell'ambiente e della densità della popolazione registrata al momento del censimento",
+      "Dei soli tassi di immigrazione ed emigrazione che regolano una popolazione aperta",
+      "Dell'allocazione delle risorse alla riproduzione, del momento della riproduzione e delle cure parentali"
+    ],
+    "correctIndex": 2,
+    "explanation": "R0 è il prodotto delle caratteristiche del ciclo vitale: allocazione delle risorse alla riproduzione, tempistica, trade-off tra dimensione e numero della prole e cure parentali. Non deriva dalla capacità portante né dai flussi migratori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-sx-048",
+    "topic": "conservazione",
+    "question": "Come si ricava la sopravvivenza età-specifica sx usata nelle tavole di proiezione?",
+    "suggestion": "È il complemento del tasso che misura la probabilità di morire nell'intervallo.",
+    "options": [
+      "Come 1 meno il tasso di mortalità età-specifico: sx = 1 − qx",
+      "Come il rapporto tra i vivi all'età x e la coorte iniziale: sx = nx/n0",
+      "Come il prodotto tra sopravvivenza e natalità età-specifica: sx = lxbx"
+    ],
+    "correctIndex": 0,
+    "explanation": "sx = 1 − qx è la proporzione che sopravvive fino alla classe successiva, complemento del tasso di mortalità qx. nx/n0 è la sopravvivenza lx e lxbx è il termine della tavola di fecondità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-solo-femmine-proiezione-049",
+    "topic": "conservazione",
+    "question": "Perché nella costruzione di una tavola di proiezione della popolazione si seguono unicamente le femmine?",
+    "suggestion": "Si tratta della componente che determina direttamente il reclutamento di nuovi individui.",
+    "options": [
+      "Perché costituiscono l'unità riproduttiva della popolazione, assumendo qx valido per entrambi i sessi",
+      "Perché i maschi presentano una sopravvivenza età-specifica troppo elevata e variabile per essere proiettata",
+      "Perché solo le femmine possono immigrare ed emigrare tra popolazioni contigue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le femmine sono l'unità riproduttiva, quindi si segue solo la loro dinamica assumendo che i tassi qx della tavola di vita valgano anche per i maschi. La sopravvivenza maschile non è il motivo, e i flussi migratori non entrano in questa assunzione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.6-7"
+  },
+  {
+    "id": "cons-c09-reclutamento-fill-050",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'ingresso di nuovi individui nella classe di età 0, calcolato moltiplicando gli individui di ciascuna classe per il rispettivo tasso di natalità, è detto ___.",
+    "answers": [
+      [
+        "reclutamento",
+        "recruitment"
+      ]
+    ],
+    "suggestion": "È il termine che indica l'aggiunta di nuovi nati alla popolazione nell'anno considerato.",
+    "explanation": "Il reclutamento (recruitment) è l'ingresso di nuovi individui nella classe di età 0, ottenuto moltiplicando gli individui di ciascuna classe riproduttiva per il rispettivo bx.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.6"
+  },
+  {
+    "id": "cons-c09-proiezione-sx-051",
+    "topic": "conservazione",
+    "question": "Nella proiezione di 20 individui in classe 0 con s0 = 0,30, quanti sopravvivono fino all'anno successivo e perché?",
+    "suggestion": "Applica la proporzione di sopravvissuti al numero di individui presenti nella classe.",
+    "options": [
+      "14 individui, perché sopravvive la frazione 1 − s0 = 0,70 della classe",
+      "26 individui, perché s0 aggiunge nuovi nati al numero iniziale della classe",
+      "6 individui, perché sopravvive la frazione s0 = 0,30 della classe: 20 × 0,30"
+    ],
+    "correctIndex": 2,
+    "explanation": "sx è la proporzione che sopravvive alla classe successiva: 20 × 0,30 = 6 individui. La frazione 1 − s0 è quella che muore, e sx non aggiunge nuovi nati, che dipendono invece dal reclutamento.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-dimensione-classi-052",
+    "topic": "conservazione",
+    "question": "Perché per pesci o piante perenni può essere necessario un approccio basato su classi dimensionali anziché di età?",
+    "suggestion": "Considera che cosa succede quando la taglia di un individuo non aumenta soltanto ma può anche ridursi.",
+    "options": [
+      "Perché in questi organismi la dimensione può sia aumentare sia diminuire nel tempo",
+      "Perché in questi organismi l'età non è mai correlata alla sopravvivenza né alla fecondità",
+      "Perché in questi organismi le generazioni non si sovrappongono mai tra loro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se la dimensione aumenta in modo continuo si può ancora usare l'età, ma quando la taglia può sia crescere sia diminuire serve un approccio per classi dimensionali. Non è vero che l'età sia del tutto scorrelata, né che le generazioni non si sovrappongano.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-stable-age-053",
+    "topic": "conservazione",
+    "question": "Che cosa si intende per distribuzione stabile per età di una popolazione?",
+    "suggestion": "Riguarda la proporzione di individui in ciascuna classe, non il numero totale di individui.",
+    "options": [
+      "Una condizione in cui la dimensione totale della popolazione smette di variare nel tempo",
+      "Una condizione in cui la proporzione di individui in ciascuna classe di età rimane costante",
+      "Una condizione in cui ogni classe di età contiene lo stesso numero di individui"
+    ],
+    "correctIndex": 1,
+    "explanation": "La distribuzione stabile per età è raggiunta quando la proporzione di individui in ciascuna classe rimane costante, anche se la popolazione continua a crescere o decrescere. Non implica una dimensione totale costante né classi tutte ugualmente numerose.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-lambda-fill-054",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il rapporto N(t+1)/N(t) che stima la crescita di una popolazione proiettata a intervalli discreti è detto tasso finito di ___.",
+    "answers": [
+      [
+        "moltiplicazione",
+        "moltiplicazione (lambda)",
+        "multiplication"
+      ]
+    ],
+    "suggestion": "Si indica con la lettera greca λ e diventa costante quando la struttura per età si stabilizza.",
+    "explanation": "Il tasso finito di moltiplicazione λ = N(t+1)/N(t) misura la crescita di una popolazione a intervalli discreti; diventa costante una volta raggiunta la distribuzione stabile per età.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-lambda-costante-055",
+    "topic": "conservazione",
+    "question": "Perché nella tavola di proiezione il valore di λ inizialmente varia da un anno all'altro per poi stabilizzarsi?",
+    "suggestion": "Collega la costanza di λ al momento in cui le proporzioni delle classi di età smettono di cambiare.",
+    "options": [
+      "Perché λ diventa costante solo quando la popolazione raggiunge la distribuzione stabile per età",
+      "Perché λ si stabilizza solo quando la popolazione arriva alla capacità portante dell'ambiente",
+      "Perché λ varia finché immigrazione ed emigrazione non si compensano esattamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Finché la struttura per età cambia, il moltiplicatore λ oscilla; una volta raggiunta la distribuzione stabile per età, le proporzioni restano costanti e λ diventa costante. Non dipende dalla capacità portante né dal bilancio migratorio.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-lambda-soglia-056",
+    "topic": "conservazione",
+    "question": "Che cosa indica un tasso finito di moltiplicazione λ < 1,0?",
+    "suggestion": "Confronta la dimensione della popolazione in due anni consecutivi.",
+    "options": [
+      "Che la popolazione è in declino, perché ogni anno risulta più piccola del precedente",
+      "Che la dimensione della popolazione rimane costante da un anno all'altro",
+      "Che la popolazione è in crescita, perché ogni anno risulta più grande del precedente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Poiché λ = N(t+1)/N(t), un valore inferiore a 1 significa che ogni anno la popolazione è più piccola del precedente, quindi in declino. λ = 1 indica stabilità e λ > 1 crescita.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-proiezione-lambda-057",
+    "topic": "conservazione",
+    "question": "Con quale equazione si proietta la dimensione di una popolazione a un anno futuro usando un λ costante?",
+    "suggestion": "È l'analogo discreto della crescita esponenziale, con λ al posto di e^r.",
+    "options": [
+      "N(t) = N(0) + λt, sommando il moltiplicatore per ciascun intervallo di tempo",
+      "N(t) = N(0)λ^t, elevando il moltiplicatore alla potenza del numero di intervalli",
+      "N(t) = N(0)e^λt, trattando λ come un tasso istantaneo continuo"
+    ],
+    "correctIndex": 1,
+    "explanation": "A intervalli discreti la proiezione è N(t) = N(0)λ^t, con λ elevato alla potenza t. La forma additiva non è corretta, e l'esponenziale e^λt confonde il modello continuo con il moltiplicatore discreto.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-lambda-r-058",
+    "topic": "conservazione",
+    "question": "Qual è la relazione tra il tasso finito di moltiplicazione λ e il tasso intrinseco r?",
+    "suggestion": "Nasce dal confronto tra l'equazione geometrica e quella esponenziale della crescita.",
+    "options": [
+      "λ = e^r, ovvero in modo equivalente r = ln(λ)",
+      "λ = r − 1, ovvero in modo equivalente r = λ + 1",
+      "λ = ln(r), ovvero in modo equivalente r = e^λ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Confrontando N(0)λ^t con N(0)e^rt si ottiene λ = e^r, cioè r = ln(λ). Le altre relazioni non rispettano il legame esponenziale-logaritmico tra i due parametri.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-r-lnlambda-significato-059",
+    "topic": "conservazione",
+    "question": "Con λ = 1,2 si ricava r = ln(1,2) = 0,18: che cosa dice questo valore sulla popolazione di scoiattoli grigi?",
+    "suggestion": "Guarda il segno di r ottenuto e ricorda che cosa distingue crescita, stabilità e declino.",
+    "options": [
+      "Che la popolazione è stabile, perché il valore di r risulta molto prossimo a zero",
+      "Che la popolazione è in declino, perché r è inferiore a λ = 1,2",
+      "Che la popolazione è in crescita, perché r risulta positivo (maggiore di zero)"
+    ],
+    "correctIndex": 2,
+    "explanation": "r = ln(1,2) = 0,18 è positivo, quindi la popolazione cresce (coerente con λ > 1). Il valore non è prossimo a zero, e confrontare r con λ non ha senso perché appartengono a scale diverse (continua vs discreta).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  },
+  {
+    "id": "cons-c09-assunzione-tassi-costanti-060",
+    "topic": "conservazione",
+    "question": "Su quale assunzione fondamentale si basa la stima di r a partire da λ nelle tavole di proiezione?",
+    "suggestion": "Non richiede individui identici, ma qualcosa di costante nel tempo.",
+    "options": [
+      "Che tutti gli individui della popolazione siano identici tra loro per natalità e mortalità",
+      "Che i tassi di natalità e mortalità età-specifici restino costanti nel tempo, con distribuzione stabile per età",
+      "Che la popolazione si trovi sempre a densità molto bassa rispetto alla capacità portante dell'ambiente circostante"
+    ],
+    "correctIndex": 1,
+    "explanation": "La stima non presuppone individui identici, ma che i tassi età-specifici di natalità e mortalità restino costanti nel tempo, condizione realizzata con la distribuzione stabile per età. La bassa densità non è un requisito di questa stima.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.7"
+  }
+]

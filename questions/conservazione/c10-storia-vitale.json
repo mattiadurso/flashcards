@@ -1,0 +1,446 @@
+[
+  {
+    "id": "cons-c10-fastslow-001",
+    "topic": "conservazione",
+    "question": "Su quale forza selettiva pone l'accento l'ipotesi del continuum fast-slow nel descrivere i tratti del ciclo vitale?",
+    "suggestion": "Il modello ordina le specie lungo un gradiente legato a un solo tipo di rischio nelle diverse fasi della vita.",
+    "options": [
+      "Sulla mortalità degli adulti, da elevata a ridotta",
+      "Sulla disponibilità di risorse alimentari nell'habitat",
+      "Sulla pressione dei parassiti durante lo sviluppo giovanile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il continuum fast-slow distingue le specie in base al livello di mortalità degli adulti, da elevata (polo fast) a ridotta (polo slow), attorno a cui covariano gli altri tratti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-fastslow-002",
+    "topic": "conservazione",
+    "question": "Quale combinazione di tratti caratterizza il polo 'fast' del continuum fast-slow?",
+    "suggestion": "Una vita esposta a forte mortalità da adulti conviene sia breve e riproduttivamente intensa.",
+    "options": [
+      "Vita lunga, sviluppo lento, maturità tardiva e bassa fecondità",
+      "Vita breve, sviluppo rapido, maturità precoce e alta fecondità",
+      "Vita breve, sviluppo lento, maturità tardiva e alta fecondità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con elevata mortalità degli adulti (polo fast) l'organismo tende a vivere poco, svilupparsi in fretta, maturare presto e avere fecondità elevata, così da riprodursi prima di morire.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-fastslow-003",
+    "topic": "conservazione",
+    "question": "Perché una specie con bassa mortalità degli adulti tende a evolvere maturità tardiva e fecondità ridotta?",
+    "suggestion": "Se le probabilità di sopravvivere da adulti sono alte, non c'è pressione a riprodursi tutto e subito.",
+    "options": [
+      "Perché la bassa mortalità impone comunque un elevato numero di prole per compensare",
+      "Perché la maggiore sopravvivenza rende conveniente distribuire la riproduzione su una vita lunga",
+      "Perché lo sviluppo rapido è impossibile nelle specie di grande taglia come i grandi mammiferi longevi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il polo slow del continuum: bassa mortalità degli adulti significa vita lunga, quindi conviene maturare tardi e riprodursi poco alla volta lungo molti anni anziché tutto subito.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-fastslow-fill-004",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il modello che ordina le specie lungo un gradiente di mortalità degli adulti è detto ipotesi del continuum ___.",
+    "answers": [
+      ["fast-slow", "fast slow", "fastslow", "veloce-lento"]
+    ],
+    "suggestion": "Il nome inglese unisce con un trattino i due poli, veloce e lento.",
+    "explanation": "L'ipotesi del continuum fast-slow descrive la covariazione dei tratti del ciclo vitale lungo un gradiente di mortalità degli adulti.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-rk-005",
+    "topic": "conservazione",
+    "question": "Nel modello di crescita logistica, che cosa indica il parametro r della teoria della selezione r e K?",
+    "suggestion": "È la grandezza che misura quanto velocemente cresce la popolazione, rapportata a ciascun individuo.",
+    "options": [
+      "Il numero massimo di individui che l'ambiente può sostenere",
+      "Il tasso di accrescimento pro capite della popolazione",
+      "La proporzione di prole che sopravvive fino alla maturità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel modello logistico r è il tasso di accrescimento pro capite; K, invece, è la capacità portante. La selezione r favorisce chi massimizza r.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-rk-fill-006",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Nel modello logistico, il numero massimo di individui che un ambiente può sostenere indefinitamente è detto capacità ___.",
+    "answers": [
+      ["portante"]
+    ],
+    "suggestion": "È il parametro indicato con la lettera K, il tetto che l'ambiente può 'reggere'.",
+    "explanation": "La capacità portante (carrying capacity), simbolo K, è il numero massimo di individui sostenibile in modo indefinito da un dato ambiente.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-rk-007",
+    "topic": "conservazione",
+    "question": "Su quale distinzione ambientale si fonda la teoria della selezione r e K?",
+    "suggestion": "Pensa a quanto un habitat cambia nel tempo e quanto a lungo dura.",
+    "options": [
+      "Habitat costantemente ricchi di risorse contro habitat cronicamente poveri di risorse",
+      "Habitat delle regioni tropicali contro habitat delle regioni temperate",
+      "Habitat variabili e di breve durata contro habitat stabili e di lunga durata"
+    ],
+    "correctIndex": 2,
+    "explanation": "La teoria r/K classifica gli ambienti in base alla loro variabilità temporale: variabili e di breve durata (selezione r) contro stabili e di lunga durata (selezione K).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-rk-008",
+    "topic": "conservazione",
+    "question": "Quale insieme di tratti è tipico delle specie r-strateghe?",
+    "suggestion": "Sono organismi 'usa e getta': tanti figli in fretta, poca cura per ciascuno.",
+    "options": [
+      "Vita breve, sviluppo rapido, prole numerosa e cure parentali minime",
+      "Vita lunga, sviluppo lento, prole scarsa e cure parentali sviluppate",
+      "Vita breve, sviluppo lento, prole scarsa e cure parentali sviluppate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le r-strateghe massimizzano r: durata di vita breve, sviluppo rapido, molte prole con bassa sopravvivenza individuale e cure parentali minime.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-rk-009",
+    "topic": "conservazione",
+    "question": "Quale insieme di tratti è tipico delle specie K-strateghe?",
+    "suggestion": "Sono organismi che investono molto in pochi figli, restando vicino al tetto ambientale.",
+    "options": [
+      "Vita breve, sviluppo rapido, prole numerosa e cure parentali minime",
+      "Vita lunga, sviluppo lento, prole scarsa e cure parentali sviluppate",
+      "Vita lunga, sviluppo rapido, prole numerosa e cure parentali minime"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le K-strateghe mantengono la popolazione presso la capacità portante: vita lunga, sviluppo lento, poche prole con alta sopravvivenza e cure parentali sviluppate.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-rk-010",
+    "topic": "conservazione",
+    "question": "In quale tipo di ambiente prosperano tipicamente le specie r-strateghe?",
+    "suggestion": "Collega la strategia 'tanti figli in fretta' alla prevedibilità dell'habitat.",
+    "options": [
+      "In ambienti stabili e prevedibili, sfruttati costantemente in modo efficiente",
+      "In ambienti instabili o imprevedibili, privi di competizione significativa",
+      "In ambienti stabili ma segnati da forte competizione tra le specie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le r-strateghe vivono in ambienti instabili o imprevedibili e sfruttano situazioni prive di competizione significativa; sono le K-strateghe a dominare gli ambienti stabili.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-rk-011",
+    "topic": "conservazione",
+    "question": "Perché le specie K-strateghe possono permettersi di produrre poche prole?",
+    "suggestion": "In un ambiente stabile il vantaggio sta nella qualità dell'investimento, non nella quantità.",
+    "options": [
+      "Perché l'ambiente instabile e imprevedibile elimina comunque gran parte delle prole prima della maturità",
+      "Perché le cure parentali e la stabilità dell'ambiente garantiscono alta sopravvivenza individuale",
+      "Perché il loro sviluppo rapido compensa il basso numero di prole"
+    ],
+    "correctIndex": 1,
+    "explanation": "In ambiente stabile e con cure parentali sviluppate ogni figlio ha elevata probabilità di sopravvivere, quindi poche prole ben curate bastano a mantenere la popolazione presso K.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-rk-012",
+    "topic": "conservazione",
+    "question": "Perché i modelli r e K risultano più utili quando si confrontano organismi tassonomicamente o funzionalmente simili?",
+    "suggestion": "Sono strategie relative: hanno senso come confronto, non come etichette assolute.",
+    "options": [
+      "Perché r e K assumono valori validi solo entro la stessa specie",
+      "Perché soltanto organismi simili tra loro condividono la medesima capacità portante ambientale",
+      "Perché la contrapposizione tra strategie emerge come confronto relativo tra forme affini"
+    ],
+    "correctIndex": 2,
+    "explanation": "r e K descrivono strategie relative: la distinzione tra r-strateghe e K-strateghe è informativa soprattutto confrontando organismi simili tra loro, non specie molto diverse.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.8"
+  },
+  {
+    "id": "cons-c10-grime-013",
+    "topic": "conservazione",
+    "question": "Su quali due categorie ambientali fondamentali Grime basa la sua classificazione delle strategie vegetali?",
+    "suggestion": "Una limita la crescita, l'altra distrugge la biomassa già prodotta.",
+    "options": [
+      "Lo stress e il disturbo",
+      "La luce e la temperatura",
+      "La competizione e la predazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grime elabora la sua classificazione per le piante su due variabili: lo stress (condizioni che limitano crescita e produttività) e il disturbo (distruzione della biomassa).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-014",
+    "topic": "conservazione",
+    "question": "Come viene definito lo 'stress' nello schema di Grime?",
+    "suggestion": "Non è un danno alla biomassa esistente, ma qualcosa che frena la produzione di nuova biomassa.",
+    "options": [
+      "La distruzione parziale o totale della biomassa vegetale già prodotta dalla pianta",
+      "L'insieme delle condizioni che limitano la crescita e la produttività vegetale",
+      "La competizione diretta per lo spazio e per la luce tra piante vicine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nello schema di Grime lo stress è l'insieme delle condizioni che limitano crescita e produttività (carenza di luce, acqua, nutrienti, basse temperature); la distruzione della biomassa è invece il disturbo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-fill-015",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Nello schema di Grime, la distruzione parziale o totale della biomassa vegetale causata da erbivori, patogeni o eventi catastrofici è detta ___.",
+    "answers": [
+      ["disturbo"]
+    ],
+    "suggestion": "È l'altra variabile accanto allo stress, e riguarda ciò che rimuove la biomassa già prodotta.",
+    "explanation": "Il disturbo (disturbance) è la distruzione, parziale o totale, della biomassa vegetale, dovuta a erbivori, patogeni o eventi naturali come vento, incendi e alluvioni.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-016",
+    "topic": "conservazione",
+    "question": "Secondo lo schema di Grime, quale combinazione di condizioni non consente a nessuna pianta di vivere?",
+    "suggestion": "Quando l'ambiente frena la crescita e allo stesso tempo distrugge di continuo ciò che cresce, non resta margine.",
+    "options": [
+      "Disturbo elevato combinato con stress elevato",
+      "Disturbo ridotto combinato con stress elevato",
+      "Disturbo elevato combinato con stress ridotto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grime osserva che nessuna pianta sopravvive con disturbo elevato e stress elevato insieme: le tre strategie vitali occupano solo le altre tre combinazioni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-017",
+    "topic": "conservazione",
+    "question": "In quali condizioni di stress e disturbo vivono le piante ruderali (R) nello schema di Grime?",
+    "suggestion": "Le ruderali colonizzano ambienti frequentemente sconvolti ma non poveri di risorse.",
+    "options": [
+      "Disturbo ridotto e stress elevato",
+      "Disturbo ridotto e stress ridotto",
+      "Disturbo elevato e stress ridotto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le piante ruderali vivono dove il disturbo è elevato ma lo stress è ridotto: ambienti spesso perturbati ma non poveri di risorse, in cui è vantaggioso ricrescere in fretta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-018",
+    "topic": "conservazione",
+    "question": "In quali condizioni di stress e disturbo vivono le piante competitive (C) nello schema di Grime?",
+    "suggestion": "La competizione vince quando nulla frena la crescita e nulla distrugge la biomassa.",
+    "options": [
+      "Disturbo ridotto e stress ridotto",
+      "Disturbo elevato e stress ridotto",
+      "Disturbo ridotto e stress elevato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le piante competitive dominano dove sia il disturbo sia lo stress sono ridotti: in condizioni favorevoli e stabili vince chi compete meglio per luce, acqua e nutrienti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-019",
+    "topic": "conservazione",
+    "question": "In quali condizioni di stress e disturbo vivono le piante tolleranti allo stress (S) nello schema di Grime?",
+    "suggestion": "Sopravvivono dove le risorse scarseggiano ma la biomassa non viene distrutta di continuo.",
+    "options": [
+      "Disturbo elevato e stress ridotto",
+      "Disturbo ridotto e stress elevato",
+      "Disturbo elevato e stress elevato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le piante tolleranti allo stress vivono dove il disturbo è ridotto ma lo stress è elevato: ambienti poveri di risorse ma stabili, in cui conta resistere più che crescere in fretta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-020",
+    "topic": "conservazione",
+    "question": "Quale forma geometrica assume lo schema classificativo di Grime e a cosa serve?",
+    "suggestion": "Le tre strategie stanno ai vertici, e ciò che sta in mezzo rappresenta i casi intermedi.",
+    "options": [
+      "Un asse lineare che ordina le tre strategie lungo un gradiente continuo da R a S",
+      "Un sistema triangolare con R, C, S ai vertici, per collocare anche le strategie intermedie",
+      "Un diagramma circolare che alterna le tre strategie senza prevedere posizioni intermedie tra esse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo schema di Grime è triangolare: R, C e S occupano i vertici e le piante con strategie intermedie si collocano lungo i lati o all'interno del triangolo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-021",
+    "topic": "conservazione",
+    "question": "Lungo quale continuum del triangolo di Grime si collocano prevalentemente alberi e arbusti?",
+    "suggestion": "Sono piante longeve, poco soggette a disturbo ma spesso in condizioni di risorse limitanti.",
+    "options": [
+      "Lungo il continuum tra le strategie R e S",
+      "Lungo il continuum tra le strategie R e C",
+      "Lungo il continuum tra le strategie S e C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alberi e arbusti si collocano prevalentemente lungo il continuum tra le strategie tolleranti allo stress (S) e competitive (C).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-grime-022",
+    "topic": "conservazione",
+    "question": "Lungo quale continuum del triangolo di Grime si collocano le erbe bienni?",
+    "suggestion": "Sono piante a ciclo breve, associate ad ambienti perturbati e talvolta poveri di risorse.",
+    "options": [
+      "Lungo il continuum tra le strategie R e S",
+      "Lungo il continuum tra le strategie S e C",
+      "Lungo il continuum tra le strategie R e C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le erbe bienni si collocano lungo il continuum tra le strategie ruderali (R) e tolleranti allo stress (S).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-023",
+    "topic": "conservazione",
+    "question": "Perché la crescita della popolazione umana è considerata un caso di studio particolare pur essendo esponenziale?",
+    "suggestion": "A differenza di altre specie, sulla nostra demografia agiscono forze che non sono solo biologiche.",
+    "options": [
+      "Perché è influenzata in modo determinante da fattori tecnologici e culturali",
+      "Perché non segue affatto un andamento esponenziale nel tempo",
+      "Perché è regolata unicamente dalla capacità portante degli ecosistemi naturali"
+    ],
+    "correctIndex": 0,
+    "explanation": "La crescita umana è esponenziale, ma è modellata in modo determinante da fattori tecnologici, sanitari e culturali, il che la rende un caso di studio a sé.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-024",
+    "topic": "conservazione",
+    "question": "In quante fasi distinte viene suddiviso l'andamento della popolazione umana dal 1800 in poi, e con quale profilo?",
+    "suggestion": "Una fase lenta iniziale, una di esplosione, una di rallentamento recente.",
+    "options": [
+      "Due fasi: crescita lenta seguita da crescita esponenziale continua",
+      "Tre fasi: crescita lenta, rapida crescita esponenziale, poi rallentamento",
+      "Tre fasi: rapida crescita, stabilità prolungata, poi declino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dal 1800 al 2080 si distinguono tre fasi: la Fase 1 di crescita lenta e costante, la Fase 2 di rapida crescita esponenziale (dal ~1900) e la Fase 3 di rallentamento (dal ~2000).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-025",
+    "topic": "conservazione",
+    "question": "Perché durante la Fase 1 il tasso di crescita complessivo della popolazione umana restava molto basso?",
+    "suggestion": "Due tassi opposti ma entrambi elevati tendono a bilanciarsi.",
+    "options": [
+      "Perché la natalità era bassa mentre la mortalità era altissima",
+      "Perché sia la natalità sia la mortalità erano elevate e quasi si compensavano",
+      "Perché la natalità era altissima ma la popolazione emigrava in massa verso altri territori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella Fase 1 tassi elevati sia di natalità sia di mortalità si compensavano, mantenendo la crescita netta bassa (inferiore allo 0,05%).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-026",
+    "topic": "conservazione",
+    "question": "Quale fattore contribuiva all'elevata mortalità della Fase 1 della crescita umana?",
+    "suggestion": "Pensa a un dato drammatico che riguardava i primissimi anni di vita.",
+    "options": [
+      "Una mortalità infantile che poteva raggiungere il 50 percento",
+      "Un tasso di natalità inferiore allo 0,05 percento",
+      "Una capacità portante fortemente ridotta dai fattori tecnologici disponibili"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Fase 1 era segnata da scarsa conoscenza delle malattie, condizioni igienico-sanitarie inadeguate, scarsità di cibo e una mortalità infantile che poteva arrivare al 50%.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-027",
+    "topic": "conservazione",
+    "question": "Quale caratteristica distingue la Fase 2 della crescita della popolazione umana rispetto alla Fase 1?",
+    "suggestion": "È la fase in cui, intorno all'inizio del Novecento, la curva si impenna.",
+    "options": [
+      "Un rallentamento della crescita iniziato intorno al 2000",
+      "Una crescita lenta e costante come nei secoli precedenti",
+      "Una rapida crescita esponenziale avviatasi intorno al 1900"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Fase 2 è caratterizzata da una rapida crescita esponenziale avviatasi intorno al 1900, in contrasto con la crescita lenta e costante della Fase 1.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-028",
+    "topic": "conservazione",
+    "question": "Che cosa contraddistingue la Fase 3 della crescita della popolazione umana?",
+    "suggestion": "È la fase più recente, iniziata a cavallo del nuovo millennio.",
+    "options": [
+      "Un rallentamento del tasso di crescita iniziato intorno al 2000",
+      "Una rapida crescita esponenziale avviatasi intorno al 1900",
+      "Una crescita lenta e costante mantenuta dal 1800"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Fase 3 è contraddistinta da un rallentamento del tasso di crescita della popolazione, iniziato intorno al 2000.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-029",
+    "topic": "conservazione",
+    "question": "Circa 10.000 anni fa quale era la dimensione stimata della popolazione umana globale?",
+    "suggestion": "Un valore dell'ordine dei milioni, enormemente inferiore ai miliardi attuali.",
+    "options": [
+      "Circa 5 milioni di individui",
+      "Circa 1 miliardo di individui",
+      "Circa 500 milioni di individui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Circa 10.000 anni fa la popolazione umana globale era stimata in circa 5 milioni di individui, contro il miliardo raggiunto solo intorno al 1800.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  },
+  {
+    "id": "cons-c10-umana-030",
+    "topic": "conservazione",
+    "question": "Che cosa suggerisce il fatto che si sia passati dal primo miliardo (1800) al secondo (1930) e poi al terzo (1960)?",
+    "suggestion": "Confronta la durata degli intervalli fra un miliardo e il successivo.",
+    "options": [
+      "Che il tempo per aggiungere un miliardo restava costante nel tempo",
+      "Che il tempo per aggiungere un miliardo si accorciava progressivamente",
+      "Che ogni nuovo miliardo richiedeva un intervallo sempre più lungo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dal primo al secondo miliardo passarono circa 130 anni (1800-1930), dal secondo al terzo solo 30 (1930-1960): gli intervalli si accorciano, segno dell'accelerazione esponenziale della Fase 2.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.9"
+  }
+]

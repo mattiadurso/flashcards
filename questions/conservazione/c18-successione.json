@@ -1,0 +1,601 @@
+[
+  {
+    "id": "cons-c18-def-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il cambiamento temporale della struttura di una comunità in una determinata località è detto ___.",
+    "answers": [["successione", "succession"]],
+    "suggestion": "È il processo generale di cui sere e stadi seriali sono le tappe.",
+    "explanation": "La successione è definita come il cambiamento nel tempo della struttura di una comunità in una data località.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-struttura-001",
+    "topic": "conservazione",
+    "question": "Perché in un terreno agricolo abbandonato le graminacee e le erbacee infestanti compaiono prima degli arbusti e delle conifere?",
+    "suggestion": "Pensa a quali specie sanno raggiungere e colonizzare per prime un terreno appena liberato.",
+    "options": [
+      "Perché sono specie pioniere a crescita rapida ed elevata capacità di dispersione",
+      "Perché sono specie tardive con lunga vita e lenta capacità di colonizzazione",
+      "Perché necessitano di una volta forestale già chiusa e ombrosa per potersi insediare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erbacee e infestanti sono specie pioniere: crescono in fretta e si disperdono bene, così colonizzano per prime, prima che arbusti e conifere le sostituiscano.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-seral-001",
+    "topic": "conservazione",
+    "question": "Cosa rappresenta uno stadio seriale (seral stage) nel corso della successione?",
+    "suggestion": "Ricorda che la successione è un continuum: uno stadio è una tappa lungo di esso, non il suo termine.",
+    "options": [
+      "Lo stadio terminale, stabile e del tutto immutabile verso cui converge l'intera comunità matura",
+      "Un punto lungo il continuum temporale della vegetazione, riconoscibile come comunità distinta",
+      "Una comunità priva di una propria struttura e composizione specifica riconoscibile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uno stadio seriale è un punto lungo il continuum della vegetazione nel tempo, spesso riconoscibile come comunità distinta con struttura e composizione proprie; non è lo stadio finale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-sere-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La sequenza di comunità osservata nel corso della successione, dalla fase erbacea a quella forestale, prende il nome di ___.",
+    "answers": [["sere"]],
+    "suggestion": "È il termine collettivo per l'intera sequenza; ogni sua tappa è invece uno stadio seriale.",
+    "explanation": "La sequenza di comunità che si susseguono nella successione è chiamata sere; ciascun cambiamento al suo interno è uno stadio seriale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-pioniere-001",
+    "topic": "conservazione",
+    "question": "Quali caratteristiche contraddistinguono tipicamente le specie di successione precoce, o pioniere?",
+    "suggestion": "Pensa a cosa serve per raggiungere per prime un sito vuoto e riprodursi in fretta.",
+    "options": [
+      "Lunga durata di vita, grandi dimensioni e bassa capacità di dispersione",
+      "Crescita lenta, grandi dimensioni e bassi tassi di crescita della popolazione",
+      "Elevati tassi di crescita, piccole dimensioni e forte capacità di dispersione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le specie pioniere hanno alti tassi di crescita, piccole dimensioni, elevata capacità di dispersione e colonizzazione e alti tassi di crescita pro capite: tratti opposti a quelli delle specie tardive.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-tardive-001",
+    "topic": "conservazione",
+    "question": "Rispetto alle specie pioniere, come si caratterizzano generalmente le specie di successione tardiva?",
+    "suggestion": "Arrivano dopo e restano a lungo: pensa a durata di vita e velocità di dispersione.",
+    "options": [
+      "Maggiore durata di vita, dimensioni più grandi e più bassi tassi di dispersione",
+      "Maggiore durata di vita, piccole dimensioni ed elevata capacità di dispersione",
+      "Breve durata di vita, grandi dimensioni ed elevati tassi di crescita pro capite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le specie tardive hanno vita più lunga, dimensioni maggiori, tassi di dispersione e colonizzazione più bassi e crescita pro capite ridotta, all'opposto delle pioniere.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-intertidale-001",
+    "topic": "conservazione",
+    "question": "Nello studio sulla comunità algale intertidale della California, quale ruolo ha il disturbo del moto ondoso che ribalta le rocce?",
+    "suggestion": "Un disturbo che libera superficie non azzera per forza il processo: cosa mette a disposizione?",
+    "options": [
+      "Elimina ogni possibilità di colonizzazione, azzerando del tutto la successione",
+      "Crea superfici libere colonizzabili, avviando un pattern ordinato di sostituzione",
+      "Favorisce unicamente le specie tardive, che colonizzano subito le rocce ribaltate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ribaltando le rocce, il moto ondoso crea superfici libere che le alghe colonizzano seguendo un pattern ordinato di sostituzione delle specie nel tempo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.34"
+  },
+  {
+    "id": "cons-c18-hubbard-001",
+    "topic": "conservazione",
+    "question": "Cosa accadde alla Hubbard Brook Experimental Forest dopo il disboscamento della foresta dominata da faggio e acero da zucchero?",
+    "suggestion": "Rimosso l'ombra della volta forestale, quali specie vengono avvantaggiate?",
+    "options": [
+      "Faggio e acero ricolonizzarono subito l'intera volta forestale escludendo ogni altra specie arborea",
+      "Il sito rimase del tutto privo di vegetazione erbacea e arborea per oltre cinquant'anni",
+      "Le plantule di faggio e acero declinarono, sostituite da erbacee e specie intolleranti all'ombra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dopo il taglio, le plantule di faggio e acero declinarono e furono rimpiazzate da erbacee (felci, carici, graminacee), lampone e specie arboree a crescita rapida intolleranti all'ombra.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.34-35"
+  },
+  {
+    "id": "cons-c18-hubbard-002",
+    "topic": "conservazione",
+    "question": "Dopo circa cinquant'anni dal disboscamento a Hubbard Brook, quali specie tornarono a dominare completando il ciclo successionale?",
+    "suggestion": "Il ciclo si chiude tornando alle specie che dominavano in origine la foresta matura.",
+    "options": [
+      "Il faggio e l'acero da zucchero, specie di successione tardiva",
+      "Il ciliegio tardivo e la betulla gialla, specie di successione precoce",
+      "Il lampone e le felci, tipiche specie erbacee di successione precoce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dopo circa cinquant'anni le specie precoci furono a loro volta sostituite dalle tardive, faggio e acero da zucchero, che chiusero il ciclo successionale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-primaria-def-001",
+    "topic": "conservazione",
+    "question": "Qual è la differenza fondamentale tra successione primaria e successione secondaria?",
+    "suggestion": "La chiave è se il sito ha già ospitato in passato una comunità biologica oppure no.",
+    "options": [
+      "La primaria avviene sempre dopo un disturbo, la secondaria solo su superfici di recente esposizione",
+      "La primaria su superfici mai occupate prima, la secondaria dopo un disturbo su siti già occupati",
+      "Entrambe avvengono solo su substrati di nuova esposizione mai colonizzati in precedenza"
+    ],
+    "correctIndex": 1,
+    "explanation": "La successione primaria si verifica su superfici di nuova esposizione mai occupate da una comunità; la secondaria in siti già occupati che hanno subito un disturbo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-primaria-esempi-001",
+    "topic": "conservazione",
+    "question": "Quale dei seguenti è un tipico sito soggetto a successione primaria?",
+    "suggestion": "Cerca la superficie che non ha mai ospitato prima una comunità biologica.",
+    "options": [
+      "Un campo agricolo da poco abbandonato dall'attività umana",
+      "Una foresta parzialmente distrutta dal passaggio di un incendio",
+      "Una colata lavica o un deposito glaciale di recente esposizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Colate laviche, dune, affioramenti rocciosi e depositi glaciali di nuova esposizione non hanno mai sostenuto una comunità: sono siti di successione primaria. Campo abbandonato e foresta bruciata sono casi di successione secondaria.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-duna-inospitale-001",
+    "topic": "conservazione",
+    "question": "Perché una duna di sabbia rappresenta un sito particolarmente inospitale per la successione primaria?",
+    "suggestion": "Pensa a due proprietà della sabbia: quanto è stabile e quanta acqua riesce a trattenere.",
+    "options": [
+      "Perché la sabbia, mobile e con scarse riserve idriche, offre poche risorse alle piante",
+      "Perché la sabbia è molto ricca di materia organica ma quasi completamente priva di luce",
+      "Perché è già stabilizzata da una fitta e continua copertura arborea preesistente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sabbia si sposta con vento e acqua e trattiene poca umidità: è un substrato mobile e povero di risorse, quindi ostile alle prime colonizzatrici.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-ammofila-001",
+    "topic": "conservazione",
+    "question": "Qual è il ruolo dell'ammofila (beach grass) come specie pioniera sulle dune del Lago Michigan?",
+    "suggestion": "Una pianta che fissa un substrato mobile lo fa di solito con l'apparato sotterraneo.",
+    "options": [
+      "Richiede suoli mesofitici umidi e già formati per potersi insediare",
+      "Stabilizza la duna mobile grazie al suo esteso sistema di rizomi",
+      "Impedisce ogni successiva colonizzazione da parte di arbusti e alberi"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ammofila stabilizza la duna con un esteso sistema di rizomi, rendendo il substrato più stabile e permettendo l'insediamento di arbusti e poi alberi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-crono-metodo-001",
+    "topic": "conservazione",
+    "question": "Perché l'analisi di una cronosequenza di dune di età diversa è utile per studiare la successione?",
+    "suggestion": "Confrontare siti di età diverse permette di 'vedere' il tempo senza attenderlo.",
+    "options": [
+      "Permette di osservare la stessa duna trasformarsi nell'arco di pochi giorni",
+      "Elimina la necessità di datare i siti tramite il radiocarbonio",
+      "Permette di sostituire lo studio nel tempo con lo studio nello spazio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una cronosequenza è una serie di siti a stadi successionali diversi nella stessa area: confrontandoli si sostituisce lo studio nel tempo con quello nello spazio.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-crono-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La serie di siti di una stessa area che si trovano a stadi successionali differenti, usata per studiare la successione nello spazio anziché nel tempo, è detta ___.",
+    "answers": [["cronosequenza", "cronosere", "chronosequence"]],
+    "suggestion": "Il termine unisce l'idea di 'tempo' a quella di 'sequenza'.",
+    "explanation": "Una cronosequenza è una serie di siti a stadi seriali diversi che permette di sostituire l'osservazione nel tempo con quella nello spazio.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-duna-sequenza-001",
+    "topic": "conservazione",
+    "question": "Qual è la sequenza tipica degli stadi vegetazionali nella successione sulle dune del Lago Michigan?",
+    "suggestion": "Si parte dalle erbe che fissano la sabbia e si arriva agli alberi più esigenti.",
+    "options": [
+      "Graminacee pioniere, poi arbusti tappezzanti, infine conifere e querce",
+      "Querce e conifere pioniere, poi arbusti tappezzanti, infine graminacee",
+      "Alberi mesofitici pionieri, poi graminacee, infine arbusti tappezzanti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le pioniere sono graminacee come l'ammofila; seguono arbusti tappezzanti e infine gli alberi, prima conifere e poi querce.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-mesofitiche-001",
+    "topic": "conservazione",
+    "question": "Perché sulle dune gli alberi mesofitici raramente riescono a succedere a pini e querce?",
+    "suggestion": "Collega l'esigenza idrica di questi alberi alla capacità della sabbia di trattenere l'acqua.",
+    "options": [
+      "Perché pini e querce rilasciano sostanze tossiche che ne inibiscono la crescita",
+      "Perché la sabbia ha riserve idriche limitate ed essi richiedono più umidità",
+      "Perché crescono troppo rapidamente e vengono sostituiti dalle graminacee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli alberi mesofitici richiedono più umidità di quanta la sabbia possa trattenere, per cui succedono a pini e querce solo in depressioni o aree dove l'umidità si accumula.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-glacier-sequenza-001",
+    "topic": "conservazione",
+    "question": "Nella successione del Glacier Bay, quale sequenza di specie legnose dominanti si osserva allontanandosi dal fronte glaciale?",
+    "suggestion": "Le specie a rapida colonizzazione precedono quelle tardive di grande taglia.",
+    "options": [
+      "Tsuga e abete rosso, poi progressivamente sostituiti da ontano e salice",
+      "Querce e pini pionieri, poi sostituiti da ontano, salice e pioppo nero",
+      "Ontano, salice e pioppo nero, poi sostituiti da tsuga e abete rosso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle fasi iniziali dominano ontano, salice e pioppo nero; nelle fasi avanzate vengono sostituiti da tsuga e abete rosso.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-glacier-pioniere-001",
+    "topic": "conservazione",
+    "question": "Cosa illustra il fatto che, a 225 anni dal ritiro del ghiacciaio nel Glacier Bay, la maggior parte delle specie pioniere non sia più presente?",
+    "suggestion": "Rifletti sul destino generale delle prime colonizzatrici quando la comunità matura.",
+    "options": [
+      "Che le specie pioniere generalmente non persistono con l'avanzare della successione",
+      "Che le specie pioniere dominano stabilmente anche negli stadi successionali tardivi",
+      "Che la successione primaria tende ad arrestarsi dopo circa due secoli"
+    ],
+    "correctIndex": 0,
+    "explanation": "La scomparsa delle pioniere a 225 anni mostra che, di regola, queste specie non persistono con l'avanzare della successione, essendo sostituite dalle tardive.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-crabgrass-001",
+    "topic": "conservazione",
+    "question": "Nella successione su campo abbandonato del Piedmont, perché la gramigna digitata (crabgrass) compare per prima già la prima estate?",
+    "suggestion": "Non tutte le specie arrivano da fuori: alcune aspettano nel suolo il momento giusto per partire.",
+    "options": [
+      "Perché i suoi semi arrivano trasportati dal vento soltanto durante il primo inverno",
+      "Perché i suoi semi dormienti nel suolo germinano con luce e umidità disponibili",
+      "Perché richiede uno spesso strato di materia organica già accumulato nel suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "I semi della gramigna digitata sono già dormienti nel suolo del campo: appena luce e umidità sono disponibili germinano, dominando la prima estate.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-horseweed-001",
+    "topic": "conservazione",
+    "question": "Come riesce la saeppola canadese (horseweed) a soppiantare la gramigna digitata nella successione del Piedmont?",
+    "suggestion": "Il vantaggio sta nel momento in cui i suoi semi arrivano e germinano rispetto alla concorrente.",
+    "options": [
+      "Rilascia nel suolo sostanze che uccidono direttamente le radici della gramigna",
+      "Cresce soltanto dopo la comparsa dei pini che ombreggiano l'intero campo",
+      "I suoi semi, trasportati dal vento, germinano già durante il primo inverno"
+    ],
+    "correctIndex": 2,
+    "explanation": "I semi della saeppola, portati dal vento, germinano già nel primo inverno e crescono, così da soppiantare la gramigna digitata nella primavera successiva.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.35"
+  },
+  {
+    "id": "cons-c18-broomsedge-001",
+    "topic": "conservazione",
+    "question": "Perché la scopa di broom (broomsedge) arriva a dominare il campo nella terza estate della successione old-field?",
+    "suggestion": "Alla terza estate il suolo è cambiato: pensa a materia organica e umidità disponibili.",
+    "options": [
+      "Sfrutta efficacemente l'umidità di un suolo ormai ricco di materia organica",
+      "Impedisce fisicamente ai semi di ogni altra specie erbacea vicina di germinare",
+      "È l'unica specie i cui semi restano dormienti nel suolo per molti anni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alla terza estate il campo dispone di abbondante materia organica: la scopa di broom, capace di sfruttare bene l'umidità del suolo, arriva così a dominare.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-pini-latifoglie-001",
+    "topic": "conservazione",
+    "question": "Come si conclude la successione old-field del Piedmont dopo la fase dominata dai pini?",
+    "suggestion": "Le latifoglie tollerano l'ombra dei pini e finiscono per crescerci attraverso.",
+    "options": [
+      "I pini restano dominanti indefinitamente ombreggiando ogni latifoglia",
+      "Latifoglie come frassino e quercia crescono tra i pini e li sostituiscono",
+      "La scopa di broom ricolonizza il campo sostituendo progressivamente i pini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le latifoglie come frassino e quercia crescono attraverso lo strato di pini e li rimpiazzano man mano che questi muoiono, chiudendo la successione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-kelp-ricci-001",
+    "topic": "conservazione",
+    "question": "Nelle foreste di kelp di Torch Bay, cosa permette ai ricci di mare di rimuovere quasi tutta la biomassa algale?",
+    "suggestion": "Un erbivoro dilaga quando manca chi normalmente lo tiene sotto controllo.",
+    "options": [
+      "La presenza di numerose lontre marine che li sospingono verso il kelp",
+      "La scarsità di kelp perenne come la Laminaria negli appezzamenti sperimentali studiati",
+      "L'assenza del loro predatore, la lontra marina, che ne limiterebbe il pascolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Senza la lontra marina, loro predatore, i ricci sovrapascolano il kelp e ne rimuovono quasi tutta la biomassa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-kelp-recupero-001",
+    "topic": "conservazione",
+    "question": "Dopo la rimozione sperimentale dei ricci di mare, come cambia la comunità di kelp nel secondo e terzo anno?",
+    "suggestion": "Con il tempo prevale una specie a lunga vita che stabilizza la copertura.",
+    "options": [
+      "Le specie annuali diminuiscono e si afferma la Laminaria, una specie perenne",
+      "Le specie perenni scompaiono lasciando spazio alle sole specie annuali",
+      "La copertura resta stabile e dominata interamente dalla Nereocystis, specie annuale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel primo anno colonizzano annuali e perenni; nel secondo e terzo le annuali calano e si sviluppa una copertura continua di Laminaria, specie perenne.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-laminaria-001",
+    "topic": "conservazione",
+    "question": "In che modo la Laminaria perenne sopprime il reclutamento delle specie annuali di kelp?",
+    "suggestion": "Il meccanismo è fisico e riguarda la luce che arriva al substrato.",
+    "options": [
+      "Consuma direttamente le giovani plantule delle piccole specie annuali",
+      "Forma una densa copertura che ombreggia e modifica il substrato",
+      "Attira i ricci di mare che pascolano le specie annuali di kelp"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Laminaria forma una copertura densa che ombreggia e modifica il substrato, sopprimendo così il reclutamento e la crescita delle specie annuali.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-seagrass-pioniere-001",
+    "topic": "conservazione",
+    "question": "Nelle praterie di fanerogame marine di St. Croix, qual è la funzione principale delle macroalghe rizofitiche pioniere?",
+    "suggestion": "Non stabilizzano granché il fondale: il loro contributo arriva quando si decompongono.",
+    "options": [
+      "Contribuire, con la propria decomposizione, all'apporto di particelle sedimentarie",
+      "Stabilizzare in modo duraturo e del tutto completo i sedimenti sciolti del fondale marino",
+      "Sostituire in modo definitivo le fanerogame marine di successione tardiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le macroalghe rizofitiche pioniere stabilizzano poco i sedimenti: la loro funzione principale è apportare particelle sedimentarie decomponendosi; la loro densità cala dopo il primo anno.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-cimodocea-001",
+    "topic": "conservazione",
+    "question": "Nelle fanerogame marine di St. Croix, perché la thalassia (turtle grass) causa infine il declino della cimodocea (manatee grass)?",
+    "suggestion": "Chi arriva più tardi e cresce più lentamente non è per forza il perdente della successione.",
+    "options": [
+      "Perché, specie precoce a crescita rapida, viene quasi subito soppiantata da essa",
+      "Perché entrambe scompaiono a causa dell'erosione che genera i blowouts",
+      "Perché, specie tardiva a crescita lenta, finisce per soppiantare quella precoce"
+    ],
+    "correctIndex": 2,
+    "explanation": "La cimodocea è precoce e cresce in fretta, ma la thalassia, tardiva e a crescita lenta, finisce per soppiantarla causandone il declino.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-seagrass-sedimento-001",
+    "topic": "conservazione",
+    "question": "In che modo le fanerogame marine aumentano il contenuto di materia organica nel sedimento?",
+    "suggestion": "Pensa a come foglie e apparato sotterraneo interagiscono con le particelle in sospensione.",
+    "options": [
+      "Le foglie e i rizomi intrappolano e trattengono le particelle sedimentarie",
+      "Erodono attivamente il fondale marino generando ampie voragini dette blowouts",
+      "Impediscono a ricci e tartarughe marine di pascolare l'intera area"
+    ],
+    "correctIndex": 0,
+    "explanation": "Foglie e rizomi/radici delle fanerogame intrappolano e trattengono le particelle sedimentarie, aumentando così la materia organica nel sedimento.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-monoclimax-001",
+    "topic": "conservazione",
+    "question": "Su quale concezione della comunità si fonda l'ipotesi del monoclimax?",
+    "suggestion": "In questa visione la comunità 'cresce' come se fosse un unico essere vivente.",
+    "options": [
+      "La comunità come insieme casuale di specie privo di una direzione definita",
+      "La comunità come superorganismo integrato che si sviluppa verso un climax",
+      "La comunità come sequenza dipendente solo dall'ordine di arrivo delle specie"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ipotesi del monoclimax vede la comunità come un superorganismo altamente integrato che si sviluppa verso uno stadio climax, come un singolo organismo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-climax-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Secondo l'ipotesi che considera la comunità un superorganismo integrato, la successione è lo sviluppo verso uno stadio ___.",
+    "answers": [["climax"]],
+    "suggestion": "È lo stadio finale e stabile verso cui, in questa visione, la comunità converge.",
+    "explanation": "Nel monoclimax la successione è vista come lo sviluppo della comunità verso lo stadio climax, in analogia con lo sviluppo di un singolo organismo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-floristica-001",
+    "topic": "conservazione",
+    "question": "Secondo l'ipotesi della composizione floristica iniziale, da cosa dipende principalmente il corso della successione in un sito?",
+    "suggestion": "L'accento è sul caso e sull'ordine di arrivo, non su un percorso obbligato.",
+    "options": [
+      "Da uno sviluppo prestabilito verso un unico stadio climax finale",
+      "Dalla progressiva facilitazione operata dalle sole specie pioniere",
+      "Da quali specie arrivano per prime in un determinato sito"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per questa ipotesi la successione è individualistica: dipende da quali specie arrivano per prime e dall'ordine del loro arrivo, senza una sequenza prestabilita.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.36"
+  },
+  {
+    "id": "cons-c18-facilitazione-001",
+    "topic": "conservazione",
+    "question": "In cosa consiste il modello della facilitazione della successione?",
+    "suggestion": "Qui le prime specie 'aprono la strada' a quelle che verranno dopo.",
+    "options": [
+      "Le specie precoci modificano l'ambiente rendendolo più adatto alle tardive",
+      "Le specie precoci rendono l'ambiente del tutto inadatto a qualunque altra specie",
+      "Le specie tardive si insediano indipendentemente da quelle precoci"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel modello della facilitazione le specie precoci modificano l'ambiente rendendolo più adatto all'insediamento e alla crescita delle specie tardive.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-inibizione-001",
+    "topic": "conservazione",
+    "question": "Cosa caratterizza il modello dell'inibizione della successione?",
+    "suggestion": "Chi arriva prima 'occupa il posto' e resiste finché non muore o viene danneggiato.",
+    "options": [
+      "Le specie precoci preparano sempre attivamente il sito per le specie tardive",
+      "La prima specie arrivata mantiene il controllo del sito finché sopravvive",
+      "Ogni specie colonizza in modo indipendente tollerando risorse più scarse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel modello dell'inibizione la prima specie arrivata controlla il sito, rendendolo meno adatto sia alle precoci sia alle tardive, e cede solo se danneggiata o morta.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-tolleranza-001",
+    "topic": "conservazione",
+    "question": "Cosa distingue il modello della tolleranza dagli altri due modelli successionali?",
+    "suggestion": "Qui le precoci non aiutano né ostacolano: contano le risorse che le tardive sopportano.",
+    "options": [
+      "Le specie precoci facilitano attivamente l'arrivo delle specie tardive",
+      "La prima specie arrivata impedisce del tutto l'ingresso di qualsiasi altra specie",
+      "Le specie tardive si insediano indipendentemente, tollerando risorse più scarse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel modello della tolleranza le precoci non favoriscono né inibiscono le tardive: queste si insediano e maturano da sole, potendo tollerare livelli più bassi di risorse.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-grime-r-001",
+    "topic": "conservazione",
+    "question": "Nella classificazione di Grime, quali caratteristiche presentano le specie R (ruderali)?",
+    "suggestion": "Sono le specie da 'colpo di mano' sui siti appena disturbati, veloci ad arrivare e a ripartire.",
+    "options": [
+      "Piccole, a vita breve, con risorse allocate soprattutto alla riproduzione",
+      "Grandi e longeve, con risorse allocate soprattutto alla crescita vegetativa",
+      "A crescita lenta, con risorse allocate soprattutto al mantenimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le specie R sono piccole e a vita breve, con risorse allocate alla riproduzione e tratti che favoriscono un'ampia dispersione verso siti disturbati.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-grime-c-001",
+    "topic": "conservazione",
+    "question": "Nella classificazione di Grime, a cosa allocano principalmente le risorse le specie C (competitive)?",
+    "suggestion": "Vivono dove le risorse abbondano e prevalgono acquisendole meglio degli altri.",
+    "options": [
+      "Alla riproduzione, favorendo un'ampia dispersione verso i nuovi siti disturbati",
+      "Alla crescita, favorendo l'acquisizione di risorse e la capacità competitiva",
+      "Al mantenimento, come tipico degli habitat con risorse molto limitate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le specie C vivono in habitat prevedibili e ricchi di risorse e allocano le risorse alla crescita, il che ne favorisce acquisizione delle risorse e competitività.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-grime-s-001",
+    "topic": "conservazione",
+    "question": "Nella classificazione di Grime, di quali habitat sono tipiche le specie S (tolleranti allo stress)?",
+    "suggestion": "Dove le risorse scarseggiano conviene conservare, non correre a crescere o riprodursi.",
+    "options": [
+      "Habitat disturbati e ricchi di risorse, con allocazione alla riproduzione",
+      "Habitat prevedibili e ricchi di risorse, con allocazione alla crescita",
+      "Habitat con risorse limitate, con risorse allocate al mantenimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le specie S allocano le risorse al mantenimento, caratteristica tipica degli habitat con risorse limitate.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-grime-seq-001",
+    "topic": "conservazione",
+    "question": "Dopo un disturbo, in quale ordine le tre strategie di Grime tendono a dominare la successione secondaria?",
+    "suggestion": "Segui la disponibilità delle risorse: abbondante all'inizio, poi contesa, infine scarsa.",
+    "options": [
+      "Prima le R, poi le C con l'aumento della competizione, infine le S",
+      "Prima le S, poi le C, infine le R quando le risorse tornano abbondanti",
+      "Prima le C, poi le R, infine le S all'esaurirsi progressivo delle risorse"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'inizio, con risorse abbondanti, prevalgono le R; con l'aumento della biomassa e della competizione le C; infine, all'esaurirsi delle risorse, le S sostituiscono le C.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-luce-acqua-001",
+    "topic": "conservazione",
+    "question": "Nel modello costi-benefici basato su luce e acqua, come varia la dominanza delle specie durante la successione?",
+    "suggestion": "Man mano che la vegetazione cresce, l'ombreggiamento reciproco cambia le carte in tavola.",
+    "options": [
+      "Da specie tolleranti all'ombra a specie a crescita rapida intolleranti all'ombra",
+      "Da specie a crescita rapida intolleranti all'ombra a specie tolleranti all'ombra",
+      "Da specie tolleranti alla siccità a specie intolleranti all'ombra e all'azoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiché le variazioni di luce dipendono soprattutto dall'ombreggiamento reciproco, la dominanza passa da specie rapide intolleranti all'ombra a specie lente tolleranti all'ombra.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  },
+  {
+    "id": "cons-c18-resource-ratio-001",
+    "topic": "conservazione",
+    "question": "Su quale compromesso (trade-off) si fonda l'ipotesi del rapporto tra le risorse (resource ratio)?",
+    "suggestion": "Competere per una risorsa aerea o per una del suolo richiede di investire carbonio in organi diversi.",
+    "options": [
+      "Tra competere per l'acqua (radici) e competere per la luce (produzione di semi)",
+      "Tra competere per l'azoto (foglie) e competere per il carbonio (radici)",
+      "Tra competere per la luce (foglie e fusti) e competere per l'azoto (radici)"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ipotesi del rapporto tra le risorse pone un trade-off: competere per la luce richiede carbonio in foglie e fusti, competere per l'azoto richiede carbonio nelle radici.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.37"
+  }
+]

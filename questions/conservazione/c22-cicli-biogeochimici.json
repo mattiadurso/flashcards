@@ -1,0 +1,862 @@
+[
+  {
+    "id": "cons-c22-tipi-001",
+    "topic": "conservazione",
+    "question": "Quali sono le due tipologie fondamentali in cui si distinguono i cicli biogeochimici?",
+    "suggestion": "Pensa a quale comparto naturale funge da serbatoio principale del nutriente: uno è aeriforme, l'altro solido.",
+    "options": [
+      "I cicli gassosi e i cicli sedimentari",
+      "I cicli acquatici e i cicli terrestri",
+      "I cicli biotici e i cicli abiotici"
+    ],
+    "correctIndex": 0,
+    "explanation": "I cicli biogeochimici si distinguono in gassosi, con serbatoi principali atmosfera e oceani, e sedimentari, con serbatoio in suolo, rocce e minerali.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-tipi-002",
+    "topic": "conservazione",
+    "question": "Quali sono i serbatoi principali dei nutrienti in un ciclo biogeochimico gassoso?",
+    "suggestion": "Considera i comparti che ospitano elementi come azoto, anidride carbonica e ossigeno.",
+    "options": [
+      "Il suolo, le rocce sedimentarie e i minerali della crosta terrestre",
+      "L'atmosfera e gli oceani, con circolazione di carattere globale",
+      "I sedimenti dei fondali e le acque delle falde profonde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei cicli gassosi i serbatoi principali sono atmosfera e oceani; hanno carattere globale e comprendono azoto, anidride carbonica e ossigeno.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-tipi-003",
+    "topic": "conservazione",
+    "question": "In un ciclo biogeochimico sedimentario, come vengono rese disponibili agli organismi le fonti inorganiche dei minerali?",
+    "suggestion": "Il serbatoio è la roccia solida: serve un processo che la degradi lentamente.",
+    "options": [
+      "Attraverso la fissazione biologica operata dai batteri simbionti delle radici",
+      "Attraverso la diffusione diretta dei minerali dagli strati bassi dell'atmosfera",
+      "Attraverso i processi di erosione e alterazione delle rocce della crosta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei cicli sedimentari il serbatoio è suolo, rocce e minerali, e le fonti inorganiche vengono rilasciate agli organismi tramite erosione e alterazione delle rocce (weathering).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-fosforo-001",
+    "topic": "conservazione",
+    "question": "Perché il fosforo è considerato un tipico esempio di nutriente a ciclo sedimentario?",
+    "suggestion": "Chiediti se questo elemento possiede o meno una forma gassosa rilevante nell'atmosfera.",
+    "options": [
+      "Perché circola prevalentemente in forma gassosa nell'alta atmosfera come l'azoto molecolare",
+      "Perché viene fissato dagli organismi a partire dall'azoto molecolare dell'atmosfera",
+      "Perché è privo di un serbatoio gassoso significativo e deriva dall'alterazione delle rocce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il fosforo non ha un serbatoio gassoso rilevante: il suo ciclo ha una fase rocciosa (sali dalla crosta per alterazione) e una fase in soluzione (sali solubili nel ciclo dell'acqua).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-zolfo-001",
+    "topic": "conservazione",
+    "question": "Perché il ciclo dello zolfo viene descritto come ibrido tra gassoso e sedimentario?",
+    "suggestion": "Considera in quanti e quali comparti lo zolfo possiede serbatoi importanti.",
+    "options": [
+      "Perché possiede serbatoi importanti sia nella crosta terrestre sia nell'atmosfera",
+      "Perché alterna una fase biologica batterica a una fase di combustione industriale",
+      "Perché il suo unico serbatoio davvero significativo è rappresentato dagli oceani"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo zolfo presenta caratteristiche ibride perché ha serbatoi rilevanti sia nella crosta terrestre (sedimentario) sia nell'atmosfera (gassoso).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-comuni-001",
+    "topic": "conservazione",
+    "question": "Quale flusso guida sia i cicli gassosi sia quelli sedimentari attraverso l'ecosistema?",
+    "suggestion": "È lo stesso flusso che alimenta la fotosintesi e la respirazione degli organismi.",
+    "options": [
+      "Il flusso di sedimenti trasportati dalle correnti oceaniche profonde",
+      "Il flusso di nutrienti importati sempre dagli ecosistemi vicini",
+      "Il flusso di energia che attraversa l'ecosistema"
+    ],
+    "correctIndex": 2,
+    "explanation": "Entrambe le tipologie di ciclo coinvolgono processi biologici e non biologici e sono guidate dal flusso di energia attraverso l'ecosistema.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-comuni-002",
+    "topic": "conservazione",
+    "question": "Perché tutti i cicli biogeochimici risultano strettamente collegati al ciclo dell'acqua?",
+    "suggestion": "Rifletti su cosa fa fisicamente muovere elementi e materiali da un punto all'altro dell'ecosistema.",
+    "options": [
+      "Perché l'acqua trasporta elementi e materiali attraverso l'ecosistema",
+      "Perché l'acqua è il principale serbatoio gassoso dei nutrienti",
+      "Perché solo in acqua i nutrienti possono essere fissati dagli organismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "I cicli sono legati al ciclo dell'acqua perché l'acqua trasporta elementi e altri materiali attraverso l'ecosistema.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.44-45"
+  },
+  {
+    "id": "cons-c22-struttura-001",
+    "topic": "conservazione",
+    "question": "Quali sono le tre componenti fondamentali comuni a tutti i cicli biogeochimici?",
+    "suggestion": "Pensa a ciò che entra, a ciò che circola dentro l'ecosistema e a ciò che ne esce.",
+    "options": [
+      "La fissazione, la nitrificazione e la denitrificazione dei nutrienti",
+      "Gli input, il ciclo interno e gli output dei nutrienti",
+      "L'apporto umido, l'apporto secco e la piromineralizzazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tutti i cicli condividono tre componenti: gli input (ingressi), il ciclo interno (circolazione nell'ecosistema) e gli output (uscite).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-input-001",
+    "topic": "conservazione",
+    "question": "Attraverso quale via entrano nell'ecosistema i nutrienti dotati di un ciclo gassoso?",
+    "suggestion": "Se il serbatoio principale del nutriente è aeriforme, da dove proviene il suo ingresso?",
+    "options": [
+      "Attraverso l'alterazione delle rocce e dei minerali del suolo",
+      "Attraverso il dilavamento operato dalle acque sotterranee profonde",
+      "Attraverso l'atmosfera, loro principale serbatoio naturale"
+    ],
+    "correctIndex": 2,
+    "explanation": "I nutrienti a ciclo gassoso entrano nell'ecosistema attraverso l'atmosfera, mentre quelli a ciclo sedimentario entrano tramite l'alterazione di rocce e minerali.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-input-002",
+    "topic": "conservazione",
+    "question": "Che cosa si intende per apporto umido (wet fall) negli habitat terrestri?",
+    "suggestion": "Distingue il veicolo del nutriente: qui si tratta di ciò che cade sotto forma liquida o nevosa.",
+    "options": [
+      "Il nutriente veicolato da particelle e aerosol trasportati dall'aria",
+      "Il nutriente veicolato dalle precipitazioni come pioggia e neve",
+      "Il nutriente rilasciato dalla decomposizione della lettiera al suolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'apporto umido è il nutriente veicolato dalle precipitazioni: la pioggia, attraversando la volta forestale, raccoglie i nutrienti depositati su foglie e steli.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-input-003",
+    "topic": "conservazione",
+    "question": "Che cosa distingue l'apporto secco (dry fall) come via di ingresso dei nutrienti?",
+    "suggestion": "Il termine 'secco' suggerisce un veicolo non liquido, legato al trasporto aereo.",
+    "options": [
+      "È il nutriente veicolato da particelle e aerosol trasportati dall'aria",
+      "È il nutriente veicolato dalla pioggia che scorre lungo i fusti delle piante",
+      "È il nutriente liberato dall'erosione chimica delle rocce che affiorano"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'apporto secco è il nutriente veicolato da particelle e aerosol trasportati dall'aria, in contrapposizione all'apporto umido delle precipitazioni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-input-004",
+    "topic": "conservazione",
+    "question": "Da dove provengono principalmente le fonti di nutrienti per gli ecosistemi acquatici?",
+    "suggestion": "Considera sia ciò che arriva dal territorio circostante sia ciò che cade dall'alto.",
+    "options": [
+      "Dal territorio come drenaggio e sedimenti e dall'atmosfera come precipitazioni",
+      "Soltanto dalla fissazione biologica operata dal fitoplancton nelle acque marine",
+      "Soltanto dalla lenta sedimentazione dei carbonati sul fondale marino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per gli ecosistemi acquatici i nutrienti provengono dal territorio circostante (acque di drenaggio, detrito, sedimento) e dall'atmosfera sotto forma di precipitazioni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-input-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il processo di erosione delle rocce che rilascia i sali minerali agli organismi, base dei cicli sedimentari, è detto ___.",
+    "answers": [
+      ["alterazione", "weathering", "alterazione delle rocce"]
+    ],
+    "suggestion": "È il processo che degrada la crosta e libera i minerali; il testo lo indica con il termine inglese weathering.",
+    "explanation": "L'alterazione delle rocce (weathering) rilascia le fonti inorganiche dei minerali agli organismi viventi ed è la via di ingresso dei nutrienti a ciclo sedimentario.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.44"
+  },
+  {
+    "id": "cons-c22-output-001",
+    "topic": "conservazione",
+    "question": "Perché i nutrienti persi da un ecosistema come output devono essere compensati?",
+    "suggestion": "Pensa al bilancio del sistema: se qualcosa esce di continuo, cosa serve per mantenerlo stabile?",
+    "options": [
+      "Perché ogni perdita deve essere bilanciata da nuovi input di nutrienti",
+      "Perché gli output accrescono in automatico il ciclo interno dell'ecosistema",
+      "Perché la perdita di nutrienti accelera sempre la loro fissazione biologica"
+    ],
+    "correctIndex": 0,
+    "explanation": "I nutrienti persi da un ecosistema devono essere compensati da nuovi input, altrimenti il bilancio complessivo dei nutrienti si impoverirebbe.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-output-002",
+    "topic": "conservazione",
+    "question": "In quale forma il carbonio viene tipicamente esportato da un ecosistema come output?",
+    "suggestion": "Collega l'uscita del carbonio al processo con cui gli organismi liberano energia.",
+    "options": [
+      "Come materia organica dilavata via dalle lente acque sotterranee",
+      "Come anidride carbonica rilasciata dalla respirazione degli organismi",
+      "Come carbonati precipitati negli esoscheletri di molti organismi acquatici"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il carbonio viene esportato principalmente come anidride carbonica rilasciata dalla respirazione degli organismi.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-output-003",
+    "topic": "conservazione",
+    "question": "In che modo l'ippopotamo trasferisce nutrienti tra ecosistemi differenti?",
+    "suggestion": "Considera dove l'animale si alimenta e dove invece rilascia i propri rifiuti organici.",
+    "options": [
+      "Trasporta sedimenti minerali dal fondale ai pascoli erbosi vicini",
+      "Fissa l'azoto atmosferico nei propri tessuti e lo cede poi alle piante riparie",
+      "Pascola vegetazione erbacea a terra e deposita nutrienti in acqua con le feci"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'ippopotamo si nutre di notte di vegetazione erbacea presso i corpi d'acqua e vi deposita nutrienti sotto forma di feci e rifiuti organici, trasferendo materia organica tra ecosistemi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-output-004",
+    "topic": "conservazione",
+    "question": "Perché il prelievo umano tramite agricoltura e disboscamento rende necessario l'uso di fertilizzanti?",
+    "suggestion": "Rifletti su cosa accade al bilancio dei nutrienti quando il raccolto viene portato via dal campo.",
+    "options": [
+      "Perché rimuove permanentemente nutrienti dagli ecosistemi, che vanno sostituiti",
+      "Perché blocca completamente la fissazione biologica dell'azoto nei suoli coltivati",
+      "Perché trasforma i nutrienti in una fase gassosa dispersa poi nell'atmosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il prelievo umano rimuove permanentemente nutrienti dagli ecosistemi, rendendone necessaria la sostituzione con fertilizzanti; questi processi possono anche favorire il dilavamento.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-output-005",
+    "topic": "conservazione",
+    "question": "Quale effetto hanno gli incendi sulla disponibilità dei nutrienti nel suolo?",
+    "suggestion": "La cenere modifica le proprietà del suolo; pensa a come cambia la rapidità con cui i nutrienti diventano usabili.",
+    "options": [
+      "Convertono la biomassa in cenere rendendo molti nutrienti rapidamente disponibili",
+      "Immobilizzano tutti i nutrienti nella cenere rendendoli indisponibili per molti anni",
+      "Trasformano l'intero fosforo del suolo in azoto molecolare disperso nell'aria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli incendi convertono biomassa e sostanza organica in cenere, che modifica le proprietà del suolo: molti nutrienti diventano rapidamente disponibili e il fosforo può subire una piromineralizzazione molto rapida.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-output-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'allontanamento di nutrienti come materia organica tramite il flusso superficiale o sotterraneo dell'acqua è detto ___.",
+    "answers": [
+      ["dilavamento", "leaching"]
+    ],
+    "suggestion": "È la perdita di nutrienti trascinati via dall'acqua che scorre; il testo usa anche il termine inglese leaching.",
+    "explanation": "Il dilavamento (leaching) allontana i nutrienti da un ecosistema come materia organica attraverso il flusso superficiale o sotterraneo dell'acqua.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-globale-001",
+    "topic": "conservazione",
+    "question": "Cosa esprime l'affermazione secondo cui l'output di un ecosistema è spesso l'input di un altro?",
+    "suggestion": "Pensa al trasferimento di nutrienti, ad esempio dagli ambienti di terra a quelli d'acqua.",
+    "options": [
+      "Che i nutrienti persi da un sistema ne alimentano un altro, ad esempio quello acquatico",
+      "Che ogni ecosistema riesce a riciclare al proprio interno tutti quanti i suoi nutrienti",
+      "Che gli input e gli output di un ecosistema tendono sempre ad annullarsi a vicenda"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'output di un ecosistema rappresenta spesso l'input di un altro, come nell'esportazione di nutrienti dagli ecosistemi terrestri a quelli acquatici.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-globale-002",
+    "topic": "conservazione",
+    "question": "Per quali nutrienti la prospettiva globale dei cicli biogeochimici risulta particolarmente rilevante?",
+    "suggestion": "La circolazione atmosferica può spostare materiali sull'intero pianeta: quale tipo di ciclo ne è interessato?",
+    "options": [
+      "Per i nutrienti a ciclo sedimentario, strettamente legati alle rocce locali del suolo",
+      "Per i nutrienti a ciclo gassoso, con circolazione atmosferica su tutto il pianeta",
+      "Per i nutrienti privi sia di una fase gassosa sia di una fase in soluzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La prospettiva globale è particolarmente rilevante per i nutrienti a ciclo gassoso, la cui circolazione atmosferica può interessare l'intero pianeta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-carbonio-001",
+    "topic": "conservazione",
+    "question": "Perché si dice che il ciclo del carbonio è inseparabile dal flusso di energia nell'ecosistema?",
+    "suggestion": "Ricorda come viene misurata la produttività di un ecosistema.",
+    "options": [
+      "Perché il carbonio è la principale fonte di energia luminosa per la fotosintesi",
+      "Perché la produttività si misura come grammi di carbonio fissato per metro quadrato all'anno",
+      "Perché il carbonio va a sostituire l'energia quando questa scarseggia nell'intero ecosistema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il carbonio è componente di tutte le molecole organiche ed è inseparabile dal flusso di energia: la produttività di un ecosistema si esprime infatti come grammi di carbonio fissato per metro quadrato per anno.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-carbonio-002",
+    "topic": "conservazione",
+    "question": "Qual è la fonte di tutto il carbonio presente negli organismi viventi?",
+    "suggestion": "Considera la forma inorganica del carbonio disponibile nell'atmosfera e nell'acqua.",
+    "options": [
+      "I carbonati sedimentari da tempo sepolti nelle rocce profonde della crosta terrestre",
+      "L'azoto molecolare fissato dai batteri simbionti presenti nelle radici",
+      "L'anidride carbonica inorganica presente nell'atmosfera o nell'acqua"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'anidride carbonica inorganica presente nell'atmosfera o nell'acqua è la fonte di tutto il carbonio degli organismi, fissata dalla fotosintesi nella componente vivente.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-carbonio-004",
+    "topic": "conservazione",
+    "question": "Nel ciclo terrestre del carbonio, quali processi rappresentano gli output?",
+    "suggestion": "L'input è la fotosintesi; gli output liberano di nuovo il carbonio verso l'atmosfera.",
+    "options": [
+      "La fotosintesi, la diffusione e il trasporto del carbonio",
+      "La fissazione biologica, la nitrificazione e l'ammonificazione",
+      "La respirazione, la decomposizione e la combustione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel ciclo terrestre del carbonio l'input è la fotosintesi, mentre gli output sono respirazione, decomposizione e combustione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-carbonio-005",
+    "topic": "conservazione",
+    "question": "A cosa corrisponde la produttività primaria netta di un ecosistema?",
+    "suggestion": "Considera la differenza tra quanto carbonio viene assorbito e quanto ne viene perso dai produttori.",
+    "options": [
+      "Alla differenza tra l'assorbimento con la fotosintesi e la perdita con la respirazione",
+      "Alla somma di tutto il carbonio fissato con la fotosintesi, senza sottrarre le perdite",
+      "Alla differenza tra assorbimento e perdita dell'intero ecosistema, eterotrofi compresi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La produttività primaria netta è la differenza tra l'assorbimento di carbonio (fotosintesi) e la perdita di carbonio (respirazione).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.45"
+  },
+  {
+    "id": "cons-c22-carbonio-006",
+    "topic": "conservazione",
+    "question": "In cosa la produttività netta dell'ecosistema differisce dalla produttività primaria netta?",
+    "suggestion": "Chiediti quali organismi contribuiscono alla perdita di carbonio a livello dell'intero ecosistema.",
+    "options": [
+      "Considera solo il carbonio assorbito dai produttori primari, escludendo ogni perdita",
+      "Include anche la respirazione degli organismi eterotrofi, non solo quella dei produttori",
+      "Misura esclusivamente il carbonio fissato come carbonati negli esoscheletri degli organismi acquatici"
+    ],
+    "correctIndex": 1,
+    "explanation": "La produttività netta dell'ecosistema è la differenza tra assorbimento e perdita di carbonio a livello dell'intero ecosistema, includendo quindi anche la respirazione degli eterotrofi.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.45-46"
+  },
+  {
+    "id": "cons-c22-carbonio-007",
+    "topic": "conservazione",
+    "question": "Perché negli ecosistemi caldi e umidi il carbonio circola più rapidamente che in quelli freddi e aridi?",
+    "suggestion": "Produttività primaria e decomposizione dipendono da due fattori climatici: quali?",
+    "options": [
+      "Perché temperatura e precipitazioni elevate accelerano produttività e decomposizione",
+      "Perché il freddo esalta la fotosintesi ma blocca del tutto la respirazione degli organismi",
+      "Perché negli ambienti aridi tutto il carbonio si fissa stabilmente sotto forma di torba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tasso di circolazione del carbonio dipende da produttività primaria e decomposizione, entrambe favorite da temperatura e precipitazioni elevate: negli ecosistemi caldi e umidi il carbonio circola quindi rapidamente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-carbonio-008",
+    "topic": "conservazione",
+    "question": "Come può la torba, formatasi in ambienti acquatici, contribuire nel tempo alla formazione dei combustibili fossili?",
+    "suggestion": "Pensa a cosa accade al materiale morto che non si decompone completamente e circola lentissimamente.",
+    "options": [
+      "La decomposizione completa e rapida libera subito il carbonio come combustibili fossili",
+      "Il materiale non decomposto forma torba, dove il carbonio circola lentissimo e può dare fossili",
+      "I carbonati degli esoscheletri precipitano e si trasformano in pochissimo tempo in torba e fossili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se il materiale morto cade in ambienti acquatici e non si decompone completamente forma torba: il carbonio circola molto lentamente e nei tempi geologici può dare origine ai combustibili fossili.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-carbonio-009",
+    "topic": "conservazione",
+    "question": "In che modo quantità significative di carbonio possono essere sottratte alla circolazione attiva negli ecosistemi acquatici?",
+    "suggestion": "Molti organismi acquatici costruiscono strutture dure fissando il carbonio in forma minerale.",
+    "options": [
+      "Venendo disperse come anidride carbonica per diffusione verso l'atmosfera",
+      "Venendo fissate come carbonati negli esoscheletri e isolate dall'attività biotica",
+      "Venendo assimilate dal fitoplancton marino e trasferite lungo la catena alimentare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quantità significative di carbonio possono essere fissate come carbonati negli esoscheletri (ad esempio i gusci): se questo carbonio viene isolato dall'attività biotica, è sottratto alla circolazione attiva.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-carbonio-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il materiale morto che, in paludi e acquitrini, non si decompone completamente e accumula lentamente carbonio dà origine alla ___.",
+    "answers": [
+      ["torba", "peat"]
+    ],
+    "suggestion": "È l'accumulo organico tipico degli ambienti saturi d'acqua, precursore geologico dei combustibili fossili; il testo usa anche il termine inglese peat.",
+    "explanation": "In ambienti acquatici come paludi e acquitrini il materiale morto non decomposto forma la torba (peat), dove il carbonio circola molto lentamente.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-giorno-001",
+    "topic": "conservazione",
+    "question": "Perché la concentrazione atmosferica di anidride carbonica cala bruscamente dopo il tramonto?",
+    "suggestion": "Al buio uno dei due processi che regolano la CO2 si ferma, mentre l'altro prosegue.",
+    "options": [
+      "Perché dopo il tramonto la fotosintesi cessa mentre la respirazione continua",
+      "Perché di notte sia la fotosintesi sia la respirazione si arrestano del tutto",
+      "Perché la respirazione notturna sottrae anidride carbonica all'atmosfera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo indica che dopo il tramonto la CO2 cala bruscamente perché la fotosintesi cessa mentre la respirazione continua; la fluttuazione giornaliera dipende proprio dalla variazione dell'attività fotosintetica.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-stagione-001",
+    "topic": "conservazione",
+    "question": "Perché all'inizio della stagione di crescita la concentrazione atmosferica di anidride carbonica comincia a diminuire?",
+    "suggestion": "Quando le piante entrano in piena attività, cosa fanno con la CO2 atmosferica?",
+    "options": [
+      "Perché le piante la sottraggono dall'atmosfera attraverso la fotosintesi",
+      "Perché la respirazione diventa il processo dominante rispetto alla fotosintesi",
+      "Perché la dormienza vegetativa riduce l'assorbimento di anidride carbonica"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'inizio della stagione di crescita la CO2 diminuisce perché le piante la sottraggono con la fotosintesi; a fine stagione la fotosintesi cala, prevale la respirazione e la concentrazione risale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-stagione-002",
+    "topic": "conservazione",
+    "question": "Perché le fluttuazioni stagionali di anidride carbonica sono molto più accentuate nell'emisfero settentrionale?",
+    "suggestion": "Confronta i due emisferi in termini di superficie di terre emerse rispetto agli oceani.",
+    "options": [
+      "Perché l'emisfero settentrionale riceve una radiazione solare molto più intensa",
+      "Perché nell'emisfero settentrionale la respirazione microbica è quasi del tutto assente",
+      "Perché l'emisfero settentrionale ha una maggiore estensione di terre emerse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le fluttuazioni sono più marcate negli ambienti terrestri che in quelli acquatici e molto più accentuate nell'emisfero settentrionale, a causa della maggiore estensione delle terre emerse in questo emisfero.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-globcarb-001",
+    "topic": "conservazione",
+    "question": "Perché, pur contenendo la Terra circa 10²³ grammi di carbonio, solo una piccola parte partecipa al ciclo globale?",
+    "suggestion": "Chiediti dove si trova immagazzinata la quasi totalità del carbonio terrestre.",
+    "options": [
+      "Perché la maggior parte è disciolta negli oceani come bicarbonati sempre attivi",
+      "Perché la quasi totalità è sepolta nelle rocce sedimentarie e non partecipa al ciclo",
+      "Perché quasi tutto il carbonio si trova concentrato nell'atmosfera come anidride carbonica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Terra contiene circa 10²³ g di carbonio, ma la quasi totalità è sepolta nelle rocce sedimentarie e non partecipa attivamente al ciclo globale, che coinvolge circa 55.000 Gt.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-globcarb-002",
+    "topic": "conservazione",
+    "question": "Tra i serbatoi attivi del ciclo globale del carbonio, quale contiene la quantità maggiore?",
+    "suggestion": "Confronta gli oceani (bicarbonati e carbonati) con combustibili fossili e atmosfera.",
+    "options": [
+      "L'atmosfera, con circa 750 gigatonnellate di carbonio",
+      "I combustibili fossili, con circa 10.000 gigatonnellate di carbonio immagazzinato",
+      "Gli oceani, con circa 38.000 gigatonnellate come bicarbonati e carbonati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel serbatoio attivo di circa 55.000 Gt, gli oceani rappresentano la quota maggiore (38.000 Gt come ioni bicarbonato e carbonato), davanti a combustibili fossili (10.000 Gt) e atmosfera (750 Gt).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-globcarb-003",
+    "topic": "conservazione",
+    "question": "Da quale reazione chimica dipende l'assorbimento di anidride carbonica alla superficie oceanica?",
+    "suggestion": "La CO2 reagisce con uno ione dell'acqua marina per formare un altro ione.",
+    "options": [
+      "Dalla reazione della CO2 con gli ioni carbonato per formare bicarbonati",
+      "Dalla riduzione della CO2 a metano da parte dei batteri anaerobici marini",
+      "Dalla combinazione della CO2 con l'azoto molecolare disciolto nell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "La superficie oceanica è il principale sito di scambio di CO2: il suo assorbimento dipende dalla reazione con gli ioni carbonato (CO3²⁻) per formare bicarbonati (HCO3⁻).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-globcarb-004",
+    "topic": "conservazione",
+    "question": "Dove è immagazzinato più carbonio, nel suolo o nella materia vivente terrestre?",
+    "suggestion": "Confronta le due riserve: 1500 Gt contro 560 Gt.",
+    "options": [
+      "Nella materia vivente terrestre, con 560 Gt contro i circa 1500 Gt del suolo",
+      "Nel suolo, con 1500 Gt contro i 560 Gt della biomassa vivente terrestre",
+      "In quantità sostanzialmente uguali nei due comparti considerati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei suoli si trova immagazzinato più carbonio che nella materia vivente: 1500 Gt nel suolo contro 560 Gt nella biomassa vivente terrestre.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.46"
+  },
+  {
+    "id": "cons-c22-globcarb-005",
+    "topic": "conservazione",
+    "question": "Perché studi recenti considerano la superficie terrestre complessivamente un pozzo di carbonio?",
+    "suggestion": "Confronta il carbonio assorbito con la fotosintesi e quello perso con la respirazione a scala di sistema terrestre.",
+    "options": [
+      "Perché la respirazione microbica supera stabilmente la fotosintesi dei sistemi terrestri",
+      "Perché la superficie terrestre esporta più CO2 di quanta ne assorba dall'atmosfera",
+      "Perché i sistemi terrestri mostrano un assorbimento netto di CO2 dall'atmosfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "La superficie terrestre funziona come pozzo di carbonio perché mostra un assorbimento netto di CO2: l'assorbimento è dovuto alla fotosintesi e le perdite alla respirazione, in particolare alla decomposizione microbica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.46-47"
+  },
+  {
+    "id": "cons-c22-globcarb-006",
+    "topic": "conservazione",
+    "question": "Perché il carbonio medio per unità di volume di suolo aumenta dalle regioni tropicali verso la tundra?",
+    "suggestion": "Non è la produzione a fare la differenza, ma quanto rapidamente la materia organica viene demolita.",
+    "options": [
+      "Perché nella tundra la decomposizione è inibita e la materia organica si accumula",
+      "Perché la produttività primaria della tundra supera di gran lunga quella tropicale",
+      "Perché nei tropici la fissazione dell'azoto arricchisce di continuo il suolo di carbonio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il carbonio per unità di volume aumenta verso foreste boreali e tundra perché nei tropici la decomposizione è più rapida, mentre il maggiore accumulo si osserva dove la decomposizione è inibita, come nei suoli ghiacciati o saturi d'acqua.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.46-47"
+  },
+  {
+    "id": "cons-c22-azoto-001",
+    "topic": "conservazione",
+    "question": "Perché l'azoto è un elemento essenziale per tutti i tessuti viventi?",
+    "suggestion": "Pensa alla classe di macromolecole di cui l'azoto è costituente fondamentale.",
+    "options": [
+      "Perché è il costituente essenziale delle proteine di tutti i tessuti viventi",
+      "Perché è la principale fonte di energia della respirazione cellulare aerobica",
+      "Perché costituisce lo scheletro carbonioso di tutti gli zuccheri semplici"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'azoto è un costituente essenziale delle proteine, elemento fondamentale di tutti i tessuti viventi.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-002",
+    "topic": "conservazione",
+    "question": "In quali due forme le piante possono generalmente utilizzare l'azoto?",
+    "suggestion": "Sono due ioni: uno ridotto e uno ossidato, non la forma molecolare gassosa.",
+    "options": [
+      "L'azoto molecolare (N2) e il protossido di azoto (N2O)",
+      "L'ammonio (NH4⁺) e il nitrato (NO3⁻)",
+      "Il nitrito (NO2⁻) e l'ammoniaca gassosa (NH3)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le piante possono generalmente utilizzare l'azoto solo come ammonio (NH4⁺) e nitrato (NO3⁻); l'N2 molecolare, pur abbondante nell'atmosfera, non è assimilabile.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-003",
+    "topic": "conservazione",
+    "question": "Perché l'azoto, pur costituendo l'80% dell'atmosfera, non è direttamente utilizzabile dalle piante?",
+    "suggestion": "Il problema è la forma chimica in cui si trova l'azoto atmosferico.",
+    "options": [
+      "Perché è presente come N2 molecolare, forma non assimilabile dalle piante",
+      "Perché è presente come nitrato troppo diluito per essere davvero assorbito",
+      "Perché resta intrappolato negli strati alti e non arriva mai fino al suolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'atmosfera è composta per l'80% da azoto come N2: questa forma molecolare non è disponibile per l'assimilazione da parte delle piante, che usano solo NH4⁺ e NO3⁻.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-004",
+    "topic": "conservazione",
+    "question": "Che cosa caratterizza la fissazione ad alta energia dell'azoto (high-energy fixation)?",
+    "suggestion": "Pensa a fonti di energia estreme come fulmini e meteoriti, e a una resa molto bassa.",
+    "options": [
+      "Converte l'N2 con l'energia di fulmini e meteoriti, con resa di circa 0,4 kg per ettaro all'anno",
+      "Converte l'N2 grazie ai batteri simbionti dei noduli, con resa di circa 10 kg per ettaro all'anno",
+      "Riduce il nitrato ad azoto molecolare in condizioni anaerobiche tipiche dei sedimenti profondi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fissazione ad alta energia converte l'N2 in ammoniaca e nitrati grazie all'energia di radiazione cosmica, meteoriti o fulmini, producendo però solo circa 0,4 kg di azoto per ettaro all'anno.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-005",
+    "topic": "conservazione",
+    "question": "Perché la fissazione biologica dell'azoto è più importante di quella ad alta energia?",
+    "suggestion": "Confronta le rese: circa 10 kg contro 0,4 kg di azoto per ettaro all'anno.",
+    "options": [
+      "Perché avviene del tutto senza alcun consumo di energia da parte degli organismi coinvolti",
+      "Perché produce circa 10 kg di azoto per ettaro all'anno contro i 0,4 kg dell'alta energia",
+      "Perché rilascia l'azoto direttamente come N2 gassoso disperso poi nell'atmosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fissazione biologica converte l'azoto atmosferico in forma utilizzabile producendo circa 10 kg di azoto per ettaro all'anno, molto più dei circa 0,4 kg della fissazione ad alta energia.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-006",
+    "topic": "conservazione",
+    "question": "Quali organismi svolgono la fissazione biologica dell'azoto?",
+    "suggestion": "Ricorda i tre gruppi: simbionti delle radici, batteri liberi del suolo e alghe azzurre.",
+    "options": [
+      "Soltanto i funghi micorrizici associati alle radici delle piante ospiti",
+      "Soltanto le piante leguminose in modo autonomo, senza alcun microrganismo",
+      "Batteri simbionti, batteri aerobici a vita libera e cianobatteri"
+    ],
+    "correctIndex": 2,
+    "explanation": "La fissazione biologica è svolta da batteri simbionti in associazione mutualistica con le piante, da batteri aerobici a vita libera e dai cianobatteri (alghe azzurre).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-007",
+    "topic": "conservazione",
+    "question": "Cosa avviene chimicamente durante la fissazione dell'azoto molecolare?",
+    "suggestion": "La molecola di N2 viene scissa e i suoi atomi si legano a un altro elemento leggero.",
+    "options": [
+      "L'N2 viene ossidato in modo diretto a nitrato subito assimilabile dalle radici",
+      "L'N2 viene scisso in due atomi che si legano all'idrogeno formando ammoniaca",
+      "L'N2 viene ridotto a protossido di azoto e poi disperso nell'atmosfera"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fissazione scinde la molecola di N2 in due atomi di azoto libero, che si combinano con l'idrogeno formando due molecole di ammoniaca (NH3), con un notevole dispendio energetico.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-008",
+    "topic": "conservazione",
+    "question": "Cosa indica il fatto che fissare 1 grammo di azoto richiede circa 10 grammi di glucosio ai batteri simbionti?",
+    "suggestion": "Rifletti sul costo energetico del processo di rottura del legame dell'N2.",
+    "options": [
+      "Che la fissazione dell'azoto è un processo energeticamente molto dispendioso",
+      "Che la fissazione dell'azoto produce un netto guadagno energetico per i batteri",
+      "Che il glucosio viene fissato insieme all'azoto all'interno dei noduli radicali"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il rapporto di circa 10 g di glucosio per fissare 1 g di azoto evidenzia il notevole dispendio energetico richiesto dalla fissazione dell'azoto.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-009",
+    "topic": "conservazione",
+    "question": "Quale ruolo svolgono i batteri del genere Rhizobium nel ciclo dell'azoto?",
+    "suggestion": "Sono simbionti che formano strutture particolari sulle radici, tipicamente delle leguminose.",
+    "options": [
+      "Riducono il nitrato fino ad azoto molecolare nei sedimenti privi di ossigeno",
+      "Formano noduli nelle radici delle piante leguminose e vi fissano l'azoto",
+      "Ossidano l'ammonio a nitrito come primo passaggio della nitrificazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "I batteri del genere Rhizobium sono simbionti che formano noduli nelle radici delle piante ospiti, generalmente leguminose, ed hanno grande importanza negli ecosistemi agricoli.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-010",
+    "topic": "conservazione",
+    "question": "Cosa distingue i batteri come Azotobacter e Clostridium da quelli del genere Rhizobium?",
+    "suggestion": "Confronta chi vive libero nel suolo con chi vive dentro i noduli delle radici.",
+    "options": [
+      "Sono batteri del suolo a vita libera, mentre Rhizobium vive simbionte nei noduli",
+      "Sono simbionti delle radici, mentre Rhizobium vive libero nel suolo circostante",
+      "Sono cianobatteri acquatici, mentre Rhizobium è un batterio terrestre nitrificante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Azotobacter e Clostridium sono batteri del suolo a vita libera che fissano l'azoto, mentre Rhizobium è un simbionte che vive nei noduli radicali delle leguminose.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-011",
+    "topic": "conservazione",
+    "question": "In cosa consiste il processo di ammonificazione nel ciclo dell'azoto?",
+    "suggestion": "Riguarda la trasformazione dell'ammoniaca, prodotto di scarto microbico, in uno ione assorbibile.",
+    "options": [
+      "Nella riduzione del nitrato ad azoto molecolare da parte di batteri anaerobici",
+      "Nella conversione dell'NH3, prodotto di scarto microbico, in ammonio (NH4⁺)",
+      "Nella conversione dell'ammonio in nitrito a opera del genere Nitrosomonas"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ammonificazione converte l'NH3, prodotto di scarto dell'attività microbica, in ammonio (NH4⁺); nei suoli leggermente acidi, con eccesso di H⁺, avviene rapidamente.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-012",
+    "topic": "conservazione",
+    "question": "Qual è la sequenza corretta della nitrificazione e i batteri coinvolti?",
+    "suggestion": "Attenzione all'ordine: prima si forma il nitrito, poi il nitrato, ciascuno con il suo genere batterico.",
+    "options": [
+      "Da NO3⁻ a NO2⁻ a opera di Nitrobacter, poi ad NH4⁺ a opera di Nitrosomonas",
+      "Da NH4⁺ a NO2⁻ a opera di Nitrobacter, poi a NO3⁻ a opera di Nitrosomonas",
+      "Da NH4⁺ a NO2⁻ a opera di Nitrosomonas, poi a NO3⁻ a opera di Nitrobacter"
+    ],
+    "correctIndex": 2,
+    "explanation": "La nitrificazione converte gradualmente l'NH4⁺ in NO2⁻ a opera di Nitrosomonas e poi il NO2⁻ in NO3⁻ a opera di Nitrobacter; il nitrato può essere assorbito dalle radici o restituito all'atmosfera.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-013",
+    "topic": "conservazione",
+    "question": "Cosa avviene durante la denitrificazione operata da batteri del genere Pseudomonas?",
+    "suggestion": "È il processo che restituisce l'azoto all'atmosfera riducendo il nitrato a forme gassose.",
+    "options": [
+      "Il NO3⁻ viene ridotto a N2O e N2, gas che vengono rilasciati nell'atmosfera",
+      "L'NH4⁺ viene ossidato a NO3⁻, nitrato poi assorbito dalle radici delle piante",
+      "L'N2 atmosferico viene fissato e convertito in ammoniaca dentro i noduli radicali"
+    ],
+    "correctIndex": 0,
+    "explanation": "La denitrificazione è la riduzione chimica del NO3⁻ a N2O e N2 a opera di batteri come Pseudomonas, con rilascio di questi gas nell'atmosfera.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-014",
+    "topic": "conservazione",
+    "question": "Perché la denitrificazione è comune nelle zone umide e nei sedimenti di fondo degli ecosistemi acquatici?",
+    "suggestion": "Il processo richiede una particolare condizione riguardo alla disponibilità di ossigeno.",
+    "options": [
+      "Perché questi ambienti offrono le condizioni aerobiche di cui il processo necessita",
+      "Perché questi ambienti offrono le condizioni anaerobiche richieste dal processo",
+      "Perché in questi ambienti l'elevata acidità accelera la riduzione del nitrato"
+    ],
+    "correctIndex": 1,
+    "explanation": "La denitrificazione richiede condizioni anaerobiche, rare nella maggior parte degli ecosistemi terrestri ma comuni nelle zone umide e nei sedimenti di fondo degli ecosistemi acquatici.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-015",
+    "topic": "conservazione",
+    "question": "Qual è la forma di azoto più comunemente esportata dagli ecosistemi terrestri attraverso le acque fluviali?",
+    "suggestion": "È la forma ossidata prodotta dalla nitrificazione, mobile nelle acque.",
+    "options": [
+      "L'ammonio (NH4⁺)",
+      "L'azoto molecolare (N2)",
+      "Il nitrato (NO3⁻)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il nitrato è la forma di azoto più comunemente esportata dagli ecosistemi terrestri attraverso le acque fluviali; negli ecosistemi non disturbati la quantità è contenuta per l'elevata domanda vegetale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-016",
+    "topic": "conservazione",
+    "question": "Perché nei suoli fortemente acidi la fissazione dell'azoto e la nitrificazione risultano inibite?",
+    "suggestion": "Entrambi i processi sono mediati da batteri, la cui attività dipende da fattori ambientali.",
+    "options": [
+      "Perché l'acidità molto elevata favorisce in modo eccessivo l'attività dei batteri",
+      "Perché entrambi i processi sono mediati da batteri, inibiti dai suoli molto acidi",
+      "Perché in ambiente acido l'azoto molecolare diventa direttamente assimilabile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fissazione e nitrificazione sono entrambe mediate da batteri, la cui attività dipende da temperatura, umidità e pH: nei suoli fortemente acidi l'azione batterica risulta inibita.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-017",
+    "topic": "conservazione",
+    "question": "In cosa consiste il ciclo interno dell'azoto, relativamente simile da un ecosistema all'altro?",
+    "suggestion": "Comprende sia l'assorbimento delle forme utili da parte delle piante sia la loro restituzione al suolo.",
+    "options": [
+      "Nella sola e continua esportazione del nitrato disciolto verso gli ecosistemi acquatici posti a valle",
+      "Nella conversione dell'N2 atmosferico in ammoniaca a opera dei soli fulmini",
+      "Nell'assimilazione di NH4⁺ e NO3⁻ dalle piante e nella loro restituzione con la decomposizione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il ciclo interno dell'azoto si articola nell'assimilazione di NH4⁺ e NO3⁻ da parte delle piante e nella restituzione dell'azoto al suolo, ai sedimenti e all'acqua attraverso la decomposizione della materia organica morta.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.47-48"
+  },
+  {
+    "id": "cons-c22-azoto-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La conversione dell'NH3, prodotto di scarto microbico, in ammonio (NH4⁺) assorbibile dalle piante è detta ___.",
+    "answers": [
+      ["ammonificazione", "ammonification"]
+    ],
+    "suggestion": "È il passaggio che produce lo ione ammonio a partire dall'ammoniaca; il nome deriva proprio dall'ammonio.",
+    "explanation": "L'ammonificazione converte l'NH3, prodotto di scarto dell'attività microbica, in ammonio (NH4⁺), forma direttamente utilizzabile dalle piante.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  },
+  {
+    "id": "cons-c22-azoto-fill-002",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La riduzione chimica del nitrato (NO3⁻) a N2O e N2, con rilascio nell'atmosfera in condizioni anaerobiche, è detta ___.",
+    "answers": [
+      ["denitrificazione", "denitrification"]
+    ],
+    "suggestion": "È il processo che restituisce l'azoto all'atmosfera, opposto per direzione alla nitrificazione.",
+    "explanation": "La denitrificazione è la riduzione del NO3⁻ a N2O e N2 a opera di batteri come Pseudomonas, in condizioni anaerobiche, con rilascio di questi gas nell'atmosfera.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.47"
+  }
+]

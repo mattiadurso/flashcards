@@ -1,0 +1,844 @@
+[
+  {
+    "id": "cons-c14-forme-001",
+    "topic": "conservazione",
+    "question": "Perché necrofagi e decompositori non rientrano nella definizione di predazione?",
+    "suggestion": "Pensa allo stato in cui si trova l'organismo di cui questi si nutrono.",
+    "options": [
+      "Perché si nutrono di materia organica già morta e non di organismi vivi",
+      "Perché sono organismi autotrofi che non dipendono da altri organismi",
+      "Perché uccidono la preda al momento della cattura ma non ne consumano affatto i tessuti animali"
+    ],
+    "correctIndex": 0,
+    "explanation": "La predazione riguarda chi si procura energia nutrendosi di altri organismi; necrofagi e decompositori sfruttano materia organica già morta, quindi ne sono esclusi.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.25"
+  },
+  {
+    "id": "cons-c14-forme-002",
+    "topic": "conservazione",
+    "question": "In base a quale criterio gli organismi eterotrofi vengono classificati in carnivori, erbivori e onnivori?",
+    "suggestion": "Guarda quale tipo di tessuto viene consumato, non la quantità di cibo.",
+    "options": [
+      "In base al numero di prede uccise nell'arco della loro intera vita da adulti",
+      "In base all'ambiente in cui reperiscono le proprie prede",
+      "In base al tipo di tessuto di cui si nutrono, vegetale o animale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La classificazione si fonda sul tessuto consumato: animale (carnivori), vegetale o algale (erbivori), oppure entrambi (onnivori).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.25"
+  },
+  {
+    "id": "cons-c14-forme-003",
+    "topic": "conservazione",
+    "question": "Che cosa caratterizza un vero predatore (true predator) rispetto alle altre forme di predazione?",
+    "suggestion": "Concentrati sul momento e sulla rapidità con cui la preda muore.",
+    "options": [
+      "Instaura una relazione intima e prolungata con un singolo organismo ospite",
+      "Consuma solo una parte della preda senza provocarne la morte",
+      "Uccide la propria preda pressoché immediatamente al momento della cattura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il vero predatore uccide la preda quasi subito dopo la cattura e nel corso della vita consuma molte prede, agendo come agente di mortalità continuo.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.25"
+  },
+  {
+    "id": "cons-c14-forme-004",
+    "topic": "conservazione",
+    "question": "Perché brucatori (grazers) e ramificatori (browsers) di norma non agiscono come veri predatori?",
+    "suggestion": "Considera che di solito consumano solo una porzione di ciascun individuo vegetale.",
+    "options": [
+      "Perché consumano solo una parte del singolo vegetale, danneggiandolo ma non uccidendolo",
+      "Perché si nutrono esclusivamente di piante già morte o in decomposizione",
+      "Perché uccidono ogni singola pianta subito dopo averla individuata, attaccata e consumata in parte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli erbivori come grazers e browsers consumano tipicamente solo parte di un singolo individuo vegetale: possono danneggiarlo ma di solito non lo uccidono.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.25"
+  },
+  {
+    "id": "cons-c14-forme-005",
+    "topic": "conservazione",
+    "question": "Perché i predatori di semi e i planctivori sono considerati un'eccezione tra gli erbivori?",
+    "suggestion": "Chiediti se, in questi due casi, la 'preda' vegetale sopravvive al pasto.",
+    "options": [
+      "Perché non danneggiano affatto l'organismo di cui si nutrono",
+      "Perché uccidono la propria 'preda' e funzionano quindi come veri predatori",
+      "Perché instaurano con l'ospite una relazione intima e non letale"
+    ],
+    "correctIndex": 1,
+    "explanation": "A differenza degli altri erbivori, predatori di semi e planctivori uccidono l'organismo consumato, comportandosi come veri predatori.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-forme-006",
+    "topic": "conservazione",
+    "question": "Che cosa distingue il rapporto tra un parassita e il suo ospite dalla predazione vera e propria?",
+    "suggestion": "Rifletti sul fatto che l'ospite resta vivo per gran parte dell'interazione.",
+    "options": [
+      "Il parassita uccide l'ospite immediatamente per nutrirsene appena lo ha catturato",
+      "Il parassita si nutre di un ospite vivo, con danno di norma non letale a breve termine",
+      "Il parassita consuma soltanto ospiti già morti o in avanzata decomposizione, comportandosi come un necrofago"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il parassita vive sull'ospite o al suo interno per parte del ciclo vitale, nutrendosene senza ucciderlo, almeno nel breve periodo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-forme-007",
+    "topic": "conservazione",
+    "question": "In che modo un parassitoide attacca il proprio ospite?",
+    "suggestion": "Pensa al ruolo delle uova e delle larve nell'interazione.",
+    "options": [
+      "Sottrae solo una parte dei tessuti dell'ospite senza mai provocarne la morte",
+      "Uccide l'ospite immediatamente al momento della cattura, come un vero predatore",
+      "Depone le uova sul corpo dell'ospite e le larve se ne nutrono, uccidendolo infine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il parassitoide attacca in modo indiretto: depone le uova sull'ospite, le larve si nutrono di esso e ne causano infine la morte.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-forme-008",
+    "topic": "conservazione",
+    "question": "Qual è la differenza fondamentale tra un parassita e un parassitoide nell'esito per l'ospite?",
+    "suggestion": "Confronta il destino finale dell'ospite nei due casi.",
+    "options": [
+      "Il parassita di norma non uccide l'ospite, mentre il parassitoide ne causa infine la morte",
+      "Il parassita uccide subito l'ospite al momento della cattura, mentre il parassitoide lo lascia sempre vivo",
+      "Entrambi uccidono l'ospite immediatamente dopo la cattura, ma in ambienti differenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il parassita danneggia l'ospite senza ucciderlo nel breve periodo; nel parassitoidismo le larve si sviluppano a spese dell'ospite fino a provocarne la morte.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-forme-fill-009",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Gli organismi che si procurano energia nutrendosi di altri organismi sono detti ___.",
+    "answers": [
+      [
+        "eterotrofi",
+        "eterotrofo"
+      ]
+    ],
+    "suggestion": "È il termine opposto a 'autotrofi', chi produce da sé il proprio nutrimento.",
+    "explanation": "Gli eterotrofi ricavano energia consumando altri organismi; si dividono in carnivori, erbivori e onnivori.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.25"
+  },
+  {
+    "id": "cons-c14-forme-fill-010",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Gli organismi che depongono le uova sul corpo di un ospite, le cui larve se ne nutrono causandone infine la morte, sono detti ___.",
+    "answers": [
+      [
+        "parassitoidi",
+        "parassitoide"
+      ]
+    ],
+    "suggestion": "Non sono semplici parassiti: il loro attacco è indiretto ma alla fine letale.",
+    "explanation": "I parassitoidi instaurano un'associazione intima con un singolo ospite e ne provocano la morte attraverso lo sviluppo delle larve.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-011",
+    "topic": "conservazione",
+    "question": "Da quali due componenti è costituita l'equazione di crescita della popolazione di prede nel modello di Lotka-Volterra?",
+    "suggestion": "Una descrive la crescita in assenza di predatori, l'altra la perdita dovuta ad essi.",
+    "options": [
+      "La crescita logistica limitata da K e un termine di immigrazione delle prede",
+      "La crescita esponenziale rN e un termine di mortalità per predazione cNpreda",
+      "La mortalità naturale delle prede e un termine di natalità dei predatori"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'equazione delle prede unisce la crescita esponenziale (rN) e la mortalità dovuta alla predazione (cNpreda), unica fonte di mortalità considerata.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-012",
+    "topic": "conservazione",
+    "question": "Che cosa rappresenta il parametro c nel termine cNpreda dell'equazione delle prede?",
+    "suggestion": "Riguarda quanto è bravo il predatore a trasformare gli incontri in catture.",
+    "options": [
+      "Il tasso di mortalità pro capite dei predatori",
+      "La capacità portante dell'ambiente per le prede",
+      "L'efficienza di cattura del predatore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il parametro c è l'efficienza di cattura: quanto maggiore è c, tanto più prede il predatore cattura e consuma.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-013",
+    "topic": "conservazione",
+    "question": "Che cosa esprime il prodotto cNpreda nel modello predatore-preda?",
+    "suggestion": "È riferito a un singolo predatore e a un'unità di tempo.",
+    "options": [
+      "Il numero totale di prede presenti nell'intero ambiente in un dato istante, a prescindere dai predatori presenti",
+      "Il tasso di natalità totale dell'intera popolazione di predatori nell'unità di tempo",
+      "Il tasso di consumo di prede pro capite, cioè le prede consumate per predatore per unità di tempo"
+    ],
+    "correctIndex": 2,
+    "explanation": "cNpreda è il consumo pro capite: il numero di prede che ciascun predatore cattura e consuma nell'unità di tempo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-014",
+    "topic": "conservazione",
+    "question": "Come si ottiene il tasso totale di predazione dell'intera popolazione di predatori?",
+    "suggestion": "Il consumo di un singolo predatore va esteso a quanti predatori ci sono.",
+    "options": [
+      "Moltiplicando il consumo pro capite cNpreda per il numero totale di predatori",
+      "Sommando il tasso di natalità e il tasso di mortalità dell'intera popolazione di predatori",
+      "Dividendo la crescita esponenziale rNpreda per l'efficienza di cattura c"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il tasso totale di predazione è (cNpreda)Npredatore: il consumo pro capite moltiplicato per il numero di predatori, e rappresenta una mortalità per le prede.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-015",
+    "topic": "conservazione",
+    "question": "Quale fattore di regolazione della popolazione NON è incluso nella formulazione di Lotka-Volterra per le prede?",
+    "suggestion": "Manca un limite ambientale che di solito frena la crescita esponenziale.",
+    "options": [
+      "La mortalità dovuta alla predazione",
+      "Il tasso di crescita intrinseco r delle prede",
+      "La capacità portante K dell'ambiente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel modello la predazione è l'unica fonte di mortalità delle prede: la capacità portante K non compare nella formulazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-016",
+    "topic": "conservazione",
+    "question": "Da quali due componenti è costituita l'equazione di crescita della popolazione di predatori?",
+    "suggestion": "Una dipende dal cibo consumato, l'altra è una perdita costante.",
+    "options": [
+      "Una natalità funzione del consumo di prede e una mortalità proporzionale ai predatori",
+      "Una crescita esponenziale rNpredatore e una mortalità per predazione cNpreda",
+      "Una capacità portante K e un tasso di immigrazione delle prede provenienti da aree vicine"
+    ],
+    "correctIndex": 0,
+    "explanation": "La natalità dei predatori dipende dal consumo b(cNpreda)Npredatore, mentre la mortalità è una proporzione costante dNpredatore.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-017",
+    "topic": "conservazione",
+    "question": "Nel modello, in che modo è assunta la mortalità della popolazione di predatori?",
+    "suggestion": "Il parametro d agisce come un tasso costante applicato al numero di predatori.",
+    "options": [
+      "Come una funzione crescente della densità di prede disponibili",
+      "Come un valore che dipende dall'efficienza di cattura c",
+      "Come una proporzione costante della popolazione, dNpredatore"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mortalità dei predatori è dNpredatore, con d tasso di mortalità pro capite costante, indipendente dalla densità di prede.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-018",
+    "topic": "conservazione",
+    "question": "Da che cosa dipende il tasso di natalità pro capite dei predatori nel modello di Lotka-Volterra?",
+    "suggestion": "La riproduzione dei predatori è legata a quanto cibo riescono a procurarsi.",
+    "options": [
+      "Dalla capacità portante K dell'ambiente disponibile per la popolazione di predatori",
+      "Dal tasso di mortalità costante d che caratterizza la popolazione di predatori",
+      "Dalla quantità di cibo consumato, cioè dal tasso di consumo pro capite cNpreda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il tasso di natalità dei predatori aumenta linearmente con il consumo pro capite cNpreda: più prede si consumano, più si riproducono.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-019",
+    "topic": "conservazione",
+    "question": "In che senso, nel modello di Lotka-Volterra, ciascuna popolazione regola l'altra in modo denso-dipendente?",
+    "suggestion": "Pensa a quale tasso dell'altra popolazione ciascuna delle due controlla.",
+    "options": [
+      "Le prede regolano la mortalità dei predatori, i predatori regolano la natalità delle prede",
+      "Le prede regolano la natalità dei predatori, i predatori regolano la mortalità delle prede",
+      "Entrambe le popolazioni regolano solo la propria capacità portante K"
+    ],
+    "correctIndex": 1,
+    "explanation": "La densità di prede regola la natalità dei predatori (più cibo, più nascite), mentre la densità di predatori regola la mortalità delle prede.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-020",
+    "topic": "conservazione",
+    "question": "A quale valore corrisponde l'isoclina di crescita zero della popolazione di prede?",
+    "suggestion": "Si ottiene imponendo che la crescita delle prede eguagli la mortalità per predazione.",
+    "options": [
+      "Npreda = d/bc",
+      "Npredatore = b/cd",
+      "Npredatore = r/c"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ponendo dNpreda/dt = 0 si ottiene Npredatore = r/c: sotto questa retta le prede crescono, sopra declinano.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-021",
+    "topic": "conservazione",
+    "question": "A quale valore corrisponde l'isoclina di crescita zero della popolazione di predatori?",
+    "suggestion": "Si ricava imponendo che il guadagno dal consumo di prede eguagli la mortalità dei predatori.",
+    "options": [
+      "Npreda = d/bc",
+      "Npredatore = r/c",
+      "Npreda = c/rd"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ponendo dNpredatore/dt = 0 si ottiene Npreda = d/bc: a destra di questa retta i predatori crescono, a sinistra declinano.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-lv-022",
+    "topic": "conservazione",
+    "question": "Rispetto all'isoclina di crescita zero delle prede, in quale condizione la popolazione di prede è in crescita?",
+    "suggestion": "La retta separa la regione in cui i predatori sono pochi da quella in cui sono molti.",
+    "options": [
+      "Quando si trova al di sopra dell'isoclina, con molti predatori",
+      "Quando si trova al di sotto dell'isoclina, con pochi predatori",
+      "Solo esattamente sull'isoclina, dove i due tassi si eguagliano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al di sotto dell'isoclina delle prede il numero di predatori è basso e la popolazione di prede cresce; al di sopra declina.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-lv-023",
+    "topic": "conservazione",
+    "question": "Rappresentando insieme le due isocline, che tipo di dinamica combinata emerge tra le due popolazioni?",
+    "suggestion": "Le quattro regioni del grafico vengono percorse in una sequenza chiusa.",
+    "options": [
+      "Una convergenza stabile verso un unico punto di equilibrio fisso",
+      "Una relazione ciclica, con la dinamica che percorre in senso antiorario le quattro regioni",
+      "Un allontanamento progressivo verso l'estinzione di entrambe le popolazioni"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le due isocline dividono il piano in quattro regioni percorse in senso antiorario, generando oscillazioni periodiche delle due popolazioni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-lv-fill-024",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La retta lungo la quale il tasso di crescita netto di una popolazione è pari a zero è detta ___ di crescita zero.",
+    "answers": [
+      [
+        "isoclina"
+      ]
+    ],
+    "suggestion": "È il termine geometrico che indica il luogo dei punti a crescita nulla.",
+    "explanation": "L'isoclina di crescita zero separa le regioni di crescita e declino di una popolazione nel piano predatore-preda.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.26"
+  },
+  {
+    "id": "cons-c14-cicli-025",
+    "topic": "conservazione",
+    "question": "Perché nelle oscillazioni predatore-preda la popolazione di predatori mostra sempre un ritardo rispetto a quella di prede?",
+    "suggestion": "La crescita dei predatori non può precedere la disponibilità del loro cibo.",
+    "options": [
+      "Perché il tasso di crescita dei predatori dipende dalla presenza di prede disponibili",
+      "Perché i predatori hanno sempre un tasso di natalità superiore a quello delle prede",
+      "Perché la mortalità delle prede è del tutto indipendente dal numero di predatori presenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La riproduzione dei predatori dipende dal cibo disponibile: la loro popolazione può crescere solo dopo che le prede sono aumentate, generando il ritardo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-026",
+    "topic": "conservazione",
+    "question": "Nel ciclo predatore-preda, che cosa provoca l'inizio del declino della popolazione di prede?",
+    "suggestion": "Osserva cosa succede al numero di predatori appena prima che le prede calino.",
+    "options": [
+      "L'esaurimento della capacità portante K dell'ambiente delle prede",
+      "L'aumento della popolazione di predatori, che consuma un numero crescente di prede",
+      "Un calo improvviso del tasso di natalità intrinseco delle prede"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando i predatori aumentano e consumano sempre più prede, la popolazione di prede comincia a declinare; solo più tardi calano anche i predatori per scarsità di cibo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-027",
+    "topic": "conservazione",
+    "question": "Perché, nella fase finale del ciclo, la popolazione di prede riprende ad aumentare?",
+    "suggestion": "Considera quanti predatori restano attivi in quel momento.",
+    "options": [
+      "Perché la capacità portante dell'ambiente aumenta improvvisamente",
+      "Perché i predatori smettono improvvisamente di riprodursi pur restando estremamente numerosi",
+      "Perché i predatori diventano scarsi e la natalità delle prede supera la predazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ridotti i predatori, il tasso di natalità delle prede supera il tasso di predazione e la popolazione di prede torna a crescere, riavviando il ciclo.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-028",
+    "topic": "conservazione",
+    "question": "Che cosa osservò Gause allevando insieme Paramecium (preda) e Didinium (predatore) in un terreno di coltura semplice?",
+    "suggestion": "In assenza di vie di fuga, l'esito per entrambe le specie fu drastico.",
+    "options": [
+      "Oscillazioni cicliche stabili e prolungate di entrambe le popolazioni nel tempo",
+      "Didinium sterminava Paramecium e poi moriva di inedia: estinzione di entrambe",
+      "Paramecium eliminava Didinium prima di stabilizzarsi a densità costante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel terreno semplice Didinium sterminava sistematicamente Paramecium e moriva a sua volta di fame: non si osservavano cicli, ma l'estinzione di entrambe.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-029",
+    "topic": "conservazione",
+    "question": "Che effetto ebbe l'aggiunta di sedimento come rifugio nell'esperimento di Gause con Paramecium e Didinium?",
+    "suggestion": "Il rifugio protegge la preda, ma questo cosa comporta per chi la caccia?",
+    "options": [
+      "La popolazione di predatori si estingueva e solo dopo le prede riemergevano, senza oscillazioni",
+      "Entrambe le popolazioni raggiungevano subito un equilibrio ciclico stabile",
+      "Le prede si estinguevano quasi subito mentre la popolazione di predatori sopravviveva indefinitamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con il rifugio i predatori si estinguevano per mancanza di prede accessibili e solo in seguito le prede riemergevano: ancora nessuna oscillazione ciclica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-030",
+    "topic": "conservazione",
+    "question": "Perché Gause ritenne che le oscillazioni ottenute introducendo l'immigrazione non dimostrassero il modello predatore-preda?",
+    "suggestion": "Chiediti da dove provenivano davvero i nuovi individui che sostenevano le popolazioni.",
+    "options": [
+      "Perché le oscillazioni erano dovute all'apporto artificiale dell'immigrazione, non alle sole interazioni",
+      "Perché le due specie utilizzate non presentavano in realtà alcun vero rapporto trofico, né diretto né indiretto",
+      "Perché il rifugio impediva del tutto qualsiasi contatto diretto tra predatore e preda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Introducendo periodicamente nuovi individui le due specie sopravvivevano e oscillavano, ma Gause attribuì le oscillazioni all'immigrazione artificiale, non alle interazioni predatore-preda.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-031",
+    "topic": "conservazione",
+    "question": "Che cosa dimostrò l'esperimento di Huffaker sugli acari riguardo alle oscillazioni predatore-preda?",
+    "suggestion": "Confronta l'esito su una singola arancia con quello su un vassoio di arance con barriere.",
+    "options": [
+      "Che le oscillazioni sono possibili solo introducendo continuamente nuovi individui dall'esterno",
+      "Che il predatore e la preda coesistono solo se privati di ogni rifugio",
+      "Che un ambiente eterogeneo, con rifugi per la preda, consente oscillazioni cicliche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Su una sola arancia il predatore sterminava le prede e moriva; in un ambiente complesso con barriere e rifugi comparivano oscillazioni cicliche, mostrando il ruolo dell'eterogeneità ambientale.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-cicli-fill-032",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Nell'esperimento di Gause, il sedimento aggiunto al terreno di coltura forniva a Paramecium un ___ per sfuggire ai predatori.",
+    "answers": [
+      [
+        "rifugio"
+      ]
+    ],
+    "suggestion": "È il luogo protetto in cui la preda diventa temporaneamente inaccessibile.",
+    "explanation": "Il rifugio permetteva alla preda di sottrarsi alla predazione, cambiando l'esito della dinamica tra le due popolazioni.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.27"
+  },
+  {
+    "id": "cons-c14-reg-033",
+    "topic": "conservazione",
+    "question": "Quale termine collega tra loro le due equazioni del modello predatore-preda?",
+    "suggestion": "È lo stesso termine che rappresenta il cibo che passa dalle prede ai predatori.",
+    "options": [
+      "Il termine di consumo delle prede, (cNpreda)Npredatore",
+      "Il tasso di crescita intrinseco delle prede, rNpreda",
+      "Il tasso di mortalità costante dei predatori, dNpredatore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il termine (cNpreda)Npredatore rappresenta insieme la mortalità delle prede e la riproduzione dei predatori, collegando le due equazioni.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-reg-034",
+    "topic": "conservazione",
+    "question": "Che cosa descrive la risposta funzionale di un predatore?",
+    "suggestion": "Riguarda quante prede vengono consumate al variare della loro abbondanza.",
+    "options": [
+      "Come la riproduzione dei predatori aumenti con il consumo di prede",
+      "Come i predatori migrino attivamente verso le aree caratterizzate da un'alta densità di prede",
+      "Come, all'aumentare delle prede disponibili, il predatore ne consumi una quantità maggiore"
+    ],
+    "correctIndex": 2,
+    "explanation": "La risposta funzionale lega il tasso di consumo pro capite alla densità di prede: più prede disponibili, più prede consumate per predatore.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-reg-035",
+    "topic": "conservazione",
+    "question": "Che cosa descrive la risposta numerica di un predatore, distinta dalla risposta funzionale?",
+    "suggestion": "Non riguarda quanto mangia ciascun individuo, ma cosa succede al numero di predatori.",
+    "options": [
+      "Come il consumo pro capite aumenti al crescere della densità di prede",
+      "Come il tempo di manipolazione limiti il numero di prede catturabili",
+      "Come l'aumento del consumo di prede si traduca in un aumento della riproduzione dei predatori"
+    ],
+    "correctIndex": 2,
+    "explanation": "La risposta numerica descrive l'effetto del maggior consumo di prede sulla riproduzione (e quindi sul numero) dei predatori, mentre quella funzionale riguarda il consumo pro capite.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-036",
+    "topic": "conservazione",
+    "question": "Che forma ha la risposta funzionale di Tipo I, assunta nelle equazioni di Lotka-Volterra?",
+    "suggestion": "In questo tipo il tasso di mortalità delle prede resta invariato al crescere della densità.",
+    "options": [
+      "Il numero di prede consumate aumenta linearmente con la densità di prede",
+      "Il consumo aumenta in modo decelerante fino a raggiungere un plateau di saturazione",
+      "Il consumo è basso a basse densità e cresce in modo denso-dipendente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel Tipo I Ne cresce linearmente con Npreda e la mortalità delle prede resta costante, pari all'efficienza c: è l'assunzione del modello di Lotka-Volterra.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-037",
+    "topic": "conservazione",
+    "question": "In quale tipo di predatori si osserva tipicamente una risposta funzionale di Tipo I?",
+    "suggestion": "Pensa a chi cattura le prede semplicemente filtrando l'acqua che lo attraversa.",
+    "options": [
+      "Predatori attivi che inseguono singolarmente ogni preda",
+      "Predatori passivi come gli organismi filtratori",
+      "Predatori che formano un'immagine di ricerca per la preda più abbondante"
+    ],
+    "correctIndex": 1,
+    "explanation": "La risposta di Tipo I è tipica dei predatori passivi come i filtratori: per un dato flusso d'acqua, la cattura è proporzionale alla densità di prede nel volume filtrato.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-038",
+    "topic": "conservazione",
+    "question": "Quali assunzioni implicite rendono possibile la crescita illimitata del consumo nella risposta di Tipo I?",
+    "suggestion": "Perché il consumo cresca senza limiti, due vincoli reali devono essere ignorati.",
+    "options": [
+      "Che il predatore raggiunga presto la sazietà e sia limitato dal tempo di manipolazione",
+      "Che il predatore non raggiunga mai la sazietà e non sia limitato dal tempo di manipolazione",
+      "Che il tempo di ricerca sia costante e la densità di prede sempre bassa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il Tipo I assume che i predatori non si sazino mai e non siano vincolati dal tempo di manipolazione: solo così il consumo può crescere linearmente senza limite.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-039",
+    "topic": "conservazione",
+    "question": "Che cosa distingue la risposta funzionale di Tipo II da quella di Tipo I?",
+    "suggestion": "Il Tipo II tiene conto di un vincolo temporale che il Tipo I ignora.",
+    "options": [
+      "Il consumo cresce linearmente senza mai saturare, ignorando del tutto il tempo di manipolazione della preda",
+      "Il consumo è basso a basse densità e aumenta solo in modo denso-dipendente",
+      "Il consumo aumenta in modo decelerante e raggiunge un massimo, per il tempo di manipolazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il Tipo II include il tempo di manipolazione: il consumo pro capite cresce in modo decelerante fino a un plateau, mentre il Tipo I resta lineare.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-040",
+    "topic": "conservazione",
+    "question": "Nella risposta di Tipo II, in quali due componenti si suddivide il tempo totale T dedicato all'attività alimentare?",
+    "suggestion": "Un tempo serve a trovare la preda, l'altro a occuparsene una volta catturata.",
+    "options": [
+      "Il tempo di ricerca (Ts) e il tempo di manipolazione (Th)",
+      "Il tempo di riproduzione e il tempo di difesa dai predatori",
+      "Il tempo di immigrazione e il tempo di sazietà"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel Tipo II T = Ts + Th: tempo di ricerca (individuare la preda) più tempo di manipolazione (inseguire, catturare e consumare).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-041",
+    "topic": "conservazione",
+    "question": "Nella risposta di Tipo II, come variano tempo di ricerca e tempo di manipolazione all'aumentare della densità di prede?",
+    "suggestion": "Con più prede diventa facile trovarle, ma bisogna occuparsi di un numero maggiore di esse.",
+    "options": [
+      "Aumentano entrambi, perché il predatore deve cercare e gestire più prede",
+      "Il tempo di ricerca aumenta, mentre il tempo di manipolazione diminuisce",
+      "Il tempo di ricerca diminuisce, mentre il tempo di manipolazione aumenta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con prede più abbondanti è più facile individuarle, quindi Ts diminuisce; ma le prede da gestire sono più numerose, quindi Th aumenta e impone un limite al consumo.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-042",
+    "topic": "conservazione",
+    "question": "Come varia il tasso di mortalità delle prede all'aumentare della loro densità in una risposta di Tipo II?",
+    "suggestion": "Il tempo di manipolazione impone un tetto al numero di prede consumabili.",
+    "options": [
+      "Diminuisce, perché il consumo satura e non può seguire l'aumento delle prede",
+      "Aumenta linearmente insieme alla densità di prede, senza mai raggiungere un limite superiore",
+      "Resta costante a qualsiasi densità di prede, come avviene nella risposta di Tipo I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Poiché il consumo pro capite satura, ad alte densità di prede il tasso di mortalità dovuto alla predazione diminuisce: è il tipo di risposta più comune in natura.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-043",
+    "topic": "conservazione",
+    "question": "In che cosa la risposta funzionale di Tipo III differisce dal Tipo II a basse densità di preda?",
+    "suggestion": "Le due curve coincidono solo alle alte densità; la differenza sta nel tratto iniziale.",
+    "options": [
+      "Nel Tipo III il consumo è più alto a basse densità e poi cala bruscamente",
+      "Nel Tipo III il consumo è inizialmente più basso e poi cresce in modo denso-dipendente",
+      "Nel Tipo III il consumo cresce linearmente senza alcuna saturazione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il Tipo III somiglia al Tipo II ad alte densità, ma a basse densità il consumo è inizialmente più basso e aumenta in modo denso-dipendente al crescere delle prede.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-044",
+    "topic": "conservazione",
+    "question": "In quale tratto della curva di Tipo III i predatori regolano effettivamente la densità della popolazione di prede?",
+    "suggestion": "La regolazione avviene finché la mortalità delle prede sta ancora aumentando.",
+    "options": [
+      "Nel tratto in cui il tasso di mortalità delle prede aumenta con la densità",
+      "Solo alle densità più elevate, dove la mortalità delle prede diminuisce",
+      "In nessun tratto, poiché il Tipo III non incide sulla densità delle prede"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel Tipo III la regolazione avviene nel tratto crescente della mortalità; superata quella densità la mortalità per predazione cala, come nel Tipo II.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-045",
+    "topic": "conservazione",
+    "question": "In che modo la formazione di un'immagine di ricerca può generare una risposta di Tipo III?",
+    "suggestion": "Considera come cambia la capacità del predatore di riconoscere una preda dopo le prime catture.",
+    "options": [
+      "Il predatore riconosce subito ogni nuova preda, catturandone molte già a basse densità",
+      "Il predatore riconosce male la preda finché è rara, e la individua meglio dopo le prime catture",
+      "Il predatore perde progressivamente la capacità di riconoscere una preda già catturata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando una preda è rara il rischio che venga riconosciuta è basso; dopo aver catturato i primi individui il predatore la individua più facilmente, così il consumo cresce con la densità (Tipo III).",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-046",
+    "topic": "conservazione",
+    "question": "In che cosa consiste il fenomeno del cambio di preda (prey switching)?",
+    "suggestion": "Riguarda un predatore che si nutre di più tipi di preda con abbondanze diverse.",
+    "options": [
+      "Un predatore che predilige una preda si orienta verso una specie più abbondante e conveniente",
+      "Un predatore abbandona del tutto la predazione quando la preda preferita scarseggia",
+      "Un predatore concentra sempre lo sforzo sulla preda più rara indipendentemente dalla convenienza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Molti predatori mangiano più tipi di preda: quando la preda preferita diventa rara possono orientarsi verso una specie più abbondante e conveniente, secondo le loro preferenze alimentari.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rf-047",
+    "topic": "conservazione",
+    "question": "Quale andamento mostrò lo spinarello a quindici spine alimentato con anfipodi e gamberetti di salamoia?",
+    "suggestion": "L'esito rifletteva la variazione dell'abbondanza relativa delle due prede.",
+    "options": [
+      "Una risposta lineare crescente in proporzione diretta alla densità di ciascuna preda",
+      "Una risposta a forma di S rispetto all'abbondanza relativa delle due prede",
+      "Una risposta costante indipendente dall'abbondanza relativa delle prede"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo spinarello mostrò una risposta a forma di S al variare dell'abbondanza relativa delle prede, dovuta al cambiamento nell'efficienza di attacco e all'immagine di ricerca.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rf-fill-048",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il tempo necessario a inseguire, catturare e consumare la preda, che limita il consumo nella risposta di Tipo II, è detto tempo di ___.",
+    "answers": [
+      [
+        "manipolazione"
+      ]
+    ],
+    "suggestion": "In inglese è handling time: è ciò che si contrappone al tempo di ricerca.",
+    "explanation": "Il tempo di manipolazione (handling time) impone un limite superiore al numero di prede che un predatore può consumare nell'intervallo T.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.28"
+  },
+  {
+    "id": "cons-c14-rn-049",
+    "topic": "conservazione",
+    "question": "Attraverso quali due meccanismi può realizzarsi la risposta numerica dei predatori all'aumento della densità di prede?",
+    "suggestion": "Uno riguarda le nascite, l'altro lo spostamento degli individui verso il cibo.",
+    "options": [
+      "Un aumento della riproduzione oppure l'immigrazione verso aree ad alta densità di prede",
+      "Un aumento del tempo di manipolazione oppure una progressiva riduzione del tempo di ricerca delle prede",
+      "Una diminuzione dell'efficienza di cattura oppure un aumento della mortalità"
+    ],
+    "correctIndex": 0,
+    "explanation": "La risposta numerica può avvenire per aumento della riproduzione (b) o per immigrazione verso aree ricche di prede, cioè la risposta aggregativa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rn-050",
+    "topic": "conservazione",
+    "question": "Che cosa si intende per risposta aggregativa dei predatori?",
+    "suggestion": "Non è un fatto riproduttivo, ma di spostamento nello spazio.",
+    "options": [
+      "L'aumento della covata media per coppia in risposta all'abbondanza di prede",
+      "La riduzione del tempo di ricerca quando le prede diventano abbondanti",
+      "L'immigrazione dei predatori verso aree ad alta densità di prede"
+    ],
+    "correctIndex": 2,
+    "explanation": "La risposta aggregativa è l'immigrazione dei predatori verso le aree con più prede, uno dei due meccanismi della risposta numerica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rn-051",
+    "topic": "conservazione",
+    "question": "Perché nello studio sulla donnola in Polonia orientale non si osservò alcun ritardo nella risposta numerica all'aumento dei roditori?",
+    "suggestion": "Confronta i tempi di riproduzione di roditori e donnole in quell'anno particolarmente ricco di cibo.",
+    "options": [
+      "Perché le donnole immigrarono in massa da aree lontane a densità costante",
+      "Perché i roditori si riprodussero anche d'inverno e le donnole in primavera, senza sfasamento",
+      "Perché la popolazione di donnole crebbe molto più lentamente di quella dei roditori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grazie all'abbondanza di semi i roditori si riprodussero anche in inverno; riproducendosi le donnole in primavera, non ci fu sfasamento e la risposta fu dominata dall'aumento della riproduzione.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rn-052",
+    "topic": "conservazione",
+    "question": "Nello studio quindicennale sull'albanella minore, quali componenti della risposta numerica furono documentate?",
+    "suggestion": "Furono osservati sia uno spostamento verso le prede sia un cambiamento nella prole.",
+    "options": [
+      "Solo un aumento della covata media, senza alcuna risposta aggregativa",
+      "Una risposta aggregativa e un aumento della covata media con la disponibilità di prede",
+      "Solo una risposta aggregativa, senza variazioni nella dimensione della covata"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'albanella mostrò una risposta funzionale di Tipo II; la densità riproduttiva aumentò con le prede (risposta aggregativa) e crebbe anche la covata media per coppia (aumento della riproduzione).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rn-053",
+    "topic": "conservazione",
+    "question": "Che cosa documentò lo studio sulla lince canadese e sulla lepre americana nello Yukon riguardo alla risposta numerica?",
+    "suggestion": "Osserva la relazione temporale tra i picchi delle due popolazioni.",
+    "options": [
+      "Le linci aumentarono di 7,5 volte con un ritardo di circa un anno rispetto al picco delle lepri",
+      "Le linci e le lepri raggiunsero il picco esattamente nello stesso momento, senza ritardo",
+      "Le linci diminuirono progressivamente mentre le lepri aumentavano, in una costante relazione inversa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La popolazione di linci aumentò di 7,5 volte in risposta all'incremento delle lepri, con circa un anno di ritardo; l'aumento delle linci fece poi declinare le lepri e quindi le linci stesse.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rn-054",
+    "topic": "conservazione",
+    "question": "A che cosa fu dovuto il successivo declino della popolazione di linci nello studio dello Yukon?",
+    "suggestion": "Concorsero due fattori legati a nascite e spostamenti degli individui.",
+    "options": [
+      "A un improvviso aumento della capacità portante dell'ambiente delle lepri",
+      "A una ridotta riproduzione e a un aumento dei tassi di emigrazione",
+      "Alla sola immigrazione di nuove linci da territori vicini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ridotte le lepri, la popolazione di linci declinò sia per una minore riproduzione sia per un aumento dell'emigrazione.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-rn-fill-055",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "L'immigrazione dei predatori verso aree ad alta densità di prede è definita risposta ___.",
+    "answers": [
+      [
+        "aggregativa"
+      ]
+    ],
+    "suggestion": "Deriva dall'idea che i predatori si 'aggregano' dove le prede sono più numerose.",
+    "explanation": "La risposta aggregativa è uno dei due meccanismi della risposta numerica: i predatori si concentrano dove le prede abbondano.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  },
+  {
+    "id": "cons-c14-for-056",
+    "topic": "conservazione",
+    "question": "Perché il foraggiamento di un predatore comporta inevitabilmente dei compromessi (trade-off)?",
+    "suggestion": "Procurarsi il cibo non è l'unica attività a cui vanno dedicati tempo ed energia.",
+    "options": [
+      "Perché il predatore deve dividere tempo ed energia tra cibo, difesa, riproduzione e cura della prole",
+      "Perché il foraggiamento richiede quasi sempre più energia di quanta il cibo consumato ne riesca a fornire",
+      "Perché il predatore può nutrirsi soltanto di un'unica specie di preda per volta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oltre a procurarsi il cibo, un predatore deve allocare tempo ed energia a evitare i predatori, alla difesa, alla ricerca del partner e alla cura della prole: soddisfare tutte queste esigenze impone dei trade-off.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.29"
+  }
+]

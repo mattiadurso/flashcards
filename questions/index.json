@@ -557,6 +557,78 @@
           "count": 40
         }
       ]
+    },
+    {
+      "topic": "conservazione",
+      "label": "Conservazione della natura (Ecologia)",
+      "files": [
+        {
+          "species": "Cap. 9 — Accrescimento delle popolazioni",
+          "file": "conservazione/c09-accrescimento.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 60
+        },
+        {
+          "species": "Cap. 10 — Storia vitale, selezione r/K, popolazione umana",
+          "file": "conservazione/c10-storia-vitale.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 30
+        },
+        {
+          "species": "Cap. 11 — Regolazione intraspecifica delle popolazioni",
+          "file": "conservazione/c11-regolazione-intraspec.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 55
+        },
+        {
+          "species": "Cap. 12 — Interazioni tra specie e selezione naturale",
+          "file": "conservazione/c12-interazioni-specie.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 50
+        },
+        {
+          "species": "Cap. 13 — Competizione interspecifica",
+          "file": "conservazione/c13-competizione-intersp.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 40
+        },
+        {
+          "species": "Cap. 14 — Predazione",
+          "file": "conservazione/c14-predazione.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 56
+        },
+        {
+          "species": "Cap. 16 — Struttura della comunità",
+          "file": "conservazione/c16-struttura-comunita.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 41
+        },
+        {
+          "species": "Cap. 18 — Successione ecologica",
+          "file": "conservazione/c18-successione.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 41
+        },
+        {
+          "species": "Cap. 20 — Energetica degli ecosistemi",
+          "file": "conservazione/c20-energetica.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 31
+        },
+        {
+          "species": "Cap. 21 — Decomposizione e ciclo dei nutrienti",
+          "file": "conservazione/c21-decomposizione.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 46
+        },
+        {
+          "species": "Cap. 22 — Cicli biogeochimici",
+          "file": "conservazione/c22-cicli-biogeochimici.json",
+          "source": "docs/conservazione/Conservazione_della_Natura_Dispensa_Parte2_1.pdf",
+          "count": 58
+        }
+      ]
     }
   ]
 }

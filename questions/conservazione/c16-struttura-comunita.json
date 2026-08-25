@@ -1,0 +1,601 @@
+[
+  {
+    "id": "cons-c16-composizione-001",
+    "topic": "conservazione",
+    "question": "Che cosa definisce la struttura biologica di una comunità?",
+    "suggestion": "Non conta solo quanti individui ci sono, ma di quali specie sono fatti e in che proporzioni.",
+    "options": [
+      "La quantità totale di individui presenti, indipendentemente dalle specie a cui appartengono",
+      "Il flusso di energia che attraversa i diversi livelli trofici della comunità",
+      "La composizione specifica, cioè quali specie sono presenti e in quale abbondanza"
+    ],
+    "correctIndex": 2,
+    "explanation": "La composizione specifica, ossia l'insieme delle specie presenti e la loro abbondanza relativa, definisce la struttura biologica della comunità; il solo conteggio totale degli individui non ne descrive la struttura.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.30-31"
+  },
+  {
+    "id": "cons-c16-composizione-002",
+    "topic": "conservazione",
+    "question": "Che cosa esprime l'abbondanza relativa di una specie, calcolata come pi = ni/N?",
+    "suggestion": "È una proporzione: rapporta gli individui di una specie a quelli di tutta la comunità.",
+    "options": [
+      "Il numero assoluto di individui della specie i presenti nella comunità",
+      "La proporzione di individui della specie i sul totale della comunità",
+      "Il rapporto tra il numero di specie e il numero totale di individui"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'abbondanza relativa è la proporzione degli individui di una specie (ni) sul totale degli individui di tutte le specie (N); è una misura più informativa del semplice conteggio assoluto.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.30-31"
+  },
+  {
+    "id": "cons-c16-composizione-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "La proporzione degli individui di una specie sul totale della comunità (pi = ni/N) è detta ___.",
+    "answers": [["abbondanza relativa", "abbondanza relativa (relative abundance)"]],
+    "suggestion": "È una proporzione, non un conteggio assoluto: rapporta una specie all'intera comunità.",
+    "explanation": "L'abbondanza relativa (relative abundance) è la proporzione di ciascuna specie rispetto al numero totale di individui di tutte le specie della comunità.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.30-31"
+  },
+  {
+    "id": "cons-c16-composizione-003",
+    "topic": "conservazione",
+    "question": "Quali due caratteristiche fondamentali della comunità fornisce il diagramma di abbondanza per rango?",
+    "suggestion": "Una riguarda quante specie ci sono, l'altra quanto uniformemente si distribuiscono gli individui.",
+    "options": [
+      "La biomassa totale e la produttività primaria netta della comunità",
+      "Il numero di livelli trofici e la lunghezza delle catene alimentari",
+      "La ricchezza specifica e l'equitabilità specifica della comunità"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il diagramma di abbondanza per rango descrive insieme la ricchezza specifica (numero di specie) e l'equitabilità specifica (uniformità della distribuzione degli individui), le due componenti della diversità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-composizione-004",
+    "topic": "conservazione",
+    "question": "In un diagramma di abbondanza per rango, che cosa indica una curva più estesa lungo l'asse orizzontale?",
+    "suggestion": "L'asse orizzontale riporta i ranghi: più è lungo, più ranghi (quindi specie) ci sono.",
+    "options": [
+      "Una maggiore equitabilità nella distribuzione degli individui tra le specie",
+      "Una maggiore ricchezza specifica, cioè un numero più alto di specie",
+      "Una minore abbondanza relativa della specie più comune della comunità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quanto più la curva si estende lungo l'asse dei ranghi, tanto maggiore è il numero di specie e quindi la ricchezza specifica; la pendenza, invece, riflette l'equitabilità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-composizione-005",
+    "topic": "conservazione",
+    "question": "Che cosa segnala una pendenza più graduale della curva di abbondanza per rango?",
+    "suggestion": "Una curva quasi piatta significa che le abbondanze delle specie sono molto simili tra loro.",
+    "options": [
+      "Una maggiore ricchezza specifica, con molte più specie presenti",
+      "Una maggiore equitabilità, con individui distribuiti più uniformemente",
+      "Una più marcata dominanza da parte di una singola specie molto abbondante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una pendenza graduale indica che le abbondanze relative sono simili tra le specie, cioè un'elevata equitabilità; una curva ripida indica invece forte dominanza di poche specie.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-composizione-006",
+    "topic": "conservazione",
+    "question": "Se tutte le specie fossero egualmente abbondanti, quale intercetta avrebbe la retta orizzontale del diagramma?",
+    "suggestion": "Con S specie tutte uguali, ognuna vale la stessa frazione del totale.",
+    "options": [
+      "Pari a 1,0/S, dove S è il numero di specie presenti",
+      "Pari a S, cioè al numero di specie presenti nella comunità",
+      "Pari a 1,0 indipendentemente dal numero di specie presenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con specie egualmente abbondanti la curva diventa orizzontale con intercetta 1,0/S: con una sola specie vale 1,0, con dieci specie uguali vale 0,1.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-001",
+    "topic": "conservazione",
+    "question": "Perché la sola ricchezza specifica (S) non descrive adeguatamente la diversità di una comunità?",
+    "suggestion": "Due comunità con lo stesso numero di specie possono avere distribuzioni molto diverse degli individui.",
+    "options": [
+      "Perché non considera affatto il numero totale di specie presenti nella comunità",
+      "Perché dipende esclusivamente dalla biomassa delle specie dominanti",
+      "Perché non tiene conto di come gli individui si distribuiscono tra le specie"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ricchezza conta solo quante specie ci sono, ma ignora l'equitabilità: due comunità con la stessa S possono differire molto se in una gli individui sono ripartiti uniformemente e nell'altra concentrati in poche specie.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-002",
+    "topic": "conservazione",
+    "question": "Che cosa rappresenta l'indice di base di Simpson (D), calcolato come somma dei pi²?",
+    "suggestion": "Immagina di pescare a caso due individui: che probabilità c'è che siano della stessa specie?",
+    "options": [
+      "La probabilità che due individui presi a caso appartengano a specie diverse",
+      "Il numero medio di specie che si incontrano campionando ripetutamente la comunità",
+      "La probabilità che due individui presi a caso appartengano alla stessa specie"
+    ],
+    "correctIndex": 2,
+    "explanation": "D = Σpi² è la probabilità che due individui estratti casualmente appartengano alla stessa specie; vale 1 con una sola specie e tende a 0 quando la diversità cresce.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-003",
+    "topic": "conservazione",
+    "question": "Perché si preferisce spesso usare l'indice di Simpson nella forma 1 − D anziché D?",
+    "suggestion": "D è controintuitivo: cresce quando la diversità cala. Serve un valore che aumenti con la diversità.",
+    "options": [
+      "Perché 1 − D corregge l'indice per il numero totale di individui campionati",
+      "Perché 1 − D aumenta con la diversità e misura la probabilità di due specie diverse",
+      "Perché 1 − D elimina l'influenza delle specie rare sul risultato finale del calcolo"
+    ],
+    "correctIndex": 1,
+    "explanation": "D è controintuitivo (vale 1 in assenza di diversità e tende a 0 con alta diversità); 1 − D inverte la scala, aumentando con la diversità, e rappresenta la probabilità che due individui appartengano a specie diverse.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il grado di uniformità con cui gli individui si distribuiscono tra le diverse specie è detto ___ specifica.",
+    "answers": [["equitabilità", "equitabilita", "evenness"]],
+    "suggestion": "È la componente della diversità che riguarda quanto 'equamente' sono ripartiti gli individui, non quante specie ci sono.",
+    "explanation": "L'equitabilità specifica (species evenness) misura quanto uniformemente gli individui sono distribuiti tra le specie; insieme alla ricchezza specifica compone la diversità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-004",
+    "topic": "conservazione",
+    "question": "A quale valore corrisponde il massimo dell'indice reciproco di Simpson (1/D)?",
+    "suggestion": "Il reciproco è massimo quando la comunità è più diversa possibile: tante specie egualmente rappresentate.",
+    "options": [
+      "La ricchezza specifica S, cioè il numero di specie presenti",
+      "Il valore 1, uguale per qualsiasi comunità considerata nel tempo",
+      "La somma delle abbondanze relative elevate al quadrato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il reciproco 1/D vale al minimo 1 (una sola specie) e raggiunge il massimo pari alla ricchezza specifica S; proprio perché S è il suo massimo, l'equitabilità si può calcolare come (1/D)/S.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-005",
+    "topic": "conservazione",
+    "question": "In quale condizione l'equitabilità di Simpson, calcolata come ED = (1/D)/S, assume valore 1?",
+    "suggestion": "L'equitabilità è massima quando nessuna specie prevale sulle altre.",
+    "options": [
+      "Quando è presente una sola specie fortemente dominante nella comunità",
+      "Quando la ricchezza specifica raggiunge il suo valore massimo teorico",
+      "Quando tutte le specie hanno la stessa abbondanza relativa"
+    ],
+    "correctIndex": 2,
+    "explanation": "ED varia tra 0 e 1 e vale 1 quando tutte le specie sono egualmente abbondanti, cioè quando la ripartizione degli individui è perfettamente uniforme.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-006",
+    "topic": "conservazione",
+    "question": "Che cosa considera l'indice di Shannon (H) e quale valore massimo può raggiungere?",
+    "suggestion": "Come Simpson, tiene conto sia del numero di specie sia della loro uniformità; il massimo si lega al logaritmo di S.",
+    "options": [
+      "Considera ricchezza ed equitabilità, e il suo massimo è pari a ln S",
+      "Considera soltanto la ricchezza specifica, e il suo massimo è pari a S",
+      "Considera solo l'equitabilità, e il suo massimo è pari a 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "H = −Σ(pi)(ln pi) tiene conto sia della ricchezza sia dell'equitabilità; vale 0 con una sola specie e raggiunge il massimo Hmax = ln S quando tutte le specie sono egualmente abbondanti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-diversita-007",
+    "topic": "conservazione",
+    "question": "Che cosa indica un valore pari a 1 dell'equitabilità di Shannon, calcolata come EH = H/Hmax?",
+    "suggestion": "Si ottiene 1 quando H coincide con il suo massimo ln S: nessuna specie predomina.",
+    "options": [
+      "Massima ricchezza specifica, con il numero più alto possibile di specie",
+      "Completa equitabilità, con tutte le specie egualmente abbondanti",
+      "Presenza di una sola specie fortemente dominante nella comunità"
+    ],
+    "correctIndex": 1,
+    "explanation": "EH varia tra 0 e 1 e vale 1 quando H = Hmax = ln S, cioè in condizione di completa equitabilità, con tutte le specie egualmente abbondanti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-dominanza-001",
+    "topic": "conservazione",
+    "question": "In termini concettuali, che cosa rappresenta la dominanza in una comunità?",
+    "suggestion": "Quando poche specie prevalgono, la diversità è bassa: le due nozioni si oppongono.",
+    "options": [
+      "L'inverso concettuale della diversità specifica della comunità",
+      "Un sinonimo della ricchezza specifica della comunità considerata",
+      "Una misura diretta dell'equitabilità tra le specie presenti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dominanza si ha quando una o poche specie predominano nella comunità e rappresenta concettualmente l'inverso della diversità: alta dominanza corrisponde a bassa diversità.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.31"
+  },
+  {
+    "id": "cons-c16-dominanza-002",
+    "topic": "conservazione",
+    "question": "Quale indice viene spesso impiegato come misura della dominanza in una comunità?",
+    "suggestion": "Cerca l'indice che vale 1 quando una sola specie occupa l'intera comunità.",
+    "options": [
+      "L'indice di Shannon H, detto anche indice di Shannon-Weiner",
+      "L'indice reciproco di Simpson, calcolato come 1/D",
+      "L'indice di base di Simpson, indicato con la lettera D"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'indice di base di Simpson D è usato come misura di dominanza: quando D = 1 è presente una sola specie, completamente dominante, e non c'è diversità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.31-32"
+  },
+  {
+    "id": "cons-c16-dominanza-003",
+    "topic": "conservazione",
+    "question": "Perché la sola abbondanza numerica non è sempre una misura sufficiente della dominanza?",
+    "suggestion": "Pensa a una foresta: molti alberelli piccoli, ma pochi giganti che pesano di più.",
+    "options": [
+      "Perché poche specie di grandi dimensioni possono concentrare gran parte della biomassa",
+      "Perché il numero di individui raramente può essere stimato in modo affidabile sul campo",
+      "Perché le specie rare contribuiscono più di quelle comuni alla biomassa totale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Molti individui piccoli possono contare poco in biomassa, mentre pochi individui grandi ne concentrano gran parte; per questo la dominanza si valuta meglio combinando numero e dimensioni degli individui.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-dominanza-004",
+    "topic": "conservazione",
+    "question": "Nella foresta decidua della Virginia, come si comportano le querce bianche rispetto alle altre specie?",
+    "suggestion": "Il loro peso nella comunità cambia molto a seconda che tu conti individui o biomassa.",
+    "options": [
+      "Costituiscono il 60% dell'abbondanza relativa, insieme ad acero rosso e corniolo",
+      "Concentrano il 60% della biomassa pur essendo solo il 9% dell'abbondanza relativa",
+      "Rappresentano il 9% sia dell'abbondanza sia della biomassa relativa della comunità"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le querce bianche sono solo il 9% dell'abbondanza relativa ma concentrano circa il 60% della biomassa; acero rosso e corniolo, al contrario, dominano per numero (60% dell'abbondanza) ma non per biomassa.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-dominanza-005",
+    "topic": "conservazione",
+    "question": "Che cosa illustra la vicenda del castagno americano nelle foreste del Nord America orientale?",
+    "suggestion": "Era un competitore vincente, poi un patogeno ne ha rovesciato lo status.",
+    "options": [
+      "È tuttora la specie arborea dominante nelle foreste nordamericane orientali",
+      "Era una specie rara divenuta dominante dopo l'arrivo accidentale di un parassita",
+      "Era il competitore dominante prima di essere quasi sterminato da un parassita"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il castagno americano era il competitore dominante delle foreste orientali finché il parassita del cancro corticale (chestnut blight) non lo ha pressoché sterminato, mostrando come la dominanza si raggiunga a scapito di altre specie.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-dominanza-006",
+    "topic": "conservazione",
+    "question": "In che modo vengono generalmente definite le specie dominanti all'interno di una comunità?",
+    "suggestion": "Una stessa comunità può avere un albero dominante e, a parte, un mammifero dominante.",
+    "options": [
+      "Separatamente per i diversi gruppi tassonomici o funzionali della comunità",
+      "Considerando l'intera comunità come un unico gruppo indistinto di specie e di ruoli",
+      "Solamente tra i produttori primari presenti all'interno della comunità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le specie dominanti si definiscono di norma separatamente per ciascun gruppo tassonomico o funzionale: una comunità può avere sia una specie arborea dominante sia una specie dominante tra i piccoli mammiferi.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-keystone-001",
+    "topic": "conservazione",
+    "question": "Che cosa caratterizza una specie chiave di volta all'interno di una comunità?",
+    "suggestion": "Il suo peso ecologico non corrisponde al suo peso numerico.",
+    "options": [
+      "Un impatto sulla comunità sproporzionato rispetto alla propria abbondanza numerica",
+      "Un impatto proporzionale alla propria elevata abbondanza numerica nella comunità considerata",
+      "Un ruolo marginale e facilmente sostituibile da altre specie della comunità"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una specie chiave di volta svolge un ruolo unico il cui effetto sulla comunità è molto maggiore, e sproporzionato, rispetto alla sua consistenza numerica.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-keystone-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Una specie che influenza la struttura della comunità in modo sproporzionato rispetto alla propria abbondanza è detta specie ___.",
+    "answers": [["chiave di volta", "chiave di volta (keystone)", "keystone"]],
+    "suggestion": "Il termine richiama l'elemento architettonico che, pur piccolo, tiene insieme un arco.",
+    "explanation": "La specie chiave di volta (keystone species) ha un impatto sulla comunità molto maggiore di quanto la sua abbondanza numerica farebbe prevedere; la sua rimozione può alterare profondamente la struttura della comunità.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-keystone-002",
+    "topic": "conservazione",
+    "question": "In che modo il corallo Oculina arbuscula agisce come specie chiave di volta?",
+    "suggestion": "Pensa a che cosa offre la sua forma ramificata a centinaia di altre specie.",
+    "options": [
+      "Competendo con le altre specie di corallo per lo spazio e per la luce disponibili nell'ambiente",
+      "Creando un habitat strutturalmente complesso che ospita circa 300 specie di invertebrati",
+      "Predando gli invertebrati che si insediano tra i suoi rami ramificati e complessi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oculina arbuscula è l'unico corallo della regione con forma ramificata complessa e crea un habitat per circa 300 specie di invertebrati, molte delle quali vi completano gran parte del ciclo vitale.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-keystone-003",
+    "topic": "conservazione",
+    "question": "In che modo gli elefanti africani agiscono come erbivori chiave di volta nelle savane?",
+    "suggestion": "La loro alimentazione distrugge le piante legnose: che cosa favorisce, di conseguenza, questo?",
+    "options": [
+      "Aumentando la copertura arborea, riducono lo spazio disponibile per le graminacee della savana",
+      "Nutrendosi di graminacee, riducono la competizione a favore degli arbusti legnosi",
+      "Riducendo alberi e arbusti, favoriscono la crescita e la riproduzione delle graminacee"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nutrendosi di piante legnose che spesso sradicano e spezzano, gli elefanti riducono la densità di alberi e arbusti; la minore copertura arborea favorisce le graminacee e gli erbivori che le brucano.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-keystone-004",
+    "topic": "conservazione",
+    "question": "A chi giova principalmente il cambiamento della comunità prodotto dall'alimentazione degli elefanti?",
+    "suggestion": "Attenzione: chi provoca il cambiamento non è necessariamente chi ne trae vantaggio.",
+    "options": [
+      "Direttamente agli elefanti stessi, che si nutrono delle nuove graminacee cresciute",
+      "Alle piante legnose, che ricrescono più dense subito dopo il disturbo iniziale",
+      "Agli erbivori brucatori di graminacee, e non direttamente agli elefanti stessi"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'aumento delle graminacee avvantaggia gli erbivori che se ne nutrono, ma non gli elefanti, che si alimentano di piante legnose: un effetto indiretto sulla comunità che non ritorna a chi lo causa.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-keystone-005",
+    "topic": "conservazione",
+    "question": "Quale sequenza descrive correttamente le relazioni trofiche della lontra marina nei boschi di kelp?",
+    "suggestion": "Segui la catena: chi mangia il kelp, chi mangia quello, e chi sta in cima.",
+    "options": [
+      "Le lontre mangiano i ricci, che pascolano il kelp; le orche predano le lontre",
+      "I ricci mangiano le lontre, che pascolano il kelp; le orche predano i ricci di mare",
+      "Le orche mangiano i ricci, tenuti sotto controllo a loro volta dalle lontre"
+    ],
+    "correctIndex": 0,
+    "explanation": "I ricci di mare pascolano il kelp, le lontre marine predano i ricci e le orche predano le lontre: la lontra è il predatore chiave di volta che, controllando i ricci, protegge il kelp.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.32-33"
+  },
+  {
+    "id": "cons-c16-keystone-006",
+    "topic": "conservazione",
+    "question": "Quale catena di effetti segue al declino delle lontre marine causato dalla predazione delle orche?",
+    "suggestion": "Tolto il predatore dei ricci, che cosa succede ai ricci e quindi al kelp?",
+    "options": [
+      "Il kelp aumenta rapidamente, offrendo più habitat a tutte le altre specie della comunità costiera",
+      "I ricci aumentano e sovrapascolano il kelp, riducendo l'habitat disponibile per le altre specie",
+      "I ricci diminuiscono e permettono al kelp di espandersi ulteriormente lungo la costa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rimosso il predatore chiave di volta, la popolazione di ricci cresce e sovrapascola il kelp, riducendo l'habitat per le altre specie: la perdita di una sola specie si propaga a tutta la comunità.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf pp.32-33"
+  },
+  {
+    "id": "cons-c16-keystone-007",
+    "topic": "conservazione",
+    "question": "In che cosa può consistere il ruolo svolto da una specie chiave di volta nella comunità?",
+    "suggestion": "Può agire sull'ambiente fisico oppure sui rapporti tra le altre specie.",
+    "options": [
+      "Nel creare o modificare gli habitat, oppure nell'influenzare le interazioni tra le specie",
+      "Nel fornire la maggior parte della biomassa vegetale prodotta dalla comunità nel corso dell'anno",
+      "Nell'occupare stabilmente il livello trofico più basso dell'intera rete alimentare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il ruolo di una specie chiave di volta può consistere nel creare o modificare gli habitat oppure nell'influenzare le interazioni tra le altre specie; non è definito dalla sua posizione trofica o dalla sua biomassa.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.32"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-001",
+    "topic": "conservazione",
+    "question": "In una catena alimentare, in quale direzione puntano le frecce che collegano le specie?",
+    "suggestion": "La freccia segue il flusso di energia da chi viene mangiato a chi mangia.",
+    "options": [
+      "Dalla preda consumata verso il predatore consumatore",
+      "Dal predatore consumatore verso la preda che viene consumata",
+      "Dai produttori primari verso il Sole, la loro fonte di energia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La catena alimentare rappresenta il flusso di energia dalla preda al predatore, quindi le frecce vanno dalla specie consumata a quella consumatrice (es. erba → cavalletta → passero → falco).",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-002",
+    "topic": "conservazione",
+    "question": "In che cosa una rete alimentare differisce da una singola catena alimentare?",
+    "suggestion": "Le relazioni reali non sono una fila lineare, ma un intreccio di più catene.",
+    "options": [
+      "La rete è una singola sequenza lineare di specie collegate tra loro in fila",
+      "La rete rappresenta soltanto le interazioni tra i produttori primari della comunità",
+      "La rete intreccia molte catene, mostrando le complesse interazioni tra le specie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le relazioni alimentari reali non sono catene lineari ma numerose catene intrecciate; la rete alimentare rappresenta l'insieme delle complesse interazioni tra predatori e prede della comunità.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-fill-001",
+    "type": "fill",
+    "topic": "conservazione",
+    "question": "Il rapporto tra il numero di collegamenti osservati e il massimo possibile in una rete trofica (C = L/S²) è detto ___.",
+    "answers": [["connettanza", "connettanza (connectance)", "connectance"]],
+    "suggestion": "Misura quanto la rete è 'connessa': quanti dei collegamenti possibili sono effettivamente realizzati.",
+    "explanation": "La connettanza (food web connectance) è C = L/S², cioè il rapporto tra i collegamenti effettivamente osservati (L) e il numero massimo possibile (S²).",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-003",
+    "topic": "conservazione",
+    "question": "Quali organismi costituiscono la base di una rete alimentare?",
+    "suggestion": "Sono quelli che catturano l'energia luminosa e la immettono nella rete.",
+    "options": [
+      "I produttori primari, ossia gli organismi fotosintetici",
+      "I predatori sommitali, che non vengono predati da nessuno",
+      "Le specie intermedie, siano esse erbivore o carnivore"
+    ],
+    "correctIndex": 0,
+    "explanation": "I produttori primari, gli organismi fotosintetici, costituiscono la base della rete alimentare, da cui l'energia fluisce verso i livelli superiori.",
+    "difficulty": "easy",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-004",
+    "topic": "conservazione",
+    "question": "Come sono definite le specie basali all'interno di una rete alimentare?",
+    "suggestion": "Non mangiano altre specie, ma sono mangiate: quale gruppo trofico corrisponde a questo?",
+    "options": [
+      "Carnivori che predano le specie intermedie senza essere a loro volta predati",
+      "Autotrofi che non si nutrono di altre specie ma vengono predati da altre",
+      "Onnivori che si nutrono sia di autotrofi sia dei predatori sommitali della rete"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le specie basali sono generalmente autotrofi: non si nutrono di altre specie ma vengono predate; costituiscono il punto di partenza della rete alimentare.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-005",
+    "topic": "conservazione",
+    "question": "Come sono definiti i predatori sommitali in una rete alimentare?",
+    "suggestion": "Stanno in cima: mangiano ma non vengono mangiati.",
+    "options": [
+      "Si nutrono di specie intermedie ma non vengono predati da altre specie",
+      "Si nutrono solo di specie basali e vengono predati dagli onnivori della rete",
+      "Vengono predati dalle specie intermedie ma non predano nessun'altra specie"
+    ],
+    "correctIndex": 0,
+    "explanation": "I predatori sommitali si nutrono di specie intermedie (e, se onnivori, talvolta di specie basali) ma non vengono predati da nessun'altra specie della rete.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-006",
+    "topic": "conservazione",
+    "question": "Assumendo che ogni specie possa collegarsi con ogni altra e con sé stessa, qual è il numero massimo di collegamenti in una rete con S specie?",
+    "suggestion": "Se ognuna delle S specie può collegarsi a tutte le S, quante combinazioni ottieni?",
+    "options": [
+      "Pari a S, cioè al numero di specie presenti nella rete trofica",
+      "Pari a S(S−1)/2, contando solo i collegamenti unidirezionali possibili",
+      "Pari a S², il quadrato della ricchezza specifica della comunità"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se ciascuna delle S specie può collegarsi con ogni altra, sé stessa inclusa, il numero massimo di collegamenti è S²; la formula S(S−1)/2 è invece un metodo alternativo che conta solo i collegamenti unidirezionali.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-007",
+    "topic": "conservazione",
+    "question": "Che cosa misura la connettanza di una rete trofica, calcolata come C = L/S²?",
+    "suggestion": "Confronta i collegamenti che ci sono davvero con tutti quelli teoricamente possibili.",
+    "options": [
+      "Il numero medio di collegamenti per ciascuna specie presente nella rete",
+      "Il rapporto tra i collegamenti osservati e il massimo numero possibile",
+      "La lunghezza media delle catene alimentari all'interno della rete trofica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La connettanza è il rapporto tra i collegamenti effettivamente osservati (L) e il numero massimo possibile (S²); il numero medio di collegamenti per specie è invece la densità dei collegamenti.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-008",
+    "topic": "conservazione",
+    "question": "Che cosa rappresenta la densità dei collegamenti (LD) di una rete trofica, calcolata come L/S?",
+    "suggestion": "Dividi i collegamenti totali per le specie: ottieni una media per specie.",
+    "options": [
+      "Il rapporto tra i collegamenti osservati e i collegamenti massimi possibili",
+      "Il numero medio di collegamenti per specie presente nella rete trofica",
+      "Il numero di livelli trofici che compongono complessivamente la rete alimentare"
+    ],
+    "correctIndex": 1,
+    "explanation": "La densità dei collegamenti LD = L/S è il numero medio di collegamenti per specie; il rapporto tra collegamenti osservati e massimi possibili è invece la connettanza.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-009",
+    "topic": "conservazione",
+    "question": "A che cosa corrisponde la lunghezza di una singola catena alimentare all'interno di una rete trofica?",
+    "suggestion": "Conta i passaggi che separano la cima della rete dalla sua base.",
+    "options": [
+      "Al numero totale di specie presenti nell'intera rete trofica considerata",
+      "Al numero medio di prede consumate da ciascun predatore sommitale",
+      "Al numero di collegamenti tra un predatore sommitale e le specie basali"
+    ],
+    "correctIndex": 2,
+    "explanation": "La lunghezza di una catena corrisponde al numero di collegamenti tra un predatore sommitale e la base della rete (le specie basali); la media di tutte le catene è la lunghezza media delle catene.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-010",
+    "topic": "conservazione",
+    "question": "Che cosa ha rilevato lo studio su 19 ecosistemi riguardo a connettanza, densità dei collegamenti e lunghezza delle catene al crescere di S?",
+    "suggestion": "Uno di questi tre parametri va in direzione opposta agli altri due.",
+    "options": [
+      "La connettanza aumenta, mentre densità e lunghezza delle catene diminuiscono",
+      "Connettanza, densità dei collegamenti e lunghezza delle catene diminuiscono tutte",
+      "La connettanza diminuisce, mentre densità e lunghezza delle catene aumentano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lo studio su 19 ecosistemi ha rilevato che, all'aumentare della ricchezza specifica S, la connettanza diminuisce, mentre la densità dei collegamenti e la lunghezza media delle catene aumentano.",
+    "difficulty": "hard",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  },
+  {
+    "id": "cons-c16-reti-trofiche-011",
+    "topic": "conservazione",
+    "question": "Che cosa significa che una rete trofica è compartimentalizzata?",
+    "suggestion": "Le interazioni si concentrano dentro sottogruppi di specie, più che tra sottogruppi diversi.",
+    "options": [
+      "Tutte le specie della rete interagiscono reciprocamente con la medesima frequenza di contatto",
+      "Le specie di uno stesso compartimento interagiscono molto tra loro, poco con altri",
+      "I compartimenti coincidono con i diversi livelli trofici della rete alimentare"
+    ],
+    "correctIndex": 1,
+    "explanation": "In una rete compartimentalizzata le specie di uno stesso compartimento interagiscono frequentemente tra loro ma poco con le specie di altri compartimenti; questa struttura tende a comparire al crescere della ricchezza specifica.",
+    "difficulty": "medium",
+    "source": "Conservazione_della_Natura_Dispensa_Parte2_1.pdf p.33"
+  }
+]
