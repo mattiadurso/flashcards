@@ -96,7 +96,7 @@ Build everything, then end your reply with (a) the exact commands to launch it o
 > `index.json`, `praise.js`, hidden easter eggs, and no `images/` folder yet).
 
 ```
-flashcards/                      ← repo root (GitHub repo is "flashcards"; was "giud_studia" — see note below)
+flashcards/                      ← repo root (GitHub repo is "flashcards"; was "giud_studia" — see "Git" under Development conventions)
   index.html                     ← the only page; markup + header controls (theme toggle, lang it/en, Reset, Restore flagged) + flip-card markup
   styles.css                     ← all styling; light/dark via data-theme + prefers-color-scheme
   app.js                         ← all app logic (~1650 lines): load manifest → fetch banks → quiz/flashcard loop (incl. Back/Forward nav + i18n)
@@ -211,3 +211,9 @@ When you **add or change a behaviour**, add or update a test for it under `tests
 - A **pre-commit git hook** (`.githooks/pre-commit`) runs the tests automatically and blocks the commit if any fail. Enable it once per clone with `git config core.hooksPath .githooks`.
 - The current suite (`tests/test_question_banks.py`) validates the question banks and `index.json` against QUESTION_FORMAT.md — the contract the website depends on. When you add a new kind of question field, manifest shape, or app behaviour with a checkable data contract, extend these tests to cover it.
 - See `tests/README.md` for details.
+
+### Git — commit to main, pull before you push
+
+- Commit straight to `main`; this is a solo study repo, so no feature branches.
+- When asked to push, **pull first, then push**: `git pull --rebase origin main`, then `git push origin main`. The pull picks up anything pushed from another machine; `--rebase` keeps history linear instead of adding a merge commit. If the rebase hits a conflict, stop and ask rather than resolving it silently.
+- `origin` is `https://github.com/mattiadurso/flashcards.git` (the repo was renamed from `giud_studia`).
