@@ -31,7 +31,7 @@ the build:
   *Answer-length parity & borderline distractors*). A high share means questions
   can be solved by picking the longest option without reading them.
 
-`test_app_navigation.py` and `test_i18n.py` cover **app behaviour** rather than
+`test_app_navigation.py`, `test_i18n.py` and `test_flashcard_mode.py` cover **app behaviour** rather than
 data. Since the harness has no JavaScript runtime, they are *static-source*
 checks: they read `app.js` / `index.html` / `i18n.js` and assert each guarantee a
 regression could silently break.
@@ -45,6 +45,13 @@ regression could silently break.
   `data-i18n*` key in the markup and every literal `t('…')` key in `app.js`
   resolves, and the language switch is wired up. This catches the classic i18n
   bug: a string added to one language but not the other.
+- **Flashcard / quiz mode** (`test_flashcard_mode.py`) — the mode checkboxes sit
+  on the setup screen and can't both be unticked; with both ticked each card is a
+  50/50 draw stored on its history record; flipping a flashcard shows only the
+  correct answer and never grades or scrolls; the Sbagliata / Corretta buttons
+  replace Avanti and record the verdict through the same `recordResult` as a quiz
+  answer (so wrong cards come back), and only a flipped card can be graded; a
+  graded card slides out toward its button (the emoji rises from Corretta).
 
 ## Running
 

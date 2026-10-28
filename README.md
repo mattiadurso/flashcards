@@ -12,7 +12,11 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 
 ## What it does
 
-- **Setup screen first** — every session starts on *Imposta la sessione*, where you choose **Argomenti** (topics), **Difficoltà**, and **how many questions**, then tap **Inizia**.
+- **Setup screen first** — every session starts on *Imposta la sessione*, where you choose the **Modalità** (mode), **Argomenti** (topics), **Difficoltà**, and **how many questions**, then tap **Inizia**.
+- **Two modes: Flashcard and Quiz** — tick one or both (your choice is remembered):
+  - **Flashcard** — the card shows only the question; tap it (or press Space) and it flips to show **only the correct answer** on the back (tap again to flip it back). Then grade yourself: **Sbagliata** (red, left) or **Corretta** (green, right) replaces *Avanti*. Your verdict counts exactly like a quiz answer — points, streak, per-topic results — and a *Sbagliata* card stays in the pool, so it comes back in a future session;
+  - **Quiz** — the classic mode below: answer, get graded, earn points;
+  - **both** — each card is drawn at random, 50/50, as a flashcard or a quiz question.
 - **Language (it / en)** — a switch at the top of the setup screen toggles the **interface** between Italian and English (the choice is remembered). The questions themselves stay in the language they were written in (Italian).
 - **Topics multi-select** — take a whole subject group or just specific species, with *Tutti / Nessuno* shortcuts and a live *"N disponibili"* count.
 - **Session length** — quick chips (10 / 20 / 30 / 50 / *Tutte*); your choice is remembered.
@@ -34,6 +38,12 @@ No framework, no build step, no npm, no internet — just vanilla HTML + CSS + J
 ## Run it
 
 Most browsers block `fetch()` on `file://`, so you need a tiny local server. Python ships with one on macOS and Windows.
+
+### VS Code preview
+
+Use the **Live Preview** extension (`ms-vscode.live-server`): open `index.html`, then <kbd>Cmd/Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> → **Live Preview: Show Preview** (or right-click `index.html` → **Show Preview**). It runs a local server for you, so everything works.
+
+The older **HTML Preview** extension (its menu item is **Open Preview**) can't run this app: its security policy blocks every data request, so the questions never load. The page tells you so if you open it there. Inside Live Preview's embedded panel, confirmation dialogs (*Reset progressi*, *Segnala*, *Ripristina segnalate*) may be suppressed by VS Code; if those buttons seem to do nothing, use **Live Preview: Show Preview (External Browser)**.
 
 ### macOS
 
@@ -90,6 +100,7 @@ giud_studia/
     test_question_banks.py      ← validates the question banks + manifest
     test_app_navigation.py      ← back/forward navigation contract
     test_i18n.py                ← it/en translation contract
+    test_flashcard_mode.py      ← flashcard / quiz mode contract
   .githooks/             ← pre-commit hook that runs the tests
   QUESTION_FORMAT.md     ← full spec + rules for writing questions
   README.md
@@ -161,6 +172,8 @@ See **`tests/README.md`** for what's checked and how to add tests. Per
 - **1 – 4** — select an option (multiple-choice questions)
 - **Enter** — submit your typed answer (fill-in-the-blank questions)
 - **Enter / Space** — go to the next question (*Avanti*)
+- **Space / Enter** on a flashcard — flip it
+- **1 / 2** on a flipped flashcard — *Sbagliata* / *Corretta*
 - **←** (left arrow) — go back to the previous question (read-only; your answer doesn't change)
 - **h** — toggle the hint (*Suggerimento*) when the question has one
 - **Esc** — close the topics menu

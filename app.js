@@ -11,6 +11,7 @@ const SELECTION_KEY = 'giud_studia.topics.v1';
 const THEME_KEY = 'giud_studia.theme.v1';   // 'light' (default) | 'dark'
 const FOLD_KEY = 'giud_studia.folds.v1';    // labels of unfolded topic groups (rest collapsed)
 const LANG_KEY = 'giud_studia.lang.v1';     // UI language: 'it' (default) | 'en'
+const MODES_KEY = 'giud_studia.modes.v1';   // ticked study modes: 'quiz' and/or 'flash'
 
 const state = {
   bank: [],              // all loaded questions
@@ -32,6 +33,7 @@ const state = {
   sessionLength: 'all',  // 'all', or a positive integer (as a string from the dropdown)
   sessionTotal: 0,       // how many questions this session actually has
   lang: 'it',            // UI language: 'it' (default) | 'en'
+  modes: new Set(['quiz']),  // 'quiz' (pick an answer, scored) and/or 'flash' (flip, unscored)
 };
 
 // ---------- storage ----------
@@ -78,6 +80,12 @@ function loadLength() {
 
 function saveLength(value) {
   try { localStorage.setItem(LENGTH_KEY, value); } catch {}
+}
+
+// Ticked study modes; falls back to quiz-only so there's always at least one.
+function loadModes() {
+  const modes = new Set([...loadSet(MODES_KEY)].filter(m => m === 'quiz' || m === 'flash'));
+  return modes.size ? modes : new Set(['quiz']);
 }
 
 function loadSelection() {
@@ -270,6 +278,20 @@ async function loadBank() {
   } catch (_) { /* no easter eggs — no problem */ }
 }
 
+// Explain why the questions didn't load. Fetching the JSON needs a real web
+// server: VS Code's old "HTML Preview" extension (a webview whose <base> is a
+// vscode-resource: URL, with a policy that blocks every fetch) and pages opened
+// as file:// both fail, and each gets its own how-to-fix message.
+function loadErrorMessage() {
+  const base = document.baseURI;
+  if (location.protocol === 'vscode-webview:' || base.startsWith('vscode-resource:') ||
+      base.includes('.vscode-resource.vscode-cdn.net')) {
+    return t('error.loadPreview');
+  }
+  if (location.protocol === 'file:') return t('error.loadFile');
+  return t('error.load');
+}
+
 const BONUS_CHANCE = 0.07;   // 7% of sessions get one bonus card
 
 // With BONUS_CHANCE probability, splice one random egg into the queue somewhere
@@ -381,6 +403,7 @@ const els = {
   topicsSummary: document.getElementById('topics-summary'),
   difficultyPills: document.getElementById('difficulty-pills'),
   difficultyField: document.getElementById('difficulty-field'),
+  modePills: document.getElementById('mode-pills'),
   title: document.getElementById('title'),
   themeToggle: document.getElementById('theme-toggle'),
   langSwitch: document.getElementById('lang-switch'),
@@ -403,6 +426,9 @@ const els = {
   card: document.getElementById('card'),
   cardContainer: document.getElementById('card-container'),
   questionText: document.getElementById('question-text'),
+  flashcard: document.getElementById('flashcard'),
+  flashcardQuestion: document.getElementById('flashcard-question'),
+  flashcardAnswer: document.getElementById('flashcard-answer'),
   options: document.getElementById('options'),
   feedback: document.getElementById('feedback'),
   explanationBox: document.getElementById('explanation-box'),
@@ -410,6 +436,7 @@ const els = {
   suggestionBox: document.getElementById('suggestion-box'),
   suggestion: document.getElementById('suggestion'),
   nextBtn: document.getElementById('next-btn'),
+  flashGrade: document.getElementById('flash-grade'),
   metaRow: document.getElementById('meta-row'),
   backBtn: document.getElementById('back-btn'),
   flagBtn: document.getElementById('flag-btn'),
@@ -727,6 +754,31 @@ function updateAvailableCount() {
   });
 }
 
+// ---------- study mode (setup screen) ----------
+
+// Tick/untick a study mode; persisted so the next visit opens the same way. At
+// least one must stay on, so unticking the last one is undone.
+function setMode(mode, on) {
+  if (on) state.modes.add(mode);
+  else if (state.modes.size > 1) state.modes.delete(mode);
+  saveSet(MODES_KEY, state.modes);
+  refreshModePills();
+}
+
+function refreshModePills() {
+  els.modePills.querySelectorAll('input[type=checkbox]').forEach(cb => {
+    cb.checked = state.modes.has(cb.value);
+  });
+}
+
+// How a newly drawn card is shown: as a flashcard when only that mode is on,
+// and on a coin flip (50/50) when both are.
+function drawAsFlashcard() {
+  if (!state.modes.has('flash')) return false;
+  if (!state.modes.has('quiz')) return true;
+  return Math.random() < 0.5;
+}
+
 function showSetupScreen() {
   state.current = null;            // keyboard handlers ignore input while on setup
   document.body.classList.remove('session-active');
@@ -795,11 +847,23 @@ function bounceCard() {
   playAnimation(els.card, 'bounce');
 }
 
-// Pop a big emoji over the card on a correct answer.
-function popEmoji() {
+// Pop a big emoji over the card on a correct answer. Given `fromEl` (a
+// flashcard's Corretta button) it launches from that button and floats up
+// instead: the card is sliding away underneath, so the emoji follows the tap
+// rather than popping over a card that's being swapped out.
+function popEmoji(fromEl) {
   els.emojiPop.textContent = pickRandom(POP_EMOJIS);
   els.emojiPop.hidden = false;
-  playAnimation(els.emojiPop, 'pop', () => { els.emojiPop.hidden = true; });
+  els.emojiPop.classList.remove('pop', 'rise');   // a new pop cuts the old one short
+  let left = '', top = '';
+  if (fromEl) {
+    const rect = fromEl.getBoundingClientRect();
+    left = `${rect.left + rect.width / 2}px`;
+    top = `${rect.top + rect.height / 2}px`;
+  }
+  els.emojiPop.style.left = left;    // '' falls back to the centered CSS spot
+  els.emojiPop.style.top = top;
+  playAnimation(els.emojiPop, fromEl ? 'rise' : 'pop', () => { els.emojiPop.hidden = true; });
 }
 
 // Show a short affectionate toast, auto-hiding after a couple seconds.
@@ -843,10 +907,12 @@ function pickNudge() {
 
 // A per-session record of one shown question: the question itself plus whatever
 // answer was given, so we can re-display it read-only when stepping back/forward.
-function newRecord(q) {
+function newRecord(q, flash) {
   return {
     q,
-    answered: false,
+    flash,                // shown as a flip card (true) or as a quiz question
+    revealed: false,      // flashcard: turned to its answer side at least once
+    answered: false,      // for a flashcard: self-graded Corretta / Sbagliata
     chosenIdx: null,      // multiple-choice: which option was tapped
     fillValues: null,     // fill-in-the-blank: the strings typed into each blank
     blanksCorrect: null,  // fill-in-the-blank: per-blank correctness
@@ -856,11 +922,12 @@ function newRecord(q) {
 
 // "Next" does double duty: if we're reviewing an earlier question, it walks
 // forward through the already-seen history; only once we're back at the front
-// does it pull a fresh question off the queue.
-function nextQuestion() {
+// does it pull a fresh question off the queue. `exitClass` optionally picks how
+// the outgoing card leaves (see renderQuestion).
+function nextQuestion(exitClass) {
   if (state.histPos < state.history.length - 1) {
     state.histPos += 1;
-    showRecord(state.history[state.histPos]);
+    showRecord(state.history[state.histPos], exitClass);
     return;
   }
   if (state.queue.length === 0) {
@@ -869,11 +936,11 @@ function nextQuestion() {
   }
   const id = state.queue.shift();
   const q = findQuestion(id);
-  if (!q) { nextQuestion(); return; }
-  const record = newRecord(q);
+  if (!q) { nextQuestion(exitClass); return; }
+  const record = newRecord(q, drawAsFlashcard());
   state.history.push(record);
   state.histPos = state.history.length - 1;
-  showRecord(record);
+  showRecord(record, exitClass);
 }
 
 // "Back": step one question earlier. The earlier question is always already
@@ -888,11 +955,11 @@ function prevQuestion() {
 // Point the live state at a record and render it. Answered records render in
 // their locked, replayed state; the (only ever frontmost) unanswered record
 // renders fresh and answerable.
-function showRecord(record) {
+function showRecord(record, exitClass) {
   state.currentRecord = record;
   state.current = record.q;
   state.answered = record.answered;
-  renderQuestion(record);
+  renderQuestion(record, exitClass);
   updateBackButton();
   updateProgress();   // keep the counter/bar in step with the card on screen
 }
@@ -902,11 +969,15 @@ function updateBackButton() {
   if (els.backBtn) els.backBtn.hidden = state.histPos <= 0;
 }
 
-function renderQuestion(record) {
+// Swap the card to `record`. The outgoing card fades up by default; a graded
+// flashcard passes 'leaving-right' (Corretta) or 'leaving-left' (Sbagliata) to
+// slide away toward the button that graded it.
+function renderQuestion(record, exitClass = 'leaving') {
   const q = record.q;
+  const flash = record.flash;
   document.body.classList.remove('answered');   // drop the post-answer bottom spacer
   // slide/fade transition
-  els.card.classList.add('leaving');
+  els.card.classList.add(exitClass);
   setTimeout(() => {
     // meta tags
     els.metaRow.innerHTML = '';
@@ -936,7 +1007,13 @@ function renderQuestion(record) {
 
     els.options.innerHTML = '';
     state.fillInputs = [];
-    if (q.type === 'fill') {
+    // A flashcard swaps the question + options for the flip card.
+    els.flashcard.hidden = !flash;
+    els.questionText.hidden = flash;
+    els.options.hidden = flash;
+    if (flash) {
+      renderFlashcard(record);
+    } else if (q.type === 'fill') {
       renderFill(q, record.answered);
     } else {
       els.questionText.textContent = q.question;
@@ -959,11 +1036,20 @@ function renderQuestion(record) {
 
     els.feedback.hidden = true;
     els.explanation.textContent = '';
+    els.explanationBox.hidden = false;   // a flashcard without explanation hides it
+    els.flashGrade.hidden = true;        // the self-grade buttons are flashcard-only
+    els.nextBtn.hidden = false;
 
-    // Reviewing an earlier question: replay its locked answer read-only.
-    if (record.answered) replayAnswer(record);
+    // Reviewing an earlier question: replay its locked answer read-only. A
+    // flashcard comes back as it was left: answer side up once revealed, with
+    // its self-grade buttons (locked if already graded).
+    if (flash) {
+      if (record.revealed) showFlashFeedback(record);
+    } else if (record.answered) {
+      replayAnswer(record);
+    }
 
-    els.card.classList.remove('leaving');
+    els.card.classList.remove(exitClass);
     els.card.classList.add('entering');
     requestAnimationFrame(() => {
       els.card.classList.remove('entering');
@@ -1027,16 +1113,97 @@ function showExplanation(q, isCorrect) {
   if (q.explanation) {
     els.explanation.textContent = q.explanation;
   } else if (q.type === 'fill') {
-    const accepted = (q.answers || []).map(b => b[0]).join(', ');
     els.explanation.textContent = isCorrect
       ? t('fb.fillCorrect')
-      : t('fb.fillWrong', { answer: accepted });
+      : t('fb.fillWrong', { answer: correctAnswerText(q) });
   } else {
     els.explanation.textContent = isCorrect
       ? t('fb.mcCorrect')
-      : t('fb.mcWrong', { answer: q.options[q.correctIndex] });
+      : t('fb.mcWrong', { answer: correctAnswerText(q) });
   }
   els.explanationBox.open = false;   // start folded; user clicks to reveal
+  els.feedback.hidden = false;
+}
+
+// The correct answer as plain text: the right option of a multiple-choice
+// question, or the first accepted word of each blank of a fill-in-the-blank.
+function correctAnswerText(q) {
+  if (q.type === 'fill') return (q.answers || []).map(b => b[0]).join(', ');
+  return q.options[q.correctIndex];
+}
+
+// ---------- flashcard mode ----------
+
+// Fill both faces: the question on the front, only the correct answer on the
+// back. A card already flipped earlier this session (revisited via Back) comes
+// back answer-side up; a fresh one starts on the question.
+function renderFlashcard(record) {
+  els.flashcardQuestion.textContent = record.q.question;
+  els.flashcardAnswer.textContent = correctAnswerText(record.q);
+  setFlipped(record.revealed, false);
+}
+
+// Turn the card to its answer side (`flipped`) or back to the question. With
+// `animate` false the turn is instant: a newly drawn card must not spin back
+// from the previous card's answer side (it would flash the new answer).
+function setFlipped(flipped, animate) {
+  const card = els.flashcard;
+  if (!animate) card.classList.add('flashcard--instant');
+  card.classList.toggle('flipped', flipped);
+  card.setAttribute('aria-pressed', String(flipped));
+  if (!animate) {
+    void card.offsetWidth;   // commit the jump before transitions come back
+    card.classList.remove('flashcard--instant');
+  }
+}
+
+// Tap/click/Space on the card: turn it over (it can go back and forth). The
+// first look at the answer brings up the Sbagliata / Corretta buttons; flipping
+// itself never grades or scrolls the page.
+function flipFlashcard() {
+  const record = state.currentRecord;
+  if (!record || !record.flash) return;
+  const flipped = !els.flashcard.classList.contains('flipped');
+  setFlipped(flipped, true);
+  if (flipped && !record.revealed) {
+    record.revealed = true;
+    showFlashFeedback(record);
+  }
+}
+
+// The user's own verdict on a flipped flashcard, recorded exactly like a quiz
+// answer: "Corretta" retires the question, "Sbagliata" keeps it in the pool so
+// it comes back in a future session. Then straight on to the next card. Only a
+// revealed card can be graded — the next card takes over currentRecord as soon
+// as we advance, so a double tap finds it unrevealed and does nothing.
+function gradeFlashcard(isCorrect) {
+  const record = state.currentRecord;
+  if (!record || !record.flash || !record.revealed || record.answered) return;
+  record.answered = true;
+  record.isCorrect = isCorrect;   // remembered so Back can show the verdict
+  state.answered = true;
+  if (isCorrect) popEmoji(els.flashGrade.querySelector('.grade-btn--right'));
+  recordResult(record.q, isCorrect);
+  updateProgress();
+  nextQuestion(isCorrect ? 'leaving-right' : 'leaving-left');
+}
+
+// Feedback row under a flipped flashcard: the explanation (only when the
+// question has one — the generic "Correct answer: …" fallback would just repeat
+// the back face) and the self-grade buttons in place of Avanti. A card graded
+// earlier (revisited via Back) shows its verdict locked, with Avanti to move on.
+function showFlashFeedback(record) {
+  const q = record.q;
+  els.explanation.textContent = q.explanation || '';
+  els.explanationBox.hidden = !q.explanation;
+  els.explanationBox.open = false;
+  els.flashGrade.querySelectorAll('.grade-btn').forEach(btn => {
+    const isRight = btn.dataset.correct === 'true';
+    btn.disabled = record.answered;
+    btn.classList.toggle('chosen', record.answered && isRight === record.isCorrect);
+  });
+  els.flashGrade.hidden = false;
+  els.nextBtn.hidden = !record.answered;
   els.feedback.hidden = false;
 }
 
@@ -1141,10 +1308,30 @@ function handleFillSubmit() {
   gradeResult(q, allCorrect);
 }
 
-// Shared post-answer bookkeeping for both question types: score, streak,
-// per-argument stats, "seen" persistence, the explanation panel and the
-// Next-button scroll. The caller has already decided `isCorrect`.
+// Post-answer handling for both quiz question types: record the result, reveal
+// the explanation panel and scroll Next into reach. The caller has already
+// decided `isCorrect`.
 function gradeResult(q, isCorrect) {
+  recordResult(q, isCorrect);
+  showExplanation(q, isCorrect);
+  updateProgress();
+
+  // Lift the Next button to ~62% of the viewport, leaving empty space below it
+  // (the .answered class adds bottom padding on mobile for the scroll room). The
+  // gap keeps the button clear of iOS Safari's auto-appearing bottom toolbar, so
+  // it's tappable in one touch. Only scrolls down when the button sits too low.
+  document.body.classList.add('answered');
+  requestAnimationFrame(() => {
+    const rect = els.nextBtn.getBoundingClientRect();
+    const target = window.innerHeight * 0.62;
+    const delta = rect.bottom - target;
+    if (delta > 0) window.scrollBy({ top: delta, behavior: 'smooth' });
+  });
+}
+
+// Shared bookkeeping for every graded card — quiz answers and self-graded
+// flashcards alike: score, streak, per-argument stats, "seen" and "mastered".
+function recordResult(q, isCorrect) {
   // Bonus cards are pure surprise: they don't touch the score, the per-argument
   // stats, or the "seen" set (so they can resurface another day).
   if (!q._bonus) {
@@ -1174,21 +1361,6 @@ function gradeResult(q, isCorrect) {
     const nudge = pickNudge();
     if (nudge) showToast(nudge);
   }
-
-  showExplanation(q, isCorrect);
-  updateProgress();
-
-  // Lift the Next button to ~62% of the viewport, leaving empty space below it
-  // (the .answered class adds bottom padding on mobile for the scroll room). The
-  // gap keeps the button clear of iOS Safari's auto-appearing bottom toolbar, so
-  // it's tappable in one touch. Only scrolls down when the button sits too low.
-  document.body.classList.add('answered');
-  requestAnimationFrame(() => {
-    const rect = els.nextBtn.getBoundingClientRect();
-    const target = window.innerHeight * 0.62;
-    const delta = rect.bottom - target;
-    if (delta > 0) window.scrollBy({ top: delta, behavior: 'smooth' });
-  });
 }
 
 // Emoji picked at random for the end screen so it feels a little different each
@@ -1385,6 +1557,16 @@ function bindEvents() {
     updateAvailableCount();        // setup screen: refresh preview, don't start
   });
 
+  els.modePills.addEventListener('change', (e) => {
+    const cb = e.target;
+    if (cb.matches('input[type=checkbox]')) setMode(cb.value, cb.checked);
+  });
+  els.flashcard.addEventListener('click', () => flipFlashcard());
+  els.flashGrade.addEventListener('click', (e) => {
+    const btn = e.target.closest('.grade-btn');
+    if (btn) gradeFlashcard(btn.dataset.correct === 'true');
+  });
+
   els.themeToggle.addEventListener('click', toggleTheme);
 
   if (els.langSwitch) {
@@ -1485,6 +1667,20 @@ function bindEvents() {
       e.preventDefault();
       return;
     }
+    // A flashcard has no options: Enter/Space turns it over, then 1 marks it
+    // wrong and 2 right (matching the buttons, left to right). On an already
+    // graded card (revisited via Back) Enter/Space moves on.
+    if (state.currentRecord && state.currentRecord.flash) {
+      const graded = state.currentRecord.answered;
+      if (e.key === 'Enter' || e.key === ' ') {
+        if (graded) nextQuestion(); else flipFlashcard();
+        e.preventDefault();
+      } else if (e.key === '1' || e.key === '2') {
+        gradeFlashcard(e.key === '2');
+        e.preventDefault();
+      }
+      return;
+    }
     if (!state.answered) {
       if (isFill) {
         // digits are part of the answer here; only Enter submits (also bound per-input)
@@ -1511,13 +1707,15 @@ function bindEvents() {
   bindEvents();
   state.lang = loadLang();
   applyLanguage(state.lang);   // localize static chrome + theme label before anything renders
+  state.modes = loadModes();
+  refreshModePills();
   try {
     await loadBank();
   } catch (err) {
     // show only the error card (otherwise the setup screen stays stacked on top)
     els.setupScreen.hidden = true;
     els.cardContainer.hidden = false;
-    els.questionText.textContent = t('error.load');
+    els.questionText.textContent = loadErrorMessage();
     els.options.innerHTML = '';
     console.error(err);
     return;

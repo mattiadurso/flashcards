@@ -23,6 +23,10 @@ const I18N = {
 
     // setup screen
     "setup.title": "Imposta la sessione",
+    "setup.mode": "Modalità",
+    "mode.quiz": "Quiz",
+    "mode.flash": "Flashcard",
+    "mode.hint": "Scegline una o entrambe: con entrambe, ogni carta è a caso (50/50) quiz o flashcard. Girata la flashcard, segna tu se la sapevi: le sbagliate torneranno.",
     "setup.topics": "Argomenti",
     "setup.difficulty": "Difficoltà",
     "diff.easy": "Facile",
@@ -55,6 +59,11 @@ const I18N = {
     "fill.submit": "Controlla",
     "fill.blankAria": "Spazio {n}",
     "score": "Punti",
+    "flash.tap": "Tocca per girare ↻",
+    "flash.answer": "Risposta",
+    "flash.aria": "Gira la carta",
+    "flash.wrong": "Sbagliata",
+    "flash.right": "Corretta",
 
     // post-answer feedback (fallbacks when a question has no explanation)
     "fb.fillCorrect": "Esatto.",
@@ -76,7 +85,9 @@ const I18N = {
     "confirm.flag": "Segnalare questa domanda come errata? Non verrà più mostrata finché non ripristini le segnalazioni.",
     "confirm.restore": "Ripristinare {n} domande segnalate?",
     "alert.noFlagged": "Nessuna domanda segnalata.",
-    "error.load": "Impossibile caricare le domande. Avvia l'app con lo script di avvio (il fetch su file:// è bloccato dai browser). Vedi README.md.",
+    "error.load": "Impossibile caricare le domande da questions/index.json: controlla che il file esista e sia un JSON valido. Vedi README.md.",
+    "error.loadFile": "Impossibile caricare le domande: la pagina è aperta come file e il browser blocca la lettura dei JSON. Serve un server locale: in VS Code Cmd/Ctrl+Shift+P → «Live Preview: Show Preview», oppure avvia start-mac.command / start-windows.bat. Vedi README.md.",
+    "error.loadPreview": "Questa anteprima di VS Code («Open Preview», estensione HTML Preview) blocca il caricamento delle domande. Usa Live Preview: Cmd/Ctrl+Shift+P → «Live Preview: Show Preview», oppure tasto destro su index.html → «Show Preview».",
   },
 
   en: {
@@ -93,6 +104,10 @@ const I18N = {
 
     // setup screen
     "setup.title": "Set up the session",
+    "setup.mode": "Mode",
+    "mode.quiz": "Quiz",
+    "mode.flash": "Flashcards",
+    "mode.hint": "Pick one or both: with both, each card is randomly (50/50) a quiz or a flashcard. After flipping a flashcard, mark whether you knew it: the wrong ones come back.",
     "setup.topics": "Topics",
     "setup.difficulty": "Difficulty",
     "diff.easy": "Easy",
@@ -125,6 +140,11 @@ const I18N = {
     "fill.submit": "Check",
     "fill.blankAria": "Blank {n}",
     "score": "Score",
+    "flash.tap": "Tap to flip ↻",
+    "flash.answer": "Answer",
+    "flash.aria": "Flip the card",
+    "flash.wrong": "Wrong",
+    "flash.right": "Correct",
 
     // post-answer feedback (fallbacks when a question has no explanation)
     "fb.fillCorrect": "Correct.",
@@ -146,6 +166,8 @@ const I18N = {
     "confirm.flag": "Flag this question as wrong? It won't be shown again until you restore your flags.",
     "confirm.restore": "Restore {n} flagged questions?",
     "alert.noFlagged": "No flagged questions.",
-    "error.load": "Could not load questions. Run the app via the start script (file:// fetch is blocked by browsers). See README.md.",
+    "error.load": "Could not load the questions from questions/index.json: check that the file exists and is valid JSON. See README.md.",
+    "error.loadFile": "Could not load the questions: the page is open as a file and the browser blocks reading the JSON. It needs a local server: in VS Code Cmd/Ctrl+Shift+P → \"Live Preview: Show Preview\", or run start-mac.command / start-windows.bat. See README.md.",
+    "error.loadPreview": "This VS Code preview (\"Open Preview\", HTML Preview extension) blocks loading the questions. Use Live Preview instead: Cmd/Ctrl+Shift+P → \"Live Preview: Show Preview\", or right-click index.html → \"Show Preview\".",
   },
 };

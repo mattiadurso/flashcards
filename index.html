@@ -9,7 +9,7 @@
   <!-- Tell Dark Reader / Night Eye to leave this page alone. -->
   <meta name="darkreader-lock" />
   <title>Flashcards — Quiz</title>
-  <link rel="stylesheet" href="styles.css?v=31" />
+  <link rel="stylesheet" href="styles.css?v=34" />
   <script>
     // Apply the saved day/night choice before first paint so returning
     // night-mode users don't get a white flash. The toggle (app.js) keeps it
@@ -78,6 +78,27 @@
 
         <h2 class="setup-title" data-i18n="setup.title">Imposta la sessione</h2>
 
+        <!-- Quiz (answer and get scored) and/or Flashcard (flip to see the answer).
+             With both ticked each card is drawn as one or the other, 50/50.
+             Reuses the difficulty pills' look. -->
+        <div class="setup-field">
+          <label class="setup-label" data-i18n="setup.mode">Modalità</label>
+          <div class="diff-pills" id="mode-pills">
+            <label class="diff-pill">
+              <input type="checkbox" value="flash" />
+              <span data-i18n="mode.flash">Flashcard</span>
+            </label>
+            <label class="diff-pill">
+              <input type="checkbox" value="quiz" checked />
+              <span data-i18n="mode.quiz">Quiz</span>
+            </label>
+          </div>
+          <p class="count-hint" data-i18n="mode.hint">
+            Scegline una o entrambe: con entrambe, ogni carta è a caso (50/50) quiz
+            o flashcard. Girata la flashcard, segna tu se la sapevi: le sbagliate torneranno.
+          </p>
+        </div>
+
         <div class="setup-field">
           <label class="setup-label" data-i18n="setup.topics">Argomenti</label>
           <div class="multiselect">
@@ -133,6 +154,22 @@
             <span aria-hidden="true">⚑</span> <span data-i18n="flag">Segnala</span>
           </button>
         </div>
+        <!-- Flashcard mode: the question on the front, only the correct answer on
+             the back. Tapping it rotates the inner box 180° (see styles.css). -->
+        <div id="flashcard" class="flashcard" role="button" tabindex="0"
+             aria-pressed="false" data-i18n-aria-label="flash.aria"
+             aria-label="Gira la carta" hidden>
+          <div class="flashcard-inner">
+            <div class="flashcard-face flashcard-front">
+              <p id="flashcard-question" class="question-text"></p>
+              <span class="flashcard-cue" data-i18n="flash.tap">Tocca per girare ↻</span>
+            </div>
+            <div class="flashcard-face flashcard-back">
+              <span class="flashcard-cue flashcard-cue--answer" data-i18n="flash.answer">Risposta</span>
+              <p id="flashcard-answer" class="flashcard-answer"></p>
+            </div>
+          </div>
+        </div>
         <h2 id="question-text" class="question-text">Loading…</h2>
         <details id="suggestion-box" class="suggestion-box" hidden>
           <summary class="suggestion-summary">
@@ -150,6 +187,14 @@
             </summary>
             <p id="explanation" class="explanation"></p>
           </details>
+          <!-- Flipped flashcard: grade yourself instead of Avanti — wrong (red)
+               on the left, right (green) on the right. -->
+          <div id="flash-grade" class="flash-grade" hidden>
+            <button type="button" class="grade-btn grade-btn--wrong"
+                    data-correct="false" data-i18n="flash.wrong">Sbagliata</button>
+            <button type="button" class="grade-btn grade-btn--right"
+                    data-correct="true" data-i18n="flash.right">Corretta</button>
+          </div>
           <button id="next-btn" class="primary-btn" data-i18n="next">Avanti</button>
         </div>
       </article>
@@ -195,7 +240,7 @@
   <div id="emoji-pop" class="emoji-pop" aria-hidden="true" hidden></div>
 
   <script src="praise.js?v=4"></script>
-  <script src="i18n.js?v=1"></script>
-  <script src="app.js?v=33"></script>
+  <script src="i18n.js?v=3"></script>
+  <script src="app.js?v=36"></script>
 </body>
 </html>

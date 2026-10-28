@@ -127,6 +127,9 @@ html, body {
 body {
   min-height: 100vh;
   min-height: 100dvh;
+  /* A graded flashcard slides out sideways; on a phone it briefly pokes past
+     the screen edge, which must not make the page scroll horizontally. */
+  overflow-x: clip;
   background-color: var(--bg-solid);
   background-image:
     radial-gradient(1100px 700px at 0% -10%, rgba(10, 132, 255, 0.14), transparent 60%),
@@ -630,6 +633,9 @@ body {
 
 .card.leaving { opacity: 0; transform: translateY(-8px); }
 .card.entering { opacity: 0; transform: translateY(10px); }
+/* A graded flashcard slides away toward the button that graded it. */
+.card.leaving-right { opacity: 0; transform: translateX(56px) rotate(2.5deg); }
+.card.leaving-left { opacity: 0; transform: translateX(-56px) rotate(-2.5deg); }
 
 .meta-bar {
   display: flex;
@@ -828,6 +834,122 @@ body {
   white-space: nowrap;
 }
 .fill-submit { width: 100%; }
+
+/* ---------- flashcard mode ---------- */
+
+/* The flip: .flashcard holds the 3D perspective and .flashcard-inner is what
+   turns — never #card itself, whose transform already drives the slide/fade and
+   the bounce. Both faces share one grid cell, so the box always takes the height
+   of the taller face instead of clipping it; each face hides while turned away. */
+.flashcard {
+  perspective: 1200px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.flashcard:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+.flashcard-inner {
+  display: grid;
+  transform-style: preserve-3d;
+  /* Fast start, soft landing: the turn answers the tap at once instead of
+     easing in. will-change keeps the card on its own GPU layer, so the flip
+     doesn't stall on the first frame re-rasterizing it. */
+  transition: transform 0.45s cubic-bezier(0.2, 0.8, 0.2, 1);
+  will-change: transform;
+}
+.flashcard.flipped .flashcard-inner { transform: rotateY(180deg); }
+/* A newly drawn card jumps straight to its question side, no reverse spin. */
+.flashcard--instant .flashcard-inner { transition: none; }
+
+.flashcard-face {
+  grid-area: 1 / 1;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 28px 22px;
+  text-align: center;
+  background: var(--card-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  -webkit-backface-visibility: hidden;   /* Safari/iOS still needs the prefix */
+  backface-visibility: hidden;
+}
+.flashcard-back {
+  transform: rotateY(180deg);
+  background: var(--tint-accent-08);
+  border-color: var(--tint-accent-18);
+}
+.flashcard:hover .flashcard-front { border-color: var(--tint-accent-18); }
+
+.flashcard-cue {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.flashcard-cue--answer {
+  font-size: 12px;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.flashcard-answer {
+  margin: 0;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+
+/* Self-grade after flipping, in place of Avanti: two equal pills, wrong (red)
+   on the left and right (green) on the right. On a revisited card they're
+   locked and only the chosen verdict stays at full strength. */
+.flash-grade {
+  display: flex;
+  gap: 10px;
+  animation: grade-in 0.28s ease-out 0.15s both;   /* lands as the flip settles */
+}
+@keyframes grade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.grade-btn {
+  flex: 1;
+  appearance: none;
+  border: none;
+  color: #fff;
+  font: inherit;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 14px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: filter 0.15s ease, transform 0.06s ease, opacity 0.15s ease;
+}
+.grade-btn--wrong {
+  background: var(--red);
+  box-shadow: 0 6px 18px var(--tint-red-45);
+}
+.grade-btn--right {
+  background: var(--green);
+  box-shadow: 0 6px 18px var(--tint-green-45);
+}
+.grade-btn:hover:not(:disabled) { filter: brightness(1.06); }
+.grade-btn:active:not(:disabled) { transform: scale(0.97); }
+.grade-btn:disabled { cursor: default; opacity: 0.3; box-shadow: none; }
+.grade-btn.chosen:disabled { opacity: 1; }
+
+@media (prefers-reduced-motion: reduce) {
+  .flashcard-inner { transition: none; }
+  .flash-grade { animation: none; }
+}
 
 /* playful little wiggle/bounce on the card when an option is tapped */
 .card.bounce { animation: card-bounce 0.42s ease; }
@@ -1056,6 +1178,8 @@ code {
   .main { padding: 14px 12px 60px; }
   .card { padding: 20px 18px; border-radius: 20px; }
   .question-text { font-size: 19px; }
+  .flashcard-face { min-height: 180px; padding: 24px 16px; }
+  .flashcard-answer { font-size: 19px; }
 
   /* During a quiz, fold the title + action buttons away so the sticky top bar
      shrinks to just the progress bar — frees vertical space so the card and
@@ -1119,6 +1243,18 @@ code {
   filter: drop-shadow(0 6px 16px rgba(0, 0, 0, 0.2));
 }
 .emoji-pop.pop { animation: emoji-pop 0.7s ease forwards; }
+/* Flashcard "Corretta": launched from the button (app.js sets left/top), the
+   emoji pops, then floats up and drifts right after the card sliding away. */
+.emoji-pop.rise {
+  font-size: 64px;
+  animation: emoji-rise 0.9s cubic-bezier(0.2, 0.7, 0.3, 1) forwards;
+}
+@keyframes emoji-rise {
+  0%   { transform: translate(-50%, -50%) scale(0.3) rotate(-15deg); opacity: 0; }
+  25%  { transform: translate(-50%, -110%) scale(1.15) rotate(8deg); opacity: 1; }
+  55%  { transform: translate(-40%, -190%) scale(1) rotate(0deg); opacity: 1; }
+  100% { transform: translate(-25%, -320%) scale(0.85) rotate(0deg); opacity: 0; }
+}
 @keyframes emoji-pop {
   0%   { transform: translate(-50%, -50%) scale(0.3) rotate(-12deg); opacity: 0; }
   35%  { transform: translate(-50%, -50%) scale(1.15) rotate(6deg);  opacity: 1; }
@@ -1126,6 +1262,7 @@ code {
   100% { transform: translate(-50%, -90%) scale(0.85) rotate(0deg);  opacity: 0; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .emoji-pop.pop { animation: emoji-fade 0.7s ease forwards; }
+  .emoji-pop.pop,
+  .emoji-pop.rise { animation: emoji-fade 0.7s ease forwards; }
   @keyframes emoji-fade { 0% { opacity: 0; } 30% { opacity: 1; } 100% { opacity: 0; } }
 }
