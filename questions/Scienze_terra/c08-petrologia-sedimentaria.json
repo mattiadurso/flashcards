@@ -1,0 +1,627 @@
+[
+  {
+    "id": "st-c08-silicoclastiche-001",
+    "topic": "scienze-terra",
+    "question": "Come si originano le rocce silicoclastiche, o terrigene?",
+    "suggestion": "Il processo è guidato essenzialmente dalla gravità.",
+    "options": [
+      "Da degradazione, trasporto e sedimentazione di materiali di rocce preesistenti",
+      "Da precipitazione di sali originariamente disciolti in acque superficiali sovrassature",
+      "Da secrezione di carbonato da parte di organismi che vivono in acque basse e calde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le silicoclastiche derivano da degradazione, trasporto e sedimentazione di materiali di rocce preesistenti, alla superficie e guidate dalla gravità. Le altre due opzioni descrivono evaporiti e rocce biocostruite.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.31"
+  },
+  {
+    "id": "st-c08-evaporiti-parametri-002",
+    "topic": "scienze-terra",
+    "question": "Da quali parametri è guidata la deposizione delle evaporiti?",
+    "suggestion": "Sono i parametri che regolano la saturazione di una soluzione.",
+    "options": [
+      "Dalla gravità e dall'energia della corrente di trasporto",
+      "Dalla luce e dall'attività degli organismi fotosintetici",
+      "Da temperatura, pressione e salinità"
+    ],
+    "correctIndex": 2,
+    "explanation": "La deposizione fisico-chimica delle evaporiti è guidata dai parametri che regolano la saturazione delle soluzioni: temperatura, pressione e salinità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.31, 33"
+  },
+  {
+    "id": "st-c08-biocostruite-003",
+    "topic": "scienze-terra",
+    "question": "Che differenza c'è tra rocce biocostruite secrete e fissate?",
+    "suggestion": "In un caso gli organismi producono il materiale, nell'altro ne condizionano la deposizione.",
+    "options": [
+      "Nelle secrete gli organismi condizionano la deposizione, nelle fissate secernono gli elementi",
+      "Nelle secrete gli organismi secernono gli elementi, nelle fissate condizionano la deposizione",
+      "Le secrete si formano in acque dolci, le fissate esclusivamente in acque marine profonde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le rocce biocostruite sono secrete quando gli elementi in soluzione vengono secreti da organismi, fissate quando gli organismi condizionano in modo essenziale le modalità di deposizione dei sedimenti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.31"
+  },
+  {
+    "id": "st-c08-scala-phi-004",
+    "topic": "scienze-terra",
+    "question": "In quale scala si esprimono le dimensioni dei granuli nell'analisi granulometrica?",
+    "suggestion": "È una scala logaritmica indicata con una lettera greca.",
+    "options": [
+      "In unità φ (phi), una scala logaritmica",
+      "In millimetri, su una scala lineare semplice",
+      "In unità σ, cioè in deviazioni standard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le dimensioni si esprimono in unità φ (phi), una scala logaritmica; il diametro medio si calcola come (φ16 + φ50 + φ84)/3.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.31"
+  },
+  {
+    "id": "st-c08-moda-mediana-005",
+    "topic": "scienze-terra",
+    "question": "Nella distribuzione granulometrica, che cosa indica la moda?",
+    "suggestion": "È la classe che compare più spesso.",
+    "options": [
+      "Il valore centrale della distribuzione",
+      "La media aritmetica dei valori",
+      "Il valore più frequente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La moda è il valore più frequente; la mediana il valore centrale; la media la media aritmetica.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.31"
+  },
+  {
+    "id": "st-c08-diametro-medio-006",
+    "topic": "scienze-terra",
+    "question": "Come si calcola il diametro medio Dm dai percentili della curva cumulativa?",
+    "suggestion": "Si usano tre percentili, incluso il cinquantesimo.",
+    "options": [
+      "Dm = (φ5 + φ50 + φ95)/3",
+      "Dm = (φ84 - φ16)/4",
+      "Dm = (φ25 + φ50 + φ75)/3",
+      "Dm = (φ16 + φ50 + φ84)/3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dm = (φ16 + φ50 + φ84)/3. (φ84 - φ16)/4 è invece il primo termine della deviazione standard inclusiva.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.31"
+  },
+  {
+    "id": "st-c08-fangosostenuta-007",
+    "topic": "scienze-terra",
+    "question": "Quando la tessitura di una roccia silicoclastica è fangosostenuta?",
+    "suggestion": "Pensa a dove si trovano i clasti rispetto alla matrice.",
+    "options": [
+      "Quando i clasti si toccano tra loro e la matrice riempie solo i vuoti",
+      "Quando i clasti galleggiano nel fango senza toccarsi",
+      "Quando la roccia è formata quasi soltanto da materiale fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fangosostenuta: i clasti galleggiano nel fango; granosostenuta: i clasti si toccano; pelitica: quasi solo materiale fine.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.31-32"
+  },
+  {
+    "id": "st-c08-zingg-008",
+    "topic": "scienze-terra",
+    "question": "Su che cosa si basano le classi di forma dei ciottoli secondo Zingg?",
+    "suggestion": "Si misurano tre assi del ciottolo.",
+    "options": [
+      "Sui rapporti tra asse lungo, intermedio e corto",
+      "Sul rapporto tra cerchio inscritto e circoscritto",
+      "Sul grado di arrotondamento degli spigoli del ciottolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le classi di Zingg si basano sui rapporti tra asse lungo (L), intermedio (I) e corto (C). Il rapporto tra cerchi inscritto e circoscritto definisce la sfericità di Riley.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-maturita-trasporto-009",
+    "topic": "scienze-terra",
+    "question": "Perché la maturità tessiturale cresce con l'energia e la durata del trasporto?",
+    "suggestion": "Pensa a che cosa succede a fango, dimensioni e spigoli durante il trasporto.",
+    "options": [
+      "Perché il trasporto aggiunge fango tra i granuli e ne cementa la matrice",
+      "Perché il trasporto distrugge chimicamente i feldspati lasciando solo i granuli di quarzo",
+      "Perché il fango viene asportato, i granuli si selezionano e gli spigoli si consumano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante il trasporto il fango viene asportato, i granuli si selezionano per dimensione e gli spigoli si consumano: il sedimento diventa privo di matrice, ben selezionato e arrotondato. La scomparsa dei feldspati riguarda la maturità composizionale.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-selezionamento-misura-010",
+    "topic": "scienze-terra",
+    "question": "Con quale parametro si esprime quantitativamente il selezionamento?",
+    "suggestion": "Un valore piccolo indica un sedimento molto ben selezionato.",
+    "options": [
+      "Con il diametro medio Dm calcolato dai percentili",
+      "Con l'indice di appiattimento (L + I)/2C",
+      "Con la deviazione standard inclusiva σ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il selezionamento si esprime con la deviazione standard inclusiva σ = (φ84 - φ16)/4 + (φ95 - φ5)/6,6: da 'molto ben selezionato' (σ < 0,35 φ) a 'poco selezionato' (σ > 2 φ).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-appiattimento-011",
+    "topic": "scienze-terra",
+    "question": "Qual è l'espressione corretta dell'indice di appiattimento dei ciottoli?",
+    "suggestion": "Nelle dispense compare un errore di stampa con '25'.",
+    "options": [
+      "(L + I)/25",
+      "(L + I)/2C",
+      "I/L",
+      "√(Di/Dc)"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'indice di appiattimento vale (L + I)/2C; nelle dispense compare per errore 'L+I / 25'. I/L è l'allungamento, √(Di/Dc) la sfericità di Riley.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-maturita-ambientale-012",
+    "topic": "scienze-terra",
+    "question": "Che cosa indica un sedimento ricco di fango e mal selezionato?",
+    "suggestion": "Il trasporto non ha avuto tempo di lavorare il sedimento.",
+    "options": [
+      "Un trasporto breve o un deposito rapido",
+      "Un lungo trasporto e una rielaborazione prolungata da parte del moto ondoso",
+      "Una degradazione chimica intensa in clima caldo e umido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un sedimento fangoso e mal selezionato indica trasporto breve o deposito rapido; uno privo di matrice, ben selezionato e arrotondato indica lungo trasporto o rielaborazione, ad esempio da moto ondoso.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-tafoni-013",
+    "topic": "scienze-terra",
+    "question": "Quale processo di alterazione è illustrato dai tafoni di Capo d'Orso, in Sardegna?",
+    "suggestion": "Qualcosa cresce nelle fessure e ne allarga le pareti.",
+    "options": [
+      "L'idrolisi dei silicati che produce minerali argillosi",
+      "La cristallizzazione dei sali nelle fessure",
+      "L'azione solvente dell'acqua sui carbonati"
+    ],
+    "correctIndex": 1,
+    "explanation": "La cristallizzazione dei sali nelle fessure ne allarga le pareti, come nei tafoni di Capo d'Orso.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-tre-fattori-014",
+    "topic": "scienze-terra",
+    "question": "Da quali tre fattori dipende l'abbondanza di un minerale terrigeno in una roccia sedimentaria?",
+    "suggestion": "Quanto ce n'è all'origine, quanto resiste al trasporto e all'alterazione.",
+    "options": [
+      "Densità del minerale, durezza nella scala pratica, colore del minerale fresco",
+      "Velocità di sedimentazione, profondità del bacino di deposizione, salinità dell'acqua",
+      "Disponibilità nell'area di provenienza, resistenza meccanica, stabilità chimica"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'abbondanza dipende da disponibilità (presenza nelle rocce madri), resistenza meccanica (all'abrasione) e stabilità chimica (all'alterazione).",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-maturita-composizionale-015",
+    "topic": "scienze-terra",
+    "question": "Che cosa riflette la maturità composizionale di un sedimento terrigeno?",
+    "suggestion": "Pensa a quali minerali scompaiono e quale si concentra.",
+    "options": [
+      "L'intensità della degradazione chimica nell'area di provenienza e nel trasporto",
+      "La durata e l'energia del trasporto, che arrotonda, seleziona e ripulisce i granuli dal fango",
+      "La profondità del bacino di deposizione e la temperatura dell'acqua"
+    ],
+    "correctIndex": 0,
+    "explanation": "La maturità composizionale riflette l'intensità della degradazione chimica: più è intensa, più scompaiono minerali poco stabili (scuri, feldspati) e si concentra il quarzo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-sabbia-matura-016",
+    "topic": "scienze-terra",
+    "question": "Da che cosa è formata una sabbia composizionalmente matura?",
+    "suggestion": "Resta il minerale più resistente meccanicamente e chimicamente.",
+    "options": [
+      "Da feldspati e frammenti di roccia",
+      "Da olivina e pirosseno",
+      "Quasi esclusivamente da quarzo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una sabbia matura è formata quasi solo da quarzo; una immatura contiene ancora feldspati e frammenti di roccia.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.32"
+  },
+  {
+    "id": "st-c08-fill-quarzoarenite-017",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Il termine sedimentario più maturo, un'arenaria composta quasi solo da quarzo, è la ___.",
+    "answers": [["quarzoarenite", "quarzo-arenite", "quarzarenite"]],
+    "suggestion": "Il nome unisce il minerale e il tipo di roccia.",
+    "explanation": "La quarzoarenite è il termine più maturo; durante la diagenesi attorno ai suoi granuli può crescere quarzo autigeno.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-ortochimici-018",
+    "topic": "scienze-terra",
+    "question": "Nella composizione di un'arenaria, che cosa sono gli elementi ortochimici?",
+    "suggestion": "Sono precipitati chimici formati sul posto.",
+    "options": [
+      "Particelle provenienti dall'erosione di rocce preesistenti fuori dal bacino",
+      "Gusci e granuli carbonatici formatisi all'interno del bacino",
+      "Precipitati chimici formati sul posto, come il cemento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Terrigeni: dall'erosione di rocce preesistenti; allochimici: particelle formate nel bacino (gusci, granuli carbonatici); ortochimici: precipitati chimici formati sul posto, come il cemento.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-bowen-stabilita-019",
+    "topic": "scienze-terra",
+    "question": "Che relazione c'è tra la serie di Bowen e la stabilità dei minerali in superficie?",
+    "suggestion": "Il quarzo è l'ultimo termine della serie.",
+    "options": [
+      "I primi a cristallizzare, come olivina e pirosseno, sono i meno stabili in superficie",
+      "I primi a cristallizzare, come olivina e pirosseno, sono i più stabili in superficie",
+      "Non c'è alcuna relazione: la stabilità dipende solo dal clima e dal rilievo dell'area di provenienza"
+    ],
+    "correctIndex": 0,
+    "explanation": "I minerali che cristallizzano per primi ad alta temperatura sono i meno stabili in superficie, mentre il quarzo, ultimo termine, è il più stabile: una sabbia matura è fatta dei minerali che cristallizzano per ultimi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-evaporazione-dati-020",
+    "topic": "scienze-terra",
+    "question": "Quanti metri di sali si depositano circa dalla completa evaporazione di 300 m di acqua marina?",
+    "suggestion": "È un valore di pochi metri.",
+    "options": [
+      "Circa 45 m",
+      "Circa 0,45 m",
+      "Circa 30 m",
+      "Circa 4,5 m"
+    ],
+    "correctIndex": 3,
+    "explanation": "La completa evaporazione di una colonna di 300 m di acqua marina deposita circa 4,5 m di sali.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-ordine-sali-021",
+    "topic": "scienze-terra",
+    "question": "In che ordine precipitano i sali dall'evaporazione dell'acqua marina?",
+    "suggestion": "Precipitano in ordine di solubilità crescente.",
+    "options": [
+      "Salgemma, gesso, carbonati, kieserite, bischofite",
+      "Carbonati, gesso, salgemma, kieserite, bischofite",
+      "Gesso, carbonati, salgemma, bischofite, kieserite",
+      "Bischofite, kieserite, salgemma, gesso, carbonati"
+    ],
+    "correctIndex": 1,
+    "explanation": "I sali precipitano per solubilità crescente: carbonati (meno solubili), gesso, salgemma, kieserite e infine bischofite; compare anche la silvite.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-salgemma-volume-022",
+    "topic": "scienze-terra",
+    "question": "Quale sale prevale nettamente in volume tra quelli precipitati dall'acqua marina?",
+    "suggestion": "È il cloruro di sodio.",
+    "options": [
+      "Il gesso",
+      "La calcite",
+      "La bischofite",
+      "Il salgemma"
+    ],
+    "correctIndex": 3,
+    "explanation": "In volume il salgemma (halite, NaCl) prevale nettamente su tutti gli altri sali.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-bacini-reali-023",
+    "topic": "scienze-terra",
+    "question": "Perché nei bacini evaporitici reali i sali più solubili sono scarsi?",
+    "suggestion": "Un bacino reale raramente evapora 'una volta sola'.",
+    "options": [
+      "Perché i sali più solubili vengono sciolti dalle piogge subito dopo la deposizione",
+      "Perché vengono spesso rialimentati da nuova acqua marina, e dominano gesso e salgemma",
+      "Perché l'acqua marina attuale non contiene magnesio né potassio in quantità apprezzabili"
+    ],
+    "correctIndex": 1,
+    "explanation": "I bacini reali vengono spesso rialimentati da nuova acqua marina: i depositi sono dominati da gesso e salgemma e i sali più solubili sono scarsi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-messiniano-024",
+    "topic": "scienze-terra",
+    "question": "Quale grande episodio di deposizione evaporitica è citato come esempio?",
+    "suggestion": "Avvenne tra 7,2 e 5,3 milioni di anni fa.",
+    "options": [
+      "Il Ladinico",
+      "Il Carnico",
+      "Il Triassico inferiore",
+      "Il Messiniano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il Messiniano (7,2-5,3 Ma) è un grande esempio di deposizione evaporitica.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-euxinico-025",
+    "topic": "scienze-terra",
+    "question": "Perché un bacino euxinico è importante dal punto di vista economico?",
+    "suggestion": "Le acque di fondo sono stagnanti e povere di ossigeno.",
+    "options": [
+      "Perché vi si accumula la materia organica da cui si generano gli idrocarburi",
+      "Perché vi precipitano i sali più solubili come bischofite e silvite",
+      "Perché vi si formano dolomie molto porose che fungono da serbatoi d'acqua sotterranea"
+    ],
+    "correctIndex": 0,
+    "explanation": "In un bacino euxinico, con acque di fondo stagnanti e povere di ossigeno, la materia organica non si decompone e si accumula: da essa si generano gli idrocarburi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-duomo-salino-026",
+    "topic": "scienze-terra",
+    "question": "Perché uno strato di sale sepolto tende a risalire formando un duomo salino?",
+    "suggestion": "Confronta la densità dell'halite con quella delle rocce sovrastanti.",
+    "options": [
+      "Perché l'halite, con densità 2,1 g/cm³, è più leggera delle rocce sovrastanti",
+      "Perché l'halite fonde a bassa temperatura e risale come un magma",
+      "Perché l'halite assorbe acqua e aumenta di volume spingendo verso l'alto gli strati"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'halite (2,1 g/cm³) è meno densa di calcare (2,5), granito (2,7) e crosta continentale (2,6-2,8): risale per galleggiamento, deformando gli strati e creando trappole per il petrolio.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.33"
+  },
+  {
+    "id": "st-c08-pompaggio-evaporitico-027",
+    "topic": "scienze-terra",
+    "question": "Perché evaporiti e dolomie sono spesso associate nelle piane tidali dei climi aridi?",
+    "suggestion": "L'evaporazione richiama acqua ricca di un certo elemento.",
+    "options": [
+      "Perché l'evaporazione richiama acque marine ricche in magnesio (pompaggio evaporitico)",
+      "Perché la dolomite precipita per prima dall'acqua marina, prima ancora dei carbonati",
+      "Perché il gesso si trasforma in dolomite per sostituzione diretta del calcio con il magnesio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle piane tidali aride l'evaporazione intensa richiama verso l'alto acque marine ricche in magnesio (pompaggio evaporitico) e la dolomitizzazione avviene vicino alla superficie.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-intertidale-028",
+    "topic": "scienze-terra",
+    "question": "Che cosa caratterizza l'ambiente intertidale?",
+    "suggestion": "Dipende dalle maree.",
+    "options": [
+      "È sempre sommerso, al di sotto della bassa marea",
+      "È compreso tra alta e bassa marea, quindi periodicamente emerso",
+      "Corrisponde alle acque sovrastanti l'intera piattaforma continentale"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'intertidale è compreso tra alta e bassa marea ed è periodicamente emerso; il subtidale è sempre sommerso; la zona neritica corrisponde alle acque sopra la piattaforma.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-ambienti-criterio-029",
+    "topic": "scienze-terra",
+    "question": "In base a che cosa si riconoscono gli ambienti di deposizione?",
+    "suggestion": "Gli organismi vivono a profondità caratteristiche.",
+    "options": [
+      "In base alle tracce fossili e alle associazioni biologiche",
+      "In base alla composizione mineralogica dei clasti principali",
+      "In base al colore delle rocce riportato sulla carta geologica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli ambienti si riconoscono da tracce fossili e associazioni biologiche, perché gli organismi vivono a profondità caratteristiche: così si distinguono per profondità batimetrica.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-fill-lisoclino-030",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La profondità al di sotto della quale la solubilità del carbonato di calcio aumenta bruscamente si chiama ___.",
+    "answers": [["lisoclino"]],
+    "suggestion": "Da 'lisi', dissoluzione.",
+    "explanation": "Il lisoclino è il limite al di sotto del quale il carbonato di calcio tende a sciogliersi: limita in profondità la formazione dei carbonati.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.34-35"
+  },
+  {
+    "id": "st-c08-fill-termoclino-031",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Il livello in cui la temperatura dell'acqua diminuisce bruscamente con la profondità si chiama ___.",
+    "answers": [["termoclino"]],
+    "suggestion": "'Termo-' = temperatura.",
+    "explanation": "In corrispondenza del termoclino la temperatura diminuisce bruscamente, contribuendo a differenziare ambienti e comunità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-carbonati-ambiente-032",
+    "topic": "scienze-terra",
+    "question": "Dove si formano soprattutto le rocce carbonatiche?",
+    "suggestion": "Sono strettamente legate al mondo biologico.",
+    "options": [
+      "In acque profonde e fredde, sotto il lisoclino",
+      "In acque basse, calde e illuminate",
+      "In bacini euxinici con acque stagnanti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le rocce carbonatiche (20-25% delle sedimentarie) si formano soprattutto in acque basse, calde e illuminate, dove abbondano organismi che secernono carbonato o producono pellet.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-diagenesi-def-033",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la diagenesi?",
+    "suggestion": "Avviene dopo la deposizione.",
+    "options": [
+      "L'insieme dei processi che trasformano un sedimento in roccia",
+      "L'insieme dei processi che trasformano una roccia allo stato solido per pressione e temperatura",
+      "L'insieme dei processi di alterazione che producono i clasti a partire dalle rocce in superficie"
+    ],
+    "correctIndex": 0,
+    "explanation": "La diagenesi è l'insieme dei processi (costipamento, dissoluzione, cementazione, trasformazioni neomorfiche) che trasformano un sedimento in roccia.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-costipamento-034",
+    "topic": "scienze-terra",
+    "question": "Che cosa comporta il costipamento durante la diagenesi?",
+    "suggestion": "Il sedimento viene compresso dal carico.",
+    "options": [
+      "Aumento dei vuoti e del volume e richiamo di nuovi fluidi",
+      "Precipitazione di cemento da parte di fluidi sovrassaturi circolanti nei pori",
+      "Perdita di vuoti e volume, maggiore densità ed espulsione dei fluidi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il costipamento comporta perdita di vuoti e di volume, aumento di densità e coesione e progressiva espulsione dei fluidi. La precipitazione di cemento è la cementazione.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.34"
+  },
+  {
+    "id": "st-c08-ambienti-diagenetici-criterio-035",
+    "topic": "scienze-terra",
+    "question": "In base a che cosa si distinguono gli ambienti diagenetici?",
+    "suggestion": "Conta il fluido che permea i sedimenti.",
+    "options": [
+      "In base alla profondità di seppellimento e alla temperatura raggiunta",
+      "In base alla natura dell'acqua che permea i sedimenti",
+      "In base alla granulometria e al selezionamento del sedimento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gli ambienti diagenetici si distinguono in base alla natura dell'acqua che permea i sedimenti: salinità e velocità con cui scioglie e deposita i carbonati.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-beachrock-036",
+    "topic": "scienze-terra",
+    "question": "In quale ambiente diagenetico si formano beachrock e croste dolomitiche?",
+    "suggestion": "Cementazione e dissoluzione sono attive per effetto dell'evaporazione.",
+    "options": [
+      "Nella diagenesi intertidale",
+      "Nelle acque marine profonde",
+      "Nella zona freatica meteorica",
+      "Nel seppellimento profondo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella diagenesi intertidale, per effetto dell'evaporazione, sono attive cementazione e dissoluzione: si formano beachrock (sabbie di spiaggia cementate) e croste dolomitiche.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-vadosa-freatica-037",
+    "topic": "scienze-terra",
+    "question": "Nella diagenesi meteorica, che cosa caratterizza la zona freatica rispetto alla vadosa?",
+    "suggestion": "La zona freatica sta al di sotto della falda.",
+    "options": [
+      "Dissoluzione, silt vadoso, cemento stalattitico e pisoliti",
+      "Neomorfismo e cemento isopaco, cioè di spessore uniforme",
+      "Micritizzazione e cementazione limitata di aragonite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zona freatica (sotto la falda): neomorfismo e cemento isopaco; zona vadosa (sopra): dissoluzione, silt vadoso, cemento stalattitico, pisoliti. La micritizzazione è delle acque marine basse.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-pressione-soluzione-038",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la pressione-soluzione nella diagenesi per seppellimento profondo?",
+    "suggestion": "Avviene dove i grani si toccano sotto carico.",
+    "options": [
+      "La precipitazione di cemento nei pori dovuta all'aumento di pressione",
+      "La dissoluzione nei punti di contatto tra granuli sottoposti a carico",
+      "La trasformazione dell'aragonite in calcite per effetto della pressione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pressione-soluzione è la dissoluzione nei punti di contatto tra i granuli sottoposti a carico; nel seppellimento profondo agisce insieme a costipamento e cementazione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-solubilita-calcite-039",
+    "topic": "scienze-terra",
+    "question": "Come varia la solubilità della calcite con pressione e temperatura?",
+    "suggestion": "I due fattori agiscono in senso opposto.",
+    "options": [
+      "Diminuisce con la pressione e aumenta con la temperatura",
+      "Aumenta con la pressione e diminuisce con la temperatura",
+      "Aumenta sia con la pressione sia con la temperatura"
+    ],
+    "correctIndex": 1,
+    "explanation": "La solubilità della calcite aumenta con la pressione (quindi con la profondità) e diminuisce con la temperatura, che però rende il processo più rapido. Le acque sono sature fino a 300-500 m e sottosature più in basso.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-dolomie-porose-040",
+    "topic": "scienze-terra",
+    "question": "Perché le dolomie diagenetiche sono porose?",
+    "suggestion": "Confronta i raggi di Mg (0,66 Å) e Ca (0,99 Å).",
+    "options": [
+      "Perché il magnesio, più grande del calcio, deforma il reticolo aprendo numerose microfratture",
+      "Perché la dolomite si scioglie più facilmente della calcite nelle acque meteoriche",
+      "Perché il magnesio, più piccolo del calcio, riduce il volume dei cristalli lasciando vuoti"
+    ],
+    "correctIndex": 2,
+    "explanation": "La dolomite si forma sostituendo il calcio con il magnesio, molto più piccolo (0,66 vs 0,99 Å): la sostituzione riduce il volume dei cristalli e lascia vuoti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-dorag-041",
+    "topic": "scienze-terra",
+    "question": "In quali condizioni avviene la dolomitizzazione precoce secondo il modello Dorag?",
+    "suggestion": "Il modello Dorag è l'alternativa alle condizioni ipersaline.",
+    "options": [
+      "In condizioni ipersaline, per pompaggio evaporitico",
+      "In condizioni salmastre",
+      "Per apporti idrotermali tardivi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La dolomitizzazione precoce può avvenire in condizioni ipersaline (pompaggio evaporitico, riflusso) oppure salmastre, secondo il modello Dorag. Apporti idrotermali, acque meteoriche e metamorfismo causano quella tardiva.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.35"
+  },
+  {
+    "id": "st-c08-micritizzazione-042",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la micritizzazione, tipica delle acque marine basse?",
+    "suggestion": "La micrite è un fango carbonatico finissimo.",
+    "options": [
+      "La trasformazione dei granuli in fango carbonatico finissimo",
+      "La crescita di cemento isopaco attorno ai granuli",
+      "La dissoluzione completa dei granuli carbonatici al di sotto del lisoclino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelle acque marine basse si hanno una cementazione limitata e localizzata di aragonite e la micritizzazione, cioè la trasformazione dei granuli in fango carbonatico finissimo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.35"
+  }
+]

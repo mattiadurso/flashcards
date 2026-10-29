@@ -1,0 +1,456 @@
+[
+  {
+    "id": "st-c01-cristallo-def-001",
+    "topic": "scienze-terra",
+    "question": "Perché i cristalli assumono forme geometriche naturali regolari?",
+    "suggestion": "Pensa a che cosa distingue un cristallo da un solido qualsiasi a livello atomico.",
+    "options": [
+      "Perché gli atomi sono disposti in modo periodico secondo simmetrie ben definite",
+      "Perché le facce crescono tutte alla stessa velocità in ogni direzione dello spazio",
+      "Perché il raffreddamento rapido del fuso impone superfici piane agli aggregati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il cristallo è uno stato solido caratterizzato da una disposizione periodica degli atomi secondo simmetrie definite: la forma esterna regolare è la conseguenza macroscopica di questo ordine interno.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.3-4"
+  },
+  {
+    "id": "st-c01-simmetria-def-002",
+    "topic": "scienze-terra",
+    "question": "Quando si dice, in termini rigorosi, che una figura possiede una simmetria?",
+    "suggestion": "La definizione parte dall'uguaglianza di una figura con sé stessa dopo un'operazione.",
+    "options": [
+      "Quando tutte le sue facce hanno la stessa estensione, la stessa forma e lo stesso numero di spigoli",
+      "Quando dopo un'operazione di uguaglianza ogni punto cade dove c'era un altro punto della figura",
+      "Quando può essere divisa da un piano in due metà con la stessa area superficiale"
+    ],
+    "correctIndex": 1,
+    "explanation": "La simmetria si definisce a partire dall'uguaglianza di una figura con sé stessa: applicando operazioni che non deformano la figura, ogni punto viene a trovarsi dove prima c'era un altro punto della figura.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-fill-operatore-003",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "L'ente geometrico rispetto al quale viene compiuta un'operazione di simmetria si chiama operatore o ___ di simmetria.",
+    "answers": [["elemento"]],
+    "suggestion": "È il termine usato per asse, piano e centro considerati come 'oggetti' della simmetria.",
+    "explanation": "Ogni operazione è definita da un operatore, o elemento di simmetria: vettore, asse, punto o piano.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-traslazione-004",
+    "topic": "scienze-terra",
+    "question": "Perché la traslazione non ha senso nella descrizione di un cristallo macroscopico?",
+    "suggestion": "Una simmetria di traslazione richiede che la ripetizione non finisca mai.",
+    "options": [
+      "Perché la traslazione trasforma sempre la figura nella sua immagine speculare, da destra a sinistra",
+      "Perché esiste solo in corpi idealmente infiniti, mentre il cristallo è finito",
+      "Perché la traslazione è possibile solo attorno ad assi di ordine 5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una simmetria di traslazione può esistere solo in corpi idealmente infiniti: per questo è la simmetria fondamentale del reticolo cristallino ma non del cristallo macroscopico, che è un solido finito.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-ordine-asse-005",
+    "topic": "scienze-terra",
+    "question": "Ogni quanti gradi un asse quaternario riporta la figura su sé stessa?",
+    "suggestion": "L'ordine dell'asse è il numero di volte in cui la figura si ricopre in un giro completo.",
+    "options": [
+      "Ogni 60°",
+      "Ogni 120°",
+      "Ogni 90°",
+      "Ogni 45°"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'angolo di rotazione è 360°/n: per un asse quaternario (n = 4) la figura si ricopre ogni 90°.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-specie-006",
+    "topic": "scienze-terra",
+    "question": "Che cosa accomuna traslazione e rotazione, raggruppate come uguaglianza di I specie?",
+    "suggestion": "Pensa a che cosa succede a una figura 'destra' dopo l'operazione.",
+    "options": [
+      "Trasformano la figura nella sua immagine speculare, da destra a sinistra",
+      "Hanno entrambe come operatore un punto, il centro di simmetria",
+      "La figura resta sullo stesso piano e una figura destra rimane destra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'uguaglianza di I specie la figura si muove sullo stesso piano restando parallela a sé stessa: una figura destra resta destra. Inversione e riflessione (II specie) la trasformano invece nella sua immagine speculare.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-seconda-specie-007",
+    "topic": "scienze-terra",
+    "question": "Quali operazioni di simmetria costituiscono l'uguaglianza di II specie?",
+    "suggestion": "Sono le operazioni che cambiano una figura 'destra' in una 'sinistra'.",
+    "options": [
+      "Inversione e riflessione",
+      "Rotazione e traslazione",
+      "Rotazione e riflessione",
+      "Traslazione e inversione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inversione (operatore: il punto) e riflessione (operatore: il piano m) trasformano la figura nella sua immagine speculare e definiscono l'uguaglianza di II specie.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-fill-rotoinversione-008",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "L'operazione combinata formata da una rotazione seguita da un'inversione prende il nome di ___.",
+    "answers": [["rotoinversione", "roto-inversione"]],
+    "suggestion": "Il nome unisce le due operazioni che la compongono.",
+    "explanation": "Un prisma a base quadrata, ad esempio, si ricopre dopo una rotazione di 90° seguita da un'inversione: questa operazione combinata è la rotoinversione.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-fill-unita-asimm-009",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Le parti uguali e prive di simmetria che gli elementi di simmetria ripetono per costruire la figura si chiamano unità ___.",
+    "answers": [["asimmetriche", "asimmetrica"]],
+    "suggestion": "Sono 'mattoni' che da soli non possiedono alcuna simmetria.",
+    "explanation": "Ogni figura simmetrica può essere pensata come un insieme di unità asimmetriche ripetute dagli elementi di simmetria.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-assi-compatibili-010",
+    "topic": "scienze-terra",
+    "question": "Perché nei cristalli non possono esistere assi di rotazione di ordine 5?",
+    "suggestion": "Pensa a come pavimentare un piano senza lasciare vuoti.",
+    "options": [
+      "Perché un asse di ordine 5 trasformerebbe il reticolo nella sua immagine speculare, come una riflessione",
+      "Perché con i pentagoni non si può riempire un piano senza vuoti, incompatibile con la traslazione",
+      "Perché le distanze interatomiche dei cristalli sono troppo piccole per un pentagono"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un reticolo periodico possiede simmetria di traslazione: si può pavimentare un piano con parallelogrammi, rettangoli, quadrati, triangoli ed esagoni, ma non con pentagoni. Per questo sono possibili solo assi di ordine 1, 2, 3, 4 e 6.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-gruppi-sistemi-classi-011",
+    "topic": "scienze-terra",
+    "question": "In quanti gruppi, sistemi e classi vengono suddivisi i cristalli in base a simmetrie e rapporti tra gli assi?",
+    "suggestion": "Il numero di classi è molto più grande degli altri due.",
+    "options": [
+      "3 gruppi, 6 sistemi e 32 classi",
+      "4 gruppi, 7 sistemi e 230 classi",
+      "3 gruppi, 7 sistemi e 14 classi",
+      "3 gruppi, 7 sistemi e 32 classi"
+    ],
+    "correctIndex": 3,
+    "explanation": "In base alle simmetrie e ai rapporti tra gli assi i cristalli si suddividono in 3 gruppi (monometrico, dimetrico, trimetrico), 7 sistemi e 32 classi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-nodo-reticolo-012",
+    "topic": "scienze-terra",
+    "question": "Come viene individuato un nodo del reticolo una volta scelte le tre traslazioni fondamentali a, b, c?",
+    "suggestion": "Il nodo si raggiunge sommando multipli dei tre vettori fondamentali.",
+    "options": [
+      "Con il vettore t = ha + kb + lc, con h, k, l numeri interi",
+      "Con il vettore t = a/h + b/k + c/l, con h, k, l numeri reali",
+      "Con il prodotto scalare t = a · b · c moltiplicato per un intero"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fissata un'origine, ogni nodo è individuato da t = ha + kb + lc con h, k, l interi; lunghezze dei vettori e angoli tra di essi sono le costanti cristallografiche.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.4"
+  },
+  {
+    "id": "st-c01-cubico-013",
+    "topic": "scienze-terra",
+    "question": "Quali costanti cristallografiche caratterizzano il sistema cubico?",
+    "suggestion": "È l'unico sistema del gruppo monometrico.",
+    "options": [
+      "a = b ≠ c e tutti gli angoli di 90°",
+      "a ≠ b ≠ c e tutti gli angoli di 90°",
+      "a = b = c e tutti gli angoli di 90°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il sistema cubico (gruppo monometrico) ha tre assi uguali, a = b = c, e tutti gli angoli retti. a = b ≠ c con angoli retti è il tetragonale, a ≠ b ≠ c con angoli retti il rombico.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.5"
+  },
+  {
+    "id": "st-c01-trimetrico-014",
+    "topic": "scienze-terra",
+    "question": "Quali sistemi cristallini appartengono al gruppo trimetrico?",
+    "suggestion": "Trimetrico: tre assi di lunghezza diversa.",
+    "options": [
+      "Tetragonale, esagonale e trigonale",
+      "Triclino, monoclino e rombico",
+      "Cubico, rombico e monoclino",
+      "Triclino, monoclino e trigonale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il gruppo trimetrico (a ≠ b ≠ c) comprende i sistemi rombico, monoclino e triclino; il dimetrico comprende tetragonale, esagonale e trigonale; il monometrico il solo cubico.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.5, 8"
+  },
+  {
+    "id": "st-c01-stessa-simmetria-015",
+    "topic": "scienze-terra",
+    "question": "Che cosa hanno in comune cubo, ottaedro e rombododecaedro?",
+    "suggestion": "Lo stesso reticolo può dare forme macroscopiche diverse.",
+    "options": [
+      "Lo stesso numero di facce e di spigoli",
+      "La stessa simmetria cubica",
+      "La stessa faccia fondamentale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stesso reticolo con la stessa simmetria è compatibile con diverse forme macroscopiche: cubo, ottaedro e rombododecaedro hanno tutti simmetria cubica.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.5"
+  },
+  {
+    "id": "st-c01-hauy-enunciato-016",
+    "topic": "scienze-terra",
+    "question": "Che cosa afferma, in sostanza, la legge di Hauy?",
+    "suggestion": "È detta anche legge di razionalità degli indici.",
+    "options": [
+      "Le facce più sviluppate sono quelle parallele ai piani reticolari più densi",
+      "Gli angoli diedri tra facce corrispondenti restano costanti in ogni specie cristallina naturale",
+      "Sono possibili solo facce con indici interi e piccoli rispetto alla faccia fondamentale"
+    ],
+    "correctIndex": 2,
+    "explanation": "La legge di Hauy afferma che, scelti assi e faccia fondamentale, ogni altra faccia taglia gli assi in rapporti h : k : l interi e piccoli. La prima opzione è il principio di Bravais, la seconda la costanza dell'angolo diedro.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.5"
+  },
+  {
+    "id": "st-c01-angolo-diedro-017",
+    "topic": "scienze-terra",
+    "question": "Che cosa implica la costanza dell'angolo diedro in un ottaedro distorto?",
+    "suggestion": "Le facce possono avere estensione diversa, ma qualcosa resta invariato.",
+    "options": [
+      "Che a caratterizzare il cristallo è l'orientazione delle facce, non la loro estensione",
+      "Che le facce di un ottaedro distorto hanno comunque tutte la stessa area di quelle regolari",
+      "Che un ottaedro distorto appartiene necessariamente a un sistema cristallino diverso"
+    ],
+    "correctIndex": 0,
+    "explanation": "In ogni specie cristallina gli angoli tra facce corrispondenti restano uguali anche se le facce hanno dimensioni diverse: ciò che conta è l'orientazione delle facce.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.5"
+  },
+  {
+    "id": "st-c01-cubo-faccia-fond-018",
+    "topic": "scienze-terra",
+    "question": "Perché nel cubo manca la faccia fondamentale richiesta dalla legge di Hauy?",
+    "suggestion": "La faccia fondamentale deve tagliare tutti e tre gli assi.",
+    "options": [
+      "Perché il cubo non possiede tre spigoli a 90° che possano essere usati come assi cristallografici",
+      "Perché nessuna faccia del cubo taglia tutti e tre gli spigoli scelti come assi",
+      "Perché le facce del cubo tagliano gli assi in rapporti non interi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il cubo ha tre spigoli esistenti a 90°, paralleli agli assi quaternari, ma ogni sua faccia è parallela a due di essi: nessuna taglia tutti e tre gli assi, quindi manca la faccia fondamentale.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.5"
+  },
+  {
+    "id": "st-c01-ottaedro-spigoli-019",
+    "topic": "scienze-terra",
+    "question": "Nell'ottaedro, perché le direzioni che uniscono i vertici opposti sono dette 'spigoli possibili'?",
+    "suggestion": "Distingui tra uno spigolo reale e una direzione che potrebbe diventarlo.",
+    "options": [
+      "Perché non sono spigoli reali, ma direzioni che possono fungere da assi cristallografici",
+      "Perché coincidono con spigoli reali che compaiono soltanto negli ottaedri fortemente distorti",
+      "Perché sono gli spigoli dell'ottaedro paralleli ai tre assi quaternari"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'ottaedro non ha tre spigoli convergenti a 90°: le tre direzioni tra vertici opposti non sono spigoli reali ma spigoli possibili, e le sue facce, tagliando tutti e tre gli assi, possono fungere da faccia fondamentale.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.5"
+  },
+  {
+    "id": "st-c01-miller-calcolo-020",
+    "topic": "scienze-terra",
+    "question": "Un piano taglia gli assi a 3a, 2b e 1c: quali sono i suoi indici di Miller?",
+    "suggestion": "Prendi i reciproci delle intercette e riducili ai più piccoli interi.",
+    "options": [
+      "(321)",
+      "(632)",
+      "(123)",
+      "(236)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Le intercette 3, 2, 1 hanno reciproci 1/3, 1/2, 1: moltiplicando per 6 si ottiene 2, 3, 6, cioè (236). Gli indici sono inversamente proporzionali alle intercette.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.6"
+  },
+  {
+    "id": "st-c01-miller-zero-021",
+    "topic": "scienze-terra",
+    "question": "Che cosa indica un indice di Miller uguale a 0?",
+    "suggestion": "Gli indici sono i reciproci delle intercette.",
+    "options": [
+      "Un piano che passa per l'origine degli assi",
+      "Un piano parallelo a quell'asse, con intercetta infinita",
+      "Un piano perpendicolare a quell'asse, con intercetta nulla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiché gli indici sono reciproci delle intercette, 0 corrisponde a un'intercetta infinita, cioè a un piano parallelo all'asse; ad esempio (010) indica piani paralleli al piano ac.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.6"
+  },
+  {
+    "id": "st-c01-hauy-reticolare-022",
+    "topic": "scienze-terra",
+    "question": "Perché, dal punto di vista reticolare, gli indici delle facce sono numeri interi?",
+    "suggestion": "Pensa a dove passa un piano reticolare e dove taglia gli assi.",
+    "options": [
+      "Perché un piano reticolare passa per i nodi e taglia gli assi a multipli interi di a, b, c",
+      "Perché le facce più sviluppate hanno sempre intercette uguali sui tre assi cristallografici",
+      "Perché i piani reticolari sono sempre paralleli ad almeno uno dei tre assi del reticolo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le facce corrispondono a piani reticolari che, passando per i nodi, tagliano necessariamente gli assi a multipli interi di a, b, c: i rapporti tra intercette sono razionali e gli indici interi.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.6"
+  },
+  {
+    "id": "st-c01-bravais-023",
+    "topic": "scienze-terra",
+    "question": "Secondo il principio di Bravais, quali facce dominano la forma di un cristallo?",
+    "suggestion": "Le facce che crescono lentamente finiscono per prevalere.",
+    "options": [
+      "Quelle corrispondenti ai piani reticolari meno densi, con indici alti",
+      "Quelle perpendicolari agli assi di simmetria di ordine più elevato",
+      "Quelle corrispondenti ai piani reticolari più densi, con indici bassi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cristallo cresce più lentamente perpendicolarmente ai piani più densi, e le facce a crescita lenta dominano la forma: sono quelle dei piani più densi, con indici bassi. Questo spiega perché gli indici della legge di Hauy sono piccoli.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.6"
+  },
+  {
+    "id": "st-c01-bravais-sfaldatura-024",
+    "topic": "scienze-terra",
+    "question": "Come spiega il principio di Bravais il fenomeno della sfaldatura?",
+    "suggestion": "Chiediti quali piani restano intatti quando il cristallo si rompe.",
+    "options": [
+      "Alla rottura restano intatte le facce corrispondenti ai piani reticolari meno densi",
+      "Alla rottura restano intatte le facce dei piani a maggiore densità reticolare",
+      "La rottura avviene sempre lungo i piani perpendicolari all'asse c"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo stesso principio spiega la sfaldatura: alla rottura restano intatte proprio le facce a maggiore densità reticolare.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.6"
+  },
+  {
+    "id": "st-c01-dhkl-densita-025",
+    "topic": "scienze-terra",
+    "question": "Che relazione esiste tra la distanza interplanare d(hkl) e la densità reticolare D(hkl) di una successione di piani?",
+    "suggestion": "Ogni successione di piani contiene tutti i punti del reticolo.",
+    "options": [
+      "Sono inversamente proporzionali: D(hkl) · d(hkl) è costante",
+      "Sono proporzionali: il rapporto D(hkl)/d(hkl) è costante",
+      "Sono indipendenti: d(hkl) dipende solo dalla lunghezza d'onda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiché ogni successione contiene tutti i nodi, piani più densi devono essere più distanziati: la distanza è proporzionale alla densità, D(hkl)/d(hkl) = costante.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.6"
+  },
+  {
+    "id": "st-c01-anisotropia-026",
+    "topic": "scienze-terra",
+    "question": "Che cosa significa che una proprietà fisica di un cristallo è anisotropa?",
+    "suggestion": "Pensa alla direzione in cui la si misura.",
+    "options": [
+      "Che varia a seconda della direzione in cui viene misurata",
+      "Che varia nel tempo durante le diverse fasi di crescita del cristallo",
+      "Che ha lo stesso valore in tutte le direzioni misurate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Proprietà come la resistenza meccanica o la velocità di crescita sono direzionali e anisotrope, cioè variano a seconda della direzione di misura.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.7"
+  },
+  {
+    "id": "st-c01-fill-superficie-indicatrice-027",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "L'inviluppo dei vettori che rappresentano il valore di una proprietà fisica misurata in tutte le direzioni prende il nome di superficie ___.",
+    "answers": [["indicatrice"]],
+    "suggestion": "È una superficie che 'indica' il valore della proprietà in ogni direzione.",
+    "explanation": "Riportando in ogni direzione un vettore lungo quanto il valore misurato si ottiene un insieme di vettori il cui inviluppo è la superficie indicatrice.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.7"
+  },
+  {
+    "id": "st-c01-neumann-enunciato-028",
+    "topic": "scienze-terra",
+    "question": "Che cosa afferma il principio di Neumann?",
+    "suggestion": "Il rapporto tra le due simmetrie non è reciproco.",
+    "options": [
+      "Gli elementi di simmetria del cristallo devono comprendere quelli di ogni sua proprietà fisica",
+      "Gli elementi di simmetria di ogni proprietà fisica devono comprendere quelli della classe del cristallo",
+      "Ogni proprietà fisica di un cristallo ha esattamente gli stessi elementi di simmetria della sua classe cristallina"
+    ],
+    "correctIndex": 1,
+    "explanation": "La simmetria di una proprietà fisica deve includere quella della classe cristallina: la proprietà può essere più simmetrica del cristallo, ma non meno. La prima opzione inverte il rapporto, la terza lo rende reciproco.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.7"
+  },
+  {
+    "id": "st-c01-neumann-sfera-029",
+    "topic": "scienze-terra",
+    "question": "Quale superficie indicatrice caratterizza un cristallo del sistema cubico?",
+    "suggestion": "Nel gruppo monometrico i tre assi sono uguali.",
+    "options": [
+      "Un ellissoide triassiale",
+      "Un ellissoide di rotazione",
+      "Una sfera"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel gruppo monometrico (a = b = c) la proprietà ha lo stesso valore lungo x, y e z: la superficie indicatrice è una sfera e il cristallo si comporta in modo isotropo.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.7"
+  },
+  {
+    "id": "st-c01-neumann-dimetrico-030",
+    "topic": "scienze-terra",
+    "question": "Nel gruppo dimetrico la superficie indicatrice è un ellissoide di rotazione: con quale asse coincide il suo asse?",
+    "suggestion": "Nel gruppo dimetrico un asse è diverso dagli altri due e ha un significato ottico.",
+    "options": [
+      "Con l'asse a, che corrisponde al piano di sfaldatura",
+      "Con l'asse c, che corrisponde all'asse ottico",
+      "Con la bisettrice tra a e b, l'asse di massima crescita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel gruppo dimetrico (a = b ≠ c, quindi x = y < z) la superficie è un ellissoide di rotazione il cui asse coincide con l'asse c, che corrisponde all'asse ottico.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.7-8"
+  },
+  {
+    "id": "st-c01-omogeneo-031",
+    "topic": "scienze-terra",
+    "question": "Perché il vetro è isotropo mentre un cristallo è in generale anisotropo?",
+    "suggestion": "Distingui omogeneità statistica e omogeneità periodica.",
+    "options": [
+      "Il vetro è un omogeneo periodico, il cristallo un omogeneo statistico",
+      "Il vetro ha una densità maggiore, che annulla le differenze direzionali",
+      "Il vetro è un omogeneo statistico, il cristallo un omogeneo periodico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aria e vetro sono omogenei statistici e quindi isotropi; il cristallo è un omogeneo periodico, e la sua struttura ordinata lo rende in generale anisotropo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.8"
+  }
+]

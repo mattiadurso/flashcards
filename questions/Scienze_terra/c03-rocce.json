@@ -1,0 +1,298 @@
+[
+  {
+    "id": "st-c03-struttura-def-001",
+    "topic": "scienze-terra",
+    "question": "Che cosa descrive la struttura di una roccia, a differenza della tessitura?",
+    "suggestion": "Una riguarda la natura dei componenti, l'altra la loro disposizione nello spazio.",
+    "options": [
+      "La disposizione reciproca dei componenti nello spazio, la loro forma e dimensione",
+      "La natura dei componenti macroscopici e il loro stato di aggregazione",
+      "La composizione chimica complessiva della roccia espressa in ossidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "La struttura descrive la natura dei componenti macroscopici e il loro stato di aggregazione; la tessitura la loro disposizione reciproca, forma e dimensione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-olocristallina-002",
+    "topic": "scienze-terra",
+    "question": "Quando una roccia si dice olocristallina granulare?",
+    "suggestion": "'Olo-' significa 'tutto'.",
+    "options": [
+      "Quando grandi cristalli ben formati sono immersi in una massa di fondo molto fine",
+      "Quando è compatta e priva di componenti visibili a occhio nudo",
+      "Quando è formata interamente da cristalli visibili di dimensioni simili"
+    ],
+    "correctIndex": 2,
+    "explanation": "Olocristallina granulare: interamente formata da cristalli visibili di dimensioni simili, come granito o gneiss. Fenocristalli in massa di fondo fine definiscono la struttura porfirica.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-fill-fenocristalli-003",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Nella struttura porfirica, i cristalli grandi immersi in una massa di fondo fine si chiamano ___.",
+    "answers": [["fenocristalli", "fenocristallo"]],
+    "suggestion": "Sono cristalli ben visibili, che 'appaiono' nella massa di fondo.",
+    "explanation": "La struttura porfirica è caratterizzata da fenocristalli immersi in una massa di fondo fine, come nel porfido quarzifero o nell'andesite.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-porfirica-storia-004",
+    "topic": "scienze-terra",
+    "question": "Quale storia di raffreddamento racconta la struttura porfirica di un'andesite?",
+    "suggestion": "Due dimensioni di cristalli, due velocità di raffreddamento.",
+    "options": [
+      "Fenocristalli formati lentamente in profondità e massa di fondo raffreddata in fretta in superficie",
+      "Fenocristalli formati rapidamente in superficie e massa di fondo cristallizzata lentamente in profondità",
+      "Un unico raffreddamento lento e uniforme in profondità, con crescita di cristalli di ogni taglia"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fenocristalli si sono formati lentamente in profondità, la massa di fondo rapidamente in superficie: un raffreddamento in due tempi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-massiva-005",
+    "topic": "scienze-terra",
+    "question": "Quale roccia è l'esempio di struttura massiva, compatta e priva di componenti visibili?",
+    "suggestion": "È formata da fango carbonatico finissimo.",
+    "options": [
+      "Il travertino",
+      "Il calcare micritico",
+      "Il porfido quarzifero",
+      "Lo gneiss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il calcare micritico, formato da fango carbonatico finissimo, ha struttura massiva; il travertino è invece poroso.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-friabile-006",
+    "topic": "scienze-terra",
+    "question": "Quale roccia è citata come esempio di roccia friabile?",
+    "suggestion": "È una roccia biocostruita che si sgretola facilmente.",
+    "options": [
+      "La puddinga",
+      "La dolomia",
+      "Il calcare micritico",
+      "La farina fossile"
+    ],
+    "correctIndex": 3,
+    "explanation": "La farina fossile è friabile, cioè facile a sgretolarsi; la puddinga è invece compatta, con componenti saldamente cementati.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-tessitura-isotropa-007",
+    "topic": "scienze-terra",
+    "question": "Quale roccia mostra tipicamente una tessitura isotropa, senza orientazioni preferenziali?",
+    "suggestion": "È una roccia magmatica intrusiva.",
+    "options": [
+      "Il granito",
+      "Lo gneiss",
+      "Una lava fluidale"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tessitura isotropa è tipica del granito; lave fluidali e alcune dioriti hanno tessitura orientata, e lo gneiss è olocristallino orientato.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.9-10"
+  },
+  {
+    "id": "st-c03-granosostenuta-008",
+    "topic": "scienze-terra",
+    "question": "Quando una tessitura particellare si dice granosostenuta?",
+    "suggestion": "Guarda il rapporto tra i clasti.",
+    "options": [
+      "Quando i clasti galleggiano nel fango senza toccarsi tra loro",
+      "Quando la roccia è formata quasi soltanto da materiale fine",
+      "Quando i clasti si toccano tra loro sostenendo la struttura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Granosostenuta: i clasti si toccano; fangosostenuta: galleggiano nel fango; pelitica: quasi solo materiale fine.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.9-10"
+  },
+  {
+    "id": "st-c03-embriciata-009",
+    "topic": "scienze-terra",
+    "question": "Che cosa indica una disposizione embriciata dei ciottoli?",
+    "suggestion": "Sono ciottoli inclinati e sovrapposti come tegole.",
+    "options": [
+      "L'azione di una corrente, che inclina e sovrappone i ciottoli appiattiti",
+      "Un deposito per semplice decantazione in acque perfettamente ferme",
+      "La compattazione dei ciottoli durante la diagenesi per seppellimento molto profondo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tessitura embriciata, con ciottoli appiattiti inclinati e sovrapposti come tegole, si forma per effetto della corrente.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-maturo-010",
+    "topic": "scienze-terra",
+    "question": "Quando un sedimento si dice maturo dal punto di vista tessiturale?",
+    "suggestion": "Tre caratteri devono essere soddisfatti insieme.",
+    "options": [
+      "Quando è ricco di matrice fangosa, mal selezionato e con clasti spigolosi",
+      "Quando è privo di fango interstiziale, ben selezionato e ben arrotondato",
+      "Quando è formato quasi solo da quarzo, indipendentemente da forma e taglia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un sedimento è maturo quando è privo di fango interstiziale, ben selezionato e ben arrotondato. La composizione a solo quarzo riguarda invece la maturità composizionale.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-gradata-011",
+    "topic": "scienze-terra",
+    "question": "In che cosa consiste la granulometria gradata?",
+    "suggestion": "Conta la direzione verticale della variazione.",
+    "options": [
+      "In un aumento delle dimensioni dei grani dal basso verso l'alto",
+      "In lamine inclinate rispetto alla base dello strato prodotte dalle correnti",
+      "In una diminuzione delle dimensioni dei grani dal basso verso l'alto"
+    ],
+    "correctIndex": 2,
+    "explanation": "La granulometria gradata è una diminuzione delle dimensioni dei grani dal basso verso l'alto; le lamine inclinate sono le laminazioni incrociate.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-fill-impronte-carico-012",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Le deformazioni alla base di uno strato affondato nel sedimento molle sottostante si chiamano impronte di ___.",
+    "answers": [["carico"]],
+    "suggestion": "Sono dovute al peso dello strato sovrastante.",
+    "explanation": "Le impronte di carico sono deformazioni alla base di uno strato affondato nel sedimento molle sottostante; come le altre strutture sedimentarie aiutano a distinguere tetto e base.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-strutture-utili-013",
+    "topic": "scienze-terra",
+    "question": "Perché le strutture sedimentarie sono utili nello studio di uno strato?",
+    "suggestion": "Pensa a strati che potrebbero essere stati rovesciati.",
+    "options": [
+      "Perché permettono di datare con precisione lo strato in milioni di anni",
+      "Perché aiutano a capire quale sia il tetto e quale la base",
+      "Perché indicano la composizione mineralogica dei clasti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Impronte di carico, laminazioni, laminazioni incrociate e granulometria gradata sono utili per capire quale sia il tetto e quale la base dello strato.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-gneiss-014",
+    "topic": "scienze-terra",
+    "question": "Una struttura olocristallina con tessitura orientata indica quale tipo di roccia?",
+    "suggestion": "Pensa allo gneiss.",
+    "options": [
+      "Una roccia magmatica intrusiva",
+      "Una roccia sedimentaria evaporitica",
+      "Una roccia vulcanica effusiva",
+      "Una roccia metamorfica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Olocristallina con tessitura orientata indica una roccia metamorfica come lo gneiss; olocristallina granulare isotropa indica un'intrusiva come il granito.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-granito-bowen-015",
+    "topic": "scienze-terra",
+    "question": "Quali minerali della serie di Bowen contiene un granito?",
+    "suggestion": "Il granito corrisponde all'ultima parte della serie.",
+    "options": [
+      "Olivina, pirosseno e plagioclasio calcico",
+      "Pirosseno, anfibolo, plagioclasio calcico e olivina",
+      "Quarzo, K-feldspato, plagioclasio sodico e miche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il granito contiene i minerali dell'ultima parte della serie di Bowen (quarzo, K-feldspato, plagioclasio sodico, miche); gabbro e basalto quelli dei primi termini (pirosseno, plagioclasio calcico, eventualmente olivina).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-categorie-genetiche-016",
+    "topic": "scienze-terra",
+    "question": "Che tessitura hanno le evaporiti come gesso e anidrite?",
+    "suggestion": "Precipitano da soluzioni sovrassature.",
+    "options": [
+      "Tessitura particellare",
+      "Tessitura cristallina",
+      "Tessitura biocostruita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le evaporiti hanno tessitura cristallina; le silicoclastiche (conglomerato, arenaria) particellare; le biocostruite (farina fossile) biocostruita.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-particellare-017",
+    "topic": "scienze-terra",
+    "question": "Quando una tessitura si definisce particellare?",
+    "suggestion": "Il conglomerato ne è l'esempio tipico.",
+    "options": [
+      "Quando la roccia è formata da clasti di rocce o minerali preesistenti",
+      "Quando il materiale cristallino che la compone è riconoscibile a occhio nudo",
+      "Quando la roccia è stata costruita direttamente da organismi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Particellare: formata da clasti, cioè frammenti di rocce o minerali preesistenti, come nel conglomerato.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-selezionamento-018",
+    "topic": "scienze-terra",
+    "question": "Quando il grado di selezionamento di un sedimento è buono?",
+    "suggestion": "Riguarda le dimensioni dei clasti, non la loro forma.",
+    "options": [
+      "Quando i clasti sono tutti ben arrotondati e privi di spigoli",
+      "Quando i clasti hanno dimensioni tra loro simili",
+      "Quando la matrice fangosa supera il volume dei clasti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il selezionamento è buono quando i clasti hanno dimensioni simili; l'arrotondamento è un carattere distinto.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c03-eterogenea-019",
+    "topic": "scienze-terra",
+    "question": "Quale coppia di rocce è citata come esempio di rocce eterogenee, formate da componenti di natura diversa?",
+    "suggestion": "Sono rocce silicoclastiche.",
+    "options": [
+      "Dolomia e gesso",
+      "Granito e porfido quarzifero",
+      "Travertino e dolomia",
+      "Conglomerato e arenaria"
+    ],
+    "correctIndex": 3,
+    "explanation": "Conglomerato e arenaria sono eterogenei, formati da componenti di natura diversa; la dolomia è invece omogenea.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c03-porosa-020",
+    "topic": "scienze-terra",
+    "question": "Quale roccia è citata come esempio di struttura porosa?",
+    "suggestion": "È una roccia carbonatica con vuoti visibili.",
+    "options": [
+      "Il travertino",
+      "Il calcare micritico",
+      "La puddinga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il travertino (come la dolomia) contiene vuoti e ha struttura porosa; il calcare micritico è massivo e la puddinga compatta.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  }
+]

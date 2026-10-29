@@ -108,7 +108,12 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
   start-windows.bat              ← same for Windows
   CLAUDE.md                      ← this file (project brief + conventions + this map)
 
-  docs/                          ← source material, organised by macro-subject (one folder per subject)
+  docs/                          ← source material, organised by macro-subject (one folder per subject).
+                                    GIT-IGNORED: exists only locally, so a fresh clone has no docs/ at all.
+    _inbox/                      ← DROP ZONE for raw, not-yet-processed documents (PDF/pptx/txt). When asked to
+                                    "process the inbox": generate banks under questions/<Subject>/, register them in
+                                    index.json, then MOVE the source files to docs/<Subject>/ so _inbox/ ends empty
+                                    (only its LEGGIMI.md stays).
     Anatomia_e_Biologia/         ← course 1: each lecture is a "NN name.pdf" plus an extracted "NN name.txt"
     Bio-Chimica/                 ← course 2: PDFs and .pptx source decks
     Funzionalita_ambientale_dei_suoli/
@@ -123,6 +128,9 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
     conservazione/               ← course 6: ecology dispensa (Conservazione_della_Natura_Dispensa_Parte2_1.pdf,
                                     48pp) — population/community ecology. One PDF → 11 per-chapter banks under
                                     questions/conservazione/ (topic "conservazione").
+    Scienze_terra/               ← course 7: "scienze della terra con immagini.pdf" (48pp, exam-answer dispensa,
+                                    Benciolini a.a. 2024/25) + its extracted .txt. One PDF → 12 per-chapter banks
+                                    under questions/Scienze_terra/ (topic "scienze-terra").
   questions/                     ← the question banks the website actually loads
     index.json                   ← MANIFEST. Lists every bank file; a file not listed here is invisible to the site
     Anatomia_e_Biologia/         ← one JSON bank per species/lecture (cervo.json, capriolo.json, …)
@@ -140,6 +148,11 @@ flashcards/                      ← repo root (GitHub repo is "flashcards"; was
                                     c11 regolazione intraspecifica, c12 interazioni tra specie, c13 competizione
                                     interspecifica, c14 predazione, c16 struttura comunità, c18 successione, c20
                                     energetica ecosistemi, c21 decomposizione, c22 cicli biogeochimici.
+    Scienze_terra/               ← 12 per-chapter banks (378 questions, topic "scienze-terra", id prefix st-cNN-),
+                                    one per exam topic: c01 cristallografia, c02 minerali, c03 rocce, c04 carta
+                                    geologica, c05 raggi X, c06 mineralogia, c07 petrologia magmatica, c08
+                                    sedimentaria, c09 metamorfica, c10 stratigrafia, c11 geologia strutturale,
+                                    c12 interno della Terra.
     easter-eggs.json             ← hidden "bonus" questions; deliberately NOT in index.json; spliced in at random
   tests/
     test_question_banks.py       ← validates every bank + index.json against QUESTION_FORMAT.md (plain python3)

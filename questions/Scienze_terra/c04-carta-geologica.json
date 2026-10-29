@@ -1,0 +1,300 @@
+[
+  {
+    "id": "st-c04-fill-isoipse-001",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Sulla carta geologica la topografia si legge dalle ___, linee che uniscono punti di uguale quota.",
+    "answers": [["isoipse", "curve di livello", "isoipsa"]],
+    "suggestion": "'Iso-' = uguale, '-ipsa' = altezza.",
+    "explanation": "Le isoipse uniscono punti di uguale quota: da esse si ricavano rilievi, valli e versanti con la loro esposizione.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c04-scala-gemona-002",
+    "topic": "scienze-terra",
+    "question": "A quale scala è il Foglio Gemona della Carta Geologica d'Italia usato all'esame?",
+    "suggestion": "È la scala dei fogli della cartografia geologica nazionale recente.",
+    "options": [
+      "1:25.000",
+      "1:100.000",
+      "1:10.000",
+      "1:50.000"
+    ],
+    "correctIndex": 3,
+    "explanation": "La prova si svolge su un'area del Foglio Gemona alla scala 1:50.000.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.10"
+  },
+  {
+    "id": "st-c04-colori-triassico-003",
+    "topic": "scienze-terra",
+    "question": "Secondo la convenzione cronologica dei colori della carta geologica, quale colore indica il Triassico?",
+    "suggestion": "Il Giurassico è blu-azzurro, il Cretacico verde.",
+    "options": [
+      "Rosa",
+      "Verde",
+      "Marrone",
+      "Azzurro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rosa: Triassico (250-200 Ma); blu e azzurro: Giurassico (200-145 Ma); verde: Cretacico (145-65 Ma); marrone e giallo: Cenozoico; bianco: coperture.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.10-11"
+  },
+  {
+    "id": "st-c04-colori-cretacico-004",
+    "topic": "scienze-terra",
+    "question": "Quale colore indica il Cretacico sulla carta geologica?",
+    "suggestion": "Il Cretacico va da 145 a 65 Ma.",
+    "options": [
+      "Rosa",
+      "Bianco",
+      "Verde"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il verde indica il Cretacico (145-65 Ma); il bianco è riservato alle coperture quaternarie.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-fill-eteropia-005",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "I passaggi laterali tra rocce diverse della stessa età, segnalati nella legenda del Foglio Gemona, si chiamano ___.",
+    "answers": [["eteropie", "eteropia", "eteropie di facies"]],
+    "suggestion": "Il termine indica una 'diversità' laterale di facies.",
+    "explanation": "Le eteropie sono passaggi laterali tra rocce diverse della stessa età, depositate contemporaneamente in ambienti adiacenti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-orizzontali-006",
+    "topic": "scienze-terra",
+    "question": "Se il limite tra due formazioni è parallelo alle isoipse, come sono gli strati?",
+    "suggestion": "Un limite che segue le quote resta sempre alla stessa altezza.",
+    "options": [
+      "Verticali",
+      "Orizzontali",
+      "A reggipoggio",
+      "A franapoggio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un limite parallelo alle isoipse resta a quota costante: gli strati sono orizzontali. Un limite rettilineo che non risente della topografia indica strati verticali.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-verticali-007",
+    "topic": "scienze-terra",
+    "question": "Che cosa indica un limite geologico rettilineo che attraversa una valle senza risentire della topografia?",
+    "suggestion": "Un piano verticale interseca la superficie lungo una linea retta in pianta.",
+    "options": [
+      "Strati orizzontali",
+      "Strati a franapoggio meno inclinati del versante",
+      "Strati verticali"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se il limite è rettilineo e non risente della topografia, gli strati sono verticali.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-reggipoggio-008",
+    "topic": "scienze-terra",
+    "question": "Che cosa significa che gli strati sono a reggipoggio?",
+    "suggestion": "Confronta il verso di inclinazione degli strati con quello del versante.",
+    "options": [
+      "Che sono inclinati in senso opposto al versante",
+      "Che sono inclinati nello stesso senso del versante",
+      "Che sono perfettamente orizzontali lungo il versante"
+    ],
+    "correctIndex": 0,
+    "explanation": "A reggipoggio gli strati sono inclinati in senso opposto al versante, e il limite attenua l'andamento delle isoipse; a franapoggio sono inclinati nello stesso senso.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-franapoggio-accentua-009",
+    "topic": "scienze-terra",
+    "question": "Strati a franapoggio meno inclinati del versante: come si comporta il limite rispetto alle isoipse?",
+    "suggestion": "A franapoggio bisogna distinguere due casi in base all'inclinazione relativa.",
+    "options": [
+      "Il limite attenua l'andamento delle isoipse",
+      "Il limite assume un andamento opposto alle isoipse",
+      "Il limite accentua l'andamento delle isoipse"
+    ],
+    "correctIndex": 2,
+    "explanation": "A franapoggio meno inclinato del versante il limite accentua l'andamento delle isoipse; se gli strati sono più inclinati del versante il limite assume andamento opposto. Il reggipoggio attenua.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-franapoggio-opposto-010",
+    "topic": "scienze-terra",
+    "question": "Un limite geologico che in una valle ha andamento opposto a quello delle isoipse indica strati:",
+    "suggestion": "È il caso di franapoggio che non accentua le isoipse.",
+    "options": [
+      "A reggipoggio, inclinati in senso opposto al versante",
+      "A franapoggio, meno inclinati del versante",
+      "A franapoggio, più inclinati del versante"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quando gli strati a franapoggio sono più inclinati del versante il limite assume un andamento opposto a quello delle isoipse.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-tetto-letto-011",
+    "topic": "scienze-terra",
+    "question": "In una faglia, che cosa si intende per tetto?",
+    "suggestion": "Pensa alla posizione rispetto al piano di faglia, non al movimento.",
+    "options": [
+      "Il blocco che si è sollevato rispetto all'altro",
+      "Il blocco che sta sopra il piano di faglia",
+      "Il blocco in cui affiorano le rocce più antiche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il tetto è il blocco sopra il piano di faglia, il letto quello sotto; rialzato e ribassato descrivono invece il movimento dei blocchi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-blocco-rialzato-012",
+    "topic": "scienze-terra",
+    "question": "Sulla carta geologica, come si riconosce il blocco rialzato di una faglia?",
+    "suggestion": "Se un blocco sale, l'erosione mette a nudo livelli più profondi.",
+    "options": [
+      "È quello in cui, alla stessa quota, affiorano rocce più recenti",
+      "È sempre quello che si trova a nord della traccia della faglia",
+      "È quello in cui, alla stessa quota, affiorano rocce più antiche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il blocco in cui, alla stessa quota, affiorano rocce più antiche è quello rialzato.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-giacitura-faglia-013",
+    "topic": "scienze-terra",
+    "question": "Come si legge sulla carta la giacitura di un piano di faglia?",
+    "suggestion": "Un piano di faglia è geometricamente un piano come uno strato.",
+    "options": [
+      "Con le stesse regole valide per i limiti degli strati rispetto alle isoipse",
+      "Solo tramite il simbolo grafico riportato in legenda, senza confronto con le isoipse",
+      "Misurando lo spostamento orizzontale dei limiti ai due lati della faglia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La giacitura del piano di faglia si legge con le stesse regole valide per gli strati, confrontando la traccia con le isoipse.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-anticlinale-014",
+    "topic": "scienze-terra",
+    "question": "Sulla carta, una ripetizione simmetrica di formazioni con le rocce più antiche al nucleo indica:",
+    "suggestion": "Il criterio è stratigrafico: guarda l'età al nucleo.",
+    "options": [
+      "Una sinclinale",
+      "Un'anticlinale",
+      "Un sovrascorrimento",
+      "Un contatto inconforme"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rocce più antiche al nucleo: anticlinale; rocce più recenti al nucleo: sinclinale, come nell'area di Ospedaletto - S. Agnese.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-cuarnan-015",
+    "topic": "scienze-terra",
+    "question": "Che cosa indica, nell'area di Cuarnan, il contatto di una formazione con un'altra molto più recente senza quelle intermedie?",
+    "suggestion": "Mancano alcune formazioni: è passato del tempo senza registrazione.",
+    "options": [
+      "Una faglia trascorrente destra",
+      "Un'eteropia di facies tra rocce coeve",
+      "Un contatto erosivo o inconforme",
+      "Una serie di strati rovesciati"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mancanza delle formazioni intermedie indica un contatto erosivo o inconforme, cioè una discontinuità stratigrafica.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-stenone-016",
+    "topic": "scienze-terra",
+    "question": "Come conviene ordinare le formazioni lette in legenda?",
+    "suggestion": "Applica il principio di sovrapposizione di Stenone.",
+    "options": [
+      "Dalla più recente alla più antica, partendo dalle coperture",
+      "Dalla più antica alla più recente",
+      "In ordine di estensione areale sulla carta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le formazioni si ordinano dalla più antica alla più recente: secondo Stenone, in assenza di deformazioni intense, le più antiche stanno in basso.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.10-11"
+  },
+  {
+    "id": "st-c04-trascorrente-destra-017",
+    "topic": "scienze-terra",
+    "question": "In una faglia trascorrente destra, come appaiono spostati i limiti geologici?",
+    "suggestion": "Immagina di guardare attraverso la faglia.",
+    "options": [
+      "Verticalmente, con il blocco opposto ribassato",
+      "Orizzontalmente verso sinistra per chi guarda attraverso la faglia",
+      "Orizzontalmente verso destra per chi guarda attraverso la faglia"
+    ],
+    "correctIndex": 2,
+    "explanation": "In una trascorrente destra i limiti risultano spostati orizzontalmente verso destra per chi guarda attraverso la faglia.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-tettonica-faglie-018",
+    "topic": "scienze-terra",
+    "question": "Quale regime tettonico esprimono le faglie dirette, in cui il tetto scende?",
+    "suggestion": "Il tetto scende quando la crosta si allunga.",
+    "options": [
+      "Estensione",
+      "Compressione",
+      "Movimento orizzontale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Faglie dirette (tetto che scende): estensione; inverse e sovrascorrimenti (tetto che sale): compressione; trascorrenti: movimenti orizzontali.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-faglie-gemona-019",
+    "topic": "scienze-terra",
+    "question": "Come sono orientati gli sciami di faglie trascorrenti subverticali cartografati nel Foglio Gemona?",
+    "suggestion": "La direzione è diagonale tra nord-ovest e sud-est.",
+    "options": [
+      "NE-SW",
+      "N-S",
+      "E-W",
+      "NW-SE"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nel Foglio Gemona sono cartografati sciami di faglie trascorrenti subverticali orientate NW-SE, oltre a sovrascorrimenti come a W di Trasaghis.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.11"
+  },
+  {
+    "id": "st-c04-dolomia-sale-020",
+    "topic": "scienze-terra",
+    "question": "Nel Foglio Gemona, in quale caso la dolomia più antica risulta sollevata?",
+    "suggestion": "In entrambi i casi corretti il blocco con la dolomia è rialzato.",
+    "options": [
+      "In una faglia inversa a franapoggio più inclinata del versante e in una diretta a reggipoggio",
+      "In una faglia diretta a franapoggio meno inclinata del versante e in una inversa a reggipoggio",
+      "Solo nelle faglie trascorrenti destre, dove il blocco opposto si sposta verso destra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il testo indica che in una faglia inversa a franapoggio più inclinata del versante, così come in una faglia diretta a reggipoggio, la dolomia più antica sale.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.11"
+  }
+]

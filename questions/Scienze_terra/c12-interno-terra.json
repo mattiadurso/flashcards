@@ -1,0 +1,211 @@
+[
+  {
+    "id": "st-c12-moho-001",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la Moho?",
+    "suggestion": "Separa i due involucri più esterni della Terra solida.",
+    "options": [
+      "La discontinuità tra nucleo esterno e nucleo interno",
+      "La discontinuità tra crosta e mantello",
+      "Il limite tra mantello superiore e zona di transizione"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Moho è la discontinuità tra crosta e mantello, posta tra 5 e 70 km di profondità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-moho-profondita-002",
+    "topic": "scienze-terra",
+    "question": "A quale profondità si trova la Moho?",
+    "suggestion": "Varia molto tra oceani e continenti.",
+    "options": [
+      "Tra 410 e 660 km",
+      "A circa 2889 km",
+      "A circa 5155 km",
+      "Tra 5 e 70 km"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Moho si trova tra 5 e 70 km; la zona di transizione tra 410 e 660 km; il limite nucleo-mantello a circa 2889 km; il limite nucleo esterno-interno a circa 5155 km.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-nucleo-mantello-003",
+    "topic": "scienze-terra",
+    "question": "A circa quale profondità si trova il limite nucleo-mantello?",
+    "suggestion": "Il centro della Terra è a 6371 km.",
+    "options": [
+      "Circa 660 km",
+      "Circa 5155 km",
+      "Circa 2889 km",
+      "Circa 410 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il mantello inferiore arriva fino al limite nucleo-mantello, a circa 2889 km.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-densita-media-004",
+    "topic": "scienze-terra",
+    "question": "Che cosa indica il fatto che la densità media della Terra (5,51 g/cm³) sia circa il doppio di quella delle rocce crostali?",
+    "suggestion": "Dove devono trovarsi i materiali più pesanti?",
+    "options": [
+      "Che i materiali più densi si trovano in profondità",
+      "Che la crosta continentale è molto più spessa di quanto stimato",
+      "Che il mantello è in gran parte fuso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La densità media del pianeta (5,51 g/cm³) è circa il doppio di quella delle rocce crostali (2,7 g/cm³): i materiali più densi si trovano in profondità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-bassa-velocita-005",
+    "topic": "scienze-terra",
+    "question": "Perché si ritiene che nella zona a bassa velocità del mantello avvenga una fusione parziale?",
+    "suggestion": "Confronta due curve: temperatura-profondità e inizio fusione.",
+    "options": [
+      "Perché lì le onde sismiche accelerano attraversando materiali molto densi",
+      "Perché lì si concentrano quasi tutti gli isotopi radioattivi presenti nel mantello superiore",
+      "Perché lì la curva temperatura-profondità si avvicina alla curva di inizio fusione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella zona a bassa velocità le onde sismiche rallentano e la curva temperatura-profondità si avvicina a quella di inizio fusione dei materiali del mantello: si ritiene che lì avvenga una fusione parziale.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-adiabatica-006",
+    "topic": "scienze-terra",
+    "question": "Che cosa accade nella risalita adiabatica del mantello lungo le dorsali oceaniche?",
+    "suggestion": "La pressione cambia, la temperatura quasi no.",
+    "options": [
+      "La pressione diminuisce mentre la temperatura resta quasi costante",
+      "La temperatura aumenta molto mentre la pressione resta pressoché costante",
+      "La pressione aumenta e la temperatura diminuisce rapidamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella risalita adiabatica la pressione diminuisce mentre la temperatura resta quasi costante, finché viene superata la curva di fusione: si producono magmi tholeiitici.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-contesti-magmi-007",
+    "topic": "scienze-terra",
+    "question": "Quale abbinamento tra contesto geodinamico e tipo di magma è corretto?",
+    "suggestion": "Le dorsali producono magmi per risalita adiabatica.",
+    "options": [
+      "Dorsali oceaniche - magmi calcalcalini",
+      "Archi di isole - magmi alcalini",
+      "Punti caldi - magmi tholeiitici",
+      "Dorsali oceaniche - magmi tholeiitici"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dorsali: tholeiitici; archi di isole e cordigliere: calcalcalini; punti caldi: alcalini; rift continentali: transizionali.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-risalita-velocita-008",
+    "topic": "scienze-terra",
+    "question": "Quando la litosfera si assottiglia per taglio puro, quale risalita dell'astenosfera produce più fusione?",
+    "suggestion": "Conta la velocità, con T iniziale oltre 1300 °C.",
+    "options": [
+      "Una risalita rapida",
+      "Una risalita lenta",
+      "La velocità non conta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se la temperatura iniziale dell'astenosfera supera i 1300 °C, una risalita rapida produce fusione, mentre una lenta ne produce molta meno.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-fill-astenosfera-009",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Il mantello caldo e deformabile posto sotto la litosfera rigida si chiama ___.",
+    "answers": [["astenosfera"]],
+    "suggestion": "Dal greco 'asthenés', debole.",
+    "explanation": "L'astenosfera è il mantello caldo e deformabile sotto la litosfera rigida; la sua risalita può produrre fusione.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-metamorfismo-spia-010",
+    "topic": "scienze-terra",
+    "question": "Perché il metamorfismo regionale è considerato una spia delle dinamiche interne della Terra?",
+    "suggestion": "Le associazioni mineralogiche 'ricordano' le condizioni raggiunte.",
+    "options": [
+      "Perché le associazioni mineralogiche registrano pressioni e temperature raggiunte in profondità",
+      "Perché le rocce metamorfiche si formano solo vicino alla superficie e mostrano l'erosione recente",
+      "Perché le rocce metamorfiche contengono fossili che ne datano con precisione la formazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le associazioni mineralogiche registrano le P e T raggiunte in profondità; rocce di alta pressione come le eclogiti documentano seppellimento profondo e risalita, registrando la storia delle catene montuose.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.47-48"
+  },
+  {
+    "id": "st-c12-orogenesi-eta-011",
+    "topic": "scienze-terra",
+    "question": "Quali età sono attribuite alle orogenesi ercinica e alpina?",
+    "suggestion": "L'alpina arriva fino all'attuale.",
+    "options": [
+      "Ercinica 200-150 Ma, alpina 380-280 Ma",
+      "Ercinica 380-280 Ma, alpina 130 Ma-attuale",
+      "Ercinica 130 Ma-attuale, alpina 380-280 Ma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Orogenesi ercinica: 380-280 Ma; alpina: 130 Ma-attuale. 200-150 Ma è l'età della discordanza cimmeriana.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.40, 48"
+  },
+  {
+    "id": "st-c12-mantello-sottosaturo-012",
+    "topic": "scienze-terra",
+    "question": "Il mantello, formato in prevalenza da olivina e pirosseno, è saturo o sottosaturo in silice?",
+    "suggestion": "L'olivina è un minerale sottosaturo.",
+    "options": [
+      "Saturo, perché contiene abbondante quarzo libero",
+      "Sottosaturo, e la sua fusione parziale produce soltanto liquidi sottosaturi",
+      "Sottosaturo, ma la sua fusione parziale dà liquidi più ricchi in silice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il mantello è sottosaturo in silice, ma per la fusione incongruente dell'enstatite la sua fusione parziale produce liquidi più ricchi in silice, da cui derivano i diversi magmi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.48"
+  },
+  {
+    "id": "st-c12-zona-transizione-013",
+    "topic": "scienze-terra",
+    "question": "Tra quali profondità si trova la zona di transizione del mantello?",
+    "suggestion": "Separa mantello superiore e inferiore.",
+    "options": [
+      "Tra circa 5 e 70 km",
+      "Tra circa 2889 e 5155 km",
+      "Tra circa 410 e 660 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "La zona di transizione, tra mantello superiore e inferiore, è compresa tra circa 410 e 660 km.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c12-punti-caldi-014",
+    "topic": "scienze-terra",
+    "question": "Che cosa produce magmi alcalini nei punti caldi come le Hawaii?",
+    "suggestion": "C'è più calore del normale.",
+    "options": [
+      "La risalita adiabatica del mantello lungo una dorsale oceanica in espansione",
+      "Un apporto di calore che innalza la curva temperatura-profondità",
+      "L'acqua che abbassa il liquidus del mantello sopra una fossa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei punti caldi un apporto di calore superiore al normale innalza la curva temperatura-profondità e produce magmi alcalini.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.47"
+  }
+]

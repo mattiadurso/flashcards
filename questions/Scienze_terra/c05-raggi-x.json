@@ -1,0 +1,450 @@
+[
+  {
+    "id": "st-c05-perche-raggi-x-001",
+    "topic": "scienze-terra",
+    "question": "Perché per studiare la struttura reticolare dei cristalli si usano i raggi X e non la luce visibile?",
+    "suggestion": "Un oggetto trasforma un'onda solo se ha dimensioni confrontabili con la sua lunghezza d'onda.",
+    "options": [
+      "Perché la luce visibile non viene assorbita dai cristalli e li attraversa senza alcuna deviazione",
+      "Perché le distanze interatomiche sono dell'ordine dell'ångström, come la lunghezza d'onda dei raggi X",
+      "Perché i raggi X hanno lunghezze d'onda di 400-700 nm, simili alle dimensioni delle celle reticolari dei cristalli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le distanze interatomiche sono dell'ordine dell'ångström (10⁻¹⁰ m); la luce visibile (400-700 nm) è troppo grande, mentre i raggi X hanno la lunghezza d'onda giusta.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.12"
+  },
+  {
+    "id": "st-c05-fill-diffrazione-002",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La deviazione che un'onda subisce incontrando un ostacolo di dimensioni confrontabili con la sua lunghezza d'onda si chiama ___.",
+    "answers": [["diffrazione"]],
+    "suggestion": "È il fenomeno sfruttato nella cristallografia strutturale.",
+    "explanation": "La diffrazione è la deviazione di un'onda che incontra un ostacolo o un'apertura di dimensioni confrontabili con la sua lunghezza d'onda.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.12"
+  },
+  {
+    "id": "st-c05-interferenza-003",
+    "topic": "scienze-terra",
+    "question": "Quando due onde diffuse da centri vicini danno interferenza costruttiva?",
+    "suggestion": "Le creste devono tornare a coincidere.",
+    "options": [
+      "Quando la differenza di cammino è un multiplo intero della lunghezza d'onda",
+      "Quando la differenza di cammino è pari a mezza lunghezza d'onda",
+      "Quando i due centri diffondenti si trovano a distanza molto superiore alla lunghezza d'onda λ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le onde si rinforzano solo quando la differenza di cammino X è un multiplo intero della lunghezza d'onda, X = nλ; a mezza lunghezza d'onda sono in opposizione di fase.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.12"
+  },
+  {
+    "id": "st-c05-esperimento-laue-004",
+    "topic": "scienze-terra",
+    "question": "Che cosa dimostrò contemporaneamente l'esperimento di Laue?",
+    "suggestion": "Laue usò un cristallo come 'fenditura' per i raggi X.",
+    "options": [
+      "La natura corpuscolare dei raggi X e la struttura amorfa dei vetri",
+      "La natura ondulatoria dei raggi X e la struttura periodica dei cristalli",
+      "La capacità dei raggi X di essere riflessi e rifratti dalle superfici metalliche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Usando un cristallo come reticolo di diffrazione, Laue dimostrò allo stesso tempo la natura ondulatoria dei raggi X e la struttura periodica dei cristalli.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.12"
+  },
+  {
+    "id": "st-c05-problema-raggi-x-005",
+    "topic": "scienze-terra",
+    "question": "Perché prima di Laue i fisici non riuscivano a dimostrare la natura ondulatoria dei raggi X?",
+    "suggestion": "Serviva un oggetto che diffrangesse onde così piccole.",
+    "options": [
+      "Perché i raggi X non impressionavano le lastre fotografiche utilizzate",
+      "Perché i raggi X non trasportavano energia misurabile dagli strumenti",
+      "Perché nessuna fenditura costruita dall'uomo era abbastanza sottile"
+    ],
+    "correctIndex": 2,
+    "explanation": "Si sapeva che i raggi X trasportavano energia e impressionavano le lastre, ma nessuna fenditura artificiale era abbastanza sottile da diffrangerli.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.12"
+  },
+  {
+    "id": "st-c05-coni-filare-006",
+    "topic": "scienze-terra",
+    "question": "Che cosa produce un singolo filare di nodi colpito da un fascio di raggi X?",
+    "suggestion": "A ogni valore intero di n corrisponde un angolo diverso.",
+    "options": [
+      "Una famiglia di coni coassiali con asse coincidente con il filare",
+      "Un unico punto di diffrazione lungo la direzione del filare",
+      "Una serie di piani di diffrazione paralleli tra loro e perpendicolari al filare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per un filare, ogni valore di n individua un cono di raggi diffratti con asse coincidente con il filare: si ottiene una famiglia di coni coassiali (n = 0, ±1, ±2...).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.12"
+  },
+  {
+    "id": "st-c05-punti-discreti-007",
+    "topic": "scienze-terra",
+    "question": "Perché la diffrazione da un reticolo tridimensionale produce punti discreti e non un alone continuo?",
+    "suggestion": "Le tre equazioni di Laue devono valere insieme.",
+    "options": [
+      "Perché il raggio diffratto esiste solo dove la differenza di cammino è di mezza λ",
+      "Perché il cristallo assorbe tutti i raggi tranne quelli paralleli agli assi a, b e c",
+      "Perché il raggio diffratto deve stare sull'intersezione di tre coni, uno per asse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un raggio diffratto esiste solo se le tre equazioni di Laue sono soddisfatte contemporaneamente, cioè sull'intersezione di tre coni: ciò accade solo per alcune direzioni particolari.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.13"
+  },
+  {
+    "id": "st-c05-laue-termini-008",
+    "topic": "scienze-terra",
+    "question": "Nelle equazioni di Laue, a · (s - s₀) = hλ, che cosa rappresentano h, k, l?",
+    "suggestion": "Sono numeri interi legati a ciascun asse.",
+    "options": [
+      "Le costanti cristallografiche misurate lungo i tre assi",
+      "Gli ordini di diffrazione lungo ciascun asse",
+      "Gli angoli tra raggio incidente e ciascun filare"
+    ],
+    "correctIndex": 1,
+    "explanation": "h, k, l sono numeri interi che rappresentano l'ordine di diffrazione lungo ciascun asse; a, b, c sono i vettori fondamentali e s, s₀ i versori dei raggi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.13"
+  },
+  {
+    "id": "st-c05-bragg-interpretazione-009",
+    "topic": "scienze-terra",
+    "question": "Come interpreta la diffrazione la legge di Bragg?",
+    "suggestion": "È una lettura formale, non fisica, del fenomeno.",
+    "options": [
+      "Come una rifrazione dei raggi X attraverso i piani reticolari successivi",
+      "Come un assorbimento selettivo dei raggi X da parte dei nodi più densi",
+      "Come una riflessione dei raggi X sui piani reticolari (hkl)"
+    ],
+    "correctIndex": 2,
+    "explanation": "La legge di Bragg legge la diffrazione come se fosse una riflessione sui piani (hkl). Fisicamente è sempre interferenza costruttiva tra onde diffuse, ma il risultato è identico.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.13-14"
+  },
+  {
+    "id": "st-c05-bragg-formula-010",
+    "topic": "scienze-terra",
+    "question": "Qual è l'espressione corretta della legge di Bragg?",
+    "suggestion": "La differenza di cammino tra due piani è AB + BC.",
+    "options": [
+      "2 d(hkl) sen θ = nλ",
+      "d(hkl) sen θ = 2nλ",
+      "2 d(hkl) cos θ = nλ",
+      "d(hkl) = nλ sen 2θ"
+    ],
+    "correctIndex": 0,
+    "explanation": "AB e BC valgono ciascuno d(hkl) sen θ: la differenza di cammino è 2d sen θ, e le onde si rinforzano quando vale nλ.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.13"
+  },
+  {
+    "id": "st-c05-angolo-2theta-011",
+    "topic": "scienze-terra",
+    "question": "Se θ è l'angolo di Bragg, quanto vale l'angolo tra raggio incidente e raggio diffratto?",
+    "suggestion": "Il raggio 'riflesso' forma lo stesso angolo con il piano.",
+    "options": [
+      "θ",
+      "θ/2",
+      "2θ",
+      "90° - θ"
+    ],
+    "correctIndex": 2,
+    "explanation": "θ è l'angolo tra raggio incidente e piani; l'angolo tra raggio incidente e diffratto vale 2θ, ed è quello riportato in ascissa nei diffrattogrammi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.13"
+  },
+  {
+    "id": "st-c05-bragg-uso-012",
+    "topic": "scienze-terra",
+    "question": "Qual è il significato pratico della legge di Bragg in un esperimento di diffrazione?",
+    "suggestion": "Una delle grandezze della formula è nota a priori.",
+    "options": [
+      "Conoscendo d(hkl) si ricava λ, cioè l'energia della sorgente di raggi X",
+      "Con λ nota, misurare l'angolo di diffrazione significa misurare d(hkl)",
+      "Misurando l'intensità del picco si ricava direttamente l'ordine n"
+    ],
+    "correctIndex": 1,
+    "explanation": "Poiché λ è nota, misurare l'angolo θ a cui compare un raggio diffratto significa misurare la distanza interplanare d(hkl), cioè leggere la geometria del reticolo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.14"
+  },
+  {
+    "id": "st-c05-ordini-superiori-013",
+    "topic": "scienze-terra",
+    "question": "Perché gli ordini di diffrazione superiori (n = 2, 3...) non introducono nuove informazioni?",
+    "suggestion": "Pensa a piani fittizi con indici multipli.",
+    "options": [
+      "Perché equivalgono a riflessioni su piani di indici (nh, nk, nl) con distanza d/n",
+      "Perché hanno sempre intensità nulla in tutti i cristalli reali di dimensioni finite",
+      "Perché compaiono sempre allo stesso angolo θ del primo ordine di diffrazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli ordini superiori corrispondono a riflessioni su piani fittizi di indici multipli (nh, nk, nl) con distanza d/n: non aggiungono informazioni nuove.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.14"
+  },
+  {
+    "id": "st-c05-vettore-s-014",
+    "topic": "scienze-terra",
+    "question": "Nella derivazione della legge di Bragg da Laue, perché il vettore S = s - s₀ è perpendicolare al piano bisettore dei due raggi?",
+    "suggestion": "Guarda i moduli dei due vettori che si sottraggono.",
+    "options": [
+      "Perché s e s₀ sono sempre perpendicolari tra loro per definizione",
+      "Perché s e s₀ sono versori di uguale modulo",
+      "Perché S è parallelo al filare che diffonde i raggi"
+    ],
+    "correctIndex": 1,
+    "explanation": "s e s₀ sono versori di uguale modulo, quindi la loro differenza S è perpendicolare al piano bisettore dell'angolo tra i due raggi; il modulo di S vale 2 sen θ.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.14"
+  },
+  {
+    "id": "st-c05-modulo-s-015",
+    "topic": "scienze-terra",
+    "question": "Quanto vale il modulo del vettore S = s - s₀ nella derivazione della legge di Bragg?",
+    "suggestion": "Da questo valore si ricava subito d = λ/(2 sen θ).",
+    "options": [
+      "2 cos θ",
+      "sen 2θ",
+      "1/(2 sen θ)",
+      "2 sen θ"
+    ],
+    "correctIndex": 3,
+    "explanation": "|S| = 2 sen θ; poiché d(hkl) = (a/h) · S/|S| = λ/|S|, si ottiene d = λ/(2 sen θ), cioè 2d sen θ = λ.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.14"
+  },
+  {
+    "id": "st-c05-due-piani-016",
+    "topic": "scienze-terra",
+    "question": "In un cristallo ideale di soli due piani reticolari, come varia l'ampiezza dell'onda diffratta al variare di θ?",
+    "suggestion": "Con due sole onde l'annullamento non può essere completo ovunque.",
+    "options": [
+      "In modo continuo, con massimi larghi e arrotondati",
+      "Con picchi sottilissimi esattamente agli angoli di Bragg",
+      "Resta costante a ogni angolo, senza massimi né minimi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con due piani, allontanandosi dall'angolo di Bragg le onde si sfasano gradualmente: l'ampiezza varia con continuità, con massimi larghi e arrotondati.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.15"
+  },
+  {
+    "id": "st-c05-infiniti-piani-017",
+    "topic": "scienze-terra",
+    "question": "Perché un cristallo ideale con infiniti piani produce picchi sottilissimi?",
+    "suggestion": "Pensa a che cosa succede alle onde di piani sempre più profondi.",
+    "options": [
+      "Perché ogni piano assorbe completamente le onde che non soddisfano la legge di Bragg",
+      "Perché per ogni piano ne esiste uno più profondo in opposizione di fase",
+      "Perché gli infiniti piani riflettono i raggi tutti con la stessa fase"
+    ],
+    "correctIndex": 1,
+    "explanation": "Appena θ si scosta dal valore di Bragg, per ciascun piano ne esiste uno più profondo la cui onda è in opposizione di fase: le onde si annullano a coppie e l'ampiezza è nulla tranne agli angoli di Bragg.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.15"
+  },
+  {
+    "id": "st-c05-larghezza-picchi-018",
+    "topic": "scienze-terra",
+    "question": "Da che cosa dipende la larghezza dei picchi di diffrazione?",
+    "suggestion": "Confronta il cristallo con due piani e quello con infiniti piani.",
+    "options": [
+      "Dalla lunghezza d'onda della sorgente di raggi X utilizzata",
+      "Dalla densità reticolare D(hkl) del piano",
+      "Dal numero di piani che partecipano alla diffrazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pochi piani producono massimi larghi, infiniti piani righe nette: i cristalli reali, imperfetti e finiti, hanno picchi stretti ma di larghezza finita. La densità D(hkl) controlla invece l'intensità.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.15"
+  },
+  {
+    "id": "st-c05-intensita-019",
+    "topic": "scienze-terra",
+    "question": "A che cosa è proporzionale l'intensità di un picco in un diffrattogramma?",
+    "suggestion": "Pensa ai piani che, secondo Bravais, dominano la forma del cristallo.",
+    "options": [
+      "Alla densità reticolare D(hkl) del piano",
+      "Alla distanza interplanare d(hkl) del piano",
+      "All'ordine di diffrazione n del picco"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'intensità è proporzionale alla densità reticolare D(hkl), cioè al numero di nodi per unità di superficie: i piani più densi danno picchi più intensi. La posizione del picco dà invece d(hkl).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.15"
+  },
+  {
+    "id": "st-c05-cristalli-reali-020",
+    "topic": "scienze-terra",
+    "question": "Perché i picchi di un cristallo reale hanno una larghezza finita?",
+    "suggestion": "Un cristallo reale non è un insieme infinito e perfetto di piani.",
+    "options": [
+      "Perché la sorgente di raggi X usata non è mai perfettamente monocromatica",
+      "Perché i cristalli reali non sono perfetti e hanno dimensioni finite",
+      "Perché i piani reticolari reali non hanno tutti la stessa densità"
+    ],
+    "correctIndex": 1,
+    "explanation": "I cristalli reali stanno tra i due casi ideali: non sono perfetti e hanno dimensioni finite, quindi i picchi sono stretti ma con larghezza finita.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.15"
+  },
+  {
+    "id": "st-c05-diffrattometro-bragg-021",
+    "topic": "scienze-terra",
+    "question": "Nel diffrattometro di Bragg, dove viene posto il rilevatore rispetto al raggio incidente con angolo θ?",
+    "suggestion": "È lo stesso angolo che compare in ascissa nel diffrattogramma.",
+    "options": [
+      "A θ",
+      "A 2θ",
+      "A 4θ",
+      "A 90° fissi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sorgente e rilevatore (un contatore) si muovono guidati da un goniometro: il raggio incide con angolo θ e il rilevatore è posto a 2θ.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.16"
+  },
+  {
+    "id": "st-c05-fill-goniometro-022",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Nel diffrattometro di Bragg sorgente e rilevatore si muovono guidati da un ___, strumento per la misura degli angoli.",
+    "answers": [["goniometro"]],
+    "suggestion": "Dal greco 'gonia', angolo.",
+    "explanation": "Il goniometro guida il movimento di sorgente e rilevatore nel diffrattometro di Bragg.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.16"
+  },
+  {
+    "id": "st-c05-cristallo-rotante-023",
+    "topic": "scienze-terra",
+    "question": "Nel diffrattometro a cristallo singolo rotante, che cosa permette di misurare la distanza tra le righe di punti sulla pellicola?",
+    "suggestion": "Ogni riga è l'intersezione di un cono di Laue con la pellicola.",
+    "options": [
+      "La lunghezza d'onda dei raggi X impiegati",
+      "La densità reticolare dei piani più sviluppati del cristallo",
+      "Il periodo di traslazione lungo l'asse di rotazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "I punti si dispongono su righe perpendicolari all'asse di rotazione, intersezioni dei coni di Laue con la pellicola; la distanza tra le righe dipende dal periodo di traslazione lungo l'asse, che così si misura.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.16"
+  },
+  {
+    "id": "st-c05-polveri-principio-024",
+    "topic": "scienze-terra",
+    "question": "Perché nel diffrattometro delle polveri non è necessario ruotare il campione?",
+    "suggestion": "Pensa all'orientazione di milioni di granuli finissimi.",
+    "options": [
+      "Perché la polvere contiene già tutte le orientazioni possibili dei piani",
+      "Perché la polvere diffrange i raggi X indipendentemente dall'angolo",
+      "Perché a ruotare sono la sorgente e il rilevatore, guidati dal goniometro"
+    ],
+    "correctIndex": 0,
+    "explanation": "In una polvere finissima i piani sono orientati in tutte le direzioni: per ogni famiglia (hkl) ci sono sempre granuli che soddisfano la legge di Bragg.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.16-17"
+  },
+  {
+    "id": "st-c05-coni-4theta-025",
+    "topic": "scienze-terra",
+    "question": "Che angolo di apertura hanno i coni di raggi diffratti da una polvere attorno al raggio incidente?",
+    "suggestion": "Quando supera 180° i coni si rivolgono all'indietro.",
+    "options": [
+      "θ",
+      "2θ",
+      "4θ",
+      "180° - θ"
+    ],
+    "correctIndex": 2,
+    "explanation": "I raggi diffratti formano coni con angolo di apertura 4θ; quando 4θ supera 180° sono rivolti all'indietro, nella zona di retrodiffrazione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.16"
+  },
+  {
+    "id": "st-c05-polvere-grossolana-026",
+    "topic": "scienze-terra",
+    "question": "Che tipo di coni di diffrazione produce una polvere grossolana?",
+    "suggestion": "Ci sono pochi granuli, quindi poche orientazioni.",
+    "options": [
+      "Coni continui",
+      "Coni incompleti",
+      "Coni a punti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Polvere fine con orientazione statistica: coni continui; polvere con orientazioni preferenziali: coni incompleti; polvere grossolana: coni a punti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.16"
+  },
+  {
+    "id": "st-c05-identificazione-027",
+    "topic": "scienze-terra",
+    "question": "Come si identificano i minerali presenti in un diffrattogramma delle polveri?",
+    "suggestion": "Ogni minerale ha una sua 'impronta digitale' di distanze e intensità.",
+    "options": [
+      "Calcolando la composizione chimica dalle altezze relative dei picchi",
+      "Confrontandolo con schede di riferimento di distanze d e intensità",
+      "Misurando la larghezza di ciascun picco e confrontandola con la grana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il diffrattogramma si confronta con schede di riferimento che riportano le distanze d e le intensità caratteristiche di ciascun minerale, anche in miscele come quarzo, albite e microclino.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.17"
+  },
+  {
+    "id": "st-c05-amianto-028",
+    "topic": "scienze-terra",
+    "question": "Perché solo la diffrazione dei raggi X permette di distinguere l'amianto da fasi non fibrose con la stessa composizione?",
+    "suggestion": "Composizione uguale, struttura diversa.",
+    "options": [
+      "Perché misura la composizione chimica con precisione molto maggiore",
+      "Perché rileva le fibre grazie alla loro maggiore densità reticolare",
+      "Perché legge la struttura cristallina e non la composizione chimica"
+    ],
+    "correctIndex": 2,
+    "explanation": "La diffrazione legge la struttura e non la composizione: è quindi l'unico metodo che distingue fasi con la stessa formula ma strutture diverse, come l'amianto fibroso e le fasi non fibrose.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.17, 22"
+  },
+  {
+    "id": "st-c05-silice-limite-029",
+    "topic": "scienze-terra",
+    "question": "Qual è il limite negli ambienti di lavoro per la silice libera cristallina respirabile, rispetto alle polveri generiche?",
+    "suggestion": "È un limite molto più basso delle polveri generiche (3 mg/m³).",
+    "options": [
+      "0,25 mg/m³",
+      "0,0025 mg/m³",
+      "0,025 mg/m³",
+      "2,5 mg/m³"
+    ],
+    "correctIndex": 2,
+    "explanation": "La silice libera cristallina respirabile ha un limite di 0,025 mg/m³, molto più basso di quello delle polveri generiche (3 mg/m³).",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.17"
+  },
+  {
+    "id": "st-c05-confronto-strumenti-030",
+    "topic": "scienze-terra",
+    "question": "Quale diffrattometro fornisce un'immagine di punti disposti in righe invece di un diffrattogramma?",
+    "suggestion": "In questo strumento la sorgente è fissa e il campione ruota.",
+    "options": [
+      "Il diffrattometro a cristallo singolo rotante",
+      "Il diffrattometro di Bragg con contatore",
+      "Il diffrattometro delle polveri con contatore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il diffrattometro di Bragg e quello delle polveri forniscono un diffrattogramma; il cristallo rotante, con pellicola a 360°, un'immagine di punti disposti in righe.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.17"
+  }
+]

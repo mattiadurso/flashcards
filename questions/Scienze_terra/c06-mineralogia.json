@@ -1,0 +1,700 @@
+[
+  {
+    "id": "st-c06-crosta-elementi-001",
+    "topic": "scienze-terra",
+    "question": "Quali sono i due elementi più abbondanti in peso nella crosta terrestre?",
+    "suggestion": "Sono anche i costituenti del tetraedro fondamentale dei silicati.",
+    "options": [
+      "Ossigeno e alluminio",
+      "Silicio e ferro",
+      "Ossigeno e silicio",
+      "Ossigeno e ferro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ossigeno (46,1%) e silicio (27,6%) dominano la crosta, seguiti da alluminio (8,5%) e ferro (6,3%).",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-ossigeno-ruolo-002",
+    "topic": "scienze-terra",
+    "question": "Perché l'ossigeno domina la struttura dei minerali?",
+    "suggestion": "Confronta le dimensioni di anioni e cationi.",
+    "options": [
+      "Perché è un catione piccolo che occupa gli spazi tra gli altri ioni",
+      "Perché è un anione grande, mentre i cationi più piccoli occupano gli spazi tra gli ossigeni",
+      "Perché forma legami covalenti molto più forti di tutti gli altri elementi della crosta terrestre"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'ossigeno è un anione di grandi dimensioni (raggio 1,40 Å) che domina la struttura; i cationi, molto più piccoli, si dispongono negli spazi tra gli ossigeni.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-pauling-1-003",
+    "topic": "scienze-terra",
+    "question": "Secondo la prima regola di Pauling, da che cosa dipende il numero di coordinazione di un catione?",
+    "suggestion": "Quanti anioni 'ci stanno' attorno a un catione?",
+    "options": [
+      "Dalla valenza dell'anione divisa per quella del catione",
+      "Dal numero di spigoli condivisi tra i poliedri vicini",
+      "Dal rapporto tra i raggi del catione e dell'anione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Attorno a ogni catione si forma un poliedro di anioni, e il numero di coordinazione dipende dal rapporto tra i raggi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-coordinazione-004",
+    "topic": "scienze-terra",
+    "question": "Qual è il numero di coordinazione del carbonio con l'ossigeno secondo la prima regola di Pauling?",
+    "suggestion": "Pensa al gruppo carbonato, triangolare.",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con l'ossigeno: coordinazione 3 per il carbonio, 4 per silicio e alluminio, 6 per Al, Fe, Mg, Ca, 8 per Ca e Na, 12 per K.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-coordinazione-k-005",
+    "topic": "scienze-terra",
+    "question": "Quale catione ha coordinazione 12 con l'ossigeno?",
+    "suggestion": "È il catione più grande tra quelli elencati.",
+    "options": [
+      "Il sodio",
+      "Il calcio",
+      "Il magnesio",
+      "Il potassio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il potassio, il catione più grande (1,33 Å), ha coordinazione 12; calcio e sodio arrivano a 8, il magnesio a 6.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-pauling-2-006",
+    "topic": "scienze-terra",
+    "question": "Come si calcola la forza di un legame secondo la seconda regola di Pauling?",
+    "suggestion": "Un catione 'distribuisce' la sua carica tra gli anioni che lo circondano.",
+    "options": [
+      "Valenza dell'anione moltiplicata per il numero di coordinazione",
+      "Valenza del catione divisa per il suo numero di coordinazione",
+      "Somma dei raggi di catione e anione divisa per la loro valenza"
+    ],
+    "correctIndex": 1,
+    "explanation": "La forza di un legame è la valenza del catione divisa per il numero di coordinazione; la somma delle forze dei legami che giungono a un anione eguaglia (circa) la sua valenza.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-pauling-3-007",
+    "topic": "scienze-terra",
+    "question": "Che cosa afferma la terza regola di Pauling?",
+    "suggestion": "Riguarda la condivisione di elementi tra poliedri di coordinazione.",
+    "options": [
+      "La condivisione di spigoli e soprattutto di facce tra poliedri diminuisce la stabilità",
+      "La condivisione di vertici tra poliedri diminuisce la stabilità più di quella di facce",
+      "La condivisione di facce tra poliedri aumenta la stabilità per i cationi più carichi"
+    ],
+    "correctIndex": 0,
+    "explanation": "La condivisione di spigoli, e soprattutto di facce, diminuisce la stabilità, specialmente per cationi di valenza elevata e piccolo numero di coordinazione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-criterio-classi-008",
+    "topic": "scienze-terra",
+    "question": "In base a quale criterio si classificano i minerali (silicati esclusi)?",
+    "suggestion": "Pensa a che cosa hanno in comune tutti i carbonati, o tutti i solfuri.",
+    "options": [
+      "In base al catione metallico dominante nella formula chimica",
+      "In base al sistema cristallino",
+      "In base all'anione o al gruppo anionico dominante"
+    ],
+    "correctIndex": 2,
+    "explanation": "I minerali si classificano in base all'anione o al gruppo anionico dominante; i silicati sono classificati a parte in base alla struttura.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-solfuri-009",
+    "topic": "scienze-terra",
+    "question": "Quale gruppo contiene soltanto solfuri?",
+    "suggestion": "Cerca le formule con S senza ossigeno.",
+    "options": [
+      "Pirite, blenda, galena e cinabro",
+      "Pirite, galena, gesso e baritina",
+      "Galena, fluorite, cinabro e blenda",
+      "Blenda, ematite, pirite e cinabro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pirite (FeS₂), blenda (ZnS), galena (PbS) e cinabro (HgS) sono solfuri; gesso e baritina sono solfati, la fluorite un alogenuro, l'ematite un ossido.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-alogenuri-010",
+    "topic": "scienze-terra",
+    "question": "A quale classe appartengono fluorite e salgemma?",
+    "suggestion": "Contengono fluoro e cloro.",
+    "options": [
+      "Solfati",
+      "Alogenuri",
+      "Elementi nativi",
+      "Ossidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fluorite (CaF₂) e salgemma (NaCl) sono alogenuri, composti con alogeni come fluoro e cloro.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-spinelli-011",
+    "topic": "scienze-terra",
+    "question": "In quale classe si trova il gruppo degli spinelli, che comprende spinello e magnetite?",
+    "suggestion": "Sono composti di metalli con ossigeno.",
+    "options": [
+      "Solfuri",
+      "Carbonati",
+      "Fosfati, arsenati e vanadati",
+      "Ossidi e idrossidi"
+    ],
+    "correctIndex": 3,
+    "explanation": "La classe degli ossidi e idrossidi include ematite, rutilo/anatasio/brookite, corindone, ilmenite e il gruppo degli spinelli (spinello MgAl₂O₄, magnetite Fe₃O₄).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-corindone-012",
+    "topic": "scienze-terra",
+    "question": "Quale minerale della classe degli ossidi è citato come origine di diverse gemme?",
+    "suggestion": "È l'ossido di alluminio.",
+    "options": [
+      "La magnetite",
+      "L'ilmenite",
+      "Il corindone",
+      "L'ematite"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dal corindone (Al₂O₃) derivano diverse gemme.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-acido-classi-013",
+    "topic": "scienze-terra",
+    "question": "Da che cosa prendono il nome le classi di carbonati, solfati e fosfati?",
+    "suggestion": "Pensa a H₂CO₃, H₂SO₄ e H₃PO₄.",
+    "options": [
+      "Dall'acido da cui deriva il loro gruppo anionico",
+      "Dal catione metallico più frequente nei loro minerali",
+      "Dal sistema cristallino in cui cristallizzano di solito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le tre classi prendono il nome dall'acido da cui deriva il gruppo anionico: carbonico, solforico e fosforico.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-fosfati-014",
+    "topic": "scienze-terra",
+    "question": "Qual è l'esempio principale della classe dei fosfati?",
+    "suggestion": "È un fosfato di calcio con F, Cl, OH.",
+    "options": [
+      "La celestina",
+      "L'apatite",
+      "La baritina",
+      "La siderite"
+    ],
+    "correctIndex": 1,
+    "explanation": "L'apatite, Ca₅(PO₄)₃(F, Cl, OH), è l'esempio principale dei fosfati; celestina e baritina sono solfati, la siderite un carbonato.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.18"
+  },
+  {
+    "id": "st-c06-silice-bilanciamento-015",
+    "topic": "scienze-terra",
+    "question": "Perché un ossigeno condiviso tra due tetraedri SiO₄ risulta perfettamente bilanciato?",
+    "suggestion": "Applica la seconda regola di Pauling: forza = 4/4.",
+    "options": [
+      "Perché ogni legame Si-O ha forza 1/2 e l'ossigeno ne riceve quattro",
+      "Perché ogni legame Si-O ha forza 2 e l'ossigeno riceve un solo legame",
+      "Perché ogni legame Si-O ha forza 1 e l'ossigeno ne riceve due, cioè 2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Si⁴⁺ in coordinazione 4 ha legami di forza 4/4 = 1: un ossigeno condiviso tra due tetraedri riceve 1 + 1 = 2, pari alla sua valenza.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.19"
+  },
+  {
+    "id": "st-c06-tetraedri-vertici-016",
+    "topic": "scienze-terra",
+    "question": "Perché i tetraedri SiO₄ si uniscono solo per i vertici e mai per spigoli o facce?",
+    "suggestion": "È la terza regola di Pauling applicata a un catione molto carico.",
+    "options": [
+      "Perché gli ioni Si⁴⁺, molto carichi e in bassa coordinazione, sarebbero troppo vicini e si respingerebbero",
+      "Perché gli ossigeni sono troppo piccoli per essere condivisi da più di due tetraedri contemporaneamente",
+      "Perché la condivisione di facce aumenterebbe troppo la stabilità impedendo del tutto la cristallizzazione del magma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per la terza regola di Pauling, condividere spigoli o facce avvicinerebbe troppo i cationi Si⁴⁺, di alta valenza e bassa coordinazione, che si respingerebbero.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.19"
+  },
+  {
+    "id": "st-c06-criterio-silicati-017",
+    "topic": "scienze-terra",
+    "question": "Su quale criterio si basa la classificazione strutturale dei silicati?",
+    "suggestion": "Pensa a come i tetraedri si collegano tra loro.",
+    "options": [
+      "Sul catione che bilancia la carica dei tetraedri",
+      "Sul numero di ossigeni che ogni tetraedro condivide con gli altri",
+      "Sul rapporto tra silicio e alluminio presente all'interno dei tetraedri"
+    ],
+    "correctIndex": 1,
+    "explanation": "La classificazione si basa sul numero di ossigeni che ogni tetraedro condivide con altri tetraedri (fig. 2.5 del Casati).",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.19"
+  },
+  {
+    "id": "st-c06-nesosilicati-018",
+    "topic": "scienze-terra",
+    "question": "A quale classe di silicati appartengono olivina e granati?",
+    "suggestion": "I tetraedri sono isolati e non condividono ossigeni.",
+    "options": [
+      "Ciclosilicati",
+      "Inosilicati",
+      "Nesosilicati",
+      "Tettosilicati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei nesosilicati (olivina, granati) i tetraedri sono isolati, con 0 ossigeni condivisi, tenuti insieme da cationi come Mg e Fe.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.19-20"
+  },
+  {
+    "id": "st-c06-ciclosilicati-019",
+    "topic": "scienze-terra",
+    "question": "Quali minerali sono esempi di ciclosilicati, con tetraedri uniti ad anello?",
+    "suggestion": "Sei tetraedri formano un anello.",
+    "options": [
+      "Tormalina e berillo",
+      "Olivina e granati",
+      "Pirosseni e anfiboli",
+      "Miche e talco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nei ciclosilicati sei tetraedri formano un anello, come in tormalina e berillo.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-inosilicati-020",
+    "topic": "scienze-terra",
+    "question": "Che cosa distingue pirosseni e anfiboli nella classificazione strutturale?",
+    "suggestion": "Entrambi sono inosilicati.",
+    "options": [
+      "I pirosseni sono a strati, gli anfiboli a catena semplice",
+      "I pirosseni sono a catena doppia, gli anfiboli a catena semplice",
+      "I pirosseni sono a catena semplice, gli anfiboli a catena doppia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negli inosilicati i tetraedri formano catene: semplici nei pirosseni (es. augite), doppie negli anfiboli (es. orneblenda).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-fillosilicati-021",
+    "topic": "scienze-terra",
+    "question": "Quanti ossigeni condivide ogni tetraedro in un fillosilicato?",
+    "suggestion": "Si formano strati bidimensionali.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei fillosilicati ogni tetraedro condivide tre ossigeni e si formano strati, come in miche, talco, serpentino e argille.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-fill-tettosilicati-022",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "I silicati con tetraedri uniti per tutti e quattro i vertici in un'impalcatura tridimensionale, come quarzo e feldspati, sono detti ___.",
+    "answers": [["tettosilicati", "tectosilicati"]],
+    "suggestion": "Dal greco 'tekton', costruttore.",
+    "explanation": "Nei tettosilicati i tetraedri condividono tutti e quattro gli ossigeni formando un'impalcatura 3D: quarzo, feldspati e feldspatoidi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-si-o-rapporto-023",
+    "topic": "scienze-terra",
+    "question": "Come varia il rapporto Si/O all'aumentare del numero di ossigeni condivisi?",
+    "suggestion": "Confronta SiO₄ e SiO₂.",
+    "options": [
+      "Diminuisce, da 1/2 nei nesosilicati a 1/4 nei tettosilicati",
+      "Cresce, da 1/4 nei nesosilicati a 1/2 nei tettosilicati",
+      "Resta costante a 1/4 in tutte le classi strutturali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Più ossigeni condivisi significa più polimerizzazione: il rapporto Si/O cresce da 1/4 (SiO₄, nesosilicati) a 1/2 (SiO₂, tettosilicati).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-sorosilicati-024",
+    "topic": "scienze-terra",
+    "question": "Perché lo schema dei silicati del Casati omette i sorosilicati?",
+    "suggestion": "Pensa all'abbondanza in natura.",
+    "options": [
+      "Perché sono instabili alle condizioni di superficie",
+      "Perché riguardano minerali poco diffusi",
+      "Perché sono un caso particolare di ciclosilicati"
+    ],
+    "correctIndex": 1,
+    "explanation": "I sorosilicati, formati da tetraedri doppi, sono omessi perché riguardano minerali poco diffusi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-feldspati-al-025",
+    "topic": "scienze-terra",
+    "question": "Perché nei feldspati devono entrare cationi come K⁺, Na⁺ e Ca²⁺?",
+    "suggestion": "Al³⁺ ha una carica diversa da Si⁴⁺.",
+    "options": [
+      "Per riempire gli spazi lasciati dagli ossigeni non condivisi tra i tetraedri",
+      "Per compensare la sostituzione di Al³⁺ al Si⁴⁺ e mantenere la neutralità",
+      "Per sostituire gli ossigeni mancanti nelle posizioni dei vertici dei tetraedri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei tettosilicati la sostituzione dell'alluminio al silicio nei tetraedri lascia una carica negativa in eccesso, compensata dall'ingresso di K⁺, Na⁺ o Ca²⁺: si originano così i feldspati.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-fill-polimorfismo-026",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La possibilità che uno stesso composto chimico cristallizzi con strutture diverse si chiama ___.",
+    "answers": [["polimorfismo"]],
+    "suggestion": "Grafite e diamante ne sono l'esempio più noto.",
+    "explanation": "Il polimorfismo è la possibilità che uno stesso composto cristallizzi in strutture diverse, le fasi polimorfe: il carbonio forma grafite a basse pressioni e diamante ad altissime.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-regola-fasi-027",
+    "topic": "scienze-terra",
+    "question": "Qual è l'espressione della regola delle fasi usata per leggere i diagrammi di fase?",
+    "suggestion": "F = fasi, L = gradi di libertà, C = componenti.",
+    "options": [
+      "F + C = L + 2",
+      "F - L = C + 2",
+      "F + L = C - 2",
+      "F + L = C + 2"
+    ],
+    "correctIndex": 3,
+    "explanation": "La regola delle fasi è F + L = C + 2: più fasi coesistono all'equilibrio, meno gradi di libertà restano.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-punto-triplo-028",
+    "topic": "scienze-terra",
+    "question": "Nel punto triplo dell'acqua, quanti gradi di libertà ci sono?",
+    "suggestion": "Un componente, tre fasi: applica F + L = C + 2.",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con C = 1 e F = 3 (ghiaccio, acqua, vapore) si ha L = 0: pressione e temperatura sono univocamente determinate (0,01 °C e 6,11 hPa).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.20"
+  },
+  {
+    "id": "st-c06-silice-alta-pressione-029",
+    "topic": "scienze-terra",
+    "question": "Nel diagramma di fase della silice, quali fasi compaiono alle alte pressioni?",
+    "suggestion": "Tridimite e cristobalite stanno invece ad alta temperatura e bassa pressione.",
+    "options": [
+      "Coesite e stishovite",
+      "Tridimite e cristobalite",
+      "Quarzo α e quarzo β",
+      "Cristobalite e coesite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel sistema SiO₂, coesite e stishovite sono le fasi di alta pressione; tridimite e cristobalite quelle di alta temperatura e bassa pressione; i quarzi α e β quelle di bassa temperatura.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.21"
+  },
+  {
+    "id": "st-c06-ricostruttivo-030",
+    "topic": "scienze-terra",
+    "question": "Perché il polimorfismo ricostruttivo è una trasformazione lenta?",
+    "suggestion": "Le due strutture sono totalmente diverse.",
+    "options": [
+      "Perché richiede solo piccoli spostamenti degli atomi senza rompere legami",
+      "Perché la prima struttura deve essere demolita rompendo legami e poi ricostruita",
+      "Perché due atomi simili devono distribuirsi in modo ordinato nelle posizioni cristalline equivalenti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel polimorfismo ricostruttivo le strutture sono totalmente diverse: bisogna rompere i legami e ricostruire, quindi la trasformazione è lenta (es. quarzo-cristobalite). Piccoli spostamenti caratterizzano il distorsivo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.21"
+  },
+  {
+    "id": "st-c06-distorsivo-031",
+    "topic": "scienze-terra",
+    "question": "Quale coppia è l'esempio classico di polimorfismo distorsivo, rapido e reversibile?",
+    "suggestion": "Le due fasi hanno strutture molto simili.",
+    "options": [
+      "Quarzo e cristobalite",
+      "Sanidino e microclino",
+      "Quarzo α e quarzo β",
+      "Calcite e aragonite"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il passaggio quarzo α (trigonale) - quarzo β (esagonale) avviene per piccoli spostamenti senza rottura di legami: è distorsivo. Quarzo-cristobalite è ricostruttivo, sanidino-microclino ordine-disordine.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.21"
+  },
+  {
+    "id": "st-c06-ordine-disordine-032",
+    "topic": "scienze-terra",
+    "question": "Perché nel polimorfismo ordine-disordine la fase ordinata ha simmetria inferiore o uguale a quella disordinata?",
+    "suggestion": "Quando i due atomi si ordinano, alcune posizioni smettono di essere equivalenti.",
+    "options": [
+      "Perché nella fase ordinata gli atomi si spostano lontano dalle posizioni reticolari",
+      "Perché la fase ordinata contiene meno atomi per cella rispetto a quella disordinata",
+      "Perché le posizioni occupate secondo una legge precisa non sono più equivalenti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella fase disordinata le posizioni sono occupate statisticamente e restano equivalenti; nella ordinata i due atomi stanno sempre nelle stesse posizioni, che non sono più equivalenti: la simmetria cala o resta uguale.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.21"
+  },
+  {
+    "id": "st-c06-k-feldspato-033",
+    "topic": "scienze-terra",
+    "question": "Nel K-feldspato, quale fase è triclina e ordinata?",
+    "suggestion": "L'ordinamento di Al e Si abbassa la simmetria.",
+    "options": [
+      "Il microclino",
+      "Il sanidino",
+      "L'ortoclasio",
+      "Il plagioclasio sodico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il sanidino è monoclino e disordinato, il microclino triclino e ordinato, l'ortoclasio monoclino con grado di ordine intermedio.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.21"
+  },
+  {
+    "id": "st-c06-politipia-034",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la politipia?",
+    "suggestion": "Riguarda le strutture a strati come quelle dei fillosilicati.",
+    "options": [
+      "La sostituzione di cationi diversi nello stesso sito di una struttura a strati",
+      "La sovrapposizione in modi diversi di strati chimicamente equivalenti",
+      "La trasformazione di un fillosilicato in un tettosilicato ad alta pressione"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella politipia strati chimicamente equivalenti, sempre paralleli ed equidistanti, si sovrappongono in modi diversi: es. biotite 1M, muscoviti 2M e 3T.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.21"
+  },
+  {
+    "id": "st-c06-calcite-aragonite-035",
+    "topic": "scienze-terra",
+    "question": "Che tipo di polimorfismo lega aragonite (rombica) e calcite (trigonale)?",
+    "suggestion": "Le strutture sono diverse, ma la barriera energetica è bassa.",
+    "options": [
+      "Distorsivo, rapido e reversibile, senza rottura di legami",
+      "Ordine-disordine tra Ca e Mg",
+      "Ricostruttivo con bassa energia di attivazione",
+      "Politipia di strati carbonatici"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aragonite e calcite sono legate da un polimorfismo ricostruttivo con bassa energia di attivazione, importante nelle rocce carbonatiche e nella diagenesi.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.22"
+  },
+  {
+    "id": "st-c06-fill-vicarianti-036",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Due cationi in grado di sostituirsi a vicenda nella stessa struttura cristallina si dicono ___.",
+    "answers": [["vicarianti", "vicariante"]],
+    "suggestion": "Uno fa le veci dell'altro.",
+    "explanation": "I cationi vicarianti si sostituiscono nella stessa struttura; ciò dipende da raggio ionico e valenza.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.22"
+  },
+  {
+    "id": "st-c06-isomorfismo-15-037",
+    "topic": "scienze-terra",
+    "question": "Quando la soluzione solida tra due cationi vicarianti è ideale?",
+    "suggestion": "C'è una soglia percentuale sulla differenza di raggio.",
+    "options": [
+      "Quando la differenza tra i raggi ionici è inferiore al 15%",
+      "Quando la differenza tra i raggi ionici supera il 36%",
+      "Quando i due cationi hanno una valenza che differisce di una unità"
+    ],
+    "correctIndex": 0,
+    "explanation": "La soluzione è ideale quando la differenza tra il raggio dello ione maggiore e quello del minore è inferiore al 15%. Con differenze grandi (36% tra NaCl e KCl) l'isomorfismo è possibile solo ad alta temperatura.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.22-23"
+  },
+  {
+    "id": "st-c06-soluzione-solida-038",
+    "topic": "scienze-terra",
+    "question": "Che cosa sono, nel caso degli spinelli, le soluzioni solide?",
+    "suggestion": "Tra spinello ed ercinite esistono tutte le composizioni intermedie.",
+    "options": [
+      "Miscele meccaniche di cristalli di spinello e di ercinite distinti",
+      "Fasi con la stessa struttura e composizioni intermedie non stechiometriche",
+      "Fasi con la stessa composizione chimica ma con strutture cristalline differenti tra loro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spinello e ercinite hanno la stessa struttura e in natura esistono tutte le composizioni intermedie, in rapporto non stechiometrico: queste fasi sono soluzioni solide. Stessa composizione con strutture diverse è polimorfismo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.22"
+  },
+  {
+    "id": "st-c06-lacuna-miscibilita-039",
+    "topic": "scienze-terra",
+    "question": "Che cos'è una lacuna di miscibilità?",
+    "suggestion": "Pensa al solvus dei feldspati alcalini.",
+    "options": [
+      "Un intervallo di temperatura in cui il fuso non può cristallizzare",
+      "Una posizione vuota del reticolo che viene occupata da uno ione interstiziale",
+      "Un intervallo di composizione in cui la soluzione solida non è stabile"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una lacuna di miscibilità è un intervallo di composizione in cui la soluzione solida non è stabile. Una posizione vuota è una lacuna reticolare, rilevante per l'isomorfismo di IV specie.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.23"
+  },
+  {
+    "id": "st-c06-isomorfismo-i-040",
+    "topic": "scienze-terra",
+    "question": "Quale coppia è l'esempio classico di isomorfismo di I specie totale?",
+    "suggestion": "Cationi di raggio simile e di uguale valenza.",
+    "options": [
+      "Albite e anortite (plagioclasi)",
+      "Forsterite e fayalite",
+      "Sellaite e rutilo",
+      "Nefelina e tridimite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Forsterite (Mg₂SiO₄) e fayalite (Fe₂SiO₄): Mg²⁺ (0,66 Å) e Fe²⁺ (0,74 Å) hanno ugual valenza e raggio simile. Albite-anortite è II specie, sellaite-rutilo III, nefelina-tridimite IV.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.23"
+  },
+  {
+    "id": "st-c06-isomorfismo-ii-041",
+    "topic": "scienze-terra",
+    "question": "Come si mantiene la neutralità nell'isomorfismo di II specie dei plagioclasi?",
+    "suggestion": "Le sostituzioni avvengono su due siti diversi.",
+    "options": [
+      "Na⁺ + Si⁴⁺ si scambiano con Ca²⁺ + Al³⁺ su due siti diversi",
+      "Na⁺ si scambia con K⁺ e Si⁴⁺ resta invariato nei tetraedri",
+      "Ca²⁺ occupa una lacuna reticolare lasciata libera dal sodio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella doppia sostituzione dei plagioclasi (albite NaAlSi₃O₈ - anortite CaAl₂Si₂O₈) Na⁺ + Si⁴⁺ si scambiano con Ca²⁺ + Al³⁺: una valenza in più su un sito compensa una in meno sull'altro.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.23"
+  },
+  {
+    "id": "st-c06-isomorfismo-iii-042",
+    "topic": "scienze-terra",
+    "question": "Che cosa caratterizza l'isomorfismo di III specie?",
+    "suggestion": "Pensa a sellaite (MgF₂) e rutilo (TiO₂).",
+    "options": [
+      "Sostituzione di soli cationi con uguale valenza",
+      "Occupazione o liberazione di lacune reticolari",
+      "Sostituzione contemporanea di cationi e anioni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nell'isomorfismo di III specie si sostituiscono contemporaneamente cationi e anioni: Mg²⁺ con Ti⁴⁺ e F⁻ con O²⁻ tra sellaite e rutilo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.23"
+  },
+  {
+    "id": "st-c06-isomorfismo-iv-043",
+    "topic": "scienze-terra",
+    "question": "Quale coppia è un esempio di isomorfismo di IV specie, o interstiziale?",
+    "suggestion": "Una delle due fasi presenta un difetto di ferro.",
+    "options": [
+      "Baritina e anglesite",
+      "Diopside e aegirina",
+      "Troilite e pirrotina",
+      "Orneblenda e ossiorneblenda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Troilite (FeS) e pirrotina (Fe₁₋ₓS, con difetto di ferro) sono un esempio di IV specie, come nefelina-tridimite. Baritina-anglesite è I specie, diopside-aegirina II, orneblenda-ossiorneblenda III.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.23"
+  },
+  {
+    "id": "st-c06-feldspati-alcalini-044",
+    "topic": "scienze-terra",
+    "question": "Che cosa accade ai feldspati alcalini (ortoclasio-albite) a bassa temperatura?",
+    "suggestion": "A differenza dei plagioclasi, non sono miscibili a ogni temperatura.",
+    "options": [
+      "Diventano miscibili in ogni proporzione come i plagioclasi",
+      "Si apre un solvus e si separano due feldspati distinti",
+      "Si trasformano per politipia in miche potassiche e sodiche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nei feldspati alcalini la miscibilità è completa solo ad alta temperatura; a bassa temperatura si apre un solvus (lacuna di miscibilità) e si separano due feldspati. A 5 kbar il solvus interseca il solidus e si forma un eutettico.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.23-24"
+  },
+  {
+    "id": "st-c06-minimo-orabe-045",
+    "topic": "scienze-terra",
+    "question": "Intorno a quale temperatura si trova il minimo di cristallizzazione del diagramma ternario Or-Ab-An?",
+    "suggestion": "È molto più bassa della cristallizzazione dell'anortite pura (1234 °C).",
+    "options": [
+      "768 °C",
+      "1234 °C",
+      "860 °C",
+      "695 °C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il diagramma ternario Or-Ab-An mostra un minimo di cristallizzazione intorno ai 695 °C; l'albite pura cristallizza a 768 °C e l'anortite a 1234 °C.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c06-dolomite-strati-046",
+    "topic": "scienze-terra",
+    "question": "Perché nella dolomite magnesio e calcio si dispongono in strati alternati invece di sostituirsi liberamente?",
+    "suggestion": "Confronta i raggi: Mg 0,66 Å, Ca 0,99 Å.",
+    "options": [
+      "Perché hanno valenze diverse e richiedono una doppia sostituzione",
+      "Perché hanno raggi ionici molto diversi",
+      "Perché il magnesio occupa solo le lacune reticolari interstiziali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mg (0,66 Å) e Ca (0,99 Å) hanno raggi molto diversi, ben oltre il 15%: nella dolomite si dispongono in strati alternati anziché formare una soluzione solida libera.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.24"
+  }
+]

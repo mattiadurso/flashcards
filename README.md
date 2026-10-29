@@ -116,7 +116,7 @@ giud_studia/
 
 The whole point of the project: you add PDFs and Claude writes the question files. No coding required.
 
-1. **Drop the PDFs** into `docs/<new-topic>/` (e.g. `docs/cinghiale/`).
+1. **Drop the PDFs** into `docs/<new-topic>/` (e.g. `docs/cinghiale/`) — or, if you haven't decided where they belong yet, into the inbox **`docs/_inbox/`** and ask Claude to "process the inbox": it writes the banks and then moves the files into the right `docs/<Subject>/` folder.
 
 2. **Open Claude Code in this folder** (`claude` in the terminal, or the VS Code extension) and ask it to generate the questions. Claude reads the PDFs, follows the rules in `QUESTION_FORMAT.md`, writes `questions/<new-topic>.json`, and appends an entry to `questions/index.json`.
 

@@ -1,0 +1,429 @@
+[
+  {
+    "id": "st-c10-sovrapposizione-001",
+    "topic": "scienze-terra",
+    "question": "Che cosa afferma il principio di sovrapposizione di Stenone?",
+    "suggestion": "Riguarda l'ordine temporale degli strati in verticale.",
+    "options": [
+      "Gli strati si depositano in sequenza, con il più vecchio in basso",
+      "I sedimenti si depongono in strati originariamente orizzontali su tutto il fondale",
+      "Gli strati si estendono inizialmente in tutte le direzioni finché non vengono interrotti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sovrapposizione: strati in sequenza temporale, il più vecchio in basso. Le altre due opzioni sono i principi dell'orizzontalità originaria e della continuità laterale.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.38"
+  },
+  {
+    "id": "st-c10-continuita-laterale-002",
+    "topic": "scienze-terra",
+    "question": "Quale principio di Stenone afferma che gli strati si estendono inizialmente in tutte le direzioni?",
+    "suggestion": "Riguarda l'estensione 'di lato' degli strati.",
+    "options": [
+      "Il principio di sovrapposizione",
+      "Il principio dell'orizzontalità originaria",
+      "Il principio della continuità laterale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il principio della continuità laterale afferma che gli strati si estendono inizialmente in tutte le direzioni, finché non vengono interrotti da faglia, erosione o passaggio laterale di facies.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.11, 38"
+  },
+  {
+    "id": "st-c10-litostratigrafiche-003",
+    "topic": "scienze-terra",
+    "question": "Su che cosa si basano le unità litostratigrafiche?",
+    "suggestion": "'Lito-' significa roccia.",
+    "options": [
+      "Sulle proprietà litologiche e sulle relazioni stratigrafiche",
+      "Sul contenuto fossile, cioè comparsa e scomparsa delle specie",
+      "Su suddivisioni del tempo espresse unicamente in milioni di anni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le unità litostratigrafiche sono corpi rocciosi definiti da proprietà litologiche (tipo di roccia) e relazioni stratigrafiche. Il contenuto fossile definisce le biostratigrafiche, il tempo le cronologiche.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-fill-formazione-004",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "L'unità litostratigrafica fondamentale, riconoscibile sul terreno e cartografabile, è la ___.",
+    "answers": [["formazione"]],
+    "suggestion": "Un esempio è quella di Werfen.",
+    "explanation": "La formazione è l'unità fondamentale, caratterizzata da omogeneità litologica o alternanza di litotipi; i suoi caratteri essenziali sono riconoscibilità sul terreno e cartografabilità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-gerarchia-lito-005",
+    "topic": "scienze-terra",
+    "question": "Qual è la gerarchia corretta delle unità litostratigrafiche, dalla minore alla maggiore?",
+    "suggestion": "Più formazioni formano un gruppo.",
+    "options": [
+      "Formazione, membro, gruppo, supergruppo",
+      "Membro, gruppo, formazione, supergruppo",
+      "Membro, formazione, gruppo, supergruppo",
+      "Gruppo, membro, formazione, supergruppo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Membro (dentro una formazione), formazione, gruppo (più formazioni affini), supergruppo (più gruppi).",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-werfen-006",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la Formazione di Werfen?",
+    "suggestion": "Comprende il Membro di Siusi.",
+    "options": [
+      "Una successione di acque basse del Triassico inferiore del Sudalpino orientale",
+      "Una successione evaporitica del Messiniano affiorante nel Mediterraneo centrale",
+      "Un insieme di gruppi carboniferi che costituisce il supergruppo di Pontebba"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Formazione di Werfen è una successione sedimentaria di acque basse del Triassico inferiore, affiorante nel Sudalpino orientale, con depositi carbonatici, terrigeni e misti; include il Membro di Siusi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-pontebba-007",
+    "topic": "scienze-terra",
+    "question": "Quali gruppi costituiscono il supergruppo di Pontebba?",
+    "suggestion": "Sono tre gruppi con nomi di località alpine.",
+    "options": [
+      "Pramollo, Rattendorf e Trogkofel",
+      "Werfen, Siusi e Tarvisio",
+      "Gemona, Venzone, Trasaghis e Cuarnan"
+    ],
+    "correctIndex": 0,
+    "explanation": "I gruppi di Pramollo, Rattendorf e Trogkofel costituiscono il supergruppo di Pontebba.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-limite-formazione-008",
+    "topic": "scienze-terra",
+    "question": "Perché una stessa formazione può avere età diverse in due località vicine?",
+    "suggestion": "Il limite di formazione segue la litologia, non il tempo.",
+    "options": [
+      "Perché il limite di formazione coincide sempre con un limite cronostratigrafico globale",
+      "Perché il limite si pone ai cambiamenti litologici, che dipendono dalle eteropie di facies",
+      "Perché le formazioni vengono datate solo con i fossili, che migrano nel tempo da un luogo all'altro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il limite di formazione si pone ai cambiamenti litologici, indipendentemente dall'età: per continuità laterale ed eteropie di facies, una formazione può avere età diverse da luogo a luogo.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-cronologiche-crono-009",
+    "topic": "scienze-terra",
+    "question": "Che differenza c'è tra unità cronologiche e cronostratigrafiche?",
+    "suggestion": "Una è tempo, l'altra roccia.",
+    "options": [
+      "Le cronologiche sono corpi rocciosi, le cronostratigrafiche suddivisioni del tempo",
+      "Le cronologiche si basano sui fossili, le cronostratigrafiche sulla litologia delle formazioni",
+      "Le cronologiche sono suddivisioni del tempo, le cronostratigrafiche i corpi rocciosi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le unità cronologiche sono suddivisioni del tempo, con limiti in milioni di anni; le cronostratigrafiche sono i corpi rocciosi formatisi durante quelle unità di tempo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-periodo-sistema-010",
+    "topic": "scienze-terra",
+    "question": "A quale unità cronostratigrafica corrisponde il Periodo?",
+    "suggestion": "Il Triassico ne è un esempio.",
+    "options": [
+      "Al Sistema",
+      "All'Eratema",
+      "Alla Serie",
+      "Al Piano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eone-Eonotema, Era-Eratema, Periodo-Sistema, Epoca-Serie, Età-Piano.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-eta-piano-011",
+    "topic": "scienze-terra",
+    "question": "Il Ladinico è un esempio di quale coppia di unità cronologica e cronostratigrafica?",
+    "suggestion": "È l'unità più piccola della tabella.",
+    "options": [
+      "Epoca e Serie",
+      "Periodo e Sistema",
+      "Era ed Eratema",
+      "Età e Piano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Il Ladinico è un Piano (unità cronostratigrafica) corrispondente a un'Età (unità cronologica); il Triassico medio è una Serie/Epoca, il Triassico un Sistema/Periodo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-ladinico-limite-012",
+    "topic": "scienze-terra",
+    "question": "Come è definito il limite inferiore del piano Ladinico?",
+    "suggestion": "Si usa un'ammonite.",
+    "options": [
+      "Dalla prima comparsa dell'ammonite Daxatina canadensis",
+      "Da un'età radiometrica fissa di 227 milioni di anni",
+      "Dalla prima comparsa di Eoprotrachyceras curionii"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il limite inferiore del Ladinico è la prima comparsa di Eoprotrachyceras curionii; quello superiore, base del Carnico, la prima comparsa di Daxatina canadensis.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-limiti-eventi-013",
+    "topic": "scienze-terra",
+    "question": "Perché i limiti delle unità cronostratigrafiche non sono necessariamente contemporanei ovunque?",
+    "suggestion": "Sono definiti da eventi geologici.",
+    "options": [
+      "Perché sono eventi geologici, come tetto e letto di formazione, non contemporanei ovunque",
+      "Perché sono definiti da età radiometriche che hanno sempre un'incertezza di molti milioni di anni",
+      "Perché vengono ridefiniti periodicamente dalle commissioni stratigrafiche internazionali"
+    ],
+    "correctIndex": 0,
+    "explanation": "I limiti delle unità cronostratigrafiche sono eventi geologici, che non sono contemporanei ovunque; i limiti delle unità cronologiche sono invece definiti soltanto dal tempo.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf pp.39-40"
+  },
+  {
+    "id": "st-c10-datazione-014",
+    "topic": "scienze-terra",
+    "question": "Come si ottengono le età assolute delle successioni?",
+    "suggestion": "Si sfrutta un processo che avviene a velocità costante.",
+    "options": [
+      "Con le correlazioni stratigrafiche tra sezioni",
+      "Con il principio di sovrapposizione",
+      "Con la datazione radiometrica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le età assolute si ottengono con la datazione radiometrica, basata sul decadimento degli isotopi radioattivi; le correlazioni stratigrafiche confrontano sezioni rilevate sul terreno.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-tarvisio-015",
+    "topic": "scienze-terra",
+    "question": "Che cosa registra la Breccia di Tarvisio, che limita in alto il supergruppo di Pontebba?",
+    "suggestion": "Pensa alla catena che limita il supergruppo in basso.",
+    "options": [
+      "L'apertura del bacino evaporitico del Messiniano",
+      "La deposizione di acque basse del Triassico inferiore",
+      "L'erosione e lo smantellamento della catena ercinica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il supergruppo di Pontebba è limitato in basso dalle unità metamorfiche della catena ercinica e in alto dalla Breccia di Tarvisio, che registra l'erosione e lo smantellamento della stessa catena.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.39"
+  },
+  {
+    "id": "st-c10-fill-lacuna-016",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "L'intervallo di tempo mancante tra due successioni separate da una discontinuità stratigrafica si chiama ___.",
+    "answers": [["lacuna", "lacuna stratigrafica"]],
+    "suggestion": "È un 'vuoto' nella registrazione.",
+    "explanation": "Una discontinuità stratigrafica separa due successioni tra le quali manca un intervallo di tempo, detto lacuna.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-non-conformita-017",
+    "topic": "scienze-terra",
+    "question": "Quando si parla di non conformità?",
+    "suggestion": "Sotto la superficie non ci sono rocce sedimentarie.",
+    "options": [
+      "Quando strati paralleli sono separati da una superficie con evidenti segni di erosione",
+      "Quando strati inclinati o piegati sono troncati e coperti da strati con inclinazione diversa",
+      "Quando rocce sedimentarie poggiano su rocce intrusive o metamorfiche"
+    ],
+    "correctIndex": 2,
+    "explanation": "La non conformità si ha quando rocce sedimentarie poggiano su rocce magmatiche intrusive o metamorfiche; le altre opzioni descrivono disconformità e discordanza angolare.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-non-conformita-storia-018",
+    "topic": "scienze-terra",
+    "question": "Come si spiega la lacuna in una non conformità?",
+    "suggestion": "Le rocce cristalline si formano in profondità.",
+    "options": [
+      "Rocce cristalline formate in profondità sono state sollevate, erose e ricoperte",
+      "Un lungo periodo di non deposizione senza alcuna erosione apprezzabile del fondale",
+      "Strati piegati da un'orogenesi sono stati erosi e poi coperti da nuova subsidenza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le rocce cristalline si sono formate in profondità, sono state sollevate ed erose fino ad affiorare e infine ricoperte da nuovi sedimenti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-discordanza-angolare-019",
+    "topic": "scienze-terra",
+    "question": "Perché la discordanza angolare è la discontinuità più eloquente?",
+    "suggestion": "Gli strati inferiori hanno inclinazione diversa da quelli superiori.",
+    "options": [
+      "Perché registra un'intera fase di deformazione, cioè un'orogenesi tra le due successioni",
+      "Perché è l'unica discontinuità che si riconosce senza ricorrere alla datazione con i fossili",
+      "Perché indica sempre un'emersione dell'area senza alcuna deformazione degli strati"
+    ],
+    "correctIndex": 0,
+    "explanation": "La discordanza angolare registra un'intera fase di deformazione: gli strati inferiori sono stati piegati o inclinati, sollevati da un'orogenesi ed erosi prima della nuova deposizione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-telheiro-020",
+    "topic": "scienze-terra",
+    "question": "Che tipo di discontinuità è quella carbonifero-triassica di Telheiro beach, in Portogallo?",
+    "suggestion": "È citata insieme alla discordanza cimmeriana.",
+    "options": [
+      "Una paraconcordanza",
+      "Una disconformità",
+      "Una non conformità su rocce intrusive",
+      "Una discordanza angolare"
+    ],
+    "correctIndex": 3,
+    "explanation": "La discordanza cimmeriana e quella carbonifero-triassica di Telheiro beach sono esempi di discordanza angolare.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-disconformita-021",
+    "topic": "scienze-terra",
+    "question": "Come si spiega la lacuna in una disconformità?",
+    "suggestion": "Gli strati sono paralleli, ma la superficie è erosa.",
+    "options": [
+      "Con un'orogenesi che ha piegato gli strati inferiori prima dell'erosione",
+      "Con un lungo periodo di non deposizione senza alcun segno evidente di erosione del fondale",
+      "Con un'emersione senza deformazione, seguita da erosione e nuova sommersione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella disconformità strati paralleli sono separati da una superficie erosa: la lacuna si spiega con un'emersione senza deformazione, seguita da erosione e nuova sommersione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-paraconcordanza-022",
+    "topic": "scienze-terra",
+    "question": "Perché la paraconcordanza è la discontinuità più difficile da riconoscere?",
+    "suggestion": "Gli strati sono paralleli e la superficie non mostra erosione.",
+    "options": [
+      "Perché si forma solo in profondità ed è visibile esclusivamente nei sondaggi",
+      "Perché non lascia tracce evidenti e richiede la datazione, ad esempio con i fossili",
+      "Perché le rocce sottostanti sono metamorfiche e non contengono strati riconoscibili"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella paraconcordanza gli strati sono paralleli e la superficie non mostra segni evidenti di erosione: la lacuna si riconosce solo con la datazione, ad esempio grazie ai fossili.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.40-41"
+  },
+  {
+    "id": "st-c10-cimmeriana-023",
+    "topic": "scienze-terra",
+    "question": "Tra quali orogenesi si colloca, per età, la discordanza cimmeriana (200-150 Ma)?",
+    "suggestion": "Una è più antica (380-280 Ma), l'altra arriva all'attuale.",
+    "options": [
+      "Tra l'orogenesi ercinica e quella alpina",
+      "Tra l'orogenesi caledoniana e quella ercinica",
+      "Dopo l'orogenesi alpina, nel Cenozoico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La discordanza cimmeriana (200-150 Ma, in Asia centrale) ha età intermedia tra l'orogenesi ercinica (380-280 Ma) e quella alpina (130 Ma-attuale).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.40"
+  },
+  {
+    "id": "st-c10-trasgressione-024",
+    "topic": "scienze-terra",
+    "question": "Come si registra in verticale una trasgressione in una data località?",
+    "suggestion": "Il mare avanza sulla terra.",
+    "options": [
+      "Sedimenti meno profondi su quelli più profondi, con granulometria crescente verso l'alto",
+      "Sedimenti sempre più profondi sopra quelli costieri, con granulometria decrescente",
+      "Un'alternanza regolare di evaporiti e dolomie senza variazioni di granulometria"
+    ],
+    "correctIndex": 1,
+    "explanation": "In una trasgressione la linea di costa si sposta verso terra: sedimenti via via più profondi (conglomerati, sabbie, argille) si sovrappongono a quelli costieri e la granulometria diminuisce verso l'alto. La prima opzione descrive la regressione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.41"
+  },
+  {
+    "id": "st-c10-regressione-025",
+    "topic": "scienze-terra",
+    "question": "Durante una regressione, come varia la granulometria verso l'alto?",
+    "suggestion": "Il mare si ritira e l'ambiente diventa meno profondo.",
+    "options": [
+      "Diminuisce",
+      "Resta costante",
+      "Aumenta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella regressione la linea di costa avanza verso il mare, sedimenti meno profondi si sovrappongono a quelli più profondi e la granulometria aumenta verso l'alto.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.41"
+  },
+  {
+    "id": "st-c10-fill-subsidenza-026",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "L'abbassamento del fondo del bacino che crea spazio per la sedimentazione si chiama ___.",
+    "answers": [["subsidenza"]],
+    "suggestion": "Può essere causata da costipamento, isostasia, tettonica ed eustatismo.",
+    "explanation": "La subsidenza crea lo spazio disponibile per la sedimentazione; le sue cause sono costipamento, isostasia, tettonica ed eustatismo.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.41"
+  },
+  {
+    "id": "st-c10-isostasia-027",
+    "topic": "scienze-terra",
+    "question": "Come contribuisce l'isostasia alla formazione di successioni spesse 16-24 km?",
+    "suggestion": "Il peso dei sedimenti agisce sulla crosta.",
+    "options": [
+      "Il peso dei sedimenti abbassa la crosta, creando nuovo spazio per altri sedimenti",
+      "Il sollevamento della crosta aumenta l'erosione e quindi l'apporto di sedimenti",
+      "Le variazioni globali del livello marino alzano il mare di diversi chilometri sopra la costa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il peso dei sedimenti abbassa la crosta creando nuovo spazio: insieme al costipamento, l'isostasia amplifica la subsidenza iniziale e permette l'accumulo di successioni spesse 16-24 km.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.41"
+  },
+  {
+    "id": "st-c10-eustatismo-028",
+    "topic": "scienze-terra",
+    "question": "Perché i cicli sedimentari legati all'eustatismo possono essere correlati in tutto il mondo?",
+    "suggestion": "Che cosa significa 'eustatismo'?",
+    "options": [
+      "Perché sono causati da variazioni globali del livello del mare",
+      "Perché sono prodotti dalla subsidenza locale di ciascun bacino",
+      "Perché dipendono dall'apporto di sedimenti dei singoli fiumi"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'eustatismo è la variazione globale del livello del mare: i cicli sedimentari che ne derivano hanno carattere globale e possono essere correlati in tutto il mondo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.41"
+  },
+  {
+    "id": "st-c10-conglomerato-trasgressivo-029",
+    "topic": "scienze-terra",
+    "question": "Con che cosa si apre spesso una trasgressione?",
+    "suggestion": "La base poggia su una discontinuità stratigrafica.",
+    "options": [
+      "Con argille marine profonde poggianti su un'evaporite",
+      "Con un conglomerato su una superficie di erosione",
+      "Con calcari micritici su una paraconcordanza"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una trasgressione si apre spesso con un conglomerato che poggia su una superficie di erosione, cioè su una discontinuità stratigrafica.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.41"
+  }
+]

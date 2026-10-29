@@ -1,0 +1,469 @@
+[
+  {
+    "id": "st-c09-metamorfismo-def-001",
+    "topic": "scienze-terra",
+    "question": "Che cosa cambia in una roccia durante il metamorfismo?",
+    "suggestion": "Il processo è isochimico.",
+    "options": [
+      "Struttura, tessitura e composizione mineralogica, ma non la composizione chimica",
+      "Composizione chimica e mineralogica, per apporto di una fase fusa dall'esterno",
+      "Solo la tessitura, perché i minerali restano invariati durante tutto il processo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il metamorfismo cambia struttura, tessitura e composizione mineralogica; è isochimico (la chimica resta quella del protolite) e avviene allo stato solido, senza fase fusa.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-fill-protolite-002",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La roccia di partenza da cui deriva una roccia metamorfica si chiama ___.",
+    "answers": [["protolite", "protolito"]],
+    "suggestion": "'Proto-' = primo, '-lite' = pietra.",
+    "explanation": "La composizione chimica della roccia metamorfica è identica a quella del protolite: il metamorfismo è isochimico.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-intensive-003",
+    "topic": "scienze-terra",
+    "question": "Perché temperatura e pressione guidano il processo metamorfico?",
+    "suggestion": "Distingui variabili intensive ed estensive.",
+    "options": [
+      "Perché sono variabili estensive che crescono con la quantità di roccia coinvolta",
+      "Perché sono le uniche variabili che dipendono dalla composizione chimica della roccia",
+      "Perché sono le uniche variabili intensive, mentre quelle chimiche non cambiano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le variabili chimiche sono estensive e nel metamorfismo non cambiano; le uniche intensive, indipendenti dalla quantità di materia e descrittive dell'ambiente, sono temperatura e pressione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-gradiente-pressione-004",
+    "topic": "scienze-terra",
+    "question": "Di quanto aumenta circa la pressione litostatica per chilometro, con densità media di 2,8 g/cm³?",
+    "suggestion": "Le slide riportano 0,27 kbar/km con densità 2,7.",
+    "options": [
+      "Circa 3 kbar per km",
+      "Circa 0,03 kbar per km",
+      "Circa 1 kbar per km",
+      "Circa 0,3 kbar per km"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con densità 2,8 la pressione cresce di circa 0,3 kbar/km (0,27 kbar/km con densità 2,7): 1 GPa (10 kbar) si raggiunge a circa 37 km.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-1gpa-005",
+    "topic": "scienze-terra",
+    "question": "A quale profondità si raggiunge circa una pressione di 1 GPa (10 kbar)?",
+    "suggestion": "Usa un gradiente di circa 0,27 kbar/km.",
+    "options": [
+      "Circa 3,7 km",
+      "Circa 37 km",
+      "Circa 100 km",
+      "Circa 370 km"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con circa 0,27 kbar/km, 10 kbar (1 GPa) si raggiungono a circa 37 km.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.36, 47"
+  },
+  {
+    "id": "st-c09-idrostatica-006",
+    "topic": "scienze-terra",
+    "question": "Perché nel metamorfismo si parla di pressione idrostatica?",
+    "suggestion": "Pensa al principio di Pascal.",
+    "options": [
+      "Perché la pressione è esercitata sempre dall'acqua contenuta nei pori",
+      "Perché la pressione è sempre minore di quella esercitata da una colonna d'acqua di uguale altezza",
+      "Perché a profondità di almeno 4-5 km la pressione è uguale in tutte le direzioni"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alle profondità del metamorfismo (almeno 4-5 km) la pressione assume valori uguali in tutte le direzioni, come in un fluido secondo il principio di Pascal: per analogia si parla di pressione idrostatica.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-origine-calore-007",
+    "topic": "scienze-terra",
+    "question": "Quali sono le due origini del calore all'interno della Terra?",
+    "suggestion": "Una parte è 'cosmica', l'altra legata a isotopi.",
+    "options": [
+      "Il calore del nucleo accumulato alla formazione del pianeta e il decadimento radioattivo",
+      "Il calore del Sole assorbito dalla superficie terrestre e l'attrito tra le placche litosferiche",
+      "Il calore liberato dalla cristallizzazione dei magmi e dalle reazioni metamorfiche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una parte del calore è di origine 'cosmica', accumulata nel nucleo durante la formazione del pianeta; un'altra deriva dal decadimento degli isotopi radioattivi, concentrati nella crosta.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-isotopi-crosta-008",
+    "topic": "scienze-terra",
+    "question": "Dove sono concentrati praticamente tutti gli isotopi radioattivi della Terra?",
+    "suggestion": "Sui continenti, approssimativamente nei primi 30 km.",
+    "options": [
+      "Nel nucleo esterno",
+      "Nella zona di transizione del mantello",
+      "Nella crosta",
+      "Nel mantello inferiore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gli isotopi radioattivi sono concentrati in pratica tutti nella crosta, sui continenti approssimativamente nei primi 30 km.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-tre-fattori-temp-009",
+    "topic": "scienze-terra",
+    "question": "Con calore trasmesso per conduzione, da quali tre fattori dipende la temperatura del processo metamorfico?",
+    "suggestion": "Profondità, isotopi intorno, velocità di risalita.",
+    "options": [
+      "Profondità, quantità di crosta circostante e velocità di risalita verso la superficie",
+      "Pressione dei fluidi, dimensione dei cristalli e tempo trascorso dalla deposizione",
+      "Composizione del protolite, contenuto d'acqua dei pori e distanza dal nucleo terrestre esterno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La temperatura dipende dalla profondità, da quanta crosta (e quindi quanti isotopi radioattivi) circonda la roccia e dalla velocità con cui risale in superficie.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-fattori-metamorfismo-010",
+    "topic": "scienze-terra",
+    "question": "Oltre a pressione e temperatura, quali sono i fattori del metamorfismo?",
+    "suggestion": "Sono tre, uno dei quali è puramente cinetico.",
+    "options": [
+      "Composizione chimica, colore e densità",
+      "Tempo, fluidi e deformazione",
+      "Gravità, correnti e salinità"
+    ],
+    "correctIndex": 1,
+    "explanation": "I fattori del metamorfismo sono, oltre a P e T, il tempo, i fluidi e la deformazione.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-tessiture-orientate-011",
+    "topic": "scienze-terra",
+    "question": "Perché le rocce metamorfiche tendono ad assumere tessiture orientate come la scistosità?",
+    "suggestion": "La trasformazione avviene spesso durante la deformazione.",
+    "options": [
+      "Perché i nuovi minerali crescono e si orientano in relazione agli sforzi applicati",
+      "Perché i minerali fusi si allineano nel verso di scorrimento del liquido",
+      "Perché i minerali conservano sempre l'orientazione degli strati sedimentari originari"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spesso la roccia si trasforma mentre viene deformata: i nuovi minerali crescono e si orientano in relazione agli sforzi, producendo foliazione o scistosità.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-clapeyron-012",
+    "topic": "scienze-terra",
+    "question": "Da che cosa è data la pendenza di una curva di reazione nel diagramma P-T?",
+    "suggestion": "È l'equazione di Clapeyron.",
+    "options": [
+      "dP/dT = ΔS/ΔV",
+      "dP/dT = ΔV/ΔS",
+      "dP/dT = ΔH · ΔV",
+      "dP/dT = F + L - C"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pendenza è data dall'equazione di Clapeyron, dP/dT = ΔS/ΔV, con ΔS variazione di entropia e ΔV variazione di volume.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-nove-fasi-013",
+    "topic": "scienze-terra",
+    "question": "Applicando la regola delle fasi a rocce con sette componenti essenziali, quante fasi possono coesistere al massimo in equilibrio?",
+    "suggestion": "Con L = 0: F = C + 2.",
+    "options": [
+      "Sette",
+      "Cinque",
+      "Nove",
+      "Due"
+    ],
+    "correctIndex": 2,
+    "explanation": "Con C = 7 e L = 0, F = C + 2 = 9: fino a nove fasi possono coesistere all'equilibrio.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.36"
+  },
+  {
+    "id": "st-c09-contatto-regionale-014",
+    "topic": "scienze-terra",
+    "question": "Che cosa distingue il metamorfismo di contatto da quello regionale?",
+    "suggestion": "Pensa a un plutone e a una catena montuosa.",
+    "options": [
+      "Nel contatto agiscono soprattutto pressione e deformazione, nel regionale solo la temperatura",
+      "Il contatto avviene solo in superficie, il regionale solo nel mantello inferiore",
+      "Nel contatto prevale la temperatura a basse pressioni, nel regionale P, T e deformazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Attorno a un plutone prevale l'effetto della temperatura a basse pressioni; nel regionale, che interessa grandi volumi nelle catene montuose, agiscono insieme pressione, temperatura e deformazione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.36-37"
+  },
+  {
+    "id": "st-c09-diffusione-vacanze-015",
+    "topic": "scienze-terra",
+    "question": "Quale meccanismo consente il trasferimento di materia nei solidi durante il metamorfismo?",
+    "suggestion": "Gli ioni sfruttano le posizioni rimaste vuote.",
+    "options": [
+      "La diffusione allo stato solido attraverso le vacanze",
+      "La fusione parziale dei minerali nei punti di contatto tra i granuli",
+      "La convezione del magma attraverso i pori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gli ioni si muovono nel reticolo per diffusione allo stato solido, sfruttando i difetti reticolari e in particolare le vacanze (posizioni vuote): un processo molto lento.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-fill-attivazione-016",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La barriera energetica da superare per avviare una trasformazione metamorfica si chiama energia di ___.",
+    "answers": [["attivazione"]],
+    "suggestion": "I fattori cinetici aiutano a superarla.",
+    "explanation": "La reazione deve superare un'energia di attivazione; i fattori cinetici sono quelli che rendono più facile superarla.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-temperatura-cinetica-017",
+    "topic": "scienze-terra",
+    "question": "In che modo la temperatura agisce come fattore cinetico del metamorfismo?",
+    "suggestion": "Pensa alle vibrazioni degli ioni.",
+    "options": [
+      "Aumenta l'ampiezza delle vibrazioni degli ioni e ne favorisce la mobilità",
+      "Riduce la dimensione dei cristalli accorciando le distanze tra le strutture",
+      "Favorisce la deformazione e il trasporto di ioni negli spazi tra i granuli"
+    ],
+    "correctIndex": 0,
+    "explanation": "La temperatura aumenta l'ampiezza delle vibrazioni degli ioni attorno alla posizione di equilibrio e ne favorisce la mobilità. La riduzione dei cristalli è l'effetto della deformazione, il trasporto tra i granuli quello dei fluidi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-deformazione-cinetica-018",
+    "topic": "scienze-terra",
+    "question": "Perché la deformazione favorisce le reazioni metamorfiche?",
+    "suggestion": "Pensa alla distanza che uno ione deve percorrere.",
+    "options": [
+      "Perché aumenta la temperatura per attrito fino a fondere i minerali",
+      "Perché apre nuove vacanze nel reticolo senza modificare la dimensione dei singoli cristalli",
+      "Perché diminuisce la dimensione dei cristalli e riduce le distanze da percorrere"
+    ],
+    "correctIndex": 2,
+    "explanation": "La deformazione diminuisce la dimensione dei cristalli e riduce così le distanze minime che uno ione della struttura A deve percorrere per raggiungere gli ioni della struttura B.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-fluidi-019",
+    "topic": "scienze-terra",
+    "question": "Qual è la doppia funzione dei fluidi nel metamorfismo?",
+    "suggestion": "Una riguarda la deformazione, l'altra il trasporto.",
+    "options": [
+      "Favoriscono la deformazione e trasportano ioni tra i granuli",
+      "Aumentano la pressione e abbassano la temperatura della roccia",
+      "Sciolgono i minerali e ne impediscono la ricristallizzazione"
+    ],
+    "correctIndex": 0,
+    "explanation": "I fluidi favoriscono la deformazione e permettono il trasporto degli ioni negli spazi tra i granuli.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-statiche-020",
+    "topic": "scienze-terra",
+    "question": "In condizioni statiche, cioè senza deformazione, quali fattori cinetici restano attivi?",
+    "suggestion": "Togli la deformazione dall'elenco dei tre fattori.",
+    "options": [
+      "Temperatura e tempo",
+      "Deformazione e fluidi",
+      "Pressione e fluidi",
+      "Solo i fluidi"
+    ],
+    "correctIndex": 0,
+    "explanation": "In condizioni statiche restano attivi soltanto la temperatura e il tempo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-disequilibrio-021",
+    "topic": "scienze-terra",
+    "question": "Nella reazione sillimanite + biotite = cordierite + spinello + K-feldspato + H₂O, perché la roccia può restare in disequilibrio?",
+    "suggestion": "Una reazione allo stato solido richiede contatto tra i reagenti.",
+    "options": [
+      "Perché la temperatura scende sotto la curva di reazione nel diagramma P-T",
+      "Perché sillimanite e biotite non sono più a contatto e la reazione si blocca",
+      "Perché la reazione richiede una fase fusa che nel metamorfismo non esiste mai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se sillimanite e biotite non sono più a contatto la reazione si blocca e la roccia resta in disequilibrio: la termodinamica dice cosa è stabile, la cinetica se e quando avviene.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-termodinamica-cinetica-022",
+    "topic": "scienze-terra",
+    "question": "Qual è la differenza tra termodinamica e cinetica nel metamorfismo?",
+    "suggestion": "Una dice 'cosa', l'altra 'se e quando'.",
+    "options": [
+      "La termodinamica dice quali minerali sono stabili, la cinetica se e quando la trasformazione avviene",
+      "La termodinamica dice se e quando avviene la trasformazione, la cinetica quali minerali sono stabili",
+      "Termodinamica e cinetica coincidono, perché ogni minerale stabile si forma sempre e subito"
+    ],
+    "correctIndex": 0,
+    "explanation": "La termodinamica indica quali minerali sono stabili in certe condizioni P-T; la cinetica stabilisce se la trasformazione avverrà davvero e in quanto tempo. Per questo una roccia può conservare minerali non più stabili.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-plasticita-cristallina-023",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la plasticità cristallina?",
+    "suggestion": "La deformazione avviene senza rottura.",
+    "options": [
+      "La dissoluzione dei minerali nei punti di contatto più sollecitati",
+      "La deformazione permanente dei cristalli per scorrimento interno al reticolo",
+      "La crescita di nuovi cristalli orientati perpendicolarmente alla direzione di massimo sforzo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La plasticità cristallina è la deformazione permanente dei cristalli per scorrimento all'interno del reticolo, senza rottura. La dissoluzione nei punti di contatto è la pressione-dissoluzione.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-facies-def-024",
+    "topic": "scienze-terra",
+    "question": "Che cos'è una facies metamorfica?",
+    "suggestion": "Non è definita da un singolo minerale.",
+    "options": [
+      "Un insieme di associazioni mineralogiche con relazione prevedibile tra mineralogia e chimica",
+      "La comparsa di un singolo minerale indice che segnala determinate condizioni",
+      "Il grado di intensità della trasformazione metamorfica, legato soprattutto alla temperatura raggiunta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una facies è un insieme di associazioni mineralogiche sistematicamente associate, con una relazione costante e prevedibile tra composizione mineralogica e chimica. Non è definita da un minerale indice; l'intensità della trasformazione è il grado.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.37"
+  },
+  {
+    "id": "st-c09-facies-un-minerale-025",
+    "topic": "scienze-terra",
+    "question": "Perché una facies non può essere definita da un singolo minerale?",
+    "suggestion": "Pensa a un basalto e a un'argilla nelle stesse condizioni.",
+    "options": [
+      "Perché uno stesso minerale può formarsi in qualsiasi condizione di P e T",
+      "Perché rocce di chimismo diverso nelle stesse condizioni danno associazioni diverse",
+      "Perché i minerali metamorfici si trasformano tutti durante la risalita in superficie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rocce di chimismo diverso nelle stesse condizioni P-T sviluppano associazioni diverse ma appartengono alla stessa facies: la facies indica le condizioni, non i minerali.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.38"
+  },
+  {
+    "id": "st-c09-scisti-verdi-026",
+    "topic": "scienze-terra",
+    "question": "Quali minerali caratterizzano la facies a scisti verdi?",
+    "suggestion": "Tra questi c'è la clorite, che dà il colore verde.",
+    "options": [
+      "Orneblenda e plagioclasio calcico, ad alta T",
+      "Pirosseno e granato",
+      "Microclino, pirosseno e granato",
+      "Albite, muscovite, clorite e attinoto"
+    ],
+    "correctIndex": 3,
+    "explanation": "Scisti verdi: albite, muscovite, clorite, attinoto; anfiboliti: orneblenda e plagioclasio calcico; eclogiti: pirosseno e granato; granuliti: microclino, pirosseno e granato.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.38"
+  },
+  {
+    "id": "st-c09-eclogiti-027",
+    "topic": "scienze-terra",
+    "question": "Quali condizioni caratterizzano la facies a eclogiti?",
+    "suggestion": "Contiene pirosseno e granato e documenta un seppellimento profondo.",
+    "options": [
+      "Basse pressioni e basse temperature",
+      "Alta temperatura e bassa pressione",
+      "Pressioni molto alte",
+      "Alta pressione e bassa temperatura"
+    ],
+    "correctIndex": 2,
+    "explanation": "La facies a eclogiti è caratteristica di pressioni molto alte. Alta P e bassa T: scisti blu; alta T e bassa P: cornubianiti; basse P e T: zeoliti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.38, 47"
+  },
+  {
+    "id": "st-c09-scisti-blu-028",
+    "topic": "scienze-terra",
+    "question": "Quale facies corrisponde ad alta pressione e bassa temperatura?",
+    "suggestion": "Ha il nome di un colore.",
+    "options": [
+      "La facies a cornubianiti",
+      "La facies a granuliti",
+      "La facies a zeoliti",
+      "La facies a scisti blu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gli scisti blu sono di alta pressione e bassa temperatura; le cornubianiti di alta temperatura e bassa pressione; le granuliti di temperature molto elevate; le zeoliti di basse P e T.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.38"
+  },
+  {
+    "id": "st-c09-cornubianiti-029",
+    "topic": "scienze-terra",
+    "question": "Quale facies si sviluppa tipicamente nell'aureola di contatto attorno a un plutone?",
+    "suggestion": "Alta temperatura, bassa pressione.",
+    "options": [
+      "La facies a eclogiti",
+      "La facies a scisti blu",
+      "La facies a cornubianiti",
+      "La facies a scisti verdi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il calore del magma trasforma le rocce incassanti a basse pressioni, formando un'aureola con temperature decrescenti allontanandosi dall'intrusione, in cui si sviluppa la facies a cornubianiti.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.38"
+  },
+  {
+    "id": "st-c09-facies-grado-030",
+    "topic": "scienze-terra",
+    "question": "Che differenza c'è tra facies e grado metamorfico?",
+    "suggestion": "Uno è un'intensità, l'altro un campo P-T.",
+    "options": [
+      "Il grado indica l'intensità della trasformazione, legata soprattutto a T; la facies un campo P-T",
+      "La facies indica l'intensità della trasformazione, legata a P; il grado un insieme di associazioni",
+      "Sono sinonimi: entrambi indicano il minerale indice comparso per primo nella roccia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il grado indica l'intensità della trasformazione, legata soprattutto alla temperatura; la facies un campo di pressione e temperatura definito da associazioni di minerali.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.38"
+  },
+  {
+    "id": "st-c09-reazioni-discontinue-031",
+    "topic": "scienze-terra",
+    "question": "Che ruolo hanno le reazioni discontinue nel metamorfismo?",
+    "suggestion": "Le continue sono legate all'isomorfismo.",
+    "options": [
+      "Modificano gradualmente la composizione dei minerali producendo cristalli zonati",
+      "Fanno comparire o scomparire minerali e segnano il passaggio tra facies",
+      "Mantengono costante l'associazione mineralogica variando solo la tessitura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le reazioni discontinue fanno comparire o scomparire minerali e segnano il passaggio da una facies all'altra; le continue, legate all'isomorfismo, modificano gradualmente la composizione (es. scambio Fe-Mg tra pirosseno e granato).",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.38"
+  }
+]

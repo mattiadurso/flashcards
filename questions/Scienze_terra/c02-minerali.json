@@ -1,0 +1,304 @@
+[
+  {
+    "id": "st-c02-traslucido-001",
+    "topic": "scienze-terra",
+    "question": "Quando un minerale si definisce traslucido?",
+    "suggestion": "La luce passa, ma qualcosa non si vede più chiaramente.",
+    "options": [
+      "Quando attraverso di esso si vedono nitidamente gli oggetti posti dietro",
+      "Quando la luce passa ma i contorni degli oggetti non si distinguono",
+      "Quando riflette la luce come un metallo senza lasciarla mai passare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trasparente: si vedono gli oggetti; traslucido: la luce passa ma i contorni non si distinguono; opaco: la luce non passa affatto.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-lucentezza-002",
+    "topic": "scienze-terra",
+    "question": "Quale minerale è indicato come esempio di lucentezza metallica?",
+    "suggestion": "È un ossido di ferro.",
+    "options": [
+      "Il quarzo",
+      "Il serpentino",
+      "La mica",
+      "L'ematite"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'ematite ha lucentezza metallica; quarzo e miche hanno lucentezza vitrea; serpentino e pirosseno hanno lucentezza bassa.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-fill-lucentezza-003",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La capacità di un minerale di riflettere la luce si chiama ___.",
+    "answers": [["lucentezza"]],
+    "suggestion": "Può essere metallica, vitrea oppure bassa.",
+    "explanation": "La lucentezza è la capacità di riflettere la luce; non va confusa con la trasparenza, che è la capacità di lasciarsi attraversare dalla luce.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-sfaldatura-004",
+    "topic": "scienze-terra",
+    "question": "Quale principio spiega perché alcuni minerali, come la mica, sfaldano lungo piani regolari?",
+    "suggestion": "È il principio che collega le facce più importanti alla densità dei piani reticolari.",
+    "options": [
+      "Il principio di Neumann",
+      "Il principio di Bravais",
+      "La legge di Hauy",
+      "Il principio di Stenone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Secondo il principio di Bravais, alla rottura restano intatte le facce corrispondenti ai piani reticolari più densi: da qui i piani di sfaldatura regolari e ripetuti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-frattura-concoide-005",
+    "topic": "scienze-terra",
+    "question": "Perché il quarzo presenta frattura concoide invece di sfaldatura?",
+    "suggestion": "Pensa a come sono legati tra loro i tetraedri nei tettosilicati.",
+    "options": [
+      "Perché i suoi tetraedri sono legati per tutti i vertici e non ci sono piani deboli",
+      "Perché i suoi tetraedri formano strati legati debolmente tra loro da cationi grandi",
+      "Perché i suoi tetraedri formano catene doppie che si separano lungo la loro lunghezza"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel quarzo i tetraedri sono uniti per tutti e quattro i vertici: non ci sono piani deboli e la rottura dà superfici curve a conchiglia. Strati e catene descrivono fillosilicati e inosilicati, che invece sfaldano.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-rompe-bene-006",
+    "topic": "scienze-terra",
+    "question": "Quale minerale è citato come esempio di minerale che 'rompe bene', spezzandosi nettamente senza piani preferenziali?",
+    "suggestion": "È un solfuro di ferro.",
+    "options": [
+      "La mica",
+      "Il quarzo",
+      "La pirite",
+      "L'anfibolo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pirite rompe bene; mica e anfibolo sfaldano; il quarzo ha frattura concoide.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-colore-007",
+    "topic": "scienze-terra",
+    "question": "Perché il colore va usato con cautela nella descrizione di un minerale?",
+    "suggestion": "La superficie del campione non sempre rappresenta il minerale fresco.",
+    "options": [
+      "Perché dipende soltanto dalla classe chimica del minerale e non dalla sua struttura interna",
+      "Perché può dipendere dall'alterazione superficiale e non solo dalla natura del minerale",
+      "Perché cambia con l'angolo di osservazione secondo il principio di Neumann"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il colore può dipendere dall'alterazione superficiale del campione e non soltanto dalla natura del minerale, quindi da solo non è un carattere affidabile.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-abito-008",
+    "topic": "scienze-terra",
+    "question": "Quale abito cristallino è tipico dell'almandino?",
+    "suggestion": "È un granato: pensa a un poliedro con più facce del cubo e dell'ottaedro.",
+    "options": [
+      "Cubico, a sei facce quadrate",
+      "Romboedrico, a sei facce rombiche",
+      "Ottaedrico, a otto facce triangolari",
+      "Rombododecaedrico, a dodici facce"
+    ],
+    "correctIndex": 3,
+    "explanation": "L'almandino ha abito rombododecaedrico (dodici facce rombiche); la galena è cubica, la magnetite ottaedrica, la calcite romboedrica.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-abito-magnetite-009",
+    "topic": "scienze-terra",
+    "question": "Quale abito cristallino è riconoscibile nella magnetite?",
+    "suggestion": "Nel programma è indicato impropriamente come 'ottagonale'.",
+    "options": [
+      "Ottaedrico",
+      "Cubico",
+      "Romboedrico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La magnetite ha abito ottaedrico (nel programma 'ottagonale'); la galena è cubica e la calcite romboedrica.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-allungamento-010",
+    "topic": "scienze-terra",
+    "question": "Quale tipo di allungamento è tipico dei granati?",
+    "suggestion": "Dimensioni simili in tutte le direzioni.",
+    "options": [
+      "Aciculare, a forma di ago",
+      "Tabulare, cioè appiattito",
+      "Isodiametrico",
+      "Allungato, come negli anfiboli"
+    ],
+    "correctIndex": 2,
+    "explanation": "I granati sono isodiametrici; i pirosseni tozzi, gli anfiboli allungati, la tremolite aciculare, l'amianto fibroso.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-fill-aciculare-011",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Un cristallo a forma di ago, come nella tremolite, ha un allungamento ___.",
+    "answers": [["aciculare"]],
+    "suggestion": "Il termine deriva dal latino 'acus', ago.",
+    "explanation": "L'allungamento aciculare (a forma di ago) è tipico della tremolite.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-durezza-carbonati-012",
+    "topic": "scienze-terra",
+    "question": "Nella scala pratica di durezza, dove si collocano i carbonati?",
+    "suggestion": "Confronta con vetro, acciaio inossidabile e unghia.",
+    "options": [
+      "Più duri del vetro e dell'acciaio inossidabile, come il quarzo",
+      "Meno duri di vetro e acciaio, ma più duri dell'unghia",
+      "Meno duri dell'unghia, come il talco e il gesso"
+    ],
+    "correctIndex": 1,
+    "explanation": "I carbonati sono meno duri di vetro e acciaio ma più duri dell'unghia; il quarzo è più duro del vetro; talco e gesso sono meno duri dell'unghia.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-durezza-def-013",
+    "topic": "scienze-terra",
+    "question": "Che cosa si intende per durezza di un minerale?",
+    "suggestion": "Si prova con vetro, acciaio e unghia.",
+    "options": [
+      "La resistenza alla scalfittura",
+      "La resistenza alla compressione",
+      "Il peso per unità di volume",
+      "La resistenza agli acidi diluiti"
+    ],
+    "correctIndex": 0,
+    "explanation": "La durezza è la resistenza alla scalfittura; il peso per unità di volume è il peso specifico.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  },
+  {
+    "id": "st-c02-peso-specifico-014",
+    "topic": "scienze-terra",
+    "question": "Quale minerale della collezione si riconosce perché sensibilmente più pesante degli altri?",
+    "suggestion": "È un solfuro di piombo con abito cubico.",
+    "options": [
+      "La calcite",
+      "Il gesso",
+      "Il quarzo",
+      "La galena"
+    ],
+    "correctIndex": 3,
+    "explanation": "La galena (PbS) ha un peso specifico molto superiore agli altri campioni; insieme all'abito cubico permette di riconoscerla.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf pp.8-9"
+  },
+  {
+    "id": "st-c02-hcl-015",
+    "topic": "scienze-terra",
+    "question": "Perché la calcite reagisce con effervescenza all'attacco con HCl al 10%?",
+    "suggestion": "Pensa a quale gas libera un carbonato a contatto con un acido.",
+    "options": [
+      "Perché il solfato, a contatto con l'acido, libera anidride solforosa",
+      "Perché il carbonato, a contatto con l'acido, libera anidride carbonica",
+      "Perché l'acido scioglie il calcio liberando idrogeno gassoso in superficie"
+    ],
+    "correctIndex": 1,
+    "explanation": "La calcite (CaCO₃) è un carbonato: a contatto con l'acido libera anidride carbonica, da cui l'effervescenza. Il gesso, solfato, è l'altro campione di riferimento.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c02-classe-chimica-016",
+    "topic": "scienze-terra",
+    "question": "A quale classe chimica appartengono ematite e magnetite?",
+    "suggestion": "Sono composti di ferro e ossigeno.",
+    "options": [
+      "Solfuri",
+      "Carbonati",
+      "Ossidi",
+      "Solfati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ematite e magnetite sono ossidi; galena e pirite solfuri; calcite e dolomite carbonati; il gesso un solfato.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c02-mica-lamine-017",
+    "topic": "scienze-terra",
+    "question": "Perché la mica sfalda in lamine?",
+    "suggestion": "Collega il comportamento alla classificazione strutturale dei silicati.",
+    "options": [
+      "Perché è un inosilicato a catena doppia, allungato lungo le catene",
+      "Perché è un fillosilicato, cioè un silicato a strati",
+      "Perché è un tettosilicato privo di piani deboli"
+    ],
+    "correctIndex": 1,
+    "explanation": "La mica è un fillosilicato: la struttura a strati produce sfaldatura in lamine. L'anfibolo, inosilicato a catena doppia, è allungato e sfalda secondo le catene.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c02-ragionare-quarzo-018",
+    "topic": "scienze-terra",
+    "question": "Un minerale con lucentezza vitrea, frattura concoide e più duro del vetro suggerisce quale minerale?",
+    "suggestion": "È un tettosilicato privo di piani deboli.",
+    "options": [
+      "Il quarzo",
+      "La calcite",
+      "La mica",
+      "La galena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lucentezza vitrea, frattura concoide e durezza superiore al vetro indicano il quarzo, un tettosilicato privo di piani deboli.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c02-ragionare-calcite-019",
+    "topic": "scienze-terra",
+    "question": "Un minerale romboedrico, meno duro del vetro ma più dell'unghia, che reagisce con l'acido, indica:",
+    "suggestion": "Pensa a quale classe chimica fa effervescenza con HCl.",
+    "options": [
+      "Un solfato idrato come il gesso",
+      "Un solfuro come la pirite",
+      "Un ossido come la magnetite",
+      "Un carbonato come la calcite"
+    ],
+    "correctIndex": 3,
+    "explanation": "Abito romboedrico, durezza intermedia ed effervescenza con l'acido sono caratteristici dei carbonati come la calcite.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.9"
+  },
+  {
+    "id": "st-c02-ordine-descrizione-020",
+    "topic": "scienze-terra",
+    "question": "Qual è il corretto approccio nella descrizione di un minerale all'esame?",
+    "suggestion": "Il nome è la conclusione del ragionamento, non il punto di partenza.",
+    "options": [
+      "Proporre subito il nome del minerale e poi giustificarlo con le proprietà osservate",
+      "Ricordare le caratteristiche dei singoli campioni della collezione",
+      "Seguire un ordine preciso di proprietà e proporre il nome solo alla fine"
+    ],
+    "correctIndex": 2,
+    "explanation": "La descrizione segue un ordine preciso (trasparenza, lucentezza, rottura, colore, abito, durezza, peso specifico, HCl) con terminologia appropriata, e il nome si propone soltanto alla fine. Ricordare i singoli campioni non ha valore.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.8"
+  }
+]

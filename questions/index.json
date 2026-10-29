@@ -629,6 +629,84 @@
           "count": 58
         }
       ]
+    },
+    {
+      "topic": "scienze-terra",
+      "label": "Scienze della Terra",
+      "files": [
+        {
+          "species": "Cap. 1 — Cristallografia morfologica",
+          "file": "Scienze_terra/c01-cristallografia.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 31
+        },
+        {
+          "species": "Cap. 2 — Descrizione e riconoscimento dei minerali",
+          "file": "Scienze_terra/c02-minerali.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 20
+        },
+        {
+          "species": "Cap. 3 — Descrizione e riconoscimento delle rocce",
+          "file": "Scienze_terra/c03-rocce.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 20
+        },
+        {
+          "species": "Cap. 4 — Lettura della carta geologica",
+          "file": "Scienze_terra/c04-carta-geologica.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 20
+        },
+        {
+          "species": "Cap. 5 — Raggi X e cristallografia strutturale",
+          "file": "Scienze_terra/c05-raggi-x.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 30
+        },
+        {
+          "species": "Cap. 6 — Mineralogia",
+          "file": "Scienze_terra/c06-mineralogia.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 46
+        },
+        {
+          "species": "Cap. 7 — Petrologia magmatica",
+          "file": "Scienze_terra/c07-petrologia-magmatica.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 54
+        },
+        {
+          "species": "Cap. 8 — Petrologia sedimentaria",
+          "file": "Scienze_terra/c08-petrologia-sedimentaria.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 42
+        },
+        {
+          "species": "Cap. 9 — Petrologia metamorfica",
+          "file": "Scienze_terra/c09-petrologia-metamorfica.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 31
+        },
+        {
+          "species": "Cap. 10 — Geologia stratigrafica",
+          "file": "Scienze_terra/c10-stratigrafia.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 29
+        },
+        {
+          "species": "Cap. 11 — Geologia strutturale",
+          "file": "Scienze_terra/c11-geologia-strutturale.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 41
+        },
+        {
+          "species": "Cap. 12 — Interno della Terra e tettonica a placche",
+          "file": "Scienze_terra/c12-interno-terra.json",
+          "source": "docs/Scienze_terra/scienze della terra con immagini.pdf",
+          "count": 14
+        }
+      ]
     }
   ]
 }

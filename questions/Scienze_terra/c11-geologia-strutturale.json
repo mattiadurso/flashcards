@@ -1,0 +1,608 @@
+[
+  {
+    "id": "st-c11-sforzo-def-001",
+    "topic": "scienze-terra",
+    "question": "Che differenza c'è tra sforzo (stress) e deformazione (strain)?",
+    "suggestion": "Uno è una causa, l'altro un effetto.",
+    "options": [
+      "Lo sforzo è il cambiamento di forma o volume, la deformazione la forza per unità di superficie",
+      "Lo sforzo è la forza per unità di superficie, la deformazione il cambiamento di forma o volume",
+      "Sono sinonimi: entrambi indicano la forza applicata a una roccia per unità di volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo sforzo è la forza per unità di superficie, σ = F/A; la deformazione è il cambiamento di forma o volume che ne risulta.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-confinamento-002",
+    "topic": "scienze-terra",
+    "question": "Che effetto ha uno sforzo di confinamento (σ1 = σ2 = σ3)?",
+    "suggestion": "Agisce allo stesso modo in tutte le direzioni.",
+    "options": [
+      "Modifica soltanto il volume",
+      "Modifica soltanto la forma",
+      "Produce sempre una frattura di taglio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lo sforzo di confinamento, o idrostatico, agisce ugualmente in tutte le direzioni e modifica soltanto il volume; uno sforzo deviatorico (assi diversi) modifica la forma.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-fill-deviatorico-003",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Quando gli assi dell'ellissoide degli sforzi sono diversi, esiste uno sforzo ___, che modifica la forma.",
+    "answers": [["deviatorico", "deviatore"]],
+    "suggestion": "È l'opposto dello sforzo di confinamento.",
+    "explanation": "Con σ1 > σ2 = σ3 o σ1 > σ2 > σ3 esiste uno sforzo deviatorico, cioè una differenza tra gli sforzi, che modifica la forma.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-normale-taglio-004",
+    "topic": "scienze-terra",
+    "question": "Che cosa tende a fare lo sforzo di taglio su una superficie interna al materiale?",
+    "suggestion": "È la componente parallela alla superficie.",
+    "options": [
+      "A comprimere o separare le due parti perpendicolarmente alla superficie",
+      "A far scorrere le due parti l'una sull'altra",
+      "A ridurre il volume senza cambiarne la forma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lo sforzo di taglio (τ = F cos α/S), parallelo alla superficie, tende a far scorrere le due parti; lo sforzo normale (σn = F sen α/S) tende a comprimerle o separarle.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-taglio-semplice-005",
+    "topic": "scienze-terra",
+    "question": "Che cosa caratterizza il taglio semplice rispetto al taglio puro?",
+    "suggestion": "Pensa a che cosa fanno gli assi della deformazione.",
+    "options": [
+      "Tende a cambiare la forma e la deformazione è rotazionale",
+      "Agisce lungo direzioni fisse e la deformazione è irrotazionale",
+      "Modifica solo il volume, come lo sforzo di confinamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nel taglio semplice le facce scorrono parallelamente, cambia la forma e la deformazione è rotazionale (gli assi ruotano). Il taglio puro agisce lungo direzioni fisse e produce deformazione irrotazionale.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-omogenee-006",
+    "topic": "scienze-terra",
+    "question": "Quando una deformazione si dice eterogenea?",
+    "suggestion": "Il contrario di 'uguale in ogni punto'.",
+    "options": [
+      "Quando è uguale in ogni punto del corpo",
+      "Quando gli assi ruotano durante il processo",
+      "Quando varia da punto a punto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le deformazioni sono omogenee quando uguali in ogni punto, eterogenee quando variano da punto a punto. La rotazione degli assi caratterizza invece la deformazione rotazionale.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-mohr-007",
+    "topic": "scienze-terra",
+    "question": "Nel cerchio di Mohr, quali sono centro e raggio?",
+    "suggestion": "Si usano σ1 e σ3.",
+    "options": [
+      "Centro (σ1 - σ3)/2 e raggio (σ1 + σ3)/2",
+      "Centro σ1 e raggio σ3",
+      "Centro (σ1 + σ3)/2 e raggio (σ1 - σ3)/2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Il cerchio di Mohr ha centro in (σ1 + σ3)/2 e raggio (σ1 - σ3)/2; permette di individuare le superfici dove lo sforzo di taglio è massimo.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf pp.42-43"
+  },
+  {
+    "id": "st-c11-stati-materia-008",
+    "topic": "scienze-terra",
+    "question": "Come si distinguono gli stati della materia in base alla resistenza a compressione e taglio?",
+    "suggestion": "I liquidi non resistono a uno dei due.",
+    "options": [
+      "I solidi resistono a entrambi, i liquidi solo alla compressione, i gas a nessuno",
+      "I solidi resistono solo al taglio, i liquidi a entrambi, i gas solo alla compressione",
+      "Solidi e liquidi resistono a entrambi, mentre i gas resistono soltanto al taglio semplice"
+    ],
+    "correctIndex": 0,
+    "explanation": "I solidi resistono sia alla compressione sia al taglio, i liquidi alla compressione ma non al taglio, i gas a nessuno dei due.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.42"
+  },
+  {
+    "id": "st-c11-cella-triassiale-009",
+    "topic": "scienze-terra",
+    "question": "Nella cella triassiale, che cosa simula la pressione laterale σ3?",
+    "suggestion": "È detta pressione di confinamento.",
+    "options": [
+      "La velocità di deformazione",
+      "Le condizioni di profondità",
+      "La temperatura della roccia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un provino cilindrico è compresso lungo l'asse (σ1) mentre una pressione laterale (σ3, di confinamento) simula le condizioni di profondità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-elastica-plastica-010",
+    "topic": "scienze-terra",
+    "question": "Che cosa distingue una deformazione plastica da una elastica?",
+    "suggestion": "Che cosa succede quando lo sforzo cessa?",
+    "options": [
+      "La plastica prosegue a parità di sforzo ed è permanente",
+      "La plastica è proporzionale allo sforzo e viene riassorbita quando lo sforzo cessa",
+      "La plastica avviene solo con rottura del corpo in più parti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elastica: proporzionale allo sforzo e riassorbita quando cessa. Plastica: prosegue a parità di sforzo ed è permanente.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-fragile-duttile-011",
+    "topic": "scienze-terra",
+    "question": "Quando il comportamento di un corpo si dice fragile?",
+    "suggestion": "Pensa al momento della rottura.",
+    "options": [
+      "Quando fluisce indefinitamente sotto un certo sforzo senza rompersi",
+      "Quando si deforma in modo permanente senza alcuna frattura visibile",
+      "Quando si rompe nel corso di una deformazione elastica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fragile: il corpo si rompe durante una deformazione elastica. Duttile: fluisce indefinitamente sotto un certo sforzo senza rompersi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-resistenza-012",
+    "topic": "scienze-terra",
+    "question": "Che cos'è la resistenza di un materiale nel diagramma sforzo-deformazione?",
+    "suggestion": "È il punto più alto prima della rottura.",
+    "options": [
+      "La pendenza del tratto rettilineo elastico",
+      "La deformazione totale accumulata al momento della rottura",
+      "Lo sforzo massimo sopportato prima di rompersi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nel diagramma si osservano un tratto elastico rettilineo, uno plastico e la rottura; la resistenza è lo sforzo massimo che il materiale sopporta prima di rompersi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-confinamento-effetto-013",
+    "topic": "scienze-terra",
+    "question": "Che effetto ha l'aumento della pressione di confinamento sul comportamento delle rocce?",
+    "suggestion": "Pensa a rocce sempre più profonde.",
+    "options": [
+      "Aumenta la resistenza e porta da comportamento fragile a duttile",
+      "Diminuisce la resistenza e porta da comportamento duttile a fragile",
+      "Diminuisce la resistenza ma lascia invariato il tipo di comportamento della roccia"
+    ],
+    "correctIndex": 0,
+    "explanation": "All'aumentare della pressione di confinamento cresce la resistenza e la roccia passa da comportamento fragile a duttile.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-temperatura-effetto-014",
+    "topic": "scienze-terra",
+    "question": "Che effetto ha l'aumento della temperatura sulla resistenza delle rocce?",
+    "suggestion": "Le prove su calcare e lherzolite lo mostrano.",
+    "options": [
+      "La resistenza aumenta e il comportamento diventa più fragile",
+      "La resistenza non cambia ma aumenta la velocità di deformazione",
+      "La resistenza diminuisce e il comportamento diventa più duttile"
+    ],
+    "correctIndex": 2,
+    "explanation": "All'aumentare della temperatura la resistenza diminuisce e il comportamento diventa più duttile.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-velocita-def-015",
+    "topic": "scienze-terra",
+    "question": "Quale velocità di deformazione favorisce il comportamento duttile?",
+    "suggestion": "Pensa alle rocce che si piegano in tempi geologici.",
+    "options": [
+      "Le deformazioni rapide",
+      "Le deformazioni lente",
+      "Nessuna: la velocità non conta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le deformazioni lente favoriscono il comportamento duttile, quelle rapide quello fragile. Anche l'acqua contenuta riduce la resistenza.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-rottura-taglio-016",
+    "topic": "scienze-terra",
+    "question": "Perché una roccia compressa in modo uniassiale si rompe per taglio?",
+    "suggestion": "Pensa a che cosa accade sulla superficie di frattura.",
+    "options": [
+      "Perché la compressione uniassiale si trasforma sempre in un sforzo di confinamento",
+      "Perché sulla frattura lo sforzo di taglio supera la coesione tra le due porzioni",
+      "Perché lo sforzo normale supera la coesione sulla superficie perpendicolare a σ1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anche se lo sforzo applicato è di compressione (taglio puro), sulla frattura si realizza un taglio semplice: la roccia si rompe dove lo sforzo di taglio supera la coesione, dove τ è massimo rispetto a σn.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.43"
+  },
+  {
+    "id": "st-c11-fratture-coniugate-017",
+    "topic": "scienze-terra",
+    "question": "Con pressione di confinamento bassa o nulla, che angolo formano tra loro i piani di frattura coniugati in cella triassiale?",
+    "suggestion": "σ1 è disposto lungo la bisettrice dell'angolo acuto.",
+    "options": [
+      "Circa 90°",
+      "Circa 30°",
+      "Circa 60°",
+      "Circa 120°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Si formano due piani di frattura coniugati a circa 60°, con σ1 lungo la bisettrice dell'angolo acuto: così si spiegano le famiglie coniugate di giunti e faglie in natura.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.43-44"
+  },
+  {
+    "id": "st-c11-profondita-comportamento-018",
+    "topic": "scienze-terra",
+    "question": "Come si comportano le rocce vicino alla superficie rispetto alla profondità?",
+    "suggestion": "Considera pressione e temperatura in superficie.",
+    "options": [
+      "In superficie sono duttili e si piegano, in profondità fragili e si fratturano",
+      "In superficie sono fragili e si fratturano, in profondità duttili e si piegano",
+      "Si comportano allo stesso modo, perché conta solo la natura della roccia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vicino alla superficie (bassa P e T) le rocce sono fragili e producono giunti, faglie e cataclasiti; in profondità (alta P e T) sono duttili, si piegano e formano zone di taglio duttile.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-giunto-faglia-019",
+    "topic": "scienze-terra",
+    "question": "Che cosa distingue un giunto da una faglia?",
+    "suggestion": "Conta lo spostamento delle due parti.",
+    "options": [
+      "Nel giunto non c'è spostamento apprezzabile delle parti, nella faglia sì",
+      "Il giunto si forma in regime duttile, la faglia solo in regime fragile",
+      "Il giunto è sempre verticale, la faglia sempre inclinata rispetto agli strati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un giunto è una frattura senza spostamento apprezzabile delle due parti; una faglia è una frattura lungo la quale le due parti si sono spostate.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-fill-rigetto-020",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Lo spostamento relativo tra due punti originariamente uniti ai due lati di una faglia si chiama ___.",
+    "answers": [["rigetto"]],
+    "suggestion": "Può essere anche 'apparente' se misurato su uno strato.",
+    "explanation": "Il rigetto è lo spostamento relativo tra due punti che in origine erano uniti ai due lati della faglia.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-faglia-normale-021",
+    "topic": "scienze-terra",
+    "question": "In una faglia normale, o diretta, come si muove il tetto e quale tettonica esprime?",
+    "suggestion": "La crosta si allunga.",
+    "options": [
+      "Il tetto sale; tettonica compressiva",
+      "Movimento orizzontale; tettonica trascorrente",
+      "Il tetto scende; tettonica estensiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nella faglia normale il tetto scende rispetto al letto ed esprime tettonica estensiva; nella inversa il tetto sale (compressione); nella trascorrente il movimento è orizzontale.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-listriche-022",
+    "topic": "scienze-terra",
+    "question": "Che cosa sono le faglie listriche, tipiche della tettonica estensiva?",
+    "suggestion": "La loro inclinazione cambia con la profondità.",
+    "options": [
+      "Faglie curve, ripide in superficie e meno inclinate in profondità",
+      "Faglie inverse a basso angolo con grande spostamento orizzontale",
+      "Faglie subverticali con movimento solo lungo la direzione del piano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le faglie listriche sono curve, ripide in superficie e meno inclinate in profondità; fanno ruotare gli strati del tetto. Le inverse a basso angolo sono sovrascorrimenti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-antitetiche-023",
+    "topic": "scienze-terra",
+    "question": "Attorno a una faglia principale (master fault), che cosa sono le faglie antitetiche?",
+    "suggestion": "'Anti-' = opposto.",
+    "options": [
+      "Faglie con la stessa immersione della faglia principale",
+      "Faglie trascorrenti disposte perpendicolarmente alla faglia principale",
+      "Faglie con immersione opposta a quella della faglia principale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Le faglie sintetiche hanno la stessa immersione della faglia principale, le antitetiche immersione opposta.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-sovrascorrimenti-024",
+    "topic": "scienze-terra",
+    "question": "Che cosa sono i sovrascorrimenti?",
+    "suggestion": "Procedono alternando rampe e piani.",
+    "options": [
+      "Faglie normali curve tipiche della tettonica estensiva",
+      "Faglie trascorrenti con una componente compressiva",
+      "Faglie inverse a basso angolo e con grande spostamento"
+    ],
+    "correctIndex": 2,
+    "explanation": "I sovrascorrimenti sono faglie inverse a basso angolo con grande spostamento, che procedono alternando rampe (che tagliano gli strati) e piani (paralleli agli strati).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.44-45"
+  },
+  {
+    "id": "st-c11-trascorrente-destra-025",
+    "topic": "scienze-terra",
+    "question": "Quando una faglia trascorrente si dice destra?",
+    "suggestion": "Guarda attraverso la faglia.",
+    "options": [
+      "Quando, guardando attraverso la faglia, il blocco opposto è spostato verso destra",
+      "Quando il blocco posto alla destra della faglia risulta sollevato rispetto all'altro",
+      "Quando, guardando lungo la direzione della faglia, il tetto è scivolato verso destra"
+    ],
+    "correctIndex": 0,
+    "explanation": "La faglia trascorrente è destra se, guardando attraverso di essa, il blocco opposto risulta spostato verso destra; sinistra nel caso contrario.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-pull-apart-026",
+    "topic": "scienze-terra",
+    "question": "Che cosa sono i bacini di pull apart?",
+    "suggestion": "Si aprono lungo le deviazioni di un certo tipo di faglia.",
+    "options": [
+      "Bacini per stiramento lungo le deviazioni delle faglie trascorrenti",
+      "Bacini di avanfossa davanti ai sovrascorrimenti in compressione",
+      "Bacini evaporitici isolati per sollevamento di una soglia tettonica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lungo le deviazioni delle faglie trascorrenti si possono aprire bacini di pull apart, cioè bacini per stiramento, oppure formarsi rilievi compressivi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.44-45"
+  },
+  {
+    "id": "st-c11-fella-sava-027",
+    "topic": "scienze-terra",
+    "question": "Che tipo di faglia è la linea Fella-Sava, nei pressi di Tarvisio?",
+    "suggestion": "È un movimento misto.",
+    "options": [
+      "Una faglia normale listrica",
+      "Una faglia transpressiva destra",
+      "Un sovrascorrimento a basso angolo",
+      "Una faglia transtensiva sinistra"
+    ],
+    "correctIndex": 1,
+    "explanation": "La linea Fella-Sava è una faglia transpressiva destra, cioè trascorrente con una componente compressiva; lungo di essa si trovano cataclasiti.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-rocce-faglia-028",
+    "topic": "scienze-terra",
+    "question": "Quali rocce di faglia si formano in regime fragile?",
+    "suggestion": "Sono rocce frantumate e macinate.",
+    "options": [
+      "Le miloniti di zona di taglio",
+      "Le cataclasiti",
+      "Le cornubianiti"
+    ],
+    "correctIndex": 1,
+    "explanation": "In regime fragile si formano le cataclasiti, rocce frantumate e macinate; in regime duttile, in profondità, si formano zone di taglio duttile. Le cornubianiti sono rocce del metamorfismo di contatto.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.44"
+  },
+  {
+    "id": "st-c11-strie-gradini-029",
+    "topic": "scienze-terra",
+    "question": "Che cosa indicano rispettivamente strie e gradini su una superficie di faglia?",
+    "suggestion": "Uno dà la direzione, l'altro il verso.",
+    "options": [
+      "Le strie il verso del movimento, i gradini la direzione",
+      "Le strie la direzione del movimento, i gradini il verso",
+      "Entrambi indicano solo l'entità del rigetto verticale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Le strie, solchi lineari prodotti dallo sfregamento, indicano la direzione dello spostamento; i gradini e le asperità ne indicano il verso.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.45"
+  },
+  {
+    "id": "st-c11-strie-orizzontali-030",
+    "topic": "scienze-terra",
+    "question": "Strie orizzontali su una superficie di faglia indicano quale tipo di faglia?",
+    "suggestion": "Il movimento è avvenuto lungo la direzione del piano.",
+    "options": [
+      "Una faglia trascorrente",
+      "Una faglia diretta listrica",
+      "Una faglia inversa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Strie orizzontali indicano una faglia trascorrente; strie lungo l'inclinazione indicano faglie dirette (tetto in discesa) o inverse (tetto in salita).",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.45"
+  },
+  {
+    "id": "st-c11-rigetto-apparente-031",
+    "topic": "scienze-terra",
+    "question": "Perché il rigetto apparente misurato su uno strato spostato può essere ingannevole?",
+    "suggestion": "Per interpretarlo serve conoscere qualcosa sul movimento.",
+    "options": [
+      "Perché non si conosce la reale direzione del movimento",
+      "Perché si misura sempre sulla carta geologica e mai direttamente sul terreno",
+      "Perché gli strati spostati sono sempre rovesciati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il rigetto apparente può essere ingannevole se non si conosce la reale direzione del movimento: per questo gli indicatori sulla superficie di faglia, come strie e gradini, sono preziosi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.45"
+  },
+  {
+    "id": "st-c11-taglio-duttile-indicatori-032",
+    "topic": "scienze-terra",
+    "question": "Nelle zone di taglio duttile, che cosa indica il senso del taglio?",
+    "suggestion": "Non ci sono superfici di rottura con strie.",
+    "options": [
+      "La spaziatura, l'apertura e la persistenza dei giunti tettonici",
+      "Le strie e i gradini sulle superfici levigate",
+      "La forma e l'orientazione dei granuli deformati"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle zone di taglio duttile sono la forma e l'orientazione dei granuli deformati, allungati e ruotati dal taglio semplice, a indicare il senso del taglio.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.45"
+  },
+  {
+    "id": "st-c11-piega-def-033",
+    "topic": "scienze-terra",
+    "question": "Quando si forma una piega?",
+    "suggestion": "Le rocce non si rompono.",
+    "options": [
+      "Quando le rocce si comportano in modo duttile sotto sforzi compressivi",
+      "Quando le rocce si comportano in modo fragile sotto l'effetto di sforzi estensivi",
+      "Quando uno strato affonda nel sedimento molle sottostante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una piega è una deformazione curva di strati originariamente piani, che si forma quando le rocce si comportano in modo duttile sotto sforzi compressivi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-fill-cerniera-034",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "In una piega, la parte di massima curvatura si chiama zona di ___.",
+    "answers": [["cerniera"]],
+    "suggestion": "Ai suoi lati si trovano i fianchi.",
+    "explanation": "La zona di cerniera è la parte di massima curvatura; ai lati si trovano i fianchi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-piano-assiale-035",
+    "topic": "scienze-terra",
+    "question": "Che cos'è il piano assiale di una piega?",
+    "suggestion": "Collega i punti di massima curvatura di strati diversi.",
+    "options": [
+      "La superficie che unisce le cerniere degli strati successivi",
+      "La superficie che unisce i punti in cui la curvatura cambia segno",
+      "La superficie d'inviluppo che definisce l'ampiezza della piega"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il piano assiale è la superficie che unisce le cerniere degli strati successivi; le linee di flesso sono i punti dove la curvatura cambia segno.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-antiforme-anticlinale-036",
+    "topic": "scienze-terra",
+    "question": "Quando antiforme e anticlinale coincidono?",
+    "suggestion": "Un criterio è geometrico, l'altro stratigrafico.",
+    "options": [
+      "Sempre, perché sono sinonimi",
+      "Solo se il piano assiale della piega è coricato",
+      "Solo se la successione non è rovesciata"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'antiforme è convessa verso l'alto (criterio geometrico), l'anticlinale ha al nucleo le rocce più antiche (criterio stratigrafico): coincidono solo se la successione non è rovesciata.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-antiforme-sinclinale-037",
+    "topic": "scienze-terra",
+    "question": "Se una successione viene prima rovesciata e poi piegata, un'antiforme con rocce più recenti al nucleo è:",
+    "suggestion": "Applica il criterio stratigrafico.",
+    "options": [
+      "Un'anticlinale",
+      "Una sinforme",
+      "Una sinclinale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rocce più recenti al nucleo definiscono una sinclinale, anche se la piega è convessa verso l'alto (antiforme): per questo i due criteri vanno tenuti distinti.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.47"
+  },
+  {
+    "id": "st-c11-coricata-038",
+    "topic": "scienze-terra",
+    "question": "Come si chiama una piega con piano assiale quasi orizzontale?",
+    "suggestion": "È 'sdraiata'.",
+    "options": [
+      "Rovesciata",
+      "Subverticale",
+      "Mediamente inclinata",
+      "Coricata"
+    ],
+    "correctIndex": 3,
+    "explanation": "Piega coricata: piano assiale quasi orizzontale. Rovesciata: un fianco ha superato la verticale.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-parallelo-039",
+    "topic": "scienze-terra",
+    "question": "Quando si parla di piegamento parallelo?",
+    "suggestion": "Riguarda lo spessore degli strati.",
+    "options": [
+      "Quando i fianchi della piega sono paralleli al piano assiale",
+      "Quando lo spessore degli strati, misurato perpendicolarmente, resta costante",
+      "Quando più pieghe successive hanno piani assiali paralleli ed equidistanti tra loro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si parla di piegamento parallelo quando lo spessore degli strati, misurato perpendicolarmente agli strati stessi, resta costante.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-foliazione-piano-assiale-040",
+    "topic": "scienze-terra",
+    "question": "Come si dispone la foliazione di piano assiale rispetto alla direzione di massimo accorciamento?",
+    "suggestion": "Lo mostrano le ellissi dello strain.",
+    "options": [
+      "Perpendicolarmente alla direzione di massimo accorciamento",
+      "Parallelamente alla direzione di massimo accorciamento",
+      "Con un angolo di circa 45° rispetto alla direzione di massimo accorciamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le ellissi dello strain mostrano che la foliazione di piano assiale si dispone perpendicolarmente alla direzione di massimo accorciamento.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.46"
+  },
+  {
+    "id": "st-c11-clivaggio-scistosita-041",
+    "topic": "scienze-terra",
+    "question": "Che forma assume la foliazione di piano assiale nelle rocce a grana fine?",
+    "suggestion": "Nelle metamorfiche invece è una scistosità.",
+    "options": [
+      "Di una scistosità di minerali lamellari",
+      "Di una laminazione incrociata prodotta dalle correnti durante la deposizione",
+      "Di un clivaggio, cioè una fitta serie di superfici di separazione"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nelle rocce a grana fine la foliazione di piano assiale assume la forma di un clivaggio; nelle metamorfiche di una scistosità, cioè un'orientazione dei minerali lamellari.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.46"
+  }
+]

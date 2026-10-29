@@ -1,0 +1,800 @@
+[
+  {
+    "id": "st-c07-magma-def-001",
+    "topic": "scienze-terra",
+    "question": "Che cos'è un magma?",
+    "suggestion": "È un liquido, ma di che cosa?",
+    "options": [
+      "Un fuso silicatico, a temperature tra circa 860 e 1400 °C",
+      "Un fuso carbonatico, a temperature tra circa 400 e 800 °C",
+      "Una miscela di cristalli solidi e gas a oltre 2000 °C di temperatura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un magma è un fuso silicatico, cioè un liquido formato da silicati fusi, che si trova normalmente tra 860 e 1400 °C.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-vicino-cristallizzazione-002",
+    "topic": "scienze-terra",
+    "question": "Quale caratteristica importante del magma riguarda la sua temperatura di cristallizzazione?",
+    "suggestion": "Basta poco perché inizi a formare cristalli.",
+    "options": [
+      "Si trova sempre almeno 500 °C al di sopra della propria temperatura di cristallizzazione iniziale",
+      "Si trova permanentemente in condizioni prossime alla propria temperatura di cristallizzazione",
+      "Cristallizza tutto insieme a una temperatura unica, uguale per tutti i minerali"
+    ],
+    "correctIndex": 1,
+    "explanation": "I magmi si trovano permanentemente vicino alla loro temperatura di cristallizzazione: basta un piccolo raffreddamento perché inizino a formare cristalli.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.24-25"
+  },
+  {
+    "id": "st-c07-elementi-maggiori-003",
+    "topic": "scienze-terra",
+    "question": "Quali sono i sette elementi maggiori di un magma, combinati con l'ossigeno?",
+    "suggestion": "Tra questi ci sono i due costruttori di struttura.",
+    "options": [
+      "Si, Al, Ca, Fe, Mg, Na, K",
+      "Si, Al, C, Fe, Mg, Na, S",
+      "Si, Ti, Ca, Fe, Mn, Na, P",
+      "C, Al, Ca, Fe, Mg, Cl, K"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il magma è composto da sette elementi maggiori, Si, Al, Ca, Fe, Mg, Na e K, combinati con l'ossigeno sotto forma di ioni.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-acidi-basici-004",
+    "topic": "scienze-terra",
+    "question": "Che cosa distingue un magma acido da un magma basico?",
+    "suggestion": "Pensa a quali elementi abbondano in ciascuno.",
+    "options": [
+      "L'acido è ricco in ferro e magnesio, il basico in silicio e alluminio",
+      "L'acido contiene più acqua disciolta, il basico più anidride carbonica",
+      "L'acido è ricco in silicio e alluminio, il basico in ferro e magnesio"
+    ],
+    "correctIndex": 2,
+    "explanation": "I magmi acidi sono ricchi in silicio e alluminio, i basici in ferro e magnesio. La prima opzione inverte i termini.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-sottosaturo-005",
+    "topic": "scienze-terra",
+    "question": "Che cosa sono i minerali sottosaturi in silice?",
+    "suggestion": "Pensa alla nefelina che, con altra silice, darebbe albite.",
+    "options": [
+      "Minerali che hanno perso silice per alterazione superficiale",
+      "Minerali che, reagendo con altra silice, darebbero un minerale più ricco in silicio",
+      "Minerali che contengono più silice di quanta ne possa ospitare la loro struttura cristallina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un minerale sottosaturo è un minerale che, reagendo con altra silice, darebbe un minerale più ricco in silicio: nefelina + 2SiO₂ → albite, kalsilite → ortoclasio, forsterite + SiO₂ → enstatite.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-forsterite-enstatite-006",
+    "topic": "scienze-terra",
+    "question": "Con l'aggiunta di SiO₂, quale minerale sottosaturo darebbe enstatite?",
+    "suggestion": "È un'olivina magnesiaca.",
+    "options": [
+      "La nefelina",
+      "La kalsilite",
+      "La forsterite",
+      "Il plagioclasio"
+    ],
+    "correctIndex": 2,
+    "explanation": "La forsterite con SiO₂ darebbe enstatite; la nefelina darebbe albite e la kalsilite ortoclasio.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-forza-campo-007",
+    "topic": "scienze-terra",
+    "question": "Come si definisce la forza di campo di un catione?",
+    "suggestion": "Dipende da carica e dimensione.",
+    "options": [
+      "Rapporto tra valenza e quadrato del raggio ionico",
+      "Prodotto tra valenza e numero di coordinazione",
+      "Rapporto tra raggio ionico e valenza elevata al quadrato"
+    ],
+    "correctIndex": 0,
+    "explanation": "La forza di campo è il rapporto tra valenza e quadrato del raggio ionico: Si e Al, piccoli e molto carichi, hanno forza di campo alta.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-costruttori-008",
+    "topic": "scienze-terra",
+    "question": "Perché silicio e alluminio sono detti elementi costruttori di struttura nel magma?",
+    "suggestion": "Pensa a che cosa formano con l'ossigeno anche allo stato liquido.",
+    "options": [
+      "Perché hanno bassa forza di campo e interrompono le reti di tetraedri",
+      "Perché hanno alta forza di campo e formano tetraedri collegati in reti",
+      "Perché sono gli elementi più abbondanti e determinano la densità del fuso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Si e Al hanno alta forza di campo e formano con l'ossigeno tetraedri che si collegano in reti anche nel liquido; Fe, Mg, Ca, Na, K, con forza di campo minore, interrompono le reti (modificatori).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-fill-modificatori-009",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Ferro, magnesio, calcio, sodio e potassio, che interrompono le reti di tetraedri nel fuso, sono detti elementi ___ di struttura.",
+    "answers": [["modificatori", "modificatore"]],
+    "suggestion": "Sono l'opposto dei costruttori.",
+    "explanation": "Con forza di campo minore rispetto a Si e Al, questi cationi interrompono le reti di tetraedri: sono modificatori di struttura.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-viscosita-silice-010",
+    "topic": "scienze-terra",
+    "question": "Perché un magma ricco in silice è più viscoso?",
+    "suggestion": "Più costruttori significa reti più estese.",
+    "options": [
+      "Perché è più denso e quindi scorre con maggiore difficoltà",
+      "Perché è più caldo e i cristalli già formati ne ostacolano il flusso",
+      "Perché è più polimerizzato, con reti di tetraedri più estese"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un magma ricco in silice è più polimerizzato e quindi più viscoso. La densità ha anzi andamento opposto: i magmi silicei sono meno densi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-viscosita-fattori-011",
+    "topic": "scienze-terra",
+    "question": "Come varia la viscosità di un magma con temperatura e contenuto d'acqua?",
+    "suggestion": "Entrambi i fattori agiscono nello stesso senso.",
+    "options": [
+      "Aumenta con la temperatura e diminuisce invece con il contenuto d'acqua disciolta",
+      "Diminuisce con l'aumento sia della temperatura sia del contenuto d'acqua",
+      "Aumenta con l'aumento sia della temperatura sia del contenuto d'acqua"
+    ],
+    "correctIndex": 1,
+    "explanation": "La viscosità diminuisce con l'aumento della temperatura e del contenuto d'acqua; la solubilità dell'acqua cresce con la pressione ed è maggiore nei fusi più silicei.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.24"
+  },
+  {
+    "id": "st-c07-densita-012",
+    "topic": "scienze-terra",
+    "question": "Quale fuso ha la densità più bassa tra quelli citati?",
+    "suggestion": "La densità ha un andamento opposto rispetto alla silice.",
+    "options": [
+      "Il basalto alcalino, circa 2,7-2,8 g/cm³",
+      "Il basalto tholeiitico, circa 2,6 g/cm³",
+      "La riolite, circa 2,2 g/cm³",
+      "L'andesite, circa 2,4 g/cm³"
+    ],
+    "correctIndex": 2,
+    "explanation": "La densità decresce con la silice: riolite ~2,2, andesite ~2,4, basalto tholeiitico ~2,6, basalto alcalino ~2,7-2,8 g/cm³.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-eruzioni-esplosive-013",
+    "topic": "scienze-terra",
+    "question": "Perché i magmi acidi danno origine a eruzioni esplosive?",
+    "suggestion": "Pensa a che cosa trattiene un liquido molto viscoso.",
+    "options": [
+      "Perché sono densi e fluidi e scorrono rapidamente formando colate",
+      "Perché sono viscosi e ricchi d'acqua e trattengono i gas",
+      "Perché sono poveri di gas e si solidificano istantaneamente in superficie"
+    ],
+    "correctIndex": 1,
+    "explanation": "I magmi acidi, viscosi e ricchi d'acqua, trattengono i gas e danno eruzioni esplosive (pliniane, nubi ardenti, base surge, ignimbriti). I basici, densi e fluidi, danno eruzioni effusive.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-pahoehoe-014",
+    "topic": "scienze-terra",
+    "question": "Che differenza c'è tra lave pahoehoe e lave aa?",
+    "suggestion": "Dipende da viscosità e gradienti di velocità.",
+    "options": [
+      "Le pahoehoe sono lisce e a corde, per bassa viscosità; le aa scoriacee, per viscosità maggiore",
+      "Le pahoehoe sono scoriacee, per alta viscosità; le aa lisce e a corde, per bassa viscosità",
+      "Le pahoehoe si formano sotto il mare con bordo vetroso; le aa si formano solo sulla terraferma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pahoehoe: lisce e a corde, con viscosità bassa; aa: scoriacee, con viscosità o gradienti di velocità maggiori. Le lave sottomarine con bordo vetroso sono le pillow lava.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-fill-pillow-015",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Le lave a cuscino con bordo vetroso, prodotte dal rapido raffreddamento sotto il mare, si chiamano ___ lava.",
+    "answers": [["pillow"]],
+    "suggestion": "In inglese 'cuscino'.",
+    "explanation": "Sotto il mare il rapido raffreddamento produce pillow lava, cioè lave a cuscino con un bordo vetroso.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-bowen-serie-016",
+    "topic": "scienze-terra",
+    "question": "Che cosa esprime la serie di Bowen?",
+    "suggestion": "Riguarda un magma che si raffredda.",
+    "options": [
+      "L'ordine di fusione delle rocce crostali durante il metamorfismo regionale",
+      "L'ordine di cristallizzazione dei minerali da un magma che si raffredda",
+      "L'ordine di stabilità dei minerali sedimentari durante il trasporto fluviale"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie di Bowen esprime l'ordine di cristallizzazione dei minerali da un magma che si raffredda e vale per tutte le rocce magmatiche.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-bowen-discontinua-017",
+    "topic": "scienze-terra",
+    "question": "Perché la serie dei minerali scuri di Bowen si dice discontinua?",
+    "suggestion": "Guarda la classe strutturale di olivina, pirosseno, anfibolo e biotite.",
+    "options": [
+      "Perché a ogni passaggio cambia la struttura del minerale",
+      "Perché il minerale resta lo stesso e cambia solo la composizione",
+      "Perché la cristallizzazione si interrompe tra un minerale e l'altro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella serie dei minerali scuri si passa da un nesosilicato (olivina) a un inosilicato a catena semplice (pirosseno), a uno a catena doppia (anfibolo) e a un fillosilicato (biotite): la struttura cambia a ogni passaggio.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-bowen-ordine-scuri-018",
+    "topic": "scienze-terra",
+    "question": "Qual è l'ordine di cristallizzazione nella serie dei minerali scuri di Bowen?",
+    "suggestion": "Si parte dal nesosilicato e si arriva al fillosilicato.",
+    "options": [
+      "Pirosseno, olivina, biotite, anfibolo",
+      "Olivina, anfibolo, pirosseno, biotite",
+      "Biotite, anfibolo, pirosseno, olivina",
+      "Olivina, pirosseno, anfibolo, biotite"
+    ],
+    "correctIndex": 3,
+    "explanation": "La serie discontinua procede: olivina, pirosseno, anfibolo, biotite; i primi termini cristallizzano alle temperature più alte.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.25"
+  },
+  {
+    "id": "st-c07-bowen-continua-019",
+    "topic": "scienze-terra",
+    "question": "Come si evolve la serie continua dei plagioclasi nella serie di Bowen?",
+    "suggestion": "La struttura resta la stessa; cambia il chimismo.",
+    "options": [
+      "Dall'albite sodica all'anortite calcica, con struttura che cambia",
+      "Dall'anortite calcica all'albite sodica, con la stessa struttura",
+      "Dal K-feldspato all'anortite, con aumento progressivo del potassio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La serie continua comincia con l'anortite (plagioclasio calcico) e termina con l'albite (sodico): la struttura resta la stessa e cambia gradualmente solo la composizione, per isomorfismo di II specie.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.25-26"
+  },
+  {
+    "id": "st-c07-bowen-finale-020",
+    "topic": "scienze-terra",
+    "question": "In quale sequenza unica confluiscono le due serie di Bowen alle temperature più basse?",
+    "suggestion": "Sono i minerali tipici di un granito.",
+    "options": [
+      "Biotite, anfibolo e plagioclasio calcico",
+      "K-feldspato, muscovite e quarzo",
+      "Olivina, pirosseno e anortite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alle temperature più basse le due serie si riuniscono in un'unica sequenza: K-feldspato, muscovite e quarzo.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-bowen-regole-021",
+    "topic": "scienze-terra",
+    "question": "Quali sono le due regole generali ricavate dalla serie di Bowen?",
+    "suggestion": "Una riguarda il colore dei minerali, l'altra la silice.",
+    "options": [
+      "Cristallizzano prima i minerali chiari e poi gli scuri, prima i più ricchi in silice e poi i più poveri",
+      "Cristallizzano prima i minerali scuri e poi i chiari, prima i più poveri in silice e poi i più ricchi",
+      "Cristallizzano insieme scuri e chiari, e la silice del fuso resta costante fino all'ultimo minerale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cristallizzano prima i minerali scuri e poi quelli chiari, e prima i minerali più poveri in silice e poi i più ricchi, come confermano i rapporti Si/O.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-si-o-quarzo-022",
+    "topic": "scienze-terra",
+    "question": "Quanto vale il rapporto Si/O, in moli percentuali, nel quarzo?",
+    "suggestion": "È il valore massimo della serie, quello dei tettosilicati puri.",
+    "options": [
+      "25",
+      "33",
+      "45",
+      "50"
+    ],
+    "correctIndex": 3,
+    "explanation": "Si/O: 25 olivina, 33 pirosseno e anfibolo, 30 biotite e muscovite, 25 plagioclasio calcico, 38 sodico, 45 K-feldspato, 50 quarzo.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-rocce-coppie-023",
+    "topic": "scienze-terra",
+    "question": "Quale coppia plutonica-vulcanica corrisponde all'ultimo termine della sequenza di rocce di Bowen?",
+    "suggestion": "È la coppia più ricca in silice.",
+    "options": [
+      "Gabbro e basalto",
+      "Diorite e andesite",
+      "Sienite e trachite",
+      "Granito e riolite"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sequenza va dalla peridotite (ultrafemica) a gabbro-basalto, diorite-andesite, sienite-trachite, fino a granito-riolite.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-diorite-024",
+    "topic": "scienze-terra",
+    "question": "Qual è l'equivalente vulcanico della diorite?",
+    "suggestion": "Nella sequenza di Bowen sta tra basalto e trachite.",
+    "options": [
+      "L'andesite",
+      "Il basalto",
+      "La riolite",
+      "La trachite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le coppie plutonico-vulcaniche sono: gabbro-basalto, diorite-andesite, sienite-trachite, granito-riolite.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-cristallizzazione-frazionata-025",
+    "topic": "scienze-terra",
+    "question": "Che cosa permette di ottenere la cristallizzazione frazionata secondo la serie di Bowen?",
+    "suggestion": "I cristalli formati vengono separati dal liquido.",
+    "options": [
+      "Una sola roccia, con la composizione media del magma iniziale",
+      "Un'intera serie di rocce sempre più acide da uno stesso magma",
+      "Rocce sempre più basiche, perché il fuso si arricchisce in ferro e magnesio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Separando i cristalli che si formano, uno stesso magma può produrre un'intera serie di rocce sempre più ricche in silice, cioè più acide.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-fill-melanocratiche-026",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Le rocce ricche di minerali scuri, contenenti ferro e magnesio, si dicono ___.",
+    "answers": [["melanocratiche", "melanocratica", "melanocratici"]],
+    "suggestion": "Dal greco 'melas', nero.",
+    "explanation": "Le rocce melanocratiche sono ricche di minerali scuri (Fe, Mg); quelle leucocratiche di minerali chiari come feldspati e quarzo.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-problema-olivina-027",
+    "topic": "scienze-terra",
+    "question": "Quale problema pone l'olivina come primo termine della serie di Bowen?",
+    "suggestion": "Ricorda la definizione di minerale sottosaturo.",
+    "options": [
+      "È sottosatura in silice, eppure da essa si arriva a rocce sature",
+      "È troppo ricca in silice per cristallizzare a temperature elevate",
+      "Non può coesistere con il plagioclasio calcico in nessuna roccia"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'olivina, primo termine, è sottosatura in silice: il problema è come un magma che la produce possa evolvere in liquidi saturi. Lo risolve la fusione incongruente dell'enstatite.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-streckeisen-028",
+    "topic": "scienze-terra",
+    "question": "Nel diagramma di Streckeisen (Q-A-P-F), dove si trovano le rocce sottosature?",
+    "suggestion": "Il triangolo superiore contiene il quarzo.",
+    "options": [
+      "Sopra la linea A-P, nel triangolo con il quarzo",
+      "Sotto la linea A-P, nel triangolo con i feldspatoidi",
+      "Esattamente lungo la linea A-P, senza quarzo né feldspatoidi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nel doppio triangolo Q-A-P-F le rocce sature stanno sopra la linea A-P, quelle sottosature sotto.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.26"
+  },
+  {
+    "id": "st-c07-albite-anortite-temp-029",
+    "topic": "scienze-terra",
+    "question": "A quali temperature cristallizzano anortite e albite pure?",
+    "suggestion": "L'anortite cristallizza molto più in alto.",
+    "options": [
+      "Anortite 768 °C, albite 1234 °C",
+      "Anortite 1550 °C, albite 1391 °C",
+      "Anortite 1234 °C, albite 768 °C"
+    ],
+    "correctIndex": 2,
+    "explanation": "L'anortite pura cristallizza a 1234 °C e l'albite a 768 °C; i composti intermedi a temperature intermedie. 1550 e 1391 °C sono le temperature di anortite e diopside nel sistema diopside-anortite.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.27"
+  },
+  {
+    "id": "st-c07-liquidus-030",
+    "topic": "scienze-terra",
+    "question": "Nel diagramma albite-anortite, che cosa rappresenta il liquidus?",
+    "suggestion": "È la curva superiore del diagramma.",
+    "options": [
+      "La curva al di sopra della quale esiste solo liquido",
+      "La curva al di sotto della quale esiste solo solido",
+      "La linea orizzontale dove cristallizzano due minerali puri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Il liquidus è la curva superiore, al di sopra della quale esiste solo liquido; il solidus quella inferiore, al di sotto della quale esiste solo solido. Tra le due coesistono liquido e cristalli.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.27"
+  },
+  {
+    "id": "st-c07-primo-solido-031",
+    "topic": "scienze-terra",
+    "question": "Quando un liquido albite-anortite raggiunge il liquidus, che composizione ha il primo solido?",
+    "suggestion": "Il solido si arricchisce nella fase stabile alle alte temperature.",
+    "options": [
+      "Uguale a quella del liquido, letta sul liquidus alla stessa temperatura",
+      "Arricchita in anortite, letta sul solidus alla stessa temperatura",
+      "Arricchita in albite, letta sul solidus alla stessa temperatura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il primo solido, letto sul solidus alla stessa temperatura, è arricchito in anortite (fase stabile ad alta T); il fuso si arricchisce di conseguenza in albite.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.27"
+  },
+  {
+    "id": "st-c07-regola-leva-032",
+    "topic": "scienze-terra",
+    "question": "Con la regola della leva, come si ricava la frazione di solido a una data temperatura?",
+    "suggestion": "La frazione di una fase è il tratto 'opposto' a essa sul segmento.",
+    "options": [
+      "Tratto tra composizione totale e solido, diviso per l'intero segmento",
+      "Tratto tra liquido e solido, diviso per il valore della composizione totale",
+      "Tratto tra composizione totale e liquido, diviso per l'intero segmento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sul segmento liquido-solido, la frazione di solido è il tratto tra composizione totale e liquido diviso per l'intero segmento; quella di liquido il tratto tra composizione totale e solido.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.27"
+  },
+  {
+    "id": "st-c07-equilibrio-frazionata-033",
+    "topic": "scienze-terra",
+    "question": "Nel sistema albite-anortite, che cosa si ottiene con una cristallizzazione all'equilibrio?",
+    "suggestion": "Il solido reagisce continuamente con il liquido.",
+    "options": [
+      "Una serie di solidi a contenuto crescente in albite, spesso zonati",
+      "Un unico plagioclasio con la composizione del liquido iniziale",
+      "Due plagioclasi distinti separati da una lacuna di miscibilità"
+    ],
+    "correctIndex": 1,
+    "explanation": "All'equilibrio il solido reagisce con il liquido e alla fine si ottiene un unico plagioclasio con la composizione iniziale; la cristallizzazione frazionata produce invece solidi via via più albitici e cristalli zonati.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.27"
+  },
+  {
+    "id": "st-c07-zonatura-034",
+    "topic": "scienze-terra",
+    "question": "Come varia la composizione in un plagioclasio zonato prodotto da cristallizzazione frazionata?",
+    "suggestion": "Il nucleo si è formato per primo, a temperatura più alta.",
+    "options": [
+      "Calcio crescente e sodio decrescente dal nucleo verso il bordo",
+      "Sodio crescente e calcio decrescente dal nucleo verso il bordo",
+      "Potassio crescente e sodio decrescente dal nucleo verso il bordo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il nucleo, formato per primo, è più calcico; il bordo più sodico: la zonatura dimostra che i cristalli non hanno avuto il tempo di riequilibrarsi con il liquido.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.27-28"
+  },
+  {
+    "id": "st-c07-diopside-anortite-miscibilita-035",
+    "topic": "scienze-terra",
+    "question": "Che tipo di miscibilità hanno diopside e anortite?",
+    "suggestion": "Questo sistema ha un eutettico.",
+    "options": [
+      "Totalmente miscibili sia allo stato liquido sia allo stato solido",
+      "Totalmente immiscibili sia allo stato liquido sia allo stato solido cristallino",
+      "Totalmente miscibili allo stato liquido, immiscibili allo stato solido"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diopside e anortite sono totalmente miscibili allo stato liquido ma totalmente immiscibili allo stato solido; sono un modello semplice per gabbri e basalti (pirosseno + plagioclasio calcico).",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.28"
+  },
+  {
+    "id": "st-c07-fill-eutettico-036",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "Il minimo marcato della temperatura di cristallizzazione nelle miscele diopside-anortite prende il nome di ___.",
+    "answers": [["eutettico", "punto eutettico"]],
+    "suggestion": "Dal greco 'che fonde facilmente'.",
+    "explanation": "Le miscele intermedie hanno un minimo di temperatura di cristallizzazione, l'eutettico: nella fig. 4.1 intorno al 42% di anortite e circa 1270 °C.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.28"
+  },
+  {
+    "id": "st-c07-eutettico-percorso-037",
+    "topic": "scienze-terra",
+    "question": "Un liquido più ricco in anortite dell'eutettico raggiunge il liquidus: che cosa succede poi?",
+    "suggestion": "In questo sistema cristallizza un minerale puro alla volta.",
+    "options": [
+      "Cristallizza un plagioclasio sempre più sodico che reagisce continuamente con il liquido residuo",
+      "Cristallizzano subito insieme diopside e anortite, a temperatura costante",
+      "Cristallizza anortite pura e il liquido scende lungo il liquidus verso l'eutettico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cristallizza anortite pura, il liquido si impoverisce di anortite e scende lungo il liquidus verso l'eutettico, dove diopside e anortite cristallizzano insieme a temperatura costante.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.28"
+  },
+  {
+    "id": "st-c07-fusione-eutettica-038",
+    "topic": "scienze-terra",
+    "question": "Riscaldando una roccia ad anortite e diopside fino alla fusione, che composizione ha il primo fuso?",
+    "suggestion": "È indipendente dalla proporzione iniziale dei due minerali.",
+    "options": [
+      "La stessa proporzione di minerali presente nella roccia di partenza",
+      "Anortite pura, perché è il minerale con temperatura di fusione più alta",
+      "Una composizione eutettica, qualunque sia la proporzione iniziale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ogni roccia ad anortite e diopside riscaldata produce inizialmente un fuso di composizione eutettica, qualunque sia la proporzione iniziale dei due minerali.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.28"
+  },
+  {
+    "id": "st-c07-diopside-bowen-039",
+    "topic": "scienze-terra",
+    "question": "Che cosa spiega il sistema diopside-anortite rispetto alla serie di Bowen?",
+    "suggestion": "Pensa a gabbri e basalti.",
+    "options": [
+      "Il passaggio olivina-pirosseno nel ramo discontinuo dei minerali scuri",
+      "La cristallizzazione congiunta di pirosseno e plagioclasio",
+      "L'arricchimento progressivo in sodio del plagioclasio nel ramo continuo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Il sistema diopside-anortite spiega la cristallizzazione contemporanea di pirosseno e plagioclasio nelle rocce basiche, e mostra che i due rami di Bowen procedono in parallelo. Il passaggio olivina-pirosseno è spiegato dall'enstatite, l'arricchimento in sodio dal sistema albite-anortite.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf pp.26, 28"
+  },
+  {
+    "id": "st-c07-nefelina-silice-040",
+    "topic": "scienze-terra",
+    "question": "Nel sistema nefelina-silice, perché un fuso sottosaturo non può diventare saturo per semplice cristallizzazione?",
+    "suggestion": "Un minerale intermedio divide il diagramma in due parti.",
+    "options": [
+      "Perché l'albite fa da barriera termica tra due eutettici",
+      "Perché la nefelina reagisce con il liquido in un punto peritettico",
+      "Perché la tridimite cristallizza per prima e sottrae silice al fuso"
+    ],
+    "correctIndex": 0,
+    "explanation": "L'albite divide il diagramma in due parti, ciascuna con il suo eutettico: un fuso sottosaturo evolve verso E₁ e uno saturo verso E₂, senza poter attraversare la barriera termica dell'albite.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf pp.28-29"
+  },
+  {
+    "id": "st-c07-fill-incongruente-041",
+    "type": "fill",
+    "topic": "scienze-terra",
+    "question": "La fusione dell'enstatite, che produce forsterite solida e un fuso più ricco in silice, si dice fusione ___.",
+    "answers": [["incongruente"]],
+    "suggestion": "Il liquido non ha la stessa composizione del solido di partenza.",
+    "explanation": "Alla temperatura di fusione l'enstatite non dà un liquido della stessa composizione, ma forsterite solida + liquido più siliceo: è una fusione incongruente.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.29"
+  },
+  {
+    "id": "st-c07-enstatite-reazione-042",
+    "topic": "scienze-terra",
+    "question": "Che cosa si forma quando l'enstatite fonde in modo incongruente?",
+    "suggestion": "Un solido più povero in silice e un liquido più ricco.",
+    "options": [
+      "Diopside solido e un fuso arricchito in magnesio",
+      "Forsterite solida e un fuso arricchito in silice",
+      "Cristobalite solida e un fuso arricchito in magnesio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mg₂Si₂O₆ = Mg₂SiO₄ (forsterite, solido) + SiO₂ (nel liquido): si forma forsterite e un fuso arricchito in silice.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.29"
+  },
+  {
+    "id": "st-c07-peritettico-043",
+    "topic": "scienze-terra",
+    "question": "Che cos'è il punto peritettico P nel diagramma Mg₂SiO₄-SiO₂?",
+    "suggestion": "A 1557 °C un solido reagisce con il liquido.",
+    "options": [
+      "Un punto di reazione in cui un solido reagisce con il liquido per formarne un altro",
+      "Un punto in cui due solidi cristallizzano insieme a temperatura costante",
+      "Un punto in cui il sistema si separa in due liquidi immiscibili di composizione diversa"
+    ],
+    "correctIndex": 0,
+    "explanation": "P (1557 °C) è un punto di reazione: la forsterite reagisce con il liquido per formare enstatite. Due solidi insieme a T costante definiscono un eutettico (1543 °C, protoenstatite-cristobalite); i due liquidi compaiono a 1695 °C.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.29"
+  },
+  {
+    "id": "st-c07-enstatite-bowen-044",
+    "topic": "scienze-terra",
+    "question": "Quale passaggio della serie di Bowen è spiegato dalla fusione incongruente dell'enstatite?",
+    "suggestion": "Bowen parlava di 'serie di reazione'.",
+    "options": [
+      "Il passaggio anfibolo-biotite, in cui la catena doppia si trasforma in strato",
+      "Il passaggio anortite-albite, in cui il plagioclasio si arricchisce in sodio",
+      "Il passaggio olivina-pirosseno, in cui l'olivina reagisce con il liquido"
+    ],
+    "correctIndex": 2,
+    "explanation": "La forsterite già formata reagisce con il fuso, che le cede silice, e si trasforma in enstatite: è il passaggio olivina-pirosseno del ramo discontinuo, una vera reazione tra cristalli e liquido.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.29"
+  },
+  {
+    "id": "st-c07-mantello-saturi-045",
+    "topic": "scienze-terra",
+    "question": "Come può un mantello sottosaturo, fatto di olivina ed enstatite, produrre magmi saturi?",
+    "suggestion": "Pensa al primo liquido che si forma per fusione parziale.",
+    "options": [
+      "Perché il primo liquido di fusione parziale è più ricco in silice dell'enstatite stessa",
+      "Perché l'olivina fonde per prima e cede al liquido tutto il suo contenuto in silice",
+      "Perché il mantello assimila sempre grandi volumi di rocce crostali ricche di quarzo durante la risalita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per la fusione incongruente dell'enstatite, il primo liquido prodotto dalla fusione parziale di olivina + enstatite è più ricco in silice dell'enstatite: da una sorgente sottosatura si ottengono magmi saturi.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.29"
+  },
+  {
+    "id": "st-c07-serie-magmatica-def-046",
+    "topic": "scienze-terra",
+    "question": "Che cos'è una serie magmatica?",
+    "suggestion": "C'è un magma 'genitore'.",
+    "options": [
+      "Un insieme di rocce ignee derivate per differenziazione da un unico magma parentale",
+      "Un insieme di magmi di origine diversa che si mescolano nella stessa camera magmatica",
+      "La sequenza di eruzioni successive di uno stesso vulcano nel corso del tempo geologico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Le serie magmatiche sono insiemi di rocce ignee che derivano per differenziazione da un unico magma parentale (o genitore).",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-filtro-pressa-047",
+    "topic": "scienze-terra",
+    "question": "In che cosa consiste la differenziazione per filtro-pressa?",
+    "suggestion": "Pensa a spremere qualcosa.",
+    "options": [
+      "I cristalli più densi si depositano sul fondo della camera magmatica",
+      "Il liquido residuo viene spremuto e separato dai cristalli",
+      "Il magma fonde e ingloba le rocce incassanti che attraversa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nella filtro-pressa il liquido residuo viene spremuto e separato dai cristalli. Il deposito sul fondo è la differenziazione per gravità, l'inglobamento delle incassanti l'assimilazione.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-alcali-silice-048",
+    "topic": "scienze-terra",
+    "question": "Su quale rapporto si basa la distinzione tra serie alcaline e subalcaline?",
+    "suggestion": "Il diagramma riporta la silice in ascissa.",
+    "options": [
+      "Rapporto FeO/MgO a parità di contenuto in silice",
+      "Na₂O rispetto a K₂O, a parità di alcali totali",
+      "Alcali totali (Na₂O + K₂O) rispetto alla silice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Serie alcaline e subalcaline si distinguono sul diagramma alcali totali (Na₂O + K₂O) - silice. FeO/MgO distingue tholeiitiche e calcalcaline; Na₂O-K₂O suddivide le alcaline.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-afm-049",
+    "topic": "scienze-terra",
+    "question": "Nel diagramma AFM, come evolvono i magmi tholeiitici rispetto ai calcalcalini?",
+    "suggestion": "I tholeiitici hanno tenori più alti di FeO/MgO.",
+    "options": [
+      "Con un aumento iniziale di alcali, andando subito da M verso A",
+      "Con un aumento iniziale del ferro, avvicinandosi a F prima di piegare verso A",
+      "Con un aumento iniziale del magnesio, allontanandosi progressivamente dal vertice A verso M"
+    ],
+    "correctIndex": 1,
+    "explanation": "I magmi tholeiitici evolvono con un significativo aumento iniziale del ferro (la curva si avvicina a F prima di piegare verso A); i calcalcalini con un progressivo aumento degli alcali, da M direttamente verso A.",
+    "difficulty": "hard",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-tholeiitici-origine-050",
+    "topic": "scienze-terra",
+    "question": "Dove si formano i magmi tholeiitici?",
+    "suggestion": "Il mantello fonde per risalita adiabatica.",
+    "options": [
+      "Negli archi di isole associati alle fosse oceaniche",
+      "Nei punti caldi in mezzo agli oceani, come le Hawaii",
+      "Nei vulcani isolati in mezzo ai continenti",
+      "Lungo le dorsali oceaniche"
+    ],
+    "correctIndex": 3,
+    "explanation": "I magmi tholeiitici si formano lungo le dorsali oceaniche per risalita adiabatica del mantello; i calcalcalini negli archi e cordigliere; gli alcalini nei punti caldi.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-calcalcalini-051",
+    "topic": "scienze-terra",
+    "question": "Perché negli archi di isole e nelle cordigliere si formano magmi calcalcalini?",
+    "suggestion": "Pensa a che cosa abbassa il liquidus del mantello.",
+    "options": [
+      "Perché un apporto di calore anomalo innalza la curva temperatura-profondità",
+      "Perché il mantello risale senza perdere calore mentre la pressione diminuisce",
+      "Perché l'acqua e i materiali sialici abbassano il liquidus del mantello"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei sistemi arco-fossa (Giappone, Ande) l'acqua e i materiali sialici abbassano il liquidus del mantello: si formano magmi calcalcalini. La risalita adiabatica è il meccanismo delle dorsali, l'apporto di calore quello dei punti caldi.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-alcalini-052",
+    "topic": "scienze-terra",
+    "question": "Quali contesti producono magmi alcalini?",
+    "suggestion": "Kilimangiaro, Hawaii, Azzorre.",
+    "options": [
+      "Le dorsali oceaniche, per risalita adiabatica del mantello",
+      "I punti caldi isolati, dentro continenti o oceani",
+      "Gli archi di isole, per l'acqua liberata dalla placca in subduzione"
+    ],
+    "correctIndex": 1,
+    "explanation": "I magmi alcalini si formano nei punti caldi in mezzo ai continenti (Kilimangiaro) o agli oceani (Hawaii, Azzorre), dove un apporto di calore superiore al normale innalza la curva temperatura-profondità.",
+    "difficulty": "easy",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-rift-transizionali-053",
+    "topic": "scienze-terra",
+    "question": "Che tipo di magmi si hanno nei rift continentali come il Corno d'Africa?",
+    "suggestion": "Il carattere cambia nel tempo.",
+    "options": [
+      "Calcalcalini in tutte le fasi, per l'acqua liberata dalla crosta continentale fusa",
+      "Tholeiitici nelle prime fasi e alcalini in quelle mature",
+      "Transizionali: alcalini nelle prime fasi e tholeiitici in quelle mature"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nei rift continentali si hanno magmi transizionali, alcalini nelle prime fasi e tholeiitici nelle fasi mature. La seconda opzione inverte la sequenza.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.30"
+  },
+  {
+    "id": "st-c07-skaergaard-054",
+    "topic": "scienze-terra",
+    "question": "Perché la differenziazione per gravità produce rocce stratificate come nel complesso di Skaergaard?",
+    "suggestion": "Pensa a quali cristalli sono più pesanti.",
+    "options": [
+      "Perché i cristalli più densi, come olivina e pirosseno, si depositano sul fondo della camera",
+      "Perché il liquido residuo spremuto dai cristalli forma livelli alternati sulle pareti della camera",
+      "Perché il magma assimila a strati le rocce incassanti, ricche di quarzo, lungo le pareti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nella differenziazione per gravità i cristalli più densi (olivina, pirosseno) si depositano sul fondo della camera magmatica, formando rocce stratificate.",
+    "difficulty": "medium",
+    "source": "scienze della terra con immagini.pdf p.31"
+  }
+]
